@@ -1,0 +1,744 @@
+1
+00:00:00,624 --> 00:00:26,480
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Today we are joined by our co-host, Kyle Helson. Thank you, everybody, for listening. As always, if you are new here, please consider subscribing. And if you are a returning listener, well, you know the deal. If you are liking the podcast and you want to share it, word of mouth, up on a forum, wherever it is, goes a long way towards supporting the podcast. A five-star rating and a glowing review, wherever you do those kinds of things.
+
+2
+00:00:26,480 --> 00:00:39,872
+We are an ad-free podcast, so if you would like to donate to the show, you can always do so at empiricalcycling.com slash donate. And for today, we've got all the show notes up on the website at empiricalcycling.com if you want to check out any of the studies that we are talking about.
+
+3
+00:00:39,872 --> 00:01:09,168
+For all coaching and consultation inquiries, questions, comments, shoot me an email, empiricalcyclingatgmail.com or head over to the website. We got a contact form over there. And it's a good time. It's kind of early July, so it's a good time to get inquiries in while we've got spots open before the fall rush. And also let us know if you are a student or a developing athlete or a neopro kind of thing. And we are negotiable on rates for all of you folks because we know how much money that you realistically don't have and we want to help out anyway. So if you want to keep self-coaching, yeah, reach out for a consultation.
+
+4
+00:01:09,168 --> 00:01:34,464
+We're happy to help you keep the reins on yourself, but we'll give you the tools to plan and adjust your own training. Today, we've got a really, really fun episode because we're going to dig into a paper that I read probably 10 or 11 years ago, something like that. It came out in 2009, and I was kind of waiting for the right moment to get into this paper, but...
+
+5
+00:01:34,464 --> 00:01:55,232
+I don't think we're ever going to really find the right moment. And so I kind of came up with another tack to approach this paper. And that's what we're going to do today. But I'm not going to tell you what the exact angle on it really is until we kind of get through the paper and we start discussing the implications of it. So I think...
+
+6
+00:01:55,232 --> 00:02:22,704
+that there's a non-zero chance that I'll regret doing this podcast, and we'll talk about why at the end, but in the meantime. Always a good thing to lead off with. Yeah. Well, Kyle, you've kind of seen what we're about to do, so what are your thoughts on, well, because we're going to talk about AMPK again. So before we get into the background on AMPK, you know, what do you remember about it?
+
+7
+00:02:22,704 --> 00:02:51,936
+As studied a protein as it is, are you kind of excited about the angle that we're going to take on it today? Did you know that it could do this thing? I didn't know this, but having been mostly not a biochem major my whole life, I remember learning about AMPK in basic bio in college, and then obviously we've talked about it a bunch, but
+
+8
+00:02:51,936 --> 00:03:20,560
+I, it's the sort of thing where, you know, if I'm honest, I don't think about it deeply, probably like you do. So, or like, you know, someone who's a professional in the field does, but I think that it's kind of one of those things, like, if you're reading it, you're like, oh yeah, I've probably heard of that before. And maybe you don't think about it super deeply, just seeing it printed. You're like, oh yeah, yep, that's a thing. And it like clicks in your memory as I learned something about that.
+
+9
+00:03:20,560 --> 00:03:47,280
+I know it has an important function, but if you made me take the exam now, I'd be in deep trouble. Yeah, you are a long way from your pre-med classes, aren't you? Yeah, yeah, yeah. Which you did not end up doing because you are a doctor, but of physics and not medicine. Exactly, yeah. I mean, it's 2025, those classes are 2000, like 2007, 2008, so it's been a while. It's a while, but, you know, here we are.
+
+10
+00:03:47,440 --> 00:04:17,200
+Yeah, here we are. Okay. So we are talking about AMPK today. And as of this moment, I have not yet titled the podcast. So we'll find out. Otherwise, I would mention this title here or something related to it. But basically, let's do a refresher on AMPK. And we'll take kind of a more 10,000-foot view from it. Or what was that? A 330-meter view, if I can do the metric conversion.
+
+11
+00:04:17,264 --> 00:04:44,368
+I think that the people who have been listening to this podcast for a while will probably be familiar with it, and they're probably going to have a lot of questions as we go, or maybe they'll be like, they're gonna see this coming from a mile away, and hats off to you if that's you, and hats off to you even if not, because I just respect everybody who listens to the podcast because we've got a pretty excellent and astute audience, and I'm very happy about that.
+
+12
+00:04:44,816 --> 00:05:12,896
+AMP-K Yeah, we like everyone who's along for the ride. Yeah, really, we do. So yeah, so AMP-K is one of the best studied cellular stimuli for muscular endurance adaptation that we're aware of at the moment. I would not be surprised if like something else came up where it was like, wow, that's the biggest contributor of all. Like sometimes that stuff happens. Like this function that we're gonna be looking at today was like,
+
+13
+00:05:12,896 --> 00:05:36,320
+discovered in this millennium. Like, this is not something that we knew in the 70s or the 80s or the 90s. This was discovered in the early 2000s. So basically, AMPK is aware of the change in a cellular's ATP to ADP ratio. And ATP's energy for doing work.
+
+14
+00:05:36,320 --> 00:06:02,800
+comes from keeping the ratio many orders of magnitude away from equilibrium. I forget how many exactly. I think it's like five, maybe a little more, where an equilibrium is where the ATP and ADP ratio would be if we just let the reaction go with no outside interference and just let it kind of settle where it wants to be, kind of like rolling a ball down a hill. It'll get to a flat spot eventually and stop.
+
+15
+00:06:02,960 --> 00:06:32,112
+And so when we start to perform exercise, we use ATP and the ratio changes a little bit by drawing down ATP. And so this is a cellular energy sensing mechanism. And of course, as we've discussed many times in the podcast, all of our energy systems are there to regenerate ATP because if we run out of ATP and the ATP's ability to do work goes away or drops drastically, the cell, I don't know how to put this, it's going to die.
+
+16
+00:06:33,200 --> 00:07:02,128
+Bad things happen. Yeah, RAP cell. You put a little gravestone out back for that cell. It's like when, I always laugh when, you know, Golden Cheetah or WKO order says that you used like more than 100% of your W prime or whatever. You're like, I don't think that's true. Yeah, there's modeling reasons for that. You know, models are, all models are wrong. Some are useful. That's one case where it's very wrong.
+
+17
+00:07:02,704 --> 00:07:29,632
+And yeah, and so the, where were we? So yes, when we start to perform exercise and ATP ratio draws down, the ADP concentration actually does not increase that much until very high exercise intensities. Well, higher, let's say. And we've got various mechanisms to get rid of ADP in order to keep the ratio as far apart as possible. And so the ADP gets turned into a MP.
+
+18
+00:07:29,632 --> 00:07:58,896
+and that's to keep that things further away and we even have ways to get rid of AMP like turning it into endosine monophosphate and that keeps the ratio even further away because these things are connected after all and we've got to kind of rid our cellular pools of these things in order to maintain equilibrium and the cells are really, really good at this. And as AMP levels increase with exercise intensity, AMPK gets activated. It's a sensor of this stuff.
+
+19
+00:07:58,896 --> 00:08:22,416
+and it has various effects through your cells. And so just thinking about our muscles and also keeping in mind that these are not on-off switches, they're more like light dimmers rather than just a flip switch. We can think about AMPK's effects and just to go down a non-exhaustive list, AMPK is going to inhibit.
+
+20
+00:08:22,416 --> 00:08:50,752
+synthesis pathways, and I don't mean inhibit like stop, I mean the more active AMPK is, the more the inhibition happens, and synthesis pathways of like glycogen, fatty acids, things like that, it's going to increase fatty acid breakdown, mobilization, it's going to increase glycogen breakdown and glycolysis, both for the immediate ATP and also for Krebs cycle fodder, you know, fatty acids are insufficient, that's especially what's going to happen at lower exercise intensities, it's going to inhibit protein synthesis.
+
+21
+00:08:50,752 --> 00:09:17,088
+It's going to increase glucose uptake. So you have GLUT4 transporters move to the surface of the cell, stuff like that. Increases autophagy signaling. I hear that's a big buzzword these days, so I'm going to say autophagy. There you go. There's your search bait right there. It's going to increase mitochondrial biogenesis, and that's the biggest one that we really care about for endurance training. And that's all good stuff, right?
+
+22
+00:09:17,088 --> 00:09:45,072
+We're turning off pathways that are going to consume ATP and store energy to pathways that generate ATP and consume potential energy. And so the more intensely we exercise, the more AMP concentration we get, this is going to come with greater amounts of things listed above. So does all that make sense so far? We've talked about this before when in other subjects talking about the body...
+
+23
+00:09:45,104 --> 00:10:11,472
+being able to effectively store the ability to work or to store potential energy by keeping some ratio of things far away from equilibrium. So ATP, ADP is another one of those things. Yeah, and if you want to understand the basic principle of that, it's nothing special, just look up mass action ratio. And mass action ratio, ATP if you want, and you are going to get a wealth of information.
+
+24
+00:10:11,472 --> 00:10:41,056
+All of that background information brings us to today's paper, which I want to get into right away because I don't want to, I don't know, spoil a surprise, I guess. So the paper's titled, The glycogen binding domain on the AMPK beta subunit allows the kinase to act as a glycogen sensor. So did you know that, according to this study and several others, AMPK can sense how much glycogen is in the cell? Well, we're going to talk about it.
+
+25
+00:10:41,056 --> 00:11:09,648
+right now, because it's, if you've read like a lot of literature in the last probably 15, yeah, 15 years or so, you've probably seen this paper referenced and may not have dug into it, but it certainly is there, and there's a couple other papers along those lines, but I like this one especially because it really goes into, it's, I'd say it's scientifically thorough.
+
+26
+00:11:09,648 --> 00:11:30,256
+Kyle, I don't think you read this paper, but you saw my notes on it. So would you agree that, you know, especially considering we're probably covering 30 to 40% of the experiments done for this paper, would you say it's thorough or not? Yeah, I think it's pretty thorough. I would say that sometimes...
+
+27
+00:11:31,856 --> 00:12:01,056
+The hard part with doing, you know, I would say more thorough studies can often be if you have time and or funding constraints. So it's always good when you see, oh, they were able to look at several different things. And this probably means that either from the beginning, it was well thought out, well planned, or they happened to get lucky and they were able to do these things sort of quickly and or cheaply and or altogether when, you know, they had a good opportunity to actually take all these measurements.
+
+28
+00:12:01,056 --> 00:12:25,040
+run these things sort of back to back to back to back. Yeah, and I would say my perspective now is kind of two things on this. First of all, we're going to look back at this as like the heyday of funding. 2009, what a year. Well, scientifically compared to now, yeah, anyway, not the recession funding.
+
+29
+00:12:25,040 --> 00:12:53,488
+The other thing that I like about this, and one of the reasons I think it was so thorough, is because there were a couple other papers published before this that actually had somewhat conflicting results, and I think this paper, at least to my understanding, more or less resolved a lot of those. And so I don't know how many papers since this have looked further into this. I have not encountered any, actually, which is honestly a little surprising to me, but...
+
+30
+00:12:53,488 --> 00:13:18,976
+I'm, again, not that surprised given the number of subheadings that were in this paper. And every single one of them could have been turned into a separate paper on its own, pretty much. But I think when you are kind of going upstream against the momentum that the literature has at that point, you want to be as thorough as possible in one publication. So I think I understand that part. And I think that...
+
+31
+00:13:18,976 --> 00:13:47,280
+Fortunately for us, that's one of the reasons that it was probably done like that. And again, if you're not sure why a study was done in its time, I always suggest read the intro because if you are very familiar with the study and the kind of literature at the time, you probably can skip over the intro and go right to the methods. But I think this paper does a really good job in the intro setting up the background and
+
+32
+00:13:47,280 --> 00:14:13,152
+By the time you get to the paper's testable hypothesis, you'll understand the specific question being answered. And one demerit for this paper is that in the intro, there is no hypothesis. They just sort of set up this thing and they're like, you get why we're doing this, right? Okay, cool. We're just going to do it. So they did generate more hypotheses down the line in the discussion, which I think was good.
+
+33
+00:14:13,152 --> 00:14:40,880
+The real hypothesis was, does AMPK bind glycogen? And they found yes. But I want to go over a little background information on AMPK, and this is going to be a little technical, and I'm sorry about that, but it should be, we're going to skip over the goriest details. So AMPK has, as a protein, right, and a protein that does catalysis, it speeds up a reaction that would happen naturally. And AMPK has three subunits, and a subunit is just like, just...
+
+34
+00:14:40,880 --> 00:15:08,656
+I don't know, what would you call it? Like, kind of a Voltron thing? Like, you got three parts that kind of make a whole... Yeah, you can think of a... I mean, so, at a cellular level, right, in your body, lots of things are made out of different proteins, and sometimes those things are actually where they're multiple individual proteins folded together that come together and make a bigger molecule or protein or something like that. I guess molecule, not technically. Protein, yes. Molecule, no.
+
+35
+00:15:08,656 --> 00:15:34,416
+So maybe think about it like Legos. Like if you make a Lego set of like three different parts that are made to fit together, and when they're put together, they perform certain things, that's maybe an okay way to think about that. So AMPK's subunits are the alpha subunit. This is the catalytic one. This does the action. And so since AMPK...
+
+36
+00:15:34,416 --> 00:16:02,368
+Kinase is a kinase, and kinase is just the science way to say it adds phosphates to things, which is a fairly universal signal for either more or less of a certain action on the target. And so as we discussed earlier, you know, increased mitochondrial biogenesis and increased, you know, glycogen breakdown, things like that, inhibition of fatty acid synthesis, there are target proteins for AMPK to interact with where it'll like...
+
+37
+00:16:02,368 --> 00:16:30,336
+add a phosphate or subtract a phosphate or whatever's going on and kinase, add a phosphate. And that's how you will have the effects in the cell. So the gamma subunit binds AMP and ATP. And the gamma subunit, this is what would be called a regulatory subunit. And because of its interaction with the alpha subunit, the gamma subunit is...
+
+38
+00:16:30,336 --> 00:16:58,384
+Depending on how much AMP and ATP is around, or just if they're around, is going to change the behavior of the catalytic subunit based on the change of the shape. And the last one that we're going to be thinking about today is the beta subunit. And this one contains a glycogen-binding domain. And the domain is just like a section of amino acids that, when folded together properly, perform a certain action.
+
+39
+00:16:58,384 --> 00:17:26,672
+seems to be the domain that makes AMPK associate with glycogen. And we can kind of think about it like people who have taken bio know about the lock and key model where like a substrate is kind of like a key and the shape of a certain spot on the protein is like a lock. And if the two things fit, they can turn the key and make the action happen. That's kind of what we're thinking about today.
+
+40
+00:17:26,672 --> 00:17:55,952
+One of the cool things here is also that the domain is what's called highly conserved. And that's a fancy way to say we will find this sequence of amino acids folding in roughly the same way and performing basically the exact same action across many, many, many, many different species that you would think are completely unrelated. And we'll talk about some of those species in a minute. Because if you want to go to this paper,
+
+41
+00:17:55,984 --> 00:18:24,272
+and you go through it. It's open access, by the way. You're going to see one of those sequences of amino acids and they're going to highlight this one is conserved, these couple are conserved here, these are conserved here and we'll get more into that but I think that's a really, really cool part of this paper. So a previous study and I'm going to link this in the show notes and here's part of why they're doing the study.
+
+42
+00:18:24,272 --> 00:18:54,144
+Previous study had well-trained men riding two to three hours a week, five to eight times a week, and they were well-trained. So their average age is 28, VO2 max is 65. And so that's pretty well-trained according to the average population. And they were trying to determine some of AMPK's effects in muscle after exercise. And this is part of where our current paper generated their hypothesis, was from actual data in humans performing exercise.
+
+43
+00:18:54,144 --> 00:19:19,808
+And this paper, this other paper, not our main one, had subjects write at 70% of VO2max twice, once while glycogen loaded and once while glycogen depleted, because it was observed previously in mice that AMPK activity changed with certain conditions surrounding glycogen stores, as in less glycogen, we see more AMPK activity, and they wanted to dig more into that.
+
+44
+00:19:19,808 --> 00:19:43,792
+This other paper measured a lot of things with fatty acids and glucose because they were thinking more about the metabolic and substrate kind of implications of AMPK activity because at that time, AMPK's actions were not all very well categorized yet. I would say, yeah, 90s is like the kind of late dark ages in terms of science, would you say, Kyle?
+
+45
+00:19:43,792 --> 00:20:10,512
+Yeah, I mean... Before, like, rapid sequencing and, like, you know, good genetic techniques and things like that, like... Yeah, I think also the computing power, the sheer computing power for a lot of things that we have today just completely outstrips anything, anything from the 90s, yeah, and like, or even a lot of, even the affordability of a lot of tools today is...
+
+46
+00:20:10,512 --> 00:20:38,576
+amazing compared to how much things cost in the 90s. Yeah. And I forgot when this was published, but I think it was, oh, 2002. So coming right out of the dark ages, right at the tail end. And so, yeah, like I said, they showed a pretty substantial increase for AMPK activity in the low glycogen conditions. And okay, this is cool, right? So the paper doesn't really have any kind of mechanistic link.
+
+47
+00:20:38,576 --> 00:21:08,336
+between glycogen and AMPK activity. It's an association. And the authors themselves, and we'll have this in the show notes, by the way, the authors themselves even note that AMPK activation, quote-unquote, co-varies with muscle glycogen. So when one goes up, the other goes up, and one goes down, the other goes down. Or rather, in the inverse in this case. But it's interesting, but just having one observation like this is sort of like exercise intensity and lactate.
+
+48
+00:21:08,336 --> 00:21:36,816
+You go, wow, lactate must be really associated with something. And many years later, we found out, not really. But it's... But the pain, I feel. It's really... Yeah, it's definitely all lactate. Do you know how much of it there is? There's a lot. And it co-varies with exercise intensity. And I'd say maybe a good way to illustrate this is the association with...
+
+49
+00:21:36,816 --> 00:22:06,784
+AMPK, and at this time anyway, this good association between AMPK and low glycogen was on the level of the association between ice cream consumption and shark attacks. Have you seen that? There is a good website that is the correlator where it will show you the things that are correlated, and obviously there is no causal link between the two, and yeah, shark attacks and ice cream is definitely one of them. Yeah, Freakonomics, that for me, will you? Yeah.
+
+50
+00:22:06,784 --> 00:22:26,784
+Commonly in science, you do sort of, you can do studies where you're just observing and those are, it's maybe more phenomenological in nature where you're like, oh, I saw this thing. You know, you can imagine being ancient man or whatever, right? And you just see lightning.
+
+51
+00:22:26,784 --> 00:22:55,520
+and you don't have a good understanding for why lightning happens or why maybe that thunder thing is like associated with the lightning but you can sit there and you can write down those things oh this is when it happened this is when it happened or like the early days of astronomy right you had Galileo people just you know able to discover planets and stars not because they're out there doing quote-unquote experiments which would be like somehow you could throw stars or planets around but they're observing you know repeat events that
+
+52
+00:22:55,520 --> 00:23:21,088
+through time that they can make good observations of and they have good timing and they have a lot of information about when and how and these things happen. And so for some experiments, we'll say experiments broadly, right, are basically well-crafted observations because you don't have control over making those events happen.
+
+53
+00:23:21,088 --> 00:23:49,040
+I would say a good example is maybe supernovae or watching gravitational waves or things like that. Like that is you build a thing that just looks for the signal and you're just looking, looking, looking, looking. And the way that you do statistics on that is much different than if you're running an experiment where you bring in 10 people and you all prescribe them the same diet and then you apply these changes to their lifestyle over the next...
+
+54
+00:23:49,040 --> 00:24:17,376
+10 weeks, 12 weeks, whatever, where you're controlling all of these different elements and you're able to say, aha, I can twiddle this knob here and I see this effect over here. Whereas if you're doing an observation, you're saying, oh, I saw this event and it occurred around this time and with these other events, maybe they're related, maybe they're not. And you have to build up a database or build up a series of observations to try to nail down statistics. Whereas if you are running an experiment,
+
+55
+00:24:17,376 --> 00:24:34,832
+where you have a lot of control. You have built in the ability to control the statistics because of the way you've designed the experiment. Yeah, and if anybody wants to dig into more of this and how we do this in humans rather than celestial objects, there's a ton of books out there on experiment design.
+
+56
+00:24:34,832 --> 00:25:04,272
+like statistical power and like cohorts and things like that. And it's really, really, really cool stuff to get into. And, you know, compared to all that stuff, like the stuff that they do in like epidemiology and the stuff that you do in like astronomy and microwave physics, like exercise physiology on cyclists is like, it's like just a step above, like it's like a 102 level experiment, you know, in terms of its complexity.
+
+57
+00:25:04,272 --> 00:25:33,088
+Oftentimes. I think, too, like, generally working with humans, working with any living thing is much, much harder than if you're working. I would say the more complex an organism is, the harder and harder it is to work with. So, like, if you're working with, you know, I don't know, fruit flies, well, they live and die pretty fast. They're relatively simple genomes, things like that. There are reasons that people like fruit flies, right? Versus even then rats or then human models. Oh, God, you know, humans, who knows?
+
+58
+00:25:33,088 --> 00:26:03,072
+Yeah. So anyway, so that's all of our background information on why our main paper today was done. And I think it's really interesting to consider the observations that led us to this point. And I want you to remember that for later, Kyle, is like think about observation.
+
+59
+00:26:03,072 --> 00:26:30,992
+and the data that we get from that. So our paper here, our main paper, is coming from the new knowledge at that time that AMPK has a glycogen binding domain to see if there's really something that's causing the observed AMPK increase with low glycogen, or the AMPK activity increase with low glycogen.
+
+60
+00:26:31,248 --> 00:26:58,896
+We're going to get a little bit into the methods here. There's a lot of methods, and they're very, very geeky, and they're the kind of stuff that I was doing when I was working in biochem. Well, not working. I was a student in biochem. But a lot of them were similar because, you know, in 20, what, the early 20-teens, we had in the lab pretty much the same technology that they had in like, you know, 2008 when they were probably carrying all these stuff out. So if you'd like to dig into that.
+
+61
+00:26:58,896 --> 00:27:25,616
+Download the supplementary file. It's got all the methods in there if you want to find out how wet science is really done. Very wet science sometimes. So the first thing they did was they cloned the glycogen-specific binding domain from RAT beta-1 subunit as a model system to check just if it binds to glycogen just in a dish.
+
+62
+00:27:25,616 --> 00:27:48,592
+just in a solution. Like, does this one domain bind? But they've got to figure out a way, because they think it's this certain domain, because it's highly conserved, right? And so they want to isolate it to make sure it's not any other part of the AMPK protein. And so what they did was they made it in bacteria.
+
+63
+00:27:48,592 --> 00:28:15,008
+as part of another protein. Like they spliced it into a protein that bacteria were already making and they were like, here, make this now instead. And they're like, ha ha, we snuck this thing into the bacteria. And the bacteria are like, cool fam, I got you, let's make this protein, no problem. And then they took this mutant protein and they took glycogen from the liver of both cows and rats, since they're a little bit different.
+
+64
+00:28:15,008 --> 00:28:38,928
+and they incubated each separately with the mutant protein, with the glycogen binding domain, with the non-mutated protein, just in case to see if that non-mutated protein would associate with glycogen, because you got to cover all your bases, right? That's a control. And something known to bind really strongly to glycogen, which is the protein phosphorylase A. Then...
+
+65
+00:28:38,928 --> 00:29:02,784
+Now here's our little bit of science method that we're going to talk about. They isolated the glycogen with a special column of beads that would bind to the glucose in glycogen. So I don't think we've talked about column chromatography before, Kyle, have we? I don't think so.
+
+66
+00:29:02,784 --> 00:29:31,312
+Okay, so column chromatography is where you run your solution through, I said beads just now, I'm not kidding, they're little tiny beads, they're very small, and when you run your solution through the beads, the thing of interest should either get caught in the matrix between those beads, or it'll sit on top of them, or it will
+
+67
+00:29:31,312 --> 00:29:55,824
+or it'll get caught by them if there's a property of the bead that will grab those things. And then you've got a couple options to get that thing out from your beads too. And in this case, sometimes like you can just run another solution there that's got preferential biting to the thing. Like if anybody knows about histagging, that's definitely a thing. Some proteins will grab like a chain of like six histidines and just like...
+
+68
+00:29:55,824 --> 00:30:23,648
+Got it. And then you can just pull everything out like on the histag and then, okay, cool. But in this case, they separated it out by regular old Newtonian physics. They spun it on a centrifuge. Nice, yeah. Yeah. And so they separated out the heavier beads and the lighter proteins just by basic physics. And so then they ran their eventual solutions on a gel.
+
+69
+00:30:23,648 --> 00:30:52,048
+and to think about running things on a gel because these, by the way, one of the reasons I wanted to get into this is because if you are reading this paper, I want you to understand figure one and in figure one, they have certain things, they've got a couple gels where they determine, okay, how much of this protein is here? What size is the protein? Yada, yada. And so if you look at it, think of a gel as a tray of jello, literally jello.
+
+70
+00:30:52,336 --> 00:31:17,312
+And so when you make the jello, you put stuff in the water, you stir it up, and then you, right, you put it in the fridge. But before you put it in the fridge, put a comb in one end, like the little tines down, leave the back of the comb up, and let it set like that. Now, when it's set, pull out the comb and put your solution that you're experimenting with into the little holes that are left.
+
+71
+00:31:17,312 --> 00:31:46,832
+in the jello. And now you hook up electrodes to both sides of your jello. I'm not kidding. And you've run electricity through your jello. And the matrix made by the jello is, you know, things that are bigger will go slowly and things that are faster will go faster. And eventually, over a certain amount of time, you can look at these things on the jello and
+
+72
+00:31:46,832 --> 00:32:15,472
+In this case, they are staining it with good old Kumasi blue, and then you can take a picture of it, usually under UV light. So, Kyle, I'm sure you've done one or two of these. Does that all sound relatively accurate to your memory? Yes. Yeah, I think sometimes they are, sometimes the molecules in question are even just visible by the naked eye. Like, you can just look at it and see, oh, there are dark lines.
+
+73
+00:32:15,472 --> 00:32:38,400
+This far, this far, this far, this far away from zero. And the other important thing to know is how long you ran it for, just because the longer that you apply the voltage potential across, the farther things will go, even if they're heavier. So you want to have, and you want to also control it so that the lightest things don't like shoot off the end of the gel, which can't happen if you like forget.
+
+74
+00:32:38,400 --> 00:33:07,936
+I remember in one of my classes, somebody put the leads on the gel wrong and stuff ran straight out the back. And so they stained it and took a picture and they were like, there's nothing here. And they were like, oh no, we put the leads on backwards. They had to run the entire thing again. Yeah. And the other thing is you can have, you know, there are, I don't even know, a trillion different things you can do with electrophoresis like this. Like it's not, it's not like just for this one.
+
+75
+00:33:07,936 --> 00:33:33,088
+specific task. It is a very general tool that is used across biology and biochem and chemistry and all these things. Yeah. And there's a lot of different ways to detect what's in there and staining it and looking at it under UV light. I think it was UV light anyway. But that's just one of the ways to see what's there. You can also put in...
+
+76
+00:33:33,088 --> 00:33:57,680
+things that will specifically bind certain things in your protein, which is another way to do it. And I've done a little bit of that. And I think that's still done to some degree. I don't know if anybody's automated Western blots yet, but I wouldn't be surprised. But anyway, so what happened? Let's talk about that. As you would expect, their mutant protein with the glycogen binding site appears. Yes, indeed.
+
+77
+00:33:57,680 --> 00:34:26,704
+and it's because they selected it out by looking for glucose and so you're gonna grab everything that's, all your glucose molecules but also the stuff that's bound to the glucose will pop up too but one of my favorite parts of this is that we also see the non-mutant protein that does not have a glycogen binding domain because a little got caught in the fray regardless and I think it's a good example of how tests are not perfect.
+
+78
+00:34:26,704 --> 00:34:53,840
+Even in molecular science, you'd think that there's a fair amount of precision, but we're dealing with really, really, really small stuff. And you can get things contaminating the thing of interest very frequently. And so that's always something to watch out for. And that's one of the reasons that you will often see people running controls like this, or you should often see these controls getting run, just to check for purity, if nothing else, right?
+
+79
+00:34:54,639 --> 00:35:19,392
+Yeah, you want to make sure you're even just like glassware, pipettes, all of these things are clean and not contaminated. Yeah, and you think also just things that you're breathing, right? Like the human aspect, like humans are often the most contaminated things around experiments, be it across fields, like whatever, you know, a lot of times you think like, oh, I'm wearing nitrile gloves or whatever to protect me from whatever I'm working with.
+
+80
+00:35:19,392 --> 00:35:49,248
+Most of the time you're actually working to protect the thing that you're working with from you and whatever is on your clothing or your hands or your skin or your face. Yeah, we are filthy in the lab. Like, I mean, when we were working, like, when I learned sterile technique, you know, like, you've got a light, a freaking Bunsen burner and you don't do anything with it. You put your loop in it, but you leave it burning so that way, like, it creates a little current and stuff flies to it and burns out. You keep that near your dish and, like, and you mask up and you put a hat on.
+
+81
+00:35:49,248 --> 00:36:16,784
+We are filthy. We are filthy animals in a research lab. You're covered in particles. You're constantly shedding particles. Yeah, most of the dust in your house is skin and hair and things like that. So we are very shitty kind of things. Anyway, so the second step in this paper is a standard step in a lot of papers where you're looking at loss of function. We've kind of looked at some loss of function papers in the not-too-recent past in the Wattstock series.
+
+82
+00:36:16,784 --> 00:36:45,040
+So for this, researchers looked at the protein sequence of a bunch of different AMPK proteins in different species. And the ones I recognized offhand were lab rats, lab mice, fruit flies, flatworms, yeast, a couple others. And I don't, actually, I was looking for the zebrafish, but I didn't, or frogs, but I don't think I remember seeing those. They're pretty common lab animals at this point, but maybe not at that point. And here's where they've got the sequences.
+
+83
+00:36:45,232 --> 00:37:12,944
+made out, and they've highlighted all of the most highly conserved proteins. So like there's some tryptophan, there's some like valines and things like that. And what they did was they just, they said, you know what, we assume that these highly conserved proteins, it's a good assumption, are responsible for the function of binding to glycogen. And so we are going to fuck with this. What we're going to do is we're going to replace these with harmless
+
+84
+00:37:12,944 --> 00:37:41,872
+Alanines and Glycines, and then it should lose the function, right? And as you would expect, they did indeed lose the ability to bind glycogen. So now if you look at figure 1B, you're going to see a stained gel and you're going to see labels of L, S, and P in each lane of the gel. And so L, and so this is like from the centrifuge. So they once again isolated these things out.
+
+85
+00:37:41,872 --> 00:38:08,512
+and L is the load for the centrifuge and that's everything all together before it gets spun down. And so as you would expect, you see everything in there. But P is your pellet and so that's where the glycogen is and that's where we're going to see the protein with normal binding domains like phosphorylase A, we're going to see that and the wild type, the non-mutated.
+
+86
+00:38:08,512 --> 00:38:35,248
+glycogen-binding domain protein. You see those pop up, but you don't see anything else. Like, you know, a tiny little bit of contamination here and there, but like, there's really nothing. S is the supernatant. And that's a good crossword for it, by the way, if you don't know that. Natant is supernatant. And so that's a little bit of liquid on top of the pellet. It's like when you spin down blood, you've seen the red cells and the platelets and the plasma on top. That's like your plasma fraction.
+
+87
+00:38:35,248 --> 00:39:02,464
+And so the S, the supernatant, has all of your mutated proteins in there because they didn't bind to the glycogen that made it into the pellet. So we've got good proof of loss of function. So they've fairly definitively proved that this section of this rat liver AMPK does indeed bind to glycogen.
+
+88
+00:39:02,464 --> 00:39:28,768
+Does that whole logical sequence make sense so far? It's definitely kind of one of those things where it, yes, it makes sense, but I think, you know, you kind of have to understand why looking at this, it's not, this is like a strange, not quite direct measurement. It's a direct measurement, but it's a direct measurement through these other things. And so it's not like you're just, I don't know, taking a...
+
+89
+00:39:28,768 --> 00:39:53,792
+taking a sample and somehow you're magically able to filter out and measure concentrations or things like that. Because these are tiny molecules, there is no magical, I don't know, molecule. Yeah, there's no measuring stick for this stuff. Yeah, yeah, yeah, exactly. And you can't even do, I mean, I guess you could maybe, but other traditional things, people think, oh, mass spec or things like that. But if you're modifying these things.
+
+90
+00:39:53,792 --> 00:40:18,976
+is sort of at the genetic level, they're probably going to weigh the same. It's not like you can just throw it into some, I don't know, big analyzer or something like that. You have to be a little creative to how you measure these things. Yeah, and if you change the, I don't know what, five to eight protein residues from something heavier like tryptophan to a glycerin or alanine,
+
+91
+00:40:18,976 --> 00:40:46,192
+In terms of like a, I don't know what, like a 40 kilodalton size protein, like how much have you realistically changed the weight of that protein at that point too? Like not a lot. Yeah, yeah, yeah. So is it 40? I don't remember. Maybe around 40. So now we get to the good stuff. So now they tested the effects of rat liver glycogen on the activity of AMPK from the rat liver.
+
+92
+00:40:46,320 --> 00:41:14,912
+What we're looking at here in the next figure in this paper is on the x-axis we have glycogen concentration and on the y-axis we have AMPK activity. So with just glycogen and AMPK in solution, AMPK's activity is an S-shaped curve. It kind of looks like a hill profile steep on the left and then it kind of drops over to the right as the glycogen concentration gets higher.
+
+93
+00:41:14,912 --> 00:41:42,224
+And so they added both cow and rat glycogen to see the same effects but in different amounts. Rat liver's glycogen, the high point at 10 to the minus 3 millimoles per liter of glycogen is about 90 units of activity. There are some actual units, but we'll just kind of call it units for now. And it goes down to about 60 for 10 to the 0 millimoles per liter of glycogen. So 10 to the 0 is, Kyle, what's the math? Magical 1.
+
+94
+00:41:42,224 --> 00:42:01,280
+It's everyone's favorite. They're like, oh, why is it? Well, yeah, why do they write 10 to the 0 to keep it consistent with 10 to the minus 3 and 10 to the minus 2 and 10 to the minus 1? Yeah, yeah, exactly. And the cow glycogen starts at around 90 activity units, but it goes down to about 10 instead of about 60. So there's a greater inhibition.
+
+95
+00:42:01,280 --> 00:42:23,568
+there for the cross-species contamination. Not that we need to worry about that, because it's not like we're ever going to end up with another species of glycogen in our liver or muscles or anything like that. Or, well, you better hope not. Well, I mean, you figure when you eat meat, you're ingesting some of the glycogen that's in there, right? Yes, but it doesn't get absorbed through your intestine in a whole...
+
+96
+00:42:23,568 --> 00:42:48,336
+Whole chunks. Yeah, I know. Your body's going to chop it up into glucose. It's funny. It's like if you ingest, I don't know, like a hormone into your gut, it's not like that hormone is going to make it into your bloodstream whole. It's like, how many hormones do we eat when we eat meat or plants? Like a ton. And not everything is going to make it through that lining.
+
+97
+00:42:48,336 --> 00:43:18,320
+whole. In fact, very, very small things make it through that lining only, and that's by design, right? So let's see. I think the more precise way to say what's going on instead of lower amounts of glycogen increasing AMPK's activity, we can think about it more like glycogen is actually inhibiting AMPK's activity.
+
+98
+00:43:18,320 --> 00:43:45,952
+So rather than low glycogen increasing AMPK's activity, more glycogen rather inhibits the activity that it would have anyway. And so... Yeah, that... Sorry, go ahead. That's one of those like, oh, like order of action, you know, order of operations here thing. Like what is the thing that is actually being changed? And that's typically how much glycogen you have, not how much AMP you have, right?
+
+99
+00:43:45,952 --> 00:44:14,192
+Yeah, and like, this is sort of like AMPK in its natural habitat. Like, if you just put it in a dish and let it just do its thing, it's going to be, it's going to have a certain level of activity. And so, speaking of which, their next experiment was they added 200 micromolar of AMP, which is known to very much increase the activity of AMP kinase. AMP kinase, you see AMP, you kinase the thing. And so...
+
+100
+00:44:14,256 --> 00:44:39,120
+It turns out, so they were curious, does AMPK's activity still get inhibited by higher glycogen concentrations in the presence of its main known activator, AMP? And the answer is absolutely yes. So the shape of the slope changes a bit. Now the AMPK activity is roughly flat from about 10 to the minus 4 millimole per liter glycogen over to 10 to the minus 2.
+
+101
+00:44:39,504 --> 00:45:09,280
+and then is going to drop to about zero at one millimole per liter glycogen. Peak activity is higher, but now at about 140 units instead of, what was it, about 60? So we have got a very strong activator indeed with AMP, but the inhibition still happens. The journey that we're going to take through the paper's technical section ends here because it is very, very thorough beyond this, but it continues on to look at the effects of those previous mutations
+
+102
+00:45:09,280 --> 00:45:34,800
+on affecting AMPK's activity. It's going to look at different types of carbohydrates and shapes. It's going to look at branched versus linear, things like that. And really the basic function that they find is that, it doesn't really matter for us, but I think it's interesting, so I'll say it anyway, is that they find that the...
+
+103
+00:45:34,800 --> 00:45:59,600
+Glycogen binding domain of AMPK that we are concerned about here is binding to one of the branching points of glycogen. So glycogen is not like, you know, it's not just like a long, you know, chain of things, but it's a branched molecule. And so every so often it's going to have a, like a, it's called an alpha-1-6 linkage.
+
+104
+00:45:59,600 --> 00:46:28,288
+and it's detecting those. And that is where the AMPK seems to like to grab onto glycogen. And so to cut to the chase, the author's conclusion, which based on their experiments I agree with, is that AMPK has a domain that binds to the branching points of glycogen. And I will quote from the paper here, removal of the outer tier of glycogen by phosphorylase releases about 30%
+
+105
+00:46:28,288 --> 00:46:57,856
+of the available glucose and halves the number of non-reducing ends. Just think about ends of the glycogen. Thus, even a modest reduction in glycogen content might cause release of significant quantities of AMPK from the polysaccharide so that more of the kinase becomes available to phosphorylate targets, unquote. Or, as I've seen it said in other papers, glycogen stores, quote-unquote, sequester AMPK proteins to reduce their activity.
+
+106
+00:46:57,856 --> 00:47:25,520
+So to take it from the top, the logical flow of this paper goes from, first, function. Does this particular domain of AMPK bind to glycogen? Yes. Second, loss of function. If we mutate the binding domain, does it stop binding glycogen? Yes. Third, if we get rid of the glycogen binding domain in AMPK, does glycogen still inhibit its activity? No.
+
+107
+00:47:25,520 --> 00:47:54,544
+Fourth, specific activity levels. If we add more glycogen, is AMPK's activity inhibited? Yes. Fifth, inhibition in the presence of its main activator. If we add more glycogen in the presence of AMP, is AMPK's activity still inhibited? Yes. So that is our roughly logical chain of evidence from beginning to the end of the paper. So it's interesting because this seems like something that in...
+
+108
+00:47:55,056 --> 00:48:22,960
+Without being able to set up experiments like this, it would be extremely difficult to measure, right? Like, imagine taking, I don't know, in vivo measurements like this. I don't know how you would do it, right? Like, with the glycogen concentrations, like, you can't really control that in a living, breathing organism unless you, I guess you could knock out a lot of things, but then they'd be very sick.
+
+109
+00:48:22,960 --> 00:48:50,208
+Yeah, no, it's super interesting to come up with measurements like this and experiments, properly termed experiments, where it's not just observations, you're not just saying, oh, I see this bird every 10 months or whatever. It's, we are going to design an experiment, we're going to take into account the different molecules that may affect AMPK, and we're going to find ways that we can actually manipulate those things and
+
+110
+00:48:50,208 --> 00:49:14,800
+Make predictions, or maybe not predictions, but at least identify ways we can more directly measure what is going on at a, you know, sort of molecular protein level where, again, you can't just, like, zoom in with a microscope or something and just see what happens. Which, I think a lot of these things is super interesting with protein and molecule dynamics because you can't zoom in just a, you know...
+
+111
+00:49:14,800 --> 00:49:32,224
+Enhance, magical computers, zoom in enough that you can actually see what's going on. So you have to come up with ways to measure what's going on. And some of those things might seem very roundabout, which is why you talked about chromatography and things like that. Yeah, there's no CSI magic in biochem. Right.
+
+112
+00:49:32,224 --> 00:50:01,456
+Enhance. It's like Blade Runner, right? You can just look at the reflection in someone's eye in this grainy video. Yeah. So when I first read this paper, it was like something like, I don't know, nine or 10 years ago, like when I was just a whelp of a coach, what do you think my tentative conclusion was after reading the paper, Kyle? And I'll give you a hint. It was the keto era or, well, it's, which I don't think was a Taylor Swift era, but it was certainly an era in exercise.
+
+113
+00:50:01,456 --> 00:50:24,768
+Is it the low glycogen fasted endurance rides and things like that? It's like, oh, having low glycogen positively affects the rate and the, you know,
+
+114
+00:50:24,768 --> 00:50:48,576
+Dynamics or Kinematics. Yeah, the activation of AMPK. Yeah, and of course, knowing that AMPK is eventually one of the signals for mitochondrial biogenesis, I mean, just based on this information alone, you might think, okay, well, it should work, right? And so I was personally never a big fan of the fasted fad. Even back then, I knew that kind of wasn't great, but like...
+
+115
+00:50:48,576 --> 00:51:16,224
+I most certainly did my experiments with this stuff. And so based on the fact that if we have good evidence that AMPK is more active with less glycogen, we would reasonably conclude that just sitting around with low glycogen stores might lead to good AMPK signaling, particularly for our thing of interest, mitochondrial biogenesis. We would also reasonably conclude, based on the evidence above, that since the presence of AMP and low glycogen really
+
+116
+00:51:16,224 --> 00:51:35,312
+really increases AMPK's activity that we saw in the paper. If you did hard intervals while glycogen depleted, you would get a stronger signal potentially. And because AMPK is one of the effectors of PGC-1α, maybe you would eventually get more mitochondrial biogenesis and better endurance, right?
+
+117
+00:51:36,560 --> 00:52:04,848
+Yeah, it seems like low-hanging fruit, right? Like, oh, I don't have to buy anything or do anything really particularly special. In fact, you have to eat less, right? It seems like an easy, yeah, it's like a relatively easy, straightforward intervention to make of, oh, I just do this, I choose not to do this one thing. I choose to get home and have cheese instead of cereal. And so, no, no to all of that.
+
+118
+00:52:05,136 --> 00:52:33,456
+And this is really where I wanted to go with this paper is if we are, you know, if we just look at what is in the cellular data without drawing a line, because we drew the line from a physical observation in train cyclists to cellular data. We did more cellular data and we said, okay, cool, here's what's up, right? Well, no, it's not actually what's up.
+
+119
+00:52:33,456 --> 00:53:00,400
+because so there's a couple things that make this paper and I'm really sorry to drive this paper through the mud like this but it's not the paper's fault. The paper on itself is great but it's the interpretation of the paper where we have to really be careful because there's a couple things that make this unsuitable for direct training conclusions and yes, we'll talk about the irony and
+
+120
+00:53:00,400 --> 00:53:27,344
+and all of this in a minute. So while we do have glycogen and AMP in solution, we don't have truly in vivo conditions. None of this is really in trained cyclists, right? Or even in untrained cyclists. It's not in people, it's not in rats. We're also lacking a time component. We don't know if things change over time, even if glycogen stores are kept low. We don't know if...
+
+121
+00:53:27,600 --> 00:53:56,416
+Exercise in the low glycogen condition is potentially detrimental in other ways, like people adhering to those protocols or potential energy deficits, things like that, like practical considerations if these training solutions are indeed viable. We also don't know the magnitude of potentially increased in vivo activity and if that is sufficient to even drive superior adaptations. We don't know that.
+
+122
+00:53:56,416 --> 00:54:20,608
+And luckily for us, in the last 15 years of really good quality research, we actually do have the answers to a bunch of these questions. So when we look at the literature on, let's say, low glycogen related to performance, we do not actually see any substantial improvements. In the delayed feeding literature, like if you get home and you're like, okay, so I'm just going to not eat anything, I've seen...
+
+123
+00:54:20,608 --> 00:54:47,232
+more fat oxidation, I've seen higher AMPK activity from this, I'm gonna get home and I'm just gonna skip eating. Don't do that. The literature says we not only see a massive- Just gonna have a hard-boiled egg. Yeah, hard-boiled egg, have some cheese, have a steak. We see in the current literature on all this stuff, we see a massive decrease in performance of the next day and we also see a good amount of metabolic disturbance and poor health effects.
+
+124
+00:54:47,232 --> 00:55:15,760
+And this can even happen after you restock your glycogen stores. And not only that, but like the delayed feeding stuff, it's, you know, if the next day you have the same muscle glycogen, you have a decrease in performance if you delay eating when you get back from your rides. So like that's all bad stuff. And we see it in performance and performance is really what we care most about, right? And so if we also go into the low-carb literature, especially if you recall Louise Burke's two papers on low-carb performance in racewalking.
+
+125
+00:55:15,760 --> 00:55:43,904
+where we didn't see any improvement after a couple weeks of low glycogen training for equated energy, right? Yeah, I think so. And even beyond that, there's not really any strong evidence or even weak evidence, in my opinion, that there's any additional benefit to just training with lower glycogen stores for any reason whatsoever. And the confounding variable here is that fat oxidation
+
+126
+00:55:43,904 --> 00:56:07,680
+co-varies with low-glycogen stores. And so if you're looking at the keto thing, if you're looking at papers that talk about mitochondrial function in relation to fat oxidation, I mean, there's, you know, we've talked about that before. Like, you know, fat oxidation does not make you better at burning fat. You know, this is one of the reasons that we've went in such detail, loving detail.
+
+127
+00:56:07,680 --> 00:56:37,040
+on all the signals that we've found so far that really kind of determine mitochondrial biogenesis in response to exercise in the muscles. And it's got nothing to do with what you burn. Like we've, man, how many hours did we do on that? Like 20, 30, something like that? Dozens, dozens of hours? Yeah. Yeah. So like if you take this paper at face value and you just draw a line directly
+
+128
+00:56:37,040 --> 00:57:04,960
+from performance observation to cellular mechanism, and then you draw it back to performance observation. You make a bunch of assumptions along the way. Sure, you can reach a conclusion, but it's not really actionable the way that you might think it is. And so far, I think, the paper itself is like a good proof of concept.
+
+129
+00:57:04,960 --> 00:57:32,352
+And, you know, in reality, it's a good hypothesis generating paper, and it came from a good hypothesis leading up to that. You know, you observe a thing, you go, oh, that's curious. You do another experiment, then you observe something else, and you go, oh, that's weird. What about these other conditions? And you do another experiment. And while we've gone into mechanisms in this podcast in great detail, and mea culpa, I have occasionally gotten carried away.
+
+130
+00:57:32,352 --> 00:57:59,424
+because something matches my coaching experience really well, which is not the same as scientific experimentation, but at the same time, there's an absolute dearth of literature on cohorts that you train for five years on a bike, you know what I mean? It's tough to find that kind of data. Yeah, I think the other thing,
+
+131
+00:57:59,424 --> 00:58:28,864
+The thing to think about with this paper as well, and a lot of these papers, is it was not from the outset a venture to say, how can we improve training? That is not in the introduction or anything. Cellular metabolism and studying a lot of things about cellular metabolism happens as a pursuit of science.
+
+132
+00:58:28,864 --> 00:58:45,584
+not only as a, oh, how does this impact endurance training or sports or things like that? So I think that's a big thing to keep in mind with a lot of these papers that come out when people are thinking, oh, how do I make that jump from this one result to prescribing a training?
+
+133
+00:58:45,584 --> 00:59:14,624
+plan or a training intervention. Yeah, and that's one of the reasons that like in all of our kind of mechanistic podcasts that we've done previously, I mean, if you just look at the description of the podcast, like which has not changed since the inception, you know, do you want to know why training makes you faster? Listen in. Something like that. Because I've always been fascinated by the why, but at the same time, there's not, you know,
+
+134
+00:59:14,624 --> 00:59:42,192
+Going back, it's one of the reasons I've always tried to select papers that have a performance component, even if it's just in mice. Like, Kyle, remember the one where there was like a HAF knockout or mice, I think? Yes, yes. And they had a phenotype. And like, by the way, like compared to our other podcasts, like nobody listened to that episode. I love that episode so much. It was so great, in my opinion.
+
+135
+00:59:42,512 --> 01:00:12,032
+Like the mice already had a phenotype that you would expect from something trained. And when you look at the performance, the performance matched the untrained. And so, and then when they trained up, their phenotype didn't really change, but the wild-type mice went from, like they had the exact same physiological changes that you would expect, and they basically eventually matched the knockout mice.
+
+136
+01:00:12,032 --> 01:00:42,032
+and it's like one of the coolest experiments you could possibly imagine because you've got the molecular stuff, you've got like a loss of function, you've got like an interesting relationship between phenotype and performance and like that's not linear and like you might expect it to be and it's like you've basically drawn a line from performance to mechanism back to performance in one study. It's like there are so few experiments like that.
+
+137
+01:00:42,032 --> 01:01:11,088
+And they're always done in mice, of course. But when you look at other experiments like this that don't have a performance component, and I've tried to always draw the line directly where we can, and even compared to strength literature, strength literature, the mechanisms they have, they've got a bunch of candidates. There's one paper out recently that's really kind of on aerobic level of mechanistic determination here.
+
+138
+01:01:11,088 --> 01:01:40,352
+I've yet to read, but looks promising. So we might finally have a molecular pathway, like pretty definitively in strength training, but, or, well, hypertrophy, I suppose. But here in aerobic training, we are really well studied comparatively. And it's, we have a wealth of literature, but it's, it's difficult to, to really
+
+139
+01:01:40,352 --> 01:01:58,672
+look at the mechanistic stuff without really bringing it back to performance. Because there's a bunch of stuff that can go wrong along the signal chain from one spot to the other. You basically can't biohack this stuff.
+
+140
+01:01:58,672 --> 01:02:26,272
+I guess is the way to think about it. And that there's a big reason that for a lot of our podcasts, most of them, and the Wastock stuff, when we think about what does this mean for performance and for training, the advice is usually just carry on as normal. There's nothing special going on here. A lot of it really just goes to support the standard ways of training, like instead of like going down some like biohacky kind of route.
+
+141
+01:02:26,272 --> 01:02:49,472
+Even if you can prove that with a P of less than 0.01 or 001 that there's a significant increase of hormone X or activity of thing Y, that does not always mean we're going to have a performance outcome that is going to be positive. If we can even measure it at all and maybe even it's negative, who knows? So like if we're looking at
+
+142
+01:02:49,472 --> 01:03:19,024
+You know, outcomes of concern like performance and we're thinking about how much activity of, you know, signal X do we need, it might instead of, you know, what do we see in this paper? We saw like a 10X increase. We might actually need to see a 10 or instead of 10, we might need to see a hundred to a thousand times increase instead of 10 for 10 times as long in order to see a meaningful impact and improvement on performance. And I think, yeah, sorry, go ahead.
+
+143
+01:03:19,184 --> 01:03:42,144
+Oh, I think that's another thing that people, all people, not just, you know, lay people or whatever have, sometimes have a hard time understanding, you know, having a good number sense and the scale of numbers and how big a number or a change or something has to be before it actually is a meaningful impact, like has a meaningful impact, right? Where you think, oh, 10 times, that must be.
+
+144
+01:03:42,144 --> 01:04:03,888
+That must be awesome. Yeah, well, because if you had 10 times the money you had, like, you'd be a lot happier, right? But, you know, like, that's our normal day-to-day world. It's like, if I've got 10 times the number of peaches in the house that I normally would have, like, I would have way too many peaches to eat before they go bad, first of all. But also, like, that's, you know, in terms of...
+
+145
+01:04:03,888 --> 01:04:33,424
+cells and things of this magnitude. Like, you know, you deal with this all the time in physics. You think in orders of magnitude rather than like, you know, 1x or like 8x or something. Yeah, I mean, and sometimes even then you're like, oh, you know, you still need several orders of magnitude or, you know, decibels or if people want to get fancy change before it's meaningful or three orders of magnitude or something like that, right? Like the difference between like a,
+
+146
+01:04:33,520 --> 01:05:03,280
+Kilo and Mega or something as a prefix, for example. Yeah. And so like, and that's kind of what I'm thinking of is like, if we have a 10 times increase for like, I don't know, two hours of AMPK activity for something like it, you know, in a dish, but when we exercise, it's like way more than that and it's for way longer, like, okay, cool. Like we really need to think about that magnitude of exercise for that long. And we would also need to like prove that in a variety of different ways, which
+
+147
+01:05:03,280 --> 01:05:30,096
+If I recall correctly, the literature at this point kind of has done, but it's also in terms of real performance and does low glycogen training actually lead to benefits? The answer is no. And so this whole thing has really just been an object lesson for all of us, me included, by the way. This is a great exercise for somebody like me to get back to every once in a while because even I'm human, I'll get caught up in the hype once in a while.
+
+148
+01:05:30,096 --> 01:05:53,840
+And none of this is to say that the researchers should even stop working on these questions because they shouldn't. There's a lot more questions and there's a lot more potential things to go down, a lot of avenues that need exploring. But as coaches and athletes, we really need to wait for more definitive links between mechanism and performance before we just radically alter course.
+
+149
+01:05:53,840 --> 01:06:23,456
+And I personally, I think I've said this on a podcast, I used to think that there was still a little something there with the low glycogen training, like a little something maybe someday we'll find. And that was me holding back about 5% hope. And that 5% was keeping me from saying fully screw low glycogen training. In the last, I don't know, two years or so, as I've read more papers and more evidence has come out, and I've also gone back and reanalyzed my old data from when I was experimenting with this.
+
+150
+01:06:23,456 --> 01:06:50,576
+100% screw low glycogen training. Well, I think there's two conflicting things there, right? I feel like naturally, a lot of scientists, people who are scientifically minded, naturally very skeptical about things. So they're like, ah, I don't know. But then, like you said, there's some optimism where, oh, hey, that would be great if, like, every once in a while, these things do come around, right? Like, you...
+
+151
+01:06:50,640 --> 01:07:18,928
+you don't have them very often which is why when something starts to look promising like it is a relatively easy low barrier to entry type intervention that could have big effects like oh yeah like I mean I think it's one of the reasons why people are kind of stoked on blood flow restriction training right is because oh like it's relatively easy you just get these cuffs and it's like pretty straightforward it's not very complex and the the potential benefits are great and so it seems like why not if it's
+
+152
+01:07:18,928 --> 01:07:47,360
+a low barrier. Why not try and why not hope for the best even though then more research comes out. Well, if it goes wrong. Yeah. Stuff like that where especially I think in today when I would say a lot of these it seems like a lot of companies are out there trying to profit off of new fads and things like that where maybe more of these things are in the sort of popular
+
+153
+01:07:47,360 --> 01:08:15,072
+Exercise Fitness Zeitgeist because they're like, oh, hey, what a great marketing opportunity. But that's like sort of cynical take. Yeah, no, I mean, I'm cynical in very similar ways. Like I'm, every time I hear about some new training fad, my immediate reaction is skepticism. I'm like, and it's not that I think that whoever came up with it is ill-intentioned. It's just that I really want to see some strong evidence about what.
+
+154
+01:08:15,072 --> 01:08:42,112
+what it's actually doing and why is it doing that. And sometimes there's papers that come out in support of things like that, like BFR for aerobic training. I am 0% convinced about any of those papers that I've seen. And I've wanted to do some episodes on it previously. And when I started looking into literature, I was like, wow, there's really nothing here. And I don't want to just release a bunch of podcasts about...
+
+155
+01:08:42,112 --> 01:09:08,464
+just shitting on things. I once released a negative podcast and I've regretted it ever since. And so I've just decided not to go that route. I want to figure out like, okay, it's harder to also make a positive contribution, I think. It's easy to just tear stuff down. For sure, yeah. And we could tear down a paper every single week. We could just have a podcast just ripping.
+
+156
+01:09:08,464 --> 01:09:36,416
+ripping papers to shreds. And there's zero use in any of that. Because I also don't want to blackpill our audience to the point where everybody's completely cynical about scientific evidence. It just needs some skeptical lenses where we really need to look at the evidence about the actual outcomes when we actually undergo some of these protocols and changes to our training. And I think that...
+
+157
+01:09:36,416 --> 01:10:03,376
+In a lot of cases, the evidence is actually out there. It's one of the reasons I've, while I was experimenting with this stuff in like, what, 2019, 2020, I've radically changed my tune. Because, you know, both in my coaching observations and the literature, it's just, none of it's panned out, especially with this kind of stuff. And so, and that's one of the things I've also seen lately that bugs me a little bit, as I've seen a lot more chatter about mechanisms, I think.
+
+158
+01:10:03,376 --> 01:10:19,328
+In the cycling world, we're a little more insulated from this stuff because, like I said, we have such good evidence already. But when it comes to the things that are related to health and well-being and strength, hell, why not?
+
+159
+01:10:19,328 --> 01:10:49,232
+You know, you can see stuff about cortisol, adenosine, testosterone, estrogen, progesterone, markers of fatigue in aerobic training and in strength training and hypertrophy training. And, you know, you'll even see stuff in like thermic effect of food. Like, you know, and here's an easy example. Every supplement, oh, this thing is associated with this blah, blah, blah, an increase of whatever. It's like, does it increase it to the point where it's going to actually matter? No. Okay, cool. Just move on, you know?
+
+160
+01:10:49,936 --> 01:11:19,440
+Yeah, like I think if anyone's ever, you know, recently gotten, say, blood work done, you'll notice that for a lot of those things, sometimes there's a pretty wide range and you're, you know, your doctor has kind of decided, as long as you're within that normal range, nothing to see here, you know, like, even though that range might be 50 to 300, right? Yeah. Or whatever, whatever it is, or, and, and lots of these things come out as, as sort of normal ranges or, you know, a popular thing is, right, like,
+
+161
+01:11:20,208 --> 01:11:43,392
+the trendy thing is like, oh, such and such like boost testosterone, but like the natural healthy person testosterone blood values are a range and if it boosts you from like being in the normal range to like being slightly higher within normal range, like are you likely to see tangible benefits? Like probably not, you know, like, oh, I don't know what it was like.
+
+162
+01:11:43,392 --> 01:12:13,120
+cold plunges or something, right? Oh, God, yeah. It's supposed to, like, transiently increase, like, HGH levels, I think. Oh, yeah. And it's like, but is that enough? No, it's actually not. The literature's actually pretty conclusive on that. It's wildly sufficient. It's, like, not enough growth hormone to actually do anything. You're like, oh, it's measurable because we're really good at measuring things. Yeah, that's a perfect example of, like, something that's really not, and also, like, it's going to increase growth hormone. Okay, great.
+
+163
+01:12:13,120 --> 01:12:42,768
+Have you given yourself a stimulus in the meantime? Like, if it's gonna make you grow something, like your muscles, like, you really need, I suggest a stimulus if you're gonna, you know, actually do something. And like, it's, I once heard Andy Coggin say this, like, train for performance and your physiology will sort itself out. And boy, are those wise words. And so, one of the things I did in prepping for this podcast is I went through all, so on PubMed,
+
+164
+01:12:42,768 --> 01:13:07,824
+You can click on, you know, Cited By. And it'll give you every single paper that has cited the paper that you're looking at. And so there are 204 papers that reference the main one that we looked at today. And as recently as the last year or two, this paper is being used to support conclusions or, you know, hypotheses that would be contrary to all the other evidence out there.
+
+165
+01:13:07,824 --> 01:13:33,920
+that on, you know, why this stuff basically doesn't really work the way that you would like it to, you know, so it's like, you know, papers on like sleep low and train low strategies for athletes, ketogenic diet supporting quote unquote mitochondrial function and to different degrees using today's paper as a, you know, as a crux of their theoretical foundation for their intervention and sometimes even a very, very large.
+
+166
+01:13:33,920 --> 01:14:02,464
+Crux of this. And I don't want to call any papers out or anything, but you know, you can go do the same thing and go find them. I probably looked at, I think I clicked on about 20, I read about 20 abstracts, I read one article fully, and I think I skimmed about like five or 10 others, call it seven or eight. And yeah, boy, they have not seen some of the other stuff out there, I guess. But human systems are just
+
+167
+01:14:02,464 --> 01:14:31,616
+complicated, like you said. And so, you know, we cannot really draw a straight line from a molecular observation to a training conclusion. And we do it when we can because I think it's really cool to be able to have all those pieces. But, you know, there are a lot of potential drawbacks in a lot of papers. Like, for instance, like model systems. Like when you model a training protocol with like rats or mice.
+
+168
+01:14:31,616 --> 01:15:00,336
+Rats are, in some ways, are very different than humans. Like, they face very different evolutionary pressures, and they've evolved differently. Like, for instance, when you are, when humans are in bad LEA and red ass, what happens? Like, everything everybody talks about, reproduction. Women lose their period, men, like, you lose your libido, no sex drive, men and women both. That's an evolutionary adaptation to low energy availability. Rats?
+
+169
+01:15:00,336 --> 01:15:27,808
+Don't have that. Rats are like, we don't have any food, I'm starving. You want to get it on? Also keep in mind, the average lifespan of a rat is like three years or something. Rodents are not living nearly as long, so they don't have nearly that time frame to reproduce that humans do. Yeah, very true. Yeah, our gestational periods are quite long.
+
+170
+01:15:27,808 --> 01:15:53,536
+We're not like elephants, but we're up there. And so, yeah, there's – and kind of looking at all of this big picture in terms of adaptation, there's – like I said, we've drawn the links between mechanism and performance as often as we can, and we will continue to do that. But there's only so much data on long-term adaptations.
+
+171
+01:15:53,536 --> 01:16:22,224
+and especially when we consider the expected magnitude of improvements that we're going to find well-trained athletes, especially once they're in shape for the season. I mean, there's only so much data that you're going to get in a 48-week study. And we'll have to get more into this in a future episode because there's some really interesting stuff out there right now. But in a lot of ways, I like to think that
+
+172
+01:16:22,224 --> 01:16:48,256
+Coaching Observations. All the coaches out there are listening to this, and I know there's a bunch of you. I think coaching observations in a lot of ways are just as informative, if not more so, than what we see in a short-term study. Because the study is about isolating variables. It's about if we do this certain thing, what's the training principle being illustrated that we can apply? It does not mean that we've got to wholesale take a study's intervention in a...
+
+173
+01:16:48,256 --> 01:17:17,360
+and just like stick it into training peaks. That's probably a horrible idea when you've seen some of the protocols that we've looked at in some papers. Just ask ChatGPT. Huh? I said, or just ask ChatGPT. Oh yeah, ask ChatGPT to give you some of the hardest protocols that you've ever seen in the training literature that have led to some of the biggest increases in VHMAX or something. And so, you know, so...
+
+174
+01:17:17,776 --> 01:17:44,560
+Like I've harped a little bit on in the podcast, and it's been a while since I've done this, but performance should be your guiding light. And so regardless of why you think something should or shouldn't work, if it doesn't affect your performance in the positive way that you think it should or that you would like it to, I think that counts as a perfectly valid observation, especially once you've gotten rid of all the other variables like
+
+175
+01:17:44,560 --> 01:18:13,744
+Sleep, Nutrition, Stress, and all the stuff that would cause you to not adapt to a program or a training stimulus, but I still think it's a valid observation. And I think, especially for coaching, we get to observe a lot. And our N equals whatever is much greater than you're going to find in most studies. And so even though we are typically not statistically rigorously analyzing our data,
+
+176
+01:18:13,744 --> 01:18:43,104
+I mean, I still think that it's, you know, they're valid empirical observations. And that, by the way, is one of the reasons that I named it empirical cycling, because I knew that it wasn't all in the literature, nor would it ever be. And so, everything starts and ends with those observations of performance. Like, today's podcast started, the paper that we had, started with observations in well-trained athletes.
+
+177
+01:18:43,104 --> 01:19:09,248
+started with performance observations. And so eventually, we've got to get back to an observation. And our observations are that manipulating this variable doesn't actually work. All right. Any thoughts before we get out of here, Kyle? Because I know you've got to get going soon. I think this is super interesting. I understand that it's a...
+
+178
+01:19:09,248 --> 01:19:37,264
+maybe disappointing conclusion and that I guess the conclusions are being used to justify or motivate the wrong things. But all in all, I think it's a good lesson overall for people in their journey through learning and understanding how research goes. A lot of times research does present you with results that you maybe don't expect or
+
+179
+01:19:37,264 --> 01:20:05,360
+you get a conclusion that maybe doesn't jive and the exact causes like the exact reason for why say low glycogen training isn't helpful isn't exactly clear just by this read of the paper and so unfortunately things are very complex but that's a part of learning and I think a part of research is peeling back these layers and this is a particularly thorough example of people really really doing their
+
+180
+01:20:05,360 --> 01:20:29,776
+their preparation to design a good experiment to measure something. And they produced a result, and they got a measurement, and that's great. But there are how many other papers that you would have to layer on top of that to actually arrive at a conclusion to help your training? And so, yeah, I think research for research's sake is super interesting, but it is not always...
+
+181
+01:20:29,776 --> 01:20:55,520
+directly connected to training, unfortunately. Yeah, and a lot of the other references, I mean, probably I would say only about 20% of the references to this paper were in the training and performance and or even, you know, that kind of realm. A lot of it was really other more mechanistic stuff or more in the health or more in the like medical field. And so, I mean, there's a lot of applications to this stuff beyond this. But, you know, like I said, like...
+
+182
+01:20:55,520 --> 01:21:25,184
+There should be more research on this stuff. I think we should just be really, really careful. I would say cynical, but that's maybe not the right attitude. We should be careful and judicious in the level of evidence that we need for deciding that a training intervention is going to be potentially worth it.
+
+183
+01:21:25,184 --> 01:21:54,576
+basic polarized training plan of, you know, mostly endurance riding and a couple three by eights or four by eights even. And how many people improved on that? I'd say I saw probably two or three people improved after the course of like a month or two and then nothing beyond that. And so, okay, cool. You have now done an experiment on yourself. You did a four to eight week training study and you saw some improvements and then it stopped after that. Valid observation that those improvements stopped, right? And so,
+
+184
+01:21:54,576 --> 01:22:21,776
+That's just another example of how you can do this process yourself. You don't need a bunch of molecular data. You don't need to have Petri dishes in your basement. You don't need to have column chromatography. You don't need to start ordering SDS page gels or anything like that. You can do these experiments on yourself as long as you've got, I think, a decent reason to think something might work, but be realistic about what you're observing that does work. It does not.
+
+185
+01:22:21,776 --> 01:22:51,152
+All right. Thanks, everybody, for listening. If you would like to reach out for coaching, empiricalcycling at gmail.com, especially if you want some more hands-on coaching, which is not for everybody, but that is how we operate. We are very high contact, as I've seen it said. So yeah, so feel free to reach out, empiricalcycling at gmail.com, or if you'd like to consult with us and you want to keep coaching yourself, that is a good way to approach it if you want to get the tools to plan and adjust your own training. And if you want to share the podcast, five-star rating and a glowing review wherever you listen to podcasts.
+
+186
+01:22:51,152 --> 01:23:04,464
+goes a long way. If you want to share the podcast word of mouth and on a forum or wherever, it goes a long way and ad-free, empiricalcycling.com slash donate and we will see you all next time. Thanks everyone.
+

@@ -1,0 +1,704 @@
+1
+00:00:00,368 --> 00:00:29,968
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Today, we are joined by Kyle Helsen again, and I want to thank everybody for listening as usual. And if you are new here, please consider subscribing if you like the podcast and you like what you're hearing. And if you are a returning listener, thank you so much for coming back. We love having you back. And if you want to help the show out, you can always give it a five-star rating wherever you listen to podcasts. A really glowing review always helps a lot. Thank you so much for all of those. And we are completely ad-free and always will be, so you can donate to the show to support us at empiricalcycling.com slash donate.
+
+2
+00:00:29,968 --> 00:00:59,184
+If you would like to reach out for coaching or consultations because we are an actual coaching company, you can always do so either on the website at empiricalcycling.com under the contact tab. I got some prompts up there so we can learn about each other, get the process rolling faster, or you can just shoot me an email, empiricalcycling at gmail.com. And if you would like to reach out for consultation too, if you want to keep self-coaching, that is something that we can help support you with. I've been doing a lot of consultations right now for people heading into summer or fall races.
+
+3
+00:00:59,184 --> 00:01:24,288
+That's really fun. So thanks for everybody who's done that so far. And if you want to follow on Instagram, Empirical Cycling, if you want to ask a question for the podcast up in the stories, so give me a follow there. Or I just do a regular weekend AMA if you've got something that's just generally on your mind. Maybe write it down. Don't DM me. I will. They're there for everybody's benefit. And I have a lot of fun with those. It's good practice. So anyway.
+
+4
+00:01:24,288 --> 00:01:48,960
+Today, we are back with Wattstock, and I've actually been wanting to do this episode for, what year is it? Five years now. Maybe more. Maybe more than five years. Because we are going to talk about one of the papers investigating noob gains. And I ran across this paper, yeah, five, six, seven years ago, something like that. And I always thought it was...
+
+5
+00:01:48,960 --> 00:02:08,783
+really, really well done. And I have been thinking about doing a podcast on it now as we kind of move from thinking about peripheral adaptation and the muscles, which we've done a lot of in the last couple of years, and now going towards the central adaptations, I think that this one is going to be a really, really good place to start. So having said all that, Kyle, talk to me about...
+
+6
+00:02:08,783 --> 00:02:34,672
+noob gains. Like, what do you think people usually experience with noob gains? I know you and I have both gone through noob gains several times in the last couple years. So what's your experience with that? And what do people usually think of noob gains as a being? I think people usually see them as being, one, like, really rapid, maybe even not just, like, linear, but, like, extremely non-linear.
+
+7
+00:02:34,672 --> 00:03:04,192
+like improvements. And like, so like, you know, it's not just that you're getting better, you know, 5% a week. It's that like, all of a sudden you can do, you know, 100% more than you could like two weeks ago. And like, okay, well, if I do the math, I'm not going to be, you know, 10,000% better than where I started. But it's just the feeling of like, almost like every time, you know, maybe you can even experience this if you've had a long layoff or something, but like you get back on the bike and every day you're like, wow, this is like way easier than the last time.
+
+8
+00:03:04,192 --> 00:03:33,040
+Even if that last time was only like a day or two ago, or even the day before, you're like, wow, all of this stuff is, it's just, your RPE just keeps tanking for maybe speed or power or whatever you have, you know? Or for lifting, like, you know, you can, what you used to be able to do for a set of 10, like a week later, you're like, oh, I can do 15, you know? Like, that's not normal. That is very rapid, yeah. Yeah, you know, stuff like that where it's, you reach this point where you're, it's,
+
+9
+00:03:33,040 --> 00:04:02,256
+almost, it's funny, but it's like, because you're like, okay, you can see where you could get discouraged if the results don't stay like that forever, but also early on, it can be really motivating because every day you're getting better and, you know, sports is usually about long-term payoff and like no immediate gratification and this is like the one time you get some immediate gratification in sports.
+
+10
+00:04:03,184 --> 00:04:26,784
+Yeah. Yeah, you're on the bottom of that log curve. Yeah. Like, I mean, just Google logarithmic curve. I could just live there forever. Yeah, and logarithmic curve starts at one, but like, it'll just, it shoots straight up, and then the returns start to diminish. We might call those diminishing returns, if one were so inclined. And that's...
+
+11
+00:04:26,784 --> 00:04:55,504
+Actually, I'm aware of a group of strength researchers who are looking at strength research in terms of what kind of log curve does this resemble, if it indeed does resemble a log curve. And they've actually got some really compelling results so far that I've heard of. So that's really cool. Hopefully we see that in the endurance world sometime soon. But anyway, we're getting ahead of ourselves because right now we are going to think about
+
+12
+00:04:55,504 --> 00:05:24,016
+noob gains in a more physiologic fashion. So I think most people tend to think of noob gains as a rapid increase in FTP. And I think endurance also, but probably to a lesser extent, because I think the endurance thing is like, it's part of a normal training progression in that, you know, your first week back, your first week ever training, what do you do, like five or six hours maybe?
+
+13
+00:05:24,016 --> 00:05:51,184
+and it's probably like commuting somewhere actually. So it's not really training, but you are indeed riding and riding matters. So the progression of volume and endurance seems to be a given almost. And I think definitely if you had asked me when I started riding around 2010-ish and I really started to compete and train and everything.
+
+14
+00:05:51,664 --> 00:06:21,568
+I would have had that opinion. And so I think, and this is just me obviously projecting, but I think that a lot of people probably feel similar and that the big thing that people really like about noob gains is that your FTP goes up pretty rapidly. Like I think if I had tested like way early on, my FTP probably would have been like 150 watts, like just literally off the couch and having done like not much for years.
+
+15
+00:06:21,568 --> 00:06:50,416
+and, you know, eventually it came out to like double, but, you know, in the first couple months, like, you know, I've seen myself gain 50 watts of FTP in the course of like a month or two or something like that and that's retraining, but it's, I think that they're similar. So, so anyway, so I think that we've kind of covered the parallel adaptations here because when you start training,
+
+16
+00:06:50,736 --> 00:07:09,696
+The improvements in FTP we're about to discuss seem to be mostly centrally driven. We'll talk about what that means. But we've spent a lot of the last 20-ish Wattstock episodes on peripheral adaptation, so in the muscles. And so that is like...
+
+17
+00:07:09,696 --> 00:07:39,152
+a lot of where endurance capacity comes from. Maintenance of your energy state, ATP's mass action ratio, increase in mitochondrial content. And we're going to see some of that in one of our studies today. And also when it comes to the literature, the improvements in endurance are actually harder to measure. And I think that's one of the things that also gets us is that looking at how do we measure endurance or fatigue resistance or however you want to call it,
+
+18
+00:07:39,152 --> 00:08:06,528
+that actually gets difficult because how are you going to measure it? Like, are you going to do a five-hour ride with like a five-minute test at the beginning and a five-minute test at the end? Like, okay, do you have a training intervention involved with that? How many participants can you recruit? You know, these are the kinds of things that- I just have people do an FTP test every day. Oh, I heard about that one. Yeah, that's right. And that-
+
+19
+00:08:06,528 --> 00:08:32,751
+as far as I remember, was a good example of retraining. And we'll get to that in a little bit. So anyway, I think endurance improvements are also, besides harder to measure, well, because they're harder to measure, we don't have anything like FTP for your fatigue resistance. So you can't brag about it on a group ride. And I think that that's the biggest pain in the ass of all, obviously.
+
+20
+00:08:33,392 --> 00:09:01,376
+In reality, the improvements that lead to endurance are just about as well studied as VO2max improvements in terms of the physiologic response that we can measure, like citrate synthase assays, like transmission electron microscopy, which today's main study did do, which I think is really cool, and et cetera, et cetera. So I think endurance is being better studied now in terms of
+
+21
+00:09:01,376 --> 00:09:29,472
+its response and new gains and everything in terms of the actual performance outcomes rather than what's happening on a biological, physiological level, a molecular level in your muscles like we've kind of been nerding out about. So I'm looking forward to all that stuff coming out. But parallel to that are the other adaptations that happen. And these are the ones, and we'll show you why I say this, these are the ones that actually
+
+22
+00:09:29,472 --> 00:09:44,816
+lead to FTP improvements because the historical context is necessary. Kyle, do you remember in 2015 what the state of exercise physiology literature was by any chance?
+
+23
+00:09:46,448 --> 00:10:11,728
+I'm going to say not off the top of my head, no. Okay, good. Me neither. And I learned a lot about it as I was kind of digging for context for today's paper. And the paper itself gives some context, but I had to chase out a bunch of references because I was fascinated by what had led up to this paper. And so in 2015, despite actual decades of research, like from the starting in the...
+
+24
+00:10:12,432 --> 00:10:41,920
+depending on how you want to define it, I would probably argue like starting in the 50s or 60s, you know, there had been a lot of research on the individual contributions of like cardiovascular adaptations, heart stroke volume, capillary density, hemoglobin, mitochondrial volume, enzymes and glycogen storage, fiber type, like those things had more or less been studied for, you know, many, many, many years leading up to 2015.
+
+25
+00:10:41,920 --> 00:11:11,408
+But what had not happened is that they hadn't all been addressed at once. And so folks didn't really seem to understand what the relative contributions were. And going back to the VO2max series, what we know now is, I'll put this up in the show notes. I snagged a graphic out of a paper that we looked at called Contribution of Oxygen Extraction Fraction to Maximal Oxygen Uptake in Health of Young Men.
+
+26
+00:11:11,408 --> 00:11:39,536
+and this basically looks at what's the actual ability to utilize oxygen from your blood when you measure it at two certain points and what the paper calls O2 extraction, although technically we know it's not extraction, it's actually just utilization because extraction sounds active and we know that this is a passive process. There's no energy input to get oxygen off of hemoglobin. Extraction sounds like...
+
+27
+00:11:39,536 --> 00:12:08,896
+like Rainbow Six or something you're going to extract. Oh yeah, okay, Rainbow Six, all right, now I got it. I was like, this sounds like a quarry, like you're going to extract ore from the Earth's mantle. But yeah, so here they're looking at untrained versus trained in this graphic and all of the oxygen utilization differences are, they're there?
+
+28
+00:12:08,896 --> 00:12:30,576
+but they are not massive until you get to Qmax which is the maximum cardiac output in liters per minute and VO2 max in this one in liters per minute also and here is where we see a massive difference in untrained and trained athletes so pretty much up until this paper
+
+29
+00:12:30,576 --> 00:13:00,320
+in 2015, nothing had really, like I said, simultaneously assessed the entire gamut of adaptations that happen in people when they begin endurance training. And so it was kind of a more open question of how important are mitochondrial enzyme density improvements? How important is that to your VO2 max? Because if we know the Fick equation, it's basically oxygen utilization and heart stroke.
+
+30
+00:13:00,320 --> 00:13:28,624
+Volume and Rapidity. Those things all contribute. And so when we are just looking at that equation, one looks just as important as the other, right? It's like if you've got 2 plus 3 equals 5, what's more important, the 2 or the 3? Maybe the 3? I don't know. You would say that. Yeah, I mean, it's bigger. Right.
+
+31
+00:13:28,624 --> 00:13:56,288
+But without the two, you would never get to the bigger one. Aha, they're both important. So I think up until then, a lot of papers had studied things in pairs or threes or something like that, but the paper that we're going to look at today, the main paper, is absolutely massive in terms of what they measured because they really wanted to get to the bottom of what is really driving these improvements.
+
+32
+00:13:56,288 --> 00:14:24,656
+And also, we're going to talk a little bit more about this. The authors do note some studies that remove participants' blood volume increases after their training protocols. And the V2 adaptations go down relative to baseline. So that was part of their context of, hey, we've got a big piece of the puzzle here, but now we need to really go in and rigorously test what is the relative contribution of the blood volume increase versus, let's say, the improvement in mitochondria.
+
+33
+00:14:24,656 --> 00:14:53,840
+So this paper is from 2015, like I said, and it's authored in part by one of my favorite researchers, whose name is David Montero, and also Carson Lundby is on this one too, and he is an absolute stalwart of the exercise physiology literature. Like if you've read more than probably 10 or 20 papers, you've probably run across one of these two folks. Yeah, these folks, I've read a ton of papers by them, and every time I see their name, I click. I don't care what it's on.
+
+34
+00:14:53,840 --> 00:15:22,544
+16 previously untrained volunteers, people who had never really exercised to a program in their lives. Their average stats are an age of 25, 180 centimeters tall, and VO2 peak of 3.5 liters a minute, which is probably ballpark exactly in the middle of what you would assume to be a pretty normal 25-year-old male population. And they underwent a six-week training program.
+
+35
+00:15:22,544 --> 00:15:43,216
+They did three to four supervised sessions per week, and the average intensity was 65% of VO2 peak. So we can consider this basically like maybe like endurance tempo sweet spot type training, depending on where somebody's FTP is, right? So it was a combination of like steady power, and they also did a couple...
+
+36
+00:15:43,216 --> 00:16:09,520
+up and down steps of power around 65% VO2 peak. So like 60 to 75%, like five minutes above, five minutes below. And they noted that this was to, quote, facilitate participant motivation and compliance, unquote. So that makes sense. Like it's the same thing as like all those Zwift workouts that you look at, they don't really make any sense and you realize, oh, this is just to keep you engaged and this is for fun, right? Right.
+
+37
+00:16:09,808 --> 00:16:33,088
+And we've even talked about that before. It's like, oh, if you're doing an endurance ride, you know, you don't have to nail 267 watts and just 0.8 watts. Yeah. Yeah. With this six-week training program, averaging all 65% VO2 peak, they did a pre-test.
+
+38
+00:16:33,088 --> 00:16:54,288
+and they did a post-test and then two to three days after their post-test, they got phlebotomized and then retested. So they got their blood drawn. Basically, whatever VO2 max improvements you got or blood volume improvements you got, they robbed you of them. So you just did this entire six-week training program for nothing.
+
+39
+00:16:54,288 --> 00:17:23,808
+Wah, wah, wah. Yeah. And so the testing here, like I said, it says about as comprehensive as I've ever seen it since coil's determinants of endurance performance paper, which we've gone in, which we've gone into in depth. I think we've gone in depth on the podcast like two or three times, like back in like 2019, 2020 or something like that. So yeah, there we go. Coil coming up again. So a not exhaustive list.
+
+40
+00:17:23,808 --> 00:17:49,728
+because we don't have that much time, of the things that they measured, W peak from their RAM test, VO2 peak, peak cardiac output, plasma volume, hemoglobin, hematocrit, capillary fiber ratio, mitochondrial volume density, subsarcolemil and intermyofibrilar mitochondrial volume density, oxidative phosphorylation, as in mitochondrial VO2 max, they just call this OXFOZ in all caps.
+
+41
+00:17:49,728 --> 00:18:19,168
+Fiber Type, Cross-Sectional Area, and et cetera, et cetera. So those are the big ones that people who listen to this podcast are probably familiar with. The techniques used, we've got a couple new ones for the podcast. Well, we've talked about this one briefly before. Mitochondrial volume density was measured via transmission electron microscopy. And this is how they were able to determine the relative amounts of sub-sarcolemal, so that's under the muscle cell,
+
+42
+00:18:19,168 --> 00:18:46,544
+membrane, and intramyofibrillar, which is kind of between all of the bundles of sarcomeres, changes in mitochondria. And they used one cubic millimeter sample, and per sample, they got 216 images per sample. So that's how tiny this stuff is, right? Isn't that cool? Yeah, that is really cool, actually.
+
+43
+00:18:46,544 --> 00:19:00,704
+Other stuff that they used here, they used carbon monoxide rebreathing to measure hemoglobin mass. And I think a lot of people who are kind of plugged into the training world these days are probably familiar with that one.
+
+44
+00:19:00,704 --> 00:19:20,720
+Mostly because there's been WADA banned now, for what it's worth, because when you do a lot of it, things happen, and WADA has decided that is not close enough to naturally occurring, so that's fine. But then they back-calculated blood volume, plasma volume, et cetera, et cetera, from blood samples.
+
+45
+00:19:21,104 --> 00:19:48,304
+So I thought that was really cool. And they also used inert gas-rebreathing nitrous oxide to measure cardiac output. And I did not read the paper explaining how this technique is done. I didn't read that yet, so please don't ask me how it works. I don't know. But they did it, and it seems like it was a pretty well-established method. So I thought that that was really cool and worthy of note for the podcast.
+
+46
+00:19:49,264 --> 00:20:18,880
+We have pre- and post-training stuff. Now we move on to our results section. There's a couple things that really stand out to me. Improvements in VO2 max and cardiac output pre- and post-training are basically as expected. So on average, their W peak, so the peak power from their ramp test, went up almost 16%, and VO2 peak went up 9%. So there's not a linear relationship there, but not that there ever really has been.
+
+47
+00:20:18,880 --> 00:20:48,608
+and then for their post-test, when they were phlebotomized, all of this went right back to baseline pretty much. So yeah, and so this is part of our evidence for what's going on. So if you're wondering, I can't think of a good example off the top of my head, I should have prepared one. But basically like, you know,
+
+48
+00:20:48,608 --> 00:21:17,328
+If you, here's a really dumb example, but like, if you put $100 into your bank account, and then you wonder if that $100 is contributing to your total balance, take $100 away and see what happens. Right. It's kind of like that. Yeah. I mean, and we've talked about blood volume plenty amount, you know, before. Yeah. Yeah, we have. Especially if people just, you know, like we've said before.
+
+49
+00:21:17,328 --> 00:21:46,112
+If you just have a few weeks layoff and the blood volume starts to come back down, you get a little bit of blood volume back and you're good to go. Yeah. And I remember when we looked at another paper, I think we're going to look at it in a couple minutes. One of the things that they did was they both phlebotomized people and they also had people do nothing for two weeks as a detraining protocol or 10 days or something like that. And then they remeasured them to see if it was indeed the same thing.
+
+50
+00:21:46,112 --> 00:22:05,280
+which I don't think is an unreasonable thing to do even though a lot of people I'm sure are going, eh, it seems silly, of course it would be. Like, well, sometimes in science you just got to test it anyway. So they certainly did. But yeah, I think one of the other things I...
+
+51
+00:22:05,280 --> 00:22:33,984
+kind of like to harp on this stuff again, even though people have probably listened to, I think a lot of our listeners, the majority have probably listened to the VA2 Max series, maybe they don't remember it, but also we get a lot of new listeners now and then. So I want to make sure that we're kind of not leaving people behind as it were, in terms of what the assumed knowledge is. So if we are doing that to you, my apologies, and feel free to email me and I can give you a quick summary or something like that.
+
+52
+00:22:33,984 --> 00:23:02,784
+Let's see. Oh, yeah. Mitochondrial volume density went up 40%, which is, yeah. One big mitochondria and it's bigger. Yeah, pretty substantial. But the ETS and volume density ratio actually went down 20%. So that's the electron transport chain proteins. So we actually discussed this one in depth in Wattstock 41.
+
+53
+00:23:02,784 --> 00:23:32,688
+where we saw a non-stoichiometric increase in mitochondrial content versus the electron transport chain proteins. Like the volume of the mitochondria went up without necessarily having an increase in the volume. And that didn't actually get better until they quote-unquote tapered these poor people who were smashing themselves silly with high-intensity intervals. Remember that one? That was like the hardest training protocol I think we've ever discussed on the study, on the podcast. What was it like?
+
+54
+00:23:32,688 --> 00:24:01,648
+I'd volunteer for that study if they paid me well enough too, you know? Oh, that's true. That is part of where all the study funding goes, by the way, if people are wondering. Oh yeah, so the non-steroachymetric increase here, by the way, suggests an expansion of the mitochondrial reticulum needing to happen first before you can stuff it full of proteins. And actually, I've seen similar things recently argued for muscle hypertrophy.
+
+55
+00:24:02,064 --> 00:24:28,320
+where there's a hypothesis. I don't necessarily agree with this, but there's a hypothesis that the pump feeling you get and also the swelling you get, like the inflammation of the muscles to repair, is necessary to expand their volume in order to put more contractile proteins in it. And so this would be, I guess, a parallel type of theory.
+
+56
+00:24:28,320 --> 00:24:57,232
+which I don't know if we'll ever be able to really prove either one of them but I think that they're very interesting nonetheless. We could parallel it to the Raise the Roof concept for VO2Max and FTP I suppose. All right, so back to the show. Fiber type cross-sectional area, I thought this one was really interesting. So type I fibers went down an average of 13% in cross-sectional area.
+
+57
+00:24:57,872 --> 00:25:25,920
+which may or may not represent an actual change. It may have been, you know, could have been related to basically anything like low glycogen stores maybe after the last training session, who knows. Type IIa and Type IIx cross-sectional area went up in size by 13% and 140% respectively. Just a little bit.
+
+58
+00:25:25,920 --> 00:25:55,696
+Just a little bit for those Type IIx fibers. So I think in a way this is not really a surprising result because Type I fibers are probably doing most of the work and then you recruit larger fibers later. But I think the standard deviations on these measurements are actually massive for a pre and post percentage change. So the actual measurements are normal.
+
+59
+00:25:56,048 --> 00:26:24,048
+like 43 plus or minus 13%. So that's a pretty big standard deviation, but, you know, it's not, you know, the percentage. It's not like 43 plus or minus 40% or something, right, where you're like, oh. Well, hold on to your hat because the percentage change for like Type IIa cross-sectional area is 13.69%, nice, plus or minus 27.05%. Yeah.
+
+60
+00:26:24,848 --> 00:26:53,104
+So yeah, so I don't think we can actually put a lot of stock into the fiber size change really because I would guess that part of it is like sampling variants and who knows what else. So I think that the Type IIx increase is probably the only really noteworthy one that we can kind of hang our hat on. Otherwise, we're just going to leave question marks and be like, all right, statistical probabilities, whatever.
+
+61
+00:26:53,104 --> 00:27:23,088
+and then they used bivariate analysis to find our values between VO2 peak and the pre-post and post-phlebotomy measurements. So we've got three things. So you can't really do a T-test and all this stuff. So the biggest standouts are P is less than 0.0001 for Q peak. So the peak cardiac output and also red blood cell volume, plasma volume,
+
+62
+00:27:23,088 --> 00:27:52,704
+blood volume, hemoglobin mass, and all with about an R of 0.8. So statistically, very significant, like just about as good as you would possibly want. And we get also, I want to give minor shoutouts to hematocrit, type I and IIa cross-sectional area, so that's P of less than 0.5 and R is 0.4. So not
+
+63
+00:27:52,704 --> 00:28:21,424
+amazing statistical significance here. And once we turn that R into an R-squared, it's going to be a lot smaller yet. So overall, the authors conclude, and I agree with this based on my analysis of the data before I read the conclusion, which is, by the way, how you should do it, this kind of confirms that changes in the blood characteristics explain the vast majority of VO2 peak improvements, and hence the paper's title,
+
+64
+00:28:21,424 --> 00:28:49,248
+Hematological rather than skeletal muscle adaptations contribute to the increase in peak oxygen uptake induced by moderate endurance training. To me, this pretty conclusively demonstrates its blood cells, blood volume, and heart stroke volume yields VO2 max improvements. And so that is really the origin of noob gains. So does all that make sense? Kyle, what are your thoughts on all of that? Yeah.
+
+65
+00:28:49,248 --> 00:29:15,280
+I think what's interesting is if you step back and think, okay, you know, what's a big, a thing that could be improved faster or processes in your body that change much more quickly than others? Like, you know, blood cells don't last forever. True. It's not like your body made, you know, one set of them when you were, you know.
+
+66
+00:29:15,280 --> 00:29:44,928
+in utero, and then he popped out, and he never had any more ever again. But also, just in terms of blood volume, like, theoretically, you're drinking water, and water is a thing that is the vast majority of blood volume. So, in order for things to improve so rapidly for noob gains, they have to be things like that where the, you know, the interventions or the changes, the adaptations would ever happen quickly, and, you know,
+
+67
+00:29:44,928 --> 00:30:14,064
+Unless you're extremely dehydrated and stuck on a, you know, deserted island or whatever, like, you're going to be drinking water and water is that thing that your body can be like, oh, hey, look, we have a lot of this and, you know, we can pump that, retain more of that to pump, put toward blood volume, for example. Yeah. And it's not like you're just, oh, and, but like, we know from other, you know, other, say, studies or just maybe people's experiences, like, seeing,
+
+68
+00:30:14,960 --> 00:30:40,672
+Bigger changes, you know, in your fiber types and things like that, that like, that takes a long time. You know, it used to be that, oh, fiber types can't change, you can't change them, blah, blah, blah. That's not true. We've talked about this before. But it's not like, oh, I did, I've been a power lifter my whole life. I had one endurance run and now I'm, you know, completely slow twitch, right? Like it's not, it doesn't work like that either.
+
+69
+00:30:40,672 --> 00:31:00,752
+Yeah, definitely. No, you're absolutely right about that. And I mean, I think that reasonably, if people, you know, kind of leading up to the study had really had seen its data without really seeing the performance outcomes, I guess we could call it, just looking at
+
+70
+00:31:00,752 --> 00:31:30,176
+What is the change in plasma volume? What is the change in mitochondrial volume density? What is the change in hematocrit or red cell volume? You would reasonably say that you cannot discount a 40% increase in mitochondrial volume density because that could easily increase the amount of utilization of oxygen.
+
+71
+00:31:30,176 --> 00:31:58,384
+When we kind of put all the pieces together of other studies as well that look at what's the real differences between the very, very, very well-trained people and untrained people, a lot of the difference in oxygen utilization, in my personal opinion, a lot of it comes down to motor unit recruitment and being able to tap into big motor units during specific contractile patterns.
+
+72
+00:31:58,384 --> 00:32:24,880
+Pedaling a Bike, which untrained people are not really so trained at. So that's my opinion, by the way. But I don't know. It makes sense to me, I guess. I hope so. Yeah, certainly from like a coordination and skill standpoint, right? Like, you know, comparisons like, I don't know. What's a sport that's like? I don't know. I love throwing. So let's do golfing. I was going to say shot put. I love shot put. But take your pick. Yeah.
+
+73
+00:32:24,880 --> 00:32:54,736
+Yeah, say, you know, say you did that in high school or something like that, shock plate, you did a high school track and then you haven't done it in, you know, 10 years, 15 years, whatever, and you try to do it, you're like, oh, wow, yeah, this is a very complex three-dimensional motor pattern, you know, compared to something, say, like a bicep curl. Right. Right. Where even you think, oh, like pedaling a bike, it's like kind of basic, but it is, but also it's not, it's not necessarily
+
+74
+00:32:54,736 --> 00:33:23,760
+as simple, it's probably somewhere in between being a bicep curl and like a shot put, right? Where you get people all the time where they're like, oh, like when I sprint on the bike, you know, they're new relatively new to riding. Like when I sprint on the bike, I feel weird. And it's like, yeah, it's not, some people, obviously lots of things come more naturally to you than others, but it's not just like, oh, you, I just move my legs in a circle and everything works out. Yeah, no, absolutely. Yeah. And, you know, and I think that we've made this parallel in the past before with squats.
+
+75
+00:33:23,760 --> 00:33:53,120
+because squats are a fairly complicated movement. I mean, it's simple, but at the same time, it's pretty well known at this point that the first couple weeks to even the first couple months of learning to squat, a lot of it is neural, your improvements in how much you can actually squat. Because if you look at it in terms of how much muscle mass are we gaining, like you are definitely giving a stimulus and gaining muscle mass in your first...
+
+76
+00:33:53,120 --> 00:34:22,752
+working set of squats for sure. But how much more weight is that going to allow you to lift? It's not going to be that much at all, but you do end up lifting a ton more weight because you are getting used to that motor pattern. And so in my opinion, that is really where the big arteriovenous O2 difference originates from. And if you get closer, and usually people also measure this between the
+
+77
+00:34:22,752 --> 00:34:48,960
+main femoral artery and vein. And so like, what's the blood going into the leg? And then what's the blood coming back out? And that is one way you can measure it. You can also measure it in terms of heart catheterization. Like you can put a catheter in, you know, like basically come right next to your main aorta coming out of your heart. And then another one basically going into the...
+
+78
+00:34:48,960 --> 00:35:16,864
+into your, what side is this? Right ventrils. Sorry, I'm used to looking at it on the screen where it's reversed. And so you can measure it there too. Either way, those are a couple of ways that you can measure it. And the closer you get to the heart, the more you get dilution from blood elsewhere in the body. And so the closer you get to your actual working muscle, like if you measure the oxygen concentration going into the capillary bed and coming out, that's where you're going to see the biggest difference.
+
+79
+00:35:16,864 --> 00:35:45,296
+And so having that context in terms of the measurement points, I mean, this is exactly like, you know, if you have ever taken a circuitry class and you've had to put your lead on different parts of the circuit and you can see the resistance and the voltage and the amperage change because of what's between your two leads. And this is very similar to that. If only the human body was modeled as simply as Ohm's law, though.
+
+80
+00:35:45,296 --> 00:36:06,416
+If only. Anyway, so I think one of the other things to do are due diligence. I wanted to look at a couple other studies and mostly I wanted to look at higher intensities. So in terms of other intensities, I think it's, you know, we've talked about this on the podcast and it's pretty common knowledge I think at this point that
+
+81
+00:36:06,416 --> 00:36:28,272
+Higher Intensity Training will get you fitter a little bit faster. Like your log curve of improvements is going to be a little steeper. And so I wanted to look at a high-intensity training protocol. And all right, well, this is going to be short. So spoiler alert, let's get it out of the way right up front. Title is...
+
+82
+00:36:28,272 --> 00:36:57,536
+Increased maximal oxygen uptake after sprint interval training is mediated by central hemodynamic factors as determined by right heart catheterization. Okay, so this is our catheter one. This was in 2023, by the way. So they did something very similar. They had four male and five female participants who were untrained. So we have a little, finally, gender parity in our sample group. And the protocol was three times a week for six weeks.
+
+83
+00:36:57,536 --> 00:37:24,720
+They did three by 30 second sprints with two minute rests, which is, yeah, but like you're done after three efforts. How cool is that? That's great. Yeah, you're just, it's gonna, it doesn't mean that it's gonna be fun. Yeah, oh, it's gonna be the difference between hurting and suffering, right? Well, okay, 65% VO2 peak, it's not, it's not really suffering, not for, not for two hours, so.
+
+84
+00:37:24,784 --> 00:37:52,512
+All right. So the protocol they did in terms of measuring pre and post, they did very similar. And they also phlebotomized people too. So this is pretty much, I don't want to say a copy, but it was very similar to the methods in the Montero paper we just looked at, which is the way that I would hope somebody would do it because I thought the Montero methods were really good. So they... I think... Yeah.
+
+85
+00:37:52,512 --> 00:38:22,480
+I think this is also pretty common, right? People will see, oh, this paper did this one thing really well. I wonder if it happens in this other case, and their analysis is really good, so we're going to do a similar analysis. It's not like you're stealing someone's IP or something for running a series of tests. You're like, oh, no, that was really comprehensive, and they did it well, so we're also going to try to do it well. Very true. I mean, this is why it gets published, too, because you want other people to replicate your studies.
+
+86
+00:38:22,480 --> 00:38:44,048
+Yeah. Right? Because like, you know, just Google replication crisis if you're not sure why that's a good thing. Or just DM Rory and ask if I go on a rant. He will too. He's on vacation right now, so maybe not this weekend. But starting Monday, feel free.
+
+87
+00:38:44,624 --> 00:39:10,832
+So they did similar methods for measuring VO2 max, calculating blood, plasma, hemoglobin volumes, et cetera. And they saw similar responses. They saw 5.5% increase of blood volume. Montero saw 5.8. They also plotted the Q max versus VO2 peak, and they saw R of 0.93. Montero saw 0.84. So we're in pretty good company here.
+
+88
+00:39:10,832 --> 00:39:39,584
+And there's more if you want to dig in, by the way. They're both open text papers, and we'll have the links up in the show notes at empiricalcycling.com under the podcast episodes. So what's really cool about this paper is, like I said, to measure cardiac output, instead of doing, oh yeah, inert gas rebreathing for Montero, I did note that, my bad, which is non-invasive, but it's also indirect. So they went,
+
+89
+00:39:39,584 --> 00:40:06,208
+for the direct method, like I was talking about. So they put a catheter directly in to measure cardiac output and they saw similar measurements to Montero to not exactly validate Montero's measurements, but we can say they're corroborated, I guess. So cardiac output went up 8.8% in this paper and Montero saw 7.2%.
+
+90
+00:40:06,208 --> 00:40:34,992
+and they had very similar baseline measurements in liters per minute for cardiac output and then they also plotted to just round this out the decrease in VO2 peak versus how much blood was taken and R is 0.82 and they had one big outlier and they were not sure what explains the outlier but they had to note it and of course so do I but nonetheless basically we saw the same improvements for
+
+91
+00:40:35,856 --> 00:41:03,456
+3x30-second sprints with 2-minute rests, 3 times a week for 6 weeks. So maybe, I mean, maybe, okay, so, did I misspeak earlier? I think I did. So I said I think the improvements would be a little more rapid. I think what I should have said was it's a little more time efficient. I was going to say, could you just do a...
+
+92
+00:41:03,456 --> 00:41:30,352
+Calculate the ratio of like VO2 peak to minutes of work done. Or like kilojoules of work done. Yeah, true, yeah. But I think also if they had done more than one set, like I think if they had done something like we would actually assign in coaching, like, you know, I would give somebody like a five by three or for these I would give them, you know, I would give them like two or three sets to start.
+
+93
+00:41:30,352 --> 00:41:57,552
+if they're that new, two or three, and then we'll work up to like three, four, five sets maybe. And so I think that you probably would see more rapid improvements with a little more intervals. We could call it volume, I suppose. But that's not what people usually think of as volume, so nonetheless. So anyway, so maybe I didn't misspeak entirely, but I think based on comparing protocol to protocol.
+
+94
+00:41:57,552 --> 00:42:24,048
+This one was easily more time efficient for new gains to get the same, basically the exact same improvements. And again, once again, showing that blood volume is the big driver here. They took it away and all the work for nothing. Again. You know, I have a, I just thought of something and now I have a theory. You know how those, it's like a few years ago. I wonder if it's like.
+
+95
+00:42:24,208 --> 00:42:49,536
+There's that big boom in popularity in these entirely unregulated IV bars and stuff where you'd go in and they'd give you some weird concoction. I wonder if people were seeing benefits because they were getting an extra 500 milliliters of blood point. Like, oh, I do feel a lot better. And obviously... Funny you say that.
+
+96
+00:42:49,536 --> 00:43:18,944
+because there was a study that we looked at on the podcast previously where they had tried to supercompensate somebody's blood plasma volume. Yes, I remember this. Yeah, and you know what they found? They did not see an improvement in VO2 max. I'm going to link to the paper where they had people detrain for two weeks and they re-infused the lost plasma volume. So they used the blue dye procedure. So this is an older method to measure blood volume.
+
+97
+00:43:18,944 --> 00:43:44,624
+As far as I know, it predates the method in the other papers by at least 10 years. So you used to have to inject dye, a known amount of dye, and wait like 15-20 minutes, and then wait for it to dilute in somebody's blood, and then you like take a blood sample and see how diluted it is based on the volume of your sample, and you can extrapolate that, it's a basic multiplication, to get somebody's total blood volume.
+
+98
+00:43:44,656 --> 00:44:10,576
+which may be the way they're going to have to go in the future. I don't know. Maybe they're going to use nitrous oxide or something like that instead. Who knows? I don't. Anyway, so these were trained subjects. So as a refresher, yeah, they re-infused the normal plasma volume back into participants to mostly restore the lost VO2 max, mostly.
+
+99
+00:44:10,576 --> 00:44:37,584
+and they expanded it further. They did not see further VO2max improvements. So anyway, like I was saying, this is the big piece of the puzzle for the evidence that cardiac function is a limiter for improving VO2max in trained athletes. And this is a big difference between untrained athletes and trained athletes. So in untrained athletes, basically you can infuse saline or just have them train and
+
+100
+00:44:37,584 --> 00:45:07,456
+expand their blood volume, and that will get them viewed to max improvements. But once you get really, really well-trained, you can put as much blood volume as you want, but it seems like there's a limit to how much you can stretch that balloon to contract again to have cardiac output. So anyway, like I said, I think that that's fascinating, but for noob gains and for retraining especially,
+
+101
+00:45:07,456 --> 00:45:36,448
+This is even more evidence to suggest that a lot of this stuff is hematological in nature. So they actually found an actual cardiac limit for being able to distend and account for and push out more plasma volume. And I remember also, I think it was in that study, where the people who were either phlebotomized or untrained got...
+
+102
+00:45:36,448 --> 00:46:01,088
+plasma volume re-infused back to normal, and that rapidly replenished most of their VO2 max improvements. And so I think that the important bit of that that I wanted to note, because I think it's really fascinating, is that the plasma volume itself will actually drop your hematocrit. Because you're not re-infusing red cells, you're just infusing saline solution. Yes, right.
+
+103
+00:46:01,088 --> 00:46:23,248
+Like, you're not getting a blood transfusion, or you didn't get a blood transfusion in that study. I'm sure that's been done in other studies. But the hematocrit dropped and you saw an improvement in VO2 max. And so, you know, there is a, according to this evidence anyway, there seems to be a much greater contribution of total blood volume relative...
+
+104
+00:46:23,248 --> 00:46:51,632
+to VO2max rather than your hematocrit. And we'll talk about hematocrit and regulation of that in a future episode. But for now, I think that that's really fascinating to think about. And it brings up a lot of interesting questions like, you know, do we need a bunch of plasma volume expanding things like heat training in order to speed this process up? And the answer is, I don't know. Maybe. Maybe.
+
+105
+00:46:51,632 --> 00:47:20,240
+But at the same time... Everyone's favorite wishy-washy answer. Yeah. Well, it's better than it depends, right? But... It's basically the same answer as it depends. Stop, I know. I actually, personally, I don't usually assign heat training for people who are retraining, mostly because it's an additional stressor, and I'd rather the improvements come from just training, personally.
+
+106
+00:47:20,240 --> 00:47:50,000
+because I find that I used to assign heat training a lot more like a couple of years ago, like maybe five, six, eight, but not as much anymore, mostly because I've seen the stress that it takes on people and especially if people are not great at rehydrating, all you're really doing is turning yourself into a little potato chip. Like you've just put yourself in the air fryer and you let yourself sit there for too long and now you are dry as a, you know. Right.
+
+107
+00:47:50,000 --> 00:48:19,504
+Fall Leaf, and now what? And it's easy to overdo, right? Yes, very easy to overdo. Like, you don't have to do VO2 max intervals with a sweatshirt on. No, please don't. In fact, you shouldn't. Because here's the thing. It also doesn't seem to me that there's any need to rush it. Because you're going to get to the same point after a few weeks regardless, and I would rather somebody be less
+
+108
+00:48:19,504 --> 00:48:49,200
+Stress, have had less total stressors on themselves when we get to the time that somebody actually has to train really hard. And I know heat training for a lot of people is probably old hat at this point, and it's not a big deal. And I guess if you want to do that, that's fine. In my experience with people who do this kind of stuff, do heat training frequently, whether I give it to them or not, I honestly don't see massive differences in their improvements, whether they are heat training or not.
+
+109
+00:48:49,200 --> 00:49:14,800
+It all seems to be relatively the same. So another reason I just anecdotally, I don't think you're going to find a ton. It's not like you're not going to find a massive breakthrough by adding heat training and whatnot. So I would also, yeah, I can envision it also enabling someone who's maybe not like ready to handle more work.
+
+110
+00:49:14,800 --> 00:49:42,144
+But it, like, tricks them into thinking that they can handle more work and then, you know, just overcooking it generally, whether it's, you know, heat-related or not. You're just, oh, I have this, you know, all of a sudden, RPEs are much lower. I'm just going to go harder. Yes. Yeah, very true. All right. So, yeah, so I'm very deliberate about when I program in heat training these days versus how I used to be, which was a little more...
+
+111
+00:49:42,144 --> 00:50:08,752
+Kind of everybody can do it at all times or whatever. And yeah, I've just seen it kind of backfire sometimes. So I'm careful now. So I also wanted to include one more paper on this. This is a paper from Sultan in 1986, which is contemporary to the previous paper, by the way, where they tried to re-infuse and then super-infuse plasma volume.
+
+112
+00:50:09,392 --> 00:50:39,152
+The title is just Hemodynamic Adaptations to Exercise. And I like, I really like Sultan. I hope I'm pronouncing that correctly. I don't think I am. But in the abstract, he sets the whole thing out. I quote, by measuring blood flow and oxygen uptake of exercising muscles when only a small fraction of the total muscle mass is engaged in exercise, it has been demonstrated that the skeletal muscle
+
+113
+00:50:39,152 --> 00:51:05,136
+of man could accommodate a blood flow of at least 200 milliliters per 100 grams per minute and consume 300 milliliters of O2 per 100 grams per minute at exhaustive exercise. Thus, in whole body exercise, the limiting factor is the capacity of the heart to deliver oxygen, not the muscle. Unquote.
+
+114
+00:51:06,640 --> 00:51:31,120
+Yeah, this kind of reminds me when we talked about, oh, like, you know, this is why O2 vector doping works. Yes. Yeah, if you immediately, and also, like, this is why if you, like, live your whole life at altitude and you go to sea level, you get an instantaneous improvement in your VO2 max. And that's not because you are...
+
+115
+00:51:31,120 --> 00:51:57,632
+It's not because you've improved your hematocrit or anything like that. It's because the pressure of oxygen in the atmosphere is greater, and that pressure literally makes it all the way down to your cells. And so that pressure gradient is what is driving oxygen into your muscles. And so when there's less pressure, you get less oxygen. When there's more, it's immediate. It's instantaneous, like I said. And so Salton is absolutely right here in that.
+
+116
+00:51:57,632 --> 00:52:26,576
+The capacity of muscle, and specifically if you isolate the mitochondria, we've seen this too, mitochondria's capacity to move through the electron transport chain and the Krebs cycle is way beyond what we can actually provide it in human cells when you're alive. You've got to take that stuff out of your body to get it to do any more because oxygen is the limiting factor here.
+
+117
+00:52:26,736 --> 00:52:56,624
+So really from first principles, if, well, if anybody had read this paper and really taken stock in it, we've known that it's been factors related to the heart the entire time. So just to think about the principles involved, let's imagine a world in which blood volume does not expand. How do we increase O2 delivery to the muscles? We could increase heart rate for the same intensity.
+
+118
+00:52:58,032 --> 00:53:25,904
+Right? So that's going to be pretty ridiculous. I was going to say, that's going to get uncomfortable real fast. Right. So let's say everybody, like you and me, had the same relative heart rates, which actually I think we do roughly. And let's say we had the same threshold and everything. So we started at, like, let's say 200 watts FTP. And for an FTP interval, we're doing 150, 160-ish, 170 beats per minute.
+
+119
+00:53:25,904 --> 00:53:50,896
+and now if our blood volume doesn't expand, we gotta get more oxygen to the muscles and we're going to improve our threshold to 400 watts, how fast does your heart have to beat now? Like at some point you're gonna be being so, I don't know, I think you would like, you wouldn't even have laminar flow at that point, like you'd be pumping air. Just, I mean, what do hummingbirds do, right?
+
+120
+00:53:50,896 --> 00:54:15,040
+Well, I mean, they got tiny-ass hearts. I mean, this is – a hummingbird heart is basically like an F1 engine, like one of the old V10s that rev to like 18 or whatever. So – and that's one of the ways that F1 engines do work is like they have really small – relatively small displacement. Like the pistons don't move up and down that much relative to like an old –
+
+121
+00:54:15,040 --> 00:54:42,976
+like an old British car or something like that. A Chevy Big Buck. Yeah, pick your favorite MG. So, let's see. What else could we do to increase oxygen delivery to the muscles without increasing blood volume? We could increase hemoglobin concentration in the blood, which would be great when it gets really nice and syrupy.
+
+122
+00:54:42,976 --> 00:55:09,712
+Blood type, ragu. What were you saying about flow again? Yeah, flows like molasses. So another way you could potentially do this is you would radically redistribute blood across the body, but that would, of course, starve some organs to get more oxygen and more blood available to move to the muscles. And our body does this to some extent, but it's a small extent compared to what we would need to do to add like...
+
+123
+00:55:09,712 --> 00:55:37,328
+to go from like two liters a minute to like four, let's say. If two liters a minute were your VO2 max to double that, you would have to do some – you would have to like starve some organs literally. You'd like kill your liver. Yeah, don't do that. So – or you might want to pump the heart even harder. Like if we can squeeze it harder, well, then we've run into a volume problem. Let's say we could squeeze out like even more of a fraction of –
+
+124
+00:55:37,328 --> 00:56:03,248
+of the ejection volume than we already do, right? So what happens then? Well, I don't even want to know. You like rupture a blood vessel. Yeah, your aorta, that blood vessel, just that little blood vessel. So I mean, that's a thought experiment just to illustrate why blood volume is so important and why it makes so much sense.
+
+125
+00:56:03,248 --> 00:56:30,432
+because otherwise the mechanisms are difficult to kind of figure out how would the body do this without really creating more problems than it solves. And one of the other coolest things about cardiac muscle is that it's structured in such a way that we actually need to stretch it to make it contract harder. It's the Frank Starling Law, right? It's like a rubber band. And then...
+
+126
+00:56:30,432 --> 00:56:57,664
+One would guess that some mechanism of increasing preload would potentially be related to increasing cardiac output, right? So pieces are starting to fall together. And now, since the other options seem silly, expanding blood volume is reasonable, but it's easy to make that guess, I think, once you put those pieces together to see how it works. So I think I've at least tried to provide a logical framework about why...
+
+127
+00:56:57,664 --> 00:57:25,680
+All of this kind of makes sense. Like you said, it's like, what's the easy way to make noob gains? Like, what can rapidly change, like, fast enough? And this is it. So, yeah, before Montero and colleagues, it was reasonable to assume, based on the magnitude and overlap of muscular mitochondrial expansion, that it at least contributed.
+
+128
+00:57:25,680 --> 00:57:52,848
+to the utilization side of you, to Max. But we know now that it doesn't contribute that significantly compared to other stuff, for noob gains especially. And we're just going to file retraining under that. But I think the retraining stuff takes way less time than really maximizing your noob gains, right? So anyway, any thoughts before we kind of start wrapping this up and get to listener questions?
+
+129
+00:57:53,456 --> 00:58:21,456
+I just looked at the large, so an F1 engine right now, it's 1.6 liters. The largest Chevy Big Block you can get right now is a 10.4. What is that in gallons? Oh my God. It's two and, you know, two and a half gallons in a V8. That's two and a half gallons of, like, in America, sorry, most of our listeners are American.
+
+130
+00:58:21,456 --> 00:58:46,640
+Yeah, that is, you get a gallon of milk at a time. Imagine two and a half of those. And they'll both make a thousand horsepower, just, you know, in very different ways. All right, so to bring this back around to noob gains, so the best trained people don't really improve their BHM action training.
+
+131
+00:58:46,640 --> 00:59:15,664
+especially at the top level, a lot of world tour people are basically at their best aerobic numbers year round. It doesn't really change that much. You can still go from less fit to more fit, of course, but a lot of it happens through endurance. The changes in blood volume are, you know, they're kind of short. The detraining and retraining is pretty rapid. It definitely happens, but a lot of it's just, you know, a lot of it just comes from other stuff.
+
+132
+00:59:16,848 --> 00:59:45,648
+I think the endurance is a bigger component of that level of fitness. And so I think that if you are out there and you're well-trained, you're like, well, how do I maximize my future adaptations based on what I know happens with like noob gains and retraining? There's really not a lot here. And I think that we've tried to hammer this one home previously on podcasts of like, I think we did an intermediate training podcast.
+
+133
+00:59:45,936 --> 01:00:10,496
+and I think that was part of it. Like don't use the plan that made you fast initially because you can't separate with a plan being effective from your noob gains or something like that. Yeah, that makes sense. So, and also I guess in a six-week program, you know, both low and high intensity interval training works.
+
+134
+01:00:10,496 --> 01:00:37,680
+I mean, and by catenary logic, like everything in between works too. So you can do threshold training, you can do, you know, like steady efforts, like four or five minutes or whatever, like it's all going to be fine. High intensity, a little more. Which is why. Oh yeah, sorry, go ahead. Oh no, it's why sometimes when people are like, oh, like they're brand new and they say like, oh, I want to, like what will get me the most performant, you know, get me fittest the fastest and like, I don't know, man, for the first two months you can do.
+
+135
+01:00:37,680 --> 01:01:02,432
+whatever you want. Yeah. You know, like riding your bike to get ice cream is probably going to make you faster. Maybe not if you have too much ice cream, but you know what, you know, within reason, you know, just do whatever you want. Yes, I'll have 10 large cones, please. Thank you. Yeah. So, yeah, I think also in a high intensity is maybe a little more time efficient.
+
+136
+01:01:02,432 --> 01:01:32,224
+and I have definitely, when I've been in a crunch time with somebody where like they're coming back from injury or illness or something and they're really detrained, I will usually reach for a little harder training that I would normally give them in order to kind of get through these improvements faster as they're getting back and depending on how much time you have, there's always that endless coaching quandary of
+
+137
+01:01:32,224 --> 01:01:59,232
+Do I give this, are this person, is this person going to be more fit from a little more training? Or should I still give them their usual amount of rest heading into a race? Like, that's, that's a big question, like, what's going to lead to more improvements? And there's not a perfect answer there. I usually think it's person dependent on what you choose there. But, you know, those are other practical times that when people are, you know, heading into events.
+
+138
+01:01:59,232 --> 01:02:27,328
+and they've been detrained through no fault of their own, of course. These are similar questions to what do I have to do in order to get the fittest, the fastest, but also without torching myself for my race. So, yeah. And also, I've been trying to harp on the endurance aspect of things here too because, you know, VO2 max and FTP are necessary.
+
+139
+01:02:27,328 --> 01:02:57,232
+but not sufficient for good race performance because there's a lot more to fitness. And so maybe we can start thinking about other stuff being trained as well, which we will at some point. I really want to look at anaerobic capacity someday. So any thoughts on all of that before we get to listener questions? Oh, your comment about endurance makes you think like, it's probably good they didn't try to measure this for running
+
+140
+01:02:57,520 --> 01:03:23,920
+running volume early on, especially if you're not well-trained in running, can have a debilitating effect on new people versus cycling, which is pretty low impact and probably much easier to analyze the data coming out of that. Yeah, for sure. All right, let's see. Listener question number one.
+
+141
+01:03:24,720 --> 01:03:53,504
+Does muscle mass increase initially from only endurance training? The answer is actually yes. Yes, it does. But it depends on how you want to define muscle mass. But I think on most strict definitions of hypertrophy, the answer is yes. And here's why. Hypertrophy can be defined as anything that increases the muscle size. And so we can do this in several different ways.
+
+142
+01:03:53,504 --> 01:04:23,056
+The one that we saw actually in Montero was a biopsy and then looking at individual muscle fibers. And so overall, we generally saw an improvement of muscle size in Type IIa and Type IIx fibers. Type IIx, they really saw a big improvement, but there was a wide standard deviation. But in general, yes, people do see improvements in muscle mass. And this is one of the things that happens a lot, and people are very slim.
+
+143
+01:04:23,056 --> 01:04:51,568
+at like, let's say, 5'8 or 5'10. So 180 centimeters, like our average guys in the study. If you are 140 pounds, you are probably going to see an improvement of body weight by like three to six pounds, I would say, in the first like month or two of training. And a lot of this is going to come from plasma volume, like we said, that'll improve. But it'll also come from your...
+
+144
+01:04:51,568 --> 01:05:21,104
+Stored glycogen and water retention in your muscles and also in your liver. So that's going to, depending on how you measure it, in most ways that measure hypertrophy would detect this, that would improve muscle mass size with endurance training. Is it hypertrophy the way that we usually think about it, of adding contractile units? Absolutely not. You are not going to be doing that with endurance training. No question about it.
+
+145
+01:05:21,104 --> 01:05:47,552
+Yeah, I don't Yeah, go ahead On the other hand, though, people will count the quote-unquote hypertrophy they get out of, you know, starting up creatine again or something Yes, true So, like, and that's basically the same thing Yeah, it's basically water Yeah Yeah, the creatine's not giving you more contractile fibers overnight or in a week or whatever from loading It's, it's, but it does make your muscles physically have more volume Mm-hmm, yeah
+
+146
+01:05:47,552 --> 01:06:15,248
+Yeah, so technically yes, but metaphorically no. Just by metaphorically thinking, are we adding actual like sarcomeres? The answer is no. Okay, next question is, noob gains are in part more blood plasma. See, I know this was pretty common knowledge by now. So would it help to take an IV bag before a long race? I'm going to abide by the no needles policy.
+
+147
+01:06:15,248 --> 01:06:43,952
+So I, and actually, Kyle, this is exactly what you joked about with those clinics. But I genuinely, I think if you are properly tapered and properly hydrated, you're not going to see any benefit from that at all, especially in terms of Fiatimax. What's his face? Ryan Lochte earned himself a year-long USADA ban for posting like a...
+
+148
+01:06:43,952 --> 01:07:12,272
+an Instagram picture of himself at one of those like IV places. Oh, no shit. Yeah. Yeah, stay in school, kids. Don't do that. Like, oh, USADA doesn't have to do a ton of work if you just throw it up on the gram. That's, oh yeah, that's, yeah, read the USADA rules. I need to go reread those myself. Anyway, so next question is,
+
+149
+01:07:12,848 --> 01:07:42,192
+Are they same as advanced gains but faster? Or do specific adaptations predominate like angiogenesis, mitochondrial biogenesis, et cetera, et cetera? Actually, I think we kind of mentioned this already where the improvements that you get as a noob are going to be different than the improvements you get when you're well-trained. And I think especially in terms of VO2 max, a lot of this comes down to the cardiac function. How much can your heart actually expand in order to recontract?
+
+150
+01:07:42,192 --> 01:08:09,664
+and blood volume seems to be the big one because like just untrained, it seems like everyone slash most people, maybe we'll venture to say everyone, has excess cardiac capacity in terms of being able to improve their stroke volume and VO2 max by starting some training and seeing that plasma volume expand. But once you are well trained, as we saw in one of our papers today and as we discussed,
+
+151
+01:08:09,664 --> 01:08:32,240
+twice, by the way, sorry, bonus content for everybody, that if you try to expand beyond where somebody's already at in terms of their plasma volume, it does not lead to an increase in VO2 max because the heart stroke volume is kind of maxed out. And so I think that really shows that cardiac limitation. That, as you're well-trained, is more what you're really up against, in my opinion.
+
+152
+01:08:36,688 --> 01:09:06,287
+Alright, next question. Is it possible to fuck up getting noob gains? Kyle, have at it. You know, I guess based on this, if you're severely dehydrated and you never rehydrate... Which was me at Redlands, by the way. Yeah, oof. Yeah, it's like, you could do that. I mean, if you didn't sleep well, like the whole first two months of training, you'd probably...
+
+153
+01:09:06,287 --> 01:09:34,768
+Test pretty poorly. But some of that, like we said, once you rehydrate, you'll hopefully see the proper gains. It's just you don't want to dig a huge hole and then be so poorly recovered and poorly hydrated that you can't keep training past the noob game stage. Yeah, I mean, your point about recovery there is actually what I would...
+
+154
+01:09:34,768 --> 01:10:01,296
+lean on more because recovery is permissive for adaptation. Like if you're not recovering well, if you're not eating well, you're not sleeping well, if you're super, super stressed, if you're sick, don't expect anything. I mean- This is something I think the fitness bros do embrace pretty well of like, oh, like, you know, you get your gains when you're eating after you're lifting and sleeping well, you know? Yeah. Well, I mean, and I think that they actually really-
+
+155
+01:10:01,296 --> 01:10:30,272
+I think a lot of that comes from the bodybuilding world because, you know, if you are not eating in a surplus at some points and, you know, it doesn't have to be the gallon of milk a day thing. In fact, I don't recommend that at all. But, you know, it illustrates a principle where, you know, bodybuilders are looking to get bigger. Like, you don't get to be freaking Big Remy without eating a lot. Like, the energy in food is necessary to create the tissue.
+
+156
+01:10:30,272 --> 01:10:57,680
+There's energy in tissue and the metabolic processes that create the tissue also require energy. And so if you are only eating to maintain a certain level of tissue, your body's only going to maintain that level of tissue, right? And so I think that despite all the foibles that gym bro culture has and cycling culture is certainly no different, we've got plenty of things that we could better ourselves.
+
+157
+01:10:57,680 --> 01:11:26,736
+You know, because that is a main outcome for them, they realize the importance of food, I think. Right? Yeah, for sure. So yeah, don't fuck up noob games by, and also you can certainly overtrain as a noob. You could definitely overdo it. So yeah. Especially if you are, you know, if you're making, and you know, I feel like this is something that people do, they, you know, if you're really excited.
+
+158
+01:11:26,736 --> 01:11:55,136
+and you're like, oh, I really want to get this workout in and you're ignoring the fact that maybe your body's saying you had a stressful day at work, it was a long day, you didn't sleep that well and you just like power through. That's when you could get in trouble. Yeah, yeah. A lot of ways to fuck it up, I think. A lot of ways. And so I would say use common sense, but what's common sense to some people is not, maybe not gonna.
+
+159
+01:11:55,136 --> 01:12:16,544
+do your rights. So yeah, just be a little nice to yourself for your noob gains, just in case. All right, let's do one more question. How much of noob gains is just learning to suffer? I feel like I picked up a few watts there. I like this question partly because
+
+160
+01:12:16,544 --> 01:12:46,480
+you know, there's, um, like, like I said, right at the start, there's a lot of parallel adaptations to the improvements of the, to max and FTP. Um, like your endurance improves a lot, but you know, we can't, there's not a number for your endurance. It's hard to flex on people on a group ride. Right. So, um, so like, I don't know, what are your thoughts here? I, I kind of like this one too. Cause I think, I think for some people, especially if they're, if they're untrained and say they were having people
+
+161
+01:12:46,608 --> 01:13:16,224
+do those kind of over-under tempo-y workouts and they you would also probably be telling people or prescribing them some information of based on RPE or so you know how does it feel it should be hard but not too hard and if you're new and you've never pushed yourself really really hard sometimes it can be hard to know what is actually an 8 out of 10 or a 10 out of 10 or 7 out of 10 and so especially if you're new and you're
+
+162
+01:13:16,224 --> 01:13:42,400
+going off, you know, not even heart rate, you're just doing everything based on RPE. Yeah, learning to suffer could be part of it that, oh, I could actually, like, oh, this is actually what FTP feels like, and we've talked about this before, of like, after a long time of training, lots of people are able to just know what FTP feels like without having to look at a heart rate monitor or a power meter or anything like that. And that's not exactly the same as learning to suffer, but it kind of is, right?
+
+163
+01:13:42,400 --> 01:14:05,392
+Yeah, no, I agree. And I think that also part of the suffering comes from improved endurance. Like you are physiologically capable of riding longer and digging deeper and you can feel this. And I think that, you know, I wish there were a sexy number that we could flash at people on group rides, but there's not. And I think that part of it is also...
+
+164
+01:14:05,392 --> 01:14:32,128
+illustrated by what we were talking about earlier with neural drive improvements and muscle mass recruitment, like in the cycling-specific pattern. And also, I mean, just like, you know, a 150-watt FTP versus like a 400-watt FTP, like you are required by physics to recruit more muscle mass in order to generate that force. And so that, you know, that's probably part of it too.
+
+165
+01:14:32,128 --> 01:15:01,088
+Yeah, there's no free lunch, like switching to crank length size and stuff like that, right? People are super into that right now and you're like, yeah, it's not how that works. Yeah, yeah, yeah, because you've got a metabolic limiter. It's not like biomechanical. Although biomechanics certainly are, we can consider them permissive of generating maximal power like recovery. So not to discount them because that obviously part of...
+
+166
+01:15:01,088 --> 01:15:30,640
+Big part of the equation these days especially. But yeah, no, I think with learning to suffer also, there's probably a large component of realizing what the hurt feels like. Like the hurt of being at minute 45 in a long threshold test, being at minute 4 out of 5 in a VO2 max effort, being at 19 out of 20 in a long sprint.
+
+167
+01:15:31,056 --> 01:16:00,928
+Those are very different kinds of suffering. And I think once you have gotten used to what all of that suffering actually feels like and is familiar to you and you know you can do it, and especially if you are motivated by seeing that you're stronger than some of your friends with some of this stuff, that kind of pain is motivating. It's like, oh yeah, let me get to the point where I hurt because I know they're going to hurt way more. Let's do this. I want to beat the shit out of them with my hurt. Let's do it. Let's go.
+
+168
+01:16:00,928 --> 01:16:27,344
+Well, and that's why you train, right? And you don't just show up to races untrained. Yeah, well, I mean, some people can do that. Not a lot of people. So, yeah, I think, yeah, pulling back for one meta layer here, I think there's a lot of parallel adaptations that really happen when we are actually getting our noob gains.
+
+169
+01:16:27,344 --> 01:16:55,952
+I think that I just kind of lean into the one that everybody thinks of, of my FTP was going up really fast. And I know I have certainly made the mistake of when my improvement started to peter out because I'm really not that talented aerobically. The first thing I did was think back, what did I do before that made my FTP go up really fast? And should I do that again?
+
+170
+01:16:55,952 --> 01:17:21,120
+I didn't realize that it was going to happen kind of no matter what I did until years later when I started really researching all this stuff. So yeah, but like there's a lot that happens all at once. And I think, yeah, in all of its aspects that we kind of just discussed and probably more, learning to suffer is a part of noob gains for sure. But I think if we had...
+
+171
+01:17:21,120 --> 01:17:50,464
+added RPE ratings into the Montero paper, I don't think it would have had an R of 0.8 or anything like that. Yeah. So, all right. I think we're good to wrap it up? Yeah, this is great. Awesome. I like noob gains. It's when you can feel really good about your ego, you know? Yes. Like, oh, I'm sweet. I'm going to be the next world champion. It's like every time I rotate in a new exercise in my lifting program,
+
+172
+01:17:50,464 --> 01:18:18,368
+Like the first couple weeks where I'm just like packing plates onto the bar, I feel so good. And then once it starts to hit that sticking point of like, all right, I can, maybe I'll add five pounds in a week or two. Like that's that point where I'm like, should I rotate in a new exercise? And I'm like, no, you know better. Don't just stick to it. Because otherwise like it's all just like neural gains, neural gains, neural gains, and you're never really getting to, yeah. Anyway, so. It is fun.
+
+173
+01:18:18,368 --> 01:18:45,424
+I do think it's fun, though, to come back to something that you haven't done in a while and be like, oh, wow, like, oh, you're right, you know, like, barbell or dumbbell rows do transfer over to, like, lat pulldowns, and even though I haven't done lat pulldowns in a while, I can now do more weight than I could before. Yeah, true, yeah. I just rotated in Bulgarian split squats back into my program for the first time in years. I'd been doing, like, narrow stance split squats for forever, or even, like we talked about, on the...
+
+174
+01:18:45,808 --> 01:19:11,104
+on the Strength Training at Home podcast, I had been doing the one where I elevate my heel and doing the split squat like that and like, man, that's a lot of quad stress. But I was feeling a lot of that quad stress and I was like, you know what? I need to have a little less range of motion in my program right now. My quads are really beat up. So I did that. Anyway, so yeah, more thoughts on noob gains.
+
+175
+01:19:11,104 --> 01:19:28,448
+Lifting. There you go. Free bit of lifting Noob Gains advice for our Noob Gains podcast. So we've covered all the bases now. So thank you everybody for listening so much. And if you want to reach out for coaching or consultations, empiricalcycling at gmail.com or head over to the website where you can find contact information or also the show notes up there too.
+
+176
+01:19:28,448 --> 01:19:44,144
+And if you want to share the podcast, that is really the best way to help out because we are ad-free. But if you want to kick us a couple bucks, empiricalcycling.com slash donate. Nice rating wherever you listen to podcasts. And I guess we will see you all next time. Thanks so much. See you. Thanks, everyone.
+

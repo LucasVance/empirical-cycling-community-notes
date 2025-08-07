@@ -1,0 +1,768 @@
+1
+00:00:00,400 --> 00:00:30,000
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Today, we are joined by one of our coaches, Rory Porteus. And thank you, everybody, for listening. If you are new here, please consider subscribing. And if you are returning to the podcast, well, you know what's coming up. And so we appreciate everybody supporting us in all the ways that everybody does support us. And probably the best way and the easiest way is to give us a five-star rating wherever you listen to podcasts. And a glowing review always helps. Thanks so much for all of those. And if you want to donate because we are ad-free content, empiricalcycling.com.
+
+2
+00:00:30,000 --> 00:00:47,264
+Donate. Or if you would like to be coached by us because you like what we're hearing and you're really vibing with us, then we would love to work with you. So reach out to empiricalcycling at gmail.com or head over to the website. We've got a contact form up there and you can learn about our coaches and you can learn about kind of how we coach and all that kind of stuff. Or you can just email me.
+
+3
+00:00:47,264 --> 00:01:13,424
+Ask a couple questions. And if you would like to consult with us, you can always do that. If you'd like to keep coaching yourself and kind of get the tools to plan and adjust your own training, please reach out again, empiricalcycling at gmail.com. And if you want to ask questions for the podcast, go follow me on Instagram. That's where I ask the podcast questions. And we have a couple podcast questions for this episode from our wonderful listeners. And I also do a week in AMAs up in the Instagram story. So go give me a follow over there. And now today.
+
+4
+00:01:13,424 --> 00:01:42,352
+You have clicked on this episode because it's titled the FTP Training Decision Tree. And what I really wanted to accomplish with this is kind of set out some of the coaching decisions that we make when we are working with our clients and we are thinking about training their FTP because this is obviously a thing that everybody thinks a lot about. Somebody who's 70 kilos and has a 200-watt FTP is probably not going to be racing the Tour de France.
+
+5
+00:01:42,352 --> 00:02:07,568
+That doesn't mean that we probably can't find a lot of improvements and get them to the best that they can be. So that's one of the big reasons that FTP matters is it kind of sets the upper limit for sustainable aerobic power production. And I think another reason that we care about it is that power above FTP is not long for this world, right? So, you know, if we can...
+
+6
+00:02:07,568 --> 00:02:32,800
+If we can make our five-minute power our FTP, instead of being able to do like five minutes, we can do it for 30, 40, 50, 60 minutes, etc, etc. So that's kind of some of the big reasons that we care about FTP. And now, Rory, I want to kick it over to you. Why do you care about FTP? It's a nice individual metric to go back to, to define.
+
+7
+00:02:32,800 --> 00:03:01,856
+aerobic progress for a lot of people. And it's also one that obviously clients think a lot about and care a lot about. It's not uncommon for one of the first things clients tell you when you start with them. It's like, I'd like my FTP to be higher. And it's like, well, so we all would. Let's see where you're at yet. But yeah, it's like that nice thing you can pin in the wall and start to mark as a point where you can begin progressing from.
+
+8
+00:03:01,856 --> 00:03:26,560
+Yeah. And I think one of the other factors that I like about FTP is that it integrates central and peripheral factors. So it's a combination of both VO2 max, which is your central cardiovascular capacity, and how well trained your muscles are.
+
+9
+00:03:26,560 --> 00:03:44,880
+And, you know, you and I have both been untrained at various points. Like, what does that first ride back feel like when you're doing threshold efforts? Because to me, it's like, it's like, you know, you aerobically, you've got a lot more space, but your legs just cannot push that hard.
+
+10
+00:03:45,520 --> 00:04:04,880
+Yeah, it's like that. I've often likened things to like a concentration gradient where it's literally how hard do you have to think about your intervals? And when you first come back to a bit of intensity after you've maybe detrained a bit, that need to concentrate is much higher for a given effort than it should be. And so I think that's kind of what you're getting at.
+
+11
+00:04:05,008 --> 00:04:30,192
+Yeah. Yeah. And I think more experienced athletes and especially people who are experienced with strength training tend to be very, very sensitive to this kind of thing. Like I know I am. So yeah. So that's why one of the big reasons that FTP matters. And we'll kind of come around to the flip side of FTP training in a little bit. But I want to think about this from a coaching perspective.
+
+12
+00:04:30,192 --> 00:04:59,456
+And I not only want to think about this from a coaching perspective because the perspective that we have is going to change based on contextual factors for the athlete that we're coaching. And so the factors that I would like to consider, the first one is early season versus later season. I also want to talk about training age and I also want to talk about opportunity cost. So let's dig into early season versus later season because there's a couple ways to approach FTP training.
+
+13
+00:04:59,456 --> 00:05:27,536
+I think one of the big questions a lot of people have with FTP training, because I think it's because I get asked this very frequently, is should you add time or should you add power? Rory, should you add time or should you add power? And I know you and I have slightly different approaches to this, but we do get to the same place in the end. I think it's contextually dependent on the athlete and their circumstances, but generally I'd say time.
+
+14
+00:05:27,824 --> 00:05:55,872
+I've, uh, in the last year, a lot of my clients will tell you that I've become, uh, happy to add intensity, but limiting time, uh, uh, from time to time. Um, yeah, well, I, okay, so I think especially for early season, I really am okay with people auto-regulating this. Like if, if I give you, if I start out with like a 4x10,
+
+15
+00:05:55,872 --> 00:06:24,176
+and, you know, we've kind of got an estimate of where your FTP is. Like, let's say it's 250 watts and you start out and you're like, all right, I'm going to sandbag the first one, 230, 240, something like that. Second one, 240, 245. Okay, cool. Third one, 250, fourth one, 250. Cool. Next workout maybe is going to be like 2x15 or 3x12, 4x12, something like that. And you start out 240, then you do 250 for your second effort. And now your third effort, you're like,
+
+16
+00:06:24,752 --> 00:06:53,440
+I think 250 is too easy. I'm going to try 255 or 260. And you go 255, you're like, okay, this is good. Halfway through your effort, let's say 15 minutes. Second half of that effort, you're like, all right, I'm going to go 260. And then you go, woo, 260 is a little spicy. I'm going to back this down a little bit. And so I trust a lot of my athletes to auto-regulate like that. And in fact, in a lot of the people that I've trained for the longest,
+
+17
+00:06:53,440 --> 00:07:23,024
+or the people who are experienced enough, I don't even give them a target. I see, like I'll assign them like a give me 2x20 FTP and I'll see where they're at and I'll compare it to the previous workout and if they've added watts, then I'm just going to give them a 2x20 again because I hope that next time they'll add a couple more watts and if they don't, they will know, well, I didn't add any more watts so maybe I'll just add a couple more minutes onto my second effort and I'll do a 20 and a 25 and that'll get me to the right spot and then
+
+18
+00:07:23,024 --> 00:07:35,792
+Then we've got other things to consider. So what do you think about that, Rory? Yeah, I am happy for people to auto-regulate to what they think they can do, but I tend to tell people...
+
+19
+00:07:35,792 --> 00:08:03,792
+like auto-regulate the time you think you're going to hold this for rather than the absolute what's because I'd rather someone risk slightly underdoing it for a bit longer than to risk overdoing it for maybe even the intended amount of time because certainly I know that I've got some athletes who could go quite a bit above FTP for the duration that they're intended to do and they can do that.
+
+20
+00:08:03,792 --> 00:08:29,728
+You can do that. I was trying not to reference me for once. But, yeah, like, you've got to... I guess it comes down to, like, what do you want out of the session? And especially in an early season phase where you're maybe expecting FTP to get a bit more movement than you would later on in the season, what do you want people to do with that sort of...
+
+21
+00:08:29,728 --> 00:08:55,904
+rapid upspurt in ability that they have at the very beginning. My inclination is usually, and it's quite often I'll put this in people's workouts, is do a 2x20 or a 3x15 and extend the final interval if you feel good. Oh, I do that all the time, yeah. Yeah, and sometimes people will be like, yeah, I did an extra 40 minutes. It was like, okay, something's happened here.
+
+22
+00:08:55,904 --> 00:09:25,136
+The reason I prefer people do that rather than do the entire amount of time and add watts is you can maybe end up in that dangerous position where someone has added watts, added a bit too much and the fatigue that you now have to recover from going into the rest of the workouts over the following days is maybe not something it was initially accounted for. And obviously like all that stuff that we can change in terms of someone's plan if they did do that.
+
+23
+00:09:25,136 --> 00:09:52,128
+I prefer to take the cautious approach, especially at the beginning. Yeah, I think I agree with you there. Especially if I'm working with somebody who's a little less experienced, I will definitely take a very cautious approach to that kind of stuff. And yeah, it's a lot of time with my more experienced people. I'm just kind of, I'm a little more better with them auto-regulating and just...
+
+24
+00:09:52,128 --> 00:10:19,040
+watching what happens because I know that they know where that ceiling is for FTP. Yeah, people that are relatively new to structured training who are obviously going to see a lot of the easy gains that structured training can offer in that beginning stage, they're the ones that are most likely to find that, oh, I got 10 or 15 watts before we were maybe expecting to or before what another client would be capable of doing.
+
+25
+00:10:19,040 --> 00:10:45,952
+On the one hand, yeah, I agree with you in the sense that those clients are probably not quite good enough at pacing themselves to be able to do the auto-regulation, but also I'd, from a motivational perspective as well, think them suddenly bursting through what even I thought they were going to be able to do from a time perspective is really valuable, because I do think like that
+
+26
+00:10:45,952 --> 00:11:15,632
+Time component is quite a powerful one when people are just starting out. Yeah, I'd agree with that completely, yeah. And so I think that, you know, this is probably, let's wrap this up into a nice little idea is that if you are unsure of your ability to pace and find threshold by feel,
+
+27
+00:11:15,632 --> 00:11:42,784
+Then time is probably the preferred way to go. If you are experienced enough and you know that you can feel a threshold, no problem, then you can auto-regulate your power and how long you are doing your intervals by just how you're feeling on the day. And in the long term, over the course of, let's say, your first two, three months of training, you
+
+28
+00:11:42,784 --> 00:12:09,600
+probably should see pretty substantial improvements. And this is not going to be the case for everybody because once we start talking about training age, this will be different potentially. So how about later seasons? So now we've gotten through maybe one or two months of build and potentially even we've gotten into race season already, especially if somebody starts training in January or, you know.
+
+29
+00:12:09,600 --> 00:12:38,480
+or, you know, aerobic training in January for like a June peak, but racing starts like February or March, right? Now, now we've got like early build, we potentially have some races in here. And so where are you on, in terms of what coaching decisions do you make for FTP training at that point? Uh, it's probably going to be athlete dependent at that point. Uh, so
+
+30
+00:12:39,600 --> 00:13:08,384
+I'm usually going to rely a lot on FTP work when someone is more time-limited or when I think they're specifically going to need a bit of FTP work to try and, you know, Rising Tide lifts, all-bolts type solution to their current fitness. Yeah, that's kind of the best way for me to summarize that, I think.
+
+31
+00:13:08,384 --> 00:13:27,712
+Expand on that a little more. The latter part, I'm guessing? Yeah. I found with some athletes, particularly this year, that relying on just doing VO2s, for instance, has not always been the best way to actually result in any sort of...
+
+32
+00:13:27,712 --> 00:13:49,104
+to result in the FTP gains that we wanted to try and achieve. I can think of one athlete where we did a slightly extended VO2 block and had enormous FTP gains and so I haven't had to do anything different with him. He's just kind of gotten really fit and the FTP work that we've done has largely just been about...
+
+33
+00:13:49,104 --> 00:14:16,768
+improving and maintaining TTE. On the other hand, I've got clients who have done VO2 work and have not seen the expected improvements. So we tried some FTP works. We tried some work that's a little over FTP deliberately and did see the benefits that we wanted to try and encourage. So it's very much a case of from athlete to athlete, what is going to help.
+
+34
+00:14:16,768 --> 00:14:43,088
+essentially lift their fitness in the necessary way. Like what is the low-hanging fruit, I guess, that is the solution to their current little plateau? Because despite what people think about empirical cycling, we're not just the VO2 people. Yeah, I got to do another podcast on that.
+
+35
+00:14:43,088 --> 00:15:12,400
+Quite honestly, I didn't think that that episode or that series was going to have the impact that it did, or I would have added a lot more asterisks and caveats and all sorts of stuff. I was just throwing shit out there. I didn't know what was going to happen. So maybe we'll do that for our next episode. Anyway, so one of the things that I always think about when we get to this point in the season is, well, my first question is like, when do we know we're at this point?
+
+36
+00:15:12,944 --> 00:15:41,648
+And I would say the way that we know we're at this point, to me, is when you are doing threshold training, like you're doing your FTP efforts, and you no longer see any improvements in FTP. You know, let's say you do like a 3x20, and you do a 2x30, and now you're like, uh, I know my FTP is not any higher. You rest up, you retest or do a couple more efforts, and you go, okay.
+
+37
+00:15:41,648 --> 00:16:08,656
+Maybe now, after the rest, maybe my FTP has now gone up 10 or 15 watts. Okay, cool. Now we saw some improvement. Now we're going to extend this again. On the other hand, if it's the same, now we have decisions to make. Because, you know, like you said, it depends on the context of the athlete. But I'd say most often, this is when you would want to start doing VO2 max efforts.
+
+38
+00:16:09,104 --> 00:16:38,592
+to raise that ceiling for your FTP. And I think there are occasions when I would stick with not doing that for various reasons. Like I'd say if somebody's off-bike life is very stressful at that point, the last thing I want to do is hammer them with VO2s. If they've got a lot of races,
+
+39
+00:16:38,592 --> 00:17:08,016
+You know, now I probably, I actually probably would have started VO2s a little earlier in season instead of saving them for, you know, for February, March when racing gets started, even for a June goal, because we got to get that working at some point. And if you've got a busier race season starting early, you know, when are you going to have energy for that kind of stuff? So since oftentimes we'll get little breaks in between races where we can do some VO2s and stuff, but those are some of the decisions that I make.
+
+40
+00:17:08,016 --> 00:17:21,551
+when we're thinking about it. So when do we... So to me, that's really kind of that point of also what is somebody racing? Like if somebody's racing ultras...
+
+41
+00:17:21,680 --> 00:17:48,720
+You know, this is where I would reach for kind of that reverse periodization type approach where we'll do VO2s a lot earlier in season and then we're going to get a lot more specific heading into the races about like, you know, a lot more tempo work, a lot more, you know, long rides like, you know, for ultra people, you know, 8, 10, 12-hour rides. If you're doing a 24-hour race, I'm going to want you to do an overnight ride, check your equipment there, get your nutrition dialed, get your bivy dialed, all that kind of good stuff.
+
+42
+00:17:49,584 --> 00:18:16,144
+You just described pretty much the plan that I put together with a client on a call about a month ago who's planning to do a big ultra around some area in the Mediterranean where it's basically like, yeah, gonna do some long rides now. It'd be a really good idea if you could ride overnight again. Yeah.
+
+43
+00:18:16,144 --> 00:18:42,624
+I get one of the things that stood out when you were talking there is one of the things that this podcast is known for is saying it depends. This is very much an it depends. I have tried to get away from that truck. Well, because I think before I was afraid to expand and this is one of the reasons that our podcasts have gotten to like two something hours now when they used to be like an hour. Which this one will not be.
+
+44
+00:18:42,624 --> 00:19:10,736
+Rory's a little dehydrated from the unusually warm Scottish day out there. Specifically not dehydrated. That's my problem. I actually, for the listeners, it was 40 degrees Celsius over there today for Rory. More like 32. 30-something. And I actually thought that he was going to be calling in from Spain. That's how warm it was. So, all right. Now, where were we? We were...
+
+45
+00:19:10,736 --> 00:19:36,592
+Talking about later seasons. So to me, if somebody doesn't have a bunch of races coming up, this is where we will switch to more VO2s. And the question, I think a lot of people ask or would ask at this point, should I do a block? And I think if you have not really done any type of really focused VO2s, I would not do a block of training. Like all that stuff I listed out in the VO2 series, those are options.
+
+46
+00:19:36,592 --> 00:20:02,864
+You do not have to do all of those. But I know, of course, a lot of people listening, and I'm one of you, so I know where the impulse comes from. Over-optimizing. I am also an over-optimizer, mostly for myself with my clients. I'm a lot more sensible. But I understand where the instinct comes from, so I cannot fault you for it. But should you do a VO2 block to bump up your FTP, I would say...
+
+47
+00:20:02,864 --> 00:20:30,544
+to give you a preview of what I guess will be the next 10-Minute Tips episode. Or maybe we'll dig into some literature and maybe it'll be a lot of stock. Who knows? If you are doing like a VO2 day, let's say you're doing a pretty basic, you know, four or five or six by five, something like that. And you are seeing improvements ride to ride and you're seeing power improve and you're also seeing threshold improve.
+
+48
+00:20:31,312 --> 00:20:51,264
+You don't have to do anything harder than that. And if you stop seeing improvements, you know, now we might need to improve the stimulus if we think that it's a stimulus problem. It might also be a recovery problem. You know, like I said, if you've got a busy race season, you know, you're racing Saturday, Sunday.
+
+49
+00:20:51,264 --> 00:21:16,048
+for three, four weeks in a row. The last thing I want you to do is hit VO2 max intervals on Tuesday and Wednesday also. You are not going to make it to the end of that block. And Rory is grimacing right now because he knows how hard that is and how it should not be done. Yeah, we're kind of getting into the opportunity cost side of things because in the time period that we're discussing, obviously,
+
+50
+00:21:16,336 --> 00:21:45,696
+there's a whole range of different things you can begin to thinking about prioritizing coming up to whatever your chosen event is or whatever the goals you want to accomplish are and so yeah you can start to integrate some VO2s into your time you could maybe try and do more TTE work if you like have to do like a 50 mile TT for instance like there's no one size fit
+
+51
+00:21:45,696 --> 00:22:10,480
+So I'll answer here. And the, what did you say you're going to call this episode? The decision tree? Yeah, the FTP training decision tree. Yeah, the FTP decision tree that you've got to end up following your way down and working out which branch you're going to take is entirely dependent about
+
+52
+00:22:10,480 --> 00:22:37,856
+What's going on contextually in terms of like you in the next eight weeks, let's say? Because if your goal races are in a month, then absolutely do not do a fucking VO2 block. If you're planning to go on a week-long training camp, don't do VO2s before it, maybe do some after it, you know, reap those out, those volume gains if you're going to be riding a lot at some point.
+
+53
+00:22:37,856 --> 00:22:56,192
+There's too many ways for us to list every particular option out here, but think about contextually what is going to be happening in the following weeks. What can we do to influence trading in a way that's going to be...
+
+54
+00:22:56,192 --> 00:23:25,200
+the most productive for what you want to accomplish. And that, again, coming back to what you said a moment, like that's not necessarily going to result in the most optimized training plan. It's not necessarily going to be the one that gets you the fittest you could ever be, but we're not preparing all this in a vacuum. We're trying to think about everything else you've got to accomplish and, you know, getting you there, not to some hypotheticalized ideal. Well, I think what you're also getting at
+
+55
+00:23:25,648 --> 00:23:52,800
+in what you just said is that the adherence to a training program is going to be more optimal in the very long term. Like over the course of a couple months to a couple years, if you are hyper-optimizing every single second, not only the stress of doing the extra training is probably going to cost you in a space of a couple months or a year or two.
+
+56
+00:23:52,800 --> 00:24:20,784
+but also the stress of optimizing your training especially as life shifts around you and gives you different levels of energy and gives you different levels of stress and gives you different amounts of time to train hyper-optimizing within those contexts and always stressing about your training I've seen it take big tolls on people and I mean to the point where to the point where the training itself and thinking about the training has
+
+57
+00:24:21,008 --> 00:24:50,144
+has me looking at how they're responding to the training and thinking that they are at a 10 out of 10 stress every day at work for like a month is what it looks like to me. Yeah, that's something that you can usually spot quite quick, quite quick, fucking hell, quite quickly. Don't edit that out. Fine. If anyone ever wonders, millions of edits when we record these.
+
+58
+00:24:50,144 --> 00:25:14,080
+Yeah, that's something you can usually find out quite quickly based on athlete feedback to like a workout you know they should be accomplishing. Like there's a difference between someone struggling with a VO2 max session where like the intensity just sometimes means that they're not going to be up to expectation in terms of like being able to go all out because you know
+
+59
+00:25:14,080 --> 00:25:40,640
+a very minor setback can make that quite difficult for some people. But when you're doing something like FTP or sweet spot, you know, anything sort of low intensity and someone comes back and says, oh, don't know about that one. Like, that's usually a sign that something's going on. Nowadays, the first thing I check is temperature. But quite often, it's a case of, you know, like...
+
+60
+00:25:40,640 --> 00:26:09,984
+Poor night's sleep, past few nights, skipping lunch, having a new girlfriend, you know, anything like that. For the three clients that I have just outed, yes, I am talking about you. Well, congrats to whoever's got a new girlfriend. But like, these are the things that have much more of an impact than people ever willingly recognize up front. It's not that
+
+61
+00:26:09,984 --> 00:26:36,800
+It's not that they're unaware that these things are happening to them, because people will tell you this in their rider feedback, and it's like, okay, obviously that had an effect. But it's usually you telling them that it obviously had an effect, because people aren't always thinking straight off the top that these things get in the way of really, really productive training.
+
+62
+00:26:36,800 --> 00:26:56,928
+and that's why these sorts of workouts like to bring us background to like FTP as a workout specifically in addition to time trials being the race of truth FTP intervals are very much an interval of truth in terms of they're going to tell you exactly whether or not someone is
+
+63
+00:26:56,928 --> 00:27:24,800
+as fresh as they need to be to be able to do the training they're currently doing. You know, we've talked in the past about how, like, one of the things that falls off first when you're tired or stressed or haven't slept or haven't eaten, God forbid, is time to exhaustion. Like, you're meant to be able to do a 2x20 and you managed a 20 and a 10. It's like, okay, something happened.
+
+64
+00:27:24,800 --> 00:27:49,152
+and in that case it's like a nice canary in the coal mine for working out when something's going wrong and for people who are not coached or are like using a pre-built training program where you kind of have to pay attention to that thing yourself like what we've said many many times in this podcast like be really honest with yourself about how you're feeling like
+
+65
+00:27:49,152 --> 00:28:18,672
+Kick the workout into the next day. The pre-built training plan's not going to give a shit. Make the adjustment you need. Well, and the people that I consult with who have bought a pre-built training plan, they're like, how do I get the most out of this? I've done that one several times. And a lot of what we discuss comes down to different ways to monitor yourself and looking at the plan, what you should expect. And a lot of times, it always comes down to ways to modify the plan also.
+
+66
+00:28:18,672 --> 00:28:43,472
+like whether you're having bad days or what you could expect or kind of my read of the plan of like, maybe this is a little too much. I think I just had that conversation yesterday with somebody in a consult actually. So the, yeah. So, oh, to get back to what we were actually talking about with training age now, because I think
+
+67
+00:28:43,472 --> 00:29:12,016
+One of the things that happens with more advanced training age is that the improvements early season are much smaller. You know, like, let's say... Ballard. I think, because it seems to me like you get to the place where you were at previously faster, and it doesn't take much. Like, a lot of the time...
+
+68
+00:29:12,016 --> 00:29:39,904
+It doesn't take much more than some sweet spot training, maybe a bit of tempo, maybe a couple threshold intervals. And over the course of maybe two-ish months, two and a half, sometimes up to three months, you can get right back to kind of where your FTP was last season, right? And then, okay, cool, you're very advanced. We need to improve this. What do we got to do? Sorry, we really have to raise the intensity. If you, especially, you know, because...
+
+69
+00:29:39,904 --> 00:30:08,752
+I think I, this is in my notes and I forgot to mention it, later in season, if you are not seeing improvements in FTP by doing FTP, you really have to do some higher intensity training of some variety and, you know, hopefully focusing on improving VO2 max. But the, what happens is really, if you keep smashing threshold efforts, you can really extend that TTE. You can get that out to like, you know,
+
+70
+00:30:08,752 --> 00:30:36,144
+You can do 80, 90 minutes time and zone worth of FTP in a workout, which is in some ways fantastic, but in some ways it's ridiculous because if the idea is that you want to raise your threshold, then having amazing endurance is, while that's great and all, I thought the point was to have a higher threshold, so you should probably do some harder training, right? Yeah, Fabiano, towards the tail end of when he was coaching me, managed to
+
+71
+00:30:36,144 --> 00:31:04,848
+put together a long workout. Amusingly, back then it was a long workout. Nowadays it's sort of normal right line. But I did 100 minutes of threshold because it was nice and spaced out and it was recovering well between them. I was like, that felt great. It felt really strong. It was a very good sign that I had to stop doing any sort of threshold work at that point. Yeah.
+
+72
+00:31:04,848 --> 00:31:33,920
+That's similar to what happens when you're of advanced training age. If you've been training for, well, depending on your personal response to training, this might be a year, but usually it's more like three to five years, is I would say where you get to really advanced training age and the improvements that you're going to see year to year start to probably get a lot smaller, especially if you've had fairly well-optimized training for the last couple years. And if your training has not been really optimized for
+
+73
+00:31:33,920 --> 00:32:02,576
+Improving Aerobic Potential, then you can probably still get some of those new gains where he's raising his hand. I know how poorly optimized his training is for that kind of stuff. Anyway, this is not like the hyper-optimization that we were just talking about that burns people out. I'm talking about optimized. You're just doing the right amount of work in roughly the right proportions. It doesn't have to be perfect, but roughly the right proportions of doing threshold training, doing VO2 max training, et cetera, et cetera.
+
+74
+00:32:02,576 --> 00:32:31,424
+So when you are of advanced training age, a lot of the time I want to just get right to the point. You know, let's let you rest and then let's improve your FTP kind of back to where it was and then I'm going to smash you with VO2s and then you're going to recover and then you're going to be stronger and that's going to be great. Yeah, it's kind of when someone is of that low training age,
+
+75
+00:32:31,424 --> 00:32:59,840
+The amount of overload you need to achieve the progressive part of progressive overload is actually quite small and as you start to get people who are much stronger, riding for much longer, have really tapped out in all the low-hanging fruit, especially once they've gotten over that early season hump, the overload you have to subject them to is significantly higher.
+
+76
+00:32:59,840 --> 00:33:29,600
+which is why you might hear us occasionally talk about VO2 double days. We do not give VO2 double days to everyone. God, no. Because a lot of people don't even have the time to do a double. And then the other roadblock there is they don't have the energy to do the double. So there's a lot of potential bottlenecks in whether you're actually going to get anything out of that. Yeah, it's that.
+
+77
+00:33:29,600 --> 00:33:48,768
+I want to call it a Tim Cusickism, but the notion of like LifeMax where the amount you can actually do I think that's a Roryism at this point Okay, good You've had FoodMax before, so now we've got LifeMax There we go Where you sure could fit in
+
+78
+00:33:48,768 --> 00:34:12,656
+something like a double VO2 session but you aren't going to be able to recover from it or continue through the rest of your life like maybe you could do that as a once-off and you'll be fine that's essentially what I've done the past two years where I did one double day a year and then called it quits but for many people like that's just not an option and so you need to be honest with yourself about like okay
+
+79
+00:34:12,656 --> 00:34:29,792
+How do I go about achieving the improvement in a way that's going to help me? I've got one client who had some extra annual leave that he had to take, so he basically booked himself a training camp at home where we just did.
+
+80
+00:34:29,792 --> 00:34:59,424
+Big Volume week. I think we doubled as normal volume just for that period of time to see, you know, let's see what we get out on the other side. And that's the sort of intervention that you have to think about when you are limited in other aspects of your life, even if you have the time to do it. Because if you're like a newborn parent and you're trying to do like five hours on the turbo right after they've been born, maybe consider...
+
+81
+00:34:59,424 --> 00:35:26,688
+thinking about other ways to spend your time. Your family, maybe? Yeah, your family, the kids you just had. You need to be smart about making sure cycling fits in with the rest of your life as much as we wish cycling was our entire lives. Yeah, speaking of opportunity costs, geez. So one of the other things that I think is interesting to consider with...
+
+82
+00:35:26,688 --> 00:35:51,952
+People of a more advanced training age and getting smaller and smaller improvements as they go is like, is what's a reasonable amount of expectation for the improvements that we're potentially going to see? I want to, I want to have an idea. So like, so for my like, you know, for my pro development type clients, you know, working towards, you know.
+
+83
+00:35:51,952 --> 00:36:17,520
+kind of, you know, Kati contracts or world tour contracts or whatever it is, you know, or even, you know, world championships or Olympics, stuff like that. One of the big things I always consider is what metric do we really need to improve and what's a reasonable amount to expect it to improve per year? And so if somebody is super, super well-trained,
+
+84
+00:36:17,520 --> 00:36:46,816
+and we've been seeing the same number for the last like two years and we've kind of basically tried everything. I'm going to roughly expect that that's going to happen again this coming year. And, you know, and that goes for we've tried more stimulus, we've tried more rest, we've tried, you know, this different intervention, we've tried that different intervention, we've tried higher volume, we've tried lower volume, we've tried more doubles, we've tried less doubles. We've done all of it and we're still seeing roughly the same number.
+
+85
+00:36:46,816 --> 00:37:15,456
+This is where I would shift gears and think about the opportunity cost of what happens if you continue to hammer this thing. And this is not only for, I'd say not only for the most elite people I'm working with, but this absolutely goes for everybody else. If you are at 250 watts for your FTP and you've seen roughly the same thing and you know realistically you cannot improve your training stress.
+
+86
+00:37:15,456 --> 00:37:30,304
+or your work is still stressful and it's always going to be stressful, then don't expect many improvements. You reasonably might be able to see a little bit year on year, but if you've been seeing the same number,
+
+87
+00:37:30,304 --> 00:37:55,696
+Then there's a lot of other stuff you can think about, a lot of other stuff you can focus on. You could focus on your repeatability, you could focus on your sprint, you could focus on your endurance, you could focus on your race strategy. Yeah, and you could really try to optimize off-the-bike stuff, sleep, nutrition, all that kind of stuff. There's a lot of ways that you can continue to improve even if your FTP is roughly stuck.
+
+88
+00:37:56,048 --> 00:38:25,536
+That's something you can see at the pro ranks is over the past decade as like the sport has in a way professionalized like the peloton everybody who rode professionally in the aughts and before is really offended right now they should be oh I'm gonna ride for six hours on this Giro Italia stage with three gels and I'm gonna get back and I'm gonna have nothing but cheese yeah
+
+89
+00:38:25,536 --> 00:38:54,864
+But yeah, like, essentially, like the pro ranks over the past decade, especially like the past five years, have really gotten on top of like a lot of the things that nowadays we would describe them as doing really badly at, and nutrition's obviously been a massive part of that. Nutrition's been huge, yeah. And that is a very big part of the reason why like the Tour de France has never been faster, is because not only are the riders
+
+90
+00:38:54,864 --> 00:39:24,368
+capable of going extremely fast in the middle of the stage. They're also incredibly fast at the end of the stage at the end of the tour. Like, the number of athletes having that third-week bonk has completely dropped compared to what it usually was. Like, my memory of... Now we're just having first-week bonks from everybody who rode the Giro, Wout. Yeah. Well, I could say a few things, but... I hope this means better. Same.
+
+91
+00:39:24,368 --> 00:39:50,560
+You threw me there. Sorry. Actually, I'm glad I threw you because I didn't want to forget the next thought in my head, which was, I think I just painted a pretty sour picture of threshold improvements for some people, but I think that it's actually not that bad because, especially once you become well-trained,
+
+92
+00:39:50,560 --> 00:40:18,016
+and you are thinking about, you know, more on your nutrition and sleep and all that kind of other stuff. This is freeing in a lot of ways because it means a couple things in my experience and this is just in my coaching experience is that you can really focus more on your endurance and, you know, I guess people these days would call it durability.
+
+93
+00:40:18,016 --> 00:40:45,280
+and your ability to perform well late in a race. But it also means, in my experience, that it doesn't take as much to get you to where you were before, like I had previously said, which means you can really, really focus on other different types of training. And if you're wondering what else is there besides like FTP and VO2Max, oh, there's a lot.
+
+94
+00:40:45,280 --> 00:41:11,632
+We got a lot of tricks we can pull out of the bag at this point. And it's not like, you know, when we're working with somebody like this, that we don't use that other stuff. But I think if somebody has room to grow, and we're sure they have room to grow, you know, if I'm like, I'm working with somebody who, yeah, like a pro-devo type person, you know, I pretty much want to see their FTP go up anywhere from like 10 or 15 up to 30 watts per year.
+
+95
+00:41:12,272 --> 00:41:36,928
+And that's like a reasonable expectation until we really start to find that something else is holding the back or if we find out that, okay, this is probably, you know, roughly what the max is for your physiology. I've got probably two or three people that I coach who I'd say are really kind of tapped out. You know, and not only that.
+
+96
+00:41:36,928 --> 00:42:03,136
+But, you know, once you see an FTP of like 460 watts or 480 watts or something like that, you're like, I don't know how much better we can get this, like realistically on an absolute level in terms of like the human race. I don't know how much better this is going to get. There's also the sad truth of the higher your trading age, the higher your actual age in all likelihood.
+
+97
+00:42:03,136 --> 00:42:33,024
+and so unfortunately people can get to that really trained point but they're actually just over the hump a little bit in terms of like oh you're 40 years old you're going pretty well for 40 years old well I'm 43 and I don't feel like I'm going that well so thanks Rory you're a track sprinter you don't need to go fast that much yeah I haven't it hurts too much to sprint these days so I haven't really sprinted in a while but
+
+98
+00:42:33,024 --> 00:43:02,416
+I bet I could crack at 1800 watts right now. In fact, I'm going to try to do that after we record this podcast. I'm going to see what happens, see if it still hurts. The answer is probably yes. So anyway, so we've really got just opportunity costs left to consider here. So when you are seeing not stellar improvements in your FTP,
+
+99
+00:43:02,832 --> 00:43:32,016
+I think a lot of the time, this is, like I said, it's freeing. It means that you can think about other stuff. Because if we are seeing roughly the same number, it's good to think, what else do I need to work on? And clearly, we should always be thinking, what else do we need to work on? Because it's not like every single workout is going to be FTP or VO2 max for years and years and years. That's absolutely not going to happen.
+
+100
+00:43:32,016 --> 00:44:01,440
+Um, but I think, I think in some ways, uh, I think we touched on this in a previous podcast a couple years ago, is like, is when you do too much FTP training, you miss a lot of other stuff. Like, for instance, if, uh, if you are somebody with a good threshold, but you are getting gapped on short hills, I mean, that's a good time to work in your top end power, work on your sprint, do a little strength training, do some short hill reps, do work on some steep hills.
+
+101
+00:44:01,440 --> 00:44:21,952
+Or if you are somebody who needs to do repeated sprint training, like if you are having a hard time in criteriums, doing repeated really hard accelerations, like close to your max of your sprint, repeating that is a pretty good time too.
+
+102
+00:44:21,952 --> 00:44:50,544
+Or maybe it's like we just kind of keep you fit and we really focus on your race craft and setting up for a sprint. Like let's put a GoPro on your bike and send me footage. I was a sprinter. I know how to read a field sprint. I'll tell you which wheel you should have been on and you can play it over and over in your head and now next time you've got homework. So there's all that kind of stuff that we can do because, you know, especially if we think that
+
+103
+00:44:50,544 --> 00:45:17,952
+you are your advanced training age means that you can get to the same place you were with like threshold and VO2 max but with less work man that's a lot of time that we have that we can really spend on other stuff to make you fit in other ways that we were probably previously doing before but now we can really dig down on it yeah and comes back to what we said earlier on it's like
+
+104
+00:45:17,952 --> 00:45:46,656
+What is the realistic situation that you find yourself in? In a particular point in the year, like if you say you're, you've got like a wee spring peak and then you've got, you're going to want to peak for like early autumn, maybe you're doing cyclocross, like you've got potentially a very large gap in there. If you only did a little bit of racing in the spring, you've potentially got a very small gap in there. If you raced into the summer, it's like what?
+
+105
+00:45:46,656 --> 00:46:14,576
+What you actually are able to do with your time is going to be very different and also the demands are going to be very different depending on what it is you want to actually accomplish. I'm inclined to tell people that when the more time you have the more daring you can be and the more opportunity you've got to maybe make some mistakes in terms of your training but if you want to do something that really matters to you.
+
+106
+00:46:14,576 --> 00:46:33,920
+and you've only got a short time, then you've got to actually be more considerate about what you're trying to accomplish. Like, Simon Yates went to the Giro and has now gone to the Tour de France to be a domestique for Vingago.
+
+107
+00:46:33,920 --> 00:47:02,144
+and I'm pretty sure in the past month he's done fuck all because I can't imagine you'd want to do that much between two Grand Tours but also the energy expenditure that you've got in between inevitably a bunch of altitude camps in that time is not going to allow you to do much between those races by contrast Jonas and Pogacar more so Pogacar raced in the spring
+
+108
+00:47:02,144 --> 00:47:30,656
+and then had a very long tail into what they actually wanted to be able to accomplish. They were able to put a little bit more effort into their time before an actual race to make the improvements they want to make. And those are obviously talking about three of the best athletes in the world, but it's very much the same principle when it comes to Joe Amateur at home of, yeah, you finished up your summer racing and...
+
+109
+00:47:30,656 --> 00:47:55,584
+You maybe got some good results, but if cyclocross season starts in a month's time, can you afford to do much more than maybe some skills work in that time? What are you actually physically prepared to be able to do in a way that's going to allow you to have the performance that you want when you go and do some cyclocross? That's something that you have to square away.
+
+110
+00:47:55,584 --> 00:48:13,136
+Maybe the answer is drop some of the summer racing so that you can focus on the cyclocross more if that means a lot to you, but don't expect that you can burn the candle at both ends, I guess, because there's some risk there. Yeah, and this is one of the things...
+
+111
+00:48:13,136 --> 00:48:42,496
+that I do with my coaching clients. And I especially have my consultation clients do on their own. And sometimes before our consult, sometimes during, if it becomes apparent that it needs to be done, is put together a priority list. Like a lot of the time, I think people have a general idea of what they need to be working on, but it helps to write it down and it helps to tell yourself,
+
+112
+00:48:42,496 --> 00:49:02,624
+Where on my priority list is my FTP? If it is absolutely at the top, if you're like, well, I'm a Cat 4 this year, next year I'm going to be a Cat 3, so I need probably another 30 watts of FTP, maybe 40 in order to be moderately competitive, I think I'll be able to get 20 for next year. So I'm looking at kind of...
+
+113
+00:49:02,624 --> 00:49:32,080
+a two-year timeline to be competitive in the threes. Like, okay, cool. That's great. So you know what happens if like next year you get your 20 watts and okay, should I expect any more for this year? Probably not. So what I'm going to do is I'm just going to work on my other stuff, work on my racecraft, work on saving energy, et cetera, et cetera. So, and maybe your racecraft is higher on your priority list than your FTP. And so maybe you expect 10 watts, but you know, you're going to be pretty competitive anyway because you're a little closer than you thought.
+
+114
+00:49:32,080 --> 00:50:00,960
+So anyway, so the reason I'm saying this is because if you have an idea of where you want to put most of your energy, and also you have an idea of what you're going to get out of your energy investment, this makes a huge difference in, I don't want to say making sure that you're not wasting your time, but making sure that you are investing your time and energy into the right things.
+
+115
+00:50:00,960 --> 00:50:30,000
+and so like for instance when I consult with people I'd say probably I don't know maybe 20% of the time it's folks who are not as competitive and they also really like just having fun and so I tell them like tell me where in your priority list having fun is and how much fun do you want to put on the shelf so you can work on getting faster and the same kind of goes for FTP it's like if you want to work in your sprint and your FTP okay well
+
+116
+00:50:30,000 --> 00:50:58,288
+Are you time-limited and is getting into the gym and working on sprints? Is that going to take away from your time working on your FTP? If so, tell me which one's a bigger priority and then you can know exactly what proportions you need to invest into both, et cetera, et cetera. So thoughts, Rory? Yeah, I've had the fun discussion with a few clients lately, usually revolving around like sort of unstructured.
+
+117
+00:50:58,288 --> 00:51:24,720
+group rides, you know, 30 sign sprints, 30 minute race in the middle of the week where it's just like you and some friends and like I try and encourage that as much as I can because on the one hand like the skill side of it is very good but on the other from the fitness perspective there's really nothing like riding with a wee bit of competitive.
+
+118
+00:51:24,720 --> 00:51:54,560
+competitiveness to get people to go a little bit harder than they might otherwise. And so if you can get the benefit of making someone do some harder work that you otherwise would have to program a different way alongside fun, I always see that as an absolute win, so I encourage it as much as possible. Not least because if people are getting coached and they're not having fun, then why are they getting coached?
+
+119
+00:51:54,560 --> 00:52:22,128
+Yeah, like that fun first perspective for some clients is like still really important. Similarly, like I had a client recently tell me that they were maybe losing a bit of love with racing. It's like, all right, I will help you accomplish whatever you want to accomplish. There's a lot we can do. Like my mind or role is not just focused around racing.
+
+120
+00:52:22,128 --> 00:52:48,512
+as I've said many times, like if we can help someone get fitter so they can have more fun, then let's do it. Yeah, going fast is fun, right? Yeah. All right, so let's do a little review before we get to listener questions. So I think we probably should have started with the priority list. All right, well, hindsight's 20-20. So put where on your priority list your FTP is.
+
+121
+00:52:48,512 --> 00:53:13,584
+compared to other things that you know you need to improve to get to your goals. So, for instance, if you are racing criteriums, you know, your FTP is going to be important, but it's not going to be critical, especially if your, like, sprint isn't good enough. So you kind of have a sense of where to put it. If you are trying to, you know, break the next level of the pro ranks or something.
+
+122
+00:53:13,584 --> 00:53:41,888
+and in your FTPs, like let's say you're a 70-kilo male, 350-watt FTP, like we know that we need a little more than that, so we're probably going to bump it up higher on the list, especially if you've got pretty much everything else skills-wise and power-wise kind of in the bag, like we know what we need to focus on. Or if you want to have fun, just like having a higher FTP to have a higher FTP, like okay, cool, like that's top of your priority list.
+
+123
+00:53:41,888 --> 00:54:08,464
+for the whole year. So just don't overdo everything. But early season versus later season. More watts early, it's pretty easy to expect. Less watts later. And you should probably invest less time and effort into smashing FTP training when you can expect less reasonably. And the same goes for training age.
+
+124
+00:54:08,464 --> 00:54:37,664
+and you probably need less work to get where you think you want to go. And you can use that to your advantage because that means that you can really take advantage of not having as much opportunity cost of over-focusing on threshold and working on other stuff. And of course, that brings us right back around to our priority list of like, what are your specific priorities? Any other kind of, does that make sense, Rory? Did I cover everything? Do we have any other closing thoughts before we get to questions?
+
+125
+00:54:37,664 --> 00:55:07,536
+Yeah, I think that was everything. Okay, cool. So, let's see. Our first place – oh, what place do – our first question. By the way, go follow me on Instagram at Empirical Cycling if you would like to ask some questions for the podcast. What place do over-unders have at 90% slash 105%? So, 90%, I call that sweet spot. To me, it's just set and forget it. Who cares? It's close enough. I know there's some people who think more about the percentages like that.
+
+126
+00:55:07,536 --> 00:55:32,080
+and I CBF to do that. So to me, over-unders are just a subset of threshold training. Which one I pick partly depends on a combination of, so right, it depends. What does it depend on? Number one, what does the athlete enjoy doing?
+
+127
+00:55:32,208 --> 00:55:57,808
+What is practical? Because some people can't really hit threshold on their training very well, but they can do sweet spot and they like over-unders. So we're going to do sweet spot over-unders, no problem. Or if it's race-specific, then yeah, sure, we're going to do a lot of those. If you're a gravel racer, sweet spot over-unders is probably going to be your bread and butter along with some tempo work and occasionally some higher stuff. Rory, thoughts?
+
+128
+00:55:58,864 --> 00:56:28,704
+I wouldn't lock it to percentages of FTP. Like generally it's sweet spot and then over as we've described. Auto-regulating the over, yeah. Yeah. It's pretty easy to do. Yeah, really auto-regulating it. Absolutely want to just feel out. But you don't have to do it at sweet spot necessarily. You can go a lot lower and then allow yourself to go a lot higher if you want. Similarly,
+
+129
+00:56:28,704 --> 00:56:58,096
+If you are quite well trained, you can do some FTP and overs if you are thinking about how you structure that correctly. Obviously, you're not going to go too much over, but if that's something that you think will benefit you, then give it a go. Yeah. Next question is, when should we increase time and zone and when interval duration? So as in 2x25 and 1x50 feel differently? I mean, yeah, of course they feel differently.
+
+130
+00:56:58,096 --> 00:57:23,056
+So, I guess the fundamental question is, when should you, like, what's the difference between increasing the number of intervals, let's say 6x10, versus working 6x10 out to 2x30 or 1x60? And at least to me, I want to do a little bit of both at the same time. Like, once we get to, like, let's say, you know...
+
+131
+00:57:23,056 --> 00:57:52,080
+The typical progression might be like 4x10, or 3x3 to 4x10, 3x5x10 maybe. I oftentimes let people auto-regulate, especially in the early or later kind of TTE building sections. You know, somebody does 5x10, I'll probably give them like 3x15 next, and then maybe we'll do 3x17.5 and 3x20. And then if I want to keep it with 3, maybe we'll start doing 3x22-ish.
+
+132
+00:57:52,080 --> 00:58:07,056
+Maybe 2x30, who knows? At that point, usually we are on to other things just kind of by necessity of the periodization. So, Rory? So, I find if you...
+
+133
+00:58:07,056 --> 00:58:29,328
+Start off a TTE progression with sweet spot because by necessity you're starting to give people those longer, longer intervals just as a slightly lower intensity. It makes it a lot easier for people to transition to doing the longer FTP intervals on their own. On top of that,
+
+134
+00:58:29,328 --> 00:58:54,816
+I kind of let people feel it out a little bit for themselves. Like some people will tell me that they prefer to just do it in a one-er. Some people will tell me they like to break it up an awful lot. A one-er means doing one interval. Yeah, I think most people are smart enough to figure that one out. It took me a second. I'm not that smart. But like I've also got some people who like to just do like set 10-minute intervals and I'm going to do as many as I can. It's like, all right.
+
+135
+00:58:54,816 --> 00:59:16,624
+If that works for you, then we'll do that for a bit. But sometimes there's a benefit to going a bit longer. Yeah, I would rather somebody be able to go beyond 10-minute intervals. I think as a minimum kind of interval duration to build up to, I think about 15 minutes is appropriate. But yeah, I usually start people out at 10s. And shorter, I mean, shorter to me is like...
+
+136
+00:59:16,784 --> 00:59:45,696
+You know, you've been sick for a week and we just need to do a little bit of FTP work. I'll give you like five by five at FTP. But, oh, there's a paper on rest intervals doing threshold work. And basically what it says is you do rest intervals because you can do more time and zone. And I mean, that's like the most, you know, kind of forehead slapping, you know, Captain Obvious type thing that's...
+
+137
+00:59:45,696 --> 01:00:11,600
+probably ever been said on this podcast. Well, maybe not, but it's probably close. But it does benefit you, especially when you think about a lot of the levers to pull in terms of cellular stress that leads to muscular endurance adaptation. It's like you want to make sure that you are getting good oxidative stress for decent periods of time. And I think...
+
+138
+01:00:11,600 --> 01:00:37,968
+a long time ago in the podcast, I had said something like, you know, when you first start threshold interval, your lactate, your blood lactate is going to like bump up for the first couple minutes before it like starts to settle back down and slowly, slowly drop over the course of, I don't know, 20, 30 minutes or something like that, depending on how long your effort is. And that really just means that you are not using that much oxidative metabolism to start with, but you know, you've got a probably higher AMPK activation to start with, then you are going to...
+
+139
+01:00:37,968 --> 01:01:04,592
+Get more into like sirtuins and things like that, like more oxidative NADH type stress. And all that accumulative stress is going to make a difference in the longer term. But if you keep it short, to me also, if you want to do the, what's the absurd reduction? I forget what the Latin is. But what if I did 60 by one minute?
+
+140
+01:01:06,160 --> 01:01:32,544
+Oh, that's a breeze. Let's go. As opposed to one by 60 minute, which is a lot harder. So I find that there's a pretty compelling reason to just stay in the middle because number one, we know it works. Like in a very practical performance oriented sense, we know for a fact that it works pretty much universally. And so, you know, I'm fine to stick with kind of the middle ground of that kind of stuff.
+
+141
+01:01:32,544 --> 01:01:54,928
+Yeah, the thing I'll say for like the shorter intervals is particularly at this time of year, if you are someone who struggles with overheating, keeping the intervals shorter can usually help you get through the workout in a way that like just trying to hit the 50 minute interval from the off is not going to go.
+
+142
+01:01:54,928 --> 01:02:22,912
+Pleasantly. Yeah, like for instance, one of my guys recently, he had like a 2x20, I figured it was like FTP or sweet spot, and there was a stop in the second interval for maybe a minute or two, and I was like looking at the heart rate going, yeah, I think this is heat, but I had to ask. I was like, everything okay here? Was this too much in the legs or were you heat-soaked? The answer was heat-soaked, for sure.
+
+143
+01:02:22,912 --> 01:02:50,016
+you know but you know especially when you're like indoors in July that that's gonna happen you gotta you know do a little more for the cooling uh okay next question is is there a theoretical maximum for TTE given appropriate training would two plus hours TTE be possible um I don't think we could get to two hours I would guess somewhere like
+
+144
+01:02:50,016 --> 01:03:18,320
+Maybe 90 to 100 minutes would probably be possible. Because at that point, what you're really... Okay. That's some hyper-specialized training to get there. It's hyper-specialized training. Because in my ultra people, one of the things that really is a good predictor of success is a really long TTE. So I've had people, the ultra people, do threshold tests that have lasted for like 80, 85 minutes, and they're like, I probably could have done another five.
+
+145
+01:03:18,448 --> 01:03:48,080
+but I just wanted it to be over which is fine that's it and you know then they go on to race and they really good races so I think the theoretical maximum would be like if in if there were some reason that you were not so healthy and you couldn't recruit that many motor units and your effective threshold I guess it really would depend on what you call your effective threshold is and TTE by the way it's just
+
+146
+01:03:48,080 --> 01:04:15,440
+a colloquialism that, and also because of WKO 4 and WKO 5, that TTE is related to threshold. We can say TTE for anything we want. I can say, what's your TTE at 1,000 watts? There's no reason that we couldn't assign that. It just means time to exhaustion. So the longest I've seen is 85 minutes, just about.
+
+147
+01:04:15,792 --> 01:04:40,560
+I would say theoretical max in most trained cyclists as we would know them is probably 100 minutes which sounds ridiculous to even say it and I have absolutely no faith in that answer by the way I have absolutely no idea I'm just looking back at a client that was an ultra racer and I think 90 minutes was the longest I've seen Yeah
+
+148
+01:04:40,560 --> 01:05:07,824
+Um, and, you know, ultra racing is a, is a, uh, an area where in the long term, like higher FTP is, is desired, but like, you know, if you can have 30 more minutes of TTE versus like, you know, 20 or 30 more watts of FTP, especially as you get closer to race season, I want the TTE and then we'll get those FTP for next year. Um, okay. Next question is,
+
+149
+01:05:09,168 --> 01:05:36,096
+How do you know whether you need higher VO2 max to increase your FTP? The answer is doing FTP intervals no longer increases your FTP is a pretty simple answer. And it's not actually that simple, but I think for practical purposes, we can just pretend it's that simple. So I recently ran across a paper on basically a training volumes effect. So the paper that I saw was on...
+
+150
+01:05:36,096 --> 01:06:05,440
+group of touring cyclists who were chosen partly because they could actually increase or they could actually not increase, they could actually complete the protocol. They were doing quite a bit of volume for I think three weeks straight with like maybe a couple rest days here and there and they retested, they did like a couple tests like pre and post like I think the first or second day of riding and pre and post like the last day or second to last day of riding, something like that.
+
+151
+01:06:05,440 --> 01:06:35,248
+and then I think they did like a couple days after that if I recall correctly they did like the VO2max test then and basically it didn't improve VO2max from all that volume and you know this was like apparently touring in the mountains so you could expect some like tempo sweet spot type work from doing a bunch of climbing and that these are you know pretty well trained cyclists and triathletes if I recall correctly and we didn't see any improvement in VO2max and it's like
+
+152
+01:06:35,248 --> 01:07:02,512
+Why would you? You know, you're pretty well trained at that point. These are probably experienced or, you know, or at least intermediate type cyclists who are like, you know, pretty well trained in season and they're in season. And so a bunch of volume is going to be great. Their like gross efficiency had a massive improvement or a fairly robust improvement if I recall correctly. But like we didn't see an improvement in VO2max because you know why? They weren't doing hard intervals.
+
+153
+01:07:02,544 --> 01:07:29,776
+And so the more advanced you get, the harder you have to work to move that needle. So, you know, and, you know, we use our decision tree here. We use the context of the season and how well-trained somebody is and the opportunity cost to decide how much we could and should focus on FTP training. High volume, proven, not effective by science.
+
+154
+01:07:30,288 --> 01:07:57,088
+Don't you dare. High volume does seem to be effective in terms of improving the absolute ceiling when you are doing all the other hard stuff too. That's our experience anyway. I don't know how much science there is on that. I'm going to try to dig that up one day if it exists. It probably doesn't exist. Okay, next question is racing every weekend XCO MTB.
+
+155
+01:07:57,088 --> 01:08:25,216
+So cross-country mountain bike. Should I do FTP maintenance in the week, every week, or every other? I do not have FTP as a massive priority for a lot of XCO racers. And it's not that it's not important because my best XCO racers have FTPs well into the high 400s.
+
+156
+01:08:25,216 --> 01:08:54,448
+It's not the biggest determinant to success in XCO. So I really touch on FTP for my mountain bikers less often than you would probably expect. Like if they're coming in from off-season, yeah, we're going to do a lot more of it because it's pretty easy low-hanging fruit. It's lower intensity and we're going to need to save that intensity for in-season when they're going out and racing.
+
+157
+01:08:54,448 --> 01:09:23,055
+I think But you're kind of coasting on a lot of that aerobic development for the rest of the year Oh, for sure. Yeah. And it doesn't take much to maintain, but it takes some. And some people I find need a little more to maintain than others. And I usually kind of go by thinking about, all right, I want at least one FTP session per block, like per like three, four week cycle. But some people need it a little more often. So we might
+
+158
+01:09:23,055 --> 01:09:50,688
+Think about every two weeks or so. And that really is kind of a fun way to think about when you've got a busy mountain bike or even cyclocross season. Because I remember one of my first busy cyclocross seasons, not that I did too many, I remember I didn't do any threshold work for probably a month and a half. And at one point in a race, I felt myself going, man, my threshold feels like it's dropping.
+
+159
+01:09:50,688 --> 01:10:16,064
+So, and I was racing pretty much every weekend, probably, I think both Saturday and Sunday, most weekends, and I remember heading into, God, what was it, Orchard Cross, I think, like that Wednesday, I did like a 2x20 sweet spot over under, and it was the first threshold type work that I had done, probably since like the beginning of September, and so it was probably at this point, mid-October, because I
+
+160
+01:10:16,064 --> 01:10:44,960
+because, yeah, there's a costume race at that race. And so it probably was like mid to late October. And so it would have been like a month and a half or so since I had done threshold work properly. And boy, I felt a million times better when I went to my next race after doing a little bit of that. So it's something that you can definitely think about and try to find a minimum dose, especially in season. But if you're looking for a workout and you feel like you want to do one, I mean, a threshold workout or a sweet spot workout.
+
+161
+01:10:44,960 --> 01:11:13,712
+while you're racing hard XCO races most weekends is a lot of the time it's just what the doctor ordered. It's good workout. It's not too stressful. It's pretty accomplishable. You're not going to win any TTE contests at that point most likely, but it's really good to touch on for maintenance. Rory, thoughts? This is basically a question about that you're training too hard for Criterium's article.
+
+162
+01:11:13,712 --> 01:11:40,000
+where depending on just how dense your race season is because some people it can be every single weekend maintenance doesn't have to be at FTP necessarily like do a sweet spot workout that's maybe not even to the limits of your TTE and you know see where you're actually at but otherwise yeah like as you said there's there's other things you maybe want to prioritize more
+
+163
+01:11:40,000 --> 01:12:09,888
+and so limiting how often you do that maintenance is probably going to be your best bang for buck. Yeah, I really at that point care more about somebody's top end power and their skills. Like I care more about somebody feeling like they can, you know, do a rock garden competently in season. If you are tired enough that you don't have the brain power to navigate that, you're going to end up with a flat at best.
+
+164
+01:12:09,888 --> 01:12:38,064
+Breaking Your Fork or Ending Up Face Down in the Rock Garden. So, you know, that kind of stuff is what I'm much more attuned to in the middle of a mountain bike season, especially for people who are very, very busy with their races. I really think about that. Next question is, can high amounts of FTP training improve TTE without progressive intervals? So I think this is like, and he says EG4X per week.
+
+165
+01:12:39,216 --> 01:13:08,736
+I would assume this training would look like I'm going to do three, I'm going to do a, let's make it realistic, I'm going to do a two by 20 four times a week. Can you improve TTE like this? My answer is going to be no. Because one of the ways, at least to me, that you are going to improve TTE in your overall endurance is by getting to your muscular capacity. And once you have a certain amount of, of,
+
+166
+01:13:08,736 --> 01:13:37,056
+threshold efforts in your legs. And I'd say probably you would probably max out your improvements after like probably three or four workouts. And if you did them all in a week, by their very nature, they would have to be sub-maximal enough that you could recover from the work you did to do them again. And your muscles are recovered enough at that point that you can do the workout, but they're not going to be pushed to their limit. And so to me, I would say probably not.
+
+167
+01:13:37,056 --> 01:14:05,616
+Rory, what are your thoughts? Yeah, I'm kind of trying to imagine what this even looks like in terms of like why you would do it. Like, are you time limited to like 40 minutes a ride? In which case, maybe it's your only option and see how it goes. But if you've got like an hour, an hour and a half, you can do TTE work in that time. So why not just do it right?
+
+168
+01:14:05,616 --> 01:14:29,312
+Yeah, and I would also want to say, like, if you've got longer on the weekend, if this is a time constraint, go, just push your efforts to longer on the weekend. And in that vein, somebody else asks, if I'm doing threshold once per week in season, should I still progress them each week? And so I would say, if you are building at this point, and you are constrained on time,
+
+169
+01:14:29,312 --> 01:14:59,264
+You can definitely do threshold just once per week. You just might have to expect to do it for longer than if you're doing it like twice per week. But to answer this question, if you're doing it in season, should I progress them each week? The answer is no. Because in season, I don't want somebody working that hard. Like to me, this is going to be a maintenance workout. And so you really only need to get to like a six or a seven out of 10 RPE in order to
+
+170
+01:14:59,264 --> 01:15:26,320
+Maintain your threshold. And so, yeah, your energy, I want it to be focused on your races. And so, yeah, I wouldn't want to really push your TTE. And in fact, like Rory mentioned earlier, once you're in season, you're probably not going to hit the TTEs that you were hitting during your build phase when you weren't doing a bunch of racing. So does that make sense, Rory?
+
+171
+01:15:26,704 --> 01:15:55,296
+Yeah, one of the things I tend to do at this time of year for people who are racing a lot is I give them, assuming that I don't have to worry too much about events coming up in the short term, is give them a sweet spot interval that has an open duration on it. So basically just, you know, go out and... One X question mark minutes is how I write it. I put the infinite symbol in. Oh, you fancy. Just trying to inspire them.
+
+172
+01:15:55,296 --> 01:16:21,184
+But like essentially like let's see where your TTE actually is with the understanding that they hopefully don't dig a hole when they get to that point where it starts to become a bit unpleasant because yeah like that's one of the difficulties we have as coaches when it gets to this time of year is it becomes really hard to predict exactly what people are going to be capable of and unlike
+
+173
+01:16:21,184 --> 01:16:51,184
+early season where it's actually fairly predictable, all things considered. So you have to be a bit more open with allowing the athlete to essentially try and surprise you. Autoregulate. Autoregulate. That's our new word. I've been consuming strength training media recently, and in the literature, there's a lot of autoregulation. So that's where I've kind of
+
+174
+01:16:51,184 --> 01:17:20,512
+getting that. So, all right, last question. When in the training cycle do you do VO2 sweet spot threshold to lift FTP? Well, to me, sweet spot and threshold are basically equivalent. As long as you kind of get to your TTE, they are roughly going to get you to the same place. I care more about one or the other if you've got a race-specific reason. So if you do time trials or you're doing climbs that are going to be a lot more around your threshold, I'm definitely going to
+
+175
+01:17:20,512 --> 01:17:48,448
+really prioritize it. Otherwise, it's more of a time constraint type thing. Yeah. So I've got someone I just started with who's a bit time limited in terms of what you can do across an entire week, maybe less so in terms of like how long a maximum session can be. But I've basically worked out at this point that I've probably hit the limit in terms of like sweet spot sessions I can plan for him. And so
+
+176
+01:17:48,448 --> 01:18:18,032
+The only way I'm going to be able to progress him from here is to pick up from where we left off with FTP work. And that's not down to any particular desire for, you know, how different these workouts could be. It's just he has an hour and a half and I can't make him do more sweet spot than that in the middle of the week. So we do it with FTP instead. Yeah, that's reasonable. And when do you do VO2?
+
+177
+01:18:18,032 --> 01:18:46,352
+Now there's probably two considerations to doing VO2 and the first one is general fatigue. So how much fatigue have you gotten your legs at this point from your previous season or from the season so far? So if you are done with your season in like let's say late September and now it's you've taken a two-week break and it's like early to mid-October you know odds are
+
+178
+01:18:46,800 --> 01:19:15,472
+I don't want you doing super high intensity efforts right then. I want you to chill and enjoy the fall and go have some apples, raid an apple orchard on your ride. That's the kind of stuff I want you to do rather than smashing VO2s already. So that's one of my considerations. The other consideration is recovery time. So if I know somebody is not going to recover well from doing like more VO2s, like let's say we...
+
+179
+01:19:15,472 --> 01:19:44,944
+have a period of before racing where I want somebody to do some VO2s. And I think that the amount of VO2s that we have to do to see the improvements that I want to see are going to be more than they can realistically recover from. That's when I'll start to spread them out through the season. And this may be heretical in some ways, but I don't think it is. But the periodization of all this stuff matters probably less than most people think.
+
+180
+01:19:45,392 --> 01:20:14,608
+I think periodization is a way of managing stress in a lot of ways, but whether you do VO2s after your easy base season, if you want to start folding them in, I don't usually have a problem with that if somebody's motivated to and they're not going to smash themselves silly, or folding them in throughout, or if you take the block approach and you like to just do a straight-through block of VO2s and that works for you, okay, cool.
+
+181
+01:20:14,608 --> 01:20:42,816
+As long as you know that works for you and that's the stimulus you need and it works, great. But there's a lot of different ways to program and periodize it, but you really have to make sure that you are watching your variables. You know what the input is and you know what the output should be. And so you're watching your outcomes in your fitness and making your decisions based on that. And that's one of the other reasons that I kind of wanted to do this podcast on the FTP training decision tree is that kind of stuff.
+
+182
+01:20:42,816 --> 01:21:12,256
+It's simultaneously a big deal and not a big deal at all. You know what I mean? Yeah, like I mentioned earlier in the podcast that I had a client who had massive FTP gains from doing a bunch of VO2 and we didn't do a traditional VO2 block to try and achieve that. We did sporadically doing some VO2s for a month. I think we maybe did three days in one month.
+
+183
+01:21:12,256 --> 01:21:37,328
+and then the next month we doubled the dose effectively and he was doing a bunch of other training alongside that but that had a massive improvement for him and it wasn't down to we did base training, we did TTE work, we did VL2 work, we reaped our gains, it was very much a case of okay, based on
+
+184
+01:21:37,328 --> 01:22:06,912
+where he is in season, like state of the weather around him and his availability in terms of time because he was a university student. What can we actually do to try and set him up to have a really good early race season? And that would work way better than I ever imagined it actually doing to the extent where I think he might be a super responder. Or that might just be extreme cope on my behalf.
+
+185
+01:22:06,912 --> 01:22:30,048
+Like, that was very much a case of thinking about, okay, this athlete is probably ready to do some VO2 work, but we don't want to slam all of it in them at once. And I think one of the downsides of that VO2 series is people thinking there is only one way to do VO2s, and that is...
+
+186
+01:22:30,048 --> 01:22:58,944
+high cadence, three times a week for a month. And in many cases, that's what we do, but it's not the only way we do it. Yeah, all right. Rory, right now, let's schedule recording that episode of the podcast. How many different ways to do a VO2 workout? And you know what? I might even do a clickbait title. You know how much everybody knows how much I hate clickbait titles, but I might title it like,
+
+187
+01:22:58,944 --> 01:23:28,928
+the best way to do your VO2 max training or how you should train your VO2 max and it'll be like, well, it depends and we're going to dig into what it depends on. And I also want to give context as to what I expected people to do with the advice based on what most people were doing at the time versus where it's actually gone.
+
+188
+01:23:28,928 --> 01:23:46,128
+In a lot of ways, I sympathize with Coggins' power levels because he never meant those to be descriptive based on people continuing to train the way that they had trained previously rather than using them to prescribe training. So in a lot of ways, I...
+
+189
+01:23:46,128 --> 01:24:14,080
+Not that I've had nearly the same impact, but I kind of feel like if I knew where it was going to go, I probably would have set up the context a lot differently. So we should get into that in the next episode. In the meantime, we should wrap up this episode. So if you'd like to reach out for coaching or you want to consult with us, empiricalcycling at gmail.com. If you want to work with myself or Rory or any of our wonderful other coaches that I have handpicked myself out of the crop of coaches that are...
+
+190
+01:24:14,080 --> 01:24:43,472
+Fresh farm-to-table coaches. Fresh farm-to-table coaches. So if you would also like to support the podcast, empiricalcycling.com slash donate. Did I give the email? Empiricalcycling at gmail.com. Consulting is always great. And it's currently mid-July. So if you want to think about coaching for the fall, now's a good time to do that before we get our big rush in September, October. So now's a good time to sign up. If you are thinking about it, if you are vibing with us, we would love to work with you too. And if you want to...
+
+191
+01:24:43,472 --> 01:25:12,032
+ask a question. Instagram at Empirical Cycling and yeah, a five-star rating wherever you listen to podcasts. Always really welcome and a glowing review if you feel like writing one. Uh-oh. I would also like to say hello to my mother if she's still listening after horrifyingly discovering that she listens to the podcast. I would also like to say hello to Rory's mother. I'm sure she's lovely and I think my mother listens to this podcast as well sometimes and so, hi-mah.
+
+192
+01:25:12,032 --> 01:25:15,408
+All right. Thanks, everybody. Take care. We'll see you next time.
+

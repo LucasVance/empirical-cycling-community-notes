@@ -1,0 +1,824 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:30.000
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Thank you, everybody, for listening, as always. And if you are new here, please consider subscribing if you like what you're hearing. And if you're a returning listener, thank you so much for coming back. We really love having you back. And if you want to support the show, because you're enjoying it so much, you can always give us a nice five-star rating wherever you listen to podcasts. And also, a glowing review goes a long way. Thank you so much for every one of those that we've gotten. You can also keep the lights on over here at empiricalcycling.com slash donate because we are completely ad-free.
+
+00:00:30.000 --> 00:00:53.376
+are supported by your listener donations and also by people signing up for coaching and consultations because we are an actual coaching company. I think some people don't know that, but yes, that is what we do. And if you would like to reach out to inquire about that, there's a contact form on the website or just shoot me an email, empiricalcycling at gmail.com and tell me a little bit about yourself and what your goals are. And what else we got? Oh yeah, go follow me on Instagram.
+
+00:00:53.376 --> 00:01:07.888
+at Empirical Cycling because that's where I do a weekend AMA. We just got through a really fun one this weekend. I finished up while I was at a bike race this morning. And you can also ask questions of our future podcast guests. And also whenever we've got a...
+
+00:01:07.888 --> 00:01:32.576
+podcast where the topic is probably going to have some really good listener questions. I always put that one up too, and we always get to listen to questions, or most frequently we get to listen to questions, not always. And I'm sorry to say, today we didn't address the exact listener questions because despite the fact that we had a couple really good ones, we kind of hit all the topics that people wanted us to touch on while we were kind of just doing the regular interview.
+
+00:01:32.576 --> 00:01:58.224
+It was a great interview, and our guest today is a PhD candidate and physiotherapist, and he's probably best known to a lot of people from his blog called Spare Cycles. And back in the day, probably about five-ish years ago, I became, maybe a little more, I became aware of this blog and a couple posts on VO2Max, but there's also been a very well-known post on a kind of very simple training plan where he kind of hits all the major things that are...
+
+00:01:58.224 --> 00:02:14.176
+kind of in the scientific literature to hit for performance and health and all that good stuff. And I know a lot of people have done it and they've enjoyed it. And so if you, there's a link up in the show notes at empiricalcycling.com if you want to go check out his website. He's sent me a bunch of links too.
+
+00:02:14.176 --> 00:02:38.528
+It'll be up to his Twitter and his Blue Sky and all that other good stuff. And so the big reason to have him in today is because he's a co-author on a recent meta-review and systematic analysis. And it's titled, and this is a mouthful, so here we go, which training intensity distribution intervention will produce the greatest improvements in maximal oxygen uptake and time trial performance in endurance athletes? Question mark.
+
+00:02:38.528 --> 00:03:06.352
+Systematic Review and Network Meta Analysis of Individual Participant Data. The link is up in the show notes, of course. And we discussed the meta, but I think he's probably done a couple other podcasts, but I really wanted to, I don't know what he talked about in the other ones. I don't really consume cycling media. However, for our audience, I knew that everybody would love it if we kind of got into the how the sausage is made for a meta review and a systematic analysis.
+
+00:03:06.352 --> 00:03:33.120
+We've never really touched on them on the podcast and discussed their methodology. We're usually talking about like controlled trials or experiments. We're going to expose this bit of cells to this drug or this chemical and this other one we're going to use as a control or these mice. And so we've never really talked about how to review multiple studies like that. And so we really get into that because I thought it would be really fun for everybody to listen to. And of course, it was also really fun for us to talk about.
+
+00:03:33.120 --> 00:03:57.664
+and we also get into of course what are the implications of this new meta review and what makes it unique because there's a lot of meta reviews on this kind of thing because you know they're looking at intensity distributions and whatnot and every couple years new ones should be done because every couple years new study comes out and they should be included in a new meta and sometimes the conclusions change and we've definitely seen that in metas from the past and so
+
+00:03:57.664 --> 00:04:25.824
+We talk a lot about that, but we also talk a lot about NEARS and what he calls FLIA, which is basically iliac artery problems, which we are probably a little too familiar with in the cycling world because I don't know if anybody else in any other sport really has these types of issues. I would guess maybe in rowing, but maybe not. I'm not really sure. So that's a big focus of his PhD work, and we get into all that kind of stuff. And yeah, that's it. It was a great...
+
+00:04:25.824 --> 00:04:48.384
+Really, really, really great interview, a lot of fun, and I know also people have been asking for this one for a long time of me personally, like, hey, can you have Jim on the podcast? And I've been trying, and we finally got him, and it was worth the wait, and yeah, I'm so grateful to have him on, and all right, let's get into it. What are you doing right now? Like, where are you at? What's your background?
+
+00:04:48.384 --> 00:05:09.696
+and why are you an author on a meta-review with several notable authors including Steven Seiler? Yeah, I feel like on that project I was really the intern or now that it's been published I was like the self-appointed social media manager but it's such a cool project to be a part of.
+
+00:05:09.696 --> 00:05:38.432
+Yeah, I mean, I can give you a quick intro of who I am. I'm Jem. So my background is, you know, I'm a physiotherapist and doing my PhD right now at UBC, University of British Columbia in Vancouver, Canada. And that PhD, and I think if we have time, we'll get into this, but the PhD is on, you know, sport-related vascular conditions. So it's kind of this crossover between clinical and high performance, which is great.
+
+00:05:38.432 --> 00:06:07.216
+and my interest has always been on the more of the applied side, whether that's clinical or whether that's, yeah, in a high performance context. So, you know, this other work, these side quests that I'm doing with, yeah, Professor Seiler, the lead author on the project, Dr. Michael Rosenblatt, like I'll really get into, you know, what this project looked like and it was him leading the charge at all stages. But yeah, so my involvement just kind of came about as, oh.
+
+00:06:07.216 --> 00:06:35.840
+I don't know, a storyteller, I guess, kind of, you know, helping to try to put the narrative together and put the story together from this project in particular and a couple other projects that Michael and I have done together. And, of course, having, yeah, Professor Seiler as the senior author on the project, just super cool, first of all, to be able to say, like, hey, I'm a co-author with Professor Seiler. And, importantly, that
+
+00:06:35.840 --> 00:07:03.440
+trust-building process, number one, with him, but then the trust that he kind of brings to approaching all of the other authors, co-authors, and the authors that we had to contact to retrieve the data for this project, and that's something maybe we can get into, but that was maybe the most challenging part of this process, was just convincing people to send us data. You had that comment, you had that perfect comment elsewhere.
+
+00:07:03.440 --> 00:07:32.240
+Yeah, what did you say? Something like, you know, I'm sure it'll take a lot of polite emails, and that's exactly what it took. Yeah, because usually when you do a meta-review, well, this is actually kind of where I wanted to start. It's like, you know, what on earth is a meta-review and what's a systematic analysis? Because usually when you do a meta-review, you take the published distributions of other papers and you lump them all together. So that way, our usual foible, I guess we could say, of
+
+00:07:32.240 --> 00:07:49.840
+Applied Training Interventions is small sample size, and we can really increase it. So you all managed to find about 300 people, 350-ish? Yep, about 350 were included in the final analysis, yep.
+
+00:07:49.840 --> 00:08:13.120
+We have a larger data set, but those were included in this paper. Yeah, so walk me through the process of making a meta-review and a systematic analysis and what made this one really unique because there's been a couple already and you referenced a few in the paper. So yeah, walk us through the foundations of this.
+
+00:08:13.120 --> 00:08:41.952
+because we love seeing how the scientific sausage is made on our podcast and I'm sure the audience is going to love the breakdown of a meta-review. Oh, totally. We'll get into the stats, the research methods, all the exciting stuff. Yeah, I'll try to keep it not super nerdy. We'll save the nerdy bits for like the fun part, the physiology and the mechanistic stuff. Yeah, the process of doing a meta-analysis, so a meta-analysis in general is a study of studies. Essentially, it's trying to
+
+00:08:41.952 --> 00:09:07.504
+comprehensively capture all of the studies that have been done that address a certain question and the first maybe challenge or the first important part is just defining what that question is because of course if we have a huge broad question how do I become faster like well that's going to capture every study that's ever been done in sports science so you really have to be precise and and and rigorous
+
+00:09:07.664 --> 00:09:37.424
+about defining your search terms and about defining your question that you're trying to ask. And I've said elsewhere, you know, there are so many studies out there that ask a slightly different question or ask the same question in a slightly different way. And some of them may come to about the same answer and that's great. And they all kind of point in the same direction. But if you ask the same question a certain way, you'll sometimes get a very different answer. And, you know, you kind of have to capture those studies too.
+
+00:09:37.552 --> 00:10:05.376
+figure out where that kind of arbitrary boundary is of what you're going to include in this data set and what you're going to exclude. So the first challenge is, yeah, figuring out how many studies we capture. And I think we had, again, what made it eventually into the study, there was, into our meta-analysis, there was 13 studies. And as we just said, about 350 participants from those studies. And we'll get into, we haven't even talked about what the actual question that we were asking or anything, we'll get into that. But again, just that process of
+
+00:10:05.376 --> 00:10:34.800
+Retrieving data is the first major step. And most of the time, in most meta-analyses, as you said, we're looking at the outcome of individual studies and pooling them together. And, you know, we're kind of weighting the results by, yeah, the number of participants each of those studies had, the, well, the strength of the findings, so the kind of the magnitude, the effect size of the finding compared to the uncertainty in each of those findings.
+
+00:10:34.800 --> 00:11:04.192
+and that's kind of well established and we understand how that works and it is nice because yeah you're increasing, we are increasing our confidence by looking across all of these different studies that have been done in slightly different contexts and again if they all point in the same direction that's going to really reinforce our confidence in that direction as being the more true-ish direction whereas if they all point in different directions then obviously it gets a little bit more complicated.
+
+00:11:04.192 --> 00:11:30.816
+and we might not come or we might not be able to say that something works, we might not be able to detect an effect because of the uncertainty in the results. We'll come back to that because that was still an important part of our study here. The biggest difference though that we had and I think that the thing that really I hope makes this project stand out because there are a few other reviews and meta-analysis that have been done even in the past year like we got scooped.
+
+00:11:30.816 --> 00:11:56.656
+and some meta-analysis came out, good, really good reviews looking at a very similar question. But I think ours has one advantage at least, which is we looked at individual participant data. So when I say we had 350 participants that were, you know, across all of the studies of 13 studies that we looked at, we have basically weekly heart rate time in zone.
+
+00:11:56.752 --> 00:12:24.208
+data in addition to all of their baseline characteristics and all of their pre- and post-training measurements, right, for all of these athletes. So we're not looking at the group mean effect. We are looking at the individual athlete effect and that allowed us to do some really more sensitive analysis to, yeah, to, again, to increase the confidence of our results. And that's why, as I said, it took a lot of polite emails and a lot of
+
+00:12:24.208 --> 00:12:45.024
+Trust Building, let's say, to pursue the experts and our co-authors who are now on this paper who contributed all these data, right, who had to look at their Excel files from 20 years ago to retrieve the data so that we could use it. So, yeah, a really important part of the process. Yeah, and you guys also got to do multiple analyses based on having the individual data.
+
+00:12:45.024 --> 00:13:14.544
+So walk me through one of the analyses you did, which was intention to treat versus per protocol. So like, what does that actually mean? Because that's something I see all the time in meta-reviews. Well, or I'll see in analyses, sometimes in meta-reviews. So what is the difference there? Yeah. Yeah, exactly. Like intention to treat analysis and per protocol, they're more often used in clinical studies, clinical trials, you know, kind of medical area stuff.
+
+00:13:14.544 --> 00:13:42.720
+But yeah, we're using those terms basically to mean, so by having individual data, it allowed us to basically say, okay, first of all, all of these individuals, all of these participants are randomly, hopefully, allocated to a certain intervention group within the original study. So a single study might be comparing polarized training versus pyramidal training. That was, you know, those were the largest, or those were the most common comparison groups.
+
+00:13:42.720 --> 00:14:11.456
+So within a study, we've got participants allocated to polarized and to pyramidal. And we try to kind of control all of the other variables so that we're just looking at if there are differences in the outcomes of training, we can attribute those differences to the difference in training intensity distribution, the difference between polarized and pyramidal. So that's kind of their group allocation and their intended training model.
+
+00:14:11.456 --> 00:14:39.600
+But of course, by retrieving the individual data, we can look at the actual training they performed. And again, we're quantifying this as heart rate, time, and zone. So we had how they established their training zones, and there was a lot of differences there, which is maybe something interesting to get into, whether it was lactate threshold or ventilatory threshold or what kind of ramp they were doing, different sports as well, right? So there's a lot of heterogeneity even just there. But we have their...
+
+00:14:39.600 --> 00:15:02.384
+their thresholds, and these athletes were performing, you know, whatever their training intervention was, and at the end of the day, we have their time in zone in a three-zone model. That's probably important to say as well. So we're talking about a three-zone physiological model. Zone one is low intensity. Zone two is intermediate intensity for cycling terminology. Let's call it kind of tempo, sweet spot, even threshold.
+
+00:15:02.384 --> 00:15:29.760
+So it's not the same zone 2 as the meme, and that's often where some confusion is here. This is intermediate intensity zone 2 between the two thresholds, and it's nice, I can kind of assume that your audience has a pretty good understanding of some of these terms because you've gone through it a lot. Oh yeah, oh yeah, they'll be there. Yeah, so right, we've got like lactate threshold 1 or ventilatory threshold 1, lactate ventilatory threshold 2, zone 2 is right in the middle, and then of course zone 3 is our high intensity above.
+
+00:15:29.760 --> 00:15:58.624
+that second threshold also above FTP, critical power, whatever we want to call it. So we have the actual time that they performed, that they accumulated in each of these three zones, meaning at the end of all of their interventions, we can then go back and analyze whether their completed training actually fell into the intended distribution model that they were assigned, right? So whether their actual training was polarized.
+
+00:15:58.624 --> 00:16:28.288
+based on, again, in research, we have to be very strict with our definition. So we have a very precise definition of what is polarized, what is parameter, what is threshold intensity distribution models. So at the end of the day, we see, did they fall into their intended training or did they do something slightly different? And it doesn't take a lot of difference in the actual training performed to end up as a different intensity distribution model. And that's something, again, we can kind of get into that.
+
+00:16:28.288 --> 00:16:45.200
+What we found was around 20% of the participants were reallocated to a different intensity distribution. So they were assigned polarized, they actually performed pyramidal, or they were assigned exclusively low intensity, but they actually performed
+
+00:16:45.200 --> 00:17:10.912
+threshold or polarized or whatever, right? So there's some kind of mixing and matching and I have a nice figure that shows, you know, the different paths that people took between these models and there were some tendencies to go in one direction more often than another direction, which is, you know, some interesting takeaways there. The good thing in terms of results is that it didn't make a huge difference to the outcomes, whether we looked at the intention to treat, which is that original group allocation,
+
+00:17:10.912 --> 00:17:39.264
+or whether we looked at the per-protocol analysis, which is that reallocated, re-categorized way of looking at it. So the results didn't change too much. If anything, the prediction was slightly better. The confidence of the prediction was slightly higher by looking at the training they actually performed rather than the training they were assigned to, which kind of makes sense. Yeah, that's what you'd hope. But it is interesting, right?
+
+00:17:39.264 --> 00:18:07.360
+Again, we're looking at the heart rate, that internal training load. And if we were looking at the external training load, like pace or power, maybe it would have been different. But again, the way we looked at it seemed to at least improve the confidence of the outcomes. It didn't change the outcomes, it just improved the confidence. Yeah, so speaking of outcomes, that is the scientific term for what happened. And so...
+
+00:18:07.360 --> 00:18:30.416
+Let's talk about what were the outcomes that you were looking at because there were two. So what were they and just roughly what did you find? Yeah, yeah. So the two outcomes that we were interested in were VO2 max and endurance time trial performance. And I think we both agree and, you know, we try to put out there, we put in our paper.
+
+00:18:30.416 --> 00:18:59.680
+Endurance performance is the best measure of performance. And so that is our gold standard is how do these athletes actually improve their performance as tested by a time trial? The time trial durations, because again, we're looking at different sports, rowing, running, cycling. So the time trial duration was anywhere between five minutes and 60 minutes approximately. So I think we can all, we would consider all of that endurance, you know, timeframe, endurance, intensity, different intensities.
+
+00:18:59.680 --> 00:19:28.128
+Maybe just to bring up, the duration of the time trial didn't actually matter as well. So it didn't change the results, whether it was a short time trial or a long time trial. You guys really went through everything. Because that was one of the questions I had. I was like, are they going to address this? And you did. Totally. I was like, they thought of everything. This is great. Yeah. And we'll get into some of the big questions on training volume. Well, how do we match for training volume? But yeah, we'll save that for a moment.
+
+00:19:28.128 --> 00:19:49.776
+The question was, the research question was, will polarized training, we framed it in terms of polarized training, will polarized training improve outcomes in terms of VO2 max and in terms of time trial performance more than these other training intensity distribution models? So we looked at polarized, we looked at pyramidal, we looked at threshold.
+
+00:19:49.776 --> 00:20:16.576
+and then exclusively low intensity and then high intensity is kind of majority of training is high intensity. So like probably short sessions, a lot of hits, like three hit sessions a week, nothing else. Yeah. Most of the data and most of the groups I think I mentioned came from a polarized versus pyramidal, you know, training comparison. So that's where most of our data are. Yeah, exactly. And that's what kind of, I think most, well, meh.
+
+00:20:16.576 --> 00:20:44.752
+Yeah, maybe most athletes would perform something along those lines. Threshold was the third most common and threshold distribution is kind of the greatest volume is in zone two. Again, we're thinking like intermediate intensity zone two and then there's less volume in zone one and three. And so, and actually that's one of the common ones from older studies where like they'll do a ramp test and then they will, they'll get assigned, you know, 40 minutes of training at 70% of VO2 max and like that'll be the training they do.
+
+00:20:44.752 --> 00:21:12.576
+Yeah, yeah. And there were, it's a really good point because number one, so our lead author, Dr. Michael Rosenblatt, he's done a number of meta-analysis in his PhD. So he's really an expert in, you know, specifically kind of sports science meta-analysis related to training interventions and training outcomes and VO2 max and time trial performance. And I find his papers fascinating and it's a really nice summary of, you know, the things that matter most and then
+
+00:21:12.576 --> 00:21:40.912
+as we mentioned before, like time trial duration and training volume, like what the things that don't seem to matter as long as these other basic things are accounted for. So it's quite nice. But one of his earlier meta-analyses found that polarized training was better than threshold. I think that was comparison, polarized versus threshold, based on the data that was available at the time, based on the analysis that we did at the time, or that he did, I wasn't involved in that project.
+
+00:21:40.912 --> 00:22:08.640
+To bring back the point, that was based on group-level outcomes, based on where these participants were allocated. They were told, you go do threshold, you go do polarized. We included those studies again in this project. And again, now we have the individual data. So we could see some of these groups that were allocated to threshold were actually performing other models. And so to get to the results of our findings, what we found in this project was that there were no differences.
+
+00:22:08.640 --> 00:22:38.032
+between any of the training intensity models. So Polarize was not better in terms of either VO2 max improvement or time trial improvement. So again, because we have the individual data, we found, well, a different headline result versus Michael's previous work. And again, some other reviews have found slightly different things. That's totally fine. You ask a question a slightly different way, you get a slightly different answer.
+
+00:22:38.032 --> 00:23:07.824
+But what we found is, yeah, when you look at the individuals, there didn't seem to be a major difference. The only difference that we saw, well, let's, so to back up, and we kind of talked about it already, like we looked at all of these covariates. So what's a covariate? Yeah, yeah, exactly, yeah. So in a meta-analysis, you kind of start with that, the whole group, you look at everyone and you say, did everyone improve who followed this intervention versus this intervention, yes or no?
+
+00:23:07.952 --> 00:23:35.312
+But of course, because all of the studies that we're looking at had these differences between them, they were performing different training, they had different participants, different sports, as I said, all of these kind of heterogeneities between the different studies will result in, we'd call it clinical or statistical heterogeneity in the meta-analysis result. And you want to try to account for that heterogeneity.
+
+00:23:35.600 --> 00:24:05.248
+To bring up the point earlier, if we ask a really broad question like, how do we get faster, and we include all of the studies that could possibly try to answer that question, our heterogeneity is going to be massive, and so our confidence in that result is going to be very low. If we have a lot of uncertainty, we have a low confidence. Our question was very precise, so our heterogeneity was quite low to start off with, so that's a good thing. That's why I keep saying our confidence was quite high.
+
+00:24:05.248 --> 00:24:30.720
+in VO2max, there's about 10% heterogeneity. Don't worry about the number. I don't even know what the ice spirit means. It's fine. I'm just a sports science meathead. I don't know stats. But we want to investigate, right? We have our headline finding, no change, no difference in VO2max, but we want to investigate these covariates. So a covariate is basically all of these variables that...
+
+00:24:30.720 --> 00:24:56.576
+that will be different between these different individuals, between these different studies. So that's age, sex, training volume, starting baseline VO2 max, that's very important. Yeah, all of these other different variables. We investigated as many of them as we could. So age, for example, didn't make a difference. Sex, we had of the 350 participants, I think it was like 300 males, 50 females.
+
+00:24:56.576 --> 00:25:21.360
+Unfortunately, that's kind of expected for sports science over the past 20 years. We need to do better than that. But it doesn't, you know, it doesn't mean we can't apply this to females. I would feel totally comfortable applying these results to female athletes and everyone in between. Like, if anything, and again, our confidence is going to be higher in the population that was actually studied, which in this case is males.
+
+00:25:21.360 --> 00:25:49.632
+and of course I've been asked as well about like geographically and ethnically like who was involved in the study and the reality of research is it's going to be mostly European descent males but again it doesn't mean we have we can only apply it to that group it just means you know our confidence is going to be highest for that group but I would still be comfortable applying it for pretty much anyone who's training and trying to get faster at endurance sport so what are they where was I going age didn't matter
+
+00:25:49.632 --> 00:26:10.608
+The sport didn't matter. So again, rowing, running, cycling didn't seem to make a difference. Time trial duration, we talked about that, didn't make a difference to the outcome. So that's really important. We're ruling out some of these factors that might change the results. The one factor that did make a difference to VO2 max was the athlete's performance level or their competitive level.
+
+00:26:10.768 --> 00:26:40.064
+So we can get into that, but does that kind of make sense so far? Yeah, absolutely. And actually, I wanted to even take it a step back and bring it more to a kind of like basis of a randomized selection process because I think one of the things that you guys did was you looked at potential bias because I'm one of those
+
+00:26:40.064 --> 00:27:09.968
+probably 50 people who's downloaded your supplementary file and actually read it. But you had listed biases in, I think, four aspects of each study. And in terms of the randomization of people to their groups, that's one of the fundamental principles of doing a randomized controlled trial is the exchangeability between the groups. So if you just exchange two people between the intervention group and the control group, for instance,
+
+00:27:09.968 --> 00:27:35.088
+The groups still should have the same effect. It shouldn't change anything. Yeah, that's a good way to say it. Yeah, I mean, I've been also reading epidemiology textbooks recently, so I'm setting up on this stuff right now. Yeah, you probably know more about that kind of aspect of things than I do. Because, yeah, like the risk of bias assessment, yeah, as you say, that's a really fundamental part of meta-analysis and of systematic review.
+
+00:27:35.088 --> 00:28:00.848
+It kind of sucks in sports science though. Inevitably, all of the studies that we look at are going to be red or yellow, like some concerns. And it's mostly because of the randomization that you brought up. So athletes or individuals, participants, are randomly allocated by different methods into their groups. And the hope and desire is that there's going to be no kind of systematic
+
+00:28:00.880 --> 00:28:30.736
+difference or systematic bias between one group and another in the original experiment. Like one group having more than the typical amount of like trained people because like let's say they get distributed by starting VO2 max but now you're introducing you know all sorts of you know I don't want to draw a directed acyclic graph here but like you're introducing all sorts of backward pathways of potential other effects that would not only affect the exposure but also affect the outcome. Yeah and like it's certainly possible that you'll have
+
+00:28:30.736 --> 00:28:53.360
+you know a quote-unquote significant difference between the groups at baseline just by chance but we're trying to avoid that we're trying to make both groups I mean how many papers have you ever read that actually do equivalence testing really? Yeah and I think yeah I think we had to if not reject the paper but certainly there were studies that we looked at that did have baseline differences and it just kind of calls into question whether the
+
+00:28:53.360 --> 00:29:21.664
+The effects that were observed in that paper could be attributable to the baseline difference. And again, there's some methods that we can use to kind of narrow in on that and try to rule that out and all of that. But just to get back to the point about investigating bias, and again, I'm not the expert in this. This is, again, Dr. Rosenblatt. Yeah, all right. Well, our listeners are going to be yelling at us. Yeah, there's some statistician who's got to DM both of us later.
+
+00:29:21.664 --> 00:29:44.080
+That's fine. That's fine. Again, I can only plead that, like, systematic risk of bias assessment in sports science is really annoying. And maybe just as a sidebar, like, I did a systematic review for my PhD in my area of, you know, clinical vascular conditions in sport, and we deliberately did not do a systematic review. We didn't.
+
+00:29:44.080 --> 00:30:06.112
+a scoping review, which does not include a risk of bias assessment for the very reason. It's basically, you know, in a situation or in an area of work, as in our example, where... So in my area, it's all case studies. There's no randomization. So there's no point in trying to evaluate that. Yeah, a clinical case study, like...
+
+00:30:06.112 --> 00:30:34.128
+But anyway, so even for sports science, you know, randomization is important to think about and it's definitely something that we look at in the process. The other big thing is blinding. Like you can't blind in sports science. You know the intervention that you're performing. Yeah. So that's, again, one of the reasons that kind of automatically most of the studies are going to be moderate or high risk. Yeah. But when you do what you call a subgroup analysis, you know, you actually look at that original.
+
+00:30:34.128 --> 00:31:02.688
+You can take, you know, you've got your sample of like 350 people, and you can actually like chunk them up as any way you see fit. And so you looked at them in terms of their like amateur, you know, kind of weekend warrior status versus like competitive trained status. And so that's one of the things that I really like about doing subgroup analyses like that. And so, yeah, totally. And so it kind of, yeah, because it kind of takes that out of the original kind of group.
+
+00:31:02.688 --> 00:31:32.256
+picture. And so when you do that, you guys actually found a difference somewhere. So what was that? Right. Yeah. So that is really important to look at those, again, those covariates or those subgroups. You know, there's an interesting little, again, you ask the same question, slightly different, you're going to find a difference. I know, I love it. It's so great. So the, again, kind of at a global level in our data set, if we looked at the baseline VO2 max,
+
+00:31:32.256 --> 00:32:01.824
+So the range of VO2max in our participants was, I want to say, 30 to 80. So that's a huge range. Males and females, right? So they were all trained athletes by definitions that I'll get into in a moment. So they're all trained. That's good because that kind of takes away the new gains of someone who's just untrained off the street, right? That's not exactly what we're interested in. But their fitness levels of these trained athletes are going to be wildly different. So the baseline VO2max itself,
+
+00:32:01.824 --> 00:32:30.336
+didn't make a difference to performance outcomes, VO2 max or time trial. But yeah, what you're getting at, what did make a difference was performance level or competitive level, which we categorize basically at everyone at a university, college, regional, provincial, state level and above were considered competitive. So kind of, you know, athletes that are competing in a...
+
+00:32:30.336 --> 00:32:56.304
+kind of a structured environment at a reasonably high level. And then everyone below that, so we would still say amateurs who are competing at a local level. And again, those amateurs might have a super high VO2 max. That's not what we're looking at per se, but we're looking at kind of local representation, local competition, or just, again, amateur participation, but they've been trained and they identify with their sport and all of that, right?
+
+00:32:56.304 --> 00:33:24.464
+Those we would consider recreational athletes. So we have recreationally trained and we have competitive athletes as our two subgroups. So even though baseline VO2 max didn't matter, the subgrouping of performance level did matter. And as we might expect, the recreational athletes did have a lower VO2 max on average, and the competitive athletes had a higher VO2 max on average. But it was that performance level that led to almost kind of an interaction effect.
+
+00:33:24.560 --> 00:33:53.776
+Let's make sure I get this right. The higher level competitive athletes improve their VO2 max a little bit more, like a little bit more. We'll get to that. By following polarized training compared to following pyramidal. And then in the recreational group, it was the opposite. The lower level recreational athletes improve their VO2 max slightly more by following a pyramidal intensity distribution than polarized. So that was kind of an interesting...
+
+00:33:53.776 --> 00:34:22.335
+finding. Not exactly what we expected, but that certainly kind of prompted a lot of response because it's not novel, but it's interesting. It's a salient finding. Salient. That's a good way to put it. So this is the part where I think we, not that we haven't been somewhat philosophical already, but where we might need to get a little more philosophical because
+
+00:34:22.335 --> 00:34:52.208
+When you need rigor in a study, you've got to narrow down your questions. You've got to narrow down your definitions. You've got to figure out how do I match training volume. We've got to figure out what constitutes somebody who's well-trained. And how you break these things up sometimes matters and sometimes does not. And I think you guys did a great job in terms of covering pretty much anything I would have had as a concern in terms of doing a subgroup analysis.
+
+00:34:52.208 --> 00:35:21.408
+One of the reasons that, you know, this, you know, there may be some headlines or whatever from this is because of that finding of basically polarized equals more gains for trained people. So slightly more, slightly more, which is another thing to be philosophical about. So yeah, when you have rigor in a study, you've got these narrow definitions, you've got these narrow questions.
+
+00:35:21.408 --> 00:35:47.744
+But somebody now asks you to generalize. Yeah. So, you know, what can we actually learn from, you know, like, well, you said, you know, it's, what was the, what was the effect, like, approximately, like, what was the effect size of, you know? Yeah, what was the actual difference, the slight difference that I'm talking about? Yeah. So, overall, again, the whole group.
+
+00:35:47.744 --> 00:36:16.320
+The average improvement, this is just kind of the pooled, you know, grand mean, the average improvement in both VO2max and time trial actually were around 2%, but the variability was huge. You know, the range was like from negative 20% to plus 30% in any one individual athlete. But, you know, so on average, there's kind of a 2% improvement. And I would say that's, yeah, that makes sense for...
+
+00:36:16.320 --> 00:36:45.680
+already trained athletes performing anywhere from 3 weeks to 18 weeks of training. And you'd hope, you know, the improvement would hopefully be slightly greater for the 18 weeks than the 3 weeks, but we're just looking at everyone together. This subgroup analysis that we looked at for performance level, the difference between competitive training polarized and recreational training pyramidal,
+
+00:36:46.128 --> 00:37:15.280
+was, oh, I don't know if I have the, oh, I do, I do have the, I do have the, the actual numbers. I was going to say that in the paper, right, it's, it's, it's a, it's a standardized mean difference of 0.6, but that's meaningless. I don't, those results don't interest anyone. The actual numbers were, so that difference between competitive training polarized and recreational training pyramidal was about two to three percent. And then if we look at within the competitive athletes, for example,
+
+00:37:15.312 --> 00:37:45.120
+The competitive athletes who train pyramidal versus train polarized, that difference was about 1% to 2%. So we're talking about, you know, a 2% improvement on average with training, plus another 1% to 2% on top of that, depending on which model you follow. So the numbers here are pretty low still. And there's a couple different, and, you know, getting to your point about generalizability, like there's a couple different ways to interpret that.
+
+00:37:45.120 --> 00:38:10.960
+On the one hand, if we just consider what is the day-to-day variability of any of these measurements biologically, right? So if I go out and perform the same trial two days in a row and things are different on any given day, I'm going to perform differently. My body is going to perform differently. And then the equipment that I'm using will also have differences. We'll also have measurement uncertainty. So there's going to be differences just related to that.
+
+00:38:10.960 --> 00:38:40.224
+And with VO2max, the measurement uncertainty is around 1% to 5%, plus minus 1% to 5% on any given day. Your power meter has better accuracy than that. Yeah, yeah, yeah, absolutely. That's a great point, right, because you can go out and perform a time trial. And what we did find was that, or we didn't find this, this is from previous research, the day-to-day reliability in time trial performance is also around 1% to 3%. But yeah, not a lot of that is coming from measurement error.
+
+00:38:40.224 --> 00:39:09.840
+Whereas with VO2 max, more of that is coming from measurement error because the nature of measuring VO2 is more uncertain. So if the whole differences here are kind of 1% to 2%, but the error, the potential error is 1% to 5%, how do we kind of evaluate that? And so I kind of try to talk about it, yeah, to your point, a little bit more philosophically, a little bit more generally of just, you know, this is improving our probabilities. This is like, this is very slight differences, but they're systematic differences.
+
+00:39:09.840 --> 00:39:39.504
+that appear on top of all of these other sources of variability that we've accounted for and thought about and considered. So, you know, I can turn my brain to both directions just depending on what the conversation needs. Like a good researcher, very objective. But, you know, right, on the one hand, in any one athlete, our day-to-day variability is going to be higher than the detectable difference that we're seeing between polarized pyramidal threshold or any other intensity domain.
+
+00:39:39.504 --> 00:40:09.072
+And that, for me, that's been my message putting out there. But on the other hand, you know, a 1% to 2% difference, and we're talking, I would say a 1% to 2% difference is meaningful in the context of high-performance sport. When we're talking about race performances, the difference between first and second or off the podium is 1% to 2%, can be. So these are meaningful differences that appear, you know, on top of all of these sources of variability. I don't know. So does that make any sense?
+
+00:40:09.072 --> 00:40:36.960
+Yeah, it does. And actually, that's one of the reasons that I don't dig into the applied training research on the podcast that often, because there's so much kind of asterisks like this, that I don't really feel like we have very high confidence in saying this is exactly how you should train as opposed to, I think there's a lot more, let's call it a charitable view.
+
+00:40:36.960 --> 00:41:00.928
+of a lot of this literature where I think people will say, okay, the average improved this much and so therefore you have to do exactly this protocol and we will get these kinds of responses. And in reality, that's really not what happens. And so that's why I've kind of stuck to the mechanistic kind of first principles side of the literature because I feel like we have more kind of actionable...
+
+00:41:00.928 --> 00:41:29.296
+principles that can be derived from that rather than looking at the performance data. But I'm also a skeptic from Boston. Somebody comes up and says, hi, my first reaction is, what do you want? And you're a Canadian. I'm just a polite Canadian. I just want to help. Yeah. No, that's totally valid. That's totally valid. Oh, yeah, that's such a good, like, where do I start with that? Sorry. Lots of thoughts. No, it's great. Anywhere you want.
+
+00:41:29.360 --> 00:41:58.128
+I agree, to start off with. In general, I agree. I think, you can see, I have trouble kind of articulating this. It's not an easy idea to like put words through. Yeah. And because I really do think kind of multiple things at once, and that's fine, right? You can take multitudes. You could have been a lawyer, yeah. Just talking on both sides of my mouth. Sorry, I've also been talking to your parents, apparently.
+
+00:41:58.736 --> 00:42:20.224
+So I think it's really important to keep in mind that uncertainty whenever we're reading results from the literature, no matter what context it is, because uncertainty always applies to anything that we're measuring. And if there's maybe one message, it really is research is incremental. No one study...
+
+00:42:20.224 --> 00:42:46.720
+is going to be such a breakthrough that it overturns a current paradigm where it completely should change how we're training. We can't look at any single study or any single meta-analysis or systematic review in that way because it's all just incremental and we have to kind of consider where it fits into the rest of, well, again, I've said it multiple times now, you ask the same question slightly differently, you're going to get a different answer.
+
+00:42:46.720 --> 00:43:09.696
+And we should be asking the question slightly differently based on our own individual context. So this gets into this idea of like, how do we apply group level research to our individual coaching and training and, you know, working with athletes? And yeah, the first thing is, I really think we have to be cautious about over-interpreting any one study.
+
+00:43:09.696 --> 00:43:36.256
+It kind of goes both ways to me, as in we can't reject any one study because it's trash, because all studies are trash in their own special way, and we can learn things from studies that we think are trash. So I really try to read as much as I can and just get the vibe of the whole body of research rather than focusing on any one particular study. When those studies do come out that are just...
+
+00:43:36.256 --> 00:44:06.176
+Game Changers. Oh, those are magic. Those are the ones that I throw out on Twitter all the time that stick in my brain. But for the most part, any one study, any one meta-analysis is incremental. The idea of applying group-level research to individual-level application is super important for most of us, I think, who are listening to this podcast. We don't care about the average change in a study.
+
+00:44:06.176 --> 00:44:26.256
+We are interested in how we ourselves or the athletes we work with are going to respond to a certain intervention. And when we're looking at group level findings, right, we have a mean change and we have a confidence interval around that change. That confidence interval tells us how, well, tells us how confident we are in...
+
+00:44:26.256 --> 00:44:56.016
+The mean change. We're still talking about a mean group change, but I don't know if I'm the athlete who is going to decrease by 20% or improve by 30% where the group mean is, you know, plus 2%. But that's the process of coaching is, again, taking those kind of systematic things that seem to point in one direction or the other consistently, systematically for, you know, the group, right? Most athletes, the population that we're interested in. And then we have to apply and adjust and modify that.
+
+00:44:56.016 --> 00:45:24.528
+to our individual that we're working on based on where they're starting from, based on their characteristics, based on their goals, based on their time frame that they have available to reach those goals, all of these individual factors. And that's coaching. And then we take the feedback of as we're applying that and we're seeing how the athlete responds, we take feedback from that and we modify accordingly. And again, this is what coaching is. It's just kind of a longitudinal application of scientific training principles.
+
+00:45:24.528 --> 00:45:45.888
+Yeah, I always say that coaching is an N equals one experiment every single time. Exactly, yeah, ongoing. Yeah, and one of the things I like about having that kind of philosophy is that it gives you a highly ecologically valid approach. Because, again, when you start to get into how do I...
+
+00:45:45.888 --> 00:46:14.624
+How do I find a relationship between these two variables? And you are putting together a training study. Like you and I, many years ago, emailed back and forth about how do we put together a study to determine which VO2max protocol would be better? And it was genuinely difficult because we actually wanted to look at three things, or maybe four, depending on how you broke them up, and was like, well, now we've got to start putting stuff on the chopping block if we're going to actually come up with this is how we would do this study.
+
+00:46:14.624 --> 00:46:44.480
+And so when you do that, your ecological validity goes down because generally that's not how people train. Right, exactly. We always have to find – yeah, that's a great point to bring up. Research is always a compromise between the ecological validity of how people actually train in the real world and then we need to control our variables. We need to specify our question. We need to rule out confounders. That's just the reality of it.
+
+00:46:44.480 --> 00:47:11.568
+The questions that I get that I wish I had a better response to usually go along the lines of like, I'm strawmanning the argument here, but basically it's like, oh, this study isn't relevant because I don't train this way. It's like, well, but they're not targeting you specifically, right? We're trying to answer a general question that applies to, right, the population. And that could be, actually, that can be a difference between
+
+00:47:11.568 --> 00:47:39.408
+What I would consider sports science, which is a little bit more ecological, right? The balance is shifted more towards prioritizing ecological validity. And then exercise physiology is really just more about mechanisms and about, you know, yeah, controlling those variables, understanding the cause and effect. And so, and then there's kind of, you know, there's studies that are more interested in public health policy. And, you know, again, that's when your group is very, very large.
+
+00:47:39.408 --> 00:48:08.880
+and if you want to make a blanket recommendation, if thing X is going to decrease morbidity risk of whatever by some non-trivial percentage in the population, like, okay, some people it might, well, you would figure on average it's going to go down and that's really what you want because you can't sit there and go, all right, now all 300 million people need to do this instead. Yeah, yeah, yeah, yeah. So, right, even if I'm an elite athlete and I'm looking at some,
+
+00:48:08.880 --> 00:48:37.664
+population-based study with untrained individuals. There's probably something I can learn from that, but I'm going to have to reapply it and kind of adjust it to my own context, to the context of the athletes that I'm working with. So that's always the case. No one study, again, is magic, but I think they're all important. And one of my, actually, I was going to ask you also like a question in a second about certain pet peeves, but first I wanted to actually ask you, what's your favorite thing you see in these studies that
+
+00:48:37.664 --> 00:48:58.864
+makes you think that this gives me more hope about something. Because I'll let you think about it while I give you mine. Yeah, I want to hear your answer. Which is, I love it when I see individual changes from pre to post. And so you can actually get a good sense of...
+
+00:48:58.864 --> 00:49:27.680
+How many high responders did you have? How many kind of average to low? How much of these is probably just day-to-day variability? And these people probably didn't change at all. And was this group being pulled up by like one super responder? Or did that person even do the protocol? And so there's all sorts of those questions that I love looking at those because of that reason. And so that's my personal favorite because occasionally I see, if we assume that everybody did the, you know.
+
+00:49:27.680 --> 00:49:57.392
+If we take our intention to treat presumption and we see that one hyper-responder, it's like, I don't know if I should give this to everybody, but maybe one of my people will be a hyper-responder to this. Right. And I want to know who that is. Yeah, that's exactly it. That's exactly it. You want to identify. You have an athlete that you're working with. You want to identify what are the interventions that are going to be the high responder to that athlete rather than which athlete is the high responder to the intervention.
+
+00:49:57.392 --> 00:50:14.464
+Yeah, that's a great point. Maybe even almost just like my process for reading research is I read it like a storybook. I read it like a picture book. I look at the pictures. I look at the plots, the data. And, you know, yeah, my first...
+
+00:50:14.464 --> 00:50:41.232
+Hope is that they include individual observations, individual data points. And if I don't see that, if I see, you know, a bar plot with a little error bar at the top, I'm a little bit disappointed. But yeah, so I really think it's important. And this happens way more often nowadays. We've improved at this, of showing the individual data and showing the individual change. I want to see which, I want to see those lines between the pre and post, between the athlete at pre and the athlete at post.
+
+00:50:41.232 --> 00:51:06.128
+and understand the variability there because the mean can go up, but you've got 50% of the athletes going in different directions. So that is, yeah, first of all, super important. The next thing that kind of came to mind is just, you know, if we're looking at training interventions or we're looking at something related to intensity prescription, nowadays, it's really discouraged to use a fixed percent of
+
+00:51:06.128 --> 00:51:35.344
+any one thing. So whether that's percent VO2 max or percent heart rate max or anything like that, percent watt max. So you do a ramp test, you get your peak power, your watt peak, and now I'm going to prescribe training at 70% of that number. Well, I have different athletes and 70% of watt peak is going to represent different intensity domains, different metabolic responses in all of those athletes. So that's, you know, again, that's a little bit of a yellow flag for me and what I hope to see. And again, we see it more often these days is
+
+00:51:35.344 --> 00:52:02.048
+Intensity being prescribed with reference to multiple, well, with reference to our training zones, the three training zones or the three intensity domains that we've talked about, right? So we get our thresholds and we're prescribing, you know, 50% of the delta between lactate threshold one, lactate threshold two. Perfect. I know everyone is going to be in their heavy intensity domain, you know, right? 75% of the delta between VO2 max and
+
+00:52:02.048 --> 00:52:26.640
+Respiratory Exchange, Respiratory Compensation Point, right? Okay, I know everyone's going to be in severe domain. Like, that gives me more confidence, and it's just better data overall, because we know this, we've seen this, that will reduce the uncertainty and the heterogeneity among outcomes. So you set your point about responders and non-responders. There are going to be more responders and fewer non-responders when exercise is prescribed.
+
+00:52:26.640 --> 00:52:52.848
+via intensity domains and via threshold. So it just leads to more predictable and therefore more confident outcomes. That's a great one. And I didn't even realize until you said it, but that is also one of my very favorite things that's been happening in the last like 10 or 15 years. Yeah, it's a great movement. Yeah. Yeah. Because there were four authors on it. I always forget two, but it was Ed Coyle and Andy Coggin were two of them.
+
+00:52:52.848 --> 00:53:20.256
+on the Determinants of Endurance Performance paper that like a billion and a half people have recited. And you and I have probably read probably 20 times. Is that Coiling Joiner? Joiner, that was, yeah. Yeah, that model that I tweet all the time of, yeah, Determinants of Endurance Performance. Yeah, totally. And when that was published, that study was probably the first one to rigorously assess.
+
+00:53:20.256 --> 00:53:47.216
+that everybody's metabolic steady state is at a different percentage of VO2 max. And it has taken, since that paper was published, over 30 years ago, I think? Yeah, probably. To get that to really permeate most of the exercise physiology space, arena, discipline? Yeah, I think, yeah, yeah, domain. I think you're right. I think you're right. Honestly, I think...
+
+00:53:47.216 --> 00:54:10.096
+I'm going to hype up my Canadian colleagues. The group in Calgary, Juan Marias was over there and he led a bunch of absolute superstars who really developed, like progressed the methods of incremental testing protocol, right? So the idea of having to adjust power output...
+
+00:54:10.096 --> 00:54:35.440
+for the delay in VO2 onset kinetics, which ends up giving us a more accurate external workload that will elicit the internal metabolic response that we want. So now we have kind of more confidence in how we prescribe thresholds. Again, some of, you know, the exercise, X-Biz Lab is the online app and it's an R package. So it's just available to researchers now and to regular people.
+
+00:54:35.440 --> 00:54:53.216
+who are just able to plug in their metabolic data and get these thresholds with no coding expertise. Really, they don't need any experience in doing this. Whereas before that, and this is, we're talking about kind of 2016, 17, 18 era. So before that, you know.
+
+00:54:53.216 --> 00:55:22.976
+As students, we were all just developing our own custom little Excel package or Excel sheet to try to do this analysis, whereas now it's democratized and anyone can use it. And the same thing with lactate thresholds and everything else. So I really think the group from Calgary, my Canadian Budze, did a really good job about helping the rest of sports science be a bit more robust and outside of sports science in the actual field, you know, users of this to be a bit more robust in determining our training intensity targets.
+
+00:55:22.976 --> 00:55:52.656
+Yeah. And actually, I wanted to step back to the meta for just a minute because there was one more thing I wanted to ask you about. So I'm fascinated by the fact that only 40% of the participants increased their view to max. And only 20% increased their, sorry, had their performance. The top trial performance. Yeah. Was it increasing or decreasing?
+
+00:55:52.656 --> 00:56:17.136
+put it wrong on my notes. Yeah, yeah. 60% increased VO2 max, meaning 40% did not, and 80% improved time trial performance, meaning 20% did not. So yeah, some stark differences. So what do you think is behind that? Because I know if we take a kind of distribution, you know, you would not assume that somebody...
+
+00:56:18.960 --> 00:56:45.104
+who starts on the low end of the bell curve for the pre-test would also end up on the low end of the bell curve for the post, or they, well, they probably would, but what's the variability there? And like, you know, how much it was real loss? How much was, was like within the measurable error? So like, so where does all that kind of stuff come from? Because I think if people knew how much
+
+00:56:45.104 --> 00:57:14.480
+variability there was in these protocols and in training and in the compromises that we have to make, I don't do any of this research, that you have to make in the laboratory. Again, why I stick to mechanistic, I like my cells and vials and kinds of stuff. Where does that come from? I think if people knew that they might lose VO2 max doing a particular
+
+00:57:14.480 --> 00:57:42.496
+protocol, like how much is real and how much is just performance variability and yada yada. Yeah, I think that's super important. The boring answer is going to be statistical that, yeah, it just comes from kind of, I call it statistical artifact or just day-to-day variability. Again, if the mean change is only 2% across, you know, whatever, 300-odd individuals who have VO2 max, then there's going to be a large distribution and there's going to be people who, yeah.
+
+00:57:42.496 --> 00:58:12.464
+improved negatively, I was going to say, who got worse at the outcome measure. Improved negatively is just a horrible euphemism. So it's almost kind of just statistically inevitable, probabilistically inevitable that some people will appear to get worse over a training intervention. And I think a lot of that just comes from the uncertainty that we talked about. So if we just talk about kind of time trial performance, and there's that kind of 1% to 3% plus minus error or uncertainty, let's call it that,
+
+00:58:12.464 --> 00:58:41.648
+on any given day. So if I do a time trial today and I do a time trial three weeks from now and nothing changes in between, it might be different by, again, on average 1% to 3%, but the differences might be a lot more than 1% to 3% that are purely attributed to, you know, I was just in a different condition on the day. So, yeah, we have to kind of keep in mind that all of these variables are prone to uncertainty, let's say,
+
+00:58:41.648 --> 00:59:10.928
+which, again, going to kind of take both sides of the argument here, which on one side should make us more cautious about interpreting all of these performance data as you're getting to, but on the other side of things should also kind of, well, okay, we don't need to be as concerned if we're seeing our FT, you know, I see this all the time, you can tell me if you do as well, like on Reddit, oh, my FTP dropped by five watts, I've been training for the last three weeks. Or it went up five watts and I've been training for the last 12 weeks.
+
+00:59:10.928 --> 00:59:36.144
+When FTP goes up, it's always real. When FTP goes down, then it's just measurement error. But yeah, that's exactly right. Like a five watt plus minus difference on our threshold is meaningless. And I mean that like very literally, it's meaningless because of all of the uncertainties that we have to consider. And that number is never a moving target. And, you know, maybe you could post some...
+
+00:59:36.144 --> 01:00:02.112
+Some figures, but I want to just kind of describe, right? So if we think about that, that first FTP measurement is a point value, but it has some measure of uncertainty around it. So let's just call it plus minus 3% around that point value. And then we retest after a few weeks and we have another point value and the number's gone up, but it still has the same kind of 1 to 3% error bars on either side of it. And now if we compare those two error bars and they're going to be overlapping by some amount.
+
+01:00:02.112 --> 01:00:25.744
+That's kind of our uncertainty, where we don't actually know if that represents a real change, whether it goes in one direction or the other. So that's, again, the boring kind of statistical side of things. Where is that uncertainty coming from? A lot of that is just going to be, yeah, biological variability. A lot of things that are modifiable, so fatigue levels, nutrition of, you know, the past 24 hours.
+
+01:00:25.744 --> 01:00:55.168
+My acute training load and my fatigue, all of that kind of stuff is well within our control. So we kind of know we're going to perform better if our fatigue is lower. We're going to perform work if we're in the middle of a really hard training block. Something like indoor versus outdoor, that's a nice controversial question of like, should we have the same VO2 max and the same training zones on our fixed turbo trainer as we do outside? So all of that kind of stuff comes into play. Temperature, right? Everything. Like we know that. And I'm hand-waving all of that away. It's all important.
+
+01:00:55.168 --> 01:01:23.312
+It doesn't mean we have to keep track of all of these things. It just means we know things are going to be different. So we have to kind of appreciate there's some uncertainty, there's fuzziness around all of these estimates. So yeah, you know, again, I like that as a confidence booster to say, don't worry about the little week-to-week or day-to-day changes. Worry about the longer time frame. And we do want to see improvement over time. And when we are looking at week by week or month by month or whatever it is,
+
+01:01:23.312 --> 01:01:51.472
+different things are going to improve at different times. And so yeah, our FTP went down by five watts, but you know, actually my heart rate's going down and you know what, I feel better at whatever the same workload as before. Like that's the more relevant outcome measure that we should be looking at for ourselves. Completely agreed. And I mean, this is actually one of the things that I've always liked about you. And I think that's why you and I kind of get a vibe, the same vibe from each other about this is that
+
+01:01:51.472 --> 01:02:17.664
+You know, we have a similar view of the literature where, you know, I'm a little more skeptical and you're a little more, you can lawyer up, I guess we could just say, you can lawyer up better than I can. Yeah, sure. And so I guess I wanted to ask you a kind of a general question, like, so when you see people say, the science says blah, blah, blah.
+
+01:02:17.664 --> 01:02:47.264
+Like, what's your gut reaction to something like that? Because you probably didn't hear it, but I did a podcast about that with Rory and Kyle like a couple months ago because I was beyond annoyed at people saying, here's what the science says and it's like the study and then, you know, we all know the statistical blah, blah, blah. And at least for me, I'm going, oh God, it doesn't really say that, but it also doesn't not say that, so. Yeah, yeah, yeah, yeah. Parts of the science. But that's where, yeah, like I'm okay with that.
+
+01:02:47.264 --> 01:03:11.264
+Unless it's, I'm okay with it as long as it's in good faith, right? If it's someone kind of doing their best to interpret what they have read. And of course, people with, you know, less experience or less exposure are going to have a more narrow view. And that's where we get back to this idea of like, you can't over-interpret any one study. But if I've only read one study, then I only have kind of that one data point of, you know, oh, this thing makes this thing.
+
+01:03:11.264 --> 01:03:40.976
+Go Up. So therefore, do this thing, right? The more I read, the more I understand the uncertainty here. We're going back to that topic again. So I'm pretty willing to kind of engage with that as long as it's in good faith. That's the key. And by that, I mean, you know, not trying to over-interpret or over-claim or, of course, you know, misinterpret, you know, deliberately avoid the literature or the kind of the consensus of
+
+01:03:41.296 --> 01:04:11.040
+Well, both research and practice, right? I think both are important. So, yeah, I don't know. I don't know. Case-by-case basis, I think, is my best answer right now. What did we say about lawyering up? Being very diplomatic? So, do you have any... All right, let's try to get you going negative for a second. It'll be difficult, but do you have any statistical pet peeves? Because I see you posting...
+
+01:04:11.040 --> 01:04:38.864
+graphs constantly. And I think it's actually fantastic because a lot of the time, like if I, whenever I'm Googling like a new statistical term, God, what was this morning's one? I forget. My partner's an epidemiologist, so I'm always constantly trying to keep up and I'm doing a bad job. But as soon as I see a graphic next to the definition, I go, oh, I get it now.
+
+01:04:38.864 --> 01:05:08.368
+Yeah, totally. So I think that you probably have some statistical pet peeves based on the amount of statistical things I see you post. So what is your kind of like, you like it the least when you see somebody do this? Yeah, that's a good one. I'm trying to think. We kind of touched on this before. So first of all, thank you because I enjoy posting all of those nerdy graphics of data.
+
+01:05:08.368 --> 01:05:36.768
+because again, that's how I read the research is it's a picture book to me. And so I think if I can show data that tell a story, especially if that story is just self-evident, you look at a plot and go, oh, I get it. Yeah. Oh, look, line go up. That's great. That's, that's what I'm going for. Yeah. So, so, so what did we talk about earlier of just, you know, the idea of like not showing the individual change, not showing the uncertainty. I, in general, I,
+
+01:05:36.768 --> 01:05:56.624
+Don't like over-interpretation. And I'll give you an example, and I'm not going to throw anyone under the bus here, but I'll give you a specific example from another area of research that I do, which is in near-infrared spectroscopy. And we kind of got into this offline. Like, near is so confusing.
+
+01:05:56.624 --> 01:06:19.056
+It's like you never quite know what the number means, and some people hate it for that reason, and I love it for that reason, because it's just so like, oh, you can, you know, there's so much promise to it. Anyway, you know, there's certain papers, including our own, we've published on this, using NEAR's muscle oxygenation to determine thresholds, to determine training thresholds.
+
+01:06:19.056 --> 01:06:44.432
+So maybe just quickly, muscle oxygenation, little device that we can kind of put on our working muscle, and it's a little optical advice, just like your sport watch shines a light into the tissue, tells us about the general exchange of oxygen, blood flow and oxygen coming in, that oxygen is being used to perform the work of exercise, and we see kind of the net balance of that. So it's great for metabolism, for exercise.
+
+01:06:44.432 --> 01:07:11.568
+and we can use it and we do see kind of threshold-like behavior in that number. Yeah, it matches really well to like, you know, MLSS and MMSS and all that kind of good stuff. At a group level, it matches really well. At a group level, yeah. But at an individual level, and this is what our research shows and here's one of my pet thieves in this area is for that exact reason, right? If you don't show the individual results, you're going to say, oh yeah, it matches perfectly. Group level, no significant difference between.
+
+01:07:11.568 --> 01:07:39.840
+nearest breakpoint and yeah, whatever, lactate threshold or RCP. But at individual level in our data, and I'm thinking about years now, so I'm not going to get the number right, but it's something on the order of, you know, 20, 30, 40 watt difference in either direction around that group, apparent group agreement. So that's one of my pet peeves. And then, you know, I said over interpretation. So that's kind of part of it, but just, okay.
+
+01:07:39.840 --> 01:08:08.720
+I have a data set of 10 athletes in sports science from a single center, right? And I get a number. The average nearest breakpoint in that group of athletes occurred at 25% SMO2, muscle oxygen saturation. Don't worry about what that number means. And so an over-interpretation would then say, therefore,
+
+01:08:08.720 --> 01:08:36.112
+Everyone's nearest oxygenation breakpoint is at 25%. By the way, remember the thing I mentioned to you before we hit record on such phenomena? That is something that may be explained by the thing. Because I bet what's happening is, insert redacted,
+
+01:08:36.272 --> 01:09:04.800
+I'll tell you later. Okay. I don't know where you're going here. As soon as I tell you later, you're going to go, oh, okay, yeah, that makes sense. Got it. So, like, it's just, you know, in general, just over-interpretation. Like, let's just be cautious and understand a lot of these measures are going to be descriptive of the data we have, but they're not going to apply the same way to, you know, everyone else. And that includes our meta-analysis, right? Like, that plus minus 2% change or that, you know, 1% to 2% difference.
+
+01:09:04.800 --> 01:09:34.720
+between polarized and pyramidal and competitive athletes and recreational athletes. Like, again, it's a group-level change. I don't know how the next athlete who walks through my door is going to respond. And so I can't say everyone's going to have a 2% improvement. Competitive athletes should all follow polarized because they get plus 2% improvement. It just doesn't work that way. Yeah. And, you know, you brought up something that you probably were looking at, a Bland-Altman plot to show.
+
+01:09:34.720 --> 01:10:04.128
+you know your this is your nine to five percent and here's your upper and lower limits of agreement and that is my statistical pet peeve especially since I went and read the original Bland-Altman paper on those plots they actually they're like look do a visual inspection in order to see because they're trying to look at if like trying to come up with a method to show you if a new technology to be used in a medical application
+
+01:10:04.128 --> 01:10:31.984
+is equivalent to the previous one. And so for one of them, they show something that would be the equivalent of this estimation of threshold is plus or minus like 40 watts. Even if the average is zero, there's like no bias. And then they also show like here's a muscle oxygenation sensor that is plus or minus like 0.5%. And those are the limits of agreement. And so effectively,
+
+01:10:31.984 --> 01:11:01.552
+for the application of muscle oxygenation, plus or minus half a percent, who cares? It's effectively the same. But for our purposes, for threshold, they are not the same. Because we want that spread, like, I would personally want to see it within, like, 5 or 10 watts to say these two are effectively equivalent. Yeah, totally. Yeah. Yeah. I think it's an important method because it does show that, well, it's in the name, the limits of agreement for individuals.
+
+01:11:01.552 --> 01:11:31.072
+And, you know, when we look at that and we say, oh, okay, so yeah, on average, it's no different, but I could be, I don't know, again, I don't know if the athlete who walks through my door is going to be the guy at the top or the guy at the bottom of that distribution. Now, let me take a step back and there's a whole thing here of, again, if that's just one observation, that whole range is susceptible to error. And so, you know, there's going to be a tendency to regress to the mean.
+
+01:11:31.072 --> 01:12:00.752
+decreased by 20% and increased by 30%. If we were to test them again and reapply an intervention, I'm sure those athletes would tend to regress to the meat. And in fact, I have a plot, I posted this, you may have seen it, of just that distribution, that exact, you know, again, about 2% improvement on average in VO2 max and in TT performance, but the range is huge in both. The athletes at the outliers of the range, of each of the range, so the athletes at the top of the bottom of the distribution for VO2 max,
+
+01:12:00.752 --> 01:12:30.544
+and we have paired lines between those single individuals if we have both measures for them. All of those lines regress to the mean in the other outcome measure. So the athlete who improved 30% VO2 max, that line goes somewhere into the middle of the blob at around 2% improvement for time trial performance and vice versa. The athletes who improved their time trial by 20%, the line goes into the middle for VO2 max. And so it's just, again, they just happen to be outliers for that one outcome measure.
+
+01:12:30.544 --> 01:12:58.576
+Can we kind of confidently say that's a real difference in that one athlete? No, but we can say that if we're thinking about the next potential athlete that walks through our door, they might be anywhere within that range. So again, it's hard to talk about. I don't know if I'm articulating it well, but it's just that challenge of trying to apply group-level outcomes at a single observation moment and apply that to our individual level.
+
+01:12:58.576 --> 01:13:24.480
+Coaching, which is longitudinal repeated measurements over time. Yeah. And I mean, this kind of goes towards one of the fundamental principles that we actually see in things like genetic testing, is the difference between individuals is greater than the difference between any two groups that we can measure. Yeah, that's it. Yeah, really well said. Yeah, yeah. I like that. That's why I brought up earlier, you know, we have 300 males and only 50 females.
+
+01:13:24.480 --> 01:13:49.504
+But we can still be pretty confident applying all of this to the female athletes and everyone in between because we know the individual differences between any two people, whatever sex they are, is going to be larger than the differences between sex per se. Maybe that's a controversial example to bring up. So I could say the same thing about baseline VO2 max. I could say the same thing about age.
+
+01:13:49.504 --> 01:14:10.528
+that's just the truth is when we do when we do analysis we use or I use like mixed effects models mixed effects models the advantage there is we have something called a random effects that we kind of add into that model and random effects are basically just individual characteristics that we're not interested to pull out exactly what they are like we're there it's you know
+
+01:14:10.528 --> 01:14:32.544
+We're looking at specifically training intensity domain, we're looking maybe at performance level, but everything else, we're not exactly interested in that thing per se, and so it all just gets clumped into random effects. And it's great because it quantifies just the nature of reality, which is any one individual, if we have repeated measures from one individual, those observations are going to be more similar to each other.
+
+01:14:32.544 --> 01:15:01.440
+which is to say any one individual is gonna be more similar to themselves than they are to any other individuals. So there's a shared covariance in there but I'm not gonna get too far because now we're going into statistical magic. I was gonna say, why don't you just impute the, nevermind. So you brought up NIRS, near-infrared spectroscopy. So tell me about why you started to get into NIRS and what your PhD is all about.
+
+01:15:01.440 --> 01:15:31.008
+Yeah, yeah. This has all just been, again, a side quest that I do. My actual PhD is, so I'm working with athletes with a sport-related vascular condition. I call it FLIA, flow limitations in the iliac artery. It's also called endofibrosis. And so this is, you know, we're hearing about this more with some of the professional world tour athletes who have had surgery for this, who, you know, it's kind of this invisible injury that's quite difficult to detect and diagnose.
+
+01:15:31.008 --> 01:15:56.864
+So, you know, I can say in these, this is all on social media, public knowledge. So, Sarah Gigante just had surgery on this. Mariana Voss famously, right, came back a couple years ago from surgery and then won, you know, the entire Spring Classics. Oh, she's amazing. So, it's this condition that is, yeah, it's difficult. It's very annoying. Basically, what it is, quickly, is...
+
+01:15:56.864 --> 01:16:14.496
+The iliac artery is the main artery that feeds blood into our legs. It's kind of in the pelvis and then it becomes the femoral artery as it goes into the leg. So it's pretty important for delivering blood. It kind of goes down by like the psoas, right? It goes exactly. It goes right kind of beside in front of the hip flexor, the psoas muscle.
+
+01:16:14.496 --> 01:16:40.192
+And so if you can think about when we're in that aerodynamic hunched over position, we're pedaling and we're contracting our psoas muscle and we're compressing that space, we can get compression and kinking of that artery, which limits blood flow. And it's usually in one leg for reasons, but basically the athlete experiences just pretty severe pain, burning, weakness, heaviness in that affected leg.
+
+01:16:40.192 --> 01:17:10.192
+at a higher intensity. So it's quite debilitating. Is it usually unilateral? It is usually unilateral. Have you ever seen a bilateral case? Yes. Yeah, absolutely. So we typically think it's like 80% unilateral, but we're starting to think, based on research I'm doing with my colleagues in the Netherlands, Dr. Martijn van Hoef is a close colleague. We work together still. Your Dutch pronunciation is on point.
+
+01:17:10.192 --> 01:17:39.312
+Well, I lived there for the better part of a year. Oh, no kidding. That's awesome. Had a bit of practice. Yeah. First thing I did in my PhD is I was awarded a grant to go study in the Netherlands at the hospital with these world experts in this condition. So it was fantastic. So, yeah, we think that a bilateral component is probably more common than we thought, but typically it presents as one leg is worse, right? The bad leg limits us first.
+
+01:17:39.504 --> 01:18:01.856
+So, yeah, it's difficult to detect, you know, maybe we can get into that whole process, but part of the detection is just doing a provocative exercise test to see what's going on, right? We want to reproduce the symptoms, and then we collect a couple of different measures, and one of the measures, and again, Martijn and I, and his previous work and his PhD,
+
+01:18:01.856 --> 01:18:27.936
+We're using nearest muscle oxygenation. So I said earlier, right, it gives us this little bit of a glimpse into the working muscle itself during exercise of this balance of oxygen coming in and oxygen being used. And if we have a limitation to the upstream delivery of oxygen in one leg versus the other, especially, we can start to see differences in the working muscle. So of course, the athletes, you know,
+
+01:18:27.936 --> 01:18:50.656
+sweaty and snotty and crying and kind of in pain, like this is a patient, they're on their bike, we're making them work as hard as they can and suffer, and they're describing the sensations, they're describing when these symptoms, when this limitation begins, and maybe we can see the power output, right, the power balance also might change, but now we have this tool that allows us to look in the muscle itself.
+
+01:18:50.656 --> 01:19:19.328
+and get a bit of perspective into that actual oxygen exchange. So it's been quite useful in our context. And there's a long history of using nearest muscle oxygenation for clinical populations like peripheral vascular disease, which is the same kind of thing, except they're getting limitations when they're walking around and we're looking at professional athletes. And that's like where most clinicians would be trying to diagnose somebody. And so like, would you definitely recommend somebody goes somewhere with...
+
+01:19:19.328 --> 01:19:45.456
+actual sports experience if they're having this issue because... Yeah. Yeah, that's super important. Yeah, yeah, yeah. Thank you for bringing that up. That's like a soapbox that I like to get on is, you know, through no fault of the clinicians, right? This is a rare condition. And I want to get into this, but I'll say right now, like, not every cyclist should have any concern for themselves that they're suddenly going to, right? It's a very rare condition. If I have a...
+
+01:19:45.456 --> 01:20:15.040
+If I have pain and burning and my leg really is sore when I'm, you know, going at 300 watts, like that could be anything and it's more likely to be something else. So this is not our first concern, but we're starting to understand it is something that happens. And so the kind of the awareness and our ability to detect it is, yeah, at this point improving, but it's still limited, especially considering most of the hospitals and the vascular clinics, certainly locally here in Canada.
+
+01:20:15.040 --> 01:20:38.496
+ton of experts in North America, in Europe. An athlete goes to their local specialty clinic, basically. The specialty clinic is set up to evaluate the 80-year-old, much less functional clinical patient. And so they're not going to have the appropriate testing or protocols or equipment to test a professional athlete or an amateur elite.
+
+01:20:38.496 --> 01:20:52.160
+well-trained athlete. So that's part of the issue here is a lot of athletes will kind of get lost through the cracks of the system because they're performing just an inappropriate test like a
+
+01:20:52.160 --> 01:21:19.488
+a professional cyclist who has to perform a six-minute walk test and try to elicit symptoms that way. It's just not going to do anything. And they get you up to your 220 minus your age, heart rate, and they're like, all right, you're done. And then they have to stop you. Yeah, yeah. And this is because, maybe to just, again, say it explicitly, this is only a condition that affects individuals and they only have symptoms at pretty high-intensity exercise. It's not something that these athletes have issues off the bike or...
+
+01:21:19.488 --> 01:21:42.688
+walking around or anything else. So it's really exclusively a sport-related condition. So that's where, yeah, I do recommend finding a center with expertise. Of course, I will promote myself. I try to be available online for athletes who have these concerns and I can help direct them to local resources, but...
+
+01:21:42.688 --> 01:22:08.768
+You need to see a clinician first yourself before you contact me. Because again, you know, pain in the leg is so much more likely to be anything else. And FLIA, flow limitations should not be the first thing that we can consider. So the first step of diagnosis is seeing a local clinician having some actual hands-on assessment. But down the line, if the athlete is not responding to those other management methods, that's maybe where we start to think about.
+
+01:22:08.768 --> 01:22:34.864
+vascular involvement and where, yeah, again, NEARS gives us a little bit of a tool, a more specific tool to look into that. Yeah, well, so what's that detection and diagnosis process like, especially when it comes to using NEARS? Yeah, so again, it really does start with the athlete kind of seeing, you know, a local sports therapist or physio or whoever.
+
+01:22:34.928 --> 01:23:03.040
+because we need to consider that musculoskeletal, you know, the potential biomechanical stuff, all of that kind of more common sports injuries or just training load management, like a large part of fatigue is often going to be training load more than it is any actual tissue injury. So that's part of the process. Again, maybe they go through that and they're just not responding to the treatment as they, as the clinician would expect. And so you start to think, is there something else going on? Then the step would be referral or...
+
+01:23:03.040 --> 01:23:32.960
+referral to more of a specific vascular assessment. And what that looks like is, so what I do in Vancouver is kind of more of a screening protocol where we're doing a provocative exercise test, right? So again, I get the athletes in, they're sitting on their bike and I'm going to make them exercise as hard as they can, basically do a ramp test. It's the easiest way to see the responses during exercise as a function of increasing intensity until they begin to feel these symptoms and experience the limitation.
+
+01:23:32.960 --> 01:24:00.208
+Again, I look at power balance, which is, you know, again, something interesting maybe, and I look at NEARS, and that gives us kind of something on the external output side from both legs and the internal metabolic side from both legs or the major muscle groups of both legs. So now we're looking at that from kind of an asymmetry, left-right asymmetry perspective, and we're also taking blood pressure measurements. That's one, you know, that's the more established.
+
+01:24:00.208 --> 01:24:27.952
+Clinical Criteria is taking blood pressures at the ankles as well as our baseline up at the arm. And we can just think about it, right, if we have kind of two hoses down each leg and one of the hoses we pinch off, we kink at the top of the hose, downstream of that the pressure is going to be lower, the flow is going to be lower. And so if we're measuring our pressure at the ankle, that's going to be more sensitive to tell us is it lower or is it within normal range. So that's part of the diagnostic criteria.
+
+01:24:28.624 --> 01:24:55.824
+Where we use NIRS specifically is, again, it's showing us kind of the balance of oxygen being delivered through blood flow and being taken up by the muscle. And there's a couple different ways that we can try to pick apart. And again, I'm being very cautious here because this is all kind of in development, let's say. But we have papers showing that it's, you know, successful for these methods. Yeah, we're basically looking at one leg versus another.
+
+01:24:55.824 --> 01:25:25.424
+How quickly just will one leg deoxygenate? So if a leg is deoxygenating more quickly and the workload is approximately the same, and that's why we want to look at power balance because we want to see if the workload is actually the same, not just the power of the leg was prescribed at 50-50, but the power of the leg is actually performing. The protocol. Exactly. So that's during exercise. We see how that changes as a function of increasing intensity. And then after exercise, again, one of the important parts is looking at the recovery process.
+
+01:25:25.424 --> 01:25:54.656
+So we make the athlete, they've just done VO2 max effort, you know, again, they're sweaty, they're snotty, they're crying on the bike, their legs just burning, throbbing, we're making them just sit there and hold an aero position, and it's the worst part of the whole test. They're holding that aero position, they're sitting there stewing, marinating in hydrogen ions and everything else. And we're watching the recovery, because again, if I've kinked that hose, I'm getting less blood flow coming back in, I'm going to see the oxygenation in the leg very slowly recover.
+
+01:25:54.656 --> 01:26:23.728
+Versus maybe the other leg, if it's healthy, it's going to recover much quicker. And if we're looking at the time course of that response, and we're looking, you know, it's an order of 30 seconds to a minute, so it's still quite quickly. But yeah, we have some normative data that we can say, okay, we expect an athlete of this training level. That's another reason why we have to consider, you know, if we were looking at just population norms, or data coming from peripheral vascular disease, clinical populations, those numbers would be irrelevant for...
+
+01:26:23.728 --> 01:26:49.792
+professional, high-level elite athletes. So we have kind of normative data from elite-level athletes, and now we're comparing that in the athlete that we're assessing. And we're looking at how blood pressure changes for the same reason. We're kind of seeing, you know, the blood flow comes back into the leg. It's going to come back in slowly, but as it kind of refills the sponge of the muscle and then eventually gets down to where the ankle...
+
+01:26:49.792 --> 01:27:16.672
+receives that increased pressure, and now we're back to normal. So that's kind of the main thing. What I would do from there is basically refer on for more advanced imaging, so MRA, CT scan, something to look at the actual structure of the artery. And that's kind of the first step, I would say. And, you know, something, again, the reason we're using Nearest is we're trying to make this more accessible to be done outside of a specialist clinic so that a team or a therapist such as myself can do it.
+
+01:27:16.672 --> 01:27:38.272
+Yeah, in a more real-world environment, and it's not something that the athlete has to wait six months for. And at low risk, too. Makes sense. Exactly. Non-invasive, you know, low burden. The athlete's just doing a VO2 max test. Which is not painful. It's not pleasant, but it's not invasive. Yeah, and also like...
+
+01:27:38.272 --> 01:28:00.912
+Doesn't everybody kind of want to go get a VO2max test at some point anyway? So it's like, I know we're doing this, but we're going to hook you up and check your VO2max anyway, just for funsies, you know? Yeah. Yeah, exactly. Yeah. Are there any known risk factors to go along with this? Or is it just sort of like, is it potentially genetic, which would be to say we don't really know? Or is it like if you spend...
+
+01:28:00.912 --> 01:28:28.768
+More Time and Very Tight Arrow Positions. Does that potentially increase your risk or is there no epidemiologic data at this point? Right. That's a key, really good question. I would say there are risk factors. We don't know what they are. And because this condition is not common, that's the first message here. It's not something that I suggest, oh, you got to be cautious about doing this.
+
+01:28:28.768 --> 01:28:56.816
+because you might develop, like, no, it doesn't work that way. We think there's some predisposing factors and we don't exactly know what they are. We have some ideas. It's going to be hard to test, but we, you know, we're working on it where it's not just any athlete who's at risk because, again, why would, you know, two athletes on the same team, on the same equipment, in the same position, the same training volume, one develops FLIA, one doesn't. There has to be something.
+
+01:28:56.912 --> 01:29:14.672
+you know predisposed in that one athlete and we think it's probably you know a quirk of anatomy basically right if that artery we talked about it goes right in front of the psoas muscle if that artery is longer or maybe it's more elastic or less elastic it's just if there's different properties it might be more or less
+
+01:29:14.704 --> 01:29:42.592
+vulnerable to compression and kinking. So there are some risk factors, but it's not something that, you know, we have to think about unless we're having symptoms. So it's that kind of asymmetrical risk profile of, if I don't have symptoms, if I don't have any perception that anything's wrong, oh, great, I don't need to, you know, go as arrow as you want to go, like, do whatever you want to do, that's totally fine. If I have, once I have symptoms,
+
+01:29:42.592 --> 01:30:11.184
+It's like power balance. Let me go back to power balance because that's a key one as well. People can look at their power balance. It's 47-53. What do I do? Yeah, exactly. Yeah. How do I make it 50-50? Doesn't matter. Does not matter. There's lots of data out there that show healthy athletes will be anywhere from 45-55 in either direction or greater without any kind of increased risk of injury, without any kind of performance decrement. So power balance alone.
+
+01:30:11.184 --> 01:30:34.176
+is not sensitive for injury detection. But if we have a condition, if we have symptoms, looking at power balance can help indicate what's going on, can help kind of give us more information about what is causing those symptoms. So that's what I mean by kind of asymmetry or like, you know, risk profile asymmetry. Once I have symptoms,
+
+01:30:34.176 --> 01:30:57.264
+Like, I know I have symptoms, so we're going to go look for the reason why. But without any symptoms, without any performance decrement, there's no reason to start investigating, if that makes sense. That makes absolutely perfect sense. I mean, it's like, don't fix what ain't broke. Yeah, yeah, yeah, exactly. Well said, yeah. So, you know, for FLIA, again, like, if these predisposing factors exist,
+
+01:30:57.264 --> 01:31:24.656
+If a patient is having, if an athlete is having symptoms, then we do say, well, you know, the first thing that we can address is bike fit and bike position. And I said earlier, right, it's going to be that aggressive aero position that tends to aggravate symptoms because we're compressing that artery more. Just in terms of, you know, anecdotally, patients usually describe, oh yeah, it's worse in aero position, it's much better when I'm upright in my training position or when I'm standing climbing up the mountain. Yeah, exactly.
+
+01:31:24.656 --> 01:31:53.056
+So, right, if there are symptoms, that's an easy fix that we can make. Just get out of that aggressive aero position when we're doing high intensity, right? So, you know, we have different levers that we can kind of pull here. One is, of course, intensity. Symptoms usually only arise at higher intensity. And symptoms might be worse in an aero position. So let's not combine those levers when we have to do high intensity training. Let's do it in an upright position. Let's do some standing intervals when we have to familiarize ourselves to our aero position.
+
+01:31:53.056 --> 01:32:21.968
+Just do it at low intensity, no problem, get comfy in that position. So that's kind of some of our advice. And then it's just going to suck on race day. And on race day, you just have to do what you have to do. And, you know, keep in mind, like, a professional athlete with professional obligations, and that's their livelihood, they have to do what they have to do. An amateur athlete who's doing it for fun, who's, you know, it's a hobby, it's very different math, it's very different priority, do we have to make ourselves suffer for our hobby?
+
+01:32:21.968 --> 01:32:47.040
+If there's a medical implication, that's a philosophical question I am not getting into, and I'm not providing professional medical advice, but it's something that we have to consider, you know, the athlete that we're working with and what their priorities are. Yeah, well, I think the suffering in cycling, as glorified as it is, is typically a means to an end rather than, like, unnecessary suffering. It's not like...
+
+01:32:47.040 --> 01:33:16.368
+It's the satisfaction after the suffering. It's not the suffering. Yeah, it's like I could make this race even harder if I don't eat anything during the race, but that's unnecessary. Hey, that's what we did in like 2017. That was a whole rage back then. Oh my God. That did describe my almost entire road racing career. Yeah, unfortunately me too. Are there any issues long-term if something like this is not resolved or do people live long, healthy lives and it just kind of sucks when you're doing these hard efforts?
+
+01:33:17.264 --> 01:33:46.624
+It's a good question. This condition was basically discovered and named in the mid-80s. So we're talking about, you know, if a 20-year-old athlete in the mid-80s had this condition, they're still in kind of, you know, they're living their life, they're having a good time now, after, well after their professional career. So, again, my colleagues, Dr. van Hoef, through his PhD, published, I think, 15, 20 years of retro...
+
+01:33:46.624 --> 01:34:15.968
+retrospective research coming from their center on surgical outcomes. And then we're actually soon going to start looking at the conservative management data that they have, the non-surgical management. But the outcomes seem to be very positive over time from surgery. And in general, we would say, you know, this is a progressive condition in that if, yeah, if we have it and we continue to provoke it essentially with
+
+01:34:15.968 --> 01:34:41.488
+High Intensity Efforts and, you know, situations where we're experiencing symptoms, it does tend to get worse over time. And we're talking about months and, you know, years as it develops. And that's usually how we end up detecting it in the first place is that it's kind of been there for a while and it's just been getting worse over the past few years. And now, you know, eventually it's like, oh, this is an issue. The suggestion is if we stop provoking it,
+
+01:34:41.488 --> 01:35:09.632
+meaning maybe we have to modify our training and modify our sport participation. There probably won't be a lasting issue, right? We can't say over like a 60-year timeframe we don't have those data yet, but all suggestion is if we stop provoking it, it won't continue to progress, which is good. There doesn't seem to be a suggestion in the data we have so far that having a flow limitation will lead to some other vascular complications later in life.
+
+01:35:09.632 --> 01:35:36.496
+Again, we don't have great data, but it doesn't seem to be pointing that way so far. So, yeah, it is kind of more a, I don't want to say short term, but it's a, you know, a career term question, maybe if I can say that, right? It's like, how many years do I have left in my career, my cycling career, my sport career? How much worse will it get? How much...
+
+01:35:36.496 --> 01:36:06.192
+pain can I tolerate? And I really don't think that just trying to tolerate more pain, that's not a good idea. So that's kind of the question. But once we kind of retire from high-level sport, it's probably not going to be a lifelong issue as far as we can say so far. Do you have a little more time? Yeah, I do. Okay, cool. Because I have a couple more things to touch on.
+
+01:36:06.192 --> 01:36:33.680
+wanted to get into your blog posts from back in 2019 or 2020 on VO2max because that's how I first became aware of you. And I wanted to get a sense because I've had a lot of kind of small and large shifts in my mindset since I started coaching 10 years ago now. And I wanted to see if you had any like
+
+01:36:33.712 --> 01:36:53.040
+changes of your thought process on some of the stuff that you posted on in terms of hard starts and intermittent efforts and all that other kind of good stuff. Because I know that you were also one of the first people to get the VO2 master thing and start
+
+01:36:53.040 --> 01:37:19.920
+experimenting with oxygen uptake and different protocols. And so what's your kind of retrospective take on everything from that era? I mean, and should people, when they go back to it, like they go back to my early podcasts, how seriously should they take that? Because I tell people they probably not take our earlier stuff that seriously also. Very cautiously. Yeah. Yeah. Yeah, no, that's cool. Like that was kind of, yeah.
+
+01:37:19.920 --> 01:37:47.568
+I, you know, when I was getting into just training myself and starting to coach just other athletes and trying to expand my own knowledge, and this was well before I was doing research, I was a clinician and, you know, with a kinesiology background, so I was reading research and kind of trying to write as a process of synthesizing, right, as I said earlier, like, no one study is a breakthrough, so I was trying to read as much as I could and then try to synthesize it all together and see kind of what the
+
+01:37:47.568 --> 01:38:13.664
+What direction is the research pointing to and kind of where can we speculate and take it a little bit further? And so that is my caution is, you know, my articles from back then were really about like, how far can we push this? How far can we optimize on a session by session basis, you know, these workloads, these programming, interval programming to
+
+01:38:13.664 --> 01:38:38.064
+Improve something. And I think most of the time back then, I was talking about improving VO2 max, not actually performance, right? We covered this earlier, not necessarily the same things, but you know, right? So what does the literature say about what kind of intervals improve performance, sorry, improve VO2 max or performance more? And yeah, I was super interested, like, and I still find this fascinating. So don't get me wrong, like, I've...
+
+01:38:38.064 --> 01:38:59.744
+If there's any posts that I thought were harmful, I would take them down. Or like shameful, I would take them down. I've left it all up. I think it's fine. I think it's super interesting. And I love having those conversations. But, you know, and I think both of us would kind of agree, those little nuances and those like session by session differences don't make a difference. They do, but like...
+
+01:38:59.744 --> 01:39:28.144
+They don't matter. No, they don't keep me up at night anymore, actually. Actually, I thought you were going a different place than you did. I was like, because I think you were like the little, you know, like the little things where maybe you got a little too enthusiastic about something or you a little too harsh on something else. That's what keeps me up at night is like, am I on the record of bad stuff? Because you're right. I mean, I advise people of this all the time is that the minor details don't really make that big a difference until you've got all the big rocks in place. Yeah, that's exactly right. So, you know, yeah.
+
+01:39:28.144 --> 01:39:56.032
+Hard Start Intervals, the 3015s intermittent stuff, like, super cool, really interesting protocols. And I think there's still a place for them, like, again, novelty, saliency of just like, oh, it's a hard stimulus. But it's not magic, nothing's magic. You know, hard starts are great, and hard starts is basically like, you start hard. You know, it's like an all-out effort. It's an attack, basically. It's a race simulation effort.
+
+01:39:56.032 --> 01:40:20.832
+I had an athlete just on Strava post something to me this morning about that. You know, they were doing some old school, like, hard start style intervals. I'm like, first of all, oh, it's that time of the season already. You know, our spring series racing starts, what, in less than a month. But it's not magic. It can be fun. If you enjoy it, go for it. But, like, it's not the only thing that works.
+
+01:40:20.832 --> 01:40:48.704
+and that's where my caution is and yeah what keeps me up at night now that I understand your point there yeah absolutely it's like don't sweat the little stuff and the little stuff that works for me might not work for you it might not work for the athlete beside you so we all kind of what I've what I've advised athletes and coaches in particular recently is like any of these little programming differences or any of these little interventions or like nutritional stuff or talk about you know
+
+01:40:48.704 --> 01:41:18.320
+Bicarb or Creatine or whatever. The studies, the data, usually it shows, yeah, it makes about a 1% to 3% difference. And they all make about a 1% to 3% difference. But if we add them all together and we apply them all, it's still only going to be about a 1% to 3% difference. And it's probably just because we're getting that placebo effect, that good, good placebo effect. And it's temporary. And then we're going to kind of just go back to our normal rate of progress.
+
+01:41:18.320 --> 01:41:44.624
+Don't sweat the little stuff, but pick something that you're interested in. So if I'm interested in, yeah, a hard start. And I think it's really cool to measure VO2 with, yeah, like a portable VO2 analyzer. And I'm into that. Do that. And don't worry about all of the other stuff. You know, pick your kind of one or two interventions that you think are great and just go for it. But don't worry about, like, over-optimizing. Yeah. And actually, that...
+
+01:41:44.624 --> 01:42:12.288
+brings me to something that I think that you are going to appreciate is my coaching perspective on when to do those kinds of things. Because this is one of the things that I think makes the biggest difference in the literature in terms of a methodological, I don't want to call it a flaw necessarily, but in terms of actually applying the research, it does make, it doesn't mean
+
+01:42:12.288 --> 01:42:40.352
+what I think a lot of people think it means sometimes. So a lot of research papers, when they are looking at high-level athletes especially, will catch them coming in off their off-season. Yeah. And I think that makes a world of difference because I know from my coaching experience that if you come in from the off-season, the harder you push, the faster your rate of progress. So like no wonder harder training interventions show a larger improvement. However, to your point,
+
+01:42:40.352 --> 01:43:04.720
+Everybody gets to about the same place anyway. Yep. The longer time frame you look at, the less any of these differences at the start matter. And it all kind of washes out and it's all a regression to the mean. Yeah, that's a great point. So that is kind of a truism of sports science research is a lot of it is done in the off-season because that's when we have access to the athletes. And so if an athlete is coming in and they're kind of detrained after a...
+
+01:43:04.720 --> 01:43:25.776
+a few weeks off. Or maybe the study deliberately, you know, has a wash-in period where they are, you know, intentionally asking them to not train or to do something, you know, maybe just low intensity exclusively or whatever, right? So the athletes are very often coming in not in their peak shape. And, you know, there's a great study recently that looked at like...
+
+01:43:25.776 --> 01:43:53.872
+like 600 studies and 3,000 or maybe 6,000 individual participants and was looking at the time course of VO2 max changes. They didn't look at performance, which I unfortunately, but you know, they had these really nice models showing the kind of the time course of change in VO2 max from zero to 20 weeks or something like that. And that's about the extent of the data we have. And our meta-analysis is it was out to 18 and I think theirs was out to about 20, 22 weeks. So that's still only like a few
+
+01:43:53.872 --> 01:44:22.624
+Training Blocks, you know, we're still talking about, right, like, like, if I'm starting that detrained, I'm just getting back to kind of where I'm starting to feel good by 12, 16, 18 weeks, the time course of changes, it's a linear log plotter, it's a logarithmic plot, where basically the start is super fast, the effect of whatever we're looking at, VO2 max, time trial performance, whatever, really fast, really nice growth in the first couple weeks, and then it kind of tapers, and, you know,
+
+01:44:22.624 --> 01:44:52.464
+reaches a more or less an asset over longer time. So, right, you look at, you know, if you have a four-week intervention and all you're seeing is that super accelerated growth, oh, you're going to see a huge difference in your intervention. Oh, this is how everybody should train now. It's going to be awesome. Yeah, go do this. Yeah, right, right. What's that study? I feel like you've brought it up before. There's like the famous old school study where, you know, it was like the hardest study that any of the participants had ever done. They all improved by 10 or 20 or some ridiculous percentage.
+
+01:44:52.464 --> 01:45:17.824
+Is that it? Yeah, that rings a bell. But then, like, they ask the participants, whoa, can you continue this? And everyone's like, no, it's impossible. Oh, maybe it wasn't Hickson. Jeez. Oh, I don't know. That might be, like, hearsay. But that's the story I recall hearing, is, like, there's this famous intervention study, everyone improved by this giant amount, but nobody, none of the participants, found the training to be sustainable. They were all put out by the end of it. Yeah, it was...
+
+01:45:17.824 --> 01:45:46.896
+It was, it might have been the Hickson study. It might have been, that rings a bell. Because I believe, oh God, there's a, there's a meta review on amount of VO2 max improvements in each study and showing one of those, I think it's called a funnel plot. And maybe it's not a funnel plot. Yeah, it's for something else, I think. Yeah, okay. So again, it's showing my lack of statistics. But like that one was like far and above had the.
+
+01:45:46.896 --> 01:46:15.296
+largest effect size of everything. If I think it was the one that I think it was. And that was probably the one where nobody probably could have gone a couple more weeks, if any. And I think that that kind of thing also is generally not in the literature. I mean, it sort of is in sort of like lifestyle health kind of things where it's like, especially with the high-intensity craze of like, you know, what, five, ten years ago, where they were looking at like
+
+01:46:15.296 --> 01:46:44.128
+program adherence. What can people actually sustain long-term? The higher the intensity, the lower the adherence, again, if memory serves correctly. I think so, yeah. Enjoyment. There's a nice body of research looking at enjoyment of exercise. I'm like, yeah, the higher intensity, not always. Caveats here, different types of exercise response differently, but in general, yeah, the higher intensity or maybe the higher volume of intensity. That might be a better way to say it.
+
+01:46:44.128 --> 01:47:04.016
+Like, the more intensity that we're doing, the less enjoyable. Yeah, more frequency, more intense, yeah. Yeah, the combination, the volume of intensity. Yeah, you would call it like a... Oh, sorry, go ahead. So, you know, like, after all the kind of 2018, 2020 era of like writing these blog posts of super optimized interval sessions...
+
+01:47:04.016 --> 01:47:17.168
+I can't remember when it was, but my most popular post has become this sustainable training template, which almost kind of goes back on all of that over-optimization and just tries to pull out of the weeds and say,
+
+01:47:17.168 --> 01:47:43.888
+You know, hey, here's kind of the things that seem to matter. Let's just focus on the basics. We've got our high intensity. We've got our sprint interval training. We've got our low intensity. It all fits together. Our threshold, it all fits together at different times. You know, it depends what kind of time frame, what kind of game that we're playing. And if we're playing an infinite game, right, I'm not racing anymore. Like my goals are not to peak for July. My goals are just to whatever, maintain and hopefully improve performance. Yeah, you're no longer, like I say, you're no longer training. You're now exercising.
+
+01:47:43.888 --> 01:48:10.912
+Exactly, yeah. It's lifestyle activity levels more than training. But, you know, so the longer time frame you go, the more you have to go back to the foundation, the fundamentals. Yeah, and I think that that's also where I've seen you say this a couple times, and I really appreciate when you do, because especially coming from an actual scientist, when scientists say this, especially ones who are, I would say you and I are
+
+01:48:10.912 --> 01:48:38.944
+On the translational side, you know, you do a lot more research than I do. Yeah, I think so. Obviously. But I think when you have to apply it, you have a very, very, very different perspective on what actually matters. And when you are playing the infinite game of I'm going to work with this person for the next five to ten years or even just like one to two years, how does my game plan change? Because I'm not going to have them.
+
+01:48:38.944 --> 01:48:58.736
+do any kind of like, you know, just VO2max here and then we're just gonna, okay, two weeks of rest, we need more VO2max, do another VO2max block. Like, nobody can do two in a row. I mean, if you can, the second one's gonna absolutely suck ass and you shouldn't do it, but you can try, but I'm here to tell you you shouldn't. Anyway, so...
+
+01:48:58.736 --> 01:49:27.136
+When you are playing that longer term game, like there's very little in the actual literature about like what's optimal for planning a season because even in terms of all the periodization literature that I've seen, like a lot of that stuff comes from like track and field and it comes from theory and like, you know, like trim studies and all that kind of stuff and like a population level average even or
+
+01:49:27.136 --> 01:49:55.696
+There's all these kinds of things. And then once you kind of realize that the map's not the territory and you're looking at individuals, I mean, our coach James sent me a study a couple months ago looking at like tapering for the top five finishers in the Jura d'Italia. And they're wildly different. I mean, there's like two or three that were roughly the same. There's one person who did something very different. Another person did something very different. And it seemed to work for all of them.
+
+01:49:55.696 --> 01:50:21.008
+And the question is, does it work for everybody? Probably not. This is where individualizing that kind of stuff makes a big difference. And so this is a very, very long way to say, I've seen you say that oftentimes coaching is ahead of the science. And obviously there's a really kind of Ouroboros, yin-yang, reciprocal kind of relationship that happens.
+
+01:50:21.008 --> 01:50:45.920
+mentioned that, I'm like, oh, thank God somebody kind of gets it. And I'm not crazy for thinking that. Right, right, right. I got a GIF somewhere of like the amoeba expanding in all directions, looking for the food source. And when it finds a food source, it focuses on the food source. Real quick, yeah. And that's kind of coaching. And that's not a pejorative, I hope that's not a pejorative way to say it.
+
+01:50:45.920 --> 01:51:15.616
+You know, coaching is experimental in a very literal sense of we're trying to find the best approach for our individual athletes, right, in their sport, in their context. And, you know, the process of coaching is trial and error by necessity. And there's no, it's always going forward, right? There's no going backwards and retrying that same decision. And so, yeah, coaching by inevitability is going to be ahead of the research because coaching, or at least some coaches, some athletes.
+
+01:51:15.616 --> 01:51:44.592
+No, let me rephrase that. The coaches and the athletes at the top of their games have succeeded because they've found the thing that works for the athletes. I think I said earlier, it's like you were trying to match the intervention to the athlete, not the athlete to the intervention. Yes. You have an athlete and you're trying to figure out what is the intervention that responds best to them. And the coaches and the athlete who find success have found that magic combination.
+
+01:51:44.592 --> 01:52:13.888
+It's the purpose of research, I think, to follow and figure out why does it work? What is this relationship? Why does this intervention work with this kind of athlete, right? Why does polarized training apparently lead to slightly better probability of improvement in VO2 max of competitive athletes more so than it does in recreational? What's going on there? So research, again, almost by definition has to follow, but in the same way of coach.
+
+01:52:13.888 --> 01:52:35.648
+will draw false inferences. Let me put it this way. Things can work for the wrong reasons, but they still work. And that's what we care about in coaching and in sport. It's when we back up and think like, okay, well, here's the lessons that I learned with this athlete and I want to apply it to my other athletes because it worked here.
+
+01:52:35.648 --> 01:53:05.296
+and I want to make sure that I'm applying the right lessons and so that's where I think research comes in and follows in the footsteps of coaching is to figure out what those lessons are and try to narrow down not only again what works for whom but in what magnitude which is to say what matters and you know I've had a conversation recently of like well we said earlier coaching is sorry research is incremental coaching is also incremental I think that's important research is incremental
+
+01:53:05.296 --> 01:53:32.752
+We're not going to have any massive breakthrough with a single experiment unless, you know, we're working in like super shoes or GLP-1 agonists or, and this was where the conversation went, or if we're working with female athletes, that's where we can have breakthrough because there's so little research on female athletes that like we try an intervention, either it works or it doesn't work, that might be a huge breakthrough if we only have data on males. Anyway, so yeah.
+
+01:53:32.752 --> 01:54:01.328
+Research follows the coaching, but they work together. That's always the case, is it's better together. It's not an either-or question. It's a yes-and question. Yeah, it's like peanut butter and jelly, better together. Yeah, yeah. And I think one of the phrases that would apply there is when something works but not for the reasons you think, the phrase that I always use is literally false but metaphorically true. It's a principle that gets you to act in the way that
+
+01:54:01.328 --> 01:54:28.784
+yields the result you want, but not for the exact reasons that you think so. And typically, and this is where the scientific training will come in, is if you start to manipulate variables to assess whether or not the principles you think are driving it are actually driving it, when you do that, if it gets better or worse, then it's either confirmatory or it's going to reject the idea that that's why it was improving.
+
+01:54:28.784 --> 01:54:57.680
+So I just had a thought of like, yeah, that's a great way to put it because, you know, Newtonian physics is true until it isn't, until you look more closely and it's not quite right. You gotta look at it really, really, really, really close. Yeah. So, so totally, things can kind of work for different reasons. I love that idea, like, like metaphorically true, directionally true, literally false, but, but, but valuable, useful. And to go back, like one of your last episodes that I listened to on just proxies and like the value of different proxies for, for outcomes.
+
+01:54:57.680 --> 01:55:24.400
+That's where we get into an issue of like, hey, VO2max predicts performance, you know, really well until it doesn't. And if we start focusing on the measurement of VO2max, the map is not the territory, right? When a measure, when a descriptive measure becomes the target, prescriptive target, it ceases to be a good measure. If we're focusing, if we're taking the wrong lessons from that observation and we start saying, oh, so I need to improve my VO2max because that means my performance will get better.
+
+01:55:24.400 --> 01:55:40.832
+Not necessarily true. Maybe helpful, maybe helpful at certain times, but yeah, so that's a really nice way to put it. Yeah, and a lot of the principles that have been elucidated by like meta reviews like yours and just like the research in general, I mean, when...
+
+01:55:40.832 --> 01:56:10.736
+People come to me, like I do a lot of individual consultations every year, and people are always looking for like, what should I know? Like, what is the fundamental principles? What can I apply to coaching myself? Or when I do this with coaches, what can I apply to my athletes? And, you know, usually for the coaches, we're looking at like, what are the metrics you can use as proxies for these other things? That doesn't mean that you can kind of hack the metric.
+
+01:56:11.824 --> 01:56:38.784
+not I never have given anybody a giant list of references supporting that this also is like the thing and I think that to really I do that sometimes I knew you would but I think the thing I really want to bring this full circle to is maybe not quite full circle but symbolically full circle
+
+01:56:38.784 --> 01:57:06.944
+is that I think when you're really onto something, either in coaching or research or whatever, you don't necessarily need to give somebody a billion references about why this should work because a lot of the time, people kind of know it just from their experience that if you have a really true, general, universally applicable principle, like the better trained you are, the more you're probably going to need to do VHMAX training to kind of like break that plateau. I mean, that's...
+
+01:57:06.944 --> 01:57:33.264
+kind of what the meta is about, you know? And like when you've got a fundamental principle like that, everybody kind of goes, yeah, that's actually my lived experience. And if it's not, then maybe I should try to change what I'm doing. Yeah. Yeah. That's, that's, yeah, that's really well said. Like, um, the, the, the more I read and, and, and again, the, the, the less, the more, how do I say this? The,
+
+01:57:33.584 --> 01:58:02.448
+The more my message to athletes, coaches is based on the holistic picture of my experiences and my knowledge of the research and the research that I've done myself, the less likely I am to provide a single reference because there is no one single reference that says in black and white the kind of the zeitgeist, the vibe that I'm going for. It's a vibe that's based on data and based on the evidence.
+
+01:58:02.448 --> 01:58:20.816
+But it's like, yeah, I either provide you no references or I provide you a list of my, you know, my 3,000 PDF library. It's not, it's one or the other. And, you know, I'm still kind of working and hopefully, yeah, as I speak with athletes, trying to kind of boil it down to
+
+01:58:20.976 --> 01:58:42.816
+a short, concise message. We have not been successful today on a short, concise message. Nobody comes here for that. Exactly, exactly. Yes, we knew what we were getting into. But I think that's important, right? It's like, yeah, you know, for all, I think the data are important and I really value having the literature to support what I think is true.
+
+01:58:42.816 --> 01:59:11.008
+That's not necessarily the message that I need to lead when I'm speaking with an athlete, right? Some of the athletes are going to love it. Some of the athletes kind of don't care. And they just want to, you know, know that I'm confident in what I'm giving them. Yeah, because all science starts with a real-world observation. That's right. That's right. And that's where you generate research questions for research is through practice. And I think that's super important. I think it's a huge advantage. You know, clinician scientists.
+
+01:59:11.008 --> 01:59:36.624
+scientists who are coaches as well. That's who I really look up to and aspire to be is someone who is able to work at a very high level in both of those fields because the best research questions are developed by our experiences in practice in the field. Yeah. All right. So we are just about at two hours and I wanted to see if there's anything that came up that we didn't quite get to dig into that you wanted to touch on before we wrap this up.
+
+01:59:36.976 --> 01:59:53.872
+Oh, I mean, no, that was great. That was a really fun conversation. There's a lot of things. We're going to listen back and it's like, oh, I wish we could have gone down this rabbit hole rather than the rabbit hole we went down. But that was a great conversation. So, no, Kolie, I really appreciate it. Yeah, dude, this has been awesome. Thanks so much.
+
+01:59:53.872 --> 02:00:21.584
+Alright, so thank you everybody for listening to the interview and also especially thanks to Jem for coming out to the podcast. It was a ton of fun. I really loved having him. And if you want to go follow Jem or ask him a question, all of his contact info is going to be up on the website at empiricalcycling.com under the podcast and the show notes for this episode. So go check those out if you want to go talk to him and give him a follow somewhere. He's great. He posts a ton of... He's...
+
+02:00:21.584 --> 02:00:44.400
+Are people still on Twitter? I know he's on Blue Sky, so he's got a ton of posts up there. He's always posting really interesting charts. I love following him. I always learn something new whenever I see one of his posts. So go give him a follow. And for us, of course, if you want to shoot me an email for coachingempiricalcycling at gmail.com or a consultation if you like coaching yourself. And if you want to give us a rating.
+
+02:00:44.400 --> 02:00:52.720
+you know where to do that, you know how to do that, thanks so much for all of those, donations, empiricalcycling.com slash donate, and we'll catch you all next time.
+
