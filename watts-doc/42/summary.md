@@ -1,3 +1,4 @@
+[**View raw transcript**](./watts-doc-42-size-power.txt)
 
 ### Introduction: Beyond Watts Per Kilo
 

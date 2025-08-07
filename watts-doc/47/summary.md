@@ -1,3 +1,4 @@
+[**View raw transcript**](./watts-doc-47-redox-recovery.txt)
 
 # Redox Signaling, Adaptation, and Recovery: A Biochemical Guide
 

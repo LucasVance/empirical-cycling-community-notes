@@ -1,3 +1,4 @@
+[**View raw transcript**](./watts-doc-37-fiber-type-metabolism.txt)
 
 ### **Introduction: Beyond "Slow-Twitch" and "Fast-Twitch"**
 

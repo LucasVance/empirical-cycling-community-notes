@@ -1,3 +1,4 @@
+[**View raw transcript**](./watts-doc-45-ampk.txt)
 
 ### Introduction: Beyond "Just Ride More"
 

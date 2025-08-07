@@ -1,3 +1,4 @@
+[**View raw transcript**](watts-doc-39-tte.txt)
 
 ### 1. Deconstructing the "One-Hour" Myth of FTP
 

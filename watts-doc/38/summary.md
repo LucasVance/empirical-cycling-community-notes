@@ -1,3 +1,4 @@
+[**View raw transcript**](./watts-doc-38-creatine-aerobic.txt)
 
 ### The Phosphocreatine System: Beyond the Sprint
 
