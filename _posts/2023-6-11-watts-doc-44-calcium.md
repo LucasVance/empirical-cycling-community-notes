@@ -1,4 +1,10 @@
-[**View raw transcript**](./watts-doc-44-calcium.txt)
+---
+title:  "#44: Calcium Is An Underappreciated Aerobic Adaptive Signal"
+category: "Watts Doc"
+transcript_url: /watts-doc/44/calcium.txt
+---
+
+[View raw transcript]({{ page.transcript_url }})
 
 ### The Dual Role of Calcium in Muscle
 

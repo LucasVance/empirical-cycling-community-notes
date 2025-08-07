@@ -1,4 +1,10 @@
-[**View raw transcript**](./watts-doc-47-redox-recovery.txt)
+---
+title:  "#47: The Redox Role In Adaptation, Recovery, and Nutrition"
+category: "Watts Doc"
+transcript_url: /watts-doc/47/redox.txt
+---
+
+[View raw transcript]({{ page.transcript_url }})
 
 # Redox Signaling, Adaptation, and Recovery: A Biochemical Guide
 

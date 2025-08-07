@@ -1,4 +1,10 @@
-[**View raw transcript**](./watts-doc-42-size-power.txt)
+---
+title:  "#42: The Relationship Between Size And Power"
+category: "Watts Doc"
+transcript_url: /watts-doc/42/size-power.txt
+---
+
+[View raw transcript]({{ page.transcript_url }})
 
 ### Introduction: Beyond Watts Per Kilo
 

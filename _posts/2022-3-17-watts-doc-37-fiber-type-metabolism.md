@@ -1,4 +1,10 @@
-[**View raw transcript**](./watts-doc-37-fiber-type-metabolism.txt)
+---
+title:  "#37: The Redox Role In Adaptation, Recovery, and Nutrition"
+category: "Watts Doc"
+transcript_url: /watts-doc/37/fiber-type-metabolism.txt
+---
+
+[View raw transcript]({{ page.transcript_url }})
 
 ### **Introduction: Beyond "Slow-Twitch" and "Fast-Twitch"**
 

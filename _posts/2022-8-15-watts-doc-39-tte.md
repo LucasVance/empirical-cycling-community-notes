@@ -1,4 +1,10 @@
-[**View raw transcript**](watts-doc-39-tte.txt)
+---
+title:  "#39: Why You Probably Can't Hold Your FTP For An Hour"
+category: "Watts Doc"
+transcript_url: /watts-doc/39/tte.txt
+---
+
+[View raw transcript]({{ page.transcript_url }})
 
 ### 1. Deconstructing the "One-Hour" Myth of FTP
 
