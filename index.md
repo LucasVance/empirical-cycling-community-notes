@@ -12,7 +12,7 @@
 ### Watts Doc Series
 
 <p>
-    {% for post in site.categories["Watts Doc"] %}
+    {% for post in site.categories["watts-doc"] %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
 </p>
@@ -22,7 +22,7 @@
 ### Ten Minute Tips
 
 <p>
-    {% for post in site.categories["Ten Minute Tips"] %}
+    {% for post in site.categories["ten-minute-tips"] %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
 </p>
@@ -32,7 +32,7 @@
 ### Perspectives
 
 <p>
-    {% for post in site.categories["Perspectives"] %}
+    {% for post in site.categories["perspectives"] %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
 </p>
