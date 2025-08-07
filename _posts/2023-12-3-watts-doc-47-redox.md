@@ -1,6 +1,6 @@
 ---
 title: "47: The Redox Role In Adaptation, Recovery, and Nutrition"
-category: "Watts Doc"
+category: "watts-doc"
 transcript_url: watts-doc/47/redox.txt
 ---
 

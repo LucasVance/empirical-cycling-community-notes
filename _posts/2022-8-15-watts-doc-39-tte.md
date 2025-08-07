@@ -1,6 +1,6 @@
 ---
 title: "39: Why You Probably Can't Hold Your FTP For An Hour"
-category: "Watts Doc"
+category: "watts-doc"
 transcript_url: watts-doc/39/tte.txt
 ---
 

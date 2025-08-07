@@ -1,6 +1,6 @@
 ---
 title: "42: The Relationship Between Size And Power"
-category: "Watts Doc"
+category: "watts-doc"
 transcript_url: watts-doc/42/size-power.txt
 ---
 

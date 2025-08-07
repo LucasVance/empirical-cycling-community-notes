@@ -1,6 +1,6 @@
 ---
 title: "45: How High Intensity Aerobic Adaptations With AMPK Do (And Don't) Work"
-category: "Watts Doc"
+category: "watts-doc"
 transcript_url: watts-doc/45/ampk.txt
 ---
 

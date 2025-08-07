@@ -1,6 +1,6 @@
 ---
 title: "44: Calcium Is An Underappreciated Aerobic Adaptive Signal"
-category: "Watts Doc"
+category: "watts-doc"
 transcript_url: watts-doc/44/calcium.txt
 ---
 

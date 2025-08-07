@@ -2,7 +2,8 @@
 
 <p>
     {% for post in site.posts limit:5 %}
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.category }} {{ post.title }}</a><br>
+        {% assign pretty_category = site.data.categories[post.category] %}
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ pretty_category }} {{ post.title }}<a><br>
     {% endfor %}
 </p>
 
