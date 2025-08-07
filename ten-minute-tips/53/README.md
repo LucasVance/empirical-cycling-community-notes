@@ -1,0 +1,1 @@
+This episode was not made available to download on Soundcloud so I couldn't create a transcription or a summary
