@@ -1,7 +1,7 @@
 ---
 title:  "#39: Why You Probably Can't Hold Your FTP For An Hour"
 category: "Watts Doc"
-transcript_url: /watts-doc/39/tte.txt
+transcript_url: watts-doc/39/tte.txt
 ---
 
 [View raw transcript]({{ page.transcript_url }})
