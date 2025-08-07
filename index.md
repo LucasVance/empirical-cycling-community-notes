@@ -1,2 +1,3 @@
-# Empirical Cycling Podcast Transcripts
-## [Watts Doc Series](./watts-doc/)
+## [Watts Doc Series](./watts-doc)
+## [Ten Minute Tips](./ten-minute-tips)
+## [Perspectives](/perspectives)
