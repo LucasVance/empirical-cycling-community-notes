@@ -1,0 +1,888 @@
+1
+00:00:00,400 --> 00:00:28,592
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Thank you, everybody, for listening. And if you are new here, please consider subscribing if you like the podcast. And if you are returning, we really appreciate having you back. And if you want to support the podcast because you're enjoying it, you can always share the podcast with a friend, with somebody you ride with, on a forum, anything like that goes a long way. Thank you so much for all of those. And if you would like to support the podcast because we are ad-free, well, we are...
+
+2
+00:00:28,592 --> 00:00:41,776
+If you really want to support the podcast, empiricalcycling.com slash donate, but we are asking until the end of the year, people actually donate to Hurricane Helene Relief instead. So if you would like to...
+
+3
+00:00:41,776 --> 00:01:11,056
+One more way to support the podcast that is not related to donations, it is becoming an Empirical Cycling client. You can always hire us for a consultation or for coaching if you are looking for either some input on your plan for next year or looking over what happened last year and want to improve on it. Consultations are the way to go, especially if you like coaching yourself. We're going to keep you coaching yourself with just a little professional input. And if you would like to have somebody take the reins and coordinate with you on your training.
+
+4
+00:01:11,056 --> 00:01:28,112
+help you plan the best around your life that you can to get the best results you can and get fast, faster, or as fast as we can get you anyway. Well, reach out to me at empiricalcycling at gmail.com if any of that sounds good to you. So today, we have an interview. And if you would like to ask...
+
+5
+00:01:28,112 --> 00:01:56,640
+questions for our guests. You can always do so by following me at empiricalcycling on Instagram, and I will post a link, I'll post stories, a question box up in the stories for our interviews. And we didn't really have anything in the question boxes for this one that we didn't cover in the interview, so we just kind of skipped over those. So sorry about that, but we already got to all of the questions that we saw asked. So if you would like to check out the weekend AMAs, I also do one of those every weekend.
+
+6
+00:01:56,640 --> 00:02:15,584
+So check out my Instagram stories for that. All right. So today we have an interview and it's a really fun interview because I like to think I pick really interesting guests. Well, at least they're interesting to me. So I'm so sorry if you disagree. I had a great time with this conversation as I usually do. And so today...
+
+7
+00:02:15,584 --> 00:02:43,536
+We have somebody who's done research into LEA and REDAS, low energy availability and relative energy deficiency in sport. And we go deep on this one because we have a lot of questions or I had a lot of questions that I wanted to ask. I sort of knew the answers, but I sort of also didn't. And I feel like a lot of people are in the same boat when it comes to this kind of stuff. So there's a...
+
+8
+00:02:43,536 --> 00:02:58,112
+There's just a lot of stuff about LEA and RED-S that has yet to be elucidated really, but there's a lot that we can recognize and do about it already. And so...
+
+9
+00:02:58,112 --> 00:03:27,728
+In our interview, we start with the Female Athlete Triad, we define ALEA and RED-S, and we also are going to be linking to a ton of really interesting papers, and I encourage everybody to read those papers. Just go to empiricalcycling.com under the podcast notes, and you will find these papers, and as far as I know, they are all open text. At least the IOC one that we refer to many times, that one is definitely open text.
+
+10
+00:03:27,760 --> 00:03:54,832
+Go check those out. But also, you know, we talk about men versus women. We talk about symptoms. We talk about kind of the like the impact and the diagnosis and the things that can happen if you are in LEA for a very long time or if you are suffering from red ass or something like that. We are also, I should warn you, we are not professionals at
+
+11
+00:03:54,832 --> 00:04:23,536
+helping people with this. So our guest, Dr. Carson, she's a researcher, and she's done research on this kinds of stuff. And she's had experience with this herself, and as probably a lot of us have to some degree or other. But, you know, we are not going to be talking about, you know, the more serious sides of this in terms of like disordered eating and eating disorders, and all that kind of stuff. And so if you do know somebody who's
+
+12
+00:04:23,536 --> 00:04:52,832
+got a problem with that kind of stuff. And you're wondering how to broach it. Well, we do not have the answer in this episode. I do hope well for them. Or if that's you, I do hope well for you. But we are not professionals in that regard. So we are talking about more of the physiology and the social impacts of LEA and RED-S. And without further ado, I guess we should just get right into the interview with Dr. Tracy Carson. Dr. Tracy Carson.
+
+13
+00:04:52,832 --> 00:05:22,448
+Thank you so much for coming back onto the podcast. You were here when we were discussing Kristen Faulkner and the continuous glucose monitors. But I really wanted to talk more about RED-S and low energy availability. But I wanted to start with you. A little bit of your history. How did you get to be a doctor? How did you get to be a master of the domain of public health? Yeah, I'll give you the short version.
+
+14
+00:05:22,448 --> 00:05:41,728
+So thank you for having me. My name is Tracy Carson. I did all of my training at the University of Michigan, ultimately got my PhD in public health epidemiology. And within that, I focused on female athlete research within the domain of epidemiology, which was a very strange kind of...
+
+15
+00:05:41,728 --> 00:06:05,088
+like web that I weave to make that happen but all that to say you can make your PhD whatever you want it to be whatever department you end up in. I also have my MPH in behavioral health from Michigan and I also have my bachelor's from Michigan in kinesiology with a focus on sports management. I thought I was going to work in sports and be an athletic director or something like that and then my own
+
+16
+00:06:05,088 --> 00:06:30,928
+I don't know, I don't like to overuse the word journey, but my own journey with health as an athlete, as a D1 college athlete led me to women's health and women's sports research, did my master's, ended up doing a PhD because I love the research process. But if I'm being honest with you, my personal experiences are what led me to do this work. It wasn't just kind of...
+
+17
+00:06:30,928 --> 00:06:56,544
+something I fell into. It was me trying to figure out my own health, my own kind of issues I ran into with disordered eating and low energy availability. And back then, 2013, 14, 15, there wasn't really a lot of information available for female athletes. And that really fueled me, I guess, pun intended there, to pursue this work and stay in school.
+
+18
+00:06:56,544 --> 00:07:18,208
+Yeah, wasn't 2014 the first IOC consensus on Red SNLEA? Yes, and then there was updates in 2018, 2021. And 2023. Oh, 2021 also. Yeah. Because I've read the 23 one, like, front to back, and the 2014 one also, but I don't know why I skipped the ones in the middle. You know, it's like...
+
+19
+00:07:18,208 --> 00:07:47,888
+I don't know. I was going to say it's like Star Wars, but no, all the good Star Wars were the first ones. Tell me about your journey with this stuff. Because what sport did you play? What was your experience? What was your experience like with your teammates and your coaches? Oh my gosh, yeah. It goes back pretty far for me. So I was always an athlete. I started playing soccer. I played from the age of three to the age of 17. I also ran cross country and track in high school.
+
+20
+00:07:47,888 --> 00:08:14,688
+And I was the kicker for our football team one year in high school. So all that to say, I was always an athlete, like since the day that I could walk. But with that came kind of, you know, for whatever reason, I had, you know, very perfectionist tendencies, very type A, high anxiety, I became really interested to an unhealthy degree with nutrition.
+
+21
+00:08:14,688 --> 00:08:43,344
+Training from the age of probably about 12 or 13. I started to really look into nutrition and dieting and all these things. And at that age, you don't understand physiology, how your body works, the needs of a young athlete, especially as a young woman around puberty. So my disordered eating started way back then. And then in college, I walked onto the rowing team at Michigan. We were a D1 team. And that's really when...
+
+22
+00:08:43,344 --> 00:09:03,040
+My Disordered Eating Behaviors, and then the health consequences started to show up for me. So I lost my menstrual cycle. And that was the catalyst for me to start digging into this type of information around female athlete triad is what was talked about back then in like 2011, 2012.
+
+23
+00:09:03,040 --> 00:09:29,712
+But then really just talking to doctors and not really getting any information. And I was told so many times, well, you're very athletic and you work out, so it's natural not to have your menstrual cycle. It's okay that you're not getting your period. But this went on for years and years and years. And I was told, just go on birth control. It'll regulate your cycles and don't worry about it. You're just really athletic.
+
+24
+00:09:29,840 --> 00:09:49,920
+And for a while I thought that was fine and that was true. But then, you know, I guess I was always a researcher to some degree. I started to just try to find out any information I could and what I did find did not align with what I was being told by my doctors and athletic trainers and all of that.
+
+25
+00:09:49,920 --> 00:10:11,600
+and I think we'll get into this more later but a huge part of it for me was I was never like clinically underweight so I was never flagged as being at risk and that's I think a really common experience of all athletes who have muscle mass and they don't have a clinically low BMI that they just kind of are never.
+
+26
+00:10:11,600 --> 00:10:29,824
+Seen as having, you know, being at need, I guess, of a nutritional intervention or someone to talk to about, you know, oh, maybe you should try to figure out how to get your menstrual cycle back. And so that was, I guess, a long answer, but that is a little snapshot of how I got into this work.
+
+27
+00:10:29,824 --> 00:10:49,856
+Yeah. So how did that inform your academic study? Because you mentioned that you kind of wove together your PhD a little bit. Why was that a little difficult to do? Is it that time there wasn't as much resource dedicated to women's health? Yeah, absolutely.
+
+28
+00:10:49,856 --> 00:11:17,584
+So within public health, there wasn't a huge focus on women's health in public health, but then there also wasn't a huge focus on women's health within sport science yet. And that has come such a long way. I mean, it's been almost 10 years since I started this work. And there is, you know, it's kind of almost cringy when I look back at some of my first papers I wrote or my intro sections, because that research has come so far even in the past.
+
+29
+00:11:17,584 --> 00:11:39,328
+8 to 10 years. And when I look back, I'm like, wow, my research was pretty rudimentary because it was just, it was all new. And, you know, the scales and measures I was using in my studies were, you know, just, they should have been a lot better than they were. But it's great to look back and see how far the field has come.
+
+30
+00:11:39,328 --> 00:12:09,104
+What was your full question? Sorry, I lost the train of thought. No, it's okay. How did your personal experience influence your academic experience? So what were some of the research things that you did? Because obviously I've looked up your published papers and I've read the ones that I could find. And so talk about the populations that you studied, talk about the methodologies and kind of where the field was at that time.
+
+31
+00:12:09,424 --> 00:12:36,432
+Yeah, so I chose to go into public health because I really liked the idea of public health was more geared towards prevention and intervention rather than simply like a medical treatment and intervention. And so I like the idea of thinking about how do we prevent this from happening to other women. I studied only women within LEA and REDS, but of course now we have more research and REDS opens up to including male athletes as well.
+
+32
+00:12:36,432 --> 00:13:04,640
+I chose epidemiology really because I wanted to gain those skill sets because I saw epidemiologists were able to design their own studies, do their own analyses, do the coding, pretty much design and carry out a study from ground zero all the way through publication and that really attracted me to that specific field. But within that, I wasn't the typical epidemiologist in that I did.
+
+33
+00:13:04,640 --> 00:13:18,560
+a qualitative part of my dissertation, which isn't typical within the EPI space. And then I used that qualitative study, which was interviews with Division I cross-country runners that were all women.
+
+34
+00:13:18,560 --> 00:13:40,816
+I use that qualitative piece to really build into my qualitative projects. And I did that because there wasn't a lot of research in this field. I wanted to actually talk to the women who were experiencing this, talk to the women on the ground, if you will, within athletic departments. They were, you know, Division I high achieving athletes.
+
+35
+00:13:40,816 --> 00:14:02,000
+and I wanted to know what was really going on for them like what were they experiencing not just what we saw in these you know articles or blogs that popped up or the couple of studies that existed but I really wanted to hear from them like what did they need like what are they being challenged by and then use that to build my larger cohort study that I did with
+
+36
+00:14:02,000 --> 00:14:22,640
+but again Division I cross-country runners all being women to really assess what did the state of reds look like in that specific population and you know I think right dissertation research is always limited by time and money of course so my cohort included
+
+37
+00:14:22,640 --> 00:14:38,640
+a little over 200 athletes. I would have liked it to be closer to 500, but I also wanted to graduate eventually. And so I had to cut it off at about 211. I'll never forget that number. 211 is what I ended up with.
+
+38
+00:14:38,736 --> 00:15:05,120
+And that, you know, I really built that cohort from the ground up and it was everything from emailing women, getting them to be involved, trying to find them on Instagram and get their, you know, captains involved and send it out to their teams. And that study really looked at the broader framework of REDS and really trying to understand what were women experiencing in that sport. And, you know, using our...
+
+39
+00:15:05,120 --> 00:15:23,696
+had to use some fancy-ish epi methods in order to, you know, you know, satisfy my dissertation committee. But yeah, that was a really fun study. Oh, I've heard all about the fancy epidemiology methods. I mean, and I know that an epi 211 people is the world's tiniest cohort and it's like...
+
+40
+00:15:23,696 --> 00:15:48,144
+and it's like you can barely actually say anything definitively about 211 people but for people used to looking at applied exercise physiology studies where we might see 15 to 25 people like 30 people is a large study like 211 people is phenomenal but like it's nice that you didn't have to actually
+
+41
+00:15:48,144 --> 00:16:08,896
+Take them away from their normal training, have them do something that may or may not help or may even be detrimental. So in a lot of ways, there's only upsides for that kind of stuff. And so I guess if anybody's listening who's ever got the opportunity to be part of that, you absolutely should. Yeah, please do. And right, student athletes are a really...
+
+42
+00:16:08,896 --> 00:16:36,016
+protected population. So they are harder to engage with for good reason, right? We can't have everybody walking and wanting to study the D1 athletes. That would be like very burdensome to them. But if you have the opportunity to engage in a survey or something that isn't like too extensive, it really helps people like us help people like you, or at least try to. Yeah. Well, because people like me read the research and we go, how can we help people?
+
+43
+00:16:36,016 --> 00:17:03,824
+How can we recognize what's going on? How can we best serve the people that we are working with? So with that, why don't we start to talk about what is actually going on with REDS and LEA? Because personally, I'm actually very, very happy to know that I remember from the 2023 IOC consensus on this, I think
+
+44
+00:17:03,824 --> 00:17:23,584
+in the study population was more than 80% women. So like this is one of the few areas of research that applies to both women and men where women are actually disproportionately represented, which I think is probably a good thing. Yeah, it's really interesting. I was refreshing my memory on it yesterday.
+
+45
+00:17:23,584 --> 00:17:45,280
+You know, it denotes in the consensus statement that even the kilocalorie recommendations are specifically for women and we don't know what those cutoffs are for men. Although, you know, it's all individual level at the end of the day anyway, but these general recommendations that we may talk about or I may say in a few moments were specifically for
+
+46
+00:17:45,280 --> 00:18:12,560
+yeah, the female athletes in the, in these studies and not for men, but yeah, there's enough on men. Well, why don't we start, why don't we even take a step back because, um, let's, let's talk about the female athlete triad. Um, because, uh, as far as, as far as I know, it started in, it, it begun in like the seven days or something like that where, oh God, who was it? Was it Ann Luke's, um, was studying.
+
+47
+00:18:12,560 --> 00:18:41,904
+populations of women who had amenorrhea, so they lost a period, or oligomenorrhea, where they had a disrupted menstrual cycle. And I think it started with, they were looking at either, was it the actual stress of exercise? Because this was back when everybody was like, can women handle exercise? Yeah. That era. Or they were like, was it insufficient energy intake? And they very quickly came upon the latter. Did I recall that correctly?
+
+48
+00:18:42,192 --> 00:19:12,096
+Yeah, so really the, it's kind of funny, right, like thinking back on how this all, like this question came about, and you can trace it back really far to not just should women be involved in exercise, but should they be in school? Should they be allowed to work because of the stress and energy demands on the body? Does it disrupt the female reproductive system? Because of course, that's the primary function of women to a lot of people at that time is like just reproduction, right? Reproduction.
+
+49
+00:19:12,096 --> 00:19:39,136
+Yeah, which to be honest with you is like the central, you know, kind of thing that this question always comes back to is how does it affect reproduction? But then right within the 1970s, especially with Title IX and more women becoming involved in sports, it opened up so many opportunities for women to be included in sports. However, then we kind of started to see maybe some of these physical and mental health effects of being involved in sports.
+
+50
+00:19:39,136 --> 00:20:02,784
+And then in 1993, officially, the first female athlete triad consensus statement was published, which I like to say is not just a coincidence that that's the year I was born, but it was. And so in the early 90s is when female athlete triad became like a much more commonly talked about phenomenon, if you will.
+
+51
+00:20:02,784 --> 00:20:32,272
+Clinicians, um, athletic trainers, et cetera, started to be aware of this triad, um, of related syndromes, um, in female athletes, which of course is, um, low energy intake, meaning caloric energy, um, disrupted menstrual cycles, and then bone health issues and bone health stress fractures and things like that. Yeah, I have it, uh, I remembered it as, um, as amenorrhea, low bone mineral density and disordered eating was the triad that I learned.
+
+52
+00:20:32,592 --> 00:21:00,304
+Yeah, and that's, we can get into the nuance there too of disordered eating versus just unintentional low energy intake. Yeah. It's a spectrum, right? Yeah, yeah, like disordered eating versus eating disorder versus low energy intake versus like, oh yeah, there's, I mean, the list is very long. So, yeah. So, what happened when we moved away from the female athlete triad?
+
+53
+00:21:01,392 --> 00:21:25,120
+Yeah, so then this is where conversations were had noticing that with this disordered eating or low energy intake state that it wasn't just amenorrhea or menstrual cycle disorders and bone health issues coming up, but we were seeing this, you know, kind of a larger framework of health outcomes that were hypothesized to be related to.
+
+54
+00:21:25,120 --> 00:21:40,576
+Low Energy Intake. And so that's where the REDS framework came about, which is the Relative Energy Deficiency and Sport Framework. And that includes 10 chronic outcomes, but then also 10 more acute.
+
+55
+00:21:40,576 --> 00:22:09,648
+Performance-Related Outcomes as well. And that was much different from the original triad where we were now looking at what are these short-term consequences that you're going to see in your performance and in your day-to-day life versus what's going to happen if you chronically are underfueled over time, which is really helpful because I think it allowed clinicians and athletes and others who support them to start to identify.
+
+56
+00:22:09,648 --> 00:22:32,656
+Low Energy Intake as being a root cause of lots of physical and psychological outcomes. Yeah. Okay. So let's dig into low energy intake for a bit. So how do we define low energy intake? And this is like kind of a rabbit hole in itself. So where do you want to start?
+
+57
+00:22:32,912 --> 00:22:55,456
+Yeah, so we can define energy. So if we talk about low energy availability, we can define energy availability as energy intake. So calories, caloric energy intake minus exercise energy expenditure. So the amount of calories you're burning on your ride or whatever sport you're participating in divided by your fat-free mass, right?
+
+58
+00:22:55,456 --> 00:23:19,328
+That's something that not everyone knows they're fat-free mass. There are some calculators online you can use to very roughly estimate that, or you can get a VODPOD DEXA to do that. So that's energy availability. And if that number is less than 30 kilocalories per kilogram of fat-free mass per day, that's putting you at significant risk of especially things like amenorrhea.
+
+59
+00:23:19,328 --> 00:23:46,448
+and some of those more severe outcomes of low energy availability. But anywhere from 30 to 45, anything less than that, so anything less than 45, let's just say it like that, is putting you at risk of REDS, any of those REDS outcomes. Is that just for women? All this work has been done on women, yes.
+
+60
+00:23:46,448 --> 00:24:16,144
+It's, I think, pretty well known that women are more, our physiology is more sensitive to being in a low energy state, so low caloric energy intake, than men are. And that's because of our endocrine system, that's because of our reproductive system. Men are slightly less sensitive to taking in fewer calories relative to their needs, I'll just say it like that. There are still consequences, they just look a little bit different. Yeah, it's like,
+
+61
+00:24:16,144 --> 00:24:37,424
+It's like we don't have a menstrual cycle to lose. And actually, in the, I think it was in the IOC consensus, but it might have been in another paper I was reading, where it seemed like the best criteria that's available at the moment is nighttime and morning erections.
+
+62
+00:24:37,520 --> 00:24:49,952
+Yes, correct. Yep. So like, so guys, I mean, I, every, every time somebody asked me like, oh, how do I talk to a guy about this? I'm like, tell them that it's going to impact your dick and they're going to go, oh shit.
+
+63
+00:24:49,952 --> 00:25:12,768
+Yeah, I mean, I'm glad you said it so I didn't have to, but that's exactly it. Low libido, low testosterone if you get your blood markers taken. But yeah, the easiest one, right? Women can obviously tell if they're having their period or not, and men can tell if they're having regular morning erections or not. Those are kind of the easiest ways to detect this, although there are a lot of other more subtle signs.
+
+64
+00:25:12,768 --> 00:25:41,936
+Yeah, but actually going back to that equation, this is one of the things where it's actually not as easy to calculate as this equation has it, unfortunately, because everybody's got a slightly different resting metabolic rate, everybody's got a slightly different level of non-exercise activity, and everybody's activity levels are drastically different. So like if you're a male with
+
+65
+00:25:41,936 --> 00:26:08,048
+a 400-watt threshold and you're doing your endurance rides at 200 to 250 watts, you're going to be burning twice as many kilojoules as a woman half your size who's riding at like 100 to 125 watts. Yes. And so, right, I think this brings up, and we don't have to go too far down this rabbit hole of like using things that trap calories, any wearable tech is not.
+
+66
+00:26:08,048 --> 00:26:37,456
+What you should be using as your absolute measure of how many calories you should be eating, right? It can be like a rough estimate. I think sometimes it's an interesting tool to just see, like educate on how many calories you're possibly burning when you're training. Although I would never say look at what your aura ring or your whoop or whatever it is tells you as your calories burned and eat that, right? I mean, that's just like a very rough estimate. I think something that has been
+
+67
+00:26:37,456 --> 00:27:02,336
+Newer in the research I've seen around this that was not talked about when I was doing Red's research is low carb availability and really focusing on carbohydrate intake, not just your overall calories, right? There's a huge obsession on social media with protein right now. Protein is the number one diet fad trend. Not that protein intake is a trend, but it's like...
+
+68
+00:27:02,336 --> 00:27:31,728
+a little excessive, right? Like people's obsession with like cottage cheese right now and like protein powders and all these things. When really, and we can go into this later too, when really carbohydrates for endurance athletes, you can be eating, say you need 3000 calories a day. If you're not eating adequate carbohydrate intake, your body can still respond negatively despite your overall caloric intake being, say it's sufficient for your energy needs, but you're eating.
+
+69
+00:27:31,728 --> 00:28:00,224
+High Fat, High Protein, Low Carb. You're still going to have negative consequences of that. And so that's another point that, right, it's just, it's not only about overall calorie intake, but it's about your macronutrient distribution, especially focusing on carbohydrates. Yeah, I remember back in the day in like 2011 to 2015, 16, when I started experimenting with low carbohydrate stuff because
+
+70
+00:28:00,224 --> 00:28:29,264
+I didn't know any better at the time, of course. I hadn't gotten to school yet. I was just cycling, trying to get faster. And it was like, oh, do low carb. And I felt those consequences in a day of doing low carb, of going out for a ride on just an omelet with cheese. And then coming back and being like, I guess I'm going to have a whole chicken. And that's your whole meal. And it sucks. It's horrible. Yeah. Yeah. My back in the day when I was
+
+71
+00:28:29,264 --> 00:28:57,216
+had disordered eating. I was paleo and I was a division one rower. It affects everything. It affects your brain function, especially your mood, all of that. It's crazy how much carbohydrates can just make your life so much better if you eat them. Yeah. Well, and there's another thing that's going on with this equation too that's difficult for people is because
+
+72
+00:28:57,216 --> 00:29:24,736
+Yeah, the equation is energy intake minus energy expenditure. Expenditure, like you said, is very difficult to measure. Yeah. And there was a paper recently on a woman racing the Tour de France, I think last year, and she burned something like 2,000 kcal per day more than predicted by just about anything. And she lost like two kilos during the race or something like that.
+
+73
+00:29:24,736 --> 00:29:47,376
+Yeah, and this also gets into what people know as the exercise paradox. And eventually I'm going to see if Eric Trexler or Herman Ponser himself wants to come on the podcast and talk about it. But it's one of those things where there's a lot of fudge factors. And eventually I think we're going to try to do a podcast on that specifically as well as how to account for it while you are...
+
+74
+00:29:47,376 --> 00:30:15,280
+Trying to Lose Weight and what is known as adaptive LEA. So why don't we get more into LEA? So there's kind of a spectrum of LEA. So what's on the spectrum? Because I am currently on a diet. I am in LEA. What is my risk of red S? How bad can it get if I'm losing like a pound a week? Well, first, let's start. How do you feel?
+
+75
+00:30:15,280 --> 00:30:44,576
+I feel great. And your energy deficit. I'm doing great. For real? Yeah, for real. No mood changes, energy, anything like that? Okay, I guess I'm a little grumpy. Okay, there you go. Exactly. So that's my point. I think there's always, there are always, and I'm talking about athletes, I'm not talking about like our general population, right? Because that's a whole different conversation when we're talking about dieting. But for athletes, there's
+
+76
+00:30:44,576 --> 00:31:13,920
+Always going to be some consequence of being in an energy deficit, right? And it might be subtle. It might be you're a little moody. You're a little grumpy. Your sleep's a little off. You have a little bit of brain fog. It's hard to get out of bed in the morning, right? That's like the lower end of the spectrum of I'm in a calorie deficit, but it's not ruining my life. It's not negatively affecting my entire day. You might just feel like not optimal energy levels throughout the day.
+
+77
+00:31:13,920 --> 00:31:38,576
+There's that, and then everything on the spectrum from that all the way to a clinical eating disorder, which is something that is diagnosable by your clinician, psychiatrist, etc. And then everything in the middle is where you're going to start to experience some of these consequences that are well represented on that REDS framework.
+
+78
+00:31:38,576 --> 00:32:04,864
+Starting from moodiness, brain fog, you may start to have irregular menstrual cycles. That's usually the first sign. You may not lose your cycle entirely, but your cycle may be late or it may start early. And everything in between. We can go into the entire framework, but you're going to have performance consequences that you're going to start to see pretty acutely.
+
+79
+00:32:04,864 --> 00:32:22,864
+The research shows really like changes in coordination, which you may not really experience on a bike like you would if you're playing soccer or things like that. Oh, I know some people who've experienced the coordination problems on a bike for sure. I'll tell you about it later. Yeah. Okay.
+
+80
+00:32:22,864 --> 00:32:52,256
+But things like that, recovery time, especially, right, if you're thinking about performance, if you're going out to ride four hours and you're only taking in 30 grams of carbs an hour, the next day you're probably not going to feel very good, right? And that will probably affect your training that following day. So, I mean, the spectrum is very broad. I don't know if we need to go all the way into, like, eating disorder territory, but disordered eating territory is what that fuzzy gray middle ground is.
+
+81
+00:32:52,256 --> 00:33:14,864
+And that is, you know, opening up a huge can of worms. So if you want to go there, we can. If you want to take it in another direction, we can do that. Uh, I, I think we should, uh, I, I'd actually like to stick to the spectrum of like LEA to red S. Like, like where does, cause, um, cause we've got adaptable LEA.
+
+82
+00:33:14,864 --> 00:33:43,680
+and to always go back to the IOC consensus because it's probably the most comprehensive document with like the list of heavy hitters and their author list is pretty significant. So like adaptable LEA and problematic LEA and then they've got moderating factors here but also eating disorders and disordered eating behaviors and then all the way down at the bottom is Red S. So where are we on the spectrum of like
+
+83
+00:33:43,680 --> 00:34:06,688
+Adaptable, I always call it functional for some reason, Adaptable LEA to RED-S, like what's that spectrum look like? Yeah, well, I mean, usually how I think about it is, right, there's the whole framework of RED-S, which includes, you know, if we're looking at our chronic outcomes, the 10 outcomes ranging from, you know, like immune health, cardiovascular.
+
+84
+00:34:06,688 --> 00:34:32,431
+Mental Cycle, all the things. And LEA is really like, it's the central cause, right? It's literally depicted in the middle of the framework as the root cause. And so, I mean, if we want to talk a little bit about one of my dissertation papers that was looking at, right, if you have LEA, the reason I did the paper I did was because I saw this framework and I was like, right, this is great, but...
+
+85
+00:34:32,431 --> 00:35:02,368
+No athlete's going to walk into their doctor's office with all 10 outcomes, right? So how do we start to see these overlapping patterns? Like what are these profiles that can emerge within this framework? Because you're not going to walk in and have all 10. And so what combinations of these 10 could start to kind of point, you know, athletic trainers, doctors, whatever it is, towards LEA being the root cause? And so that's really why I did that paper.
+
+86
+00:35:02,368 --> 00:35:22,992
+It was really interesting because we started to see that like mental health concerns like anxiety, especially in OCD like tendencies were a common experience, right? Related to the root cause of under eating. These are people who did not have a previously diagnosed like anxiety disorder, OCD disorder, etc.
+
+87
+00:35:22,992 --> 00:35:50,880
+But seeing how did that overlap with things like, okay, they have a really low heart rate, they have some of these cardiovascular concerns that they're reporting, they're getting sick all the time, they're reporting this certain profile of outcomes or symptoms, if you will. And that helps to kind of elucidate what is the root cause of that. These are not just random outcomes that are showing up together, but there's actually a central...
+
+88
+00:35:50,880 --> 00:36:19,424
+I hate to use the word cause because you know I'm not allowed to say that in epidemiology but a central root issue that could be explaining it potentially, right? We always have to say maybe, sort of, potentially. But that's really I think the most interesting part of REDS is that it's a fairly broad spectrum of outcomes but the root issue can be quite simple to fix.
+
+89
+00:36:19,424 --> 00:36:48,144
+in some cases. Or it can be incredibly complicated in other cases. And that's usually the case of like a clinical eating disorder or disordered eating, right? Because that takes a lot more focused intervention than an athlete who is under eating because they just don't have the education around nutrition. That can be a much more straightforward issue to address. Whereas if it's more intentional,
+
+90
+00:36:48,144 --> 00:37:04,368
+That becomes a much, you know, typically a much longer process. Yeah. And actually, one of the fascinating things that I learned is that diagnosing red S is actually very difficult.
+
+91
+00:37:04,368 --> 00:37:25,008
+because like there's a paper I think it was I think Trent Stellingworth was the main author but I remember that Margot Madjoy and Louise Burke were on it too on kind of like the differential diagnosis between overtraining syndrome and red S and how between those two and even like some
+
+92
+00:37:25,008 --> 00:37:52,768
+I think they discussed also some types of hypogonadism in male endurance athletes, how like there's a huge overlap in clinical presentation. And so getting to like a proper diagnosis for OTS or RED-S is like, it's like almost like diagnosis by exclusion. Like you've got to make sure that everything else is not happening first, but like.
+
+93
+00:37:52,768 --> 00:38:15,200
+It's such an interweaved web of symptoms and root causes potentially. So I forget where I was going with that, but please give me a comment. Yeah, I think that's such an interesting question. And, you know, I'm certainly biased because this is my area. REDS is my area of interest and, you know, training.
+
+94
+00:38:15,200 --> 00:38:33,488
+I can't think of overtraining without REDS being some component of it. Like the root cause of REDS with LEA being some component of overtraining, right? It's kind of like overtraining syndrome, REDS as a Venn diagram is almost just a circle. It's almost just a circle because
+
+95
+00:38:33,488 --> 00:39:02,432
+Right? If I, I don't, I'm not an expert on overtraining syndrome, but that's, you know, significantly related to recovery or lack thereof, right? And so if you're not recovering, a huge aspect of recovery is nutrition. And if you're not getting the nutrition into recover, you're going to end up in this, you know, kind of circle loop of, you know, being under, under recovered training, continuing to be under recovered. I had a coach once, I don't necessarily agree with this, saying there's no,
+
+96
+00:39:02,432 --> 00:39:32,400
+There's no such thing as overtraining. There's only under-recovery. And that always stuck with me for some reason. But I think there is actually something interesting to that. I don't think that applies to everybody, certainly. However, if we think about fueling as a central aspect of recovery, then I certainly don't know how that could not be part of overtraining syndrome. I know there's various case studies we could look at that might point to that not being true.
+
+97
+00:39:32,816 --> 00:40:00,816
+I remember on a podcast once, I actually addressed this question directly, which was somebody asked, is there really no such thing as, what was it? There's no such thing as under-fueling, there's just under-recovery, right? No such thing as overtraining, there's just under-recovery. Overtraining, just under-recovery. Yeah, no, that's definitely not true, because you can train with such an intensity and such a frequency that
+
+98
+00:40:00,816 --> 00:40:30,720
+Nothing you can eat, no amount you can sleep, no amount of anything is going to actually get you to recover between. And so I guess because one of the things about that statement is that it doesn't necessarily imply that there is a certain expected timeline for recovery to begin with that we must adhere to or obey for each person. Like if somebody does a high-intensity workout on Tuesday, some people are fine for Thursday, some people are fine for Saturday.
+
+99
+00:40:30,720 --> 00:40:58,976
+So yeah, so that one's always stuck in my craw too. I agree. Yeah. And again, I'm definitely not the expert on this, but I believe overtraining syndrome is also a little bit more related to like central or like your nervous system dysfunction, where REDS is a little bit more related to some like endocrine dysfunction. And I think that is like an interesting differentiator too, but I would have to look into that a bit more. Well, I mean, well, what are the...
+
+100
+00:40:58,976 --> 00:41:25,168
+One of the things that makes them both diagnosed just by exclusion is that there's no single validated biomarker or even multiple validated biomarkers for either for a proper diagnosis. So, yeah, but I mean, I know a lot of people used to think kind of like the, actually, it's funny because in overtraining, it used to be thought that adrenal fatigue was part of it, but like your adrenal glands are producing plenty.
+
+101
+00:41:25,168 --> 00:41:53,920
+of everything they're supposed to when you are overtrained. That one's been pretty disproven. So that was funny because the female athlete triad was like a small circle that became larger. And the previous thoughts about overtraining were like, no, this is bunk. Yeah. When you said adrenal fatigue, it just reminded me of – I felt like that was such an internet trend for –
+
+102
+00:41:53,920 --> 00:42:23,424
+maybe a few years ago. It had a good like six to 12 months being like the central focus of like health Instagram and just noting how that has changed over time. I feel like lately that, you know, there's always a new buzzword that everybody has if you're tired and experiencing, if you're experiencing regular human fluctuations of energy, emotions, et cetera. I think it's everybody has insulin resistance right now is what I'm learning.
+
+103
+00:42:23,424 --> 00:42:52,976
+It used to be adrenal fatigue. Now it's insulin resistance, at least according to my algorithm. But it just, yeah. Stop clicking on it. It'll go away. Yeah. My algorithm is like cars and puppies right now. It's great. Oh, that's great. I feel like this is a good time to note too that for athletes, I think especially endurance athletes or any athlete who's training to a fairly high degree, nutrition information.
+
+104
+00:42:52,976 --> 00:43:22,592
+The vast majority of nutrition information that's available to you online, the vast majority is not for you. It is not for you. It has nothing to do with you. And I think that's really challenging, especially for younger female athletes that are just inundated with this diet culture, you know, this diet and health trend culture that changes every three to six months on the internet.
+
+105
+00:43:22,592 --> 00:43:52,544
+It is just not for you. You just have to look at it and say, that is, it's none of my business. It is not for me. And that is even challenging for me as a 31-year-old who works in this field, right? You just have to know it is, that is not about you and let it go. And I think that, you know, it is really challenging for younger athletes who grew up in the social media kind of inundation of all of this stuff.
+
+106
+00:43:52,544 --> 00:44:19,824
+I just always like to make a note of that. Yeah, I mean, I remember in the 90s and aughts when I was becoming socially aware of these things, there was a lot of backlash against like what the ideal female image was. And because, you know, that was the era of who is that really skinny supermodel? Was it Kate Moss? I mean, yeah, I don't remember. She's the archetype of that, yeah.
+
+107
+00:44:19,824 --> 00:44:41,280
+Yeah. So there was a lot of backlash against that, which I thought was great. But at the same time, depending on the social media algorithm and the sports you follow and what you click on, you could certainly get inundated with more unrealistic images of what you assume men and women would look like.
+
+108
+00:44:41,280 --> 00:45:09,696
+as an archetype for, oh, you've got to look like this to be good at X sport or to be this attractive or to be whatever when, in fact, I've heard that a lot of those folks are actually experiencing some sort of adaptive LEA pretty constantly and they've actually arranged their entire life around just looking okay for Instagram when, in fact, it probably sucks to actually be them. Yeah, absolutely. And I think, too, this is
+
+109
+00:45:09,696 --> 00:45:39,088
+a time that we could highlight being, right, just because you have a certain aesthetic. This may be obvious, but I think it's worth repeating. Certain aesthetic does not mean you're healthy, does not mean you're showing, does not mean you're going to get a new FTP tomorrow, right? Like, your external physical appearance does not correlate to your actual, like, you know, health at the cellular level, right? Or your self-worth. Oh, I mean, yeah, certainly.
+
+110
+00:45:39,088 --> 00:46:08,912
+And I think what's often missed and female athletes often get caught up in is just because you are not losing weight or you're not underweight or you don't have a quote-unquote low BMI does not mean you are eating enough for your energy output. So you can be in a state of low energy availability, a long chronic state of low energy availability and not lose weight. That can be true. You can be in a chronic state of low energy availability.
+
+111
+00:46:08,912 --> 00:46:37,056
+and your body weight can go up. You can be in chronic low EA and, you know, look a certain way for many years. So your external appearance and your weight on the scale is not necessarily a marker of being underfueled. And that is a hard pill to swallow for a lot of people, especially those who are like, well, I'm at this body weight and I would like my watts per, you know, whatever to be X, Y, Z. So I need to lose weight.
+
+112
+00:46:37,056 --> 00:47:05,824
+And it's like, well, if you're already underfueled and you want to underfuel more, I guarantee that it doesn't matter what your watts per kilogram is if you can't perform. You're not going to care. On paper, it's all these markers of watts per kilogram, whatever, your FTP is one time. But if you reach those, but you can't show up on race day and perform, who cares? Who cares?
+
+113
+00:47:05,824 --> 00:47:33,904
+If you're chronically underfueled and, you know, you're miserable, I guarantee your performance is going to be horrible, no matter how low your body weight gets, right? So it's like, it's this very interesting trade-off. And honestly, luckily, I don't hear female cyclists talk about this as much, like the watts per kilogram obsession and things like that. I hear it much more among like my male peers in this sport.
+
+114
+00:47:33,904 --> 00:48:03,536
+Oh yeah, I should also mention I do ride bikes. I haven't said that yet. So I do know what it's like to ride bikes and race bikes. But just noting that there is a significant trade-off between weight loss and trying to reach a certain watts per kilogram if it's not done correctly. I'm not saying it can never be done. I'm saying if it's not done correctly. Yeah. Well, whenever I've got a conversation with somebody who's like, I want to reach X body weight.
+
+115
+00:48:03,536 --> 00:48:33,328
+A lot of the time, my first thought is this is going to be a multi-year project. Based on your timelines for training, for racing, for your goals, we are not going to get there in one year. I've lost about 40 pounds in the last three years or so. It's taken a long time to do it in such a way that it stays off.
+
+116
+00:48:33,328 --> 00:48:59,024
+that I'm not experiencing really bad symptoms on the way. I know that I can't diet longer than eight weeks. I can't lose any more than six to eight pounds in that time because no matter what, I am going to have an issue when I get to about that time. I know I got to cut it off. I got to maintain for a little bit. I got to do other things, et cetera, et cetera. That's me personally because I've done this for a while.
+
+117
+00:48:59,024 --> 00:49:24,608
+With my clients, it's the same thing. And actually, whenever I consult with people, one of the things that if I suspect any of these things are an issue, I look for more corroborating criteria, like are your performances inconsistent? Are you not sure when you're going to have a good day or a bad day? Are there a lot of bad days? How's your endurance?
+
+118
+00:49:24,608 --> 00:49:52,208
+How's your mood? How's all that other stuff? And I'm certainly no clinician, but I can at least, I like to think, figure out enough where I can point someone in the right direction if I suspect that something like that's a problem, whether it's under-fueling or over-training, or even if they're like full-blown red-ass and they need to like take a couple of years off the sport. Yeah, I think a huge marker of that too is can you do your workout well, but then...
+
+119
+00:49:52,208 --> 00:50:18,032
+You can't do anything the rest of the day. Like you are on the couch, you, like it feels hard to even go get in the shower or like make yourself lunch. Like if that is also happening, right, maybe you can show up on the bike and do it for two hours and meet your, you know, do your workout successfully. But if the rest of the day you are complete like potato, like you have no brain function, every little thing feels hard, like that's...
+
+120
+00:50:18,032 --> 00:50:47,376
+That's also a huge sign. And a lot of people actually, a lot of people experience that. And that might not mean that you're headed towards like horrible reds the rest of your life, but it may be like, hey, that I should check in on how I'm fueling on the bike because this probably isn't enough. Yeah, yeah. We'll call that Instagram fit where it looks like you're doing fine, but behind the camera, yeah, you're a sack of potatoes or a boiled potato or a baked potato. Pick your favorite potato.
+
+121
+00:50:47,568 --> 00:51:15,760
+Yeah. Or like your Strava looks good. You got that KOM. At least you got that KOM. But you can't, you know, do anything the rest of the day. Yeah. Actually, that was one of the big questions I had for you is like, can you be an LEA or have red ass with stable body weight? So the answer is absolutely yes. Absolutely yes. Yep. Can all of this occur at any level of leanness?
+
+122
+00:51:18,608 --> 00:51:48,400
+What do you mean by that? Can you be in LEA? Can you have red ass at a high body fat percentage? You can. If we're thinking about our typical athlete, though, you're probably not at a super high body fat percentage. If you're at a high body fat percentage and you're in a calorie deficit and you're in a state of LEA,
+
+123
+00:51:48,400 --> 00:52:05,568
+You're going to lose weight, right? I mean, that's kind of just the, you know, I never say calories in, calories out. It's not that simple because it's not that simple. But in a fairly well-trained athlete, you can certainly maintain your same...
+
+124
+00:52:05,568 --> 00:52:26,976
+Body Mass, Body Weight, in a state of LEA. Or, I mean, your weight can go up, it can fluctuate, it can go up and down. And that doesn't mean that's necessarily correlating to your amount of energy intake, right? Your body has to adapt, especially in a chronic state of low energy intake. And that's something that I think frustrates a lot of people.
+
+125
+00:52:26,976 --> 00:52:56,064
+But if you think about it and remove your own self from the equation there and think about your body has to adapt to being underfueled. And if I'm talking about women specifically in the reproductive cycle, your body has to shut down non-essential functions like reproduction, so the menstrual cycle, in order to conserve energy to maintain essential functions like breathing, your heart beating, all of those things.
+
+126
+00:52:56,064 --> 00:53:18,048
+And so, I mean, your body is slowing down, literally. It is slowing down to conserve energy. So with that, your metabolism is slowing down to conserve energy. And your heart rate is slowing down to conserve energy. And so that's kind of the simplest way to think about it. But when people are like, well, I'm restricting my energy intake, trying to lose weight.
+
+127
+00:53:18,048 --> 00:53:43,200
+and the scale just stopped moving down. It's like, well, your body had to adapt to that lower energy, the lower amount of energy that I had to work with to keep you going every day. And if we're talking about cyclists, especially, we tend to be pretty type A anal people who are high achieving, not just on the bike, but off the bike as well. And that requires a lot of energy.
+
+128
+00:53:43,200 --> 00:54:11,040
+If you have a pretty high demanding job and you're using your brain or you're using your body all day, we have to think about that's also requiring a lot of energy. So if you're trying to restrict that and you're doing a full training load and you have a demanding job and maybe you have kids you have to chase around or dogs you have to chase around at the end of the day, you probably are using and requiring a lot more energy than you may realize.
+
+129
+00:54:11,040 --> 00:54:41,040
+Especially if you grew up in a diet culture mentality, like a lot of my friends and my peers have. There's a huge gap in what we grew up thinking was enough food and the right way to eat versus what our bodies actually need to function optimally. Your body can function, it'll adapt, but there's certainly a trade-off between functioning optimally and just surviving.
+
+130
+00:54:41,040 --> 00:55:05,360
+Yeah. Actually, that's what you mentioned about your body's reducing its metabolism. It'll also reduce your activity level, like you also mentioned. And there also seems to be some compensation in terms of energy efficiency in your movements, like walking, like just moving around. Like you may do it a bare minimum of like bending down to...
+
+131
+00:55:05,360 --> 00:55:32,032
+You know, get the dog food as opposed to what you might normally do while you're like playing around with the dogs. This time you're just going to like, I'm just going to go scoop and into the bowl. I'm done. Have fun. And, and that's, I know that a lot of people actually, that's, that's a little becoming a little more popular these days because, wow, God, what's that? What's that German nutshell?
+
+132
+00:55:32,032 --> 00:56:01,904
+channel. They did a video on the Haunter's Exercise Paradox. And it's like, I think the larger phrase is like metabolic adaptation. And I've experienced this in long diets. Like when I've dieted past like eight, 10 weeks, at week like nine, I stopped losing weight, even though I'm doing everything the same. And I'm a creature of habit. And so I'm sure that I'm like, oh God, maybe I'm moving a little less. Maybe my body's trying to conserve energy.
+
+133
+00:56:01,904 --> 00:56:29,024
+Oh no, I've got to cut another 200 calories out of my day. Oh, this is going to suck. But that's when I've learned, like, I hate that. So I'm just going to stop right there and quit while I'm ahead. Yeah, absolutely. If you essentially starve yourself of energy, you're not going to have energy to do the things that you typically would do, right? People talk about that a lot with dieting and like even just getting your daily X thousand number of steps in that you try to get.
+
+134
+00:56:29,024 --> 00:56:56,832
+Um, those little things become more challenging and start to fall off because you are just literally so fatigued. Yeah. Um, and actually that's, um, that's something else that I thought was interesting is like, um, there's at the moment, there's really no, uh, estimates because I don't think it'll ever be hard numbers, but, uh, there's no estimates for what, like the magnitude of energy deficit.
+
+135
+00:56:56,832 --> 00:57:25,664
+and Duration of Energy Deficit to actually drive somebody to those adaptations or even towards red-ass that I'm aware of, right? Right. It's so bio-individual. So like as an epidemiologist, right, I'm trained at population-level research. There isn't like a population-level recommendation. And I don't know that there ever will be. Like we have the broad, you know, no less than 45.
+
+136
+00:57:25,664 --> 00:57:54,512
+Kilocalories per kilogram of fat-free mass per day as like a general recommendation for, you know, optimal body functioning. But when it comes to more specifics, it just, right, everyone is so different that I don't know that, you know, we'll be able to do that. It's such a complicated framework as well. It's too multifaceted, I think. Okay, so can you get red S without disordered eating or eating disorders?
+
+137
+00:57:55,216 --> 00:58:16,624
+Oh yes. Yes, you certainly can. So right, as I mentioned earlier, that's kind of like the easier population to target and intervene on in terms of preventing kind of those more problematic long-term consequences, right? Often athletes, I mean, especially if you just don't have...
+
+138
+00:58:16,624 --> 00:58:44,064
+a high motivation towards food, or you don't have really an interest in nutrition and learning about nutrition and what your body needs, or you just never really had access to that information, but you are highly active, you may just really have no idea what you need to fuel your body. And it may be a mismatch in overall calories. It could be you're not eating enough carbohydrates specifically for your sport, especially if you're doing an endurance sport. And that can be...
+
+139
+00:58:44,064 --> 00:59:04,352
+easily targeted essentially with talking to a registered dietitian or if you're on a team and you have access to, you know, if you're a university athlete and there's a, you know, registered dietitian in your athletic department that comes and talks to your team or talks to you, just getting that information, right? And if you're seeking out information,
+
+140
+00:59:04,352 --> 00:59:33,472
+by yourself because you're starting to notice, oh, I'm tired all the time or I'm not getting any stronger, I'm not getting any faster, maybe I need to eat more. Or I'm even going backwards. Yeah, or I'm, yeah, getting slower or I'm just, I'm not progressing how I should be, right, doing your own research. But with that, it's being highly discerning of the research that you are looking at, making sure, you know, if you're a cyclist, you're not looking at research that was for
+
+141
+00:59:33,472 --> 00:59:58,320
+You know, like a soccer player even or a weightlifter, right? That's going to look different, especially as it comes to carbohydrate needs. So making sure that you are a little bit sports specific when you're looking at dietary recommendations relative to, you know, your activities and not, you know, falling victim to these, you know.
+
+142
+00:59:59,216 --> 01:00:27,136
+Podcasts and such that claim all this information about nutrition that is just complete bogus. But hopefully a lot of people can discern it. Yeah, this one's pretty good. And then, you know, on the other side, if it is, you know, low energy availability due to disordered eating or an eating disorder, that's a much more like multifaceted approach because eating disorders and disordered eating are psychological.
+
+143
+01:00:27,136 --> 01:00:53,296
+at the root, right? It's not behavioral. It's not, oh, just eat. Yeah, just eat 90 grams of carbs per hour on the bike. No problem. It'll fix everything. It's not just a behavioral change. There needs to be psychological change that comes with it. Usually, right, there's a fear around eating more. There's a fear of certain foods, a fear of especially gaining weight and body composition changes.
+
+144
+01:00:53,296 --> 01:01:16,768
+And it's not, you know, sending them a diet plan and say, hey, go do this, because it's not going to happen. I know from personal experience, it's not going to happen. It takes, you know, typically, you know, a therapist being involved, working on the psychological aspects around your relationship with food, working with a dietitian who...
+
+145
+01:01:16,768 --> 01:01:46,544
+I would say especially a dietician who understands disordered eating, right? And it's not just a sports dietician who has never worked with individuals who have a hard time increasing, you know, their calorie intake or intake of particular food groups. And that often can take a lot longer. I mean, if we're talking about getting, you know, well, improving your relationship with food, one, but then also those physiological improvements like getting your menstrual cycle back.
+
+146
+01:01:46,544 --> 01:02:11,024
+That doesn't happen in, it doesn't happen in one month, right? It certainly doesn't happen in, usually doesn't happen in two months. It can, but in the more chronic states of being underfueled, it can take, you know, three months, six months, 12 months. To have your menstrual cycle resume, sometimes it can take longer. Sometimes that comes with weight gain, sometimes it doesn't. You know, there's no one size fits all.
+
+147
+01:02:11,024 --> 01:02:29,616
+And sometimes there's lifelong impacts from this because I cannot even count, unfortunately, I cannot count the number of women I know who are suffering lifelong consequences from these issues. Is it bone health things?
+
+148
+01:02:29,680 --> 01:02:58,656
+Yeah, bone health, but also like GI problems, also libido problems, you know, like just go down the list and like I probably know somebody with a lifelong problem because of that. But actually speaking of the menstrual cycle, what are the additional considerations around menopause or hormonal contraception for women? I love this question.
+
+149
+01:02:58,656 --> 01:03:17,264
+truly do not know much about reds with menopause. But when I saw your question come across, I was like, somebody should really look into that. I don't think that there's a lot there. But I can come back to that. But as it comes to birth control and contraception, this is my favorite topic. I could talk another hour about this, but I won't.
+
+150
+01:03:17,552 --> 01:03:47,072
+It is still quite common, unfortunately, that a female athlete will present to their doctor without their menstrual cycle and they will say, go on the birth control pill or go on, get an IUD, et cetera, for the specific reason of quote-unquote regulating your cycle, right? And we know that that is not the case. If a female athlete needs to be on contraception for contraception purposes, right, to prevent pregnancy, that is obviously a different situation.
+
+151
+01:03:47,072 --> 01:04:13,968
+that should be fully supported in my opinion. But if they're going on contraception just to regulate their menstrual cycle, that is simply just masking kind of the underlying issue of not having a naturally occurring menstrual cycle. So if you go on birth control, you will not know if your natural cycle resumes or not, right? Because you have this chemically induced cycle, essentially, where you're getting a withdrawal bleed.
+
+152
+01:04:13,968 --> 01:04:38,528
+When the hormones, either you're taking like a sugar pill, or if you're on IUD, you may not get a bleed at all. But you won't know actually if you're having a normal menstrual cycle or not. And that, you know, is sometimes a barrier to understanding how your physiology is operating. Like, are you having a normal monthly cycle or not? And it can be complicated for women who are on contraception.
+
+153
+01:04:38,528 --> 01:05:07,552
+For pregnancy prevention purposes, they may not always know if they would be getting their natural cycle or not. Just something to consider. I will say this is not a sponsored ad because I am not sponsored by Oura Ring, but on an IUD, you can, not always, but you can still ovulate. So if you have something like an Oura Ring or do temperature tracking, like basal body temperature tracking, you can still get a sense if you're ovulating or not.
+
+154
+01:05:07,552 --> 01:05:34,432
+And if you're ovulating, you have an idea that you are having a cycle throughout the month, which is what we want. But with the Oura Ring, you can actually look at your temperature tracking, your basal body temperature throughout the month, and it can show you when your ovulation starts. So basically, when you enter your period, follicular phase, it can show you when you're ovulating and then when you enter the luteal phase.
+
+155
+01:05:34,432 --> 01:06:03,536
+is interested in that and they have an IUD and they wonder if they would be getting a cycle. Something to consider for not a small fee, but can give you some additional insights. Interesting. I've never heard of that before. So I would assume that because the menstrual cycle is so energy intensive, I would assume that your basal metabolic or your basal body temperature would go up because of the increased metabolic needs, right?
+
+156
+01:06:03,536 --> 01:06:31,008
+Sorry, I don't think I understand your question. Oh, so were I a woman with an IUD and I were wondering if I were getting a regular cycle, so would I look for an increase in my body temperature? Yes. At ovulation, your body temperature increases, but it's by like 0.02. So it's not something that you can do. Yeah, it's very, very minimal. So that's why like if you are using...
+
+157
+01:06:31,008 --> 01:06:57,504
+a basal body temperature tracker. It has to be the correct type of thermometer to do that. There are certified ones. You can buy one at CBS if you want to. It's not going to be as reliable as something that's a little bit like natural cycles or something like that that are connected to apps and track it a little more accurately. But the Oura Ring does a decent job at that too. So there are ways to kind of understand when that initial...
+
+158
+01:06:57,504 --> 01:07:25,840
+Temperature Fluctuation Happens, and then the rise and fall of the temperature as you progress into the luteal phase. But you can see how long your ovulation window is as well, which just can give you really good insights into your hormone health, especially for athletes who may be looking to conceive in the near future, which is kind of an interesting subset that I'm passionate about.
+
+159
+01:07:25,840 --> 01:07:50,752
+Awesome. So you said you had a couple other thoughts on menopause and RED-S, or is it just more research is needed? Oh, yeah. No, just that. Somebody should do that. Somebody should look into that. But I think also just noting all of the, you know, more short-term.
+
+160
+01:07:50,752 --> 01:08:20,736
+Side Effects or Consequences, if you will, of being in low energy availability will show up, but then specifically kind of the bone health implications I'd be really interested in around menopause, especially if somebody kind of entered menopause in a low EA state, how that would affect like their bone turnover and all those things as they go through menopause, from perimenopause through menopause. Badly, I would assume, but yeah, we would need to see some real data.
+
+161
+01:08:20,736 --> 01:08:45,743
+Quite poorly, but I do not have the data on that, but I think it'd be interesting. And, you know, kind of the public health advocate in me, right, it's worth noting that, you know, poor bone health, we know that if you fall, right, the risk of falling as you age is highly correlated with early mortality. So if you think about the importance of bone health, it's that if you fall,
+
+162
+01:08:45,743 --> 01:09:13,040
+at an old age and your bones are very weak and frail, you have a much higher risk of breaking and fracturing bones and we know that breaking and fracturing bones at an old age is highly predictive of dying earlier. So if that makes you want to focus on your bone health and nothing else does, I will leave that with you. So speaking of bone health, what are the
+
+163
+01:09:13,040 --> 01:09:42,816
+long-term consequences of not really solving any issues that come with red-ass. Because I know bone health is a big one. And I actually know a couple women who have been in really bad states. And then when they get their menstrual cycle back, they're like, I'm done. I'm cured. It's awesome. Everything's great. And it's like, you've got a lot more work to do. Yeah, I think bone health being one of the earlier
+
+164
+01:09:42,816 --> 01:10:11,936
+kind of issues recognized to be related to low EA with the female athlete triad. It's so important because, you know, we see cases still, you can have osteoporosis at like age 19, right? Like it happens. It's fairly common, especially in female runners. And yes, you can slightly improve your bone health over time, but the damage you do to your bone health early on is going to stick with you the rest of your life.
+
+165
+01:10:11,936 --> 01:10:41,296
+Right? And it's not 100% permanent, but when I say that you can't fully repair your bones, that is true. Like that early damage, you get one set of bones, you know, you get one shot at your bones. And I think with young athletes, that's like not as often appreciated. It's hard to convince a 13-year-old girl that.
+
+166
+01:10:41,296 --> 01:11:10,576
+You know, to learn about and focus on bone health, right? They were like, they're just not probably going to be super jazzed to like think about their bone microarchitecture, right? But I mean, I barely even, you know, I'm interested in that, but that's a huge consequence. But then, right, you know, you start to see, like I studied runners, when they get one bone stress fracture, they got six bone stress fractures. The increasing rate of re-injury is significant.
+
+167
+01:11:10,576 --> 01:11:40,016
+And that's something they could experience the rest of their life, right? And if you're constantly getting injured, it's a high energy demand to repair that injury. So it kind of becomes this interwoven web of LEA injury, back to LEA injury again. The vicious cycle, yeah. Yeah. So it's easy to get caught in that vicious cycle. Yeah. So having said all of this,
+
+168
+01:11:40,016 --> 01:12:08,048
+What are our best preventative measures for Red S? Yeah, I mean, if I'm talking about younger athletes, it would be like early education, early intervention with the dietician if, you know, there were any early flags of restrictive eating or disordered eating or just like not eating well to set yourself up for performance and health.
+
+169
+01:12:08,048 --> 01:12:32,848
+And then in kind of our age group of athletes, you know, whether they're competitive athletes or kind of your more casual athletes, just staying, you know, on top of your nutrition, prioritizing your nutrition and recovery. I think it's so easy to let that slip right before many other things.
+
+170
+01:12:33,104 --> 01:13:02,160
+But the way you feel your body and the way you treat your body in terms of recovery not only is important to your physical health, but it's important to your mental health. It's important to how you show up for other people in your life. It's important to literally every aspect of your life. And I think people let nutrition, sleep, et cetera, go when things are stressful and hard. But if you prioritize that,
+
+171
+01:13:02,448 --> 01:13:31,664
+You're going to just be better off as a whole person, not even just as an athlete or not even just on the bike. But I think our society doesn't always encourage that. It's seen as selfish or kind of indulgent to be so focused on your nutrition and things like that. But if you don't take care of yourself, nobody else will. And if you don't take care of yourself, you can't take care of anybody else.
+
+172
+01:13:31,664 --> 01:14:01,168
+That's the first I've ever heard that. Yeah. In our society, yeah. I mean, I guess my world is a little different because I work with so many cyclists. I work with a lot of professional cyclists and certainly a lot of amateurs too. And the amateurs, I completely agree actually that I would bet a lot of them would feel indulgent thinking about, oh, I need a little more protein at like family dinner.
+
+173
+01:14:01,168 --> 01:14:27,472
+It's like, oh, we didn't make enough. I'm sure that that's definitely a thing. And that's personally what I would recommend. Just have a little protein powder on the side that you can reach for. I reach for protein powder probably two meals out of three because I'm like, oh, I don't have enough of this. Whey protein is good enough. But I think with the much more competitive professional cyclists,
+
+174
+01:14:27,472 --> 01:14:57,200
+My impression is that not all of them, but a lot of them actually take their performance and their nutrition somewhat seriously, even if it's like backwards from what it should be. Because I think there's a lot of people who can get addicted to the initial performance increase from a little bit of decreased energy intake, and then you lose a little weight and you're climbing a little better and you're like, oh my God, this is awesome. And you get addicted to that, right? Yeah.
+
+175
+01:14:57,200 --> 01:15:25,264
+Yeah, I think when I said indulgent, you know, I'm surrounded by a lot of women my age are now moms and whatever. And to them, you know, getting meal delivery or meal prepping and all these things that, you know, it's often seen as, you know, one type of way, right? We don't need to go down that rabbit hole. But just the focus on taking care of yourself is a priority because it will spill over into the rest of your life. But I mean, with...
+
+176
+01:15:25,264 --> 01:15:54,976
+Professional Level Cyclist or even, you know, your CAT 1-2 cyclist who race all season. Yeah, if you don't prioritize your nutrition, you're probably not going to be racing all season, especially if you're over a certain age. But just the focus needs to be different, right? It is part of the job. It has to be a part of the job or else you're probably not going to be able to do your job. Yeah.
+
+177
+01:15:54,976 --> 01:16:24,416
+So how would you grade the cycling world with education and awareness on red S? Oh, that's a really good question. I think on red S specifically, I would grade it pretty low, pretty low, probably C minus, D maybe. I never hear people talk about reds and cycling. Barely passing. Barely passing. But when it comes to carbohydrate intake, I would give it like a B, B plus.
+
+178
+01:16:24,416 --> 01:16:53,536
+There is a really interesting focus on carbohydrates that hasn't been a part of my life until I started cycling, which was only about three years ago. And I think that the direction that that conversation is going is really good from what I have seen. And I wouldn't say this for most sports, but female cyclists, I've seen a really positive trend around nutrition.
+
+179
+01:16:53,536 --> 01:17:21,808
+Especially eating on the bike that I couldn't say that I've ever seen in any other sport I've been a part of. Although, right, like that was much longer ago that I was as involved in any other sport. Like I love the gravel cyclist, Paige Anwaller. Is that how you say her last name? I have no idea. I don't follow the gravel world. Okay. Well, she has this Instagram video and it's on YouTube somewhere too.
+
+180
+01:17:21,808 --> 01:17:48,192
+but said something along the lines of not a direct quote that like she can't control every other competitor but she can control being the best fueled athlete on the start line and like that to me like as somebody who has struggled in the past was such a like amazing super quick like little um like anecdote to keep in the back of my mind like you can set yourself up to be the best within your control and a huge part of that.
+
+181
+01:17:48,192 --> 01:18:16,496
+is fueling adequately and being prepared, like having fuel on you during a ride or a race, all of that, and doing the preparation that that takes. And, you know, there's a YouTube video of her, like, going through setting up all of her, you know, bottles, gels for every aid station she was going to stop at throughout the gravel race and it being, like, all laid out. Like, that takes time. That takes dedication. But you know what? She's really fast.
+
+182
+01:18:16,496 --> 01:18:46,128
+Well, I'm a fan now. I'm a fan. That's awesome. Oh, yeah. You should have her on. She's great. I love watching her and her content. And I don't even own a gravel bike or anything. I'm not a gravel rider at all. But just that sentiment of she can control that aspect of her race and of her training. Oh, I love that. That's great. Yeah. So how big a factor do you think the cultural normalization
+
+183
+01:18:46,128 --> 01:19:15,120
+of like red-ass symptoms might be in like keeping people from getting help or even recognizing that they're having problems. Yeah, I think that it's definitely in my lifetime gotten better. Although our culture around leanness is still something that keeps, you know, especially female athletes, just because that's my area of work, but male athletes as well.
+
+184
+01:19:15,120 --> 01:19:40,560
+often stuck in this mindset of less is more when it comes to nutrition and fueling. And just, right, we talked about earlier, your external appearance and the way you present in terms of what you look like does not necessarily correlate to your performance, right? It just, it simply doesn't. But we still in our culture see
+
+185
+01:19:40,560 --> 01:20:09,776
+Athletes who look a certain way and perform a certain way being rewarded in a certain way. And I think that is hard to ever let go of because when we're in our most vulnerable state, which is when we're not feeling great about ourselves, we're probably under-fueled, we're probably tired, and we consume media, we see the people getting the most coverage, the most sponsorship, etc., typically being people who are in
+
+186
+01:20:09,776 --> 01:20:33,888
+Great Bodies, right? That's still the case. They present a certain way. They have the typical look of an elite athlete. Now, that's not always the case in every sport. However, endurance sports, I think that is still happening a lot. But every month, every week, I'm surprised in a good way of seeing.
+
+187
+01:20:33,888 --> 01:21:01,216
+Media coverage around like different bodies performing well or an athlete who may not look like the stereotypical like picturesque endurance athlete being on like an amazing ad and getting sponsorship from companies and you know it just showing the diversity of you know a certain aesthetic within a sport like I started my dissertation
+
+188
+01:21:01,216 --> 01:21:29,680
+Around the same exact time that the Mary Kane story broke out. Mary Kane was that Nike, elite Nike runner. And she came out with her story of, you know, her eating disorder and all of the really horrible effects that she suffered when she was with Nike and the encouragement at Nike for her to continue her disordered eating. And since then, since that story, which literally came out like the day.
+
+189
+01:21:29,680 --> 01:21:58,672
+I propose my dissertation prospectus through now. I've seen how much progress we've made, especially in media around female athlete bodies, athlete bodies, and highlighting the differences, you know, in aesthetic of athlete bodies. So I'm hopeful of that continuing in a positive direction.
+
+190
+01:21:58,736 --> 01:22:27,888
+I'm going to join you in being hopeful. I don't think it's amazing yet. Personally, I would grade the cycling world that for the cultural normalization of stuff, I would grade it at the amateur level, I would grade it better than at the even middle professional level, or I would grade it actually pretty bad. I would give it a D. And that actually leads me to
+
+191
+01:22:27,888 --> 01:22:54,816
+Another question I have, which is, what advice would you have for an athlete who's having trouble navigating team or coach or peer pressure to continue bad eating habits at the consequence of their own health? Because teams obviously have a lot of power, especially at the professional level.
+
+192
+01:22:54,816 --> 01:23:24,784
+And so, because I mean, I'm aware of even some teams who do regular skin caliper testing and will like rob people of dinner or make them do extra miles after a race or, you know, you name it. And it's like, you know, I've heard of teams that like lock the cupboard. Like it's not like a thing that happened 30 years ago. Like it still happens. So how would you advise somebody navigate that kind of world to attempt even to put their own health ahead of, you know, pressure?
+
+193
+01:23:25,712 --> 01:23:52,256
+Yeah, I mean, that's really hard because, of course, it's not just, oh, leave the team. It's not that simple, right? It's just not how it works. And so, of course, if that was the easiest thing to do, they would have already done that. So, right, and there is nuance here if it's somebody who actually has an eating disorder and is also in this environment that's encouraging it, or if it's an athlete who doesn't necessarily have an eating disorder, but they are having this pressure to continue to, like...
+
+194
+01:23:52,256 --> 01:24:19,072
+restrict their food intake or whatever it is. I think if you can specify the source, if it's coming from your teammates, your coach, your directors, if it's coming from the entire culture within your team, that's going to be a lot harder to navigate, right? Because there's literally no escaping that type of pressure. If it's coming from one or two individuals, right?
+
+195
+01:24:19,072 --> 01:24:47,040
+If it's coming from your coach and it's something that you can do is get a different coach, then you should do that. I actually talked to an athlete last week that said, I fired my coach this week because I'm already struggling with my disordered eating. They were encouraging my disordered eating. All they cared about was how I weighed in, etc. They were able to get rid of that specific isolated contributor to their issues with food and diet.
+
+196
+01:24:47,040 --> 01:25:08,304
+Enter into a healthier relationship with a different coach, right? So like that's one example that hopefully is something most people can navigate. Although if it's coming from an entire culture within an entire team and you are full-time with this team within this culture, I mean, it would be incredibly...
+
+197
+01:25:08,304 --> 01:25:37,440
+challenging in the short term to remove yourself from that. But if you can start to navigate other options, right, or at least bring in people into your life that are a better influence, whether it's like in someone external, like a dietician you can talk to, a therapist you can talk to, right? I mean, I don't want to make it sound like that's easy to navigate because it certainly isn't. And honestly, that athlete may not really realize all that's going on until they're removed from the situation.
+
+198
+01:25:37,440 --> 01:26:05,024
+That's a pretty common experience, especially if you're like a younger athlete or especially younger female athletes. If it's so normalized within your everyday environment, like constantly being reinforced, you may not really recognize the disordered things going on within that environment until you leave. Yeah. And with the younger women that I coach, I've actually...
+
+199
+01:26:05,024 --> 01:26:33,760
+A lot of the time, I feel like I've had to confirm that like, no, they're not nuts, that this is fucked up. Yeah. That, you know, there's like not enough food in the house or there's, or the, you know, there's not enough, whatever, like the, because a lot of the time they'll be like, is this, is this weird? This is what's going on. Is this weird? Is this okay? And I'm like, well, clearly not because you're hungry. You're.
+
+200
+01:26:33,760 --> 01:27:01,024
+Your performances are suffering. Like this is, this is clearly not okay. Get out of there as soon as you can. And, you know, trying to work with them on that stuff. But like, it's, it's tough because a lot of the time, I feel like both men and women both are trying to figure out what's the best path forward. Like what opportunities can I get? What support can I get? But also navigating.
+
+201
+01:27:01,024 --> 01:27:30,576
+a potentially really toxic team culture in terms of health. So the trade-offs are awful sometimes. Yeah, and this might be a whole different podcast, but like who, I don't have the answer. It's kind of a hypothetical question. Who can they report that to that they could actually trust with that information that something would actually get done, right? I don't know. I'm sure it depends on like the sport governing body and, you know, what type of team they're on and all these things.
+
+202
+01:27:30,576 --> 01:27:58,864
+But if they don't have that, if they don't have those resources, then what are they going to do? How are they going to get out of that without losing their opportunity to compete and being tied to a contract and all those things, which is kind of a whole other can of worms. Yeah. I mean, I know a couple people who have actually just quit the sport because of the consequences of this stuff. Because I know a lot of the time,
+
+203
+01:27:58,864 --> 01:28:28,144
+if people don't get a ride for the next year, they feel like that they're through and that you'll never come back. I mean, and I mean, just look at the number of people who have taken a break and then come back. I mean, like Ruth, Ruth Winder, no, Edwards, Ruth Edwards is a great example. Like she was like, ah, I think I'm okay with this. Does gravel for a bit. And she's like, you know what? Road is pretty great. I'm going to go back. And she's still kicking ass. Yeah. Yeah.
+
+204
+01:28:29,168 --> 01:28:55,008
+I was just going to say, there's so many levels to this sport specifically and lots of sports, but I think as you move up in the sport, that's where we're seeing those kind of old school mentality still present. Whereas in the domestic crit racing scene, I actually feel like things are really moving in a pretty positive direction.
+
+205
+01:28:55,008 --> 01:29:22,432
+I can only speak from my experiences, of course, but just the mentality and the conversations, also crit racing, right? There's less emphasis typically on your actual body weight a lot of the time, and it's more about power and actually having muscle mass and all of that. So that's, you know, that's the space that I have been a part of. I cannot speak to like the World Tour teams and all of that, but...
+
+206
+01:29:22,432 --> 01:29:48,352
+I imagine that a lot of those mentalities, less healthy mentalities are still common there. Yeah, they're less common than I think they once were. I've got some friends on some big teams and a lot of the time they're actually telling me like, oh, we've actually got nutritionists or like there's one guy was like, there's science everywhere. Like if you're hungry.
+
+207
+01:29:48,352 --> 01:30:16,704
+Between Meals, like have some of this, have some of this, have some of this. They're encouraging people fueling because they know it's better for performance. So do you have any other thoughts before we wrap up? Anything that we kind of glanced on that you wanted to dig into or did you have anything that you wanted to get into that we didn't touch on? The only other thing, because I'm obsessed with this paper and I can send it to you after if you want to link it, is we talked about this a bit, but
+
+208
+01:30:16,704 --> 01:30:40,016
+Your overall calorie intake, your overall energy intake, especially as cyclists, there's research that shows, right, it's not just about your overall intake, but how you distribute your calorie intake throughout the day. And there is this great paper that specific to menstrual cycle dysfunction or amenorrhea that you might be eating, you know, whatever, 3,000 calories in a day, but if you're not...
+
+209
+01:30:40,048 --> 01:31:07,184
+Fueling around your training, during your training, focusing on the points of your day where your energy needs are actually the highest, you can still have a lot of those consequences, especially hormonal consequences and endocrine consequences, as you would if you were just overall under-fueling. So a lot of people, especially with disordered eating, might save food for later in the day.
+
+210
+01:31:07,184 --> 01:31:36,128
+You know, or save food for their favorite meal of the day and not necessarily fuel properly across their entire, you know, however many hours they're awake throughout the day. And so, right, there's like that nuance that is important often that gets missed. So wanted to point that out, especially for those who have lost their period and maybe trying to get it back. You have to focus on fueling.
+
+211
+01:31:36,128 --> 01:32:05,504
+Um, consistently, especially around your training. Uh, that's actually fascinating to me because I, I think that points towards, you can actually not be, um, in LEA and actually still have some of these consequences. Um, you can be in LEA throughout the day. Not, not at the, if you take the day.
+
+212
+01:32:05,504 --> 01:32:30,704
+Like overall. So say you train at 7 a.m. You wake up, you eat a banana. That's 110 calories, right? And you get on the bike and you do a two-hour session with no carb intake. You may have burned, what, 1,200 calories easily and you have taken in 100 calories, right? Yeah. You're in an 1,100 calorie deficit.
+
+213
+01:32:30,736 --> 01:32:54,736
+at 9 o'clock in the morning. Your body's under significant stress, right? It's that stress response. And you're probably rushing to get ready for work. You're probably chugging a coffee out the door, right? Like your body is under stress. And so that stress response is going to affect you, even if you eat a 1500 calorie dinner.
+
+214
+01:32:55,696 --> 01:33:25,360
+later in the day because you want to save your food for later in the day because that's common with disordered eating as well. It's like saving food. And so if you're trying to get your period back and you think you're eating enough and you're not eating around your energy demands throughout the day, that could be contributing to why you're not recovering. Interesting because I think a lot of people just figure in a 24-hour span, as long as the numbers add up and approximately equals zero, then I'm good.
+
+215
+01:33:25,360 --> 01:33:54,544
+But I think also people don't understand how much energy being asleep takes. Like you're not doing anything, but your metabolic rate like ramps up a couple times through the night and you have just gone hopefully seven to nine hours without food. And you might have eaten two hours before bedtime. So now you're at nine, 10, 11, potentially 12, 13, 14, 15 hours. That's more than half the day that you've had nothing.
+
+216
+01:33:54,544 --> 01:34:17,824
+A really good way to look at it is that just because the numbers add up at the end of the day doesn't mean that everything's awesome. Yeah, and also, you know, there's studies around body composition and timing nutrients throughout the day too. So that also, you know, calories in calories out is not necessarily going to help your overall body composition. Again, if you're like eating.
+
+217
+01:34:17,824 --> 01:34:44,720
+70% of your calories after 6, 7 p.m. because you wanted to save them for the end of the day. So not only like hormonal implications, but also body composition. So yeah, I think that's important because I think it's easy to kind of skip over that part of the equation. I'm going to link a whole bunch of papers in our show notes.
+
+218
+01:34:44,720 --> 01:35:11,072
+and I'm going to link first the 2023 IOC consensus because they have really good figures and they have really good definitions in their tables. So those would be good. We'll link the I think we'll link one or two Ann Luke's papers. There's one I think would be
+
+219
+01:35:11,072 --> 01:35:40,576
+interesting called Energy Availability Not Body Fatness Regulates Reproductive Function in Women. I know you know that one really well. The Sellingworth paper on overtraining syndrome versus RED-S. Yeah. And I want to link a couple of your papers. So send me the links to anything we talked about. And also, if people want to get in touch with you, may they get in touch with you and how would they do so? Yes. Instagram, I'm on it too much.
+
+220
+01:35:40,576 --> 01:35:55,920
+It's at Tracy underscore Carson, Tracy with an I. And yeah, that's the best way to get in touch with me. I will see your message. Awesome. Thanks so much for coming on. Thank you. All right. I want to thank everybody for listening. And also, of course, thanking.
+
+221
+01:35:55,920 --> 01:36:25,232
+Tracy Carson again for coming on to the podcast and talking about LEA and Red S with me and I hope everybody found that very informative and if you have any follow-up questions I highly suggest you get in touch with Tracy shoot her a message on Instagram she really is very responsive there and she's also an excellent resource and just a wealth of knowledge and a really cool person obviously as you just heard so if you'd like to get in touch with her that's how to do it if you want to get in touch with me shoot me an email at empiricalcycling at gmail.com and if you would like
+
+222
+01:36:25,232 --> 01:36:52,432
+If you'd like to sign up for consultation or coaching, please shoot me an email and we will get the conversation rolling even if you're looking at next year. Well, it's late November right now, so now's a good time to start thinking about it if you're thinking about it. We also have Instagram AMAs on the weekends up on my Instagram at Empirical Cycling and donations to Hurricane Helene Relief and otherwise, I hope everybody's healthy and happy and we will see you all next episode. Later.
+
