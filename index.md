@@ -1,3 +1,42 @@
-## [Watts Doc Series](./watts-doc)
-## [Ten Minute Tips](./ten-minute-tips)
-## [Perspectives](/perspectives)
+# Empirical Cycling Podcast Transcripts
+
+## Last 5 Episodes
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <em>(Category: {{ post.category }})</em>
+    </li>
+  {% endfor %}
+</ul>
+
+---
+
+## Watts Doc Series
+
+<ul>
+  {% for post in site.categories["Watts Doc"] %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+---
+
+## Ten Minute Tips
+
+<ul>
+  {% for post in site.categories["Ten Minute Tips"] %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+---
+
+## Perspectives
+
+<ul>
+  {% for post in site.categories["Perspectives"] %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
