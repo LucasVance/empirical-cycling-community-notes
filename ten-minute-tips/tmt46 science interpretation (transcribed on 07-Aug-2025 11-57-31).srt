@@ -1,0 +1,1060 @@
+1
+00:00:00,464 --> 00:00:29,184
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Today, we are joined by both Kyle Helson and our coach, Rory Porteus. And I want to thank everybody for listening. If you are new here, please consider subscribing to the podcast if you like what you're hearing. And if you are a returning listener, you can always support the podcast by giving us a nice rating wherever you listen to podcasts and also giving us a good review. But especially sharing the podcast goes a very long way. Thank you for all of the shares recently. And we've gotten some really good feedback on our last couple episodes. Thank you for all of that.
+
+2
+00:00:29,184 --> 00:00:35,664
+And if you would like to become an Empirical Cycling client, you can always reach out to empiricalcycling at gmail.com if you would like to.
+
+3
+00:00:35,664 --> 00:01:03,328
+Hire us for coaching or consult with us. It's December. It's probably a good time for a consultation if you're thinking about coaching yourself next year. And I guess if you would like to follow me on Instagram at Empirical Cycling, you can participate in the weekend AMAs up in the Instagram stories. And that is also where you ask questions for the podcasts. I've put up a question box for this podcast and we will see if we have any questions that should be answered later on. So I guess we are going to start with what are we all doing here?
+
+4
+00:01:03,328 --> 00:01:31,824
+Like a lot of episodes, this is not a lot of episodes recently, but in the past, I have written a lot of episodes about things that have annoyed me. And today, this is no different because one of the most annoying things I have heard, and this is partly one of the reasons I don't listen to a lot of cycling media or consume it, is because I hear the words, the science says.
+
+5
+00:01:32,592 --> 00:01:59,664
+And I am not the biggest fan of that phrase. I don't think I've ever said it in the podcast in the entire five and a half years we've been doing this, the 150-something episodes. So, Kyle? As I said, you can say that. Someone is going to find it. Someone will find the moment you said that. All right. Well, I want to hear what context I said it in.
+
+6
+00:01:59,664 --> 00:02:28,768
+because this is something I've always tried to do is I've always tried to say my reading of the scientific literature or this paper which I've picked because I believe it represents the literature on that topic fairly or I'll try to mention when I feel like it's my experience that is informing my recommendations here or why I think maybe this thing isn't really worth doing this thing is worth trying or you know just try it yourself that kind of stuff so
+
+7
+00:02:28,768 --> 00:02:50,864
+So what are your impressions of people saying the science says? It's a level of definitiveness that I don't have the confidence to say ever. Well, and we should also recollect that you both have PhDs. And so if anybody, because I am like...
+
+8
+00:02:50,864 --> 00:03:18,096
+I am, as a coach, I feel like I'm an N equals one type scientist. I mean, this is all coaches. We're always trying to run experiments on what is this one person's best training. But you two have publications to your name. You draw salaries based on the actual science that you do. So you are both way more qualified to talk about this stuff than I am. So Rory, tell me more about why you feel like it's way too definitive.
+
+9
+00:03:18,256 --> 00:03:47,648
+Well, first I'd like to point out that it's science I did in the past because as about two-thirds of people that go into academia would tell you, I'm not going to academia. It's a weird one. So when I was lecturing, I gave one lecture. This was to students who were trying to be able to get access to undergraduate level education. And one of the lectures I gave was
+
+10
+00:03:47,648 --> 00:04:12,384
+on how to read a scientific paper, which is a much more complex question than people are maybe anticipating at the start of it. And when it comes to the, how would you describe it, the rigor of how science stands up, sports science has a reputation.
+
+11
+00:04:12,384 --> 00:04:37,680
+for not being the most rigorous. And I don't think that's entirely down to poor work by scientists. I think that's a limitation in terms of how studies need to get designed around how you're able to execute on them or the things you're actually able to test. But it is a field of science where you get a lot of people like us who
+
+12
+00:04:37,744 --> 00:05:06,448
+Look at a particular paper and decide that that is telling them exactly the thing they want to hear. And the issue is often that people apply too broad a view to an individual experiment than the experiment itself can actually support. So it could be these intervals will raise your VO2 max and are better than these intervals, but the reality is that
+
+13
+00:05:06,896 --> 00:05:30,000
+You're looking at a very narrow set of circumstances that ignores an awful lot of context around how adaptations can actually occur. And so definitively stating one way or another, this way's better and that way's not, is losing an awful lot of context that the paper itself is often devoid of as well due to the limitations.
+
+14
+00:05:30,000 --> 00:05:59,680
+And limitations in the people that can be recruited for those studies, too. I mean, and I feel like... Don't help if you're looking for a paper full of female subjects. There are a couple when it comes to like LEA and RED-S. Actually, there's a lot. I'd say women are overrepresented in that, but I think that that's probably a good thing. Because as far as I know, it's the only subset of the physiology field that's not, you know, like women's physiology specific.
+
+15
+00:05:59,680 --> 00:06:28,752
+in terms of reproductive whatever. But I think for generally speaking, you were absolutely correct in that women are highly underrepresented. But I also, I saw Kyle, I saw you nodding your head. So what are your thoughts here? Yeah, I think that what something, like something that you miss, like Rory said, is also you studied this one
+
+16
+00:06:28,752 --> 00:06:55,152
+and like in addition to the fact that you're just limited you're there's the desire or the temptation to extrapolate that result and say it is true forever at least until the next paper comes out even though if you dig into it the statistics may only say like this is this result is you know could be consistent with random fluctuation one in a hundred one in
+
+17
+00:06:55,152 --> 00:07:24,448
+21 in 1,000, some amount of times. And even allowing for the fact that it's very hard to get really good statistics when you're studying living, breathing things, animals, humans, whatever, it's, there isn't, there is still that uncertainty, like, that, you know, kind of getting back to what Rory said about, there's that definitiveness and like the science says, but they're like, no, no, no, this result is true for a given, say, confidence interval or a given
+
+18
+00:07:24,448 --> 00:07:52,880
+you know probability that this is not just due to random chance because there's that what is that famous XKCD like jelly beans comic where like you know like oh there are 20 panels and one panel is like we found a statistically significant difference yeah like jelly green jelly beans you know cure cancer or something like that and that's just due to random chance even though you know you can take zoom out a little bit like oh green jelly beans probably don't do anything to disease aside from
+
+19
+00:07:52,912 --> 00:08:21,888
+you know maybe comfort you if you're sick and you want a snack but um and so I think I think that leap where you know everyone everyone hates statistics right like no one's like oh I love I won't say no one because there's gonna be someone out there but very few people are like oh I loved my statistics course in college or high school whatever right or oh I took AP stats and that was my favorite class but it and and really digging into stats and it can also often require a much
+
+20
+00:08:21,888 --> 00:08:47,664
+deeper math background than I think a lot of people may realize when they first get into stats. Like, oh, it turns out, like, knowing calculus well is really helpful for interpreting, like, deeper statistics and meaning behind statistics. And if you don't have a good grasp on calculus, then you're going to have to just take things as true or something, things like that, where you're like, oh, why is this true? It's like, well, just like, you know.
+
+21
+00:08:47,664 --> 00:09:16,880
+Calc, like, physics without calculus, like, we're just gonna, you're just gonna have to believe us on this rule, and we can't, we can't really go into it deeper. And so, making that leap between what these researchers probably understand, and then effectively communicating all these uncertainties, you know, is really hard. And, you know, science communication is famously not always done in a way that is faithful to the,
+
+22
+00:09:16,880 --> 00:09:44,128
+Maybe what the original intent of the paper authors were, but it's not necessarily because people are doing it maliciously. Yeah, I think in that case, a lot of the blame would probably fall on the science communicator in that respect. Because I think in the cycling world, there are very few who have a true scientific background. And there are a lot.
+
+23
+00:09:44,128 --> 00:10:11,792
+who are armchair scientists. I would actually put myself as one of them probably. But there's also folks who I think, and I think there are a lot of communicators who put too much stock in the scientific literature that is published to be the truth with a capital T.
+
+24
+00:10:11,792 --> 00:10:39,168
+If it's published, it is therefore the absolute truth and unassailable. And so if you have that point of view, you could easily cherry pick two, three, four papers about a certain topic and say, okay, this supports my point when really, I mean, the gold standard is much more in terms of meta-analyses and that's being done a lot more these days because now we can pull stuff from 5, 10, 20, 40 papers and
+
+25
+00:10:39,168 --> 00:11:07,664
+Assuming that they do their analysis correctly would give us a much stronger statistical standpoint to say this probably has an effect, but we see a distribution in the effect sizes of all these papers. I mean, do high intensity intervals, do they improve VO2 max? I mean, pretty resoundingly they do. However, there are definitely some participants and some papers where it's like, no, it doesn't.
+
+26
+00:11:07,664 --> 00:11:36,816
+And you've got to get a broader read with all that stuff. So I would actually say that the people consuming this media are, I think we have to give them a pass. Because I think if the communicators were a little more cautious with either what they communicated, and I always try to do that, or with how they communicate it, I think that the audience would probably be a little more cautious and understanding of
+
+27
+00:11:36,816 --> 00:12:02,240
+the actual purpose of quote-unquote science. Yeah, I mean, yeah, like you don't want to just have people, you know, pulling up PubMed, bashing in like a query, and then pulling up the latest, you know, sorting by date, and then picking the one with the most recent result, and reading that conclusion is like the gold truth. Recency bias! Yeah, yeah, exactly.
+
+28
+00:12:02,240 --> 00:12:31,696
+This preprint supports everything that I'm trying to tell you right now. Yeah, exactly. And also, like you said, if you're just cherry-picking studies, you could be looking for studies that confirm your priors. Whereas, hopefully, if you're doing a meta-analysis and actually trying to draw in as many previous studies as possible, then hopefully you're not cherry-picking the ones that would confirm your bias.
+
+29
+00:12:31,728 --> 00:12:59,296
+Yeah, I think also we need to mention here on the podcast that we are not trying to say that we should just throw out the scientific literature because of the problems. Because in a way, I feel like we are kind of airing out the dirty laundry of science that scientists already know the limitations of these things. They already know that eight people is not a very large value and there's not a lot of statistical power behind that.
+
+30
+00:12:59,296 --> 00:13:28,304
+And I also think that most of the time, if you ask most scientists, how should I take the results of your paper and apply it, I think a lot of them would actually have very, very cautious interpretations of the research that they've done. Because I especially think if you dig into the individual results, like when people publish
+
+31
+00:13:28,304 --> 00:13:56,880
+The individual responses, a lot of the time, well, not a lot of the time, but very frequently, I would say, you would see intervention one, where everybody kind of has kind of like average responses. Some people get better, some people don't. Nothing is really that astounding. In intervention two, you would see like out of like eight or 10 people, you would see three hyper-responders and otherwise it looks the same as the other intervention.
+
+32
+00:13:57,168 --> 00:14:23,952
+and something like that can tell me instead of like okay therefore the average got better for the other intervention maybe I should try this with a couple people who I think might respond like these hyper-responders. That's what I take away from it. It's not that this is superior to this other thing for literally everybody. I mean because I think that that's the nature of the statistical results reporting.
+
+33
+00:14:23,952 --> 00:14:43,984
+in most scientific papers, especially in exercise physiology, where you're looking at average values. And not only that, I think sometimes a lot of us forget, and I've definitely forgotten this at some points too, that the fact that there is variance at all, the fact that there is a standard deviation,
+
+34
+00:14:44,272 --> 00:15:09,664
+Proves to us that there is actual individual variation in the results. And you could even take the same person at the same point and do the same exact training intervention and you will still get a distribution of results, right? Yeah, two things pop out to me there. I agree entirely in terms of the individual response. It's why I think when it comes to
+
+35
+00:15:09,664 --> 00:15:38,864
+a lot of papers trying to assess the impact of a different intervention. There should be an anonymized, you know, basically results by participant one, participant two, so on and so forth. So you can actually see a not, you know, a standard deviation is great, but it's not actually telling you, oh, one person actually really responded well to what we did here and the others are just sort of like my old response. The other part is that a lot of this is going to come down to
+
+36
+00:15:38,864 --> 00:16:07,648
+Who is your target group in terms of where you recruited from? Because not often papers are being done working with groups from quite often cycling federation bodies. So if you think about like the work Medi Cordy did before he went to work for the Dutch was almost entirely done with British track cycling.
+
+37
+00:16:07,648 --> 00:16:34,272
+Squad. Wouldn't you guess that are all going to be very good responders to the work that he was doing? Turns out he knew what he was doing, so it didn't really matter who he was applying it to, but that's a situation in which whatever he went to assess, they were the perfect ones to show the magnitude of a potential effect when someone is predisposed to the effect.
+
+38
+00:16:34,272 --> 00:17:04,031
+But what would happen if you did the same experiment on a bunch of roadies who are like a cat four sort of level, you know, not anything special? I'd argue you'd probably, you know, Meddy obviously has been highly successful and knows what he's doing. He probably gets into their training and does some magic to them. But I'm going to bet that if you were to compare the same paper done in two different populations like that, the statistics,
+
+39
+00:17:04,031 --> 00:17:33,216
+End up being wildly different just on the face of it. Maybe it shows the same sort of general trend, but the actual magnitudes that you're talking about are going to be very different, which is why when it comes to looking at a lot of sports exercise papers, looking up a participant list usually ends up being one of the first things I hunt for. Like, are these people untrained? What do they usually describe it as? Is 12 professional full-time racers?
+
+40
+00:17:33,216 --> 00:17:55,040
+whatever it ends up being. Yeah, for the National Federation, et cetera, et cetera. And that actually brings up another thing that a lot of papers, especially on cyclists, do is that they actually do the intervention early, early, early season. Like after people have been
+
+41
+00:17:55,040 --> 00:18:23,376
+taking their off-season break, and sometimes they've been back on their bike doing low-intensity training for two, three, four weeks, and then they're going to do this training intervention. And that is a point at which everybody is hypersensitive to stimuli. And that's the kind of thing where I think calling that population highly trained is true in one sense, but at the same time, at that point in the season, you're not that well trained.
+
+42
+00:18:23,376 --> 00:18:53,120
+Yeah, or I would moderately trained, something like that. We would have to come up with a better phrase for that. But I see that so, so, so frequently, especially in papers that get bandied about in media or on forums. Oh, this so-and-so's paper says that if you do this, it's way better than this other intervention. And in that niche case, if I've got somebody who's injured or sick, and I've got
+
+43
+00:18:53,120 --> 00:19:18,208
+a month to get them as fit as possible. What I'm going to do is I'm not going to namby-pamby their training. I'm going to go right for Tabatas because what does Tabata do? It increases your VO2 max and it increases your aerobic capacity in people who have not been doing that type of training before or something like that. And that is where you can take
+
+44
+00:19:18,208 --> 00:19:45,552
+a paper like that and say, okay, look, this is probably better than this other thing and it's going to kill two birds with one stone and I can use it here. But when somebody is well-trained in season, that is a whole different kettle of fish, but that's when you hardly ever will get somebody willing to sacrifice, okay, yeah, you can take four weeks of my season in my run-up to the Tour de France and fuck around with me. You're never going to get that happening. So that, even just with amateurs.
+
+45
+00:19:45,552 --> 00:20:09,968
+What amateur? I mean, I know cat fours who would not give up four weeks of their training season before a goal race to go participate in any study ever. Maybe a handful, but it's rare. And so I don't necessarily think that taking a paper like that and applying it everywhere is the...
+
+46
+00:20:09,968 --> 00:20:37,904
+is really the right way to interpret something like that. I mean, and again, I feel bad for, you know, airing out this scientific dirty laundry here, but, and I also don't want to get into the, any kind of anti-establishment, oh, you know, these people in their ivory towers and that kind of shit either. Yeah, yeah, I think, I think some of that too is, is even that step you said about taking the results of a paper and figuring out when
+
+47
+00:20:37,904 --> 00:21:06,608
+Those results are actually useful to you as a coach is a huge step where hopefully if people are listening to good, I don't know, science communicators and things like that, especially for sports science, that's the big leap. No one's like, how do I apply this latest LHC paper to my daily life? Because that's not a real thing. Did you just bring up the Large Hadron Collider in a cycling podcast? Yeah, yeah, yeah. But there's that gap, right?
+
+48
+00:21:06,608 --> 00:21:35,312
+People will just watch, I don't know, a PBS special about the LHC and be, oh, that's really cool, and then move on. They're not like, how does this, unless they're worried about suing it to not start black holes or something. But like, for a lot of exercise and health and wellness things, there's that leap where you have to say, okay, what does this mean? Like the, you think of the, what, five or six years ago? No, more than that now. Seven or eight years ago, there was a study like, oh, like, eating meat that's been charred.
+
+49
+00:21:35,312 --> 00:22:00,224
+increases your cancer risk by, you know, some amount. And then people are freaking out like, oh, like bacon and well, and like crispy burgers and steaks, they're all going to give you cancer or whatever. You're like, well, no, like, sure. And in some like, but you have some basal rate of like your odds of getting cancer. And even if you, and it's relatively low for most people. And so if you say, oh, it increases your cancer of this very specific type of cancer.
+
+50
+00:22:00,224 --> 00:22:29,440
+By a factor of four or something, people are like, oh no, that means like I'm definitely going to get cancer. Like, well, that's probably not true. Yeah, but it's like a factor of like, you know, it starts at like, you know, 1% or like, you know, 1 or 5 in 1,000 or something like that. And so, you know, going up by a factor of four is still, I mean, it's certainly bigger odds, but on an absolute scale, they're pretty low. So it's like if maybe if you're predisposed, that's a thing, but then now you're getting into like individualized medicine.
+
+51
+00:22:29,440 --> 00:22:54,320
+and that's such a big thing these days and I mean just in terms of like cancer genomics which constellation of mutations does your cancer have may very well tell us how best to treat it like that is certainly a thing that happens these days but I think in cycling training to lower the stakes dramatically
+
+52
+00:22:54,320 --> 00:23:22,720
+We don't really have a lot of people out there. There certainly are a bunch out there. But I would say it does not seem to me, who admittedly has not consumed that much cycling media, because most of us every time I turn it on, it annoys me for these reasons. But there are some people out there who do a good job about this kind of stuff. But I think that the statistical nature of this kind of stuff is...
+
+53
+00:23:22,720 --> 00:23:50,928
+It probably needs to get brought more to the fore. And I mean, and this is one of the things where I think, you know, attaching myself to you, Kyle, and your knowledge of math and physics and statistics, like, I mean, it's been incredibly helpful to me just to be like, hey, Kyle, do these make sense? Does this kind of thing make sense? Or, because, I mean, in physics, I think a lot of the time when I
+
+54
+00:23:50,928 --> 00:24:17,296
+first went into physics classes, which by the way, which I took with calculus, both Newtonian and E&M. There was so much error in even what I thought would be a simple measurement. And I was like, oh, it's going to be like 0.00001 as my decimal points. And I'm like, oh my God, I've got like a distribution here for this thing that I think should be like precise.
+
+55
+00:24:17,296 --> 00:24:42,560
+What's going on here? And, you know, precise. And I don't know if it's actually accurate either, but it's, it should be precise and it's not. And that's just physics. Like if you now take a watery sack of recessive traits like us and you run statistics on us, like, like we have got individual responses in freaking like jump height, you know, and what constitutes.
+
+56
+00:24:42,560 --> 00:25:12,240
+An actual measurable change in like jump height or strength or VO2 max or something like that. What's the error of your machines? And I've actually consulted with world tour teams before where they've been like, hey, we're doing this, that, and the other thing, these methodologies. And I'm like, look, your power meters have so much less error than your VO2 max stuff. It's not even close. So which would you rather put your faith in to actually see a real result?
+
+57
+00:25:12,240 --> 00:25:36,208
+from your athletes when you go train them. So all this is to say, Kyle, like the, like how fuzzy do statistics get for us watery sacks of recessive traits compared to something that should be pretty cut and dry like physics, which in reality isn't. Yeah, I mean, I think.
+
+58
+00:25:36,304 --> 00:26:00,096
+How many significant figures would you accept before you're willing to call one of your experiments significant? Yeah. Just to prepare it for the audience. How many sigma? The classic benchmark for like particle physics, if you want to claim to have discovered something as like five sigma, which is one in a million, it's one in a million-ish, close to one in a million that...
+
+59
+00:26:00,096 --> 00:26:29,552
+The result that you got is due to random chance and not due to an actual thing being real. And then you need a six sigma, which is one in, oh no, I don't remember. A sigma is a standard deviation. A standard deviation. So you need a five sigma basically just to get a paper. And like, you'll see people who publish papers based on like three sigma things and they say, oh, we noticed this oddity. And then you'll get a paper like six months later where they've done more work and like, oh, it went away. That was just error. And like a three sigma.
+
+60
+00:26:29,552 --> 00:26:59,552
+Yeah, a three-sigma result in exercise science or pretty much anything in biology would be like, oh, this is a home run. This is the most significant data set that's ever been compiled. And that would be like, you know, like, I think an easy one or an analogy for a lot of people would be like supplements or things like that, right? Where people are always like, some people are really into supplements and think this is the next best thing to totally fix their training.
+
+61
+00:26:59,552 --> 00:27:29,040
+Things Should Be Like Eating and Sleeping But Like What Even Even Like The Most Well-Studied Supplements They're Like Yeah There's Like A Small Tiny Effect Like Caffeine Like Oh Yeah It Turns Out For A Lot Of People Like Caffeine Works But You Can't Even Say That Caffeine Works For Everyone Right Like Some People Just Don't Like It Even That's Probably The Thing It's Like If You're Gonna Make A Short List Of Things That Will Probably Make Your Workouts Go Better Or Races Go Better Like Caffeine Is Pretty Up There And Even That's Just Not A Home Run
+
+62
+00:27:29,040 --> 00:27:58,304
+Or it would make me stop halfway with heart palpitations. Right, yeah, exactly. Or like, yeah, yeah, you end up like, or for some people, they have too much caffeine, you end up like Tom Dumoulin on the side of the road, right? Like, mid-race, where it's like, that's not how, it's no, you've, you've passed the, the point of helping, and now you're hurting again. So, even something as simple as that, where a lot of people probably take it for granted that, you know, you stop on a coffee ride and you feel a lot better, oh, but that doesn't work. Is it the coffee or the carbs? Yeah, yeah, exactly. Or they're just sitting around, resting.
+
+63
+00:27:58,304 --> 00:28:27,456
+And so even something as maybe rock solid as that people think is that is nowhere near as significant as something like physics or astronomy where you get a chance for a lot of things to do many, many, many, many trials, measurements, things like that, where humans, yeah, you can't line up a million. Can you imagine getting a million subjects for a cycling study? Like, that'd be great, but now you've recruited, like, all of the- It's every cyclist in the world. Yeah, exactly. Every one of them.
+
+64
+00:28:27,456 --> 00:28:55,120
+Everyone with an FTP over 220 watts had to be included in this study from everywhere. Which might be interesting because you'd cover a lot of ground in terms of training backgrounds and histories and things like that. So that could be really interesting. You would not want to take a population average there. Yeah. But if you would like to use a working supplement, we are sponsored today by Athletic Greens.
+
+65
+00:28:55,120 --> 00:29:23,904
+No, we are not. Yeah, like – Well, actually, now that you bring it up, I would – I've turned them down. But I actually think that places like that are – they – this is not my phrase, but I've heard it described as they are weaponizing science. Like they are –
+
+66
+00:29:23,904 --> 00:29:48,480
+like they've published a white paper or they've published a paper that is very cherry-picked results most likely or like they'll test their supplement against water and it's like anything versus nothing oh my goodness what are the odds it's better like that's the kind of stuff where you know you you would see a scientific paper and you go wow I don't actually understand how to critique the methodology here so
+
+67
+00:29:48,480 --> 00:30:18,048
+I guess I'm just going to believe it. It got published, right? I mean, but that doesn't even begin to scratch the surface about, like, pay-to-play journals and stuff like that. Yeah, I think at least for things that you would hope would be in a supplement that is, like, basically a fancy multivitamin, at worst, it doesn't do – it does nothing, and at best, maybe it helps a little bit, but – It makes up for deficiencies in the rest of your diet, basically. Yeah. Yeah, like – and, yeah, I guess at worst, it makes your –
+
+68
+00:30:18,048 --> 00:30:47,904
+Wallet lighter, but like you just hope that there's nothing in there that's like actively harming you, which would be the risk that you run for like random things, you know, say if you have to pass drug tests in your sport, that would be the bad one, where like, oh, this is really efficacious, and that's because it's loaded with banned substances, that there are papers, oh, weird, there are papers on like Trenbolone, it's a really effective supplement, it's strange, you know, so I think that too is where,
+
+69
+00:30:47,904 --> 00:31:17,568
+I think supplements are a whole other discussion, but they do lean on a lot of these things like you're talking about, just people wanting to believe this new study or just not being able in their regular consumption of media to be able to figure out why this is a little fishy. Hopefully, people can kind of see that their sales pitches, like every ad that you see sponsored content on social media and stuff like that, it's an ad, right? It's an infomercial. Or you hope it's labeled.
+
+70
+00:31:17,568 --> 00:31:43,936
+Yeah, you hope it's labeled. And so hopefully that gives people some pause, but obviously it doesn't give everyone pause because, you know, these are billion-dollar, billion-dollar industries. I know. It's like, it is genuinely difficult. And I say this as somebody who watches experts debate all the time on topics I don't know anything about in an endeavor to learn more about these things. And I can't tell.
+
+71
+00:31:43,936 --> 00:32:13,888
+who's right or who's wrong. I can tell who presents themselves better. I can tell who I seem to like more as a person or as a debater, but I cannot judge by the substance of their arguments who is correct. And that's when I just go, all right, I'm just going to wait. I'm going to say, I don't know about this thing, and I'm going to wait as long as it takes for people to seem to reach a consensus.
+
+72
+00:32:13,888 --> 00:32:41,184
+As we know in the cycling world, people can seem to reach a consensus about stuff that may not necessarily work for everybody or may actually not work that well at all or may only work in certain circumstances. So maybe that's not even the best way to approach it. But I actually really like the analogy of caffeine because that is something where we've got pretty definitive individual differences.
+
+73
+00:32:41,184 --> 00:33:09,440
+Like if you're going to paint your shorts brown half an hour after you have a caffeine gel, like an hour before the end of the race, and you're like, uh-oh, I got to stop right now. And I just made the selection, but it's going to be dicey. That's where it's very obviously we have individual differences. Like it's cut and dry or potentially wet, depending on what you had to eat, I suppose. Sorry.
+
+74
+00:33:09,440 --> 00:33:38,928
+I think that really gets to one of the core questions here is what role does this have in individualizing a training plan? Like what does the literature tell us about what we should do on the bike on Tuesday? Well, from my perspective, an awful lot of it is informing of here are some things we can try. But just like how we were talking about,
+
+75
+00:33:38,928 --> 00:34:04,416
+the individual response. Just because we're going to try something doesn't mean we're going to stick to it and rely on it to be the thing. We're going to try a bunch of things. One of my athletes is doing some stuff right now and got home from the track today, looked up the data and just like, not ready to do this yet. We're going to do this another time.
+
+76
+00:34:04,416 --> 00:34:33,952
+Because it's just, it's not had the effect that we want immediately. It's not showing anything bad. It's just, oh, there's a better time for us to do this. And so an awful lot of things like that, it's, again, when it comes to coaching, it's about as much as the athletes are individuals, the coaches have to treat them like individuals. And so don't stick to the science because it's the science.
+
+77
+00:34:33,952 --> 00:34:58,240
+because it's not the science. It's the individual. It's the person in front of you. Yeah. So this is... Oh, sorry. Go ahead. So you're saying you shouldn't just, like, ask ChatGBT to generate a training plan. That'd be a fun episode, actually. Ask ChatGBT to generate a training plan for something and then just, you know...
+
+78
+00:34:58,240 --> 00:35:24,048
+make fun of it. We considered doing that when those kinds of things were hot. And then somebody did, and I saw the results, and I was like, there's nothing here. I am not interested in this at all. It's like the easiest roast you've ever done, and it's obvious. And so why do it? And that person can't even fight back because it's a bunch of ones and zeros. I do not feel bad about that one.
+
+79
+00:35:25,616 --> 00:35:54,976
+I don't care if ChatGPT fights back or not. I will fight ChatGPT. Well, I think this is one of the things that we've really kind of skirted around on the podcast many times. Like Kyle, way back in the day when 10 Minute Tips episodes were actually 10 minutes long. I don't remember that. You did a paper on, you did a podcast on like interpreting a scientific paper. And you did one on spotting bro science.
+
+80
+00:35:54,976 --> 00:36:24,480
+and Scientific Bullshit. I mean, that was way back in the day. But I think more recently we've done stuff like Rory, you and I did one on how to try new training methods. And this was getting at that topic of individualization because the gist of it was you've got to standardize where you're at now and look for what metrics you expect to improve.
+
+81
+00:36:24,480 --> 00:36:53,072
+and find a reliable method to see that they actually do improve. And like if you see, okay, my threshold went up five watts and your threshold's 300 watts, like you're not really out of the woods of your power meter's error range yet. And so you cannot really say, I've got a statistical difference here. It's statistically the same. And I've told people that many times when they hit a new 20-minute PR and they're like, yay, new power by two watts. And I'm like, give or take.
+
+82
+00:36:53,072 --> 00:37:22,656
+Ish. Let's call it the same. So I think, yeah, the underlying thing here is that the individual is not the average. This is the fallacy of division. And what's the Wikipedia example is like some Mrs. Smith's second grade class on average likes cake, but like, but Timmy over here, he's a pie kind of guy. He's not a cake guy. And so you cannot actually say that everybody
+
+83
+00:37:22,656 --> 00:37:51,216
+Likes Cake. And the same kind of goes for, you know, the individual training response, because it's not just about your physiology, it's also about how well are you recovering, how's your diet, how's your stress levels, like, and these kinds of things all go in the same bucket, and they get all mixed up. And now we've got to figure out how do we get you the fastest we can. But that's not in the scientific literature. No, I think...
+
+84
+00:37:51,216 --> 00:38:17,808
+I think some of it too is that, yeah, with the fallacy of division, even if you're ignoring that, a lot of times you'll see a result, a paper come out like, oh, a majority of participants or a plurality of participants saw positive things, but that's even worse, right? I've actually never seen that language in an exercise science.
+
+85
+00:38:17,808 --> 00:38:42,304
+Well, I'm just like, oh, like, you know, if you're like, oh, on average, these people, this people, these people saw this improvement or whatever, but like, there's a chance that, you know, that average improvement that you saw, like you said earlier, might have outliers where they're, that average could be severely dragged up or dragged down by people who didn't see any improvement or didn't see any change. And so that makes your...
+
+86
+00:38:42,304 --> 00:39:09,808
+your fallacy of division even worse. Because on average, yeah, everyone likes cake, but there could be someone who's allergic to cake in your class. It's not even just that you can't draw that conclusion. It's that you, like Rory said, looking at the actual individual participant list is important because even more so beyond a standard deviation, there can be, a standard deviation a lot of times assumes that the results are normally distributed, so they follow a Gaussian, which may not be true.
+
+87
+00:39:09,808 --> 00:39:26,112
+There are lots of things, you know, eventually if you throw enough data, sure a lot of things kind of look Gaussian and you squint and go, I like that it's Gaussian because that's easy to understand and that's easy to model and calculate, but it may not actually be Gaussian and you may just be kidding yourself because you don't have enough data to see that it's actually not normally distributed.
+
+88
+00:39:26,112 --> 00:39:55,360
+And the same thing happens with linear regressions. You assume that the data is linear, but if you add more data at the high end, it actually may be like logarithmic or something like that. Or maybe like, you know, natural log or something like that. Rory, you look like you're bursting with thoughts. Yeah, I'm remembering when we did the, was it the HIF1 alpha episode? That paper that you... The hypoxia inducible factor.
+
+89
+00:39:55,360 --> 00:40:24,704
+Heif. Yes, heif. Why do you pronounce these horrible things? Heif, one alpha, sorry. Even worse. The paper that we had to look at in that, there's a chart in that study where it's showing the difference in the training intervention between bout one and bout nine, where about is a session, not an interval.
+
+90
+00:40:24,704 --> 00:40:49,408
+basically the activation of particular pathways and it shows by individual in the study how it changes and you can see the people that like really respond to it the first time and then again like what's the impact in the knife bout what's the difference in distribution of those same people and that's kind of the thing that
+
+91
+00:40:49,408 --> 00:41:11,088
+I think you'd want to be able to see for a lot of these papers is if you're doing any sort of assessment like this what's the reason not to go into a wee bit more detail about the difference in spread from the science side of things I worry
+
+92
+00:41:11,088 --> 00:41:40,544
+as someone whose main job is trying to help people do science better. I worry that the reason they don't do this is because it would weaken the perceived impact of a paper to show the individual variation and how, oh, actually, the thing we found is extremely significant for these three people and moderately significant, but not enough to pass a p-value for these other seven.
+
+93
+00:41:40,544 --> 00:42:09,200
+and again that's just getting into the weeds in terms of like how these papers end up having to get structured and published as it's a brutal field amid a lot of brutal fields but I think for science to actually be better and this is across every field of science more transparency around the data that's being collected is necessary and an exercise that really has to be
+
+94
+00:42:09,200 --> 00:42:37,808
+One of the big ways is show what happened to every participant. Show me what happened to the people in the control. You told them to go write Zone 2 for 12 hours a week for six weeks. Okay, I'd love to see what happened to them as well. But yeah, if people want to go back and find that paper from the HIF One Alpha episode, it's figure five. Wattstock 50, I think. Yeah. I think
+
+95
+00:42:37,808 --> 00:42:54,192
+That brings up a good point. You should want to show people all of your data. I've been really negligent pushing this paper for work over the finish line, but you're like, we're actually struggling where...
+
+96
+00:42:54,192 --> 00:43:18,672
+We want to include so many plots, but you don't want to have so many plots that it's basically just a wall of plots with a little bit of text. It sounds like two publications to me. Yeah. Well, it's actually a follow-up to another one, so it's already two publications. But yeah, you should want to show off your data. And I remember there was famously some famous sports science person on Twitter who like...
+
+97
+00:43:18,672 --> 00:43:48,384
+blocked me because I asked about some plot and then was told to buy the book if I wanted to see the data. Oh, oh, I, you've got a screenshot of these tweets and I actually want to put that in the show notes for this episode because it was so fucking hilarious because he puts up a plot of like three individual points and he, like I was saying earlier, he connects them linearly because you assume it's linear, but you're like, what if you had more data and you drew a sine wave?
+
+98
+00:43:48,384 --> 00:44:11,840
+threw all three points, and we were like, this works too. Yeah. Yeah, and it's like, but telling people, like, it's, you're doing a disservice to science if you're saying, buy my book, to, in order to see more of the data. Like, the, you know, there's famously, I think, Joel Seidman on Instagram. Oh, Joel Seidman, definitely. Like, if his book were like,
+
+99
+00:44:11,840 --> 00:44:40,144
+20 bucks. I would have bought it and read it and been like, all right, next. But it's like- It's like $300. Yeah, it's like 300 bucks for like 600 probably very large text pages. And I'm like, something like that. And I'm like, you know what? No, I just based on what I've heard from him in interviews, I already know that like his underlying understanding of the physiology here is by all other data incorrect. So I'm just going to ignore it. But yeah, like-
+
+100
+00:44:40,144 --> 00:45:08,400
+If you have to paywall your paper, and to be fair, lots of scientific journals, Elsevier, are looking at you, like paywall a lot of papers behind things because that's their business model is that they charge you for access and things like that. But if you're the author, like a lot of times, even if you've published your paper with a certain journal, that doesn't stop you from sharing that paper with people. And so if you're like, no, no, no, you either have to pay the publishing company or you have to pay me, you know, like that's not...
+
+101
+00:45:08,400 --> 00:45:31,456
+That's definitely not usually how it goes. And authors want their papers out. So if you email authors, if it's not on their research gate, just email them. And there's a 99.9, there's a three sigma chance that they will send it to you. Yeah. Or just go on Sci-Hub. Or just...
+
+102
+00:45:31,456 --> 00:46:01,280
+CyHub is illegal, Rory. We cannot condone CyHub. That is not the kind of behavior that we would ever condone is to go to sci-hub.se. There's no way that we would recommend that to find scientific papers. Or any proxies that get your own. Yeah, I wouldn't want to recommend that. And if you put in a DOI into CyHub, there's a very good chance that you would get that paper. And we don't want to recommend that kind of thing because these publishing places, look, they
+
+103
+00:46:01,280 --> 00:46:23,840
+need their billions. Yeah, like, I want to point out something, actually, this is mildly a tangent, but I was talking to a friend the other day, and I guess he did not realize that when, that scientists pay the journal to publish in the journal, and then the journal charges people for access, but that...
+
+104
+00:46:23,840 --> 00:46:49,376
+Money does not make it back to the scientists for publishing that paper. It just goes straight to the publisher. Yeah, there's no publishing royalties. Yeah, you don't get a check because you got 10,000 citations so people had to look at this paper. You get exactly zero. You get a CV line. You're like, cool, maybe that helps me with my next promotion. But it doesn't actually get you. There's no monetary gain for the scientist. I can see that being a potential conflict of interest and ethical issue for sure.
+
+105
+00:46:49,376 --> 00:47:16,704
+Yeah, but just for people who think, oh, maybe the reason they're charging you access is because we get paid on the back end. No, no, no. No one who did the science is getting paid, aside from presumably they're hopefully collecting a salary. Right, yeah. So it's not like when you buy a Stephen King book, Stephen King gets like a dollar or something like that. Yes, exactly. It's not like that at all. Right, okay. After this podcast ends its recording, I'll tell you the story.
+
+106
+00:47:16,704 --> 00:47:42,528
+Cannot wait to hear this one. All right, moving on. Actually, I was just thinking that one of the things I really appreciate about all the papers, or most of them, as far as I recall, that I've seen from Bent Ronstadt have actually had the individual responses. And I really appreciate that. I also appreciate every other paper that puts a bunch of stuff in the supplementary tables because
+
+107
+00:47:42,528 --> 00:48:09,536
+When I'm reading a paper and there are supplementary tables, I download them and I look at them. And oftentimes, they have information that I personally want to see because as I'm reading the paper, I'm thinking, this is a problem, here's a confounder, what about this? And they will address it in the supplementary stuff, but it's not necessarily in their main stuff. And that can also help. And that's a thing that also, it's...
+
+108
+00:48:09,536 --> 00:48:38,512
+It makes it harder because you've got to open up another thing. Sometimes you just get a giant CSV file and you've got to make your own tables from it if you need to. I've done that many times. So it can be a pain in the ass to really dig into these papers to evaluate them. But I was also reminded of probably in 2015 or 16 or something like that, I was watching a talk from a coach.
+
+109
+00:48:38,512 --> 00:49:08,144
+who I believe had also done a bunch of scientific research. And he was saying on the individual responses, I think he put up a picture, like a graph of these individual responses where like most people go nowhere, a couple people go down and one person has this massive response. And he was like, look, for the people I'm coaching, I want to know if I've got the person who's going to have a massive response even if nobody else does. I want to find out who it is.
+
+110
+00:49:08,144 --> 00:49:35,808
+and I want to do this with them. And I thought that that was actually a really, really good and practical view of that kind of thing because I think a lot of the time we lose the forest for the trees with this stuff because when you get a statistical average on a population because this is how most papers act. You have an average, you're looking for statistical differences and granted while there are
+
+111
+00:49:35,808 --> 00:50:05,712
+A handful of papers out there are looking for individual responses as their focus, and there are some study designs that look at individual responses. For the most part, we're looking at populations. And so if you want to say in this time of year, at this time, this population may do this better, okay, you can try it, but it's just a starting place. It does not necessarily mean that everybody, if you're working with 20 people,
+
+112
+00:50:06,032 --> 00:50:34,096
+Odds are half the people are going to have the response you expect, and the odds are half of them are not. And it's not their fault that they're not having a good response. It's your job to work with them and figure that one out, I would argue. I was going to make a joke there that, you know, the odds of anything happening are 50-50. It either happens or it doesn't. Oh, no. Oh, my God.
+
+113
+00:50:34,672 --> 00:50:55,952
+Are you quoting one of my exes? They're either a responder or they're not. One of my exes had that philosophy. Either something happens or it doesn't. It's 50-50. And I'm like, no, just because it's binary, it's not 50-50. She would not be convinced. And anyway, so I think there's another.
+
+114
+00:50:55,952 --> 00:51:25,328
+Bias that we need to consider with all this stuff too, especially when it comes to individualizing and not relying on population averages and stuff, which is that when people have a thing that works for them, and I see this on forums all the time, oh, don't worry about thing X because it works fine for me. That does not necessarily follow that it will work for everybody.
+
+115
+00:51:25,328 --> 00:51:53,232
+and I wanted to avoid this but I think this is probably the best example is using the RAM test to find your FTP. You guys are both smirking because you know where this is going. So I've seen a lot of people saying that it's like in this narrow range it's like 70 whatever to something percent like 70 to let's just say like 70 to 80 percent to give it a nice generous wide range.
+
+116
+00:51:53,360 --> 00:52:22,960
+There's a paper that we looked at a long time ago from Adamian colleagues where they looked at different ramp rates and they figured out that different ramp rates will lead to different power outputs at the end of the ramp test, which has led to me ever since saying, because that was a well-done study, I was like, look, this is pretty universal.
+
+117
+00:52:22,960 --> 00:52:52,384
+It means that we can fairly confidently say there's really no such thing as quote-unquote VO2 max power because as soon as you get over threshold, you have both an aerobic and an anaerobic contribution. And that paper was looking at your anaerobic capacity has a very large influence on this. And so basically, if you use the basic Minotin-Sherrer critical power model, you would find that if you input somebody's critical power and input their anaerobic capacity, you can actually predict within
+
+118
+00:52:52,384 --> 00:53:19,568
+You can fairly well predict where they're going to end up in a ramp test. And besides that, knowing the range of human physiology in terms of where FTP occurs as a percentage of just VO2 max, I mean, it's like 55%, 60% all the way up to like 85%, maybe 90%.
+
+119
+00:53:20,336 --> 00:53:47,968
+and if you add this plus anaerobic capacity into the mix you could easily get a range of somebody's FTP and a RAM test being anywhere from like 55-60% all the way up to like 80 or even 90% for like a triathlete who has no muscle mass and no top end power and it's also one of those things where if you have one data point if you think this thing is universal if you have one reliable data point
+
+120
+00:53:47,968 --> 00:54:12,224
+that is not included in the range where this thing is supposed to work, at least to me, it's invalid and I don't want to use it because that's not my standard. My standard is I need this to work for everybody the first time. Wasn't there an old legend or something that Mark Cavendish famously when he was younger almost got kicked off?
+
+121
+00:54:12,224 --> 00:54:37,408
+the national team because he was just not good at ramp tests or something like that. No, I don't remember that one. I do remember, I think it was him who actually never wanted to get his VO2 max tested. Actually, this was the thing in cyclists for a long time when people thought you could not raise your VO2 max. They didn't want to get it tested because they were like, it's going to be a death sentence if it's not that good. And we know now that that's depending on how you want to read the literature.
+
+122
+00:54:37,408 --> 00:55:06,816
+to go back to the interpretation thing, it may not be the best predictor of performance. And certainly there have been a lot of cross-country skiers blowing like a 90 plus VO2 max who get into a road race and just cannot perform because they just don't have the endurance. VO2 max be damned. So anyway, that was my little rant on the ramp test. But I mean, am I totally off base, guys? Or am I?
+
+123
+00:55:06,816 --> 00:55:35,344
+Close, Ballpark? I think you're right. The example I'd probably give is do your view to max end intervals at 115% at FTP, which I know for, I think all three of us would not work. We would be breathing through our noses. For some people, to be clear to anyone that doesn't know, that's because the three of us are all
+
+124
+00:55:35,344 --> 00:56:05,328
+I'm quite anaerobically strong compared to, well, these two are track runners and I'm just not very good aerobically. But... To be fair... No, come on, I'm also not good aerobically. Yeah, that's fair. But, like, I know that, I don't know what Kyle does, I know that Cole and I, when we're really getting hard into VO2 max, we
+
+125
+00:56:05,328 --> 00:56:32,784
+for the freezing. We end up at 150, 160% of FTP. And I know there are people on my roster who are so much better cyclists than me that couldn't do that. And that's not because of an ability thing. That's who you are as a cyclist thing. It's your physiology, your individual physiology. Yeah.
+
+126
+00:56:32,784 --> 00:57:01,648
+There's probably a paper out there that makes people do intervals at 115% and then says, oh, actually, it's not as good as this other way of training. It's like, okay, but, you know. Is that because the other method actually has people going appropriately hard? Possibly? Possibly. But this is, to route us back onto the side of it, this is part of one of those limitations in terms of how studies get designed is often the sort of
+
+127
+00:57:02,192 --> 00:57:30,368
+The long road of athlete assessment and then grouping of athletes to allow you to do an experiment like that is somewhere between impractical and would be seen as trying to falsify data just due to how the field can sometimes be because if you were trying to prioritise here's a group of super responders and here's a group of non-responders let's see what happens and you know what happens
+
+128
+00:57:30,368 --> 00:57:57,568
+So yeah, like there's a lot of, as we've said, limitations in terms of how these can be done. But when it comes to the application to yourself, I don't think that necessarily means don't give this thing a try. Like if influencer A, B and C have all decided to pick on this paper, then yeah, sure, go try it. But like, understand, go look at the paper yourself, try and work out how they assess.
+
+129
+00:57:57,568 --> 00:58:26,576
+How the intervention worked. And then actually look at it yourself. If there's a change, great. It might have worked for you. Maybe it's something you can keep doing. If there's not, then go and try something different. Like don't lock yourself into the science because that's seen as some agreed upon thing. I can't tell you the number of people I've started working with who went all in unpolarized and saw no better results.
+
+130
+00:58:26,576 --> 00:58:55,232
+than they had previously. And in some cases, we're actually going backwards. And they were like, it's going to get better at some point. I'm like, it clearly has not. It's been six months, a year of endurance rides, racing, and three and four by eights, and you've gotten nowhere. And if it worked, I'd be like, great, let's definitely keep some of these elements in.
+
+131
+00:58:55,232 --> 00:59:24,464
+A lot of the time it's just either like you see a short improvement and then it plateaus quickly or it doesn't do you any good beyond where you already are. And I think that that's actually one of the things that some of our clients will occasionally come to us thinking that they're going to get a different experience than they do. Like thinking, because I've, I cannot tell you the number of times people say, I want to know why I'm doing these workouts as if I'm going to.
+
+132
+00:59:24,880 --> 00:59:54,000
+every workout be like, look at this paper. This is the protocol we're doing. I mean, if it doesn't really work like that. Like the scientific literature informs my understanding of physiology. And then once you add that up to my coaching experience and you as an individual and your limitations and your preferences, now we've got a training plan.
+
+133
+00:59:54,608 --> 01:00:13,312
+Saying that one thing is going to work for everybody is really, or thinking, okay, every single thing has scientific basis, that's really not the reality of how the coaching works. Can you imagine if you had to...
+
+134
+01:00:13,312 --> 01:00:38,128
+had to have like 10 people try every single workout that you've ever thought like, oh, so we did 5x5, but now we're going to do 4x8. You run a whole separate study where people do 4x8 for VO2 instead of 5x5. You're like, just why? Like, you know, the part of it, and we talk about this too, like you're training in zones and not like trying to nail a power to like a watt or something like that because things are...
+
+135
+01:00:38,288 --> 01:01:07,568
+There are other underlying assumptions that go into it saying these things are close enough that you can call them the same for the purposes of intervals, at least, as far as your training is concerned. Yeah, for sure. And even your understanding of physiology. I mean, just because I am not the biggest fan of critical power does not mean that I can't read a critical power paper and understand its implications in terms of physiology. Just because I think that the concept has a lot of limitations in how it's applied and used.
+
+136
+01:01:07,568 --> 01:01:35,920
+does not necessarily mean that I don't understand the limitations in how to take a paper using it and have a good application or improve my understanding of physiology. I mean, but even then, when it comes to things that are totally new to me, I go right to the scientific literature. Like if somebody's got a thing that's going on and they're like, I need to do this. And I'm like, the first thing I go to is, is there a published protocol that we can start with?
+
+137
+01:01:35,920 --> 01:02:05,104
+And we can start there, sure. Like if somebody's got, I can't even think of an example. But I've done this recently several times where somebody's like, I want to do this. I have this problem. My PT says do this or whoever says do this. And where do I start? And I'm like, I don't know. Let's go find it. And then we're going to find what they find works for most people. And we're going to start there, but then we're going to adjust.
+
+138
+01:02:05,104 --> 01:02:34,336
+And that adjustment is an absolutely critical part of what I think we might call evidence-based practice. I know this is a big buzzword in the strength training world right now is being evidence-based, but I want to ask you two, how would you define evidence-based training or coaching? I think it's got to be...
+
+139
+01:02:34,336 --> 01:02:59,072
+Basically what I said about 10 minutes ago of try things, do they work? If so, there's your evidence. If not, that's also your evidence. It's just, I don't want to say it's fuck around and find out, but it is kind of fuck around and find out. I can entirely see a scenario where
+
+140
+01:02:59,072 --> 01:03:24,608
+You have an athlete who you give a bunch of anaerobic capacity stuff to and it just doesn't do anything for them because they don't have the ability to adapt in that way. Or they're already tapped out on their adaptations. Or they're already tapped out. That would be an example where evidence-based coaching would be not giving them more anaerobic capacity. The evidence is that this shit ain't working. Yeah.
+
+141
+01:03:24,608 --> 01:03:52,256
+And that's kind of what it is. I think the trap that a lot of athletes fall into when it comes to training, and I think that some coaches can maybe fall into is you've got one route and you're taking it and you're not willing to stray off that route a little bit. And often the variation in itself can be just as much of a boon, not least for
+
+142
+01:03:52,256 --> 01:04:22,160
+your attention span and staying engaged with it but also maybe you just need to try something a little bit different than we did last time around like why is it not responding as much as last time and well it did work the first time why is it not doing it again and trying to peel out you know what can we do a little differently to try and get a similar response from when this did work because it's not necessarily that what you're doing is wrong it's just that circumstances have changed
+
+143
+01:04:22,160 --> 01:04:42,624
+The whole reason we do this is to get better, but the trouble is that once you get better, you need a bit more. But what do you need more of? Biceps. I would say it's definitely not completely fuck around and find out because you're hopefully starting from a slightly informed place. You're not just drawing.
+
+144
+01:04:42,624 --> 01:05:11,216
+Random number-generated workouts. It's not like I'm going to go do squats and see if it improves my FTP even though I've been training hard for 10 years. Like, it's like, we know that, okay, that's probably not going to work. And in fact, I wouldn't even recommend that anybody even try it. So like, yeah. But also using, like, hopefully, you know, when you're younger, you don't have as much previous experience to draw upon just in life generally, but especially for newer coaches or whatever, yeah. Like, they're maybe most.
+
+145
+01:05:11,216 --> 01:05:39,808
+familiar with experimenting on themselves, which I think, you know, Kolie talks about doing that all the time, where you like actually see, before you give it to other people, you're like, you want to see if this, if how this feels, we have some idea, right? So that would be one way to assist someone's sort of evidence-based practice, evidence-based coaching is at least get that anecdata of one, which is yourself and maybe your friend who you can cajole into joining you for some torturous, like.
+
+146
+01:05:39,808 --> 01:06:09,488
+Turbo Session or something. Yeah, I mean, because your evidence is that you're always running an N equals one study. Yeah. I mean, and this is one of the things that I also use those individual distributions for, like, you know, for looking at agreement, individual agreement between, like, let's say, critical power and MLSS or something like that. I've seen a bunch of, like, Bland-Altman plots. And some people will be, like, right on the money, but there's some people where it's going to be 30 or 40 watts off.
+
+147
+01:06:09,488 --> 01:06:37,952
+Probably, on average, we're looking at the same thing. But individually, these things can certainly be very different. And that's one of the N equals one stuff that I think everybody should be aware of. But also, I think one of the other things that the scientific literature is absolutely amazing for is showing us what doesn't work. I mean, just because there's an absolute dearth of papers that are published.
+
+148
+01:06:37,952 --> 01:07:04,528
+with alpha greater than 0.05 does not necessarily mean that we can't better or more elucidate our understanding of how the underlying black box is actually put together. Because I think a lot of the time when people ask me, should I do X or whatever, my first thought is,
+
+149
+01:07:04,944 --> 01:07:34,864
+I think sometimes though, and this is a problem within science generally, is like you can get people who are maybe less
+
+150
+01:07:34,864 --> 01:08:03,920
+Enthusiastic about publishing a paper that yields a null result just because that's not flashy. Can we massage these statistics a little bit? I need a result, please. Yeah, and at best, you're just worried that it won't get accepted because people will be like, well, this is nothing. And at worst, you're like, yeah, going out of your way to manipulate the statistics in some way so you can get something that says, oh, there's maybe something there. And obviously, you hope that this is not just...
+
+151
+01:08:03,920 --> 01:08:32,112
+in exercise sciences all over because of the sort of publish or perish type mentality and reality really in a lot of scientific fields. But the people theoretically should not be afraid to publish a null result and say, oh, this didn't work. We thought it might and it turns out it doesn't. Okay, you know, we'll come back and try something else. Yeah, for sure. And the study setup matters a lot too. Like if you have
+
+152
+01:08:32,112 --> 01:09:01,631
+If you do a study and you're like, oh, we got a result that we don't, okay, this, we got a, we, we don't, what is it? We actually have to accept our null hypothesis here, that there's no effect. But we saw this other interesting thing. And I, I have, I'm not going to name names, but I have definitely heard of people who will totally turn their paper upside down.
+
+153
+01:09:01,631 --> 01:09:31,551
+Based on this other thing having a significant result, rather than the appropriate way of doing a new study on this thing. I was hanging out with some friends in epidemiology recently, and one guy was absolutely appalled that he knew somebody who was running regressions on things that were not the hypothesis being tested on this population, just fishing for something to publish.
+
+154
+01:09:31,551 --> 01:09:59,856
+and I was like I in a way cannot believe that this happens but also in a way I totally understand how this happens unfortunately. That is an occasional worry I've heard from within the university especially when I was doing my PhD over not letting your full data set go out there because there are people who try to grab it and then just analyze it so they can publish on your data set before you.
+
+155
+01:09:59,856 --> 01:10:28,224
+So that's definitely something people worry about. Just to bring up the null results stuff, so the lab sustainability stuff that I do at the university, one of the things that we try to really impress on people working in those labs is discussion of null results, because the reality is that unfortunately, as Kyle's alluded to, a lot of the time.
+
+156
+01:10:28,224 --> 01:10:56,640
+you're never going to be able to publish them and it's not because the data is necessarily bad it's just that your data didn't show anything and so a lot of trying to develop people as scientists is just to get them to talk about them not necessarily to publish them from the stuff I do it is mainly can you get them to just talk about it in their lab group because ultimately becoming a better scientist is about trying to
+
+157
+01:10:56,640 --> 01:11:24,560
+and Becoming a More Sustainable Scientist is about trying to maximize how much you get out of one experiment because the most sustainable experiment you can do is one you don't have to do. But also, it would probably be difficult, but I could absolutely see conferences setting themselves up in such a way to allow for this, but to have a session on talking about failure.
+
+158
+01:11:24,560 --> 01:11:50,144
+and talking about the things that didn't work, the flaws you found in design. And for some fields that would be more valuable than others. I'm going to guess that the shit Kyle does with balloons is probably so very well thought out that they're modelling all the potential error out of their experiments as much as they can. But within something like sports physiology...
+
+159
+01:11:50,144 --> 01:12:16,320
+There's an awful lot of sources for error. As we've discussed, there's an awful lot of ways in which I've definitely seen papers massage their statistics, highly zoomed in graphs with a very truncated X and Y axis with a very scrupulous line drawn through. So the scale looks like, wow, that's huge visually. And then if you zoom out to an appropriate scale, you're like, I can barely tell that it's a difference.
+
+160
+01:12:16,320 --> 01:12:38,704
+Yeah, and that's the sort of thing that we need to train people better as scientists to do. That's unfortunately my job. We need more Rory's. Oh, you don't need more Rory's. I think that that is maybe to where people get worried that
+
+161
+01:12:38,704 --> 01:13:01,584
+the famous cases of people manipulating data and things like that mean that it's like extremely pervasive and just just say it's generally not like most people don't get into science because they think they're going to win a Nobel Prize or they think that they're going to you know make a million dollars or a billion dollars because of some massive finding that they get once and then you know so lest you think that like
+
+162
+01:13:01,584 --> 01:13:29,872
+This is common, that everyone's always like, oh, what if I just throw out two or three more data points from this set to get this line to really show a much bigger result than it actually does? It's not super common, but it is something that if you are, especially if you're an early career scientist, you may be looking for that thing to make your name and to get well-known, and then that may be the thing that gets you tenure or something like that. And so that's where that pressure comes from, probably. It's not because they think that they're...
+
+163
+01:13:29,872 --> 01:13:59,312
+going to turn this into some multi-million dollar sports supplement company or something like that. I mean, some people probably are, but like they're the minority. I remember back in the day I was reading a chemistry blog back when I was in school and I loved this chemistry blog. Actually, you guys have probably read it. I think it was Brian something. Very, very entertaining writing on chemistry. But he had an idea of there should be a journal of failed reactions.
+
+164
+01:13:59,312 --> 01:14:25,696
+just to save everybody some time in chemistry. And I wouldn't even have thought of it, but these days when I'm on the turbo, I'm playing Skyrim. And when you're doing the alchemy stuff, if you put together a couple ingredients that don't make a potion, they gray themselves out. If you select this one, it'll gray out the other two that you've tried before and it made nothing.
+
+165
+01:14:25,696 --> 01:14:52,736
+So you've actually got your own journal of failed reactions in that game, which I'm like, why does a video game have this better than actual science? But maybe a hair off topic, but not really. Do either of you think that exercise physiology is ever going to face a replication crisis at any point? I mean, already will.
+
+166
+01:14:52,736 --> 01:15:20,016
+So again, this is one of those things that overlaps quite heavily with my work. And we refer to it more as a reproducibility crisis. That being that if you were to have multiple labs run the same experiment, you would not get the same results every single time, which is a huge problem across all of science, to be clear, not just exercise physiology. But it's essentially one of...
+
+167
+01:15:21,008 --> 01:15:46,528
+methodology not being written down in such a way as to be absolutely replicable but also the problem in something like sports physiology is like it's kind of a not a comedy of errors because that's a bit harsh but there's too many sources of error to allow you to be 100% replicable like we joked earlier about oh get a study with a million participants you could if you could get
+
+168
+01:15:46,528 --> 01:16:14,160
+2 million participants so you can repeat the experiment, then you would probably start to see more replicable results because your sample size is just way too large and so a lot of the actual detail get lost. But yeah, there's absolutely a reproducibility crisis within science and it's something like an estimated 60 to 70% of
+
+169
+01:16:14,160 --> 01:16:38,144
+Papers are not reproducible. Like, it's enormous. It's bad. Yeah, I think some of it, too, is to give people the benefit of the doubt, it could be just their shitty writers, which is very common in science. Like, you know, Rory's probably seen this. You review a paper and you're like, this is...
+
+170
+01:16:38,144 --> 01:17:05,120
+An interesting way that they've written these things down. Kyle, are you a reviewer, too? Yeah. No, but it's just sometimes, and then other times, hopefully, you're like, yeah, this seems like a good result, but, like, if you could go back and, like, actually include the extra data or more details here, XYZ, like, that would be super, that would actually be helpful and be something that I'd want to read even more. Not that you don't want to read it from the start, but you're like, this would be more illuminating or things like that. And, you know, the...
+
+171
+01:17:05,120 --> 01:17:34,256
+So I like to give people the benefit of the doubt that they're not trying to be cagey because they did some sort of, you know, less than above board manipulation of things. So yeah, I think in physics, we get away with a lot of large ends because these systems are easier to build and easier to do. How many collisions do you get in the LHC per second? A lot, right? It's a bunch.
+
+172
+01:17:34,256 --> 01:18:04,224
+In astrophysics and cosmology, sometimes you chalk it up to something we call cosmic variance, which is that you have one universe to measure. You don't get another one. There's no reproducibility. You can't just have another universe. There's very low reproducibility. Maybe that's part of the 70%. That is somewhat different than being like, oh, I ran this study with 10 cyclists, and then this other lab down the street, I can't reproduce it at all.
+
+173
+01:18:04,224 --> 01:18:32,880
+Yeah. And the reproduction doesn't get published as often as it should either when people do actually do it. Unless there's like, unless it's something, I've seen it happen actually in like Cell Bio where somebody says, oh, if you do X, Y, Z, then you should get blah, blah, blah. And people will try it because they're like, this could be really useful. So they spend their next two weeks setting up that experiment. They do it and they're like, we got nothing.
+
+174
+01:18:33,104 --> 01:19:00,368
+and then they email the guys down the street did you guys nothing okay what about her life okay nothing okay cool now all right now we got a problem and that's the kind of thing where occasionally a study will get retracted but like it's I think you're right though it's not as there's not a lot of actually not a lot of bad actors in science because this is the thing where we definitely want to caution to not like throw out the baby with the bathwater like
+
+175
+01:19:00,432 --> 01:19:26,160
+I never thought I would use that phrase ever in my entire life, by the way. Here I am, though. So there are, just because we're airing the dirty laundry here does not necessarily mean that all science should be suspect, but we should definitely be cautious about how firm in our convictions we are. And I've certainly over-interpreted, I would say, by maybe 5% or 10% occasionally.
+
+176
+01:19:26,160 --> 01:19:54,816
+Um, but for the most part, I, you know, we should be careful with this stuff. And I've gotten into actual arguments with people, uh, in real life and online about, oh, people think that this should be an easy answer. And I'm like, there's not. And no matter how many times you tell me it's simple, just don't tell this person it depends. And I'm like, no, let me tell you what it depends on. They're like, no, I still think it's simple. Well, that's great for you. Um, but I'm not going to do that.
+
+177
+01:19:54,816 --> 01:20:22,752
+And actually, to your point about reproducible methods, nobody wants me to review shit. But when people send me their papers before they submit it for publication to say, what do you spot here that I could do better? A lot of the time, I mean, I read papers like you do, Kyle. I go right to the methods first if I'm aware of the background. And I'm reading it for, can I reproduce this exactly?
+
+178
+01:20:22,752 --> 01:20:44,976
+And if I don't even see the version of software somebody's put in, put in your version of R or whatever it is that you're doing so people know, oh, there's a bug here? Okay, well, we know that we should probably rerun these stats and find out if there's actually a statistical whatever. So just on the point of...
+
+179
+01:20:44,976 --> 01:21:14,640
+getting people to talk about null results as we were talking a moment ago. There is actually a journal of trial and error. I've known about it for 30 seconds. But from reading through it is kind of exactly the thing that I would want a lot of the early career researchers that are just starting out to be aware of and feel like they can contribute to. And yeah, that ability to
+
+180
+01:21:14,640 --> 01:21:42,144
+Talk about the flaws, not just in the research, but like the actual method of being a researcher, not the experiments, like the actual job itself is a valuable one. So any scientist that listen, I recommend you check it out. It looks like there's some interesting stuff. Yeah, I mean, I used to frequent the biochem and the lab rat subreddits all the time. I hardly ever post it, if ever, but a lot of it was, I'm not getting...
+
+181
+01:21:42,144 --> 01:22:09,424
+this result that I should be. Like, what is wrong with my technique? And that was a big thing, too. Like, the human error side of things. And not only that, but like, once you start stacking error, like, what is my error on my pipette? You know, is this actually 50 microliters? Or is it like, could it be 50.5? And how much does that affect my calculation? Like, these things propagate a lot.
+
+182
+01:22:09,424 --> 01:22:37,792
+And I know that's something that you do in physics all the time is like error propagation. Yeah, I think that gets beat into people pretty hard in like their intro mechanics classes and things like that. So I think people grow to hate it because first off, it can be very tedious. You're like, well, I got this result and I just took the average. Like, why do I care? Like, well, it actually, it does matter. But yeah, part of it is also those courses are...
+
+183
+01:22:37,792 --> 01:23:04,736
+Often designed with the intention that you're training people who are going to go into science. And so this is not just something we're going to make you do to prove that you can buckle down and be disciplined to do it. It's because it's actually a useful skill and knowing how the sausage is made in that way can be really helpful. And I think when it comes to trial and error, I think unfortunately for people who are in the fields, usually a lot of times that stuff gets passed along just as...
+
+184
+01:23:04,736 --> 01:23:23,040
+Anecdotes and stories through mentorship and things like that. But yeah, if you're brand new and you aren't as lucky to have good mentors and things like that, yeah, you're kind of on your own, which sucks because yeah, I work with a guy who's my postdoc advisor at Goddard and a lot of times you come up, you...
+
+185
+01:23:23,040 --> 01:23:52,192
+Come to him with a question, and you're like, he'll be like, yeah, the way that you think is the easiest way to do this doesn't work, and let me tell you how I know, you know, because you also tried that 20 years ago or whatever, like, yeah, because the first thing sometimes that you think are, oh, this is a good idea, oh, it doesn't work because of X, Y, Z, and luckily, everyone's not reinventing the wheel all the time, although... Well, with good institutional knowledge, yeah. Yeah, I mean, that's another problem sometimes within science as well, is that duplicate...
+
+186
+01:23:52,192 --> 01:24:17,104
+Duplicating efforts, not with the intention of trying to reproduce a study, but because you're inefficient and not good at communicating is a whole separate problem with science communication. So with all that in mind, my next big question is, so what's the deal with all the clickbait titles?
+
+187
+01:24:17,648 --> 01:24:43,504
+I mean, and this is going to be cultural commentary at best. But, you know, like I said before, I think we can give the consumer a pass. Because I hardly blame anybody for wanting an easy answer. It's like, when you Google something, and Google gives you their immediate AI result, there's an easy answer for you. I remember the last time I was...
+
+188
+01:24:43,504 --> 01:25:13,488
+I keep forgetting where I have the Adami paper on my laptop. And so I have to Google it occasionally. And you know what's the first thing that comes up? The AI has decided that my summary is apparently the thing that needs to be the thing. And so the podcast we did a long time ago, referencing it comes up, I think, first. And that's cool.
+
+189
+01:25:13,968 --> 01:25:41,408
+You know, I think weasel words aside, because in a lot of the clickbait videos, to give them credit, like half of it's getting the click, right? And then what's on the other side of the click? Does the content actually match the thumbnail? Like I cannot tell you the number of times I've, I mean, I'm human. I'm a sucker for this too. I'll click in on it and I'll be like, what was the one that I saw the other day? It was like,
+
+190
+01:25:41,408 --> 01:26:07,184
+Was somebody robbed of this title? And you go into the video and it has nothing to do with that at all. And I'm like, that's disappointing. I was hoping for some interesting discussion on that. But when you get in there, they've got all the weasel words. But I feel like a lot of these, what you call them, communicators, influencers, they're a little too bullish.
+
+191
+01:26:07,184 --> 01:26:33,904
+on their interpretation of the results because they'll be like, BFR, it may work for you. Maybe you should try it. And it's like, do you understand the duty of care that you have to tell people like this stuff can easily cost you a limb if you get it wrong? And they're like, no, no, I just got to finish my intervals. And then you look down, your life's black and blue and you're like, oh, shit.
+
+192
+01:26:33,904 --> 01:27:03,280
+I mean, eyeballs sell things. So there's obviously a financial incentive to get clicks and get views and sell ads and all that sorts of stuff. But like, you know, does it come from people just looking for miracle intervals or what? Yeah. Yeah. Okay. All right. Moving on. I mean, I think, I think the, you know, at best, it's someone who's really enthusiastic about this thing.
+
+193
+01:27:03,280 --> 01:27:32,736
+and also it wants to just share this and that's why they're like, you know, putting a splashy thumbnail and a splashy title. At worst, it's Dr. Oz where like, oh, this, you know, this new, I don't know, some, God, like raspberry ketones or something are going to like help you lose 40 pounds in a week or something. Don't forget about your tib-fib work for your posture. Yeah, and stuff like that where it's, they live and die by,
+
+194
+01:27:32,736 --> 01:27:58,992
+engagement and clicks. And yeah, YouTube sends you Instagram, all these places send you checks. If you generate videos that get enough clicks where they show the people viewing them view enough ads that you actually make money and that can be your full-time job. And so then you are, at some point, you just need the clicks and you just need to serve these ads to people. And that's the unfortunate.
+
+195
+01:27:59,024 --> 01:28:28,400
+Capitalist model of social media. It can't just be... There are two sides of it. If it's not your full-time job, then you're not maybe going to be able to have the free time or the time to generate good content and informing people the way you might want to. But if it is your full-time job, then you are in a position where you need that next great video, et cetera, et cetera, et cetera.
+
+196
+01:28:28,400 --> 01:28:45,808
+Yeah, at best it's just people trying to make a living with things they maybe find interesting and at worst they're, you know, I don't know, you've got a warehouse full of supplements to sell you that changes every week because it's just, you know, sugar and capsules so they can just sell it.
+
+197
+01:28:45,808 --> 01:29:10,192
+Hey, more people could probably stand to eat more on the bike. So I think sugar capsules would not be the worst thing to take. I mean, and how much is there selection bias with this? Because I think a lot of the time people will be like, oh, here's an interview with like Tadej Pigacar. What is he doing? I got to do what he does because he's the fastest cyclist in the world.
+
+198
+01:29:10,512 --> 01:29:40,512
+I mean, if Fast Person X does training Y, do we all need to do training Y? I mean, I think that that selection bias probably has a strong role. Rory, you look like you're jumping out of your skin. Go ahead. Talk about selecting based on a super compensator. I mean, it super compensates for everything, I think. I mean, if everything works for him, it will work for me. Wasn't there that story where, like,
+
+199
+01:29:40,512 --> 01:30:08,736
+Brad Wiggins, like junior coach, thought he was like the world's best coach or whatever. Until he realized that he was, no, he's coaching Brad Wiggins and he's always going to be that good, yeah. Yeah, weird. He's just so good. Yeah, that is probably one of my favorite little anecdotes of, you know, humbling yourself before the individual. Because I am very fortunate enough to work with several people who I consider to have absolute world-class talents.
+
+200
+01:30:08,736 --> 01:30:36,240
+One of the things that I noticed is that they could probably do anything and be like 90% there. But I think a lot of the time, if you're careful enough and you still treat them as if you could fuck it up, you could eventually get to a point where you can actually have them realize 100% of their potential. And I think that when somebody's that good,
+
+201
+01:30:36,240 --> 01:31:05,904
+And sure, there are some people certainly who if they do literally anything, they're going to get nowhere. Or I mean, or let me put that a better way. If they, they're going to get to the same place no matter what they do, as long as it doesn't get screwed up too bad. And unfortunately, with a lot of these very talented people I've worked with, I've seen them screwed up very badly. And that's the first thing you got to do is like take them out of that hole. But, you know, I think.
+
+202
+01:31:05,904 --> 01:31:35,328
+I think there's also an element here of good old hard work. I think, I mean, I'm going to hate to hit publish whenever we do it, but we are at some point going to talk about what are people's VO2 max off the couch. I've seen at least one paper on this, probably two. I got to go find them again. I may have downloaded one, but they are, it's a huge, huge range.
+
+203
+01:31:35,328 --> 01:32:01,840
+and also when you have somebody who's where they start it does not actually predict their training response either like if somebody starts really fast and they gain 5% okay cool somebody could start really fast and gain 50% holy shit that's awesome but I don't necessarily think that
+
+204
+01:32:01,840 --> 01:32:30,832
+everybody can get there with hard work. And that seems to, Kyle, you and I used to rip on this all the time, actually. We would be like, yeah, you just work harder and you'll get there. Like, don't worry, you're going to beat Tidei Picacho because you work harder than him. It's like, at that level, everybody's working hard. I don't know if you know this. Yeah. And it, I don't know, that definitely seems like it could be quite discouraging. I see why you're like, ah, maybe we shouldn't harp on that too hard. But yeah.
+
+205
+01:32:30,928 --> 01:33:00,576
+No, I think it's one of those unfortunate, it's like, that definitely goes hand in hand with the idea that like, oh, there's some miracle intervals or whatever, right? Because, oh, I can get around this working hard. Or if I do the miracle intervals and work really hard at the miracle intervals, then I'll be the best. I'm going to do twice as many intervals. I'm going to get twice as fast. That's how it works, right?
+
+206
+01:33:00,576 --> 01:33:29,968
+Oh, yeah, totally. It's linear. Definitely linear. I don't know how anybody can see any different. If doing intervals three times a week is great, I'm going to do them six times a week. Screw you. I can take it. I'm a mesomorph. I can take it. I don't want to – I did have one person say that to me once. I'm a mesomorph. I can take it. And I'm like, that's not a thing that actually yields predictable anything. And then he was like, oh, yeah, okay, yeah, you're right.
+
+207
+01:33:30,192 --> 01:33:53,872
+It's like skull shape. Skull shape determines. Oh, God. What year is it? Sorry, what century is it? Yeah. But my last question on this topic is, what about the World Tour folks who keep jumping on different bandwagons of this training or that training? I mean, I think that
+
+208
+01:33:54,512 --> 01:34:23,104
+In a lot of ways, I understand that more than the average person jumping on training bandwagons. Because if you find somebody who's a hyper-responder, I mean, awesome. Odds are very low, but they're not zero. But at the same time, it's like if you're looking for the thing that's going to make your people better than the other people on the other team, I totally get that it's kind of an arms race and you will literally try anything.
+
+209
+01:34:23,104 --> 01:34:52,704
+just in case there's something there. But I feel like a lot of people may not actually be the best at figuring out why something's working. Or not only that, but actually figuring out if the thing that they think is contributing is actually doing the heavy lifting for improving somebody's fitness. Yeah. I think Rory kind of mentioned this earlier, which is that
+
+210
+01:34:52,704 --> 01:35:21,840
+you know after you get to a point you do some sort of training and that gets you to a point but you can't just keep doing that training over again to continue to improve and so yeah when you're have you been looking at the at the intermediate training mistakes notes if at the you know and people talk about this like sports teams right like if you're you know you're a fan of some dynasty team and you're in your favorite sport like oh I love the Houston dynasties yeah I love them yeah and stuff like that where yeah just
+
+211
+01:35:22,032 --> 01:35:50,800
+You generally, with all sports, have to figure out what you do next. And if you're at the world tour level, you're elite international pro in a sport, any sport really, you have to figure out some way to keep being better. And so, yeah, you're going to maybe try all of these fads because, yeah, like you said, your paycheck depends. Now your paycheck really depends on you being better all the time and just not stagnating.
+
+212
+01:35:50,800 --> 01:36:19,296
+even just a little bit because for some things that may mean you get cut and then you you don't have any job ever right like that that's um you know the the and it's and it's hard because it's not it's maybe not like a concrete skill like oh you can get better at welding and you can be a better welder and work to get better at that and that's a much probably a much more um it's not quite maybe it is quantitative but that's well you look cool as hell when you nod your head and the thing slaps down
+
+213
+01:36:19,296 --> 01:36:47,808
+Right, but that's, you know, it's not like there's, that's like a practice and like much more of a skill thing, whereas with training, it is a skill, but there's also this large component that you have very, you have a very difficult time controlling, that's like how your body responds to things. Yeah. Even if you are a hyper responder, like every elite international professional. Yeah, true. And I think that that's actually one of the differences between a sport that's highly determined, determined, determined.
+
+214
+01:36:47,808 --> 01:37:14,144
+by physiology versus skill. Like, I mean, we talked about this on the Strength Podcast is what the Strength is a skill, like darts is a skill. And I think physiology is not so much a skill, but racing is definitely a skill. And that is something that I think a lot of people sometimes miss because a lot of people, obviously, what you have in your control is your physiology. And you've got hard data to say,
+
+215
+01:37:14,144 --> 01:37:43,072
+All right, I've improved my FTP, I've improved my sprint, I've improved my repeatability, I've improved my endurance, and I'm not getting better results. It's like, you got more stuff to improve. How's your positioning? Are you still eating wind as much as you're eating Haribo? That's the kind of thing that we need to start looking at because when you integrate all the things together, then you get real true fitness.
+
+216
+01:37:43,072 --> 01:38:10,768
+But I guess my last question is what do you want to see happen to the field of exercise science in the next like 10 to 20 years? Where should it go? And how should we want it to be steered for our purposes as people who are interested in improving fitness and especially for me and Rory as coaches?
+
+217
+01:38:15,760 --> 01:38:43,312
+I've kind of said a few things I'd like to do. I guess broadly what I want is more transparency. And that's not to say the scientists themselves are being non-transparent. I just think that there should be more honesty about what a paper is and isn't saying, about what it does and doesn't cover. And yeah, what data are we showing versus what are we not showing?
+
+218
+01:38:43,312 --> 01:39:10,304
+As part of that, like, show me what happened to every rider, but I don't need to be in the paper, put it in an extra appendix that's just attached to the line, but having the greater availability of information, I guess, is the thing that will actually improve the sport side of things.
+
+219
+01:39:10,304 --> 01:39:32,576
+On the research side of things, I think that's also valuable because it's going to lead to us having better researchers, which is long term the thing I'm most interested in. Because as much as I like being a coach, I also really like my lab job and having people just be better at understanding their job and like...
+
+220
+01:39:32,576 --> 01:40:01,616
+How to go about it will actually make the people working that job happier at doing it. And that in the long run will be more valuable than any actual research output. Kyle, thoughts? Kyle's going to say higher p-values. Yeah, exactly, yeah. Minimum of a thousand participants per study, you know. I think that, and I think more so for the people, I think,
+
+221
+01:40:01,616 --> 01:40:26,336
+I think it's gotten better, somewhat better the last 10, 15 years, and I think, you know, sort of democratization of science is good, but also, yeah, just as people who are maybe coming at it from the, you know, not formally trained side trying to interpret studies, like being, just being more aware of all of these caveats, and that doesn't mean you, those people have to go back and get...
+
+222
+01:40:26,336 --> 01:40:55,536
+Fancy Advanced Degree is like, I'm not saying you have to have a fancy degree to be a scientist or to interpret scientific results, but just understanding that, you know, sort of more of the minutia of the scientific process and that, you know, I think back to that, like, oh God, I was like 10 years ago at this point, like, Bill Nye debating Ken Ham, where like, you know, Bill Nye kept being like... Is Ken Ham the evolution denier?
+
+223
+01:40:56,080 --> 01:41:23,728
+Yeah, yeah, yeah, it was just like, it was, it was like 2014, 2013, I don't know, I think it was, I was in grad school before, but like, Bill and I went on and debated about evolution and blah, blah, blah, blah, and he kept, he kept being like, yeah, I could be convinced of, of X, Y, Z, I just want to see the data, like, show me, you know, he's like, yeah, like, how, you know, I think they closed with like, oh, what could ever change your mind? And like, Bill was like, oh, yeah, I'm sure, you know, if I saw convincing enough argument, you know, in data and papers and studies, yeah, I could be convinced.
+
+224
+01:41:23,728 --> 01:41:52,608
+Ken Ham's response was like, nothing, nothing could ever change my mind. You know, you're like, oh, I don't know if that's the, that's not the right attitude. Like, these two people just clearly come at this thing with two very different perspectives. And so, for that to be, you know, just for people to be more, I don't know. Seedman, I would say, is the prime example of this, where it's like, he's out there to prove his results.
+
+225
+01:41:52,608 --> 01:42:21,824
+and not prove just how people can get better with training. He's got his method and he's going to go to the grave trying to pull up every study that confirms his method where other people are like, oh, look at this new thing. You might consider trying this because it might make your exercise or whatever better. Joel Sieben is not going to be all up about the new length and partials study. Yeah, yeah, yeah, exactly. And so I think that, like picking the difference, hopefully, you know, maybe the community tries to.
+
+226
+01:42:21,824 --> 01:42:49,584
+Force out some of the charlatans better, or at least consumers become slightly more... I mean, well, one of the reasons that he gets clicks from us is because we send him to each other going, what the fuck? Well, and that's part of the problem with the, you know, that goes back to the social commentary about, like, social media and the algorithms and things like that. But yeah, he knows that works. He clearly knows that works. So... Fair enough. Yeah, maybe it's... I cannot knock the hustle whatsoever.
+
+227
+01:42:50,160 --> 01:43:17,472
+One thing I'd like to add is we've sort of subtweeted other influencers and presumably some podcasters. I don't necessarily think that science communication from outside the science itself is necessarily a bad thing. Scientists certainly don't want to do it that often.
+
+228
+01:43:17,472 --> 01:43:42,928
+Well, yeah, that's what I'm going to get at is I think it comes from a void of good communication of what has been done by the people that did it or people who are at least affiliated with those that do it. Part of that is down to just budgetary constraints in terms of like your ability to have a social media team that can put together something like Kyle.
+
+229
+01:43:42,928 --> 01:44:00,016
+Do you think Astro Katie is probably the best science communicator that physics has in terms of like reach constantly getting people thinking about like astronomy? I don't know enough about astronomy. I just know her. Yeah, I mean, I think she's...
+
+230
+01:44:00,016 --> 01:44:25,328
+I don't know if she's like the best best but she's definitely up there with you know a very select handful of people who have just this massive reach where it's like yeah they have more followers than the like the like she has more followers than the official NASA Instagram account I'm pretty sure like you know it's just um and that's the that's the success of someone who is really good at talking about it making it interesting and getting people involved in it
+
+231
+01:44:25,328 --> 01:44:52,576
+and there's not enough of that coming from within the actual sciences themselves the people that are actually doing the work and talking about it occasionally you get someone that turns up on a podcast and some of them have turned up on this podcast but there's not enough but I almost think that every paper that comes out especially in a field like this where like the audience engagement side of it is very high
+
+232
+01:44:52,576 --> 01:45:17,664
+you know comparatively to something else every episode should come from the publisher with a 30 minute interview with one of the people involved in the authorship site saying here's what we did here's what we found like just talking about the actual thing like I've an entire bone to pick about the limitations in terms of how we talk about the actual work being done because
+
+233
+01:45:17,664 --> 01:45:45,136
+The more we talk about it, the more involved you're going to get people, the more you're actually going to grow the space through the amount of money that can circulate in and around to do more work, hire more people, et cetera, et cetera. Is this where we get the rise of what we could call science influencers? Somebody like Steven Seiler has done every podcast under the sun, or somebody like Keith Barr has done every podcast under the sun. I should probably invite him on one of these days to...
+
+234
+01:45:45,488 --> 01:46:14,224
+He hasn't done my podcast yet. But I'm not going to hold that against him because he's fucking awesome. But is that where we get that kind of like occasionally we'll get a scientist who has good communication skills and in a way does it really raise their profile? Like is that the goal is to either get their stuff out or raise their social capital or both? Yeah, because
+
+235
+01:46:14,224 --> 01:46:30,640
+Most, I think a lot of people that listen to this podcast certainly, but just in general are regulars looking for like what is the science saying with regards to exercise. Know who Steven Seiler is.
+
+236
+01:46:30,640 --> 01:46:58,064
+I don't necessarily agree with everything that Steven Seiler comes out with, but I know who he is and I respect the fact that he has managed to make sure that he can get out there and communicate about the stuff he's talking about. The problem is that not enough people actually do that. And that means that the discussion tends to hyper-focus around individuals rather than looking at the space as a whole. And it becomes more about like
+
+237
+01:46:58,064 --> 01:47:25,360
+Oh, these three or four people's individual ideas rather than like the, you know, the entire symphony of the orchestra. Like there's a trumpet being really loud in the corner, but I want to hear the violins. I want to hear the drums in the background. I want to hear the guy in the piano. And we're not hearing that. You're maybe looking at it, but you're watching a TikTok with only the horn section playing.
+
+238
+01:47:28,080 --> 01:47:56,368
+For as long as TikTok lasts in the U.S. anyway. R.I.P. No, I think, look, I'll provide a correction. So the official NASA, NASA Instagram account has like 100 million followers, but the NASA, the NASA universe Instagram account, which is the one that covers a lot of the astrophysics stuff, only has like 100,000 followers on Instagram. So it's like not, that's a lot, but it's not a lot for science communication, right? Like there are people with millions of followers.
+
+239
+01:47:56,816 --> 01:48:25,680
+Emily Candrelli, who's like one of the, she went up on a, she's like a science, astrophysics, science communicator, she went up on one of these commercial space flights recently, she has like millions of followers on Instagram. Anyway, yeah, I think, I think famously there are some scientists that are brilliant in their field and just god-awful at like communicating, like Rory probably remembers every department had at least one professor when you're in grad school where you're just like, this was a terrible class, like it was essential to what you needed to know to get your degree, but like the professor was just.
+
+240
+01:48:25,680 --> 01:48:55,200
+God-awful at teaching, you know? We had an old German guy whose lectures were all in German. And after we complained about him, I go for a fact that he never lectured again. So yeah, lots of really bad lecturers out there. And so those people are, by default, they're not good communicators to people with already a technical background, so they're not going to be good communicators to people with a non-technical background.
+
+241
+01:48:55,200 --> 01:49:16,048
+Um, and yeah, like, social media makes it easier that good people, like you said, like Steven Seiler or these other people who are good communicators, Neil deGrasse Tyson, can be exposed more and become famous for that too. Um, there are, I would say in science, sometimes you get, um, it, but...
+
+242
+01:49:16,048 --> 01:49:43,696
+It's hard though because then that becomes your other full-time job, right? Like can you imagine if you had to be Neil deGrasse Tyson and film all these TV shows and things and then also be like chair of the astronomy department at like Columbia at the same time? Like you would just never sleep, right? Like you wouldn't be able to run a lab, run an apartment, and be on Cosmos all the time or whatever. And so it's just another thing that can't work. And not to say that...
+
+243
+01:49:43,984 --> 01:50:13,808
+It's something that you only have to do if you have a science background. I work with a lot of really great science comms folks at Goddard, and we're really lucky that NASA generally attracts some very good comms people. But I've seen a little bit of how the sausage is made, and they also have to spend their time interfacing with scientists who really, really love this result, but then have to sell it to them and be like, why is this interesting to the public? And why should we give space on the NASA website?
+
+244
+01:50:13,808 --> 01:50:42,784
+to this headline specifically. Like, you know, scientists get really excited about something that's extremely esoteric and you're just like, ah, that's not, that's not going to get clicks and that's not something that, like, is worth having people spend weeks potentially writing up articles and making graphics and things. And so that's a full-time job. Like, like, it's not easy. It's not like you can just, for a lot of things, you can't just pull the graphs from papers, scientific papers, and throw them up and have people digest them, right? Like, scientists sometimes even aren't even good at digesting them because they're terribly made or something like that, but...
+
+245
+01:50:42,784 --> 01:51:11,728
+The public certainly isn't going to be able to like, oh yeah, that makes so much sense. Let me just look at the plots. Yeah, no, and I feel like I do this with the podcast too. Because with all the stuff that's been popular over the last, I don't know, five, six years, and even before that, how many things have we actually had on the podcast to be like, ah, there's really nothing here? It's like, what, two or three maybe?
+
+246
+01:51:11,728 --> 01:51:40,400
+There's not a lot because I don't actually personally find that there's value for the audience in tearing something apart. I'd rather be constructive than destructive. Anybody can push a button to release a bomb. Okay, great. That building's gone. Cool. Whatever. Then it's like, all right, what do I do with this pile of rubble? I don't know, that person being the audience. But I'd rather...
+
+247
+01:51:40,400 --> 01:52:07,376
+Be like, have the audience come closer to the understanding and conceptualization of physiology that I've got and how I feel like it applies to training. That's what I do. And you can make any inference you want right now about the papers or the topics that I have not included on the podcast for discussion.
+
+248
+01:52:07,536 --> 01:52:37,104
+and occasionally when something becomes I feel like it becomes so pervasive like you know what maybe we got to do something on this and based on what we've done with that previously I realize now I have to be a lot more I can't be as as bullish as I want to be because I learned from that shit that we it's easy to become the bad guy with that kind of stuff it's easy to become a bad science communicator
+
+249
+01:52:37,136 --> 01:53:03,760
+But I think where I really want to see the field go is I want to see better study designs at looking at individualized results. I want to see more individual reporting, and I also want to see study designs that look at if people respond better to one certain protocol or another, rather than being divided in two groups.
+
+250
+01:53:03,792 --> 01:53:32,736
+And unfortunately, you would have to have some kind of washout time between interventions. And that becomes a problem on its own because now you're basically taking somebody well-trained who's getting noob gains twice after they've taken their four weeks between four-week training protocols or something like that. So that's the kind of thing that smarter people than me are going to have to figure out and put together.
+
+251
+01:53:32,736 --> 01:53:59,776
+and there are actually a lot of papers right now available in the statistics world that are looking at how these studies could be designed and the statistical methods you would have to use to actually get anything useful out of them and along with these limitations of the papers that are out now so I think until then unfortunately or maybe this is always going to be this way because
+
+252
+01:53:59,776 --> 01:54:26,416
+I don't know. Maybe these new study designs would not get us where we want to go. Because where do we want to go? We would hopefully be able to find underlying characteristics that would predict who is going to respond to what training better. Minority report for training. I mean, that would be the holy grail, right? Like, based on these characteristics.
+
+253
+01:54:26,864 --> 01:54:55,376
+You should do training X as opposed to training Y. But until then, we've just got regular ass gap analysis. What are you good at? What do you not good at? And what do you need for your goal events? And that's it. And until then, everything is just an N equals one training study for each client to me. Yeah, I...
+
+254
+01:54:56,496 --> 01:55:22,528
+I wonder too like sort of the washout in between like it's just logistically these things grow exponentially in complexity you think oh like we'll just add this other thing but it's it you know like a lot of other things it's not linear and so you're yeah you I guess you grow a clone army that you can run a lot of experiments on like Star Wars like
+
+255
+01:55:22,528 --> 01:55:49,152
+Ray's a clone army and we'll just keep doing studies, you know, of this like designed representative population of different people. I mean, even in genetically identical mice, there's distributions in these things. Like even with twin studies, there's distributions in these things. I would be curious though, like, you would not, you'd probably not get a lot of people to sign up, but if you made like a school, like it doesn't have to be like a...
+
+256
+01:55:49,152 --> 01:56:17,872
+degree program, but like a boot camp for people who want to do more science communication or interpret studies. Like you could potentially, someone could start a business where you just run like a 10 week, it could be like virtual, something like that. You know, people do like these, for us in academia, like a few years ago, it was really popular for people who wanted to go into data science. They would do a data science boot camp where they'd spend a summer, you know, somewhere where, you know, maybe they had never used R or Python or something like that before. They'd show them that.
+
+257
+01:56:17,872 --> 01:56:47,152
+Basic Algorithms, you know, get them and then work on getting them the skills necessary to at least get an interview for a job in data science. And so maybe you would do something like that where you would have an online course or, you know, something that people could take to try to poke at least make people aware of some of these things before they dive into it and be like, yeah, let's read the study. Let me look at this and then communicate the results.
+
+258
+01:56:47,440 --> 01:57:12,912
+One of these days, yeah. I mean, I actually know that a lot of, there are a lot of like master's programs out there that will harp on all this kind of stuff and especially harp on training variation and test variation. So you can, because most, or not most, but like a lot of people who go into like an exercise physiology master's program, they're doing it to further their own coaching career.
+
+259
+01:57:12,912 --> 01:57:42,912
+because for a lot of world tour teams or even UCI Conti teams, if you want to be one of their staff coaches, if you're just going to send an application, they want you to have a master's. And that even goes double if you are looking at even bigger money sports like soccer. The education requirements are very, very high indeed. So that's the kind of thing where I think
+
+260
+01:57:42,912 --> 01:58:10,768
+where people who have that education would probably serve as actually really, really good-sized communicators. But until then, we're stuck with everybody we have, and I hope that we're doing an okay job. But based on the last two-hour discussion we've had, I mean, it's obviously way harder than I actually thought it would be when we started this podcast. And it's like...
+
+261
+01:58:10,768 --> 01:58:40,288
+It's one of those things where every step you take into the field, you see more of what you don't know. You're like, oh, shit. I still... We're never going to be good at this. It's a pie-eating contest where the prize is more pie, right? And then you have to eat that. And then when you win that, you've got to eat more pie. No, I think... But that's like... I know we've seen physics and astronomy. There are universities that run...
+
+262
+01:58:40,288 --> 01:59:08,864
+sort of summer quote-unquote boot camps where it's like, oh, it's a whole 10 weeks on instrumentation methods or it's a whole 10 weeks on big data and things like that. So that could be something too. If people are in a master's degree program or a PhD program that some people could offer this sort of thing to both get better at, okay, so if you're coming at it, I'm getting this master's degree from the coaching side, what are things that you might want to know if you don't have a
+
+263
+01:59:08,864 --> 01:59:33,216
+More Formal Research Background, and then you could do it the other way if you're someone who got into research but then are more interested in the actual applications instead of just, you know, knocking out genes in mice all the time, which is cool, but it maybe isn't quite as flashy as being a coach. What are things that you should know coming the other way, too? All right. Thank you, everybody, for listening. We have been at this long enough, so we're going to skip listening to questions.
+
+264
+01:59:33,216 --> 02:00:02,544
+Although we did have a statistician who was saying that they're very annoyed at exercise physiology research. Don't worry. That's why we did this podcast. So yeah, thanks everybody for listening. If you like the podcast, please share it with somebody that you think would enjoy it and subscribe to the podcast if you are new here. A nice review goes a long way wherever you listen to podcasts. Thanks so much for all of that. And if you would like to hire us for coaching or consultations, shoot me an email at empiricalcycling at gmail.com. And if you'd like to ask questions or just participate in the weekend AMAs on Instagram, give me a follow at empiricalcycling.
+
+265
+02:00:02,544 --> 02:00:06,352
+Cycling on the gram, and we will see you all next time.
+

@@ -1,0 +1,696 @@
+1
+00:00:00,624 --> 00:00:30,224
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Today we are joined by James McKay, another Empirical Cycling coach, and he's going to be talking about Sweet Spot with us. So thanks everybody for listening to us. And if you like what you're hearing, please subscribe to the podcast. If you're new here especially, and if you like what you're hearing, and if you're a returning listener, thanks so much for coming back. We really appreciate having you. If you want to support the podcast, you can always let the people know that you like the podcast. Word of mouth is fantastic, sharing it everywhere. A nice podcast rating always goes a long way. Thanks so much for all of those. And if you would like to donate because we are at
+
+2
+00:00:30,224 --> 00:00:38,720
+FedFree. Well, this month we are asking you to donate to Hurricane Helene Relief. American Red Cross would be just fine. I believe they have a Helene...
+
+3
+00:00:38,720 --> 00:01:08,080
+subheading for that stuff. So that's great. All of our current donators, we appreciate you sticking around though. You're keeping the lights on here. And if you really, really want to support the podcast, you can always hire us for coaching. You can email me at empiricalcycling at gmail.com and we can start a conversation about whether coaching is right for you or if you'd like to do a consultation, we can review your files, answer all of your questions, help you plan out for next year, et cetera, et cetera. It's currently November, so it's a really, really good time for that. And if you would like to ask any questions on the podcast, we have a ton of listener questions.
+
+4
+00:01:08,080 --> 00:01:37,440
+I got more than we could actually answer, so I had to cull them down quite a bit. Sorry about that, folks. If you wanted your question answered, if we don't get to it, just shoot me a DM and I will try my best to answer it on Instagram. And we're also doing weekend AMAs up in the Instagram story, so give me a follow over at Empirical Cycling, obviously. So today I want to talk about what's so sweet about Sweet Spot. James, this is your second appearance on the podcast, but first time was just you and me. So I'm going to kick this over to you. What do you like?
+
+5
+00:01:37,440 --> 00:02:05,344
+about sweet spot. What is so sweet about it? I think it's a really nice intensity that you can fit in at a lot of times in the year. And it's a sort of nice bonus workout sometimes if you kind of want to add a little bit more stimulus in a training week or a training block without adding...
+
+6
+00:02:05,344 --> 00:02:35,264
+a lot of fatigue or, you know, pushing yourself a bit too far over the edge. So, yeah, I think it's, going on from that, it can be kind of a nice add-on, but I don't think it's going to be the foundation of a great training plan either. I don't think it should be something that is, you expect that that's going to be the thing that really drives your fitness overall. I think it can be something that is
+
+7
+00:02:35,264 --> 00:03:04,240
+Yeah, it's a bit of nice kind of extra cake. It's not the icing. Who has cake without icing though? For real? Jeez. Well, okay. So I think let's start with this. It's like conceptually, what is Sweet Spot? You know, I think the origin of it was that it's kind of like a semi-subthreshold work. So you're not right at FTP. You're a couple of months below it.
+
+8
+00:03:04,240 --> 00:03:28,784
+Usually 10% is about where we usually peg it. And it's supposed to have nearly the same adaptation for just about or somewhat substantially reduced acute fatigue. So the other way to put it would be to have like a low...
+
+9
+00:03:29,296 --> 00:03:50,048
+What's the stress and strain thing? I always forget this one. So like a little bit lower stress, but much lower internal strain, I think is the way to put it. So I more or less agree with that. But I also think that it misses the forest for the trees entirely, having that conception of sweet spot.
+
+10
+00:03:50,048 --> 00:04:14,640
+I'm not entirely sure where the origin came from. I know Frank Overton is usually credited with inventing, I guess we could say, sweet spot training. But I am not entirely sure, I've never asked him, I've never talked to him, but I'm not entirely sure if it was supposed to be intended for an equivalent interval set.
+
+11
+00:04:14,672 --> 00:04:44,448
+So 2x20 FTP becomes 2x20 sweet spot. We get almost the same gains for much less fatigue. Do you think that's what it was originally meant to be? Because that's not how I use it. No, I wouldn't say that's the case. I don't think you can equate the two interval length times. And certainly, if anything, you might need to be doubling it or more in terms of interval time to get a similar kind of response.
+
+12
+00:04:44,448 --> 00:05:13,184
+Well, that's us. But do you know about the origin? Like if it was intended to be a one-to-one for interval time? Because I have no idea. Yeah, I couldn't tell you. Sorry. Okay. That's all right. So we're just going to go with the way we use it. So I think the key concept for me is that in order to have an approximately equivalent training dose, we could say,
+
+13
+00:05:13,184 --> 00:05:38,896
+They both need to be done to near exhaustion. So this is probably, we can call this TTE, but TTE can be, by the way, usually it's defined as TTE is what, because of WKO5 and the way that WKO5 uses TTE, it's TTE, time to exhaustion at FTP. However, you know, if you
+
+14
+00:05:38,896 --> 00:06:05,072
+Take a step back and look at the origin of it to the scientific literature. It's really time to exhaustion at any intensity that you define. So we could have time to exhaustion at threshold, time to exhaustion at sweet spot, time to exhaustion at 50 watts. Well, that's basically your lifespan, I guess. We're all kind of existing around 50 watts resting level. So that's probably the...
+
+15
+00:06:05,072 --> 00:06:32,480
+The way that we use it at Empirical Cycling is like if you are, let's say we're looking at time efficiency, right? If you have an hour to train, but you can hold sweet spot for an hour, once you add warm up and cool down and everything like that, it makes no sense to do sweet spot, right? Yeah, I'd agree. I think at that point you need to try a little bit harder to meet that kind of TTE.
+
+16
+00:06:32,480 --> 00:07:00,032
+Yeah, reach the end of that TTE curve within your time constraints. Yeah. So I think in that case, that's probably because I did want to get to a list of pros and cons for it. I guess before we really dig into pros and cons, let's talk about just where it is also, because I got a lot of questions on this. So let's make a very, very distinct.
+
+17
+00:07:00,032 --> 00:07:29,712
+Definition. So FTP, I just set as 90% of FTP, or sorry, sweet spot, I set at 90% of FTP, and I don't move it. That's it. Like maybe I'll give somebody a 10 watt range. Do you do about the same, James? So if like, give or take, especially for over-unders, I like to give the unders as kind of a tight range, but. Yeah, I think for over-unders, a range can be a little bit better, but for just straight sweet spot work.
+
+18
+00:07:29,712 --> 00:07:58,960
+It's 90% for me as well. And I think if someone's struggling to hold that and they need a range to get the intervals done, then something's gone wrong. They probably should be taking it pretty chill. Yeah. Although for over-unders, I mean, this is an advantage of Sweet Spot to me is that it's easier to do over-unders with it and tempo as well. And I think having a range for the unders,
+
+19
+00:07:58,960 --> 00:08:27,296
+A lot of people will take the, you know, a very strict target kind of literally a lot of the time when in reality, if they're like 5, 10 watts above or below, it's not going to make that huge of a difference. And in fact, I've actually had some clients who will tell me that, you know, like if we're doing over-unders at like 300 watts and like 240 watts or something like that, 230 watts is really easy to recover at. And then once we get up to 240, even on like a 260, 270 watt threshold.
+
+20
+00:08:27,296 --> 00:08:56,000
+Once they get up to 240, it becomes much harder to recover at 240. And so then we can kind of play with that range a little bit. But yeah, it's not, you don't have to be like, all right, it's 88 to 92% or whatever the current definition is. It's like, yeah, it's close enough. As long as you are getting close to your muscular endurance capacity, like fatigue, you're doing it right. Would you more or less agree with all of that? Yeah, I'd agree. I'd say.
+
+21
+00:08:56,000 --> 00:09:22,208
+You know, your threshold isn't exact, your FTP isn't exact to a single watt, so taking 90% of, you know, your FTP shouldn't be that exact either. And certainly, if you are taking that, taking a good 10% off, it shouldn't matter too much if you're a little bit over on the way you end up. Yeah. All right.
+
+22
+00:09:22,208 --> 00:09:51,520
+How long can someone hold Sweet Spot? I get a lot of questions about this. I had already written it down, but this is a very interesting little bit of Sweet Spot lore, could we call it? Does Sweet Spot have lore? So untrained, James, about how long do you think people can hold Sweet Spot? Because we don't really have hard data on this. So what's your experience here?
+
+23
+00:09:51,520 --> 00:10:15,808
+Yeah, I think I'd say somewhere between 40 and 60 minutes, I'd say. That's exactly what I had written down. And this is in comparison to Threshold, because untrained, people can hold it for, what, 30, 40 minutes, give or take. And so...
+
+24
+00:10:15,808 --> 00:10:42,256
+Yeah, untrained at 90%, yeah, you would expect to be able to hold it a little longer, but once you become well-trained, I find that either someone's inherent genetic gifts, we could say, or their total volume that they ride, like on average per week, like if it's like 10 hours versus 20 hours versus 30, that has a very large effect on how long they can hold sweet spot.
+
+25
+00:10:42,256 --> 00:11:11,216
+and you are very, very well trained so what's your experience with the range at which people can hold sweet spot? Yeah, I think it's definitely something that increases a lot with training and I think often the kind of, yeah, I think it's probably a sort of intensity that people don't particularly explore or yeah, maybe they do, maybe they don't. I don't know how many
+
+26
+00:11:11,216 --> 00:11:38,032
+How do people out there are doing it? But I think holding threshold to kind of exhaustion is pretty common. And part of that is because you don't need to do particularly large amounts of work to do that. But if you're well-trained and you wanted to ride sweet spot to exhaustion, well, you'd need a pretty long ride for starters. I was going to say a long climb. A long stretch of road, yeah. Yeah, it could...
+
+27
+00:11:38,032 --> 00:12:05,376
+Be mentally challenging just as much as physically. Yeah. And in terms of fueling, it would be really challenging. Because I think for most average people, like once they become well-trained, I would say one and a half to two hours is probably exhaustion at sweet spot for most people. But I think once you get into the super, super well-trained, like you're a world tour athlete, holding 90% of FTP for like three or more.
+
+28
+00:12:05,376 --> 00:12:35,120
+like in one go is probably not ridiculous. Um, and even if, if you're an ultra athlete too, I would say this is probably not ridiculous either. And I'd say if you have, you know, uh, recovery periods in between, if you're breaking it down into, to kind of sections of climbing, uh, I think you could do more than that. If you could, if you're able to eat plenty, uh, on the descents or in between, then, um, yeah, I'm sure you'd be,
+
+29
+00:12:35,632 --> 00:13:04,144
+Maybe running out of daylight before anything. Yeah, or energy or just the will to live at that point. Or just food in your fridge, I suppose. Yeah, so I think the other thing I wanted to get into before we talk about upsides and downsides is what are the adaptations that we get with Sweet Spot? Because this seems to be something that I got a lot of other questions on, which is
+
+30
+00:13:04,208 --> 00:13:33,088
+What's different about it versus threshold training? What's different about it versus endurance training or tempo training or like high intensity training? And there's a lot of sides to the coin here. Coin? Is it a coin if it has more than two sides? I guess the coin technically has three sides since it's a very flat cylinder. I need Kyle to come up with the geometry knowledge. I've not yet done a toy.
+
+31
+00:13:33,088 --> 00:14:02,720
+Cointos, where we've ended on the third side. All right. I guess we would need like one of those D&D die with like 10 or 20 sides or something like that. So the short answer here is that the adaptations you get from Sweet Spot are basically identical to that threshold. On the margins, they are slightly different, but I think on the whole,
+
+32
+00:14:02,720 --> 00:14:31,232
+I tend to just consider them as roughly equivalent. Are you in about the same spot? Yeah, although I think going back to what you said about if you've only got an hour to ride at sweet spot and you can ride for an hour, I think often it becomes slightly secondary to threshold in terms of training just because of logistical reasons more than anything.
+
+33
+00:14:31,232 --> 00:14:59,792
+Yeah, yeah, low time efficiency with sweet spot and even lower with tempo, I would say. Like, so early on, like right now, a lot of people just getting back into training again after taking an off-season break or they've just been doing endurance riding and it's time to start thinking about a build. And I think right about now for most people like sweet spot, tempo, threshold, it's all going to get you about the same place. I mean, how many times?
+
+34
+00:15:00,272 --> 00:15:29,952
+When you are writing a plan for somebody right about now, early season, are you thinking this person or like, are you thinking like everybody needs sweet spot or are you thinking like this person needs a stepping stone so we're going to start with tempo, this person is fine to get right to threshold, they have low time so we're going to maybe start with like sweet spot and bump up to threshold pretty quickly, like where are you at with all that? Yeah, I think
+
+35
+00:15:29,952 --> 00:15:57,712
+It does depend on their training age and depends on the time as well. And I would actually say if someone's got more time to train, then they might not need to, they might be able to skip the tempo stuff because they're able to do so much sub-threshold riding at easier intensities that, yeah, they can probably retrain quite a lot or get so far on that kind of sliding scale just from by doing a lot of volume.
+
+36
+00:15:57,712 --> 00:16:26,112
+But if someone's got less time strain, then yeah, they might have to do a bit more tempo in that as a substitute. Yeah. Yeah, I think though compared to tempo, I would say sweet spot is, the sweet spot to FTP equivalents of like, you know, almost the same adaptations for a lot more, a lot less internal strain, I would say applies
+
+37
+00:16:26,112 --> 00:16:54,496
+when we look at tempo to sweet spot also. So tempo, like, oh, well, for you right now, I mean, where are we at with, okay, let's say when you're well trained, James, like, we'll use you as an example, because you are ridiculously well trained. Or like, and we'll compare it to right now. So when you're well trained, your threshold's in the low 400s, and you could probably, and you're like, your first threshold.
+
+38
+00:16:54,496 --> 00:17:23,184
+probably 350, 360 watts, something like that. So we'd be looking at doing tempo intervals at like 380. How long could you hold 380 watts, do you think? Right now or? Like when you're in shape versus right now. Because right now, I assume it's probably like, you know, maybe two, three hours, something like that. But when you're in shape, like, what are we looking at? Like, do you even have enough daylight? Yeah, I don't know. I think.
+
+39
+00:17:24,464 --> 00:17:51,968
+I'm not sure I want to find out, to be honest, but I think it, yeah, I think it could be a while, but that means, that being said, it still wouldn't be, still wouldn't be an easy ride, that's for sure. Yeah, a very high kilojoule burden, as I like to call it. Yeah, I think you, yeah, I was gonna say, I think I'm needing snacks. Yeah.
+
+40
+00:17:51,968 --> 00:18:21,728
+Yeah, so I think, but I think especially relative to like high intensity training, early, early season, sweet spot is probably would be preferred by most people, I would think. I mean, there's a handful of people who just love to get right to the smashing. Okay, sure, I get it. But, you know, right now, especially early, early season, when you start training again, you're probably going, it might take a little bit longer, but it will probably take
+
+41
+00:18:21,728 --> 00:18:50,224
+a lot less out of you to do sweet spot training relative to like doing VO2 max training and you know repeated sprints and 30-30s and all that kind of stuff especially like right when you've gotten back into doing hard intervals. I'd agree and I'd also say if someone's thresholds dropped a little bit with some time off then sitting at a pace that you are more confident is below your threshold is a lot more productive place to be so I think
+
+42
+00:18:50,224 --> 00:19:07,664
+both with tempo and sweet spot work. It can keep you in a safer place. Yeah. Actually, the labels on these intervals sometimes screw me with my clients because I'll label a ride like tempo.
+
+43
+00:19:07,696 --> 00:19:32,688
+and then I'll like while I'm writing the workout, I'll write in like a sweet spot workout because I changed my mind. I forget to change the title and they're like, what? Is this my tempo now? It doesn't feel like tempo. I'm like, I'm so sorry. But yeah, like I think one of the other fundamental parts of coaching and training is that like we can easily see a lot.
+
+44
+00:19:32,688 --> 00:20:00,880
+More improvements from anybody with the higher and more intense you make their training program. The downside is their willingness to keep training, basically, right? So like if you start with super high intensity stuff right now, like let's say you're like, all right, I want to do polarized right now and I'm going to do it from November through March before I start racing. Like if you're doing like a three by eight, two or three times a week.
+
+45
+00:20:00,880 --> 00:20:30,848
+for the next like four months. What are the odds you're going to get to racing motivated? And I'd also say, yeah, repeating the same training for three months is a good chance you might plateau a little bit as well. But yeah, it should be a pretty grippy three months. Yeah. I mean, and that's like one of the things that,
+
+46
+00:20:30,848 --> 00:20:59,664
+has been shown repeatedly in the scientific literature in terms of if you push somebody harder, you're going to see a lot more adaptation. But afterwards, the likelihood that somebody wants to keep training like that is very low. Here's an example I know of is when a lot of the time when high-level powerlifters
+
+47
+00:20:59,664 --> 00:21:25,584
+Retire from competition. You know what they don't really do that much of anymore? Deadlifts. And I understand that. I avoid deadlifts a lot myself when I don't have to do them because neurally they are so fatiguing. And the same could be said for any kind of high intensity. So sweet spot versus all of that stuff is really excellent. However, well, we've got listener questions too.
+
+48
+00:21:26,032 --> 00:21:54,304
+Chase down that rabbit hole a little more. So we'll put that on the shelf for now. So, all right, I've got a list of upsides with Sweet Spot and I want to get your thoughts on this too. I would say one of the big upsides for Sweet Spot is that there are initially really good benefits. Why did I write without progression? I'm not entirely sure what I meant. Oh yeah, I think what I meant was like, if you don't increase the intensity.
+
+49
+00:21:54,304 --> 00:22:22,288
+Per se, and you just keep hammering sweet spot for a couple of weeks. I mean, especially early on, there's a lot of upsides to that, like low fatigue. I mean, just as sweet spot is built to do, right? Low fatigue, good benefits. You're going to improve your endurance. If you're off the couch, odds are pretty good. You're going to improve your VO2 max. Well, there's probably a good individual range with that kind of stuff. But like, you know, would you say that that's accurate?
+
+50
+00:22:22,992 --> 00:22:51,856
+Yeah, no, I think that's, I think that's a, it's definitely a possible sweet spot. You can, you can tap out your new games well with that, without flogging yourself. So I think even whether you're coming off the, an off season or off an injury or you're just getting into more serious training, then it's a, it's a really nice place to, to kind of see how long you can make gains with it. Yeah.
+
+51
+00:22:51,856 --> 00:23:17,136
+I'd also say another upside to Sweet Spot is it's actually accomplishable if your FTP is set too high. I swear to God, I think this was a thought I had in the very first Empirical Cycling podcast was that if you are doing a threshold test that overestimates your threshold,
+
+52
+00:23:17,136 --> 00:23:44,912
+and you're having trouble doing like four minute efforts at threshold, it's not your threshold. And I was like, and I had that moment of, oh, that's why sweet spot is easier. So I would say, yeah, it's easier if your threshold is set too high. So in reality, you're probably doing closer to threshold training with your sweet spot stuff. So always double check on that. But I think as you initially said,
+
+53
+00:23:45,200 --> 00:24:14,592
+Or was this before we started recording? It's easier to do sweet spot kind of mid-season like when you're fatigued and for maintenance. Like it's a lot lower cost to toss into a week between races, right? Yeah, or if you're looking to add like a third day of intensity in a week in the threshold block, like doing some sweet spot has probably less chance of affecting the other workouts and also you've probably got less chance of, well, more chance of getting through the workout as well if you do a bit of sweet spot.
+
+54
+00:24:14,592 --> 00:24:42,256
+Yeah. And I would say the other benefit here is that it's way easier to do over-unders. And in fact, if you love over-unders and you just want to do them all the time, and you've certainly got time to do sweet spot workouts, you can do all of your sweet spot workouts as over-unders and there's no harm to it really. Would you agree with that?
+
+55
+00:24:42,416 --> 00:25:11,312
+Yeah, I'd agree. Although sometimes if you've been doing a lot of high intensity, you might want to give your kind of bigger motor units a rest and lay off the bigger watts. I think, yeah, if you're tired, sweet spot's something that you can probably do, but you probably want to just keep it rolling, keep it smooth. So assuming you're feeling good, I'd agree, but there's a time and a place to...
+
+56
+00:25:11,312 --> 00:25:33,424
+So take it steady as well. Yeah. All right. Downsides. Time efficiency. As we've already said, you need a lot more time in a workout to do this. Like if you are starting off and you've got like an hour and you can only hold sweet spot for 40 minutes, yeah, that's awesome. Cool. No problem at all. But once it becomes...
+
+57
+00:25:33,680 --> 00:26:03,200
+a matter of, oh, I don't have time to do it during the week. You can do higher intensity stuff during the week and then sweet spot stuff on the weekend when you've got a lot more time to train. If you can do a two or three hour ride and you can get in longer intervals, there you go. There's your time to do sweet spot. Yeah, I'd agree. You can knock out two by 20 in an hour long session midweek and then go get it with the four by 30 sweet spot on the weekend in the long ride if you want.
+
+58
+00:26:03,200 --> 00:26:31,728
+Yeah. All right. Another downside. Sweet Spot is far enough from FTP that you may not feel your thresholds going up. All right. Go ahead. Let's lay into me. I want to hear it. I'd say if your threshold is moving up that quickly. Well, yeah, I don't know. I think.
+
+59
+00:26:31,728 --> 00:27:00,816
+How quickly is your threshold moving? I think if it's moving quickly enough, then that sweet spot will probably start creeping up as well. I think it would start feeling pretty temporary and you might get a little bit bored there. But if it's moving slowly, then I still think it's kind of doing the same thing. Like we said, it's kind of 90% of that threshold value and that threshold is probably not fixed on a watt.
+
+60
+00:27:00,816 --> 00:27:29,552
+If it's kind of creeping up, then yeah, you're still going to be working at sweet spot. Okay, so all right, I'll give you that because I think like actually you're a really good example of that. Like if I'll give you like over-unders and like maybe with like a starting target, but you'll adjust that as you go because your RPE is like super, super well dialed in. But like that's the case for a lot of really well-trained people. I think
+
+61
+00:27:30,064 --> 00:27:59,168
+I think if you are somebody who's prone to get stuck in an RPE rut or like a psychological rut with a number, let's say it's like 250 watts and you're like riding at 260, 270 watts now, even if you are better trained, if that's harder to take mentally, I'm one of those people. I always had a hard time with that until I started to do all of my efforts approximately
+
+62
+00:27:59,168 --> 00:28:28,672
+to Exhaustion. That was much different because I was going out and I was doing three by 30 sweet spot over unders twice a week or something like that. And God, what year was that? Like 2013 or 14? Jesus Christ. It's so long ago. I'm so old. Hey, back in my day. So every single time I went out to do a three by 30,
+
+63
+00:28:28,672 --> 00:28:54,320
+I did them to feel and to exhaustion and the watts went up a little bit every time. And that's, that was unusual for me. It was kind of a breakthrough in terms of like understanding training and adaptation and stuff like that. But I think a lot of the time, yeah. Okay. So we'll put this one in the middle. It's like, it's an upside and a downside. So if you're well-trained enough and you can.
+
+64
+00:28:54,320 --> 00:29:24,016
+Nail that RPE and you'd know what it feels like and you can adjust your watts based on that feel. Yeah, cool. Okay, I'd say, sure. And I would also say working a little bit too easy or a little bit easier than planned is not really a downside. Most people end up tiring themselves out pretty quick. So, yeah, I don't see many people under doing training too often.
+
+65
+00:29:24,016 --> 00:29:49,200
+So if your threshold's going up quickly enough that your sweet spot is a little bit more like tempo, I don't think that's a big problem. And if it is moving up that quickly as well, you're making some crazy gains, crazy noob gains, then just ride that wave. Okay, yeah, I'll agree with that. All right, last downside is that...
+
+66
+00:29:49,488 --> 00:30:17,392
+Well, I think you mentioned this before we got started, is that you cannot have sweet spot be the only thing in your training plan. Yeah, I think you'd be leaving a fair bit on the table. Yeah, I think especially after you see those initial improvements and then you stop seeing them, and then you take a rest, maybe try it again, and you're like, all right, this is really all I got.
+
+67
+00:30:17,552 --> 00:30:44,464
+I mean, we've said it on the podcast a million times that there's no one silver bullet to training. You've got to kind of do everything in somewhat judicious and personalized amounts in order to see your best improvements. And I'd say close to that, I think another potential downside.
+
+68
+00:30:44,688 --> 00:31:14,064
+is in terms of recovery. Because if you do like a sweet spot workout often enough, you're probably not going to be recovered. Let's say you're trying to do sweet spot like four times a week, five times a week, something ridiculous. And you're going close to or to exhaustion, which I'd say if you're doing it once or twice a week would be totally reasonable. But if you're doing it four or five times a week, now we're looking at you're probably not recovering fully.
+
+69
+00:31:14,064 --> 00:31:39,104
+And we're not actually sure if what you're doing is your true capacity. So I think if you are relying on your TTE and time and zone per workout as a marker of your progression, it can be influenced by fatigue to such a degree that you're not sure if what you have is real data or if it's tainted by...
+
+70
+00:31:39,104 --> 00:32:03,088
+Fatigue, or not sleeping enough, or maybe you're getting sick, or something like that. So it's difficult to say, but I'd say probably the last, maybe we'll put this in the upside column. Yeah, let's put this in the upside column. If you see your time zone going up, you're improving. It's pretty cut and dry, right? Yeah, I'd agree.
+
+71
+00:32:03,088 --> 00:32:28,496
+All right. Do you have any other thoughts? Because that's all I had for now, because we have a ton of listener questions. Not really. Hopefully, the questions will give me some more thoughts on it. All right. Because whatever you and I have chats about your training, they're three hours long on like two questions.
+
+72
+00:32:29,456 --> 00:32:45,360
+I'm waiting for that James to come out because I know he's in there. All right. First question. Is it really the optimum modality or intensity for time crunched as opposed to polarized?
+
+73
+00:32:55,312 --> 00:33:24,624
+No, I think, well, given what we said, it's a pretty bad intensity for time crunch. You're going to need a lot of time to make some good gains there. So I think for noob gains, any intensity is good. So yeah, if you're pushed for time, then sweet spot is probably somewhere you don't want to be for too long. Yeah, I'd agree. I also, just as a matter of
+
+74
+00:33:24,624 --> 00:33:52,784
+The premise of the question. I've made podcasts about this before, but I think deciding your distribution of intensity beforehand is a massive mistake. Because let's say you're on, let's say you're riding five hours a week and you can ride like Tuesday, Thursday, Saturday, Tuesday, Tuesday, Wednesday, Thursday, Saturday, Sunday for an hour a day.
+
+75
+00:33:53,616 --> 00:34:20,543
+Chances are you could probably handle a little more intensity than most people could who are riding like 15 hours a week. All other things being equal. All other things being equal. There's a lot, a lot, a lot of caveats to that. And I would say you probably couldn't even do it that many weeks a year. But it can certainly be a thing. There is definitely some...
+
+76
+00:34:20,543 --> 00:34:46,480
+I mean, James, you write enough, you know this in your bones, that enough quantity has an intensity of its own. Yeah, you can get tired enough doing any kind of intensity, I think. For long enough, yeah. Yeah, at the end of the day, if you drop down your hours to five hours a week, you're still getting...
+
+77
+00:34:46,704 --> 00:35:12,864
+a lot more recovery time, or certainly time in not pedaling. So depending on what you're doing in that time, you might not be recovering. But hypothetically. I was just reminded of a quote by Stalin. This is a very Russian type quote. Quantity has a quality all its own. Nice. Yeah. Anyway, so yeah, I think that.
+
+78
+00:35:12,864 --> 00:35:40,176
+If you are deciding whether you should do sweet spot or not, you should be thinking, do I need those muscular endurance adaptations? And I think if you are, and do you have time to do it? Is it practically easy enough for you? Is it physiologically easy enough for you? Those are all questions you need to answer before you decide, I'm going to do sweet spot instead of FTP. Not just because somebody says sweet spot's easier and better and yada yada. It's like, decide with all of the knowledge you have.
+
+79
+00:35:40,176 --> 00:36:09,360
+Does this make sense to me? Because I think the variation between individuals is going to be greater than the variation that is within the population. Like on average, should people in general be doing sweet spot training? Yeah, sure. Why not? But should you personally be doing sweet spot training? I have no idea. Okay.
+
+80
+00:36:09,488 --> 00:36:37,120
+Second question. Is there a weekly volume of sweet spot that you like to build to? Weekly. Why does everybody want to know about this in terms of a week? Yeah, I'd be more thinking of it as a kind of session because it's not something that I'd really focus on for like a block. It wouldn't be the only day of intent. It wouldn't be the kind of only intensity I was doing.
+
+81
+00:36:37,120 --> 00:37:02,400
+in a week with someone unless they were focusing yeah and maybe unless they were just doing a lot of lifting as well or something intense off the bike but yeah for a sort of individual ride which if I'm only doing it once a week will cover weekly volume somewhere between
+
+82
+00:37:02,400 --> 00:37:31,568
+2 hours, 3 hours, absolute tops, but at that point, I'd probably, yeah, I think, yeah, I'll go with that, 3 hours max. Yeah, and I would say it entirely depends on how often you're doing it, because if it's me, and I'm going to do Sweet Spot, like right now, and I did it 3 days a week, I don't think I could even hit 3 hours right now. There's no way. No, and that is a, that is a very high.
+
+83
+00:37:31,568 --> 00:37:59,792
+Target. I definitely don't think we should be kind of aiming for that too regularly and it might take you a long, long time to build up to that amount of time at sweet spot at which point you might be better off doing something different a lot sooner but in terms of like a maximum that's probably the most I've ever prescribed someone. Yeah, I think the max I've ever prescribed anybody is about two, two and a half hours maybe and that's in one workout.
+
+84
+00:37:59,792 --> 00:38:28,416
+Per week? I have absolutely no idea. Because, you know, are we doing other stuff? Are we racing? What else is going on? Are we building to an ultra? Are we building to whatever? Do you need that much workout? Are you a crit racer? And if you do three hours of sweet spot, is that ridiculous? You know, if your races are like an hour long, is that unnecessary? I would say in a lot of ways, potentially yes. And occasionally on the margins, I would say maybe not.
+
+85
+00:38:28,416 --> 00:38:49,536
+Really, really individual dependent. So yeah, so I, I, my answer to this is really you, I prefer to think about it in terms of what's happening week to week or no, sorry, not week to week, workout to workout. So if you're doing it twice a week and you're building, you know, adding in like five minutes of time and zone each workout. Okay, great. But if you're doing that.
+
+86
+00:38:49,536 --> 00:39:19,120
+once a week and you're adding five minutes of time once a week. Sure. Okay. There you go. So I'd rather think about it in terms of like in a single session than like per week. But I, I'd add as well, it can be a mistake to think of it in a, in a weekly, uh, kind of timeframe as well, because you could do more sweet spot in one week doing, you know, 15 minutes of sweet spot seven times in a week, uh, and then doing one session where you're doing.
+
+87
+00:39:19,120 --> 00:39:48,032
+2x30 minutes at Sweetspot. And what is better training? Well, most, yeah, it's going to be the one where you do more time in a single session. And then you've also got six other days to, yeah, well, take it easy or do a different kind of training. So I think it's an intensity that people can do when they're tired. And that is both a good and a bad thing. But I would be, yeah, I'd be questioning.
+
+88
+00:39:48,032 --> 00:40:16,976
+Why you would be doing it so regularly in a week that it starts, yeah, that you need to think a bit more of a weekly volume rather than a session by session thing. I think this is, it's just that a lot of people plan or are trying to plan ahead of time in terms of like, okay, if I build up to X amount per week, like this is good. Because if you've looked at a lot of studies on like training intensity distributions,
+
+89
+00:40:16,976 --> 00:40:46,240
+You know, they usually break it out like by week or by month or they'll do like a volume equated or like a percentage. And I think that I think that that can be informative. Sure. But occasionally I think that it will it will be lacking the individualization that people really need. Yeah. I mean, if you could.
+
+90
+00:40:46,240 --> 00:41:14,272
+If you just looked at things on a weekly or annual basis, you could do a pyramidal training distribution every single day by doing some easy riding, a bit of tempo and sweet spot, and then doing one VO2 max interval at the end and a couple of sprints to finish. Doing that every day of the year is definitely not going to be as good as working on individual...
+
+91
+00:41:14,272 --> 00:41:42,192
+types of intervals in sessions themselves. Yeah. All right. Next question. Can sweet spot raise FTP? Yes, I think. I mean, I think at first anything raises FTP. Like if, if you took, if you took a person who doesn't exercise and you have them start lifting weights.
+
+92
+00:41:43,280 --> 00:42:13,008
+That's probably going to raise your FTP. If you have somebody who does exercise and you have them start walking 15,000 steps a day, that's probably going to raise their FTP. But if you take somebody who's pretty well trained, how many times has it happened to you or one of your clients, James, where somebody's doing threshold work and just nothing's budging? Probably a lot because it happens to me all the time and I need to know, is that okay for now or do we need to shift gears?
+
+93
+00:42:13,008 --> 00:42:38,064
+Yeah, I mean, I see that quite a lot. I'll give someone a sweet spot worker or threshold worker and their threshold doesn't move. That may not be a problem. It might not be what we're looking to achieve from that block. But yeah, certainly I don't always expect it to move and certainly it doesn't move in a lot of times. But if you can improve your threshold from doing sweet spot training, then...
+
+94
+00:42:38,416 --> 00:43:03,632
+Mega. Good stuff because it's a pretty chill place to be. Yeah, agreed. All right, next question is, I'm not strong enough to ride in small breakaways. Will sweet spot over unders help? Now, I really like this question because this is the kind of stuff I really, really, this is my bread and butter. This is a personalized question. I have this personal issue. This is how I race.
+
+95
+00:43:03,952 --> 00:43:33,616
+This is so much information here in a little question. I'm writing in small breakaways, not large ones because obviously you've got a lot of places to hide. Will sweet spot over unders help? So I'd say if you are always doing steady state training and you feel like it's the surging that's the problem, I would say sweet spot over unders could potentially help quite a bit.
+
+96
+00:43:34,160 --> 00:43:57,024
+or I would say you may need to do more dedicated practice of surging or the question is if you are in let's say a 30 minute breakaway in an hour crit and in that 30 minutes you spend almost all of it riding over threshold there's
+
+97
+00:43:57,024 --> 00:44:26,224
+Not much you're going to do with any type of sweet spot over under training because you need to raise your VO2 max and your threshold in order to make that a sustainable intensity for you because 30 minutes of time and zone in an hour crit for like over threshold is kind of a lot. Yeah. But likewise, if it was I'm doing, you know, if you're in the breakaway for three hours in a road race and your legs fall off towards the end, then
+
+98
+00:44:26,224 --> 00:44:53,488
+Yeah, sounds like you could be lacking some muscular endurance, which Sweet Spot would be great for. Yeah, agreed. Yeah, totally. Okay, next question is, do I need Sweet Spot if my main goal is to increase it? Oh, we already did that one. Can it raise FTP? Yeah, sorry. Let's try this again. When I work up to long Sweet Spot, one by 120 minutes, it makes me feel invincible more than any other hard workout. Why?
+
+99
+00:44:57,392 --> 00:45:25,680
+What other hard workouts are you doing, for starters? That's a good question. Actually, that reminds me, I always have this thought, whenever a new training modality sweeps the world tour, and everybody's like, oh yeah, this is great, I've seen so many improvements, my first question is, what were you doing before? And what else are you doing now? Or, potentially, what did you stop doing?
+
+100
+00:45:26,096 --> 00:45:51,024
+There's a lot of questions that would potentially lead to improvements. So it's not always just the thing you're doing. It's what else is there? Maybe if you do one by two hours at Sweet Spot, you're exhausted and you take a lot of rest. And maybe that's why you're feeling strong. Could be that. Who knows?
+
+101
+00:45:54,384 --> 00:46:23,312
+Yeah, yeah, I haven't got too much to add, really. I think two hours at sweet spot is solid work. You know, if you're doing good training and you're pushing out your TTE, then I'm not too surprised that you're feeling stronger than before. I think one thing I would add is that in general, TTE stuff seems to be a bit underrated. You know, it's a lot sexier to have a bigger FTP as a raw value.
+
+102
+00:46:23,312 --> 00:46:51,888
+Maybe it's just that you're seeing progress in the area that you haven't paid as much attention to. Yeah. And I remember I got into a rather public fight, which has now been scuttled on a certain forum where I initially joked that I forget exactly the numbers. It was like 10 or 20. I would rather have 10 or 20 minutes more TTE in a lot of cases than 10 or 20 watts more FTP.
+
+103
+00:46:51,888 --> 00:47:19,136
+And that rubbed a lot of people the wrong way. But I am not the only person to say that. I think, I mean, I swear to God, I think I heard Tim Cusick say it first in a webinar sometime, if I recall correctly. But I know other people who feel the same way. And I would say, especially if raising FTP is like pulling teeth.
+
+104
+00:47:19,136 --> 00:47:48,560
+increasing TTE is actually a lot more sustainable because raising FTP requires volume. It requires you to max training, high intensity stuff and recovery. And like if you're two, three weeks before a race, like that's not, that's the last thing you want to do. You want to be prepping to race and you want to get there fresh with good legs. I've also, sorry, just had another thought on this question. Yeah, let's go. Why do you feel good when you're doing, you feel up to two hours of sweet spot is maybe you're
+
+105
+00:47:49,072 --> 00:48:14,832
+You're riding at an intensity that is productive. Maybe your other sessions or other times of the year you're training too hard. So I would, yeah, potentially you're over, you know, you could be, I'm not saying this is, I'm not having a go at this question asker, but, you know, if you overestimate your FTP just a little bit, maybe doing your threshold intervals a little bit too hard.
+
+106
+00:48:16,976 --> 00:48:41,456
+Yeah, and you knock the intensity back. Yeah. I think also this is one of the things that I like about working with people is that the individual variation on what makes somebody feel really good is massive. I mean, every time somebody asks me for just openers, I'm like, well, here's a list of 30 things that I know work for different people for openers.
+
+107
+00:48:42,640 --> 00:49:06,960
+It's very, very, very different indeed. So yeah, I really like the individual aspect because if this works for you, Oz are decent that it's not going to work for a lot of other people and that's totally okay. We are not as homogenous as we all think. That's right.
+
+108
+00:49:07,120 --> 00:49:30,496
+That's why it's good to keep a training diary, kids. If you write comments on training peaks or you have a different way to record what you've been doing, then you can look back and see, actually, what did I do before that race when I had really good legs? That sort of thing is invaluable because you can't just look it up in a paper or in a blog post and see.
+
+109
+00:49:30,496 --> 00:50:00,464
+Oh, this is how I get the best legs on race day. It's, uh, no, what's going to get you those best legs could be very different to someone else. Yeah. I mean, and, and they're worth looking back on too. Um, cause sometimes they're informative, especially if you've been fairly well-trained for a while. And sometimes they're not so informative. Like if, if I went back and looked at the training I did when I was brand new as seeing, you know, all the nice, easy noob gains, they would not work for me when I'm well-trained. Um, they would work for me right now. Cause I'm,
+
+110
+00:50:00,464 --> 00:50:30,368
+Horribly Trained, but yeah. Anyway, okay. Next question is, is it worth doing a block for someone who can do a lot naturally? I think meaning long TTE. Potentially. Yeah. Yeah, this is big. It depends. It depends, yeah. But I think it's worth exploring because I think it's an interesting question.
+
+111
+00:50:30,368 --> 00:50:59,056
+Let's say your threshold is like 300 watts, right? And you can do 250 to 270 watts for two hours most of the time without even being bothered when you're in shape. Should you spend three weeks pushing that out? At that point, odds are likely that you're not going to increase your threshold like that. Odds are also likely that, especially if you don't have more time to ride,
+
+112
+00:50:59,056 --> 00:51:27,488
+If it's, you know, it's probably not going to improve your endurance that much. But I would also say that if you are, if you're like a time crunched person who races ultras, potentially, yeah, that would potentially be a good thing to do because you're shortcutting, you know, like, you know, high, high, high volume for, you know, that kind of muscular adaptation for this kind of muscular adaptation.
+
+113
+00:51:27,488 --> 00:51:57,168
+Especially if your goal race has a lot of kind of moderate intensity pedaling. I mean, yeah, sure. Like building up to like three hours of sweet spot, be hard as fuck, but you know, that would probably increase how long you could ride a tempo. But you're just not doing as much specific training, but it would probably work. But being able to do a lot of sweet spot naturally is maybe different to being able to recover from it.
+
+114
+00:51:57,392 --> 00:52:26,736
+you know naturally like yeah how how quickly can they recover from it as well is a question uh but certainly if you're feeling like you can do a lot of sweet spot on a session uh going back to the TTE training maybe you're not riding at a hard enough intensity that you are reaching TTE uh or else you need to ride longer and then see see where you end up uh so another question would be like what is your goal race like are you racing crits do you have a hard time accelerating uh
+
+115
+00:52:26,736 --> 00:52:52,048
+Are you doing road races and endurance is not a limiter and like your higher intensity efforts are a limiter? I would say there's no, or what? I was going to say, if you're doing like a, if you're targeting like a Hilly Grand Fondo, which got, you know, multiple eight C climbs, then yeah, it's definitely something that it could be worth trying to push out a bit more, even if you do think you're naturally good at it.
+
+116
+00:52:52,048 --> 00:53:19,952
+Yeah, so I would say just do a standard gap analysis. Where are you at versus what are your goals? And that'll get you where you need to go. All right, next one. Oh, speaking of the devil, sweet spot for ultra racers, TTE to goal race duration. I would be fascinated to see somebody who can do sweet spot for 24 freaking hours or more. Jeez.
+
+117
+00:53:20,784 --> 00:53:49,792
+Sweet, yeah, this is exactly what we just talked about, yeah, like, sweet spot for ultra racers, if you don't have the time to do a lot of, like, super long riding, like, if you can't ride, if you're looking to, like, train up for, you know, I don't know, a tour divide or something like that, and you're like, man, I want to, I want to ride from, you know, Friday night to Sunday afternoon, going to get two nights, going to, you know,
+
+118
+00:53:49,792 --> 00:54:17,280
+Get all that training in. I'm going to yada, yada, yada. Like if you can't do that, yeah, sweet spot is probably a good middle ground, especially if you can ride for like five, six hours. Yeah, why not? Just make sure that you're recovering. I just add though that sweet spot is going to be, yeah, it's somewhere you'll probably be a lot of, it's a pace you might be at for a lot of time in your races or certainly not too far away.
+
+119
+00:54:17,280 --> 00:54:46,992
+if you're well trained but that doesn't mean that you should be training specific all the time and certainly a lot of ultra races maybe they it's counterintuitive but you might need to be doing some more high intensity stuff even though you're racing for multi-day events you know sweet spot isn't always the answer there yeah yeah so I mean I think I think you're what you're getting at is what are the specific needs that you'll have for your racing
+
+120
+00:54:46,992 --> 00:55:15,040
+Versus what are the general physiologic things that we can improve? Threshold VO2 max, endurance, yada, yada, yada. And I guess maybe to drive that point home, we could think of an analogy. Like if you are a shot putter or you are like an MMA fighter or something like that, like chances are, I mean, if you're healthy enough, especially in your back, like heavy squats are probably going to be a regular part of everybody's program, right?
+
+121
+00:55:15,040 --> 00:55:43,792
+but when it comes to specific stuff if you're a shot putter like you had you've better have have like a gigantic pack on your throwing arm you know what I mean you and you've got to be able to do like a heavy single leg squat but if you're like an MMA fighter like you don't want to have any of that stuff um so anyway yeah so just um yeah standard gap analysis uh is sweet spot overrated is our next question
+
+122
+00:55:46,352 --> 00:56:14,800
+I would say I'm going to say yes by low volume clients and no by bigger volume clients. Yeah, I would say I want to approach this from well, I agree with you there, but I want to approach this from does it live up to the billing? Does it live up to the hype? So I would say in terms of the hype, Sweet Spot is overrated.
+
+123
+00:56:15,280 --> 00:56:42,864
+But in terms of using it as a tool in your toolbox for training, it's rated. It's fine. It's like nothing in a coaching toolbox or in a workout toolbox or anything like that is going to be underrated. It's not like, oh my God, I've got this secret workout that is amazing for everybody. That doesn't happen. Like, can you use your tools at the appropriate times? I mean, I was a carpenter for 20 years.
+
+124
+00:56:42,864 --> 00:57:11,552
+I did residential commercial remodeling and stuff like that. Like if I've got a back a screw out of a hole, I'm not going to reach for a sander. It's that simple. And the same thing applies to picking the workouts that are right for a client. It's not like the sander is the best tool ever. Actually, I would say sanders are sanders are rated.
+
+125
+00:57:11,552 --> 00:57:40,128
+and I'd say Sweet Spot is just rated. It's not overrated. It's not underrated. It's fine. I'll say I think it's underrated for openers. I think I would add on that. Not to Exhaustion, not for openers. Yeah, no, no, no. I think like openers, maximal efforts for openers are way overrated and yeah, doing something like Sweet Spot can be a good way to open up without creating too much fatigue.
+
+126
+00:57:40,128 --> 00:58:09,440
+Depends on the person. I've had like four or five clients over the years who do max efforts for openers. And I'm not talking like a minute, which I think 30 seconds to a minute is pretty commonly what I see. I used to do that and it made me fucking exhausted the next day because I'm, you know, your boy here is pretty anaerobic. I could, I could smash the pedals for a minute. And it costs me. And there are a lot of people who have that ability where it can cost them.
+
+127
+00:58:09,440 --> 00:58:35,024
+And so for that kind of person, I avoid that kind of stuff entirely. However, for these people who like max efforts to open up for a race, we're talking 10 minutes, 8 to 10 minutes, full gas. And it's the only thing that opens them up really well. So, and that's after appropriate rest too.
+
+128
+00:58:35,248 --> 00:59:01,872
+So it's not like one of those things where somebody's not quite rested and their body's still recovering and you really got to smash your legs to open up. That's a thing too. But I mean, this is just how we've figured it out over years. But I think on average, I think you're right. Sweet Spot is probably a little underrated for openers. Doing like 10 or 20 minutes worth might be worth trying. Okay.
+
+129
+00:59:03,600 --> 00:59:30,800
+Next question, how to tell if you're in tempo sweet spot, tempo slash sweet spot and not threshold? I think there are a few kind of, I think tempo and sweet spot is a little bit more of a blurred line than threshold and tempo. I'd agree. But yeah, you should be
+
+130
+00:59:32,624 --> 01:00:01,520
+Something like a 6 out of 10 RPE pace. 6 to 7 out of 10 RPE pace is something that I'd say. Yeah, it might depend on how long you're sitting there for. Yeah, I would say tempo. Tempo is where you're failing the talk test. People can tell you are exercising. Endurance pace, you are passing the talk test with flying collars. You could be on a work call, and as long as they can't hear the trainer, you're fine. Or the wind.
+
+131
+01:00:01,520 --> 01:00:25,872
+They can always hear the wind, by the way. I've had many people call me on the bike and all they hear is... Okay, so I think the other thing to realize with tempo and sweet spot is that I'd say with sweet spot and threshold, for most people within a reasonable amount of time, you will get to exhaustion.
+
+132
+01:00:26,288 --> 01:00:52,496
+where your legs just go, ah, I can't. And if you really dug deep, you could probably do another five or 10 minutes, but it's unnecessary, frankly. With tempo, especially as you get pretty well trained, it's going to get harder to find exhaustion. And this is one of the things that to me makes tempo, especially for really well trained people like James for you, like in season, tempo is for maintenance.
+
+133
+01:00:52,496 --> 01:01:21,904
+You know, like, if I gave you a tempo workout to exhaustion, you'd be out there all fucking day, like we talked about earlier. So I think with tempo, that's a much more blurry line of like, when am I tired? Because I think a lot of people would actually, once you're pretty well trained, I would say, I would say people would find muscular fatigue as often as they would, from actually having an inherent capacity limiter, as often as they would.
+
+134
+01:01:21,904 --> 01:01:47,376
+find their limiter from like not being able to eat enough. I hope that makes sense. I don't know if it does. Anyway, we are going to move on. If my sprinter athlete, I love it when coaches ask questions, by the way, I know there's a fuck ton of you out there listening. But, and don't worry, those whose names I know, I will not mention you.
+
+135
+01:01:49,424 --> 01:02:19,024
+Love it when you guys ask questions. So if my sprinter athlete manages to crack two hours time of zone, can we call it a wrap for improving that weakness? I'd say it might be a good time to move on to some threshold work. But yeah, it depends. My big question is, did it improve?
+
+136
+01:02:19,024 --> 01:02:48,480
+Race Performance the way that you wanted it to. And if it didn't, then maybe that wasn't the move. Yeah, I'd agree. And I don't think, yeah, it depends what races they're doing, but I'm not sure if the fact is a sprinter is that relevant. Yeah, yeah, no, I agree. Because, I mean, I mean, thanks for mentioning it, but what I'm saying is, it doesn't matter if he's a sprinter.
+
+137
+01:02:48,480 --> 01:03:18,464
+or she is a sprinter. They, yeah, that two-hour kind of, that two-hour mark that you've set would, I feel like the answer's the same if they're a climber or they're more of an all-rounder. Yeah. Yeah. Yeah, I prefer to, I don't find that people being sprinters means that we need to train them any differently.
+
+138
+01:03:18,464 --> 01:03:45,168
+They've got to eat more. That's only because we like to. I've got to keep these curves on my thighs. I think a common mistake, it's not that common anymore, but I think a common mistake is that a lot of people will
+
+139
+01:03:45,840 --> 01:04:15,632
+over-focus on their winning strategy and not as much what does it take to get there or what is an absolute limiter for your racing. So if you're a sprinter and you've got an amazing sprint, like I don't want to improve it until you are losing by like half a wheel and you're always losing by half a wheel and we got to get you a little more top end. Like that's a very different question than I'm a sprinter but I can't make it at the end of a race. Now what do I do? Or I'm a sprinter and I'm
+
+140
+01:04:15,632 --> 01:04:44,976
+You know, I'm a good national level rider, but I want to make it to the world tour. That's an entirely different kettle of fish. So, yeah. Yeah, I would say, yeah, check your, check your weaknesses too. And if, and the ultimate test is, did the performance you were looking to improve actually improve? And that's the same with any training intervention, regardless of
+
+141
+01:04:44,976 --> 01:05:08,176
+Sprinter type or not. Okay. Just a couple more. Is there any difference in two versus three reps when they get longer as in two by 45 versus three by 30? And those are my examples. I think the example that somebody uses like two by, it was a, there were very specific numbers. It was like two by 50 versus three by.
+
+142
+01:05:08,176 --> 01:05:37,232
+I don't know, whatever, 100 by 33.3 or something weirdly specific. So 2x45 versus 3x30. Is there any difference? For the training stimulus? No, I'm going to say basically no. Yeah, I'm going to say on the margins maybe, but for most people, yeah, I'm also going to go with no. I think this is more...
+
+143
+01:05:37,232 --> 01:06:05,168
+along the lines of are there practical limitations? Like if somebody doesn't have a 45-minute climb or road or they don't want to be on the turbo doing an interval of 45 minutes, all right, don't do 45 minutes, do three by 30. That's fine. It's totally fine. Yeah, I think people are too afraid to break things up just because, you know, if you can do three hours of the sweet spot, but they're only...
+
+144
+01:06:05,168 --> 01:06:33,648
+20-minute efforts. You're still getting a lot of time done there. It doesn't mean that you're cheating. Yeah. Yeah. It's sort of like – it's like if – I like using lifting weights as an analogy because it's really cut and dry. Like did you get there or not? Did you accomplish the reps or not? So it's sort of an analogy of like if you are looking to get a little bigger and a little stronger, should I do –
+
+145
+01:06:33,648 --> 01:07:02,208
+sets of six? Or should I do sets of 10? And the answer is really like there's no difference whatsoever. Like if the goal is being accomplished, that it doesn't matter how you got there. And again, like 45 minutes versus 30 minute efforts, even versus 20 or 15. Well, for sweet spot, I would say for somebody well-trained, 15 is a little short. 20 minutes or longer, I would prefer to stick to. But like as long as you get to where you want to go,
+
+146
+01:07:02,208 --> 01:07:26,416
+What you did to get there is irrelevant. Fitness is a state function, not a path function. It doesn't matter how you got there. And there's a lot of ways to get to the same spot. Okay. Second to last question. Is fueling a limiter for the muscle or is fuel uptake during sweet spot a limiter? Is pre-ride fuel king?
+
+147
+01:07:31,376 --> 01:08:00,736
+Okay, we're going to start with the first half of that. Is fueling a limiter for the muscle or is fuel uptake during a sweet spot limiter? As in, if you eat more than you need to eat, or if you're not eating at all during a sweet spot effort, especially if they're getting kind of long, then yeah, fueling is probably a limiter for how much work you can do.
+
+148
+01:08:00,736 --> 01:08:29,439
+Pre-ride Fueling, similar. If you are not eating enough in the 12, 24, 48 hours before a hard workout like this, or even longer, yeah, could be a limiter. I mean, you are definitely using a lot of glycogen stores when you do this, but you, general training principles these days,
+
+149
+01:08:29,439 --> 01:08:58,624
+for fueling are almost as much about fueling the efforts you are doing themselves as about maintaining a good energy balance so that way you do not have to house down 5,000 calories when you get home, which is going to suck ass. And it seems that fueling during your ride helps with much faster recovery in general. And James, you
+
+150
+01:08:58,624 --> 01:09:25,055
+You can churn through an amazing amount of kilojoules when you're out there doing sweet spot work, especially for a couple hours worth at a time. So what's your personal experience with this? I think for both sweet spot and threshold work, what you ate the day before, sort of muscle glycogen, is massively important. And yeah, kind of going back to, yeah, I would say
+
+151
+01:09:25,055 --> 01:09:51,872
+What is in the muscle? Muscle glycogen is king, I think, for what you can accomplish in a session. In terms of like a stress response and recovery, I think eating on the bike becomes massively important as well. And that's not to say eating on the bike can't help you do more in an individual session. But yeah, if I had to pick one, do you eat nothing before?
+
+152
+01:09:51,872 --> 01:10:18,288
+Nothing the day before and nothing during the ride. What a terrible choice. It's a terrible choice, but I think muscle glycogen is key, but certainly from a – yeah, there are other benefits to eating on the bike than just what you can accomplish in that session from an overall kind of training.
+
+153
+01:10:18,288 --> 01:10:46,816
+If you're looking at your week or whatever, it makes a lot of sense to fuel those rides big. You're going to be able to do a lot more work there. Yeah, it's probably the intensity you can get the most work done at total. So they are going to be rides that turn through a lot of calories and that makes sense that they should probably be the sort of rides you fuel the most intensely in terms of like number of grams of carbohydrates consuming.
+
+154
+01:10:46,816 --> 01:11:15,712
+an hour on those kind of things. So it's definitely a good ride to practice race fueling. And yeah, worst case, even if you can't, even if that doesn't help you squeeze out too much more TT in a certain session, too much more interval time, then you are going to probably be getting a bit of extra recovery ahead of time as well. Yeah. And I'm also curious about
+
+155
+01:11:15,712 --> 01:11:40,688
+Why this person is wondering about uptake being a limiter? Because there's really kind of two kinds of bonking. The first one is when we run out of muscle glycogen. The other one is when we run out of liver glycogen. And eating on the bike tends to support the liver glycogen and not so much the muscle glycogen in terms of...
+
+156
+01:11:40,688 --> 01:12:09,712
+Maintaining it or sparing it, I guess the right term is. And so if you are eating appropriately or if you're not eating appropriately, what happens is your liver runs out of glycogen and your glucose tanks and you're like, oh, I'm dying. And then you eat a gel and you are revived. Okay, yeah, sure. That's a problem. And then you can keep going. Great. There's an uptake limiter. It's not necessarily because your muscle was exhausted, but because
+
+157
+01:12:09,712 --> 01:12:39,696
+You ran out of blood sugar. So that would probably be a bigger limiter in terms of actual practical fueling physiology than really in the muscle, I would say. You could really find muscular endurance or muscular exhaustion if you are eating sufficiently though, for sure. Okay, last question. Is there a formula for target sweet spot total interval duration based on FTP, TTE?
+
+158
+01:12:39,696 --> 01:13:08,480
+Okay, that was clunky. Hold on. Let's rephrase that. Can you estimate how long you can hold sweet spot based on how long you can hold threshold? All right. I'll just come out and say it. No. It's kind of because of what we talked about before. How long you can hold sweet spot is based on many, many, many, many factors. And same as threshold.
+
+159
+01:13:08,480 --> 01:13:37,872
+and how long you can hold sweet spot. I would say there's probably some kind of equivalency, but I would say it does not, it would not apply to every person. And so if I were to try to apply it to every person, here's the thing, it might give you a place to start, but it's not necessarily going to mean that the average applies to everybody on the bell curve.
+
+160
+01:13:38,032 --> 01:14:07,344
+Those things that might change that, yeah, might be factors in that equation could be things like your training age and your fiber type, things like that. How much have you eaten? How much are you eating? Yeah. And those, yeah, we don't have those things. So just going off your FTP is a no. I would say there's a good analogy here, which is in a ramp test to estimate FTP.
+
+161
+01:14:07,344 --> 01:14:34,400
+And the origin of this in the scientific literature is that if you are doing a ramp test and you are measuring lactate while you are doing a ramp test, the ramp test is to find VO2 max. Usually the stages are way too short for lactate to stabilize. And so we tend to get, not always, but we tend to get inflated lactate values.
+
+162
+01:14:34,400 --> 01:15:02,224
+Somebody super well trained like you, James, like you've done these kinds of tests and all the lactate values just reflect exactly what we already know in the power data. But for most people, that is probably not the case. I remember I also had you warm up before that one too. So that always makes a difference. If you're not warmed up, that can really throw things off. But like in a ramp test, if you just assume that the average person's
+
+163
+01:15:02,224 --> 01:15:31,552
+Threshold is about 75% of what they do at max. Well, there's a question of like, how are we doing that? Is it with VO2? Is somebody's FTP on average 75% of their VO2 max in terms of like oxygen uptake? Like if their oxygen uptake max is four liters a minute on average, the average person's threshold is going to be three liters a minute. Sure. I think
+
+164
+01:15:31,552 --> 01:15:57,552
+That can be a fine place to start looking. But assuming that everybody falls into this is where it's going to be, we are all this average, is the fallacy of division, like par excellence. And that same exact thing applies to how long you can hold threshold and how long you can hold sweet spot.
+
+165
+01:15:57,552 --> 01:16:26,832
+If somebody super well trained can hold sweet spot for three hours and they can hold threshold for like 50, 60 minutes, that's very different than somebody like me where I can hold threshold for 30 minutes and there may be like 5, 10, 15 minutes standard deviation around like an hour for sweet spot when there are also people like you, James, who are just like wrecking the bell curve. Like you're way out there. So yeah, there's a lot of examples like this.
+
+166
+01:16:26,832 --> 01:16:55,904
+And I remember in, I think in Andy Coggin blog from forever ago, in, you know, like Cardinal Sins of FTP testing or something like that. And this goes for the scientific literature too, where they use 75% as a place to start looking. They know not everybody's going to be there. It's a place to start looking. So when it comes to...
+
+167
+01:16:55,904 --> 01:17:25,872
+How long can you hold your sweet spot based on your FTP time to exhaustion? The answer is really, we don't know. We can have a guess, but it's just a place to start looking. And like in most things, if you just go out and you just start doing it, your legs will tell you when they're exhausted. But I'd also say, I think it's okay not to, yeah, you don't necessarily need to get to that point either. If you're pushing out sweet spot intervals enough, then you might be,
+
+168
+01:17:25,904 --> 01:17:55,664
+You might want to just move straight to threshold stuff depending. So don't feel obliged to go and ride. Certainly if you've been training a little bit now or you're fairly well trained, it doesn't mean you have to be riding your sweet spot stuff to failure. Yeah, I agree. Yeah, individualizing it. And also the thing is like if you're like, oh man, I'm at two and a half hours to sweet spot and I'm dreading going to three, but my threshold isn't going up.
+
+169
+01:17:55,664 --> 01:18:22,416
+There's no harm in retooling your training plan. If something that you're doing, this goes for a sweet spot or anything, something you're doing is not necessarily getting you what you want out of the training, there's no harm in doing something else. If you think it's moving, okay, sure, stick with it a little longer. But if you're not seeing the improvements that you want, especially over a couple weeks,
+
+170
+01:18:22,448 --> 01:18:50,992
+You know, like one, two, three sessions, four sessions, something like that, however long that takes you. Yeah, no harm in moving on. James, you and I have done that many, many times as long as I've been working with you, right? For sure. Yeah, no, you have to be objective about what's going on and also think about what motivates you. You know, if you're not motivated to keep going with Sweet Spot, then yeah, maybe think about doing something else.
+
+171
+01:18:51,088 --> 01:19:17,392
+Yeah. Or if you want to do over-unders or whatever. Yeah. Have fun. If you're not having fun with your training program and there's like, well, if there's like millions of dollars on the line, okay, sure. I'm sure nobody making millions of dollars listens to this podcast, but if that's you, okay, yeah, I get it. You got to trudge through some shit you don't want to do. On the other hand, if you are recreational or you are having fun or having fun,
+
+172
+01:19:17,392 --> 01:19:26,432
+is part of what keeps you motivated to keep training. By all means, go have fun and balance the fun and the sweet spot training, even if you hate it.
+
+173
+01:19:26,432 --> 01:19:55,728
+I'm just kidding. There's other stuff to do. We've been over that. Anyway. All right. Thanks everybody for listening. If you would like to reach out for coaching, it's November. It's probably a good time to do that, to get started for next year. If you are thinking about that, empiricalcycling at gmail.com. And if you would like to do a consultation with us, we can always do that. Look at your training files, answer all of your questions, get you set up for the next year. And if you would like to give us a nice podcast rating and share the podcast, especially, we would love to see all of that. Thank you.
+
+174
+01:19:55,728 --> 01:20:12,976
+for that. If you've got any questions, comments, shoot me an email again, and purplecycling at gmail.com. If you want to answer, ask a question. Follow me on Instagram, Adam Purple Cycling. We can do amazing Instagram stories, and that's where we will ask the questions as well. So anyway, thanks everybody. We'll catch you next time. Cheers.
+
