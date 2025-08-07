@@ -1,5 +1,5 @@
 ---
-title:  "#37: The Redox Role In Adaptation, Recovery, and Nutrition"
+title: "37: The Redox Role In Adaptation, Recovery, and Nutrition"
 category: "Watts Doc"
 transcript_url: watts-doc/37/fiber-type-metabolism.txt
 ---

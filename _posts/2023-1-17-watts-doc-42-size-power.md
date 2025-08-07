@@ -1,5 +1,5 @@
 ---
-title:  "#42: The Relationship Between Size And Power"
+title: "42: The Relationship Between Size And Power"
 category: "Watts Doc"
 transcript_url: watts-doc/42/size-power.txt
 ---
