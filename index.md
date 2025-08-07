@@ -1,7 +1,3 @@
-# Empirical Cycling Podcast Summaries
-
-Welcome to the collection of summaries from the Empirical Cycling Podcast. Select a topic below to read the detailed summary.
-
 ## Watts Doc Series
 
 * [#37: Your Fast Twitch Fibers Probably As Aerobic As Your Slow Twitch](./watts-doc/37/summary.md)
