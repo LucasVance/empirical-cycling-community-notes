@@ -1,7 +1,7 @@
 ---
 title: "38: Phosphocreatine Is A Critical Aerobic Energy System"
 category: "watts-doc"
-transcript_url: watts-doc/38/creatine-aerobic.txt
+transcript_url: /empirical-cycling-transcripts/watts-doc/38/creatine-aerobic.txt
 ---
 
 [View raw transcript]({{ page.transcript_url }})
