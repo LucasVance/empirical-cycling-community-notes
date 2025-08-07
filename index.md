@@ -1,19 +1,16 @@
-# Empirical Cycling Podcast Transcripts
-
-## Last 5 Episodes
+### Recent
 
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <em>(Category: {{ post.category }})</em>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.category }}{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
 ---
 
-## Watts Doc Series
+### Watts Doc Series
 
 <ul>
   {% for post in site.categories["Watts Doc"] %}
@@ -23,7 +20,7 @@
 
 ---
 
-## Ten Minute Tips
+### Ten Minute Tips
 
 <ul>
   {% for post in site.categories["Ten Minute Tips"] %}
@@ -33,7 +30,7 @@
 
 ---
 
-## Perspectives
+### Perspectives
 
 <ul>
   {% for post in site.categories["Perspectives"] %}
