@@ -1,0 +1,1088 @@
+1
+00:00:00,432 --> 00:00:30,032
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson, and I want to thank everybody for listening as always, and of course, ask and please subscribe to the podcast if you haven't yet already. Give us a five-star iTunes rating and a nice review. That goes a long way. Thank you so much for all of that, or wherever you listen to podcasts, of course. And of course, as always, sharing the podcast is one of the best ways to support the podcast. So if you think it's going to answer somebody's question, or if you're just appreciating what we're doing, share it. And also, if you want to donate, we are at
+
+2
+00:00:30,032 --> 00:00:49,760
+Free, so you can do so at empiricalcycling.com slash donate. And if you have any coaching or consultation inquiries, we're always taking on athletes and we will always consult with you. We will answer any of your questions. We'll look at your files potentially. You know, our time is your time. So shoot me an email, empiricalcycling at gmail.com for any of that or questions or comments or whatever.
+
+3
+00:00:49,760 --> 00:01:14,704
+We do have some show notes today up on the website at empiricalcycling.com. And of course, at the end of the podcast, we answer some questions from Instagram. So at empiricalcycling, that's me. I usually ask questions before we record and also do some weekend AMAs up in the Instagram stories. So check out the stories. Give me a follow there. And I'm really excited for this episode because it turns out that we had a technical problem.
+
+4
+00:01:14,704 --> 00:01:39,696
+We actually recorded this episode already. It was a really good take. I was super stoked. And we had an audio glitch. So the extra reason I'm excited is because it was one of the few times where Kyle has gone, oh, like several times with a podcast. When I can get Kyle to do that, I know we're really hitting something good.
+
+5
+00:01:39,760 --> 00:01:59,872
+So in this episode, what we're going to be doing is we're going to be putting together a lot of the last couple episodes of the metabolism series. Like this is kind of what we've been building towards is like an actual deep understanding because once you have this deep understanding of metabolism and it's specifically the kind of the bioenergetics of mitochondria.
+
+6
+00:01:59,872 --> 00:02:28,416
+Everything makes so much more sense. And so the goal is by the end of this episode, you can kind of see how the cells' energetics work kind of the way I do. And so we're also going to talk about some mechanisms of adaptation and fat and lactate and all that kind of stuff. But before we get into that, Kyle, why don't you give us some thoughts on the metabolism series so far? So we've taken a...
+
+7
+00:02:28,416 --> 00:02:56,432
+Well, hopefully it's not too circuitous route through talking about, okay, aerobic exercise. What do you do? You think you burn fat? You burn carbs? You use something for a long time. You use oxygen, all these nice things. And hopefully by doing a little bit of a deeper dive through some of the topics like, okay, I eat something with carbs and fat and then the fat goes somewhere and the carbs go somewhere else. How does that actually help me when I'm exercising? Where does that stuff go?
+
+8
+00:02:56,432 --> 00:03:25,296
+And then you hear about, oh, is burning fat better? Is burning carbs better? You know, you can do both when you're aerobic. It doesn't, you know, aerobic does not mean you're only doing one or the other. And it turns out you're always doing a little bit of both. And then we talked about people want to talk about diet and all these things and hopefully have put a nice, very large wrapper around all of the different components, not even necessarily all of them, but many of the different components that go into
+
+9
+00:03:25,296 --> 00:03:55,008
+Aerobic Metabolism and how not only these things help keep yourself, your cells generally alive, but also how they help you do well on the bike and hopefully in races or in whatever your goal events are, like anything that is, it doesn't have to be cycling, right? It could be anything remotely aerobic. These metabolic principles still apply. Yeah, they really do.
+
+10
+00:03:55,008 --> 00:04:22,448
+The longer I've kind of been in cycling media and coaching people in cycling and the more people send me articles and ask me questions and stuff, the more I think, man, if people just kind of knew this, it would be so helpful. So we're going to actually start with a little bit of a preview for the next couple of Wattstock episodes. So the paper we're going to go into, actually, we're going to look at exercise with...
+
+11
+00:04:22,448 --> 00:04:47,088
+You know, burning fats and carbs and actual adaptive signaling. So we're going to look at that. And that's kind of the thing that we're going to get into in the next few episodes. But also, we're going to get into some other fun stuff with the Wattstock things. I think we should get into, you know, size versus power, like that kind of thing. We're also going to get into some other cool stuff that I've kind of got in mind.
+
+12
+00:04:47,120 --> 00:05:16,384
+Super secret right now. Can't let them know. No hints. No spoilers. No spoilers here. Yeah, I'm actually going to put it all up on a dartboard and throw darts while blindfolded. That's going to be what the thing is. Yeah, so this paper, we're going to start with this paper, and then we're going to use it as kind of a springboard to get into the stuff that I really want to talk about with metabolism. And I swear to God, it's all going to make sense in about 45 minutes or so.
+
+13
+00:05:16,384 --> 00:05:42,512
+The paper is titled, spoiler alert by the way, it's titled, Carbohydrate Improves Exercise Capacity But Does Not Affect Subcellular Lipid Droplet Morphology, AMPK, and P53 Signaling in Human Skeletal Muscle. So the link for that's in the show notes. And if you are familiar... Sorry, go ahead. I just love this because it's like, it's the most descript title. Like normally it's like, oh, just like...
+
+14
+00:05:42,736 --> 00:06:06,240
+looking at how carbohydrates impact exercise capacity. That would be it or whatever. But they just went, nope, we're putting the executive summary is the title. Yeah, they're coming from the school of, yeah, the title is like the abstract for the abstract. So what we've got here.
+
+15
+00:06:06,240 --> 00:06:34,608
+Well, basically what they wanted to do in this study, they wanted to look deeper at some preliminary evidence that restricting carbohydrates before or during training increases aerobic adaptive signaling. And they actually chose during. To control the variability of the before effects for each participant, they just said, all right, what we're gonna do is we're gonna vary what people eat during this exercise protocol we have. And before, they're gonna do a 36-hour carb load.
+
+16
+00:06:34,608 --> 00:07:01,696
+So that way you don't have any effects of like, oh, this person got there really depleted, this person didn't. So they've got eight trained subjects, average VAT to max about 60, but they're doing a good amount of riding. So what they did was they had a familiarization trial with the protocol, and then over the next three weeks, they did 180 minutes at basically LT1. So they did a test protocol, then they...
+
+17
+00:07:01,696 --> 00:07:29,024
+did a familiarization, then they did the test protocol, yeah, the actual experimental protocols, and they wrote at identical power output for each trial. And then after each trial, they did a very short time trial. And so the time trial was about 150% of their test effort. And also before and after the 180-minute effort, you get a biopsy.
+
+18
+00:07:29,024 --> 00:07:58,784
+So you do biopsy, you do three hours, and then you do a biopsy, and then you get right back on the bike, and you do a time trial to exhaustion. So if you rode at 200 watts at your 180 minutes, you now have to ride at 300 watts, and then they looked at how long people could sustain that. Is that the new empirical cycling FTP test? It's a three-hour endurance ride, a couple of biopsies, and then...
+
+19
+00:07:58,784 --> 00:08:22,192
+Yeah, functional threshold of pain. So the experimental variable that they did with all these things for the diet, the subjects either ate zero, 45, or 90 grams of carbs an hour in a variety of foods. Like they had some gels and they had some drink and they had some whatever.
+
+20
+00:08:22,192 --> 00:08:50,112
+also did some fiber typing. So they got some fiber type specific stuff with this because, you know, you might expect that around LT1, you're not getting into some type II fibers, but it turns out that you actually do. And they did some Myosin Heavy Chain antibody for fiber typing. They didn't do the histochemical staining because they did, you know, they did a whole bunch of, you know, immunological kind of probes on different proteins for this study.
+
+21
+00:08:50,112 --> 00:09:17,232
+and they looked at a whole bunch of proteins, you know, in case you didn't recognize them before with AMPK and P53, they looked at a bunch of proteins that are involved in aerobic signaling. So some of them are more upstream before PGC1-alpha and some of them are a little more downstream, they're after or can be, you know, up and down regulated by other things. So they looked at kind of a variety of things and seeing
+
+22
+00:09:17,232 --> 00:09:46,784
+To what level are they activated or deactivated, whichever they need to be for aerobic signaling? So basically what happened was for the first, you know, the TT after the three-hour trial, we see a dose-dependent increase in the exercise TT duration. So for zero grams an hour, for the group that didn't eat anything for three hours while they were riding,
+
+23
+00:09:46,784 --> 00:10:14,576
+They averaged about two minutes for their time trial at 150%. Oh, God. That must be so painful. Can you imagine? Yes, I can. Thank you. And then for the 90 grams an hour group, they did about four minutes as their average or thereabouts. So, in other words, the expected result? You just slap a title like, Gatorade improves.
+
+24
+00:10:14,576 --> 00:10:39,328
+You know, exercise, perform, like that's like what this reminds me of, right? Like you have like, oh, we fed these people water and then those people sugar and then made them ride a lot and like, oh, the sugar group won. Wow, it's interesting. Eating any kind of food instead of no food makes you better. Yeah, who would have thought? Yeah, we need some NIH dollars for that. Could I have some NIH dollars for that? Anyway.
+
+25
+00:10:39,328 --> 00:10:57,760
+What they found with substrate usage. Now here's where it really starts getting interesting for us because we all know what came up here. So across the board, the zero grams an hour people, people who ate nothing, they burned more fat, like a lot more.
+
+26
+00:10:57,760 --> 00:11:26,768
+The zero grams an hour group burned about one gram per minute of fat on average versus about .75 for the two carb groups. But the last hour was like a lot more fat. So their total for the three hours, the no food group burned 140 grams total in the three hours versus about 90 to 100 for the carb groups.
+
+27
+00:11:26,768 --> 00:11:54,928
+And so glycerol and non-esterified fatty acid blood concentrations, now these are the two things that are a sign of lipolysis. If you want to go back to that what limits fat oxidation episode of Wattstock, I forget which one it is, that one goes into lipolysis and how fats are liberated from adipose tissue. And so not surprisingly, glycerol and NEFA are higher in the no food group.
+
+28
+00:11:54,928 --> 00:12:20,736
+And they also had a big bump in beta-hydroxybutyrate in the last hour or so. And that is, of course, one of our well-known ketone bodies. So in the third hour of exercise, now this is probably also obvious, the no-food group got about two-thirds of their energy from fats. Whereas the 90 grams an hour group got only about one-third from fats. That seems logical.
+
+29
+00:12:20,736 --> 00:12:46,160
+Right, yeah. And so that was looking at stuff from the bloodstream. This also carried through to the use of intramuscular triglycerides, because muscle has their own source of fat. In the paper, actually, it kind of looks like you're looking at a starry sky. It's kind of cool. They stain the muscle, and then they look at it through a microscope, and they go, okay, cool, yeah, here's where we've got little fatty acid droplets.
+
+30
+00:12:46,288 --> 00:13:15,376
+And so this was part of the paper. It's not really part of our purview here, but it was definitely part of the paper. It's cool to read, but we're mostly going to gloss over it. So the zero grams an hour group used about two thirds of their intramuscular fat stores from their type one fibers. And check this out, they used about half of their fat stores from their type two fibers.
+
+31
+00:13:16,016 --> 00:13:43,968
+Fun, right? Oh, I thought Type II fibers were glycolytic. Yes, more on that later. And so for the 90 grams an hour group, they lost about 40% of their fats from their Type I fibers and also about the same from their Type II fibers. So they used a little bit... Okay, so the zero grams an hour group used a little more fats like...
+
+32
+00:13:43,968 --> 00:14:13,840
+They use two-thirds of it from their intramuscular triglycerides, Type I fibers, half from the Type II fibers, half from Type II fibers is about the same from the 90 grams an hour group. So that's our little comparison there. Glycogen usage. Now, Kyle. Yes. Given that we've gone over this before in a previous recording, lost to the sands of time, I'm going to ask you again anyway. So just, I hope you've forgotten.
+
+33
+00:14:13,840 --> 00:14:42,320
+So it was only like three days ago. What do you think was the difference in glycogen usage between let's say the zero grams an hour group and the 90 grams an hour group? I'm going to guess they're eating though. I'm going to say that the not eating group burned through like 50% more.
+
+34
+00:14:42,320 --> 00:15:10,832
+Okay, whew, you forgot, good. Okay. It was pretty even across the board for all groups. They had almost exactly the same glycogen usage. Oh, interesting. Yeah, they used about 50% of the glycogen in their Type I fibers and about 10% in their Type II fibers. Huh. Yeah. That's interesting. I guess, yeah, I guess that...
+
+35
+00:15:10,832 --> 00:15:38,736
+If you are, I guess, for doing this very, very long, very aerobic, obviously it was three hours. It's not, it was not even just like 40 minutes. It was a full-on endurance ride. So yeah, you would, I guess that makes sense. You would expect to, even the more sprintery carb preferential people would still burn a lot of fat. Yeah, although, I think, I think these days it's getting more well-known that, um,
+
+36
+00:15:38,736 --> 00:16:08,480
+that eating food does not necessarily improve glycogen sparing in your muscles while you're exercising. It's more like it helps with your liver. And so check out my podcast with, I think, Tim Padlogar. And I think we talked about it with them, Rita, too. We'll get into more of that in the future, though, for sure. But in the meantime, reading this paper is, they get a little more into it from the discussion, if I recall correctly. I haven't read it in like a week.
+
+37
+00:16:08,480 --> 00:16:35,792
+Yeah, so worth a read. So mostly what we're going to get down to now is we mostly care about signaling. So despite the fact that they use about the same amount of glycogen for both groups, but one burned a lot more fats, do you think that there's any difference in the aerobic signaling for the one that burned more fats?
+
+38
+00:16:35,792 --> 00:16:59,024
+and less for the one that used more carbs. Difference in signaling. So is there more aerobic adaptive signaling for burning more fats? And if everybody listening at home, put your answer in your head. I'm going to guess yes, but only slightly.
+
+39
+00:16:59,056 --> 00:17:27,536
+Like, not like, oh, you're 10 times more or something. Because that would be ridiculous, right? If there's, oh, the magic is just don't eat and your training becomes, you know, 10 times more effective. Like, no, no, no. Yeah, it's harder. It's got to be better, right? I'm way more tired if I don't eat on a ride. It's got to be, I have to be getting faster that way. No. There are no differences in signaling. Except on one of the proteins.
+
+40
+00:17:27,664 --> 00:17:57,456
+There is actually, for the 90 grams an hour group, there's actually better signaling. It's not a statistically significant difference, but a lot of the participants, one of the other reasons I like the studies, like for their graphs of their averages for all these proteins and whatnot, they actually put down the dots of like, this person was here, this person was here, this person was here. Like, you don't know which participant it is across all, but for each, you actually get to see the distribution of the changes for each person.
+
+41
+00:17:58,096 --> 00:18:25,904
+Well, that's nice. Yeah, instead of just presenting you some average and you're like, oh, well, what was the spread? Because sometimes even that's misleading, right? They'll present you an average and even if you have a standard deviation, that could be completely thrown off by one person with a wild outlier. Yeah. And so this one where we're looking at slightly better signaling with the 90 grams an hour, this one was actually not statistically significant, but a fair amount of people actually had a better
+
+42
+00:18:25,904 --> 00:18:53,872
+thing there. Does that translate to performance? That's a whole other question we've kind of touched on before. Just because it's measurable, maybe, doesn't mean that. Yes. So I think what they might have seen if they had looked at expression of fat transporters and stuff like that, they would have seen, like PPARs potentially, they would have seen a little bit better signaling in the no food group.
+
+43
+00:18:53,872 --> 00:19:23,344
+But this is something that we actually see with like keto stuff, right? Is you change the regulation and the expression of like transporters, but that's a need-based thing, right? Because what we've seen is that in the, you know, the keto is not the diet you're looking for, like in that episode, we saw that it didn't actually change anybody's actual endurance capacity, right? So what fuel you're using is irrelevant.
+
+44
+00:19:25,776 --> 00:19:55,776
+And what matters, and the body knows this, and evolution is very smart, mitochondrial biogenesis. Now this is one of the main things when you do aerobic adaptive signaling is we make more mitochondria. And it's like, you know, trained people have a very large amount more mitochondria than untrained people. And, you know, this is kind of where we're going with this. So why is more mitochondria better? Like, why does it matter?
+
+45
+00:19:55,776 --> 00:20:21,280
+That we need more mitochondria and not that we need more like fat transporters. Yeah. And I think we touched on this a little bit, right, when we were talking about the metabolism of fat generally, that eventually, even though something started as fat, it enters into metabolism in a state where your body doesn't know, like your cells don't know that, oh, that one was fat.
+
+46
+00:20:21,280 --> 00:20:47,728
+and, you know, that one was carbs. Like, they're not, it's not marked, right? Like, you don't have, like, a little sharpie on the molecules as they come in. Yeah, well, you're exactly right. Like, the information gets lost. So it's like, like, when you enter something, and this is actually something that you, you mentioned this in the last recording, may it rest in peace, is that you said that the,
+
+47
+00:20:47,728 --> 00:21:11,456
+It's one of the founding principles of, like, chemistry and physics is that, like, once you have this set of atoms, like, they are, for all intents and purposes, like, identical and interchangeable. It's not like we've got, like, our particular, like, water molecule, like Fred, like, just gets washed away. Like, oh, like, get Fred back. We need him for the experiment. Yeah, yeah, yeah, yeah. Yeah, and, like, that's how, that's how...
+
+48
+00:21:11,456 --> 00:21:41,104
+molecular dynamics, and even when you look at, oh, for chemistry, how if I take this quantity of this reactant and this quantity of the other and I mix them together, you chug along assuming that it's a statistical or probabilistic nature, that you have a bunch of stuff, they're all the same, just like if you have 100 coins and you flip 100 coins, what are the odds that you get 50 heads and 50 tails exactly? They're actually pretty low.
+
+49
+00:21:41,136 --> 00:22:08,688
+That's essentially how you model chemical reactions or molecular dynamics. The ideal gas law, like PV equals NRT for the people out there who've done gen chem, that law assumes that every single one of those molecules in that gas is indistinguishable and completely interchangeable with its cousin down the road. And by down the road, I mean like, you know.
+
+50
+00:22:08,688 --> 00:22:30,432
+Nanometers away. Yeah. And so this is kind of where we're going to get into kind of the way that I see metabolism in my head. Because like, you know, I think a lot of people think about metabolism as like, you know, it's for...
+
+51
+00:22:30,432 --> 00:22:57,056
+the oxidation of substrates, right? Like I oxidize a molecule of fat, I oxidize a carbohydrate, you know, like I've, like I had pasta with some olive oil and cheese on it earlier, like, okay, great. Like now I've got all these sorts of things. Now they're going to, what, go into the Krebs cycle? Like that's where the energy comes from? No, not yet. I mean, a little bit, a tiny bit, but where does the energy actually come from? Now this is,
+
+52
+00:22:57,056 --> 00:23:23,184
+you know probably one of the most fundamental things to realize here because remember way back in 10 minute tips number six when it was actually 10 minutes long way way back in the day yeah I talked about mass action ratio so basically what happens is if we let ATP hydrolyze into ADP and one phosphate group in the cell
+
+53
+00:23:23,184 --> 00:23:49,536
+We would have an ATP to ADP ratio. We would have about one ATP for every like 10 to the 7 ADP. That's a very, very large ratio. Well, or a very small ratio depending on... Right. Well, that's a... Well, that's where the equilibrium would be, right? So if we just let that reaction run, if we had no other way to make ATP, that's where it would end up. But instead, we have a ratio of...
+
+54
+00:23:49,536 --> 00:24:16,656
+1 times 10 to the 3 ATP for every ADP, approximately. So we are 10 orders of magnitude away from equilibrium. Right. Which is nuts, right? Like that's not just a factor of 10 away. It's like 10 10s, right? It's a 1 with 10 0s. Yes, it is a lot of 0s. So like when ATP starts to get used, this releases the energy, right?
+
+55
+00:24:16,656 --> 00:24:40,560
+And it takes the energy of something to maintain ATP and ADP so far from equilibrium. And this potential energy comes from energy we've stored across the inner mitochondrial membrane to drive the ATP generation. And there has to be enough to drive enough making of ATP.
+
+56
+00:24:40,560 --> 00:25:04,784
+that we can keep it in this disequilibrium because that's where ATP gets the energy to actually do work is this mass action ratio. It's something about like 60 kilojoules per mole. And if we let it run down to zero, like if it's at equilibrium, we have zero potential work from a molecule of ATP, zero. And that seems bad.
+
+57
+00:25:04,784 --> 00:25:31,936
+seemsbad.jpg. Yeah, that's where your cells die. So how would you explain how the membrane potential keeps this energy for ATP? It drives the generation. Everybody kind of knows that, especially if you've been to high school chemistry or biology, I guess. So if I've got a whole bunch of...
+
+58
+00:25:31,936 --> 00:26:00,528
+Hydrogen Ions on one side of a membrane. And I've got very few on the other side. What happens? So generally, nature really doesn't like it when things are so neatly organized like that. Like you can imagine that if you just put a bunch of hydrogen ions in a room or in a bucket or something, I guess that's a bucket is more accurate because this is happening in liquid.
+
+59
+00:26:00,560 --> 00:26:29,328
+You would not expect all of them to be just arbitrarily on one arbitrarily or on half and none of them to be on the other. That would actually take work. You would have to work to do that. There's actually a thought experiment behind this on how you can't extract meaningful work out of the random motion of particles. You have to actually do work on them. There's no free lunch. We obey Lisa and this house. We obey the laws of thermodynamics. Anyway.
+
+60
+00:26:29,488 --> 00:26:52,736
+So this is kind of like if you have a rubber band and you keep it stretched out. Like you have to, even though the rubber band's not moving, right? You have to do work or expend some energy to keep that rubber band stretched out. And as soon as you let go, it's going to snap back. So similarly, like if you...
+
+61
+00:26:52,736 --> 00:27:14,208
+If you stretch out a rubber band or like, do you remember those cars you had as a kid? You would like pull it back and you let it go and the car would go forward. Oh yeah, yeah. It's kind of like that where if you pull it back. Yeah, you got to drive the wheels backwards and that winds something up. It winds up a spring, right? And you let it go and it goes forward. Well, this is kind of like if you, you know, your cell's keeping that potential.
+
+62
+00:27:14,208 --> 00:27:39,264
+across the membrane is like keeping that car pulled back so that whenever you have to do work, you let the car roll forward a little bit. But then after you roll forward, you also have to sit there and spend some time rolling it back again, right? Right. To keep that potential energy there. And so it's exactly the idea, same with like a spring or a pendulum. You think about a pendulum swinging back and forth like at the...
+
+63
+00:27:39,264 --> 00:28:03,344
+At the top, when the pendulum isn't moving for a very brief second, it has a bunch of potential energy, no kinetic energy. And then at the bottom, when it's moving at the fastest, it has all kinetic, and then it swings back into being a potential. And so, yeah, something like that. One of the cool things is that in one of my textbooks, it actually has a diagram of mass action ratio. Like, it literally looks like a pendulum arc.
+
+64
+00:28:03,632 --> 00:28:32,768
+Like at the bottom, it's zero. And then up at the sides, like it just increases potential energy as you get further and further away. So that is actually kind of a really good analogy. I think about it because they're mitochondria and they're just kind of like these little Saxon cells. I actually think about it like a balloon. Like you've got to, you know, work to add more air into the balloon than is, you know, than atmospheric pressure.
+
+65
+00:28:32,768 --> 00:28:59,504
+You know, as soon as you get lightheaded, it's like, okay, cool, I've done plenty of work. This balloon's full enough. And like, I know if you, you know, stick a needle in that balloon, it's going to pop. But if you put a piece of like a scotch tape over the balloon or any kind of tape, and then you puncture that, that's going to keep that seconded balloon together. And now you put your finger over that hole. And anytime you want to generate ATP, like we're going to pretend the ATPase, the thing that makes the actual ATP, it takes...
+
+66
+00:28:59,504 --> 00:29:27,328
+ADP and Phosphate and it jams them together. That's literally what it does. We're going to represent that with a pinwheel. So every time you need ATP, you take your finger off the hole and the woo pinwheel goes and that generates ATP. Now the thing is, when ATP gets used, the cell doesn't decide, oh, ATP is going down.
+
+67
+00:29:27,328 --> 00:29:54,208
+I should probably take my finger off this hole. It happens automatically. It's immediate. Like, for instance, if we take ATP and we just put them, or not ATP, if we take mitochondria and we just put isolated mitochondria in a dish and we add ADP, the response is instantaneous. But we're going to talk about that more. I'm getting ahead of myself. So basically what happens is
+
+68
+00:29:54,208 --> 00:30:17,584
+As ATP gets used, the stored potential energy in the mitochondrial membrane discharges and makes more ATP. And it does this automatically. And it's literally because the energy of that in the mitochondria is enough to push the ATP concentration way past its equilibrium.
+
+69
+00:30:18,512 --> 00:30:47,728
+That's how this is working. That's why ATP are so important. That's how mitochondria are the powerhouse of the cell. There's the punchline. Mitochondria. Oh my God. The powerhouse. If the powerhouse of the cell makes it into the title of this episode, just shoot me. I swear to God. So anyway, it's the job of the electron transport chain that we've spoken about before to re-energize this potential.
+
+70
+00:30:47,760 --> 00:31:17,648
+And it's the job of carbohydrates, fats, and protein breakdown to supply the electron transport chain. So this kind of gets us into the next piece, which is that there are kind of two spots of actual decoupling. You know, well, actually, Kyle, does that all make sense about, you know, where the energy is and making ATP and all that?
+
+71
+00:31:17,648 --> 00:31:47,184
+confusing thing is that, okay, so normally we think about, you look at the back of a, I don't know, your box of pasta and, you know, olive oil or whatever that you just said, and they'll have calories on that. We normally measure those with like bomb calorimetry, which is just burning the pasta in a little thing and measuring how much heat. And so maybe you think like, oh, is that how your body gets out the energy it like burns it? And it turns out, no. It doesn't, like doesn't. Yes and no. It doesn't make any light with it.
+
+72
+00:31:47,184 --> 00:32:12,000
+But we generate heat and we have this basically the same chemical reaction, right? Like carbon and oxygen kind of want to be together. Yeah. But to extract work out of it, right? Instead of having the heat boil some water and go to steam, you're actually using that to make, to actually take advantage of like an electric, almost like an electric.
+
+73
+00:32:12,000 --> 00:32:40,240
+Potential, like, energy across this barrier where you're taking advantage of working against a natural hill. It's like working against gravity or working against, you know, pulling two magnets apart or something like that where it is a force that is or a phenomenon that wants to happen naturally and your body has developed this, evolved this very clever way to take that
+
+74
+00:32:40,240 --> 00:33:05,248
+and use that to its advantage. So it is actually going to, it's like your body doesn't do this, but because it still works in space, so it's not gravity related. And, you know, it works in all these other different situations. But basically, you're taking advantage of something like, you know, the attraction of two magnets or the attraction of gravitational objects. It's a similar phenomenon to that idea. And you're using that to store.
+
+75
+00:33:05,248 --> 00:33:31,216
+the potential to do work inside your cells. Yeah, and remember from the electron transport chain episode, that's actually what complexes 1, 2, and 3 do, is they pump protons across the membrane against the gradient, which takes work and energy. And the way that that happens is we have reducing equivalents, so NADH and FADH2, which supply the energy in the form of
+
+76
+00:33:31,216 --> 00:33:52,112
+Electrons and Protons to actually do this work. And so that's how we actually drive this away. And that's actually one of the big spots where we lose information about where these things came from. This is kind of our chemical equivalents, like one of the spots, right? So... Yes, yeah. Yeah, so...
+
+77
+00:33:52,112 --> 00:34:19,871
+Like Krebs Cycle, for instance, generates reducing equivalence. And so does the breakdown of pyruvate. You know, you make an acetyl-CoA from it, and it also generates an NADH, and you also eject a CO2. But, you know, the production of lactate does the same thing. Lactate can generate a large amount of NADH, although a lot of the times it gets regenerated to NAD because, well, then it becomes lactate, right?
+
+78
+00:34:19,871 --> 00:34:43,216
+Gets imported into the mitochondria. And there's actually a dedicated MCT4, a mitochondrial tricorproxylic acid transporter, or yeah, monocarboxylate transporter MCT, so one carboxyl unit. And this can import lactate into the mitochondria where it can actually regenerate that NADH.
+
+79
+00:34:43,408 --> 00:35:09,680
+and then lactate becomes pyruvate and everybody's happy. So lactate is actually one of the ways to actually get reducing equivalence into the mitochondria. Anyway, so we can also break down fats and one round of beta-oxidation, you snip off two carbons from a fatty acid chain, you make an NADH and an FADH2. And once
+
+80
+00:35:09,680 --> 00:35:39,280
+The membrane potential starts to discharge because ATP is being made. The electron transport chain does not care where these things came from. The source of information, I don't care if it came from lactate, I don't care if it came from the Krebs cycle, I don't care if it came from fats, I don't care if it came from whatever. All it cares about is, do I have this thing? Like, pools of metabolites, they're state-related. They're not path-related. It doesn't matter where it came from.
+
+81
+00:35:39,440 --> 00:36:05,600
+Hmm. Yeah. I, I think about this and I think I'm a, okay, I have full disclosure here. I'm a, I'm a huge nerd and like one of the things I actually kind of like watching. You? One of the things I like watching is, is how it's made. And, and I don't know if you've ever seen one of those episodes where they're making, uh, I don't know. One of the episodes is really cool because they actually, they actually go and they make, they make bike wheels, but, and so that's.
+
+82
+00:36:05,600 --> 00:36:29,680
+Interesting for a different reason, but let's say it's like ratchets, right? Like just like a ratchet you could get at Home Depot. And they take you through the factory and they show one person's job is just there to like make handles, right? And so they make all these handles and then they just chuck them into a big bin, right? And then that bin of handles gets rolled to the next place. It's not like one person crafting a handle.
+
+83
+00:36:29,680 --> 00:36:56,864
+handing it to the next person who then installs the metal ratcheting bit, you know, and then another person who tests it, right? They get made in batches. So one person's whole job is just to make handles and the handles all get pulled together and sent to the next station. So that's what this kind of reminds me of is that this one person sitting there just like, you know, turning out these handles on a lathe, you know, one handle after another, after another, after another.
+
+84
+00:36:56,864 --> 00:37:23,408
+Yeah, yeah, it's like, I need a beer. I don't care where it comes from. Like, you can give it to me. Anybody else can give it to me. As long as I have one in my hand and it's the one I want, it doesn't matter. It's identical. It's not like that Sam Adams is the one I want. It's that, no, no, that bottle, no, I don't like that bottle. It's different from this bottle. There's no difference. You're right. So, yeah, it's like putting it in order for a thing. It's like...
+
+85
+00:37:23,408 --> 00:37:52,864
+Like we need widgets. So we're going to look at our widget suppliers and if they make an identical widget, great, I've got widgets, now I can make gaskets out of the widgets. It's perfect. And so that's what pools of cellular metabolites are like. And the same kind of like information being lost between different pathways is the same for acetyl-CoA, the entrance point of the Krebs cycle.
+
+86
+00:37:52,864 --> 00:38:21,248
+You know, you get your acetyl-CoA from fats or lactate. We kind of went into a little bit of that on the carnitine episode about how the import of fats and lactate gets decided. And so that's another place where we get a little bit of informational decoupling chemically. So the decoupling points actually, at least the way I see it, they compartmentalize metabolism.
+
+87
+00:38:21,248 --> 00:38:50,992
+We can break components down into as large or small a chunk as is convenient. And so each compartment, quote unquote, I call these things compartments, although in actual mitochondrial physiology, the compartments are slightly different. We'll touch on that in a second. So this is just, nobody really calls it these. This is just for educational purposes that I've decided to break down. So each compartment has a level of autonomy.
+
+88
+00:38:51,344 --> 00:39:18,416
+and you know they're via regulatory steps laws of physics or chemistry and thermodynamics as we kind of talked about and once like a demand is made the the part that feeds it is actually left to its own devices it has some sort of kind of autonomy to sort out how well or where or how it's going to supply what is requested of it so
+
+89
+00:39:18,416 --> 00:39:46,480
+So the only information that is transmitted between our metabolic compartments that we're thinking about right now is going to be like reducing equivalence, right? So membrane starts to discharge because ATP is starting to, you know, get used. We're doing work. ATP and ADP ratios start to move and we're going to need reducing equivalence once the...
+
+90
+00:39:46,640 --> 00:40:15,920
+Once the mitochondrial membrane potential starts to discharge, once those protons start going through the membrane and blowing on that pinwheel. And so in the regular cell body, this is actually kind of the last main ATP-directed pathway we haven't talked about in the series yet. We have something called adenylate kinase. And so in the regular cytosol, the regular part of the cell, as soon as ATP and ADP ratio starts to change,
+
+91
+00:40:15,920 --> 00:40:45,408
+Right? They've got to remain far apart so ATP can do work. So if it starts to move and it gets closer, adenylate kinase actually takes two ADPs and it makes an AMP and it transfers one of the two phosphates from one of the ADPs to the other and it makes ATP. And so it attacks it from two ways. It's like taking this thing that's in the middle. So ATP and ADP are really like the main
+
+92
+00:40:45,408 --> 00:41:14,960
+Ratio that we have to keep apart. AMP is kind of an eventual metabolic fate of ATP, and that's why we can have higher AMP ratios in the cell, because it doesn't affect the ratio of ATP and ADP. But it can affect other things in the cell enough that we actually have another way to get rid of AMP, and it'll become inocene monophosphate, IMP. It gets deaminated. We remove an amino group. Amino?
+
+93
+00:41:16,240 --> 00:41:45,056
+Nitrogen and 2-hydrogen, whatever you call that, I forgot, it's late. Yeah, amine, amine, amine. Yeah, amine, thank you, oh my God. So anyway, so the regular cell body is one of our metabolic compartments. And so kind of what we have is we have adenylate kinase and also phosphocreatine, right? These are our two things that help to shore up.
+
+94
+00:41:45,056 --> 00:42:14,368
+ATP's usefulness, his ability to do work in the absence of mitochondria getting off their lazy asses and getting to work, right? Because like, I mean, how many times have you like started an interval, right? And you go, oh my God, oh, not yet. And then it takes a minute for your heart rate to get up and supply oxygen. That's kind of what's happening. So phosphocreatine and adenylate kinase, and also, of course, anaerobic glycolysis. All three of these things.
+
+95
+00:42:14,368 --> 00:42:42,832
+are pointing right at the ATP-ADP ratio. And one of them is constructive. Actually, two of them are constructive. So glycolysis and phosphocreatine will create ATP. That keeps that ratio high. But we also have adenylate kinase that removes ADP and also creates ADP. So we have three barrels of ATP creation pointed at our ATP thing. And you would think that one might be enough.
+
+96
+00:42:43,312 --> 00:43:12,240
+But evolution has decided that we need three. This is like what we actually need. You could imagine one being kind of risky, right? Like long term, you're like, well, we don't want one level of redundancy. You don't want single point. Yeah, single point failures are bad. Try to minimize those. Yeah. And so having two things is good. Having three things is even better. And of course, every one of these things has a slightly different role.
+
+97
+00:43:12,240 --> 00:43:35,312
+Right? And so, so like when, I think actually we talked about this in the last, it was the last Wastock episode, that was creatine, right? So in the creatine episode, why it's a critical aerobic energy system, one of the big things is that diffusion is worse for ATP and ADP.
+
+98
+00:43:35,312 --> 00:44:05,248
+And it's better for creatine and phosphocreatine. It's faster, it'll diffuse farther in the same amount of time. So when we actually start to use ATP, the cell would obviously love to use aerobic energy immediately, but our heart hasn't really gotten around to moving oxygen there yet, right? And so... Yeah, you can... You would like it to be where, you know, I don't know, the speed of...
+
+99
+00:44:05,248 --> 00:44:34,064
+Hemoglobin through your blood was faster. Yeah, your heart, like, yeah, responded more immediately. Yeah, like, let's have a nerve test to every single muscle cell, but going backwards instead of, like, the one that enervates, yeah, it'll go right to the heart and be like, okay, we're working. Send more oxygen right now. Yeah, make it a parallelized system instead of serial. Yes, yes, I'm in. Let's do this. Well, so...
+
+100
+00:44:34,064 --> 00:45:01,280
+So this is one of the other purposes of the phosphocreatine system, right? So it's not only there to actually keep the ATP ratio high, but it's also there to transmit information, transmits information to the mitochondria saying work is being done and we need help. Like get off your ass, like get out of bed, start making ATP aerobically.
+
+101
+00:45:01,280 --> 00:45:22,112
+Sir, yes, sir, here you go. And then the electronic transport chain is like, oh, hey, we're going to start using stuff. And the ratio of reducing equivalents that are reduced and not reduced in the mitochondria starts to change and everything, it kind of trickles down like that. And it's very, very quick. Well, it's quick, kind of, you know, but yeah.
+
+102
+00:45:22,112 --> 00:45:47,792
+Yeah. Well, and you have to imagine too, right? Like a lot of times people have that question of how does my body know? You know, it's not like one cell like slaps the emergency button like, you know, calling down to the engine room, you're Captain Kirk telling Scotty to give it all. Like, you know, your body isn't doing that. Like, and it makes sense. Like, instead of having to send a...
+
+103
+00:45:47,792 --> 00:46:17,536
+a messenger protein or something like that would also be very slow, right? Because say that protein gets made in a different part of your body and you have to hope that it goes from one part to the other. Instead, it's monitoring this pool of ATP, ADP. Yeah, yeah, you're exactly right. Yeah, like not just like you could imagine like a, it's kind of like if you had to, your electricity at your house is always on, right? You just flick a light switch and
+
+104
+00:46:17,536 --> 00:46:36,656
+you just draw from that pool of electricity. You don't have to call ahead, hey Pepco, you know, like I need you to turn the electricity on for this one thing because then I'm going to, you know, turn this light switch on. Yeah, and there are electrons, you know, between the energy.
+
+105
+00:46:36,656 --> 00:46:58,992
+Plant, and your house. Like, it's not like you've got to wait for them to fill up in the wires, because actually, no, I learned at E&M that the actual rate at which electrons move is actually quite slow, which is fascinating. Yeah, yeah, yeah. So the electrons aren't what carry the energy. It's the electric fields.
+
+106
+00:46:59,408 --> 00:47:28,032
+Oh, the electric fields. Yeah, of course. I knew that. I remember that totally. The electric fields and the magnetic fields are what carry the energy. Yeah, yeah, yeah. Fun fact. All right, everybody. I feel my eyes glazing over at this. I'm so sorry. Kyle, never stop being you. So anyway, so the idea here is to illustrate that this is a big chain of compartments leaning on each other.
+
+107
+00:47:28,032 --> 00:47:55,088
+Right? So like, so it's like, you know, the Krebs cycle is kind of, it's kind of, and it's also kind of not leaning. It's like, it's ready to get to work, but only when what its product is disappears. And this is like Le Chatelier's principle, right? It's like, if you have two things that are roughly in equilibrium, and at rest, a lot of things are roughly at equilibrium. And now,
+
+108
+00:47:55,088 --> 00:48:22,880
+ATP starts getting drained away and the equilibrium, the energy starts to go away from ATP and everything else kind of like falls into action. And it's for our intents and purposes instantaneous, but it's kind of really not. And so the point here, the big point is that this is all based on the rate of ATP utilization.
+
+109
+00:48:22,880 --> 00:48:52,464
+ATP disappears and then metabolism reacts within its own regulatory parameters. And this is how all of our energy systems work and know how fast to work. Otherwise, we would waste energy willy-nilly. And that's not good for the survival of an organism. In case anybody was curious, it's not good. So put that in your notes. So when compartments transmit information to each other, this is what's called a chain of coupled fluxes.
+
+110
+00:48:52,720 --> 00:49:19,424
+And because of spatial issues, as we've kind of talked about with like phosphocreatine, this can take time and foreshadowing for adaptation purposes. And also, plain old entropy also helps us solve this kind of thing. So kind of what I've outlined here fits with what's called metabolic control analysis. And we're going to nerd out for half a second and then pull back to normal line.
+
+111
+00:49:19,424 --> 00:49:46,896
+Implying that we haven't been nerding out this whole time. Yeah. So there's two ways to consider metabolic control. And actually, I think about training in the same way, like bottom-up and top-down. Now, bottom-up analysis requires protein-specific modulators or inhibitors, right? So basically what happens is you can isolate a system. Let's say we isolate a mitochondria. And now we have mitochondria.
+
+112
+00:49:46,896 --> 00:50:12,624
+that are isolated from mice that have the complex one knocked out, right? And if this fully inhibits metabolism, well, the mice are alive, so it shouldn't, right? Right. So, but this, if this fully inhibits metabolism, the control number would be zero. If nothing happens, the control, sorry, yeah, if it's fully inhibited, the control number's one.
+
+113
+00:50:12,624 --> 00:50:41,952
+If nothing happens, the control number is zero, no control. And so if we fully inhibit, like if we get rid of complex one, for instance, we have a 30% inhibitory effect. And that's in state three mitochondria if you're a physiologist of this sort. So ignore it if you don't know what that is. The drawback here is that this means we need to fine tune enzyme activity.
+
+114
+00:50:41,952 --> 00:51:02,544
+and find inhibitors and accelerants and things like that. So we need to find very like protein specific drugs and chemicals. And this is really, really, really, really hard to do. So it's kind of like thinking about like, okay, this type of training.
+
+115
+00:51:02,544 --> 00:51:32,240
+upregulates this very specific one protein that's one of many in aerobic performance. Does this actually improve performance? We don't really know. It's very difficult to do this kind of thing. And so top-down, or usually this is called modular, I've been calling it compartmentalized, top-down analysis divides something like mitochondria into three sections. So mitochondrial physiologists will look at the entire chain,
+
+116
+00:51:32,240 --> 00:52:02,096
+They call it substrate oxidation, but this is the transport and metabolism of things like lactate fatty acids plus electron transport. That is one full compartment. That's a module. ATP turnover is another module. ATP synthesis, transport, and turnover. Proton leak. So everything else that uses energy stored in the membrane potential but does not generate ATP. So these are like three big compartments in mitochondrial physiology, right?
+
+117
+00:52:02,096 --> 00:52:29,984
+and that's kind of what we've been talking about so now we have the thought of like a big compartment like and so we use ATP blah blah blah the whole thing happens and so the top-down approach is the most useful for like reading literature and understanding like concepts of validity and of course like the role in the greater thermodynamics of the cell and so what we're going to do now is a top-down analysis of why mitochondria are useful
+
+118
+00:52:29,984 --> 00:52:58,416
+in training and why I think that they are kind of like everybody kind of knows their importance but everybody kind of I think underappreciates the importance and of course I did too until I really you know learned about this stuff underestimates the importance of a large mitochondrial mass and so you know we get to think about things like
+
+119
+00:52:58,416 --> 00:53:25,248
+You know, fat and carbohydrates and things like that. That's like a very top-down approach. So to start the next little bit of top-down approach, I want to ask you, Kyle, given what we've discussed, why would you speculate that a major endurance adaptation would be to make more mitochondria as opposed to like having the same number of mitochondria?
+
+120
+00:53:25,248 --> 00:53:54,768
+and just like more fat transporters and more lactate transporters. Why would we make more? So if you imagine that your mitochondria are trying to maintain this, well, disequilibrium, but try to keep your stores topped up of ATP in case, I don't know, a saber-toothed tiger is chasing you through the forest. And you would want to have
+
+121
+00:53:55,088 --> 00:54:23,952
+You know, more is better in that situation, right? Like, you want to have more, more, well, we talked about three barrels, but if each, if each one of these barrels is being processed by, you know, a little mitochondria peon, you would want... I've heard that since I played Warcraft. Right, right, yeah, yeah. You want more peons, right? Like, you, you could imagine one, one version would be if you could just make...
+
+122
+00:54:23,952 --> 00:54:52,112
+your mitochondria bigger, and so if they have more, like, instead of having more factories, you just have big factories, right? Yeah. But as the volume grows bigger, the surface area doesn't grow nearly as fast as the volume, and this is actually the, what principle is that? It's why, like, it's why... We'll talk about that in probably the next Wattstock, actually. Yeah. It's why, like, you know, the lightest body weight...
+
+123
+00:54:52,272 --> 00:55:21,056
+Olympic weightlifters or powerlifters can lift the greatest percentage of their body weight because – and so it's this ratio of two-thirds, right? Like the areas goes as the radius squared but the volume goes as the radius cubed. Anyway, so if you just make really big – like you just have six mitochondria but they're huge, right? Like the doctor can palpate them, yeah. You can crank out – like that –
+
+124
+00:55:21,056 --> 00:55:50,608
+That huge macroscopic mitochondria can crank out a lot of ATP inside, but once it has to get them outside, you're limited by this much, relatively speaking, smaller surface area. It's kind of like how activated charcoal is used to filter stuff because you have these tiny charcoal particles and so there's a lot of surface area. And so if you make a lot of mitochondria and leave them not macroscopic,
+
+125
+00:55:50,672 --> 00:56:18,800
+You know, it's like, it's just a much more efficient way to have to handle a high, high, high, high volume. And if we're talking 10 to the 10 ratio here, a high volume of particles. Yes. Well, so more surface area, that is one of the big reasons. But let me ask you another way, because you're absolutely right about that. But let me ask you something else. If we can go from super high altitude to sea level,
+
+126
+00:56:18,800 --> 00:56:48,288
+and we usually get a good performance boost immediately, right? That means we have extra headroom to utilize oxygen for the electron transport chain and the ATP generation, right? We don't have to spend two to three months adapting to sea level. Oh, I got to grow more mitochondria, buying our tapped out right now, right? Like we present more oxygen and they have more headroom. So like, so the question is, why does that happen? How come mitochondria aren't tapped out based on whatever?
+
+127
+00:56:48,288 --> 00:57:09,952
+So the main bottlenecks, I think, that endurance adaptations alleviate are, so for mitochondria specifically, being able to sustain ATP generation, also the distribution, and also the work capacity.
+
+128
+00:57:09,952 --> 00:57:36,720
+Generating reducing equivalence, kind of like what we said in Waslock number 30 and many times since, like you said first, transport limits fat use. And so having more mitochondria, like mitochondrial biogenesis, as we all have heard on, I don't know, podcasts just like this one, you have more capacity to transport and process fats and carbohydrates and therefore generate reducing equivalence.
+
+129
+00:57:36,848 --> 00:58:06,128
+So you're generating NADH and FADH2 better and you can transport more things. Now you've got more surface area. So more endurance type training, you know, like TTE training, adding more time at FTP, stresses and alleviates these bottlenecks, like increases carnitine levels. The malate aspartate shuttle, which shuttles, well, we'll talk about that later. Enzymes involved in substrate transport and oxidation.
+
+130
+00:58:06,128 --> 00:58:35,232
+like lactate and fat, mitochondrial mass in general, like these are big endurance adaptations. So that's the big one. But also, you know, these are the kind of like other points that your professor would ask you about in class and you would go, oh God, I remember the big one, but not these other two. So distribution of ATP, like we said with the phosphocreatine in Waslac38, ATP, poor diffusibility, so phosphocreatine is used.
+
+131
+00:58:35,232 --> 00:59:04,560
+So it's not instantaneous. So now having more mitochondria around places of high demand, like for instance, around the same places that we build glycogen, reduces diffusion distances. Otherwise, you've got like one post office in Kansas distributing mail to the whole US. Yeah, that makes sense too.
+
+132
+00:59:06,192 --> 00:59:35,680
+Easy. Like, it's efficient, it's efficiency, even though like, oh, you would think maybe having all this extra headroom is kind of inefficient because you have all this capacity that you're not using most of the time, right, like you said, coming down. But you, that, like having all of that extra headroom is not necessarily the goal, but it is a convenient byproduct for people who like to do sports. Yes, absolutely.
+
+133
+00:59:35,680 --> 01:00:04,304
+And so, okay, so the last point here is that more mitochondria share the work capacity. So if we recall the balloon analogy, right? Remember the energy is stored in the mitochondrial membrane and that's what ATP basically draws on for its own work capacity without the ability of that membrane potential to actually generate ATP against the gradient, basically. Like this is what pushes uphill.
+
+134
+01:00:04,304 --> 01:00:31,312
+the ATP's work capacity. So if we have, just say like one mitochondrion and a high rate of ATP utilization begins. So now we've got Cynthia, Cynthia the mitochondrion. So Cynthia has to- Good old Cynthia. Yeah, she's got to fully empty the membrane potential to keep up. And we're going to have to cease activity really shortly.
+
+135
+01:00:31,312 --> 01:01:00,048
+Right? Like, how many ATP can you generate? Like, you're never going to keep up. And remember, having all this potential energy in all these balloons, basically, if we have two balloons, and now we've got twice as much potential energy, so to use the same amount of ATP, like, let's say they each only have to empty half as much, that's still really bad for ATP's work capacity. Really bad. But...
+
+136
+01:01:00,432 --> 01:01:28,160
+If we have millions of balloons, now we have distributed the utilization of their potential energy to all of them. And so now we have really distributed the workload. Now, if a high rate of ATP utilization begins, everyone only has to use their hard-earned mitochondrial membrane potential a little bit.
+
+137
+01:01:28,160 --> 01:01:57,472
+These are the three big things having more surface area, having better distribution capacity, and also sharing the work capacity. These are the three big things that having more mitochondria allows us to do as athletes. And so once we have all these things going for us, that also means that we can recover and keep ATP and also keep ADP and AMP and inorganic phosphate concentrations low because now
+
+138
+01:01:57,472 --> 01:02:24,736
+We have mitochondria everywhere to mop those things up and make new ATP. And so one of the big things with this is that it means that we get to not activate glycolysis to the same degree. And this is what spares our muscle glycogen for harder efforts. So you're saying that what you eat doesn't matter.
+
+139
+01:02:24,736 --> 01:02:51,216
+Well, I think we've seen that it does, but definitely not for adaptive purposes like we just saw. I meant for sparing muscle glycogen. They say, oh, if you eat this magical liquid shot or whatever, you'll spare more muscle glycogen and you'll be more ready for the end of your road race or whatever it is because of this magical two-ounce liquid. Yeah. Well, that seems to be the general consensus.
+
+140
+01:02:51,536 --> 01:03:20,560
+Here's another question that we're going to answer in just a second. If we have an athlete with a 400-watt FTP and they get tired after a three-hour race and then we have world tour athletes who basically don't get tired. Damn them. And what is the difference between these two athletes? Why does one have incredible endurance? Why does the other one have garbage endurance?
+
+141
+01:03:20,944 --> 01:03:48,288
+Is it because they can't eat the same amounts? No. Is it because one stores like 10 times the glycogen? No. So think about that for a second. So I want to go into first, we will answer that question, by the way. So up in the show notes, I've linked a study. It's called Regulation of Skeletal Muscle Mitochondrial Fatty Acid Metabolism in Lean and Obese Individuals. So basically what they're looking at.
+
+142
+01:03:48,288 --> 01:04:12,032
+In obese people with very high whole body carbohydrate reliance, like you hook somebody up to a metabolic cart and it turns out that they're like at exercise baseline, they're using half of their energy from carbs, right? And a healthy person might be using almost, you know, maybe 10%, something like that. However, if we control...
+
+143
+01:04:12,032 --> 01:04:38,880
+their lipid oxidation potential. Like how well can they break down fats? If we control it for total mitochondrial mass, they're actually basically the same. Oh, interesting. The obese people who whole body seem to rely more on carbohydrates, you might go, oh, well, they have better glycolysis because they're more sedentary. They have more fast-switch fiber. No, they have less mitochondria. That's it.
+
+144
+01:04:38,880 --> 01:05:08,880
+So if we look at mitochondrial mass for these people relative to whole muscle mass, the obese people have it much worse. They have much less mitochondria per unit muscle mass. So in this case, more is more. It really is more. So why do we use carbs sometimes and fats the other? Mitochondria, that's the big reason.
+
+145
+01:05:09,616 --> 01:05:36,304
+Okay, so let's rewind for a second. Understanding ATP generation is after a decoupling point is kind of irrelevant. So upon consumption of reducing equivalence, the balance of reducing equivalence changes, whether they're reduced or oxidized, right? It says provide me with more. It puts in an order, but it doesn't care how. It just says give me more.
+
+146
+01:05:36,304 --> 01:06:02,416
+We can effectively think about two different levels of balance in the cell. So the reducing equivalent need and how much are actually being used and like the throughput and the ratio of reduced and not reduced, this is called redox balance. And we might think about the electron transport chain to support the membrane potential as something that generates a redox demand.
+
+147
+01:06:02,416 --> 01:06:31,184
+So that's what we're going to call it. If we need more membrane potential, we are going to generate redox demand. We need NADH and we need FADH2. And so outside the mitochondria, we have what's called the cell's energy state, usually is what I see in the literature. So this is basically how much capacity does ATP have to do work. So the redox demand being under stress
+
+148
+01:06:31,184 --> 01:06:58,336
+Having Higher Demand signals for more aerobic metabolism. The energy state being under stress in the cell signals for more anaerobic metabolism. So higher levels of AMP, ADP, and inorganic phosphate, and I've seen IMP, and I've seen monophosphate also on this list. These are all products of ATP use in hydrolysis. These things activate glycolysis.
+
+149
+01:06:58,336 --> 01:07:25,664
+Lower Levels Reduce the Activation of Glycolysis. So the easy example here is looking at something like lactate levels when we start exercising, right? We kind of mentioned this before. ATP levels are under stress. Heart rate is low. There's not much oxygen around for aerobic metabolism. So if we look at, and we talked about this, and I think that, what was the 2i20 episode or something like? It was way early on, but we've mentioned it a couple times.
+
+150
+01:07:25,664 --> 01:07:54,992
+And maybe I'll put a graphic up in the show notes. So you start exercising and what happens is the amount of lactate in the bloodstream goes way up and then it drops. So the big lactate bump shows that large amounts of glycolysis are being used, but it doesn't stay that way because the energy state is under stress. Glycolysis goes, oh my God, okay. And then after a little bit, the mitochondria generate ATP and they're like, okay, I got it, I got it. And glycolysis goes, okay, cool.
+
+151
+01:07:55,280 --> 01:08:19,856
+So that's why... And this is why you warm up. Yeah, and that's why after a few minutes, lactate levels drop and continue to drop over a very long period of time, which is almost always accompanied by an increase in circulating fatty acids and liberation of fats for use. So like we said in the what limits, you know, fat oxidation, transport.
+
+152
+01:08:19,856 --> 01:08:48,192
+That's the big one, transport. So if we have more, this generates a larger gradient, and so we're going to transport more. And so what happens is the cell's energy state is gradually improved by more sustainable oxidative metabolism because obviously the cell wants to use anaerobic metabolism as infrequently as possible. Because what happens? You have a limited resource. You have effectively...
+
+153
+01:08:48,192 --> 01:09:16,720
+Unlimited Fat Resources. Like, we all know that, right? And so glycolysis and phosphocreatine are utilized when the cell's energy state is under stress. And remember, though, when we're exercising at a steady state and, you know, fat utilization is increasing because we have more in the bloodstream and more liberated, carbohydrate use is being reduced, right?
+
+154
+01:09:17,359 --> 01:09:45,584
+So the cell's redox state is unchanged. The same redox demand to keep the membrane potential up, that is still the same. ATP is being used, the electron transport chain is moving, O2 is being consumed, reducing equivalents are needed. And this is why your local fast friend with a 400-watt FTP at like 6 watts per kilo is not in the world tour.
+
+155
+01:09:46,032 --> 01:10:11,984
+He has a really good VO2 max. He has garbage endurance. And this is the number one biggest difference between him and a World Tour rider. And it's not just that like the World Tour pro happens to have like 20 times the glycogen storage capacity, right? This is where endurance comes from. I think it's also good to point out here. It's also not because, you know, your friend
+
+156
+01:10:12,272 --> 01:10:39,616
+You know, oh, if my friend could just ride, you know, like the pros do or whatever. Like, no, no, no. A lot of this is also genetic, right? Like, everything from how much work you can do to how much work you can recover from to how well you respond to training, all of these things are all genetic. And sure, they can improve. Like, you, as you get fitter, you can recover from more, but there is a limiter. And there's also a limiter to how quickly you were. Like, you know that one person, right, who...
+
+157
+01:10:39,616 --> 01:11:03,648
+It seems like this person can, you know, pull a hamstring or whatever and then two days later they feel great. Like, for whatever reason, they recover from injuries or what seem like injuries that would take some people that you know months and months and months. This person seems to bounce back really fast. It's a similar sort of thing. Like, this person has a boatload of mitochondria, like enough for two average sedentary people because... Or more, yeah.
+
+158
+01:11:03,648 --> 01:11:31,872
+Yeah, or more, because not only are they able to ride a lot and train well and recover well, but they also, like we keep saying, they picked the right parents. Yeah, and so this is how people don't tax their glycogen stores to the same degree, right? It's like you ask yourself, how does somebody burn X amount of kilojoules? Where does it all come from? A lot of it comes from fat.
+
+159
+01:11:31,872 --> 01:11:59,456
+and because they have so much mitochondria. And this is one of the things, this is one of the biggest things that determines substrate usage. So I'm sure people are saying, where is your evidence for this? Okay. So remember the paper we looked at first, everyone had the same mitochondrial mass across all the trials. So they all have the same glycogen usage, but in untrained people, three days of two hours of endurance training,
+
+160
+01:11:59,456 --> 01:12:28,048
+can reduce glycogen usage by 60% at the same absolute intensity. So that's a relatively fast adaptation. That's not like, oh, it took me months and months and months and months to build up to this. Yeah, yeah. I've got a link to a study. I've actually got links to two studies for this kind of stuff. So, you know, the fact that mitochondrial mass has probably the largest effect of increasing fat oxidation for the same relative intensity has probably been known for 80 years.
+
+161
+01:12:29,264 --> 01:12:58,544
+80. Wow, that's a long time. Yeah, so basically all this shows that it's not that the same amount of glycolysis is happening and that we're just oxidizing all the lactate because your local friend, the 400-watt FTP and the crap endurance, would be burning lactate at the same rate or burning through glycolysis at the same rate as the World Tour Pro. The difference is the World Tour Pro is not using nearly as much.
+
+162
+01:12:58,928 --> 01:13:27,952
+to the same degree. So basically, like, they are great at meeting their redox needs without changing their cell state or hardly changing the cell state. And this is how you can get to the end of a six-hour race and set a power record. Like, for instance, some of my athletes have been doing in their gravel races lately. And it's not the fact that, like, somebody, you know, because we can all eat the same, right?
+
+163
+01:13:27,952 --> 01:13:50,320
+One of the biggest differences. So in terms of performance, VO2 max and lactate threshold and endurance. This is why endurance, and I don't care what you call it. Some people call it fatigue resistance. Some people call it durability. I just call it regular endurance. It's all the same thing. We all know what we're talking about. This is where it comes from. That's really interesting. Yeah, like the idea that...
+
+164
+01:13:50,320 --> 01:14:18,624
+I like that. I like how you said, like, oh, they're so well-trend. They have so many mitochondria that, you know, normalizing, you know, 390 for a few hours is like, meh. I mean, it kind of is. I've seen it. It makes sense. It's like how it's similar to the way where, you know, as you get stronger, say, as you can squat more, all of a sudden, 225.
+
+165
+01:14:18,624 --> 01:14:35,184
+becomes not as hard as it used to be and not as hard as it used to be and not as hard as it used to be. Like there was that, this is mildly off topic, but Robert Fosterman, the famous German track sprinter with the huge legs, on YouTube did this competition to say it was your body weight on a, you know,
+
+166
+01:14:35,184 --> 01:14:57,584
+on a barbell and you had to stand there and you had to do the maximum number of squats you could do with your barbell, right? And even though it's your body weight, so you think, oh, it's relatively scaled, you know, they had a bunch of guys that had like a powerlifter, a strongman, Olympic weightlifter, Robert Fosterman, you know, a bunch of like very strength and power guys. At the end of the day, the person with the highest raw maximum squat could do the most reps.
+
+167
+01:14:57,584 --> 01:15:25,008
+with their body weight. Even if they think, oh, like, body weight, that, like, should scale, right? But, like, no, like, this person with just this raw, here instead of being just, like, endurance or durability, whatever you want to call it, it's just raw maximum force production. Well, because they only lasted, like, a minute or two or something like that. Like, it was basically an anaerobic capacity contest. So, like, you know, you're looking at, like, what's your anaerobic capacity, you know?
+
+168
+01:15:25,008 --> 01:15:49,376
+You know, to some degree, what's your VO2 max, but also like, what's your maximum, like, you know, force generation capability. And so to make this parallel with endurance training, you know, your maximum aerobically is your VO2 max. And I've got a lot of data on world tour riders now. And one of the biggest differences I see
+
+169
+01:15:49,376 --> 01:16:19,232
+in world tour riders who do really well in stage races versus the ones who don't do well in stage races and say do better in like one day races. There are a lot of different hallmarks on just regular old endurance stuff. And the training also reflects it too. Those bastards. Yeah. So one of the things that I think all this points at,
+
+170
+01:16:19,232 --> 01:16:46,640
+is that when a metabolic model like VLA Max, so like when this was really big a couple years ago, and it's still, you know, big-ish to some folks, you know, reading that paper where that all came from, basically it says that increasing exercise intensity yields a linear increase of ADP, AMP, and inorganic phosphate. And this
+
+171
+01:16:46,640 --> 01:17:16,224
+As It Increases Activated Glycolysis. And the whole model is based on this. It's elegant, but it's wrong. It might be correct in untrained people, but it doesn't reflect obese individuals who start out at half activation of glycolysis. Half carbs. Yeah, half carbs. And it also doesn't reflect super well-trained endurance people who will be able to ride up to God knows how many watts and barely touch their carbs, especially once they're warmed up.
+
+172
+01:17:16,224 --> 01:17:43,376
+And so these are people who can keep a high cellular energy state. They can meet their redox demands without really screwing with their glycogen stores. And so, yeah, so the VLA-Max model, it has a lack of pyruvate as the fat consumption curve. So this annoys me for a number of reasons. The biggest reason is that this assumes that the carbon fat utilization rates in the model per work rate are fixed.
+
+173
+01:17:43,376 --> 01:18:09,728
+and does not shift for like longer durations like we see. So that's the first thing that annoys me. The second thing is that it implies the body has its main source of fuel as carbohydrates. When we've seen so many things that show that the body as it generates, you know, okay, we're liberating more fats, we're liberating more fats as the exercise goes on.
+
+174
+01:18:09,728 --> 01:18:39,568
+and the body starts to use more fats and use more fats. Like this is not by accident. Evolution has decided this is the right way to go and I agree with evolution. Yeah, I mean your body stores how many extra calories in fat on average versus how many extra... For like a slim man, it's like 30 or 40,000 kilojoules in fats. And that's just an adipose tissue. You've probably got a couple thousand more in your intramuscular triglycerides.
+
+175
+01:18:39,760 --> 01:19:07,472
+Versus like, I don't know, two, like somebody large like you or me, you know, big quads, if we're just looking at that, we could probably store like, you know, between 2,000, maybe 2,500 kilojoules in carbs in our glycogen stores in our lives. Yeah, for sure. And you imagine too, just generally, like even for untrained people running from saber-toothed tigers, like, yeah, like.
+
+176
+01:19:07,472 --> 01:19:27,888
+Fats are the way to go, unless you really have to sprint away from the Sabre Cheeseburger. Yeah, and so, because I think the other thing that this model doesn't take into account is the fact that, you know, we see a lot of evidence that the way that this model expects metabolic substrates to be used.
+
+177
+01:19:27,888 --> 01:19:56,496
+is not what we see. It doesn't take a lot of things into account. And so that's the reason that the VLA Max model really does not work because you do not get a certain amount of glycolytic activation guaranteed as you increase your exercise intensity. It really, really depends on the individual and especially on how much mitochondrial mass they have, availability of oxygen, the list goes on.
+
+178
+01:19:56,496 --> 01:20:20,752
+But this is like the big thing. This is one of the reasons I've been saying forever that VLA Max does not determine your FTP. Your sprint mostly, I would say, has a 60 to 80 percent, yeah, no, 70 to 90 percent affecting your VLA Max. Yeah. And like we've said before, you can both have a large FTP and a large sprint because
+
+179
+01:20:20,752 --> 01:20:41,776
+Every world tour sprinter has those. Mm-hmm. Yeah. Like, otherwise they don't make it to the end of the race, right? Like, like, the reason that, I don't know, like, Lorena Weaves is able to leave people, like, gapped, like, seven bike lengths gapped. Yeah, because she can generate large amounts of force quickly.
+
+180
+01:20:41,776 --> 01:21:11,360
+like she has a giant sprint, you know, 13, 1400 watts. And so she's fresh basically. Yeah. And she's got amazing endurance, amazing, incredible endurance. Like one of the flattest power curves I've ever seen beyond like the, I can barely see an FTP inflection in that power data for her. And it, you know, it's not like she hasn't done like a max effort. It's just that like, unless she's sprinting, like she's a, she's a diesel. It's, it's awesome.
+
+181
+01:21:11,360 --> 01:21:40,512
+And, you know, because when you also look at, you know, sprinters and, you know, people on the road whose sprint goes up and down, there should be a concomitant increase or decrease in VO2 max for this model to make sense. And that's really not what we see. If somebody's sprint power goes up, maybe the rate of force development has gone up. And this increases the rate of ATP utilization and the rate of glycolysis and phosphocreatine utilization will fill in what's needed.
+
+182
+01:21:40,512 --> 01:22:05,536
+But that does not have any relation to what's happening submaximally. This is how the cells decide on what's happening submaximally. So this brings me to the other thing. Because I can't ever complain about just one thing. So any...
+
+183
+01:22:05,536 --> 01:22:33,424
+Training Philosophy, or even like, you know, kind of biochem based training philosophy from even very smart people who do really, really good work otherwise. The ones that focus overly on substrate oxidation, like lactate or fat, are fully missing the point of how all this works. So, you know, the systems that we have in metabolism don't exist because we need to remove lactate.
+
+184
+01:22:33,744 --> 01:23:02,224
+Mitochondria don't become dysfunctional because whole body respiration shows high carb reliance. The dysfunction is not having enough mitochondria. Mitochondria's function is to maintain a potential energy reservoir. It props up ATP disequilibrium before mitochondria have enough oxygen to really get up and moving with electron transport and keeping up their membrane potential. Because you notice...
+
+185
+01:23:02,448 --> 01:23:24,384
+ATP generation relies on having enough oxygen too. Because without oxygen, you can't, you know, there's no end for the electron transport chain. And so that's why that's limited. So it's self-limited by what complex four can do in generating water. You're not going to have, otherwise I'll...
+
+186
+01:23:24,384 --> 01:23:53,440
+All mitochondria are going to lose their memory potential and your ATP work capacity is going to go away and the cell is going to die. You're going to have dead leg muscles. That's not what we want. That's not what we get. And so, you know, like we said, like bringing this full circle. So regardless of the substrates used in the three-hour tests, the eventual signal to actually improve performance is the same because the body knows this even if we don't sometimes.
+
+187
+01:23:53,440 --> 01:24:20,832
+So, and this is why if you gave me the choice of somebody either having 20 watts more threshold or 20 minutes more TTE, I would go with the TTE most of the time because this means they're riding more. But, you know, occasionally I would go with the FTP, but if it was one or the other blind, I would take the TTE. Because VO2 Max...
+
+188
+01:24:20,832 --> 01:24:44,880
+and your FTP, like they're related. VO2 Max is the ceiling, right? So VO2 Max is not a good indicator of what like Tim Cusick and Andy Coggin call metabolic, muscular metabolic fitness or what I just call endurance or durability or fatigue resistance or whatever, right? So your FTP is not your endurance. It certainly helps.
+
+189
+01:24:44,976 --> 01:25:12,016
+Having, you know, having a 400-watt FTP helps you ride at 200 watts. Absolutely, it does. But, you know, when I look at WorldTour data, like, you know, I'm looking at an LT1 that's like, you know, low to mid 80% of FTP as opposed to, yeah, a lot of people who don't ride a lot, it's going to be 50, 55, 60%. Like, it's a huge difference.
+
+190
+01:25:12,016 --> 01:25:41,184
+And having a high VO2max and a high FTP can get you certainly a long way in cycling. It really can. And it's not like those things should ever not be trained. They absolutely should be. But you should not, especially if you're going to need endurance, if you really want to make it to the next level, if you really want to be a pro rider, you want to be a world tour rider, this is one of the reasons that you need to ride more and it doesn't matter what you burn. All that matters is that you have a snack.
+
+191
+01:25:41,184 --> 01:25:59,952
+and you go ride your bike. Who doesn't like snacks and riding their bike? Honestly, that sounds great. I know, right? So anyway, so I hope all this gives people a deeper understanding for mitochondria's role in the cell. So again, their function, their real function.
+
+192
+01:25:59,952 --> 01:26:27,760
+is an energy reservoir. It maintains ATP's disequilibrium and the cell's ability to actually do work. And if the disequilibrium cannot be maintained, the cell dies. This is why mitochondrial proteins are part of apoptosis, programmed cell death. So endurance exercise, therefore, is something that challenges a cell's ability to maintain homeostasis. In particular,
+
+193
+01:26:27,760 --> 01:26:56,752
+The mitochondrial function, which is keeping that energy reservoir full and keeping that redox, meeting that redox need for the electron transport chain so that way your main cell body doesn't have its ATP disequilibrium disturbed. So all our endurance adaptations are to better and more sustainably maintain this homeostasis with sustainable resources. So don't worry about what you're burning.
+
+194
+01:26:56,752 --> 01:27:23,008
+Again, have a snack, go ride your bike. Yeah. Yeah, the other analogy, can you imagine, if you imagine, speaking like really big, I just like the idea, the mental image of just huge mitochondria walking around. Like, not walking, like drifting around. No, I would take it for a walk. Yeah. Me and my mitochondrion.
+
+195
+01:27:23,008 --> 01:27:47,440
+It's like the size of a pinto bean, right? They're like macroscopic. Yeah, I go to the grocery store and get a can of mitochondria. It'll be really metally tasting. There's a lot of iron in them. Anyway, so from here, well, before we answer listener questions, our next couple episodes that are going to...
+
+196
+01:27:47,440 --> 01:28:16,960
+Kind of go along in this chain. It's not like we're going to be done looking at fat and lactate and carbohydrates and substrate oxidation and stuff. But don't be surprised if I refer to this episode a lot. So it's finally going to be out there. And this is kind of the big point. This was kind of really the big point of the whole metabolism series. So everybody's got enough pieces of the puzzle.
+
+197
+01:28:16,960 --> 01:28:45,216
+Somebody goes, oh, well, you can burn more fast this way. You can go, ah, but that's not really what's going to get me better endurance, is it? So anyway, I am looking forward to the next couple episodes, but for now, we have some listener questions if you'd like to get to them, Kyle. I'm ready. Let's go. Cool. How much is mitochondrial density affected by genetics versus training? Actually, a lot.
+
+198
+01:28:45,216 --> 01:29:10,672
+That's a good question. So Kyle, like you talked about earlier, you know, you got to pick the right parents for sure. But like, you still have to do the training. It's like, this is a bad analogy, but it came up earlier. I was talking to one of our coaches and we were talking about somebody, whether somebody was doping or not.
+
+199
+01:29:10,928 --> 01:29:40,560
+And we speculated on a couple people. It was mostly in jest. Like, it was not actually serious. We don't, you know, if we had actual evidence, don't worry. Yes, we would call USADA. So I was remembering in Tyler Hamilton's book, Secret Race, he said that, you know, you can do all the drugs you want, but you still have to do the training. So this is actually makes me appreciate that statement deeper. Because, you know, if you do EPO and you have this giant red cell mass, right?
+
+200
+01:29:40,560 --> 01:30:08,320
+and you've got this big VO2 max, you still have garbage endurance. Yeah. You've got to go ride. You've got to build that mitochondria volume. Like, you know, like, EPO is not going to build you your fatigue resistance. It's not going to build you durability. It's not going to let you smash a PR after racing for six hours. Yeah. I mean, that goes along the lines of two people think like, oh, I can just do a bunch of steroids and I'll look like...
+
+201
+01:30:08,320 --> 01:30:27,040
+Peak Arnold Schwarzenegger, like, tomorrow. And you're like, yeah, well, Arnold was on drugs. He said he's used steroids. But, like, have you seen Pumping Iron? Do you see how much work he was doing? Yeah, a huge amount of work. Yeah, so that's, yeah, you've definitely got to do the riding.
+
+202
+01:30:27,040 --> 01:30:55,552
+And I hope after this episode people appreciate one of the reasons that volume is so important. It's not like you can skip FTP intervals. It's not like you can skip VAT to max intervals. And we're going to talk about adaptive signals and how that kind of affects what happens in our muscles down the road. I hope everybody's looking forward to that as much as I am. So anyway, next question is effective training on mitochondria, deep dive.
+
+203
+01:30:55,552 --> 01:31:24,688
+Well, we're going to do some very deep dives. Actually, that's what I was just talking about. So, in the meantime, ride your bike more. Let's see. Is knowing the science necessary to be a good coach? Kyle, what do you think? I would say no. Like, you can imagine, I don't know, like,
+
+204
+01:31:24,688 --> 01:31:50,352
+A while ago, say the 70s, 80s, before we developed a lot of these better measurement techniques and had quote-unquote modern training protocols, a lot of this stuff was figured out by trial and error. And so as long as you don't get too distracted by
+
+205
+01:31:51,664 --> 01:32:20,832
+Red Herrings and things like that. Coaches were experienced and had been in sport for a long time and they figured things out because they had a lot of data and even though they may not have been doing perfectly scientific studies, they kind of saw what worked and saw what didn't. So no, I don't think you have to know biochem to be able to program good training. Yeah, I actually feel like
+
+206
+01:32:20,832 --> 01:32:47,168
+My education and my continued education more helps me figure out what won't work. You know, it's like... That's a good point. You know, it's like I was consulting with a certain pro and they were asking about improving their sprint. They were like, oh, isn't this going to, you know, decrease, you know, increase my VLA max? I was like...
+
+207
+01:32:47,168 --> 01:33:15,632
+Yeah, but like, who cares? Like, it's not going to change your via to max. It's not going to reduce your threshold. Like, your threshold is going to be the same. And that's exactly what happened. Better sprint, same threshold, actually, better threshold. And the people that I've trained where we've done that, we can get a sprint and a threshold to go up at the same time. When, you know, according to some models, it would not. So anyway, this is like the top-down modular control stuff, right? Like, this is the ultimate top-down modular control.
+
+208
+01:33:15,632 --> 01:33:42,704
+Training into the athlete and see what kind of like, you know, put this substrate, put this stimulus, which is probably a better way to say it, into the meat grinder and then see what kind of sausage you get. And maybe you get no sausage or maybe you just get the same meat on the other side or maybe somebody's just tired. Like it's, I don't think knowing the science helps that much a lot of the time. It certainly helps me in terms of
+
+209
+01:33:42,704 --> 01:34:12,688
+Kind of figuring out some things. But a lot of the time, it's really just shores up the basics. Just going, oh, well, this is why the basics work so well. And we kind of came up with the basics before we knew about a lot of the molecular control stuff. And it's like, you know, if you want to start doing bottom-up stuff, which people are starting to, I mean, my hat's off to you. That is a gargantuan task. Yeah. I think the other thing, too, like, and like you said, like,
+
+210
+01:34:12,880 --> 01:34:31,024
+something that comes from experience and what humans are really good at is pattern recognition and oh I've seen this before I remember this happening with athlete six years ago or whatever and if you've never coached anyone and just know the biochem like you know maybe you don't realize that
+
+211
+01:34:31,312 --> 01:35:00,656
+Work stress and all this other stuff will also play in. And you think, yeah, just more is more. Just ride your bike more. I was literally me in 2014, just graduating school and going, I know biochem. I know how all this works. And then I started coaching myself and coached a couple of people. And then I immediately fell right off the top of the Dunning-Kruger cliff. And I was like, oh my god, I am so far behind on this actual coaching stuff. And there's so much more to it.
+
+212
+01:35:01,328 --> 01:35:29,632
+Yeah, totally. And so I think, yeah, no, you definitely don't have, I mean, a lot of people have been successful without degrees in biochem and like, you could argue that it is, I think as people look for an edge, that I think is where people are finding it probably more useful, like, oh, you want to be able to digest the latest paper on whatever and hope that gives you the edge, but it can't be
+
+213
+01:35:29,632 --> 01:35:55,104
+You know, it's not going to be the secret thing. Like there's no secret food you can eat that's going to triple your FTP. Yeah. Yeah, for sure. And if there was, like it would be $2,000 per meal. So question, how well can mechanistic research on metabolism training, sorry, how well can mechanistic research on metabolism inform training?
+
+214
+01:35:55,104 --> 01:36:22,800
+I mean this is kind of what we've been talking about but specifically I would actually say that maybe not metabolism so much well actually kind of papers that we just looked at like what you oxidize doesn't matter it's the same it's the same basic signal you know I think that's important to see but it's kind of important to know that it that stuff like that doesn't matter so like you know kind of again it's figuring out
+
+215
+01:36:22,928 --> 01:36:52,896
+You know, being able to debunk fads in your head is, I find it really useful. Because it means I get to spend a lot less energy trying shit out with people and then going, oh, sorry, everybody said it would work and it didn't. I can just ignore it right away. Go, yeah, that's a bunch of bollocks, whatever. More muscle mass equals more mitochondria equals more aerobic power, question mark? Kyle.
+
+216
+01:36:52,896 --> 01:37:20,720
+You've got a lot of muscle mass. How do your mitochondria feel? Well, my seven mitochondria, and I can think of all of them. Dopey, sleepy, grumpy. Exactly, yeah. If only, right? Like, you do see some, I think there's some correlation that people see, like, oh, sometimes you see these big
+
+217
+01:37:20,720 --> 01:37:49,616
+Big Time Trial Diesel guys like Ghana, Taylor Finney and his Prime, like some of these guys, like the classics riders, guys who just, you know, go to the front and slam high tempo for four and a half hours. Like they are big, but they are big relative to skinny climbers. They're not big relative in like an absolute amount of muscle mass, right? Like a pro IFBB bodybuilder who's like my height is going to weigh like
+
+218
+01:37:49,616 --> 01:38:14,560
+100 pounds more than me in the off-season? Yeah. Yeah, like, you know, like, for instance, like, uh, Cory Lockwood, like, 4 to 31 FTP, like, massive engine, great endurance, his thighs are closer in both diameter and circumference to my biceps than my thighs. You know, he's slim, like,
+
+219
+01:38:14,560 --> 01:38:43,040
+And how does he do it? He has a lot of mitochondria in a small area. And this is one of the things that you see with a lot of those, you know, diesel-y kind of spindly climber bros, and the ladies too, is, you know, you see less muscle mass, which means you've got less top end because you can't generate as much absolute force. But, you know, your mitochondria have a smaller area to service. You've got smaller areas to diffuse.
+
+220
+01:38:43,040 --> 01:39:11,472
+And also you've got less weight to carry up climbs. So there are multiple advantages to having less muscle mass, aerobically anyway. You know, look at marathon runners, all of them, every one of them, rail thin. And there's a reason for that. So having more muscle mass, even if you train it aerobically, you actually have more muscle mass to service with your existing...
+
+221
+01:39:11,472 --> 01:39:39,664
+Heart Stroke Volume, the oxygen you can deliver. So like, for instance, one leg cycling versus two leg cycling. We looked at this like way back in the VO2 Max series where I had, Kyle, I remember I tortured you with this episode for like three takes. I hadn't found the perfect paper for a little bit and we kept trying takes, I'm so sorry. And then I was like, I got it, I got it. And I was obsessing over this.
+
+222
+01:39:39,664 --> 01:40:08,768
+And it was the paper that looked at how in one leg cycling or like kicking or knee extensions, whatever it was, the VO2 max was three liters a minute. And then you didn't see a plateau. You got a VO2 peak. And then at four liters a minute with two legs, you actually saw a peak. And so this means that the heart is actually at its capacity to distribute. Now, if you start adding more muscle mass to service, you are taking away.
+
+223
+01:40:08,768 --> 01:40:36,176
+Potential Power from, you know, whatever, because you are now having to distribute that blood and oxygen through more of your body. So like the same principle applies to having larger muscles. And especially if you're doing like lifting weights, these are typically not very highly aerobic fibers. They can be trained, but this takes a lot of hard work to train giant quads to have very high aerobic capacity.
+
+224
+01:40:36,176 --> 01:41:05,104
+So yeah, muscle mass does not necessarily mean aerobic power. And I think this is the next Wattzok episode, actually. We should probably touch on this because I think, I don't mean to speak ill of anybody who has put this out as a thing. Like the relationship between power and weight is, it is exactly what you think, but it's also not anything what you think. I'm sure once we explain it, it's going to go, oh yeah, okay, yeah, of course. It's like,
+
+225
+01:41:05,104 --> 01:41:34,480
+You know when your professor in class, well, it's been a while, but when your professor in class explains something and then you go, oh, that's right, yeah, I've kind of known that all along. It's going to be like that. So it'll be a good time. I'm excited. If squats have you breathless with muscle contraction, why does it not also bring aerobic adaptations? Kyle, I want to hear your response to this one. They kind of...
+
+226
+01:41:34,480 --> 01:42:03,152
+Do? Just not very efficiently. It's not an incorrect thought to think, oh, when I have elevated breathing like that, I'm getting some aerobic stimulus. That's right. It's just that the total time spent, like we've talked about with VO2 max efforts, the time spent basically gasping like a fish is a good proxy for time spent actually getting stimulus. And likewise, if you...
+
+227
+01:42:03,312 --> 01:42:25,088
+You know, you breathe really heavy after squats, but as long as you're sitting down to recover or something and not supersetting it with other stuff, your breathing comes back to normal relatively quickly. You're not gassed for, well, most of the time you're not gassed for 10 minutes after a set of squats. I am.
+
+228
+01:42:25,088 --> 01:42:42,192
+Yeah, and like, and this is why you can get somebody who's like completely sedentary and get them doing squats and like, oh my god, they've gotten more VO2 max. Like, yeah, sure. Like, you get some aerobic adaptations right off the bat. Doing anything gets you all adaptations right off the bat, pretty much.
+
+229
+01:42:42,192 --> 01:43:11,664
+And so, you know, it's really for like, you know, very advanced levels of aerobic adaptation that we're thinking about it. And so for squats, it's basically kind of like if you do a 20-second sprint, like how long does a set of squats take you? Like anywhere from like 20 to like 40 seconds, maybe out to a minute, touch over a minute on the, you know, super long sets, maybe 15, 20, you know? Like if you went out and did a bunch of 40-second hill reps that left you breathless,
+
+230
+01:43:12,016 --> 01:43:40,944
+How much aerobic training are you going to get off the back of that? And we've seen before, initially, some, for sure. And then after that? Measurable. Certainly measurable, yeah. Definitely measurable. But after, like, you know, eight weeks, something like that, it kind of falls off a cliff. Like, you lose the adaptations. So, your body goes, oh, we had this issue. Okay, we fixed it now. We literally plugged the leak. We plugged the calcium leak. That happened.
+
+231
+01:43:40,944 --> 01:44:10,752
+That's one of the things that happens with that. Let's see. Rotating shifts like working days and nights, does this have an effect on metabolism and training? Yes, it does. There's actually a paper that I've had open for a little bit and I've just started to read about glucose intolerance and blah, blah, blah, mitochondrial problems with overtraining.
+
+232
+01:44:10,752 --> 01:44:39,504
+And one of the things that happens when you are like on your feet a lot, you're not recovering, you're stressed, you're not sleeping well. I've done night work before. I used to stock groceries in upstate New York. Price Chopper and Troy, if you were there around 2005, I probably stocked some groceries for you. And so that kind of stuff really screws up your sleep like badly.
+
+233
+01:44:39,504 --> 01:45:07,632
+you know worse than like having too much coffee at eight o'clock at night so that kind of stuff really impairs your recovery and recovery impairs just about everything and so that's why when you are actually doing this kind of stuff it's not so much about like substrate oxidation in terms of metabolism like burning carbs and fats and whatnot it's more like you're not recovering and so whatever training you are doing should be
+
+234
+01:45:07,632 --> 01:45:36,112
+Low Stress and Recoverable. And if you have a good day and you feel good for hard efforts, you can take it, make sure you get full recovery. So that's one of those like life management things that you don't, it's a top-down analysis that we don't really need to know the specifics for. Yeah. Yeah. I mean, there are actually a bunch of studies recently that have shown that a bunch of night shift work is actually really not good for you.
+
+235
+01:45:36,112 --> 01:45:57,600
+Like, measurably bad for things like risks of diabetes, heart disease, obesity, a lot of this stuff. And so, yeah, generally speaking, especially rotating shifts, right, if you can't actually settle into a regular schedule, that's really not good. Yeah, yeah, that's really bad. It's, you know, it's like, oh, yeah, sorry, go ahead.
+
+236
+01:45:57,600 --> 01:46:26,576
+I would say, even if you're ignoring the exercise component, just generally for the quality of life. Yes. Like, I think of those memes where it's like, ah, it's like a picture of an old man, and it says, like, ah, nights aren't hard on the body at all, and it says, like, Jeff, age 31, you know? Ah, Jeff, we knew him well. Yeah, so, yeah, and, you know, doing that kind of stuff, like, you eat,
+
+237
+01:46:26,576 --> 01:46:55,024
+Horribly, because your body's always in that kind of stress state. Yeah, it's super bad. And like, just thinking about what happens for daylight savings, like that day that we lose an hour, like Matthew Walker says that like, what was it, like heart attacks and strokes go up like some incredibly measurable percent and they drop by about the same amount when we gain another hour of sleep. Yeah, yeah, yeah. Well, there was actually recently a study about that too where they showed that the less sleep you get, basically,
+
+238
+01:46:55,024 --> 01:47:24,432
+For Americans, basically, the less sleep you get, the greater concentration of fast food you eat. I relate to that so hard. Oh, God. But also, in terms of sleep, I've also seen graphs that look at mortality. How likely are you to die at what age? And people who get very little sleep are more likely to die early, and people who get way too much sleep are also more likely to die early. So get enough.
+
+239
+01:47:24,432 --> 01:47:51,552
+Yeah. Oh, where's that good one? Oh, here we go. Are there better adaptations without a cool down after HIT, parentheses, with lactate, when the next training is low or intense? I hear this as, tell me if I'm getting this right, Kyle. Having more lactate in your bloodstream and cells.
+
+240
+01:47:51,552 --> 01:48:17,696
+is potentially a better adaptation. Right? Yeah, so I actually remember this kind of from the old days of yore when I was a swimmer. We would do like sprint race pace efforts, you know, 30-second efforts on four or five minutes or one-minute efforts on double that, so five, six, seven, eight minutes, something like that. And people would think that these were...
+
+241
+01:48:17,696 --> 01:48:46,192
+Quote-unquote lactate tolerance efforts and that somehow this idea that you were getting this stimulus from just like having a high blood concentration of lactate because you were doing these hard anaerobic efforts and not letting the lactate clear fully, whatever that means. Oh no, but they're bursting your nascent little capillaries. Yeah, no, it like having lactate sitting around, it may
+
+242
+01:48:46,192 --> 01:49:11,472
+Increase signaling for transporters. It's sort of like having a lot of fat around because you're eating a lot of fats in your diet now instead of carbs. It'll increase transporters. Okay, it doesn't increase performance. The body's smart because having more mitochondria is energetically intensive. It's like having...
+
+243
+01:49:11,632 --> 01:49:36,768
+It's having like 20 houses of cards like sitting around your apartment. Like you've got like one starts to topple like, oh no, I got to go fix this. Oh no, I got to go. It takes time. It takes energy. You know, it's like maintaining a house. And now what if you're a landlord and you've got 20 houses and you're only one person? Like, yeah. So that's what it's like having a lot of mitochondria and the body.
+
+244
+01:49:36,768 --> 01:50:05,584
+is smart and it's like, okay, what is my absolute aerobic stimulus? What do I need to maintain in terms of endurance and blah, blah, blah? Or what substrates do I have to use and is my endurance capacity being challenged? So these are two very, very different things as hopefully this episode has explained. Yeah. Yeah.
+
+245
+01:50:05,584 --> 01:50:33,024
+Things you should avoid if you're trying to maximize mitochondrial biogenesis. Ride a lot. Yeah, avoid not riding. But the thing that you should avoid, yeah, avoid not riding, but also don't ride when you need to recover. Like, if you're trying to maximize mitochondrial biogenesis, you need to do the training, but you also need to recover. And you need to never...
+
+246
+01:50:33,024 --> 01:50:54,128
+Put yourself as far into a hole that you cannot properly recover from. And that's one of the things that, you know, that I'm kind of seeing in that paper that I'm reading right now. Yeah. Yeah, yeah. Remember, like, people talk about it and it's like, oh, it's like an old adage, but like, it's true. Like, when you sleep, you recover. When you take, when you actually...
+
+247
+01:50:54,128 --> 01:51:22,416
+Gain those, is when you actually gain those adaptations. Sleeping, recovering, all that stuff, is when your body actually gets a chance to build back stronger. So if you're not doing that, you're not, you're literally just not gonna get fitter. Yeah. And you're gonna get injured. We've used this a little bit, the analogy of like strength training. Like if you can do a set of squats, like it's very binary. You either did it or you did not. You know, you can still kind of fart out a couple bad FTP intervals if you're pretty tired.
+
+248
+01:51:22,416 --> 01:51:49,456
+Um, and so there's not that binary thing. Um, and so, you know, one of the things I, I just told one of my athletes, uh, recently, um, somebody who's, you know, chronically done a little too much training for a long time. Um, you know, they were saying like, I feel really good right now. And I, I said, uh, make sure you remember this feeling and never get too far away that you forget this feeling.
+
+249
+01:51:49,936 --> 01:52:17,184
+and if you ever do if you ever feel like you're getting to that point you let me know and we're going to give you plenty of rest because you've and this this advice goes for a lot of people I think not for everybody clearly but for a lot of people you should always remember what it's like to feel good and feel like you could get there pretty quickly like within a week or two I would say should be about the maybe maybe three on the outside but like
+
+250
+01:52:17,184 --> 01:52:47,120
+If you feel like it's going to take you like a full month or more to fully recover, like, whew, good luck to you. Okay, here's two good questions. When do mitochondria stop replicating and what adaptations, if any, last for years post-retirement from cycling that help with aging well? You know, these are kind of related because one of the things that I think,
+
+251
+01:52:47,120 --> 01:53:15,728
+is would be interesting to note is that in studies of looking at mitochondrial mass, people who start training, train for like two or three months and then stop for like, you know, a couple months, they pretty much lose every adaptation they have in terms of FITUmax, mitochondrial mass, everything. People who train for years will have much more elevated levels of all endurance adaptations.
+
+252
+01:53:15,728 --> 01:53:37,296
+because it's now your body's set point of like what it thinks its demands are are much higher. So people who detrain, who have been training for years, the number I saw, and this is probably only for these people who were in this study, was 40% higher mitochondrial mass than untrained people.
+
+253
+01:53:38,192 --> 01:54:07,728
+That's a lot. It is a lot. And I would expect it to be even more for retired pros. And so mitochondria stop replicating when they are no longer needed because they're, as we said, they're expensive for the body energetically to keep. You need protein, you need energy to make them, you need the whole shebang. But they're only going to detrain to a certain point if you have been training for a long time.
+
+254
+01:54:07,728 --> 01:54:37,728
+I was even under this impression that like strength was like the number one thing associated with longevity. And then at one point somebody did a study and it actually turns out VO2 max having a good aerobic capacity is way more highly associated with longevity. I think Andy Galpin actually talked about this somewhere. And so that's one of the other adaptations that happens with aging well is like,
+
+255
+01:54:37,728 --> 01:55:07,664
+Being able to get yourself up out of your chair or off the toilet or, you know, to your grandkids' soccer game, this is good. Moving is good. You know, and because staying moving, it keeps you alive, basically. And, you know, strength training keeps your joints healthier unless you have injuries or, you know, horrible arthritis or whatever it is. And moving around keeps your mitochondrial mass up, keeps you oxidizing fats, it keeps you healthy.
+
+256
+01:55:08,720 --> 01:55:35,760
+Motion is Lotion. Or something. Does LT1 training do more for mitochondrial density than all other effort levels? Yes and no. It depends. What a shocker. So basically like
+
+257
+01:55:35,760 --> 01:56:04,800
+LT1 training, I think LT1 training is just endurance. Riding a lot of endurance below LT1 is the best LT1 training. And of course, you need to do some other stuff, blah, blah, blah. You can't just do one thing, but that seems to be the best thing to do to bring up your LT1 relative to your FTP. So, does it do more for mitochondrial density? One of the big it depends is that threshold training is a big one for mitochondrial biogenesis.
+
+258
+01:56:04,800 --> 01:56:34,592
+and VO2max training is no slouch either. So when it comes to how do you train for more mitochondrial density, I would say the biggest bang for buck is going to be volume, low intensity, volume. I know. Wow. Big surprise. And threshold training and VO2max training also.
+
+259
+01:56:34,592 --> 01:57:01,680
+When it comes to does it do more, I would say how much time do you have to ride? Because if you don't have time to ride 20 hours a week or whatever, doing endurance riding is only going to get you so far, and you're going to have to start doing some threshold work and maybe a little VO2 max work and whatnot. Raise your threshold, that's certainly going to help too. Raise your VO2 max.
+
+260
+01:57:01,744 --> 01:57:29,344
+But, you know, per unit time, you know, endurance training does not have the same impact, right? Because if I do 10 minutes at threshold, and if I do 10 minutes of easy riding, they're clearly going to have different amounts of strain on the body and the muscles. And if I do 10 minutes, well, I would have to do 2x5 minutes of VO2max training. This is also very different.
+
+261
+01:57:29,344 --> 01:57:53,392
+And so what is the biggest bang for buck per unit time is actually a good question. I would say, you know, if your time crunched, I mean, this is where, this is where like sweet spot training comes in. If your time crunched, probably threshold to sweet spot type training, probably I'm saying, I have not dug too deep into this, but from my experience, this is probably the biggest bang for buck.
+
+262
+01:57:53,520 --> 01:58:20,016
+But if you have a lot of time, doing less of that, doing more endurance riding is the way to go. If you're kind of newer or you've got, you know, you want to work on your V2 Max, great, work on your V2 Max. So everything kind of has to be done. And, you know, so when a question gets phrased like this, I think one of the things that I stumble over in my head when I'm answering is, does it...
+
+263
+01:58:20,016 --> 01:58:49,824
+Does this training do more for mitochondrial density than all other effort levels? I mean, you know, per unit time, how much time do you have to train? How well do you recover from your efforts? Are you looking for something to be more effective so you can do more of it? When you kind of weigh all these things together, a training plan emerges. But, you know, there's really no secrets here. Did that make any sense at all, Kyle?
+
+264
+01:58:49,824 --> 01:59:19,392
+Yeah, I think so. I think, like, and we've talked about this before, because all this aerobic work kind of exists on a spectrum, like, you know, going up and down for this around LT1 or whatever this is, is like, is it going to be vastly different than just riding an LT1? Like, you know, like, probably not in so much that you could actually accumulate
+
+265
+01:59:19,392 --> 01:59:48,096
+just that little bit extra work, like, you know, moving around a little bit, like maybe, but like, is it gonna be the magic difference? There are no, there are no miracle intervals. I knew you were gonna work that into this episode somehow. You got it into the last recording pretty well. I was like, he's gotta sneak it in again this time. That was a good one.
+
+266
+01:59:48,096 --> 02:00:17,408
+All right, well, that is all of our questions. So, Kyle, do you have any thoughts to kind of wrap us up here? This was a long one, so thanks for sticking with us. We know this one's a long one, so it's okay. We know. But hopefully it was at least a little illuminating in terms of, okay, so what are your mitochondria actually doing?
+
+267
+02:00:17,408 --> 02:00:39,120
+And yeah, looking forward to the next one for sure. Get to nerd out some more. Who doesn't love that? I mean, obviously, if you listened to this epic barn burner of an episode, you're a nerd. Congratulations. Yeah, if you made it this far, thank you so much for listening. We really appreciate it. Yeah, I do hope it was an enjoyable...
+
+268
+02:00:39,120 --> 02:01:06,128
+Joyable episode. I actually feel like this was a bit of a thesis in a way, even though all I was really doing was pattern recognition. I just read a whole bunch of stuff. I put together all of my learnings and made an episode. So, yeah. Again, if you want to support the podcast, other than listening this far, if you made it, thanks so much. Subscribe, et cetera, et cetera. iTunes rating, blah, blah, blah.
+
+269
+02:01:06,128 --> 02:01:32,832
+EmpiricalCycling.com slash donate. Really, we do have some regular donators. We really, really appreciate all of you. Thank you so much. And everybody who tosses us 20 bucks, 50 bucks, more sometimes, oh my God, cannot thank you enough. We really, really appreciate it. Yeah, so much, thanks. You have bought me and Kyle so many burritos and tacos and beer. Coffee.
+
+270
+02:01:32,832 --> 02:01:43,760
+Coffee, yeah, if we, gym memberships, we really, really appreciate it. Equipment, oh my god, this microphone is thanks to the listeners, appreciate it.
+
+271
+02:01:43,760 --> 02:02:09,088
+Anyway, so if you have any coaching or consultation inquiries, EmpiricalCycling at gmail.com. Of course, we're always taking on athletes. We are negotiable for student rates. We are negotiable for pros and people in extenuating circumstances, of course. And of course, if you would like to consult with us, our time is your time. We will answer any questions. We can look at your files. We can sketch out periodization. We can talk about concepts. Whatever you want, we're here for you.
+
+272
+02:02:09,088 --> 02:02:30,768
+So, of course, we've got some show notes up on the website at empiricalcycling.com and on the Instagram Weekend AMAs up in the stories and, of course, that's where we ask the questions for these episodes. So, thank you, everybody, for these questions. Thank you all for the weekend questions. They're all super enjoyable and, yeah, thanks again for listening. Now, go have a snack and ride your bike.
+
