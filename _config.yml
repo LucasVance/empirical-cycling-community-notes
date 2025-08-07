@@ -1,8 +1,3 @@
 title: Empirical Cycling Podcast Transcripts
 description: test description
 repository: lucasvance/empirical-cycling-transcripts
-# Custom CSS
-sass:
-  load_paths:
-    - _sass
-    - assets/css
