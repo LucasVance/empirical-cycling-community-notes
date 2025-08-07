@@ -3,7 +3,7 @@
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.category }}{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.category }} {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
