@@ -1,0 +1,328 @@
+1
+00:00:00,784 --> 00:00:30,384
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by my co-host, Kyle Helson, and today we're going to be talking about base training. What is base and what is base training, really? Before we get into that, I want to thank everybody for listening, as always, and please subscribe to the podcast if you would be so kind as to go into iTunes and give us a kind rating. We would love that very much. For any questions, comments, and coaching inquiries, please send an email to empiricalcycling at gmail.com.
+
+2
+00:00:30,384 --> 00:00:56,752
+So, Kyle, what are we talking about when we talk about base and base training? Like, what do we usually think of? Well, so I usually hear people talk about, especially if you're going to do long road races and if roadies are focused, spending months and months and months riding around at endurance pace, you know, quote-unquote, in the little ring for...
+
+3
+00:00:56,752 --> 00:01:23,136
+all winter, until your eyes bleed, and until, you know, you can start taking those arm and leg warmers off, then you can start getting into higher intensities. Um, which, there's always this, like, very old school, like, aura mystique of this, like, riding around for forever in the little ring thing. Yeah, isn't that, um, I think that was, like, a piece of advice from Eddie Merckx or something, wasn't it? Yeah, I think, I think that's right. So, what is, um,
+
+4
+00:01:23,136 --> 00:01:52,656
+Aerobic Base when we talk about athletes. This is one of the things I hear all the time is, oh, that person has a humongous base because they've been riding for years. And what does that really mean? I got to say, it probably doesn't mean what you think it actually means, at least not to me in my experience or with the knowledge I have about the human body and training adaptations. So I think a lot of people would think of,
+
+5
+00:01:52,656 --> 00:02:18,448
+Somebody's base as pretty much only like low intensity kind of zone two miles or something like that. There's two sayings that I kind of want to juxtapose kind of as the focus of analysis for this episode, which is first, going slow makes you slow. Something I read in an article recently. And you need to go slow to go fast, which is, you know, something...
+
+6
+00:02:18,448 --> 00:02:47,920
+I've been hearing for a long time when it comes to the necessity of base training. So Kyle, which one do we need? I think unfortunately, with anything, especially if people are taking this advice from really successful elite or professional athletes, there's a confluence of factors that make them elite. And so saying that, oh, this person is in their late 20s, they're in their early 30s, they're in the prime of their grand tour racing career.
+
+7
+00:02:47,920 --> 00:03:15,152
+Base that they have. You're like, well, maybe. Maybe that's why. Maybe. Well, that's one of the things that was very common among professional cyclists for a long time, and in a way, it still kind of is. I remember a guy on Reddit saying, every professional cyclist in Belgium where I live does this, which is like, you go ride for like
+
+8
+00:03:15,184 --> 00:03:42,928
+you know I don't know like six to eight hours or something like that you know five six days a week and you ride at like 120 beats per minute heart rate and you know you start out the first ride you you're averaging like 150 200 watts and by the end of it you're averaging like 300 watts which is just you know kind of ridiculous to think that oh that if I go do this this is gonna happen for me right yeah yeah there's definitely some uh
+
+9
+00:03:42,928 --> 00:04:10,592
+some confirmation bias there where, oh, I think that this is a successful way that these people train, so every time I notice them out doing one of these rides, I'm going to think, oh, that's them doing that thing that I agree with. Yeah, and it's also not like, not to say that, you know, you absolutely need to do these long rides or you're never going to develop as an athlete. And so actually, when it comes to looking at base training and like long, slow distance ride,
+
+10
+00:04:10,592 --> 00:04:38,768
+Type Things in the scientific literature. You know, what you mentioned about, you know, kind of like new gains, like you get off the couch and you start riding, you're going to get faster no matter what you do. You know, there's evidence of people, recreational athletes, you know, lifting weights, like heavy weights and increasing the VO2 max. Right, yeah. Yeah. If you haven't tried to look up any of these, go on Google Scholar and you will find them, I guarantee you.
+
+11
+00:04:38,768 --> 00:05:06,352
+but also like one of the limitations of a lot of the scientific studies that are out there that really look at some of these things you know like they're either looking at recreationally active people or like you know average amateur athletes and you know when they design a training program for these studies like training intervention to see how people do before and after one of the problems is that if you're dealing with an
+
+12
+00:05:06,352 --> 00:05:35,904
+generally average population and your training protocol doesn't stimulate them sufficiently, you may actually not get a response that someone doing a training program as we know might get. And so as we're going to see in a little bit, you can actually do a lot of things to get the same physiologic response. The other problem with a lot of these scientific studies, well not really a problem per se, but you've got to think about the sample group is that when they look at professional athletes,
+
+13
+00:05:35,904 --> 00:05:59,744
+You know, these people are, first of all, they're genetic freaks, like just bar none. Like they do any riding, they're going to get faster. So it's like when you have somebody who responds so well to an aerobic stimulus, like most of the people in like the world tour, it's hard, honestly, it's really hard to like screw up their training.
+
+14
+00:05:59,744 --> 00:06:28,320
+I'm not kidding. Doing just about anything will make them faster. And so as long as you don't overtrain somebody like that, you're going to do a good job and they're going to be very fast. So what they do is different from what amateurs do and should do. So the popular opinion of base training would seem to be like a lot of miles at low intensity. But what do we mean?
+
+15
+00:06:28,320 --> 00:06:50,672
+Low Intensity. So Kyle, what's your perception of low intensity and what do you think other people think of as low intensity? I tend to think low intensity if people read like Coggins' book or even like I think Friel's book, it lines up right around whatever is zone two. You're looking at a pace that is...
+
+16
+00:06:50,672 --> 00:07:20,576
+Conversational, like it's not, it's above like sitting on the couch and it's above like, you know, noodling around to the coffee shop, but it's something that should be like pretty sustainable for the first, I don't know, hour, couple hours, but then as you start to go longer and longer and longer, people always say, oh, it's going to get harder and harder and harder to maintain that power output, even though it's relatively low on the like intensity scale, like your breathing isn't ragged and you're definitely not like,
+
+17
+00:07:20,576 --> 00:07:47,584
+Feeling like you're going to blow up at all. And Friel from Cyclist Training Bible with heart rate, you know, he's looking at 85 to 89% of threshold heart rate. Like when I assign this type of work, I just, I generally assign it either by feel or I assign it by power depending on, mostly depending on the athlete and their, the level of discipline that I know that they can maintain for these types of rides.
+
+18
+00:07:47,584 --> 00:08:13,568
+So there's a lot of training plans out there that actually assign zone two for months. I've seen a training plan from a coach who was like, you're going to burn yourself out if you do intervals starting too early. And we're just talking threshold intervals. So you need to ride from...
+
+19
+00:08:13,568 --> 00:08:40,256
+September, October, November, December for like, you know, March racing all in zone two and never stray above it no matter what. I actually, I actually once heard someone say that they, that the theory behind zone two, like lots of base training was that you were building capillaries and increasing blood flow but then if you went too hard the increased exertion would like
+
+20
+00:08:40,256 --> 00:09:06,272
+Ruin the Capillary Formation or something. Which I remember seeing someone telling a group of new cyclists this and just being like, uh... If anybody's wondering, that's wrong. However, there is a really interesting thing about doing a lot of very, very low intensity training for a couple months.
+
+21
+00:09:06,272 --> 00:09:28,912
+Yeah, and I'm not even talking about doing like zone two rides that are challenging your endurance, the limits of your endurance. What I'm talking about is, you know, just short zone two rides because I would actually say that, you know, if you do like two hours of zone two every single day, you're not going to get that much faster because you're not challenging yourself. You're not challenging your endurance.
+
+22
+00:09:28,912 --> 00:09:57,312
+But if you do that for a couple months, if you do a couple modest-paced rides, not really challenging yourself, you're actually resting really, really well. And that's one of the things that a lot of cyclists and a lot of training plans that I've seen get right, but for the wrong reasons. All of this modest-paced riding is actually allowing you really excellent between-season rest.
+
+23
+00:09:57,312 --> 00:10:26,656
+And, you know, you think that you're adding to your aerobic base, but what you're really doing is you're kind of recovering from the aerobic base that you got from your entire last season. Well, I mean, that's how I see it anyway, and we'll get to why I think of that in a little bit. Somebody told me that there's an evolutionary biologist who has a saying, literally false, metaphorically true, which means,
+
+24
+00:10:26,656 --> 00:10:53,696
+you know something isn't true for the reason that you think it is doing all of these zone two type rides where you think you are increasing your aerobic base but it's metaphorically true because it's getting you to act in such a way that is beneficial and the actual reasoning is that it's making you rest. Yeah I think also something that maybe make that comment about
+
+25
+00:10:53,696 --> 00:11:20,032
+Burnout, slightly more true is that mentally for some people doing tons and tons of intervals isn't as sustainable so they need a mental break trying to slam intervals all the time and so this like you said doing several months of zone two intensity not having to stare at the watch or the clock or whatever on their on their computer and being able to just kind of go out on rides is mentally refreshing as well.
+
+26
+00:11:20,032 --> 00:11:47,152
+Yeah, and of course, there's people out there listening, I'm sure right now, who are going, you know, I am driven nuts by these types of rides, I need to have intervals to do, in which case, you know, as long as you get sufficient rest, like, I think there's nothing wrong with starting intervals earlier. To say that it's a universal rule that you have to avoid intervals for months on end is certainly not true, but for some people, it does provide a mental break from that.
+
+27
+00:11:47,152 --> 00:12:16,064
+Much more mentally intense form of training. Right, agreed. So in polarized training, which is quite popular these days, low intensity is actually, it's not assigned as a percentage of threshold power. It's actually assigned as under your first ventilatory threshold. And so your first ventilatory threshold is physiologically special because above this threshold,
+
+28
+00:12:16,064 --> 00:12:44,928
+You change from being 100% fat burning to fat and carbohydrate burning. It's still aerobic, but it is just fat burning. So it is very, very low intensity. And this varies greatly by athlete. It's generally thought to be as, you know, you're not breathing hard, you can have a conversation kind of thing. So like the quote unquote talk test is one of the ways to look at it.
+
+29
+00:12:44,928 --> 00:13:11,440
+So it's something really you should be hooked up to like a respirometer or whatever to determine. Yeah, you need to check out your respiratory quotient to get a really good lab determined value. And after that, as you train and it gets higher because you're training, you need another lab test. But that's a thing for another day. So in the cyclist training Bible,
+
+30
+00:13:11,440 --> 00:13:37,536
+This is a big resource for a lot of cyclists, obviously. And what Joe Friel says is that you need 8 to 12 weeks of base training, but he has 8 to 12 weeks of base training as quote-unquote strength, speed, and endurance. And he recommends building your longest ride up to the duration of your longest race, which I actually think is pretty solid advice. Yeah, I think that's pretty solid too, and I think...
+
+31
+00:13:37,536 --> 00:14:03,472
+Certainly as you start to build toward more specificity, one can imagine why that is not terrible advice. I think another thing you bring up in here that we talked about before, but is kind of interesting, is that Friel does mention both strength and speed as part of that base, not just endurance, not just endless miles of zone 2.
+
+32
+00:14:03,472 --> 00:14:32,432
+I think maybe sometimes people forget that or they selectively remember that, oh, he talks about base and base and base and this is endurance miles. Right, and not everybody lifts weights or does leg speed work in the off-season. Although I personally think most people would benefit from doing at least some of that. So another thing about what Joe Friel recommends in Cyclist Training Bible is that you should be doing about a two-hour ride.
+
+33
+00:14:32,432 --> 00:14:47,440
+kind of minimum for the Zone II type rides. And I think that's like a decent rule of thumb. But one of the problems with this is that if you are time limited,
+
+34
+00:14:47,440 --> 00:15:12,832
+and, you know, like you can only ever get in two hours to ride, then, you know, as long as you can ride two hours and you're riding two hours all the time, doing two hours in zone two is actually not going to get you a lot of adaptation because you are doing something that you are perfectly capable of doing. Like, if you can squat 100 pounds as your one-rep max and you go in and you squat 20 pounds, you know, every day for a month, you're not going to...
+
+35
+00:15:12,832 --> 00:15:41,696
+Increase your one-rep max. You need to stress yourself properly to increase what you can do. And in cycling and in endurance, you need to push out what you can do. You need to extend what you can do. So if you can ride for two hours comfortably and two and a half is rough, then do two and a half and then do three. Just build it out that way. I think another thing is that if people have read Time Crunch Cyclist by
+
+36
+00:15:41,696 --> 00:16:05,248
+Chris Carmichael. He does actually mention this, that like, oh, if you are really time crunched, like, gonna be honest, you know, you're not gonna do well in long races because you don't have the time. Like, he's just very straightforward. Like, if you only have eight hours a week to train and that means your longest ride can only be an hour and a half or two hours, like, maybe you want to look at races that aren't more than that.
+
+37
+00:16:05,248 --> 00:16:32,896
+And so, okay, and so for like watching elite athletes who are short on time, like you get from Cat 3 to Cat 2 or something like that, or, you know, you're an elite athlete and you are starting to have kids and you're a lot more time limited, your job gets very demanding, and not even with elite athletes either, with like, you know, general kind of weekend warriors whose races are only like, you know, two, three hours long, in my experience, it seems like you can actually fudge the distance that you can do.
+
+38
+00:16:32,896 --> 00:17:00,064
+or the duration that you can do by like an hour or so in that like if your longest ride where it starts getting a little challenging is like two hours or so and you don't usually get to ride more than that you could probably race comfortably for like two and a half three hours as long as you stay pretty well fueled but after that that it gets a little dicey it's not like you know I've only ridden two hours so riding two and a half is impossible I can't do that right
+
+39
+00:17:00,064 --> 00:17:29,664
+you know it's like cycling is not like a sport like running with running like you need to physically adapt to that level of muscular pounding you know if like if you can run two and a half hours or if you can run two hours running for three hours is going to be a challenge but if you can cycle for two hours and cycling for three hours is not going to be that bad so how is this supposed to work base training as it's traditionally thought um now there's a model that's uh
+
+40
+00:17:29,664 --> 00:17:53,536
+used typically, like you've seen this model, Kyle, right? Like the pyramid, like the food pyramid with carbs in the bottom that's like, you know, kind of gone the way of the dinosaurs now when we've got a food plate. This is like a base fitness pyramid? Yeah, I think it's actually at least partially appears inside of Friel's book.
+
+41
+00:17:53,536 --> 00:18:22,576
+He must, I think he has a picture of this somewhere, but it's, yeah, it's the idea that you lay down this, like, very broad foundation, like you're going to build a pyramid, and so this aerobic, zone two, long, slow distance forms this, the primary chunk of that base on top of which you're going to build, you know, threshold and VO2 max and sprints and stuff like that. Right, and, you know, the adage is the bigger the base, the higher the peak.
+
+42
+00:18:22,576 --> 00:18:51,600
+which is exactly like a pyramid. Except, you know, what's funny is like, it is a lot like, I mean, to me, like how it actually works is a lot more like the food plate than the food pyramid. We'll get to that in a little bit. So traditional base training, like how is it supposed to work? What adaptations are you supposed to get from this? Increased VO2 max, increased mitochondrial density, increased capillary density, muscle fiber conversion to slow twitch and all those other
+
+43
+00:18:51,600 --> 00:19:19,936
+types of things. You know, it turns out that a lot of training modes can do exactly these types of things. So you've read Training and Racing with a Power Meter, right, Kyle? Yes, I have. So you remember that chart, the expected physiological adaptations from training in zones one through seven? Yes. So I'm looking at that chart right now, and what's funny about this chart is that
+
+44
+00:19:19,936 --> 00:19:47,280
+Zones 1 through 5 have all the same tick marks. Yes. They do. Like pretty much increasing tick marks until like sweet spot threshold and then like they change a little bit going into VO2 max. So it's really interesting that a lot of different training modes will get you the same adaptations. Like aerobic is aerobic.
+
+45
+00:19:47,280 --> 00:20:09,008
+is probably the best way to put that. VO2 max, you're training your max aerobic. Threshold, you're training your sustained aerobic. Actually, it's interesting because this chart, when I first saw this chart, I saw a similar chart back in my high school swimming days. I think it was from the University of Michigan where they had a similar chart, but...
+
+46
+00:20:09,104 --> 00:20:38,304
+Plotted versus Heart Rate, and it was for swimming. I was obviously swimming focused, but it was the same sort of thing. Like, oh, if your heart rate is roughly in this range, you're likely going to be looking at, you know, these sort of adaptations. But if you're up in this range, which is more indicative of, like, sprint or anaerobic efforts, you're going to get more of this, you know, set of adaptations. And so, like, so for instance, like, like if you go back to the episode on how high-intensity training works, you know, for,
+
+47
+00:20:38,304 --> 00:20:59,472
+For people who ask me questions after that, just to clarify, I hoped that I wasn't advocating high intensity training intervals the way to go in that episode. I just thought it was really cool how you can do intermittent anaerobic work and you can still get really good aerobic adaptations.
+
+48
+00:20:59,984 --> 00:21:27,920
+And I should also note that the adaptations that you get from zone 2 endurance type training and high intensity interval training while both are aerobic, they cannot be exactly equated either. And while you will get increased mitochondrial density and et cetera, et cetera from both types of training, they do still have different subtleties to them beyond the central aerobic adaptations.
+
+49
+00:21:27,920 --> 00:21:52,864
+So now that we've talked about the adaptations that you're going to get from, you know, Zone 2 work, which is pretty much the same adaptations you're going to get from Zone 3 and Zone 4 work, you know, we kind of touched on this already. Like, so at what duration is this type of ride effective? Like, my point earlier was, you know, it should be about the duration that you can do. If you're going for...
+
+50
+00:21:52,864 --> 00:22:22,400
+like a four-hour ride, if you want to look at it by power, let's say that you can sustain 150 watts for four hours, like looking at your mean max power curve. I would say you would want to go do 150 watts for like four and a quarter hours and then try to push it out to four and a half hours. And you may not be able to do it every single ride, but that would be a good goal to have in order to be able to increase your endurance that way.
+
+51
+00:22:22,400 --> 00:22:50,384
+And beyond that, I would actually say that you don't always have to keep going further and further and further and further out. Now you've got to do 150 watts for 8 hours and then 10 hours. I would actually say that at a certain point, you're going to want to start to look at increasing the power also. And I think that, like you said, that's both of those things.
+
+52
+00:22:50,384 --> 00:23:17,824
+both pushing out the distance and then eventually and then or and or switching up to increasing the power up but are both sort of classic methods of progressive overload that are required to gain fitness adaptations like like you said if you keep doing the same thing over and over again you're never actually going to get any fitter or faster like you have to push in some way or another and so like is there a reason that we might
+
+53
+00:23:17,824 --> 00:23:47,344
+only want to do like two hours of zone two instead of like, oh, I can't do five hours, six hours today, then I might as well do, you know, who knows what else. Yes, there actually is a good reason to do shorter endurance rides and the reason for that is maintenance. So, you know, just doing like a two-hour endurance ride, like if you've, like, let's say you've got a Criterium Friday and you've got a Criterium Sunday, what do you do Saturday? Now, if you take the day off,
+
+54
+00:23:47,344 --> 00:24:17,152
+and your legs kind of get a little stiff after day off. You know, you probably don't want to do that. And if you ride easy, you may or may not want to do that. Like that's like something like that. That's when I really like to assign like a 90 to 120 minute steady zone two endurance ride. And a lot of people feel really, really good after that kind of thing, because, you know, like, you know, you can you can ride for four hours like that, but you only ride for two. You know, you're still riding. You're still, you know,
+
+55
+00:24:17,152 --> 00:24:46,416
+telling your body, you know, you got to work, but you're not pushing it. So it's just kind of like, it's a really good maintenance type ride. I would say that that's also kind of analogous to these like grand tour rest days, right? Where people, especially if they're fans of professional cycling, always like to talk about what this team or that team does on their rest days, on the two rest days they get in a three-week race. You know, and some people like to do nothing, some people like to go hard, some people like to, but like,
+
+56
+00:24:46,864 --> 00:25:16,112
+I think more and more evidence is showing that doing something is better than just being like, ah, rest day, feet up, sit there, go to massage, call it a day. Okay, so at what power should you ride your quote-unquote base miles, your endurance miles is how I like to think of it. Yeah. So I would actually say as high as you can manage, which is not to say that you've got to start out
+
+57
+00:25:16,112 --> 00:25:45,568
+Hammering. Yeah. Like if you're going to do like a four-hour ride at 200 watts, I actually recommend that you start out at like 150, 170 watts and then build the power throughout. Wow, that sounds a lot like that FTP test to prescribe. It does, doesn't it? So I would actually say that like a positive split where you start out faster and then you get slower,
+
+58
+00:25:45,568 --> 00:26:08,912
+is a not optimal way to perform these types of rides. And the reason for that is because as you ride, you're actually, well, it's a little complicated to get into, but the longest word of it is, if you don't believe me, do it. Go out for four hours and you do your first hour.
+
+59
+00:26:08,912 --> 00:26:37,792
+at like, you know, 50% FTP. And then you raise it a little bit, then you raise it a little bit in the last like hour and a half, like then you can really, really push yourself. So somebody asked this on Reddit, I think last summer sometime, was like saying, you know, like I'm having a hard time with these longer rides, you know, I'm starting out at this pace, at this many watts, and I can't really hold it even though I know I should be able to. And I just said,
+
+60
+00:26:37,792 --> 00:27:02,864
+Start easier. Start much easier. And then build the power throughout. And like literally the next day he was like, oh my god, I can't believe what just happened. I just smashed all my power records for like, you know, three to whatever hours. And I couldn't believe how strong I felt at the end just starting easier. It works.
+
+61
+00:27:02,864 --> 00:27:31,920
+I mean, like the physiology is a little complicated to really get into. So I'm dancing around that. We'll probably dedicate another episode to it at some point. And for all of you who have a drinking game for when we promise another episode on something, you can drink now. Okay, so one of the articles I read when I was doing research for this episode was very, very interesting. It was by, I forget which coach, but he was talking about
+
+62
+00:27:31,920 --> 00:27:53,600
+Doing prep work for a training camp. So if you're one of those folks who's got kind of limited time and you've got a training camp coming up, like for instance, last fall, one of my athletes was going to the Dolomites.
+
+63
+00:27:53,600 --> 00:28:19,680
+and he's going to be riding just about every single day for like four to seven hours or something like that and a lot of climbing and he was scared. So we did prep work by doing a lot of VO2 max intervals. This kind of goes counter to the traditional narrative of like building the intensity throughout. Like I started him off, you know, he was kind of rested, he was feeling okay.
+
+64
+00:28:19,680 --> 00:28:45,968
+Start them off with VO2 max work to prepare for that kind of thing because, you know, you do the shorter aerobic work and then when you get to your longer rides, you can actually ride at higher power. And this is what the article was talking about. So, you know, it's nice to see that, you know, me and other coaches are kind of coming to the same conclusions. So is the idea there that by doing VO2 work,
+
+65
+00:28:45,968 --> 00:29:07,312
+You're still increasing work capacity, but now you're basically, by increasing the sort of maximal aerobic work, you're also going to be sort of dragging up that base aerobic level as well, because you're capable of a higher level of maximal aerobic effort.
+
+66
+00:29:07,312 --> 00:29:33,392
+Something like that. Again, this is one of those things that's a little complicated to get into, and I could have given him threshold work, like FTP work, probably just as effectively, but he didn't have a lot of time, so I just gave him some beta-to-max work. And especially that kind of follows lots of things for people who are time crunched, that if you're low on time, you're going to have to probably up the intensity a little bit from what you would do if you had.
+
+67
+00:29:33,392 --> 00:30:00,848
+infinite amounts of time. Yeah. And recover properly also. Yeah. Like after that, and my athlete went to his Dolomites trip and he came back, like he like walked it for like a week and a half until he started feeling better again. So you really got to get in the rest if you're going to train that hard. But so the article I was reading, it made a very interesting point that if you can ride your
+
+68
+00:30:00,848 --> 00:30:20,704
+you know your big quote-unquote base miles at higher power you're going to get more adaptation and I find exactly this to be true which is one of the reasons why negative split endurance rides are very important because you actually ride the entire thing at a higher power and near the end when you're
+
+69
+00:30:20,704 --> 00:30:45,680
+Power output is even more increased and you are fatigued, the mechanisms that cause the fatigue are going to make a higher power at the end of the ride more effective and you're going to get a little more adaptation out of that. Okay, and so one of the things here that's interesting to think about, it's actually not just like strict power output and strict this and that.
+
+70
+00:30:45,680 --> 00:31:11,984
+It all comes down to ATP, quite honestly, because what you're doing with all endurance training is creating a sustained demand for ATP. That's it. And your body has various mechanisms to cope with this. And these are the various energy systems. And these are the various substrates that we can use to supply ATP. And so it's just very, very interesting to me.
+
+71
+00:31:11,984 --> 00:31:40,256
+that endurance training, like the Zone 2 type stuff is so revered as being the secret to long-term cycling success and endurance training success, and yet you can do a lot of different types of training to get the very same stimulus. So I think the other thing is people often ask, okay, so is doing this
+
+72
+00:31:40,256 --> 00:32:07,568
+Long period, several months, whatever, at Zone 2, aerobic endurance pace. Is that a necessity before moving into higher intensity intervals or, you know, maybe even just like sweet spot training or whatever? Do you need to have, quote, built this base of this pyramid that we're constructing in order to enable future training? No, just, you know, don't be an idiot when you go assign...
+
+73
+00:32:07,568 --> 00:32:36,208
+your training to yourself or to your athletes. You know, like you can't, like nobody's going to start out doing three by 20 minute FTP workout. So when somebody actually says, this person has a large base. So what are we really talking about here? And this is where the food plates of the pyramid comes in. Because, because to me, you know, you've got a couple different aerobic physiologic systems.
+
+74
+00:32:36,208 --> 00:32:59,696
+that you can kind of focus on. And, you know, kind of hitting everything, like, kind of makes up what's on your plate. Like, when you do threshold training, when you do VO2 max training, when you do blah, blah, blah, all of the stuff that you are doing throughout the season, like, when you're doing it in your base season, when you are
+
+75
+00:32:59,696 --> 00:33:26,592
+doing it season to season. To me, it's all of this focused aerobic work that makes the relevant adaptations. This, this is your base. It's not how many zone two miles have you had. It's how many things have made you aerobically stronger. So for a season and for a lifetime, it's the same idea to me.
+
+76
+00:33:26,592 --> 00:33:53,776
+And it's a logical fallacy, I think, to look at somebody who's winning the Tour de France and look at all the long, easier rides that they do and think that that's what made them that fast. I think the other thing, if you just look at a Grand Tour winner and attribute their success to them starting off their season on their slow, long distance rides,
+
+77
+00:33:53,776 --> 00:34:21,856
+You're completely ignoring all of the other training that they do. They do a lot, yeah. And they've also got, you know, like a lifetime of focused training and racing under their belts as well. That counts for a lot. All right, so now that we've gone over all of that, let's go back to those sayings. Going slow makes you slow, and you need to go slow to go fast. So, which is correct?
+
+78
+00:34:21,856 --> 00:34:50,016
+Going slow makes you slow. Probably not. But you may never get faster unless you're challenging yourself. And even only then, for most people, up to a point. Like we were just saying, if you only do endurance-paced miles, you will get faster until you don't.
+
+79
+00:34:50,016 --> 00:35:19,904
+that's the limits of the adaptation you can get from just doing that in which case now you've got to go you know target something specifically like now you need to go raise your VO2 max you need to go do VO2 max work stuff like that or so what's the other saying you need to go slow to go fast I would say that if this is meant in that you need to ride a lot of long slow easy miles to get faster I would say this is probably not true but
+
+80
+00:35:19,904 --> 00:35:35,360
+If this means that you need to properly rest from a training block or from a whole season, then I think this is absolutely true. Which may or may not be the actual intent that they meant by that statement, but you know.
+
+81
+00:35:35,360 --> 00:35:57,888
+Yeah. All right. I want to thank everybody for listening. As always, please subscribe if this is your first time listening to the podcast. If you are a listener and you've been enjoying the podcast, it would be great if you could head to iTunes and give us a very nice rating. We would love that. And if you have any questions, comments, or coaching inquiries, please send an email to empiricalcycling at gmail.com. The show notes are up at...
+
+82
+00:35:57,888 --> 00:36:08,112
+EmpiricalCycling.com. And with that, thank you all for listening, and we will see you all again next time. Thanks, everyone. Bye.
+

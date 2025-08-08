@@ -1,0 +1,276 @@
+1
+00:00:02,096 --> 00:00:30,784
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by Kyle Helsing. And today we ask and answer the question, is there something special about the 2x20 minute FTP workout? And through this discussion, what we want to do is we want to give people tools to understand their FTP workouts and to understand why they're doing FTP workouts and be able to modify them. We hope that through understanding the physiology,
+
+2
+00:00:30,784 --> 00:00:57,952
+Even if it's not to an extreme depth, but just having an appreciation for the physiology behind your training makes your training more effective and also gives you an appreciation for why you're doing the type of training that you're doing to improve those certain physical characteristics. Yeah, and I just want to take a moment while we're recording this to tell everybody to appreciate Kyle as a producer because the
+
+3
+00:00:57,952 --> 00:01:27,552
+The notes that I have that are getting cut out of this episode, well, Kyle, would you describe them briefly? It's not that they were bad, it's just that you wanted to do a deep 100 PubMed paper dive into FTP training and FTP training protocols, and I tried to steer you away from that a little bit just because I think it'll be difficult to digest in an audio-only format.
+
+4
+00:01:27,552 --> 00:01:52,288
+Yeah, I think that's a good way to put it. And actually, so there's another thing that we were thinking about doing is possibly doing a Patreon thing where I actually do really go into these very deep dives into the physiology. And, you know, the big picture questions of, you know, how do we understand all this and how do we apply it?
+
+5
+00:01:52,288 --> 00:02:06,976
+to train people better. So if you're a coach or an athlete or you just want to understand all that better and you're interested in something like that, send us an email, empiricalcycling at gmail.com and that would be interesting to hear from you. And also,
+
+6
+00:02:06,976 --> 00:02:30,560
+Also, we're, you know, just before we get started, we're doing no ads and we asked for donations last time and we got a bunch and we really appreciate it. You know, if you think that a little bit of coaching from us is worth a couple bucks, we would love to have it. So head over to empiricalcycling.com into the podcast page for that. Yeah, thanks everyone. So two by 20 minutes. What's so special about two by 20 minutes? So 20 minutes.
+
+7
+00:02:30,560 --> 00:02:54,560
+Kyle, you were saying to me earlier before the show about 20 minutes having a special place in cycling culture. Yeah, I think both because of the sort of canonical 2x20 minute FTP workout and also the 20 minute FTP test that is in training and racing with a power meter, the 20 minute interval or 2x20 minutes has entered this
+
+8
+00:02:54,560 --> 00:03:21,312
+Place in Cycling Culture where that is the thing that everyone knows when you talk about FTP. You ask someone, oh, I'm going to go to an FTP workout today, or if you hear someone say they're going to do an FTP workout, odds are pretty good that it's going to be a 2x20 or at least some variation on 20 minutes. It's maybe one of the first things you actually learn in cycling when you start training.
+
+9
+00:03:21,312 --> 00:03:51,088
+thinking more in-depth about the riding that you're doing. Yeah, and I certainly remember coming up as an athlete and talking to people and, you know, it was like, oh, I had this rainy day workout yesterday and somebody was like, you didn't do 2x20? That's what everybody does on their rainy day workout. So it's also like, for a lot of people, it becomes this, like, if you've got nothing else to do, you go do 2x20. Right, yeah.
+
+10
+00:03:51,088 --> 00:04:19,024
+People dread the winter months, especially in places where it snows, because they think, oh man, months and months and months on end of sitting on the trainer and doing 2x20. Or, you know, zone 2 or whatever boring stuff it is. So we're going to talk about how to progress all that kind of stuff today. So the origin of 2x20 may be interesting to people. This is not 100% confirmed, obviously, because, you know, it's taken place in...
+
+11
+00:04:19,024 --> 00:04:47,840
+in the culture of certain significance. So, you know, it's like this may be kind of folklore-ish, but apparently on the Wattage forums a long time ago, Andy Coggin was talking about going and doing a five-minute loop four times, then he would do one-time rest, and then he would do it again, and the next week he would go back and he would do it even faster, and he would do it faster the week after that. So that may or may not be the origin of the 2x20 workout.
+
+12
+00:04:47,840 --> 00:05:17,600
+Kyle, do you think that people have the impression that doing longer than a 20-minute effort is too difficult or it's going to be too fatiguing or what do you think it might be? Yeah, I think it can be a mix of both. Kind of like when we were talking in the first episode when we were discussing FTP testing, I think people see FTP work and they think it's going to be absolutely grueling or they're going to think that
+
+13
+00:05:17,600 --> 00:05:43,728
+Doing more than 20 minutes isn't going to be possible because, oh, my test for this physical quality is only 20 minutes long, so now you're going to go out and ask me to do this for more than 20 minutes over and over and over again, or maybe even just once, but twice as long, and they're afraid because they've never actually tried, or they're...
+
+14
+00:05:43,728 --> 00:06:13,312
+or they've convinced themselves that it's just not possible on anything but the best training days. And also, as a quick aside, if you are kind of scared about riding at 100% FTP or even 97% or something close to that, and you prefer to ride at Sweet Spot, I would actually encourage you to first go listen to the first episode that we put up on FTP testing and also head to the empiricalcycling.com
+
+15
+00:06:13,312 --> 00:06:31,104
+podcast page into the show notes where I've linked to an article I published on FTP testing and training peaks. So check those out and do some longer FTP tests and kind of get to know what FTP feels like. Because as we put forth in the first episode,
+
+16
+00:06:31,104 --> 00:06:56,864
+We actually have an interesting theory that a lot of people, because they do a lot of these shorter FTP tests and they're setting their FTPs a little too high relative to what it actually is, when you prefer riding at sweet spot because you think FTP is too hard, you're actually riding at FTP. So 2x20 minutes to me is like the perfect middle-of-the-road FTP workout. It's got...
+
+17
+00:06:56,864 --> 00:07:25,712
+And if you do it, you know, about 95 to 97%, even 100% of FTP intensity, this is a really good workout. And so we're going to explain a little bit why. So the first thing to understand about any interval, FTP or VO2 max or whatever it is, the power output that you are creating is not necessarily yet reflected by the actual metabolic
+
+18
+00:07:25,712 --> 00:07:55,584
+So this means that you're not supplying oxygen to your muscles to the degree that you need to aerobically create this power. So this is one of the things that means that has an implication
+
+19
+00:07:55,584 --> 00:08:22,272
+for the metabolism. So as you go on with your 20-minute FTP interval, you're actually only getting about 15, 16, maybe 17 minutes at FTP intensity. So this actually creates kind of like a minimum length of interval. And so everyone who has a power meter probably at some point started off training with heart rate and they...
+
+20
+00:08:22,272 --> 00:08:47,856
+Learned of all the drawbacks to training with heart rate that it lags behind your efforts and sometimes it doesn't recover quickly if you have something like 30-30s but in another way measuring your heart rate is a better handle on the physiological stress you experience for those longer and longer durations.
+
+21
+00:08:47,856 --> 00:09:16,704
+Yeah, exactly. And so while a lot of things can affect exactly what heart rate you have during an interval, like if it's hot out, your heart rate's going to be a little higher, stuff like that, you can actually use the reaction of your heart rate, you know, versus the start of your interval. So if you, you know, you go from zero to 100% FTP, and it takes three minutes for your heart rate to catch up, so your heart rate, your heart's supplying the oxygen.
+
+22
+00:09:16,704 --> 00:09:41,088
+for the first couple of minutes are actually acting a little anaerobically. So that's like creatine and glycogen and stuff like that. So this kind of creates like a minimum effective duration for FTP. So I would say that the minimum effective duration for FTP is 10 minutes. A 10 minute interval is going to be your minimum effective duration at
+
+23
+00:09:41,088 --> 00:10:04,528
+about 95 to 100% of FTP. And if you follow your rule of the first few to three minutes, think about it, that's really only seven minutes working at FTP, which if you remember back to our episode where we discussed FTP testing, FTP is representative of what you could maximally sustain for
+
+24
+00:10:04,528 --> 00:10:31,616
+30, 40, 50, up to 70 minutes. And so if you think about it that way, getting only seven minutes work in at an effort level that you could potentially sustain for 10 times as long does kind of make sense as being sort of the minimum. Yeah. And so this actually means that continuous work in one way
+
+25
+00:10:31,616 --> 00:11:01,120
+I'm not going to get too much into the actual biochemistry of it, but this means that if you do 3x10 minutes at FTP, you're really only getting about 20 minutes of FTP work in at the right metabolic intensity. And we'll talk about what the actual metabolic intensity means in a little bit. But this also means that you could do 1x25 minutes. You now have 5 minutes less work to do, and you're going to have a workout that's just as effective.
+
+26
+00:11:01,120 --> 00:11:30,928
+And the take-home point is that it's not that just the power meter is reflecting you working that hard. In order to derive training stress to adapt and get fitter, your body needs to feel the stress at the physiological level, not just at the, my power meter says I'm working this hard, therefore my body must be adapting.
+
+27
+00:11:30,928 --> 00:11:57,712
+that's effective and not effective for FTP intervals. So 2x20 minutes, so what we're looking at here is probably, you know, about 33 to 35 minutes total of FTP work here in order to derive benefit. And I actually think that's a pretty good place to start is I would say that like a 2x20 or maybe 4x10. Yeah, so I would say that about 30 minutes total time
+
+28
+00:11:57,712 --> 00:12:21,872
+at your metabolic FTP, as reflected by approximately your heart rate, would probably be the minimum effective dose for an FTP workout. Now, this actually changes once you start training a little bit. So one of the cool things about FTP training that we see in a lot of studies, and a lot of studies that I looked at doing research for this show, is that as you
+
+29
+00:12:21,904 --> 00:12:51,200
+Spend time at the FTP intensity, your actual time that you can hold your FTP increases. This is one of the major things that we can see happening with people. If you look at a lot of studies, they typically don't look at actual power output. With cyclists, they do frequently, but with runners and swimmers and a lot of other sports, they don't. They look at velocity and they look at distance. And every time they do FTP work,
+
+30
+00:12:51,200 --> 00:13:18,752
+with people, they actually always increase not only the velocity, so the power output, but they almost always significantly increase the distance. So this is one of the principles of FTP training that I really, really try to get across with my athletes, especially if you have a lot of time. We'll get into the time crunched people after this, but for now, if you have like a solid two hours
+
+31
+00:13:18,752 --> 00:13:41,872
+generally about two hours to train on your rides. I'm going to say that, you know, you should start with three or four by 10 minutes of FTP or maybe like a two by 15, something like that. And then you're going to add time because metabolically the time that you can hold FTP increases so much that you actually have to like kind of chase it as you go.
+
+32
+00:13:41,872 --> 00:14:09,616
+Yeah, and this makes sense too because this provides a very natural route for progressive overload in your training cycle. Yeah. So that means like going 2x20 and the next week maybe you do 3x15 and then 3x20 and then 4x15 and 4x20, etc., etc. So you're driving up that total time spent at the desired power output.
+
+33
+00:14:09,616 --> 00:14:38,880
+Yeah, and so actually, so here's a good question that I'm sure people are asking, like, you know, should I increase the power with this, or should I keep the power the same and increase the time? So when I assign FTP intervals to people, I almost always go with increasing time rather than increasing power, and then we retest at the end of the training block. So let's do a real concrete example.
+
+34
+00:14:38,880 --> 00:15:08,720
+So for instance, if your FTP is 250 watts, I'll probably assign FTP work at 235 to 240 watts. We're going to start with 4x10. And then, because not only for the reason discussed before of taking time to get to the right metabolic intensity, but other reasons also, continuous FTP work is actually better than intermittent FTP work.
+
+35
+00:15:08,720 --> 00:15:31,520
+2x20 is better than 4x10, and 1x40 is better than 2x20. And even if you have to decrease the power output a little bit, I would still say it's worth it to do the single interval after you can do the two intervals. So if you could do 2x20 minutes at 240 watts and your FTP is 250,
+
+36
+00:15:31,520 --> 00:16:00,336
+My next progression would be to say do 1x40 minutes at 230 to 235 watts. To me, that would be just as good as doing 2x20 at 245 watts. If you would go back and look at the sort of training zones, this probably, all of those numbers you probably said relative to 250 watts probably still falls within that like zone 4, you know, upper zone 3 work.
+
+37
+00:16:00,400 --> 00:16:22,192
+you know from day to day exactly nailing one of those wattages isn't super important but getting that time in those ranges is what's important and then driving up the time. Yeah exactly so um so this is one of the cautions that I have with FTP workout is that if you go for a hundred percent FTP and you're doing kind of a lot of it the fatigue
+
+38
+00:16:22,192 --> 00:16:49,616
+is actually going to be quite significant, especially if you're doing three or four FTP workouts a week, which is not uncommon. And if you're doing 60, even to 80 minutes, and we'll talk about that in a second, like the fatigue really, really builds on you. So the same metabolic process is happening at 95% FTP as 100% FTP, just a little bit slower. And that means if you can do that,
+
+39
+00:16:49,616 --> 00:17:16,512
+a little bit more, you can get more training time at that intensity over your training block, then you're actually going to adapt more than if you went a little harder. And so this is actually why training over FTP, you know, and I'm just talking about like 105%, not VO2 max, but training over FTP like, you know, like if you try to do like three by 10 minutes at
+
+40
+00:17:16,512 --> 00:17:45,136
+you know 105% or 103% FTP it's not any better than doing the than doing 3x10 minutes at 100% FTP and and that's one of the that's one of the things that um that I always try to do is I try to you know get right up to the intensity that I think somebody can maintain for a while and actually this is one of the things that I actually give my athletes a lot of freedom to do is I say if you're feeling good with your workouts
+
+41
+00:17:45,136 --> 00:18:14,256
+You can do two things. Number one, you can actually connect the intervals. So if you've got 3x20 at 95% FTP, you can actually do 2x30, you can do 1x60. One of my athletes does this every training block, like half of his workouts. He'll way overdo it because he responds so well to this kind of work. And I'll give him 60 minutes FTP and he'll just end up doing 1x80 or something ridiculous near the end of the block.
+
+42
+00:18:14,256 --> 00:18:39,760
+Yeah, he responds pretty well. Oh, yeah, so the other thing is that you can do more intervals. So if you've got like 3x15 and you feel really good, do 4x15. So here's another question is, so what do we do if we don't have much time? Yeah, so if you've got an hour a day, maybe 40 minutes, how would you program that, Kyle? You would naturally think that, well, if you don't have a lot of time, you can't.
+
+43
+00:18:39,760 --> 00:19:08,096
+Get in that much volume, so you're going to try and up the intensity. So if this means, you know, also if you're crunched for time, you're not going to be able to take as many breaks in between your intervals, like you can save 3, 4, 5, 7 minutes or whatever sitting around in between these 4x10, and if you can eke out 1x25 instead, then maybe that's actually going to be the best use of your time. Yeah, exactly.
+
+44
+00:19:08,096 --> 00:19:34,496
+Yeah, precisely this. So a good rule of thumb is to assume three to five minutes of metabolically working up to where you need to be and then figure out what can you sustain that day. Honestly, I'm going to tell you right now that the actual target is not as important as how it feels. If you know what 100% FTP feels like,
+
+45
+00:19:34,496 --> 00:20:00,912
+and you know you've you didn't eat enough yesterday you didn't get enough sleep but you can still get really really close to do that like if your FTP is 250 watts and you've got 45 minutes to ride you're gonna warm up for 15 minutes you've got 30 minutes so it's not a 30 minute time trial you know do 30 minutes at 100% FTP if you can do 95% 90% even
+
+46
+00:20:00,944 --> 00:20:27,328
+Although I would, you know, for something that short, I would say try to stick to like 95%. But 95% of 250 is still, help, 12.5 watts. 95%. It's still like 238 watts, something like that. This, a little bit, goes back to what we were talking in the second episode, where harder workouts are not always better.
+
+47
+00:20:27,328 --> 00:20:53,872
+And so this is actually going to take some discipline to think, oh man, I only have 50 minutes to get this workout in. I'm going to warm up 15 and then I'm going to try and just crush 35 minutes as hard as I can. Well, no, that's going to make you probably feel worse the next day and not get you any farther along in your training than doing 35 minutes at 95% of FTP. Yeah, that's actually a really good segue.
+
+48
+00:20:53,872 --> 00:21:20,128
+Because what metabolically happens, I'm not going to nerd out too much right now. So, okay, so what happens when you go over FTP is your muscles actually have a backup. So glucose gets broken down into pyruvate and pyruvate goes into the mitochondria. And like the pyruvate going into the mitochondria, like this, this is a step, everything else before that happens really, really quickly. It's in the cell.
+
+49
+00:21:20,128 --> 00:21:45,952
+It happens fast. Now pyruvate going into the mitochondria to be aerobically metabolized, this part is slow. It's one of the slowest parts of the whole metabolic process, which means that it backs up. And when the backup happens, there's an enzyme that's always converting pyruvate into lactate. Lactate, when it builds up enough,
+
+50
+00:21:45,952 --> 00:22:15,440
+It'll leave the cell into the bloodstream, and this is what we measure when we measure blood lactate. So what happens is when you go over FTP, we see a rise in blood lactate. Now at FTP, blood lactate is at the highest level that it can be, and if you stay at that intensity, it's not going to rise. Now as soon as you go over FTP intensity, blood lactate rises, and this means that you are burning more carbohydrates
+
+51
+00:22:15,440 --> 00:22:42,544
+Then you are capable of aerobically metabolizing. So in short, what this means is once you go over FTP, you are chugging through all of your carbohydrates. So if you do like a 1 by 20 minute FTP test, this is why you are so depleted afterwards. You have done the entire thing on carbs, entirely on glucose and glycogen. Oh, and another thing is that, compare this to the
+
+52
+00:22:42,768 --> 00:23:11,232
+Actual physiological process that you're trying to measure. You're trying to get a handle on what you can maximally burn just aerobically without any of that additional contribution. Yeah, precisely. And this extra carb burn that you can't quite get to it aerobically, so it gets sent out as lactate. And lactate is used as a fuel by other tissues in your body like your brain, your heart, and your liver.
+
+53
+00:23:11,232 --> 00:23:40,096
+among other things. So here's a thing that I see a lot of people do with their FTP workouts is you feel really, really good on your first interval. And now you're going to blow that interval out of the water. You come out guns blazing, release the hounds of hell. There's Ride of the Valkyries playing in the background as you go up this 20-minute climb. And you get to the top and now you go, oh, that was great.
+
+54
+00:23:40,096 --> 00:24:09,760
+I did, you know, I was like 10 or 15 watts over my FTP, I'm feeling great, this is a good day. Now you go back, you descend, and you go back and do that climb again. And you do it at what feels like the same intensity. And now you're 10 or 15, maybe 20 watts lower. You've got 3x30 today, now you go do it again. And then you go ride that same hill again. Now you're another... Yeah, and now you're like, maybe you're not even in sweet spot anymore, who knows?
+
+55
+00:24:09,760 --> 00:24:38,816
+So the moral of the story here is that, besides obviously pace yourself, is that if you ride too hard for the first one, you're not going to be able to go hard enough to adapt the right way for your second and third intervals if you're doing 3x20. Put it another way, having discipline actually ensures that you get a quality workout from the first interval to the last one and not just only getting a great first
+
+56
+00:24:38,816 --> 00:25:05,824
+Interval in at the expense of everything else that comes after it. Yeah, you don't have to finish your threshold workouts looking like you just came out of a, you know, a criterium cage match. It's, you know, like you get in the work and you go home. Now, okay, so I think the last thing that we need to address here is what do you do if you have a lot of time? So now, so we've addressed the time crunched
+
+57
+00:25:05,824 --> 00:25:34,928
+Looking at, you know, like, what's the normal progression now? What do you do if you don't have a lot, if you don't have much time? What do you do if you have a lot of time? Now, I have a couple athletes like this with all the time in the world. And what are they going to do with their threshold workouts? Because now, you know, and they're used to riding three hours a day, four or five hours a day. And they're used to doing, you know, 18 to 25 hour weeks. Like, that's not a problem. So how do we...
+
+58
+00:25:34,928 --> 00:26:03,168
+Increase their FTP workouts to kind of make use of all this time. One of the things I like to do is I'll start putting FTP work kind of in the middle of a workout. So if it's like 2x20 and it's a 3-hour ride, you know, ride the first hour endurance pace, then do 2x20 in your second hour, and then ride home in your third hour. As intervals progress, and, you know, we're generally working at the same
+
+59
+00:26:03,168 --> 00:26:32,656
+Power. I'll give you an example from one of my recent athletes. The athlete has a 360-watt threshold. His work intervals are 340 to 350, and this is going to be for the entire FTP training block. He could hold his threshold at 360 for about 45 minutes. Now, he's going to go out and he's going to ride at his target power. We'll start him with 3x15.
+
+60
+00:26:32,656 --> 00:26:59,712
+So now he's at 100% of the time, you know, kind of makes sense, 45 minute time to exhaustion, 45 minutes of intervals. But obviously he's not getting in 45 minutes, he's only getting in like 35, 40-ish at metabolic FTP. And so then we'll progress to 4x15, then we'll do 3x20, and then I like to do 2x30, and then...
+
+61
+00:26:59,712 --> 00:27:25,680
+you know I usually don't do 1x60 for something like this but then I'll start adding in I'll start adding in more 20 minute blocks so it'll go like 4x20 maybe 3x30 and so now like 3x30 minutes FTP so now it's an hour and a half work if we've got you know 10 to 15 minutes rest in between each now we've got almost 2 hours of work so now this makes a really good
+
+62
+00:27:25,680 --> 00:27:53,520
+Three-hour Ride. And so now another thing that we can do with FTP intervals and a lot of time, like if it's a three-hour ride, instead of doing three by 20 kind of in the middle, now the first hour you get a 20-minute interval, second hour you get a 20-minute interval, and the third hour you get a 20-minute interval. So you were actually acquiring a lot of time and fatigue between these intervals. So now you're training your body like, so now what we're doing by spreading these intervals
+
+63
+00:27:53,520 --> 00:28:22,224
+over a longer ride is we're adapting the body to being able to put out those powers over a longer duration, kind of like in a race. And the other thing that we can actually do with this now is we can start to manipulate the time between intervals. So if I don't think somebody is ready for any more FTP stimulus, but I think they're ready for a little more stimulus with the volume or the low intensity and I want to work this in.
+
+64
+00:28:22,224 --> 00:28:49,232
+Will actually start to work on the level of recovery between these intervals. So normally with recovery, I suggest you just keep your legs ticking over just hard enough to not lose your warmup. But on these longer rides for these really, really aerobic people, then I like to start to increase the level of power between the recovery, especially with these long durations between intervals.
+
+65
+00:28:49,232 --> 00:29:06,544
+So, you know, so it would start with like 50% FTP on these long, you know, 20 minutes per hour FTP rides, and then we'll start to raise it into 65, 70% FTP, something like that. And this is a really hard day.
+
+66
+00:29:06,544 --> 00:29:27,184
+I think it's worth noting for the listeners that this is the type of workout you have to build and progress up toward and that this is not the type of workout that a new athlete could accomplish or maybe even really should attempt to accomplish because you're probably going to have a pretty bad day and not be able to do it and feel really discouraged.
+
+67
+00:29:27,184 --> 00:29:54,576
+This also is another example of the fact that the training styles and the workouts of elite and advanced athletes are not always transferable down to the intermediate or beginner athletes. So hey, maybe there's a reason that 2x20 is so favored. It does kind of work and it's certainly an old reliable or something you can always fall back on. And if you're doing it correctly, know that you're going to generate at least a...
+
+68
+00:29:54,576 --> 00:30:23,328
+Decent training stimulus that day. That's probably a pretty good way to wrap it up. So again, everybody, thank you for listening. If you appreciate the coaching that you're getting today and appreciate the insights that we're giving you, please head over to empiricalcycling.com and we have a donation page, a couple bucks. If you think we're worth it, we'd love to have it. So if you have any questions or comments, please email us empiricalcycling at gmail.com.
+
+69
+00:30:23,328 --> 00:30:51,696
+And now we are on iTunes, so if you like the podcast, please give it a rating and give it a review. Those things bump us up a little bit. And also tell your friends, please subscribe on the Empirical Cycling website. On the podcast page, I have the RSS feed linked. We're also on SoundCloud and Stitcher. Yeah, we'll see you next time. All right. Yeah. Thanks for listening, everybody. Bye.
+

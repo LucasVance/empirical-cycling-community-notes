@@ -1,0 +1,376 @@
+1
+00:00:01,456 --> 00:00:29,696
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by my co-host, Kyle Helson. And I'm going to remind everybody to please subscribe if you have not yet and give us a nice rating on iTunes if you like what we're talking about. And remember that we are also an ad-free podcast so that if you would like to donate to the show and support us, you can do so at empiricalcycling.com slash donate. Remember that we have the show notes up on the website too under the podcast episodes so you can head there to look at the links to the
+
+2
+00:00:29,696 --> 00:00:54,960
+to the papers that we're talking about today. And for all coaching and consultation inquiries, questions, or comments, you can also email empiricalcycling at gmail.com. Today's episode is going to be a really fun one. I always look forward to these muscle physiology episodes. And so today we're going to be talking about muscle fiber type. What is it? How do we define it? You know, slow and fast twitch. Kyle, tell me a little bit about what we...
+
+3
+00:00:54,960 --> 00:01:17,712
+Think we know about muscle fiber type and how we usually hear about muscle fiber type when people are talking about it in cycling in general. Yeah, sure. So I think most people who have heard even a little bit of sort of popular science around exercise and muscle fibers generally know that there are two types, slow twitch and fast twitch. I mean, there's even a whole...
+
+4
+00:01:17,712 --> 00:01:46,512
+very active forum community called Slow Twitch. And endurance sports very much have kind of embraced this like, oh, Slow Twitch Fibers, Slow Twitch Athletes. And the other type, Fast Twitch Fibers then are very much, people know that they're more sprint, raw strength, power specific. And I feel like that is largely what people know. Maybe you'll find out that some people know that there are actually
+
+5
+00:01:46,512 --> 00:02:15,360
+Two different types of fast-twitch fibers. Like, I remember that from sort of, you know, intro college biology, right? You learn about different fiber types. But beyond that, I think most of it's just like, oh, you know, I'm an endurance athlete, therefore I'm a slow twitcher and I want to work on my slow twitch fibers or whatever. I'm a sprint athlete or power athlete, so I want to work on my fast-twitch fibers. And then I think that's about as much as your probably average recreational athlete's going to think about it.
+
+6
+00:02:15,360 --> 00:02:38,848
+Right, and that's actually a really good knowledge base. That is a very good place to start. So in order to elucidate the things that we're going to be talking about today, because in the last episode, you know, we still have, we still had some homework to do. We're finishing up the second half of the paper that we were looking at in the last episode. And the reason that we split it up into two episodes is because it presented a good opportunity to talk about muscle fiber type.
+
+7
+00:02:38,848 --> 00:03:08,048
+In order to get into that, we're going to start by talking about muscle fibers themselves, and we're going to talk about the different kinds of makeups of muscle fiber. We'll also get a little bit into how we differentiate muscle fiber types, and how muscle fiber types also kind of defy our expectations sometimes. So there's some good conclusions to draw from this episode, but also,
+
+8
+00:03:08,048 --> 00:03:35,968
+There are going to be some things that leave very open-ended questions that are going to require things like muscle biopsies of your individual muscles in order to answer. So what is a muscle fiber anyway? So muscles are made up of small bundles of individual fibers. And you can think about it like a handful of uncooked spaghetti. Does that kind of make sense?
+
+9
+00:03:35,968 --> 00:04:05,392
+Like you split it in half and you look at it like end-wise? Yeah, it's a bunch of rods or kind of, I almost use the word fiber, it's a bunch of filaments that are kind of put together almost like if you, or if you cut a piece of wire, right? If you have like a steel cable or something like that and you cut it like, you know, and then you look at the diameter, it's a bundle of smaller filaments that make up a larger single like rope.
+
+10
+00:04:05,392 --> 00:04:34,432
+Right, exactly. And these filaments are going to grab each other and pull. And this is how muscles work, is that the contractile elements of a muscle fiber grab each other and pull. And this creates a force on the two bones where the muscle is attached. And so this creates force. In this way, we can think about all muscles all the time are only ever pulling. They are not expanding. They are always contracting.
+
+11
+00:04:34,432 --> 00:04:59,216
+That's why we talk about muscle contractions. A muscle fiber is the smallest unit in a muscle, and the muscle fiber is actually a very long cell. And so in humans, this cell has a lot of components of many cells, including multiple nuclei. So we have multiple places where DNA is stored in one muscle cell.
+
+12
+00:04:59,216 --> 00:05:26,560
+So this is like the very, very, very basics of the cell biology of a muscle. But now we can get into think about muscle fiber types. Way back in the day, and I'm talking like Leeuwenhoek back in the day, he realized that muscles were made of these fibers. These were some of the very first microscope experiments ever, obviously. This is Leeuwenhoek after all. And he noticed that some of them were red and some of them were white. And that's...
+
+13
+00:05:26,560 --> 00:05:52,128
+It. That was like the extent of the knowledge for like a hundred years. So we can now see this. If we take a piece of muscle and we cut it across its length and stain it with certain things, in this case we're going to treat it with some acid, you can see white fibers and black fibers. And this is a histochemical classification. And so they needed a way to differentiate between the two colors when a muscle fiber...
+
+14
+00:05:52,128 --> 00:06:20,768
+Cut Crosswise, was stained with acid. And they decided to call one, the white fibers, Type I, and the black fibers, Type II, just based on this staining. Actually, if I got that backwards, I really apologize. I know that that's how Type I and Type II came about. And what is actually happening is revealing two different ATPases. An ATPase is the part of the muscle fiber that splits ATP.
+
+15
+00:06:20,768 --> 00:06:46,896
+You know, this is part of myosin. We'll get to myosin in a second. And so at the time, not a lot was understood. Just that, you know, unstained red fibers contract and relax slower than white fibers. As a fun aside, anyone who likes to eat chicken or turkey or anything like that, when you see that there are white meat parts and dark meat parts,
+
+16
+00:06:46,896 --> 00:07:14,544
+This is basically exactly this. Like, okay, your average chicken breast, those muscles will be used for flying. Chickens don't fly ever, really. But they walk a lot. They walk on their legs a lot. And so their legs end up slow twitch because they use them constantly, but don't really sprint around. Right. The darker meat drumsticks. Yeah. And so you have dark meat drumsticks and white meat chicken breast. Right. And have you ever had chicken heart?
+
+17
+00:07:16,176 --> 00:07:42,208
+It's very, very dark meat. Oh, that makes sense. Yeah, because hearts are constantly pumping, so you need a pretty steady supply of ATP and mitochondria supply ATP very steadily. So heart typically is the darkest meat that you could eat. No, I think it's fun because then you can at least, you know, rarely does one biopsy their own muscle, but a large portion of listeners probably dig into pieces of muscle.
+
+18
+00:07:42,208 --> 00:08:08,048
+on a daily basis. Oh, definitely. To eat them. This is why, like, if you have, like, rattlesnake or something exotic and everybody goes, oh, it just tastes like chicken, it's because it's just a bunch of fast-twitch fibers in a muscle. Like, of course it tastes like chicken. It's like, it's just fast-twitch fibers. Yeah. Continuing our history lesson, the next step in the mid-50s was the sliding filament theory. So, up until then,
+
+19
+00:08:08,048 --> 00:08:37,168
+How Muscle Fibers Actually Worked Were Not Well Understood And Two Scientists Both Named Huxley Working Independently Yeah, they both discovered the same thing through x-ray crystallography and some very elegant experiments, by the way. If you ever get a chance to read them and you understand x-ray crystallography, you absolutely should. Maybe I'll explain x-ray crystallography in some episode. Good, because I still have a couple questions on it.
+
+20
+00:08:37,168 --> 00:09:04,304
+They were like talking about what they were working on and they discovered they were working on the same thing. So they actually coordinated their papers being published back to back. Literally like one Huxley's paper was published and the next article was the other Huxley's paper. So here's the short version of the sliding filament theory. So there's two strands of two different types of protein, generally arranged in a hexagonal pattern, doesn't always obey this.
+
+21
+00:09:04,464 --> 00:09:33,232
+But generally, you can think about it like this. So one strand has protein sticking out, and this is called myosin. And this grabs the other strands made of actin, and myosin pulls. And it operates in this ratcheting motion. And myosin has a protein with a long body, and it's got this ratcheting head. And we'll get into how it works in another episode. So when we think about muscle fiber types,
+
+22
+00:09:33,424 --> 00:10:02,432
+In the literature, we always see the abbreviation MHC. And MHC means myosin heavy chain because one of the ways to classify myosin is by the heavy chain of it, which is just a part of the myosin. And in skeletal muscle, humans have three types, 1, 2a, and 2x. Again, this is coming from the nomenclature from
+
+23
+00:10:02,432 --> 00:10:23,264
+the muscle fiber staining, but now we are using those terms to apply to the certain type of motor protein in the muscles. But despite what some people think, there is no Type IIb fibers. It actually does not exist in humans, but it does exist in some animals.
+
+24
+00:10:23,264 --> 00:10:53,248
+Rats and Mice. So people actually used to think that Type IIb was in humans up until a 1994 paper, which I'll probably link to in the show notes. And it turns out that the human Type IIb fiber was actually more analogous to the Type IIx fiber found in rodents, which have four, one, two, a, two, x, and two, b. So, and this was shown by gel electrophoresis going, oh, look, this myosin heavy chain, this myosin isoform is,
+
+25
+00:10:53,248 --> 00:11:20,384
+It moved the same length on the gel as opposed to the Type IIb, which is like larger and heavier, didn't appear on the human gel at all. So we only have three of the four types. So Type IIb, good note, does not exist in humans. Dang. Yeah. Sorry, Kyle. But as a consolation prize, what we can do...
+
+26
+00:11:20,384 --> 00:11:37,632
+If we want to look at your muscle fiber type from a certain muscle, it'll be different muscle to muscle, and maybe even in different spots on the muscle, we can take a muscle biopsy. So now if we want to look at the fiber type composition of
+
+27
+00:11:37,632 --> 00:12:07,392
+of a muscle sample. One of the ways to do it is, and a lot of studies still do it like this, by the way, which is not good or bad, we just need to know the limitations, that if you see a muscle homogenate, this means that the muscle sample was ground up so that all of the muscle fibers were broken up, and then the Myosin Heavy Chains were isolated and run across a gel, so you're seeing a combination of all muscle fibers. You know, they're Myosin Heavy Chains, but
+
+28
+00:12:07,392 --> 00:12:33,072
+If we pull apart, like string cheese, all of the muscle fibers, we can actually do individual muscle fiber gel electrophoresis. So we can see what myosin heavy chains are in a single muscle fiber if we really want to. So this is a good point to stop and think about that the two ways that we are looking at to differentiate types of muscle fibers
+
+29
+00:12:33,072 --> 00:13:00,880
+are actually looking at different parts of myosin. For instance, the histochemical staining, which you will usually see in the literature as referring to a type. When you see type, that is usually a reference to a histochemical stain. They have taken the muscle fiber and stained it for color. And the other thing that we're looking at here is with gel electrophoresis. We're actually looking at the myosin heavy chain. So these are two different things that they're an important distinction.
+
+30
+00:13:00,880 --> 00:13:28,768
+at some point, but right now, we're going to kind of use them interchangeably. So, okay, so if we look at the Myosin Heavy Chain makeup of single muscle fibers, what we're going to see as a, you know, quote unquote, pure type may actually express different Myosin Heavy Chains in the same fiber. So one muscle fiber may not just be type I, may not just be type IIa, may not just be type IIx,
+
+31
+00:13:28,768 --> 00:13:52,992
+It's, um, you know, a lot of muscle fibers are actually what's called hybrids. So, uh, this is, um, you know, Type I, Type IIa hybrids, and Type IIa IIx hybrids. And, of course, in this case, hybrid meaning it's expressing more than one type of Myosin Heavy Chain. So, uh, Type I, IIa hybrid is expressing Type I and IIa Myosin Heavy Chains. How many...
+
+32
+00:13:52,992 --> 00:14:22,496
+So basically, it's like,
+
+33
+00:14:22,496 --> 00:14:49,744
+It depends, is what this number says. Depends on if you're sedentary or active, if you're trained or untrained, probably a lot of things. Evolutionarily, you could see why that might be useful, if you are able to be not just good at one thing. Like, humans historically have succeeded because we're very adaptable. Right, yeah. And we're actually going to see by the end of this episode,
+
+34
+00:14:49,744 --> 00:15:13,712
+some of the data that we have on how malleable and how flexible muscle fibers actually are. And it's going to throw a monkey wrench in our nice clean picture of muscle fibers that we have with Myosin Heavy Chains right now. But I think it's important to know, despite the fact that it just adds a bunch of questions and confusion sometimes.
+
+35
+00:15:13,712 --> 00:15:43,616
+Okay, so, but the lesson here is that fiber types are not just slow and they're not just fast in terms of twitch, but they exist on a spectrum from slow to fast twitch. And if you remember Wattstock episode 9 on the size principle that, you know, these exist in a spectrum on the small motor units all the way up to the large motor units.
+
+36
+00:15:43,616 --> 00:15:53,600
+Muscle Fiber Hybrids, you know, the ones expressing like 1 and 2A, Myosin Heavy Chains, both. Hybrid muscle fibers don't actually have to be 50-50.
+
+37
+00:15:53,600 --> 00:16:21,328
+in their muscle fiber type expression. It's actually any relative amount. So like some muscle fibers will express a lot of type IIa and not so much type I, but some hybrids will express a lot of type I and not so much IIa. So it's a true continuum. It's not just discretized steps. It's everything from I to IIx. Yeah, pretty much. Yeah, and so actually if we want to get a good picture of what
+
+38
+00:16:21,328 --> 00:16:45,312
+Myosin Heavy Chain Composition for a whole muscle is, we're probably going to want to look at a couple hundred fibers from a muscle, and we're probably going to want to even look at a couple different places in a muscle. So now that we kind of understand the basics of muscle fibers and what they're made of and how they operate a little bit, we're going to definitely get into more later, let's start thinking about
+
+39
+00:16:45,312 --> 00:17:14,112
+the characteristics of slow twitch and fast twitch, but mostly slow twitch muscle fibers because that's what we're generally interested in for endurance sports. All right, so we've spent a little time setting up to answer this question. Why do we care about slow twitch muscle fibers as endurance athletes? So the characteristics of slow twitch fibers make them very beneficial for endurance athletes. Slow twitch muscle fibers are small and they have high fatigue resistance.
+
+40
+00:17:14,112 --> 00:17:38,112
+So why is this? Slow-twitch fibers typically have more mitochondria and less contractile elements. It's actually the mitochondria and the iron cofactors in the mitochondria that give blood and mitochondria, and therefore slow-twitch fibers, their red color. So slow-twitch fibers being smaller, and by smaller I mean in diameter,
+
+41
+00:17:38,112 --> 00:18:07,760
+This actually means that they are typically a little more close to capillaries. So how we get oxygen from our blood capillaries into cells is that oxygen diffuses down a gradient from the bloodstream to mitochondria. And in muscle tissue, they can hop a ride on myoglobin. So myo like muscle like myosin, right? But it's not really quote unquote delivered by anything. Myoglobin doesn't go into the mitochondria.
+
+42
+00:18:07,760 --> 00:18:37,072
+You know, you can look at a diagram of the electron transport chain in mitochondria and the O2 just kind of happens to be there like in solution. So basically what's happening is the oxygen is diffusing from the blood, you know, hopping a ride on myoglobin and then diffusing into the mitochondria because it goes down in gradients. So if mitochondria is using a lot of oxygen and turning it into water,
+
+43
+00:18:37,072 --> 00:19:03,264
+Then what's happening is the oxygen concentration in the mitochondria is going down, so oxygen, of course, is going to fill in that gap, right? Because that's entropy. And Kyle knows something about entropy, right? It's always increasing, especially in my room. I mean, especially in my mind. Wait. Yeah. All right. And so this is one of the reasons that slow-twitch fibers
+
+44
+00:19:03,264 --> 00:19:32,368
+are good for endurance athletes because they allow you to use more oxygen, right? Oxygen being the key word here. And we'll get into a little bit on substrate use in a little bit. By that, I mean carbohydrates and fat. So slow twitch fibers have lower force production because they're made for a specific task, which is endurance. So slow twitch fibers, you know, they have less contractile elements in them.
+
+45
+00:19:32,368 --> 00:20:00,320
+So they can produce less force. And they're smaller so they can have better, you know, better, what do you call it, proximity to oxygen sources with more mitochondria. It's built to just, you know, like, it's built to just, like, walk all day, literally. Like, it's built for, like, low levels of sustained activity. The other thing is you can imagine that being smaller in size,
+
+46
+00:20:00,320 --> 00:20:22,496
+also contributes to being more efficient. Like if you're a large muscle and you have to walk around and carry yourself all the time, you would do better if you were physically smaller. Oh yeah, definitely. And then you have to put out less force, which is more compatible with this goal of being slow twitch, low force, long fatigue.
+
+47
+00:20:22,496 --> 00:20:51,936
+type fibers. Yeah, if you wanted to think about it in kind of like a watts per kilogram thing or like watts per area or watts per volume, you could definitely do something like that. Not only this, but they actually have a much higher efficiency in direct terms of like what efficiency actually means, which is like they do more work per liter of oxygen consumed. So we'll get into that in another episode. Here's the last bit of background, which is why are they called
+
+48
+00:20:51,936 --> 00:21:21,488
+Twitch. Why is it called a Twitch? Like why slow Twitch? Why fast Twitch? Have you ever wondered this, Kyle? I did a lab about this actually in college biology where we had a frog leg and we would zap it. So yes and no. Right. So literally it's called a Twitch because if you zap a muscle with a short jolt of electricity, it contracts and relaxes at a certain rate. And so if you do this with a muscle that's like
+
+49
+00:21:21,488 --> 00:21:49,392
+Let's say we have a muscle fiber that's pure type 1 and you do this and you zap it, it'll contract pretty slowly compared to type 2 fibers and compared to type 2 fibers, it won't produce that much force and it's going to relax slowly. But if you zap a pure type 2x fiber or even 2a, it's going to contract and relax much more rapidly with 2x contracting and relaxing the fastest and producing much more force.
+
+50
+00:21:49,392 --> 00:22:14,944
+Type IIa being somewhere in the middle. And so this is actually a consequence of a lot more than Myosin Heavy Chain. We're going to think about things like sarcoplasmic reticulum and calcium uptake and all kinds of stuff. But we're going to get into that in another episode. But for now, just know that there's a lot more besides the Myosin Heavy Chain or ATPase that makes a muscle cell and a muscle fiber be able to do what it does.
+
+51
+00:22:14,944 --> 00:22:44,464
+And we'll think a little bit about this by the end of the episode, but no, there is a lot more, and we're going to get into a lot of it because I love that stuff. Alright, so this is the TV equivalent of like, alright, so last time on the Empirical Cycling Podcast, remember that we were looking at a bunch of subjects where we were dividing up their FTP as a percentage of VO2 max, and so we had some high FTP and we had some low FTP as a percentage of VO2 max, and the high group generally being in the
+
+52
+00:22:44,464 --> 00:23:11,344
+Low to Mid 80s percent VO2 max for their FTP and the low group being somewhere in the mid 70s or low 70s and even below even in the 60s. All of these athletes did a test at 30 minutes at 80 percent of their VO2 max and that's where kind of we left off in the last episode. So what's the first thing that we want to do? We want to compare two athletes
+
+53
+00:23:11,344 --> 00:23:38,080
+of similar ability. So a lot of these athletes have FTP as a percentage of VO2 max, you know, not within like a percent of each other, pretty much except for two athletes. So we have Subject 7 and Subject 11. So Subject 7's FTP is at 72% of VO2 max. And during this 30-minute test at 80% of VO2 max, he used
+
+54
+00:23:38,080 --> 00:24:07,936
+449 millimoles of carbohydrates for the 30 minutes at an RER, or respiratory exchange rate, of 0.88. And a refresher on RER is that at an RER of 0.7, you're using just about 100% fat, and at an RER of 1.0, you are pretty much exclusively burning carbohydrates for your energy output. And it was not reported
+
+55
+00:24:07,936 --> 00:24:36,448
+what his relative amount of glycogen use, so glycogen millimoles per kilogram was not reported, but the entire high FTP as percentage of the UTMAX group used about 27.9 millimoles plus or minus three, so we're going to give him a three sigma and we're going to call it 37 millimoles per kilogram, just to err on the weight high side. Does that make sense, statistical sense, Kyle? Yeah, yeah, it's fine, especially considering
+
+56
+00:24:36,448 --> 00:25:05,424
+This guy would have been suffering toward the end of that 30 minutes. Okay, and so Subject 11 also had an FTP at 71% of VO2max. And so we can compare these two because they're a similar percentage of FTP at VO2max. So we can see if they use a similar percentage of carbohydrate. But this athlete used 563 millimoles at an RER of 0.93. So an RER increase of...
+
+57
+00:25:05,424 --> 00:25:34,480
+of 0.05, but a lot more glycogen use. So he used a relative amount of 48.1 millimoles per kilogram. Wow. It's a big difference. Yeah. So he used 30% more. All right. Okay. So to answer the next logical obvious question is, do they have the same body weight? Do they have the same everything else? Yeah. Remember that all of these participants were matched.
+
+58
+00:25:34,480 --> 00:26:01,840
+for maximal oxygen uptake. And these two participants are also within about two kilograms of body weight of each other. So they are actually very, very similar athletes. And of course, the consequence of this means that they're going to have a similar power output during this test, and therefore they are burning these approximately the same amount of kilojoules. So yeah, we can actually make a pretty good comparison between these two athletes. And so...
+
+59
+00:26:02,000 --> 00:26:31,664
+So one of the things that we might want to look at is their muscle fiber type. Because, you know, they're all endurance trained. You know, some to a greater extent than others. But Subject 7 had 85% of slow twitch muscle fiber according to his biopsy, which is the highest in the study. But Subject 11 has a 44% slow twitch muscle fiber, which is the third lowest in the study.
+
+60
+00:26:31,888 --> 00:26:59,296
+and remember they're like right in the middle of where is your FTP relative to VO2 max both of these guys like subject 7 got put in the high group but then subject 11 and only 1% different ended up getting put in the low group right and that's just that just happens to be you know just magic where they drew the line yeah it's okay so actually this trend actually maintains group wide so like the high
+
+61
+00:26:59,296 --> 00:27:28,976
+FTP relative to VO2max group generally used less carbohydrates and generally has more slow twitch muscle fiber than the low group. But let's throw another monkey wrench into this now. Oh no. Yeah, it's all monkey wrenches from here on to the end of the episode. Wrenches all the way down. All right. So let's look at two subjects with an FTP at 80% of VO2max. So this is the same intensity of the 30-minute test.
+
+62
+00:27:28,976 --> 00:27:53,568
+which was at 80% of VO2 max, right? So Subjects 5 and 6 have FTPs at 81 and 80% of VO2 max. So 30-minute test is at 100% of FTP. So Subject 5 used 34.9 millimoles per kilogram of carbs at an RER of 0.84. So he's about half carbs and half fat use.
+
+63
+00:27:53,568 --> 00:28:21,984
+Subject 6 used 17.4 millimoles per kilogram of carbs at RER of 0.81. So he's two-thirds fat and one-third carbs. But not only that, Subject 6 actually weighs seven kilograms more than Subject 5. So in absolute terms, he's actually going to be putting out more power and he's using less carbohydrates to do it. Wow.
+
+64
+00:28:21,984 --> 00:28:51,104
+Yeah. Breathing through his nose the whole time. Well, actually, you know what? It's still FTP. It's true. So using carbohydrates as opposed to fat is only a consequence of substrate availability and what a muscle fiber is trained to use, right? And so this is where the complexity happens. Yeah, so Subject 5 has 55% Type I slow twitch fibers and Subject 6 has 46.2% slow twitch fibers.
+
+65
+00:28:51,104 --> 00:29:17,904
+and they're both in the high group by the way both of their yeah remember FTP is 80% of its max and so so what we see here is the person with a little more subject 5 slow twitch fiber 55% actually used more carbohydrates than the subject with 46% slow twitch fiber interesting that is
+
+66
+00:29:17,904 --> 00:29:47,120
+Maybe not what I would have expected just reading the data that you read off before. Right. Exactly. And that's kind of the point is that we cannot conclude that there's a direct correlation between fiber type and substrate use because of all the other things that go on in a cell. So generally there seems to be a misconception, and I know I've had it before I write up on all this stuff,
+
+67
+00:29:47,120 --> 00:30:15,056
+that slow-twitch fibers are fat-burning, but it's not. So people have actually asked me questions about this kind of thing recently, like, oh, you know, you said this thing is aerobic, but I was under the impression that at this point you're using more carbohydrates, you can burn carbohydrates aerobically. So what fuel a cell actually uses, it depends on your training, and it depends on your substrate availability, meaning diet, and like what...
+
+68
+00:30:15,056 --> 00:30:37,792
+What substrates do your muscles naturally have? Like what do you naturally store more of? So typically slow twitch muscle fibers actually store more fatty acids than fast twitch. And, you know, slow twitch fibers can also store large amounts of glycogen, right?
+
+69
+00:30:37,792 --> 00:31:03,312
+And so that's one of the things that will affect your substrate use, your diet, you know, how much fat or how many carbs are you eating? This is going to affect your substrate use, but it doesn't change the capacity of your mitochondria at the end. All right, so for instance, a study in Nature from 1999 shows that in untrained individuals at submaximal intensity, so it's 50, they had people,
+
+70
+00:31:03,312 --> 00:31:32,976
+Performing at 57% of VO2 max. So this is under FTP for most people, even untrained. The RER, you know, how much fat versus how many carbs are you using versus Type I fibers, the correlation was R equals 0.14. So almost totally random. For those playing at home, zero would be completely uncorrelated and one would be perfectly correlated.
+
+71
+00:31:32,976 --> 00:31:55,328
+Not good. Yeah. And, you know, this is one of those complexities of life. So, here's one of the things about this COIL study that I've seen a lot of people refer to, and it actually does not hold up. Because the study got a correlation of 0.91 for relative glycogen used.
+
+72
+00:31:55,328 --> 00:32:24,496
+Right? So if you plot how much glycogen did this athlete use versus how much slow twitch fiber do they have, they found a very tight correlation, 0.91. But since they published all of these numbers, I plotted the data from the study, and what I got was a correlation of 0.87 of how much glycogen was used versus how far was 80% from your FTP.
+
+73
+00:32:24,560 --> 00:32:49,680
+Because let's remember that the test was at 80% of VO2 max and people's FTP is either higher or lower than this in this study. So basically what they did was they showed that relative to your FTP you are going to burn more or less carbohydrates.
+
+74
+00:32:50,096 --> 00:33:14,192
+You know, you cannot conclusively say from the study that there is like a 0.91 correlation between your muscle fiber type and your carbohydrate use because they did not actually control for the intensity relative to FTP. Oh, right, right, because they're working off of percentage of VF2 max. Yeah, exactly. So that's an important piece of context.
+
+75
+00:33:14,192 --> 00:33:42,096
+for the study that I think that I think a lot of people should think about like so when you see these studies and honestly you can't really fault them for that because the coil paper came out in you know was 88 and you know at the time like you know they didn't have power meters back then really like on a bike or at all like they just had them in a lab and and this was like the fledgling infancy of
+
+76
+00:33:42,096 --> 00:34:10,335
+you know this level of sports science like we are so far advanced now that we have to really put ourselves in their shoes and understand the context of what they were going through and that's actually one of the things one of the things that I really like about this paper is that we can see the thought process to get from where they are there to where we are now all right so so now we've thrown a couple monkey wrenches into all of this and I'm gonna mess it up even more now because this is just how I roll for this episode
+
+77
+00:34:10,335 --> 00:34:39,760
+Obviously the most important thing to note before we get into this last part, because you need to think about this when we talk about this, is that just because someone has a lot of slow twitch muscle fibers does not mean you can predict their use of fat versus carbohydrates at any intensity level. In theory, you generally should, if you're a trained endurance athlete, have higher fat oxidation potential when you're trained in your slow twitch muscle fibers.
+
+78
+00:34:39,760 --> 00:35:08,880
+We see a high degree of malleability of fuel preference, meaning carbohydrates versus fat, and metabolic capability in general, given the right training stimulus. So, most notably, I saw a recent study on highly trained cross-country skiers, and this study showed that their Type IIa fibers had an oxidative capacity, how much?
+
+79
+00:35:08,880 --> 00:35:34,896
+ATP can you produce using oxygen, that was as high as their slow-twitch fibers. Wow. Yeah. And this also includes approximately equal diameter, and it includes approximately equal capillarization. But they had the high-force capabilities of Type IIa fibers, nonetheless.
+
+80
+00:35:35,056 --> 00:36:01,040
+And they also had the sarcoplasmic reticulum characteristics of Type II fibers. We'll get into that later, but if you know what I'm talking about, you know that that's very important. And so the other thing that we might want to think about here in terms of fiber type with these cross-country skiers is actually their distribution of MHC1, which is for the group, by the way, this group is a very elite group, some of the best in the world.
+
+81
+00:36:01,040 --> 00:36:26,768
+Their fiber type 1, which, you know, if you think it's, you know, it's a very aerobic sport, high of the O2 max and stuff like that, that they're going to have a very high type 1, you know, percentage, you're actually wrong because in the legs, we're only looking at 58% plus or minus 2. That's the standard deviation here is 2%. So 58 plus or minus 2%. And here in the coil study, we're looking at type 1.
+
+82
+00:36:26,768 --> 00:36:40,416
+is 66.7% for the high group with plus or minus 5.2. So it actually gets a little bit more complex here and this has to do with the force requirements.
+
+83
+00:36:40,416 --> 00:37:00,240
+of cross-country skiing. They're higher. And so we're going to get into this in another episode, but for now, it's a very important thing to think about in terms of your muscle morphology and fiber type distribution and all of that kind of stuff. So it's a lot more complicated, of course, than just needing oxygen equals type 1 fibers.
+
+84
+00:37:00,272 --> 00:37:29,872
+And of course, this is actually not a high percentage of Type II fibers, or MHC Type II. This is actually, you know, kind of in the middle range, because if you look at studies on fiber types in weightlifters, what we find is that the elite weightlifters of the world have Type I fibers in the 14 to 40% range. So they are extremely MHC II and fast twitch dominant, and we can also assume their metabolic characteristics reflect that, right?
+
+85
+00:37:29,872 --> 00:37:57,744
+I would make a safe bet, I haven't seen a study yet, but I'll go look for them, that you could see the Type I fibers in Olympic weightlifters display a lot of the metabolic characteristics that you might usually associate with Type II fibers, Type IIa specifically. Does that kind of make sense? Yeah, it's that their diet and their training style of the cross-country skiers is so conducive to
+
+86
+00:37:57,744 --> 00:38:18,256
+really optimizing the conditions for these Type I fibers, given that they're a largely aerobic sport, with some of the notoriously high VO2 maxes ever recorded, or always cross-country skiers, that this would give a strong stimulus to these Type II fibers to take on attributes similar to that of their Type I.
+
+87
+00:38:18,256 --> 00:38:45,088
+Yeah, yeah. Or vice versa. Yeah, exactly. And for instance, like even in the late 60s, Hall is he recognized, he's pretty much the father of modern exercise physiology, by the way, that there was a great degree of plasticity in the metabolic capabilities of muscle. So he was doing experiments and he was seeing very small shifts in Myosin Heavy Chain isoforms. So like very small shift in fiber type total.
+
+88
+00:38:45,088 --> 00:39:11,376
+But he was seeing large swings in metabolic capability and fuel preference. Interesting. Right? It makes you think of German track sprinter Max Levy recently doing an Ironman. Yeah. Well, you know, at that point, though, like with all the strength training, you've got to think about like how slim cross-country skiers are compared to like a track sprinter.
+
+89
+00:39:11,376 --> 00:39:40,512
+Oh, sure. So they're very slim, so they've been working for years at getting smaller, more compact muscles, so it makes sense that, you know, your Type IIa fibers would be smaller. Type IIx, probably not so much. Right, okay, so there's a, okay, so the point is that there's a lot more stuff than just, like, what the Myosin Heavy Chain is. And just because somebody is very slow twitch, or just because somebody is very fast twitch in terms of their muscle composition,
+
+90
+00:39:40,512 --> 00:40:07,088
+Obviously the takeaway from today is that it doesn't mean you can predict their fuel preference in terms of fats and carbohydrates. And I guess the last point is that there's so much other stuff going on in a muscle fiber that you cannot just look at a Myosin Heavy Chain and go, this is what this muscle fiber does. There's a good likelihood that's what it does if it's trained in that way.
+
+91
+00:40:07,088 --> 00:40:35,328
+but it may not actually be the case and the real conclusion that we can draw here is that your muscle fibers are a lot more flexible than you might think in terms of their ability to adapt their characteristics to their training demands in which case you really need to be careful about what your training is actually doing in terms of its metabolic stimulus and we're going to get into that in great detail in other episodes.
+
+92
+00:40:35,328 --> 00:41:03,760
+I hope that people will gain an appreciation for the complexity that goes on inside of every one of us when we go out and we exercise and we compete and we race and we train. And looking into muscle fiber types can both be, I think, very interesting from a scientific standpoint and also very informative from the perspective of helping you understand why training works and why certain even diet tools or other things can help make you a better athlete.
+
+93
+00:41:03,760 --> 00:41:32,768
+Nerd. Nerd.
+
+94
+00:41:32,768 --> 00:41:58,256
+All right, so everybody, thank you for listening. Again, please subscribe if you haven't. Give us a rating on iTunes if you would be so kind. And remember that we are an ad-free model, so you can donate to empiricalcycling.com slash donate. And if you have any coaching or consultation inquiries, questions or comments, please send an email to empiricalcycling at gmail.com. And with that, thank you again all for listening. Bye-bye. Thanks, everyone.
+

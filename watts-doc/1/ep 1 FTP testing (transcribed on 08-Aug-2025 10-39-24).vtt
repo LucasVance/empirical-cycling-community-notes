@@ -1,0 +1,350 @@
+WEBVTT
+
+00:00:03.120 --> 00:00:32.880
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. I am joined by Kyle Helson. What are we doing here is probably something we should establish at the outset. You know, do we really need another cycling podcast, Kyle, do you think? I would say yes and no. I think given your unique approach to training and programming and thinking about the individual athlete,
+
+00:00:32.880 --> 00:01:00.704
+is a very unique perspective in the world of cycling coaching and even multi-sport coaching and so I think that's something that would be very interesting and very useful for interested coaches or athletes or sort of fellow athletic nerds. Yeah, we're definitely targeting athletic nerds and thank you for that very nice intro. I'm so glad I invited you to be my co-host.
+
+00:01:00.704 --> 00:01:21.616
+What I really want to try to do here is to just introduce a lot of the physiology that I know to a broad cycling audience and in every episode really just try to get across how do you use this in training.
+
+00:01:22.000 --> 00:01:49.072
+which I think is really a stumbling block for a lot of people and it certainly was for me when I started reading scientific papers on VO2 max and lactate threshold and what does it all mean and how do I apply it are very pertinent questions that they're hard to answer and actually one of the things I'm glad that you're here for is because
+
+00:01:49.072 --> 00:02:18.400
+I always try to explain the training and the physiology to my athletes, which you've been for many, many years now. And you're one of the people who really kind of gets it and asks all the right questions about, you know, okay, so if we're doing this, then what does this mean? And if this means that, then what does that mean? You know, you have a very logical inquisitor's mind here.
+
+00:02:18.400 --> 00:02:47.040
+Well, thank you. Hopefully this comes in handy for this. Yeah, I think it also might have to do with you being a physics PhD who started out pre-med. You've got all the right requirements, all the background. But, yeah, so we're really not trying to be out here proving how smart we are, even though you're definitely a smart guy, and I'm of very incredibly average intelligence.
+
+00:02:47.040 --> 00:03:15.728
+Yeah, so we're not going to try to do any, you know, fancy terms here. You know, we've done a couple takes of this episode already, and Kyle's reminded me several times, like, every time you use, like, a polysyllabism, please define it and, you know, make it practical use. So we're going to really try to do that. Did I miss anything? No, that's it. I think...
+
+00:03:15.728 --> 00:03:40.992
+you know we can kind of as we go we want to hopefully get uh some invite some interesting guests on perhaps as well and and get not only hammer away at at training and physiology but also kind of also have fun episodes yeah i think that's um i think we're definitely going to do that uh as long as these people say yes to come on the podcast it'd be very very good to uh very good of some of them um
+
+00:03:40.992 --> 00:04:07.760
+And, yeah, so what we're going to do is we're going to divide up the podcast episodes by the focus. So this one's under the Watts Doc heading. So we're talking about, you know, training and has a lot to do with power and all that stuff. But we're also going to do, like Kyle said, the interview episodes. And we're also going to talk to athletes, too. You know, Kyle knows a lot of...
+
+00:04:07.760 --> 00:04:36.368
+High Level Athletes, and so do I. And not only we're going to be talking to, you know, the people who make the headlines, but we're also going to be talking to some really interesting average athletes, some, you know, collegiate people, some local riders. And Kyle, why don't you tell us about why we'd want to be talking to them? Well, I think for both you and myself, collegiate cycling, for example, is...
+
+00:04:36.368 --> 00:05:05.312
+really near and dear to both of us, both of us having spent time racing in the collegiate environment in the Northeast and really feeling like that's an excellent introduction to the sport for a lot of people and it's a great community and actually you see a number of those athletes go on to be successful national and international level riders after their collegiate careers so it is maybe a less well-known but still
+
+00:05:05.312 --> 00:05:35.120
+pretty active pipeline of some of the first four, some of the national team riders. Yeah, and I think also not only that, but I think if we asked a lot of those people who went on to race at the top levels of cycling, I don't think that they're going to say that the reason that they were doing collegiate cycling is because they wanted to be a high-level racer someday. True, yeah. I think a lot of people,
+
+00:05:35.408 --> 00:05:55.600
+Get into collegiate cycling because it's fun. Because the environment is so welcoming and inviting and it's just, you know, it's a different experience to just being a member of a local regular USAC club. You get a really
+
+00:05:55.600 --> 00:06:19.760
+I think a much more close group when you're climbing into vans and driving across you know the 95 corridor hours and hours upon hours and hours on the weekends and stuff and so and you get to see the same people in a day in day out that you're racing against from other schools and then year in year out from other schools as well where if you're a cap four crit person
+
+00:06:19.760 --> 00:06:46.000
+Racing your local crits, you see some people you know, you have some teammates, but you may not see that sort of same continuity week to week. Yeah, so okay, as everybody can obviously tell, there's a lot to say about collegiate cycling. I think we want to bring it over to the main focus of today, which is going to be FTP testing. And did I tell you that earlier in the week that I saw Hunter Allen? No, no you didn't.
+
+00:06:46.000 --> 00:07:11.920
+Yeah, he came to Harvard and a really, yeah, it was a pretty decent sized auditorium that was pretty well filled by all 10 of us. And Hunter was really cool. He, you know, he figured out his audience first. He asked us, you know, who's got power meters, who's racing, who does multi-sport, who does tri?
+
+00:07:12.144 --> 00:07:40.848
+And so he started out his presentation by talking about his FTP testing protocol. So there's, in the Training and Racing with a Power Meter book, that's where he set it out, and there's been some, you know, a little bit of questions surrounding its validity.
+
+00:07:40.880 --> 00:08:04.896
+set out, which I think is actually going to be in, the details of this might be in the second edition, which mine was pre-ordered on Amazon, so I didn't buy one from him, so I haven't seen it yet, it hasn't arrived, but they're apparently shipping soon. So what you first do is after you warm up, you do a five-minute blowout effort, or you do a one-minute blowout effort. So Hunter's recommendation...
+
+00:08:04.896 --> 00:08:34.816
+was to start with the five minutes if you're a little more of an aerobic rider and one minute if you're a little more of an anaerobic rider or I actually totally might have gotten that backwards. Either way, you do a blowout effort first and then you rest and then you do your 20-minute test and you take 95% of your 20-minute power as your FTP. So, does that make sense so far? Yeah, I think, I mean, that's,
+
+00:08:34.816 --> 00:09:03.664
+For people out there who've read training and racing power meter, I think the at least 95% of 20 minute max power has probably universally known as being the quote unquote way you test your FTP. But I think actually that you bring up the blowout and now that he's revised it to actually have two different protocols for the blowout effort beforehand sort of emphasizes the importance of that being a part.
+
+00:09:03.920 --> 00:09:32.704
+of the test and ensuring accuracy of the test by actually doing that part. Yeah, however, there are drawbacks to this, which is first, even if you do a blowout effort, if you're pretty well trained and you're still an anaerobic rider, if you're a very anaerobic rider, the amount of power that you can do for 20 minutes is not going to be, say,
+
+00:09:32.704 --> 00:09:59.152
+only 5% more than your FTP. It's going to be actually a lot more. And so you're going to actually have to use not 95% of that number, but maybe only like 93 or 91% of that number. Yeah, even with that blowout effort. And yeah, so here's the big problem with this method of FTP testing, at least as far as I see it, is that it's
+
+00:09:59.152 --> 00:10:27.952
+Really, really easy to overestimate your FTP by like, you know, by a couple percent. If you're going like 3, 4, 5 percent and your FTP is, you know, 300 watts, like that actually makes a pretty big difference in terms of the training numbers. If you're trying to like do like 4 by 10 or 3 by 20 and you're having a really hard time accomplishing this at like 97 to 100 percent FTP, it's probably because your FTP is set too high.
+
+00:10:28.688 --> 00:10:52.128
+Do you think that actually happens pretty often? Yeah, I think it happens to probably at least a third of cyclists. And I would even say that the amount of focus that a lot of people put on high-intensity efforts, you know, we can go into the physiology of that later in another episode, but I would say that...
+
+00:10:52.128 --> 00:11:15.456
+that it may be even quite a bit more than that just because of the way people are training making themselves a little more anaerobic by focusing on those efforts. Ah, that makes sense. Yeah, especially because for a lot of amateurs, right, you're not doing six and a half hour, you know, spring classics, right? Your longest races are only three hours maybe and so you're going to spend more and more of your time doing
+
+00:11:15.456 --> 00:11:45.456
+quote-unquote VO2 max efforts or five-minute efforts or whatever. Yeah, and a lot of people, you know, they race a lot of crits, especially if you're, you know, kind of heavier, you know, like somebody like me who all endurance training at, you know, a whopping 165 pounds, you know, relative to everyone else, like flatter races is all I had. And so when, you know, a lot of people are like that, they go, oh, what is Criterium Racing? It's a lot of sprints. So we do a lot of sprints.
+
+00:11:45.456 --> 00:12:15.248
+which we'll get into later as to whether or not that is the best method to approach that. So the other thing that people do now is they forget the blowout effort. And so that little snippet of Hunter's 20-minute test from trading and racing with a power meter has become more or less accepted. What do you call it when something becomes true by just becoming known?
+
+00:12:16.016 --> 00:12:46.000
+It's like lore? Will that be the right word? Maybe not. Anyway, somebody out there who's a philosopher or something can tell us which fallacy that is. So this is even worse than doing a blowout effort. Especially with more anaerobic riders, but you're going to get a lot of this with just your average kind of all-rounder riders too, is that your 20-minute power is going to be significantly more than 105% of your FTP.
+
+00:12:46.416 --> 00:13:13.248
+Right, so that's saying you might be more like 96, 97, 98%, and so that 20-minute number might actually be even closer to what your FTP is. Well, that's if you're a more aerobic rider. Like, if you're not as good a sprinter, you know, your FTP might be 97% of your 20-minute power, and that's about the highest I've personally seen it. Yeah, so I think the highest I've seen is about 97% in my experience.
+
+00:13:13.248 --> 00:13:42.672
+But for the more anaerobic riders, like people like you and me, like our FTPs were, you know, 88, 90% of our 20-minute power. And I think this is actually pretty common with a lot of people. And so here's a little secret that I actually think is happening with a lot of people loving sweet spot work now. It's because I think that, you know, since sweet spot work is like 92 to like 95-ish,
+
+00:13:42.672 --> 00:14:09.024
+90-ish percent of your FTP. What people are doing as sweet spot work, thinking that actual, you know, threshold work is too hard on a person to do intervals, like, I think that they're actually riding at their FTP since their FTP is overestimated. Ah, that makes sense. So it, and I guess I think that goes back to the idea that even if your coach did prescribe you,
+
+00:14:09.024 --> 00:14:38.064
+2x20 at 100% FTP as a workout. That shouldn't be completely soul-crushing as a workout. That should be accomplishable. Oh, absolutely, yeah. So what does riding at FTP feel like? I forget, did you ever do one of my longer FTP tests? I did. I've done, I think, two of them. Before you switched to fully track sprinting, yeah. Yeah, so how would you describe...
+
+00:14:38.064 --> 00:15:04.528
+a longer FTP test. I would say it's much more of like a slow burn than it is like a, you know, okay, so everyone who's done a 20-minute test is going to tell you, you know, you gotta not go out too hard, you gotta not go out too hard and like sort of let the effort come to you. And then, but with a longer FTP test, the
+
+00:15:04.656 --> 00:15:33.664
+Instead of just having that be the first few minutes like that, that's the first 15, 20 minutes where you're comfortably working and you don't actually think that it's hard and you're not like breathing really ragged the whole time only until the very end, right? When you're really trying to empty it. But the beginning feels like a very sustainable and it's very doable. Like you're still probably starting off a little low on purpose so that you don't
+
+00:15:33.664 --> 00:16:02.464
+Blow Up and Die, but it's, you're starting in a number that you're pretty sure you could sustain for an hour as opposed to people doing 20-minute tests where they're like, oh god, am I going to make 16, 17, 18 minutes at this pace? I don't know, I don't know, I don't know, you know. Yeah, exactly. Yes, yeah, so I think that's one of the big misconceptions is that doing like a longer test is going to be really, really difficult. People don't know because they do them too hard.
+
+00:16:02.464 --> 00:16:30.048
+Did you ever go out and try to ride an hour at 95% of your 20-minute power? No, because I thought it would be too... I thought it would basically be... I envisioned way back when, when I started, that if I went out and tried to ride at 100% of my 20-minute power, that it just mentally wouldn't be doable. I thought that doing an hour at FTP should be like...
+
+00:16:30.048 --> 00:16:57.248
+our record style where by the end you can barely stay up and people are like weaving all over the place and they're just gonna like you know fall over and collapse or something yeah um but it's not like that apparently not no um yeah so so yes writing at FTP is like the intensity on the what was that really weird scale of exertion like it goes like
+
+00:16:57.248 --> 00:17:22.912
+7 to 20 or something. Yeah, it's like 7 to 21. Oh, the Borg scale. Yeah, what a strange scale. No, but it's, I guess because, you know, 0 to 7 is like just existing. Right, yeah, yeah, yeah, stairs. Yeah, getting out of bed. So on the 1 to 10 scale, FTP should feel like about a 6 or a 7. The number one thing I tell people about
+
+00:17:22.912 --> 00:17:51.552
+FTP intervals when they're doing testing is if your breathing goes uncontrolled and ragged, you're doing it wrong. Like your lungs should be fine and your legs should be screaming at you. And I remember the one time I attempted to go out before I started doing longer FTP tests myself to go out and ride an hour at 95% of my 20 minute power. I think I made it like 35 minutes and it was worse than the 20 minute test by a lot.
+
+00:17:51.552 --> 00:18:19.648
+Oh, I'm sure. Yeah, so here's the other thing about FTP is it's not necessarily one hour. So what happens with FTP is there's a metric in WKO4 that measures this. It's called TTE, time to exhaustion. So it looks for an inflection point where you fatigue between
+
+00:18:19.648 --> 00:18:46.224
+30 in like 70, 80 minutes. And we're going to go into this in a future episode, the physiology of FTP, but basically like as you get more and more well trained, you can hold your FTP longer and longer and longer. Like for instance, one of my athletes, she's pretty much at her genetic potential. So when she gets fit, like she's at like 240 watts FTP all year.
+
+00:18:46.288 --> 00:19:14.624
+all year. So as she starts training, her time to exhaustion at FTP goes from like 30 minutes, 50 minutes, 60 minutes, 70 minutes. Now she's getting ready to race. She's at like full 75 minutes. She can hold this. So what about someone who would say, oh, well, that's not her actual FTP. The book says that FTP is the power you can hold for 60 minutes. Yeah.
+
+00:19:14.624 --> 00:19:43.584
+Yeah, so there's two definitions of FTP in training and racing with a power meter. And one of them, one of the sentences, they're like two or three pages apart. And one of them is like the power you can hold for 60 minutes. Or the other one, which was actually written by Andy Coggin, FTP is the highest power that a rider can maintain in a quasi-steady state for approximately one hour without fatiguing. Elfine. Ah.
+
+00:19:43.584 --> 00:20:10.480
+So it does approximately. I think a lot of people miss the approximately. Yeah, because it directly contradicts what is stated in a page or two about it being your 60 minute power, like equivalent to. So there have actually been a lot of scientific studies investigating just this, you know, defining FTP as your 60 minute power, which...
+
+00:20:10.480 --> 00:20:38.048
+um which physiologically speaking it is uh it is quite different um and actually if you think about it that makes a little bit more sense from a physiological perspective like what what is special about 60 minutes to the human body there there isn't really it's like an arbitrary number you know an hour is not some fundamental constant of nature um but thinking thinking more that there's there is this this sort of
+
+00:20:38.048 --> 00:21:06.384
+Mode that you can operate in aerobically that will last for a long but not infinite amount of time where you are able to have a sustained sort of steady state output. That makes more sense. Yeah, exactly. There is nothing special about 60 minutes. The take home is that you might test your FTP and it might be accurate and you still might be able only to go out for 40 minutes and hammer away at that power.
+
+00:21:07.056 --> 00:21:36.208
+And that's fine. There's nothing wrong with you if that's the case. A lot of the people I coach, like, they have an FTP of, you know, they can only hold it for 40, 50 minutes, and they're cat ones. So, how do you feel about the 8-minute test, Kyle? I personally very much enjoy 8-minute FTP testing. As someone who tends to have a fairly large anaerobic capacity, I thought 8-minute tests were great. When I first, I think...
+
+00:21:36.208 --> 00:21:56.800
+I think it was my second year of racing when I had stumbled across Chris Carmichael's training book and then he mentions these two by eight minute tests for FTP. I was like, oh great, this seems much more doable and I would do it.
+
+00:21:56.800 --> 00:22:23.152
+and it'd be much, much easier. And what was the result? Was the result better? Did you get a higher FTP? Oh, yeah, and I would get a higher FTP. I'd go, great, this test says, this metric says I'm actually fitter than this other one. Yeah, so clearly it's the right test. Yeah, clearly that's the one, the right one for me. Yeah, so that's what gets called by a lot of coaches the vanity FTP.
+
+00:22:23.792 --> 00:22:52.928
+So the vanity FTP is like, what do you feel like your FTP is? And that's a very different question than what is your FTP? I actually had this discussion with one of my athletes a little while ago. He was just starting to do my longer tests and he said, you know, I think on a really good day I can hold this power for this long. And I was like, well, you were just on a really good day and you can't. So we're going to work, we're going to train you.
+
+00:22:52.928 --> 00:23:22.736
+up to that power. And like, you know, he's like, well, I did this, you know, a month ago. It's like, well, what have you done since then? It's like, you've detrained is what happened. I think that's another point you bring up that I think some people think that they should only, that they will only ever be able to hit a longer period of time at FTP on one of those like golden days where you just feel great, you got extra sleep, you know, you had that extra cup of coffee before the workout, you know, you had some candy right away and you feel awesome.
+
+00:23:22.736 --> 00:23:52.368
+And that's actually not true. You should be able to ride an FTP more often than just, you know, once every few weeks when you happen to nail it. Oh yeah, absolutely. Okay, so, eight minute test. So we actually have some numbers for this one. So, okay, so Kyle, so what is exactly the two by eight minute test protocol? Let's start there. I believe it's, you warm up, so you get to, you feel good, and then you have one eight minute effort.
+
+00:23:52.368 --> 00:24:21.536
+where you try to go, obviously, ride as high as a power as you can for eight minutes, and then you give yourself a full ten minutes of easy spinning in between, and then you do another eight minutes and try to hold that same number that you did for the first eight minutes, a little better, a little worse, that's okay, but try to be within a few percent of that first one, and then apparently you can take 90% of whichever of the two was the higher.
+
+00:24:21.536 --> 00:24:48.016
+number. So can I do one of them as all out? Is that what it is? Yes. So the first one's all out and the second one you just try to hold it and if you can't match your first one you just used your first number? I believe so. Well I think if you miss like horribly like if you go out and then all of a sudden the second effort you can't come within 30% I think they say that you did the test wrong.
+
+00:24:48.016 --> 00:25:17.808
+But yeah, basically it's try to get two 8-minute efforts very close together, the highest that you can hold, and you take the 90% of the best one. Okay, and so to give it the benefit of the doubt also, we can also look at what's your FTP if we average the two. Sure, yeah. And in theory, if they're within a few percent of each other, averaging them should be fine. It shouldn't change the result drastically at all. Right, and okay, so a couple years ago, I happened to do an 8-minute climb.
+
+00:25:17.808 --> 00:25:42.656
+with 10 minutes in between. I didn't do it on purpose. I was at a race with MIT and they were off-road racing and I had nothing to do so I went for a ride. And I climbed Mount Philo twice. And Mount Philo, by the way, sticks out in my mind as having the highest power, lowest cadence I've ever achieved on a bike because of the 30% ramp like near the top.
+
+00:25:42.656 --> 00:26:08.192
+When I was in, you know, like whatever, like 39, 27, and you can't unclip because if you do, you are going to fall over. Right, yes. Running at that point would actually probably be faster. Probably would have been faster. Yeah, so yeah, like the back force is so, there's so much of it against the pedal that if you stop...
+
+00:26:08.192 --> 00:26:37.584
+Pedaling for even half a second. There's no way your body weight is going to hold you there so you can put your foot down. You are going to roll backwards and fall over. Okay, so power output for eight minutes for these two climbs were 360 watts. Nice. Okay, so 90% of that is 324 watts. That's a pretty respectable FTP for an amateur. My second was 345 watts.
+
+00:26:38.448 --> 00:27:07.936
+Okay. So let's give me the benefit of the doubt. Let's average them and let's look at the lower one too. So the average was 352 and the 90% of that is 317. And 90% of 345 is 310. This is the riveting part of the podcast where we do math. Okay, so 310 watts and what was the high one? 320-ish? 319? Yeah. Okay.
+
+00:27:07.936 --> 00:27:37.392
+So we got a 10 watt spread. So I, and so, and I only lost like, what was this, like 3 or 4% power between these two? So, okay, so it was a good test. My actual FTP from the time is 270 watts. You mean you're not going to take this free 50 watts? That sounds great to me. Like, I don't think I could hold 320 watts at the time for more than like 10 or 11 minutes.
+
+00:27:37.872 --> 00:28:06.480
+Right, and so you would actually be, like you said, you would be one of these people who's going out and getting prescribed sweet spot intervals that are just, that are hard, but just on the edge of doable, because they're actually FTP workouts. So, yeah, so like 90% of 310 watts is 279 watts, so I could probably, I probably could have done like a 2x20 at 280.
+
+00:28:06.480 --> 00:28:36.320
+at the time. Yeah, and you would have felt horrible. Oh yeah, that would not have been an easy day, for sure. Yeah. So especially for the really, really, really sprinty people, and even for the moderately sprinty people, the eight-minute test is probably not the one to do. I mean, you can even think about it. If you're, you know, more of these, say, one of the stereotypical pursuiter, classics racer, you know, if your bread and butter is going to be climbs that are,
+
+00:28:36.320 --> 00:29:05.776
+3, 4, 5, 6, 7, 8 minute, maybe 10 minutes long at the most, there's no reason that an 8 minute test is actually going to be representative of what you could do for 4 times as long, or 5 times as long. Yeah, exactly. So the take home here is that the more anaerobic power you have, like between 30 seconds to 5 minutes or so,
+
+00:29:05.776 --> 00:29:31.904
+You know, the relative to what you usually see your FTP at, the less representative these shorter tests are of your actual FTP. So could you see an eight-minute test being example, being, for example, useful for like an ultra distance type person? Like if you're going to go out and do a 200-mile gravel race, well, you know. Yeah, I absolutely could. And depending on...
+
+00:29:31.904 --> 00:29:58.464
+How few efforts that person is trained at over threshold. If you do any kind of triathlon that lasts longer than an hour or two out to the ultra-endurance events and you hardly ever do anything over threshold, then you're probably going to be really poorly trained at that duration.
+
+00:29:58.464 --> 00:30:28.256
+And so your eight-minute test might be a better representative of your actual FTP. Although, I'm just going to say it now, the gold standard is to just ride at whatever you feel like your FTP is until you fatigue. So we're going to get into a couple more tests, but I'm going to talk about the tests I've devised, which is to start at,
+
+00:30:28.256 --> 00:30:55.984
+For some athletes, I'll give them like 10 minutes, but some other ones, I'll give them like 10 or 20. I'll prescribe a below FTP, a deliberately below FTP effort to start their FTP test. And then I'll say, you know, raise the power gently until you feel like it's a power you can hold for, and I write this in all the tests, 40 to 70 minutes total.
+
+00:30:55.984 --> 00:31:22.592
+And, you know, and for the less experienced athletes who need a little guidance, pacing, and for some of the overeager ones, definitely, I'll, you know, prescribe like this long at this many watts, this long at this many watts. If you feel like this, stop there and just hold those watts as long as you can. But oftentimes I leave it really, really open-ended. And obviously, you know, the first reason for this is because
+
+00:31:22.592 --> 00:31:46.992
+When we do it this way, we always get that inflection point in the power curve, so I can eyeball it in half a second and say, that's your FTP. And it may not even be the average power from the test. It may actually be somebody did, you know, if somebody does like a 65 minute test, oftentimes I'll see their FTP inflection point at 55 or 60 minutes.
+
+00:31:47.056 --> 00:32:12.960
+and they'll have fatigue somewhere in there and just looking at the average power we can find it. And so this is an important point. You're not necessarily looking at this test in a vacuum. Oh no, definitely not. You're looking at it in the context of all of the other efforts and rides and races that they've done before. Exactly. And so even if, you know, so even if somebody hits a new FTP in a race,
+
+00:32:12.960 --> 00:32:39.408
+like a new, you know, 30, 40, 60 minute power. You know, we may not be looking at a new FTP. Somebody sets, you know, 35, 40 minutes and I know that they can hold their FTP for a lot longer. You know, we can look at the power curve and say, is this your FTP or not? And we can kind of make a judgment, but it's really hard to talk about this without visual aids. So I'm really sorry, everybody. But the long and short of it is that even if you use
+
+00:32:39.408 --> 00:33:08.384
+Just the average power for your test. And even if you don't feel like doing a 60-minute test, you just want to do 45, for all practical purposes, you can just take that average power as your FTP. Because it's close enough. So if somebody holds 260 watts for 45 minutes, and I think that maybe he could have done 200, you know, 255, 250 watts for like,
+
+00:33:08.384 --> 00:33:36.032
+You know, 60 minutes, that's pretty close, you're going to be training at about the same intensity either way. I think that brings up a good point too. When you prescribe, yes, you want to get as accurate of an FTP as possible, but worrying about a few watts either direction ultimately doesn't matter because rarely are you ever prescribing someone to nail a very specific wattage in training. It's always zones, right?
+
+00:33:36.032 --> 00:34:04.400
+Zones were created. And both to make training a little bit easier, like, okay, it's kind of viewed as, you know, oh, you know, zone three is this many watts to this many watts. But also because physiologically, if you're trying to derive stress and gain fitness that way, it's not about nailing a number to six sig figs or something silly like that. Your body doesn't know that you're nailing this very specific number.
+
+00:34:04.400 --> 00:34:31.376
+Yeah, you're exactly right. I mean, that is, I couldn't have said it any better myself, and I probably couldn't have said it better at all. Yeah, so like when I assign FTP work, I assign it, you know, I'll typically give people like one wattage to hold, but it's definitely not 100% FTP. And it's definitely not 105% FTP. I personally only see some utility in prescribing.
+
+00:34:31.376 --> 00:34:55.072
+Intervals that are, like, just over FTP, um, and only for a couple reasons. We can get into those another time, but, um, yeah, but for the most part, like, all the FTP work I assign is, like, 10 watts below FTP to 15 watts below FTP down to, like, sweet spot and tempo. That's, that's what it is, that you can do a lot more work below threshold than above threshold.
+
+00:34:55.072 --> 00:35:24.096
+And so by doing that, you keep the fatigue lower, and you can get more riding done, which means you can adapt more. Right. So that's a good point. So you're ultimately, with these tests, accuracy is important, but there are diminishing returns to this desire. And there's diminishing returns to greater accuracy, too, because you spend all your time and energy trying to get that last five watts. I know I got them in me. I can hit.
+
+00:35:24.096 --> 00:35:52.912
+you know whatever it is like 300 watts and you know what it's it's good enough like once in a while somebody's like you know I swear to god I I there was a stop sign or you know I hit a pothole or I got a flat I could have kept going like I believe you just credit them five watts it's not going to change the training intensity and if anyone doesn't believe you take it have to take your FTP and I want you to work out what the zone cutoffs are between one two three four right
+
+00:35:52.912 --> 00:36:20.928
+above four, maybe it's not as important, it's not important, but pretty much one through four, and then I want you to subtract five watts, and then tell me what those differences are that you see. Yeah, very, very small. Okay, so there's a couple more methods of, well, there's one more FTP proper test, and I'm going to put air quotes around test for this one, and then there's going to be
+
+00:36:20.928 --> 00:36:47.536
+Two Methods of Estimating Your FTP. So, Kyle, tell us about, have you ever done a RAM test? I have tried to do a RAM test, yes, on my own, on a trainer, and you can read how the protocol is. Typically, you start off somewhere between 100 or 150 or 200 watts, and you try to add. It depends, but it would be...
+
+00:36:47.632 --> 00:37:17.408
+sort of steadily adds a few watts every few minutes until you blow up. Okay, so and where do they tell you that your FTP is relative to which part of the, is it to the highest power you can maintain for like a minute or something? Yes, they end up telling you basically, so a common one I think is you add five watts every minute until you blow up. And so whatever the very last continuous full minute that you lasted at,
+
+00:37:17.408 --> 00:37:46.736
+You take that number, and then you take a certain percentage of it as your FTP. And I think a lot of times that number is relatively low percentage compared to some of these tests. I think a lot of times it's between 80% and 90% of that number. Okay, so how did your FTP stack up with a RAMP test compared to, is it better than the 8-minute test? Did you get a better FTP? I don't think it was better than the 8-minute test, but it was definitely comparable because the RAMP test only lasted, I think, total like 6 or 7 minutes.
+
+00:37:46.736 --> 00:38:15.792
+and the first two or three minutes was super easy because you started at like 200 watts and okay, I can add 200, 205, 210, 215, like you're not even breathing hard for the first few minutes and then you're really only working hard the last two, three, four minutes and so in hindsight, if you look back, I'm like, oh, is this representative of what I could do for 45 minutes? Again, probably not, like I wouldn't ever think that
+
+00:38:15.792 --> 00:38:44.432
+I could go jog for five minutes and then extrapolate out like a half marathon time or something like that, right? Yeah. Yeah. Okay. So that's something entirely different. We'll get into that another time. Yeah. We'll... But anyway. Yeah. Anyway, a ramp test similar to an eight minute test heavily benefits people who are extremely anaerobic. So again, a ramp test is short. It's not going to be a representative...
+
+00:38:44.880 --> 00:39:12.448
+exercise in longer sustained power and the team a lot of times I think ramp tests are famous because of Chris Froome and Team Sky and Wiggins releasing sort of physiological rider testing data after they win the tour and then people think they're teaching drugs and so they try to release these ramp test numbers to the public and let people just you know they provide zero commentary so firstly they don't tell you
+
+00:39:12.448 --> 00:39:36.112
+what number that they take from the ramp test and how they use that to determine FTP or training zones. And secondly, they just, they say nothing. And so people sit there and they go, oh, look, Team Sky uses ramp tests, therefore I can use ramp tests. Yeah, however, well, you make a very important point, which is that they're not including any other physiological data. And what I'm going to tell you...
+
+00:39:36.112 --> 00:40:03.888
+with everything I know about physiology is that you need that physiological data for a ramp test to make sense. You cannot take the watts in a vacuum out of context and just say, okay, these watts equal your FTP. Like, eight-minute tests and ramp tests are probably the worst FTP tests you could possibly do unless you have a very long history and a very consistent training history that says this is exactly
+
+00:40:03.888 --> 00:40:32.304
+You know, where I am relative to this test. Like if you've made it your own, if you have the supporting data, that's fine. But if you don't, if you're just like, if you don't have any corroboration of your FTP from either from lactate testing or from power data, then you probably shouldn't be using these tests. Okay, so RAM test.
+
+00:40:32.720 --> 00:41:01.264
+Not great. So how would you find FTP from a ramp test? Like, how do you actually do it? Like, the Chris Froome one, the one that they released, they were actually doing that to find his VO2 max. And I think the other thing that's worth noting about that is that he was also not going out on some, he wasn't doing it on his trainer, and he wasn't doing it out on the road. He was doing it, like, on a WAP bike, in a lab. Yeah. To, um, one of the, uh, crap, the
+
+00:41:01.264 --> 00:41:30.368
+A metabolic cart, a respirometer. Yeah, exactly, a spirometer. They were both analyzing his breathing and probably his blood lactate levels through actually sampling his blood throughout the test. I actually don't remember them doing the lactate, but yeah, the point stands. Oh, just to say that he's just going out and doing a ramp test on his own is certainly not true, and if people think they're just going to go out one day and do a ramp test, and that's going to serve as their FTP, that is...
+
+00:41:30.368 --> 00:41:58.544
+That is not even the testing modality that Sky is using when they're having people do quote-unquote ramp tests. Yeah, exactly. And I think it's not even that Sky's using it with Chris Room for VO2Max stuff. It's just that they see it done in the scientific literature a lot. And therefore, it must be useful. So I know TrainerRoad has a ramp test on it.
+
+00:41:58.544 --> 00:42:26.928
+There's a couple other ramp test protocols out there. I think Wattbike has a built-in one that you can do. Oh yeah, you're right, I think they do. Yeah, so the thing that makes a ramp test useful, besides checking your O2 in and CO2 out, is measuring your blood lactate. And here's the thing about a ramp test, is that it's not even great at measuring your lactate-defined FTP. I know a lot of people...
+
+00:42:26.928 --> 00:42:54.832
+who have worked in physiology labs are probably, you know, glowering at me right now and shutting this off. That's fine. I'm sorry, guys and gals. So the RAM test, like you need to watch how your lactate builds through an effort over like say 8, 10, 20 minutes in order to see if it raises or not. If your lactate in your blood rises,
+
+00:42:54.896 --> 00:43:23.904
+Then you're over your FTP. If it doesn't, you're at your FTP or under. So that's the real way to test your FTP with lactate. I think the other important thing you notice, though, there is that it's longer, right? It's not 20 minutes. It's not even, you know, it's certainly not 8 minutes. It's not 20 minutes. It's probably going to end up being a greater than 20-minute test.
+
+00:43:23.904 --> 00:43:50.880
+Yeah, the physiological, or not the physiological, the actual lab protocols, the physiology lab protocols, you know, there's a couple different ones out there to find this. You know, some of them are two days, some of them are three days, some of them are one day. I haven't actually looked too deeply into these. But basically, yeah, you can do a ramp test and look at, in this range, we're going to find...
+
+00:43:50.880 --> 00:44:18.304
+this inflection point in somebody's blood. However, we don't know exactly what it is until we test them doing longer efforts. So, this goes to say that a lab that wants to determine people's FTP is going to actually err more on the side of one of these longer tests like you would describe. I would hope so, but a lot of tests also, you know, a lot of studies, they don't have a lot of time.
+
+00:44:18.304 --> 00:44:41.472
+you know and they don't have the volunteers don't have a lot of time so so you know a lot of times people will do these these ramp tests and you know the short ones you know one minute stages or two minute stages or like the smooth ramp or whatever it is and they'll take blood lactate the whole time just to save time like they don't have they don't have more time they don't have more budget and I understand that even though
+
+00:44:41.472 --> 00:45:07.312
+Honestly, I don't think it's best practice. And I'll tell you a fun story is that one of my coach friends who does a lot of lactate testing, he was showing me some data of doing these proper lactate tests and he was saying, I can't believe how accurate WKO4 is in predicting this thing because WKO4 looks for the exact same thing that I look for, which is this inflection point.
+
+00:45:07.312 --> 00:45:36.528
+Okay, so what's the last way to tell if your FTP is going up? This is another one suggested in training and racing with a power meter, which is basically to look at, you know, about what can you do for a long time? Is it improving? So like if you're doing your threshold intervals, if you're doing like 3x20 at FTP, 4x20 or 3x30 at like Sweet Spot or, you know, 4x30 at Sweet Spot or something like that, something like
+
+00:45:36.528 --> 00:46:05.984
+around FTP length or longer, if you see those watts going up, that is probably a very good indicator that your FTP is going up too. So I have heard of coaches, a lot of coaches now, especially if they use WKO for testing, doing formal testing less and less and less often. I think there's something to be said though too, like there's certainly a case to be made if an athlete's like a super head case about testing and is always really bad at it, that like you can kind of shy away from testing.
+
+00:46:05.984 --> 00:46:34.880
+in one respect and say like, oh, they don't do well with tests or we're not going to do them. Or you can try to either change the frequency of testing to make it more often and less scary or B, try to change the style of testing to make it less scary. The only answer is not to shy away from testing ever. I think you're exactly right. Although I think the people who are nervous about testing might not like seeing more tests.
+
+00:46:34.880 --> 00:47:04.176
+I mean, I've, one of my guys right now, you know, we're just doing season baselines, because he's, you know, his goal races are, like, way late in the season, and he made a note, you know, like, I had the appropriate amount of nerves before my one-minute test, and I was like, I mean, okay, but it's only a minute, and, like, it doesn't mean anything. You know, we're just trying to set a baseline.
+
+00:47:04.176 --> 00:47:29.696
+And I get it. I mean, I've got a really good one-minute power, so when I go out to do a one-minute interval, like, my nerves are more for the amount of pain I'm going to be in afterwards than anything. But I think the only reason I say you do testing more often is that some people, you know, if they only test their FTP, if they're used to only testing their FTP two or three times a year,
+
+00:47:29.696 --> 00:47:58.800
+Then it's probably going to be scary, you know, because they're like, oh man, I've only ever done this a handful of times, I'm going to be bad. Yeah, and I do an FTP test at the start of almost every single training block. I really do test, you know, probably like every, pretty much every four to eight weeks. Like a lot of coaches say, like, you know, you've got to test every four to eight weeks. I don't test everything, because obviously, you know, between like training and group rides and racing and...
+
+00:47:58.800 --> 00:48:25.872
+everything else people are going to have some pretty good values but it's rare that somebody really gets to do like a good FTP test in a race unless they're just in way over their head and they're just holding on to seat posts for an hour just like getting watts sprayed at them like you know that happens and those can be good FTP tests too yeah yes FTP not scary um do longer tests everybody and um
+
+00:48:25.872 --> 00:48:55.056
+And you know what's funny is that I actually posted the FTP testing article that I wrote on some message board. I forget which one. And somebody was like, the comment was like, oh, you know, this is just TrainingPeaks because it was on the TrainingPeaks blog, the article. This is just TrainingPeaks trying to, you know, force their new FTP testing protocol on everybody.
+
+00:48:55.088 --> 00:49:23.056
+And I'm like, do you think anybody makes money off of this? Like, the only place I make money from in cycling is coaching people and consultations. That's it. And, you know, this podcast is going to rake in, you know, maybe enough for a beer next time I see you, Kyle. Well, I think that's something we said there, too. It's like, you're giving away, quote-unquote, these things, whereas, like,
+
+00:49:23.664 --> 00:49:53.024
+you wrote that article it appears on Training Peaks people can read it and you say use these things like start using these things whether you're a coach or an athlete doesn't matter whereas if you're uh I'm gonna use a name like if you're Chris Carmichael you're trying to sell your eight minute your eight minute test as the protocol that works with your training plans like you're not selling your longer FTP test as being a critical element to some
+
+00:49:53.024 --> 00:50:21.456
+more elaborate training plan that you're then trying to like voice on people. Yeah, I guess I could see it like that. I mean, I mean, he's also put it out there as just like, here, do this two by eight minute test. And it's just that I think that his test group, honestly, is that like, the people he works with have, relative to people like you and me, such low anaerobic power, like,
+
+00:50:21.744 --> 00:50:37.792
+you know when he was winning or actually we could take any tour winner and we could blow their one minute power out of the water pretty pretty much universally oh so so what you're saying is that in his experience with the athletes he coaches oh yeah so so they're much more
+
+00:50:37.792 --> 00:51:04.992
+Yeah, so it works better with him because like they're so aerobic and less anaerobic that his test group is completely skewed or almost completely skewed to the has no or has very little ability over FTP crowd. That makes sense. Yeah, and that's the case even with like a lot of tour sprinters is that you've got to have the endurance and then you've got to have just enough
+
+00:51:04.992 --> 00:51:34.992
+Anaerobic Power to win sprints. I think that also was reflected in the most recent release where I forget where it was. It was on the Guardian or one of the Minnesota more well-known British papers released a bunch of Garant Thomas' numbers pre being a tour rider and post being a tour rider. I'm like, oh, look at the numbers. I didn't see that. They released his like one minute, five minute, 20 minute,
+
+00:51:34.992 --> 00:52:00.720
+Powers from his like peak track team pursuit days and then they did it again for what was he doing when he won the tour and it's exactly what you said like his one minute power tanked his five minute power went down a little bit and of course his 20 minute power went up but that's because if you're racing a team pursuit your race is you know three minutes and 52 seconds long if you have a bad day you know
+
+00:52:02.128 --> 00:52:28.528
+And you have to, sure, you have to recover for efforts, but you're never racing that more than twice in one day. That pretty much sums it up. Yeah, that sums that up really nicely in terms of, you know, anaerobic riders, you know, G in the individual pursuit versus winning the tour. All right, so, everybody, thank you for listening to our first episode. We hope it wasn't too clunky, and we're going to improve as we go on.
+
+00:52:28.528 --> 00:52:57.680
+So another thing that we want to do is we're also going to answer listener questions. So if you have any questions or comments, please email empiricalcyclingatgmail.com and that's me and we're going to get your questions. We're going to fold them into future episodes. You may have episodes of all listener questions or we'll just kind of fold them into our episode ideas as it stands.
+
+00:52:57.872 --> 00:53:17.936
+Yeah, great. But also, please tell your friends. You know, getting the audience to get more questions, more interesting questions, more unique perspectives. So yeah, if you liked it, if you liked it, tell your friends. All right. Okay, everybody, thank you for listening.
+

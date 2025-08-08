@@ -1,0 +1,340 @@
+1
+00:00:00,304 --> 00:00:26,848
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by my co-host, Kyle Helson, and today we are going over high-intensity interval training. But before we get started with that, I just want to thank everybody as always. Thank you for the donations, and if you want to follow us on Instagram, the Instagram is empiricalcycling. And for all questions about the show, if you have any questions, you know, the last episode was a...
+
+2
+00:00:26,848 --> 00:00:55,856
+was a listener question. What's so special about 2x20 minutes? If you have any questions about that or if you have any coaching inquiries, please send an email to empiricalcycling at gmail.com. High-intensity interval training. This seems to be all the rage these days, doesn't it, Kyle? Yeah, I think so. I think it's really entered the sort of Instagram culture of fitness where, especially with the emergence of something like CrossFit and everyone's
+
+3
+00:00:55,856 --> 00:01:22,784
+Clickbaity articles about the best way to get your summer beach body or whatever. This whole idea of working really hard and not having to work as long or think about slogging endless miles on the Stairmaster or something. High-intensity interval training, I think, is super popular these days. You see a lot of also pseudo-group fitness classes based off of...
+
+4
+00:01:22,784 --> 00:01:50,752
+what is essentially high-intensity interval training, and I think even if you think back to the late 2000s, mid to late 2000s, like the emergence of the home fitness P90X type videos too also. I remember P90X pretty well. It's all based on this idea of doing what is essentially high-intensity interval training, and they put their proprietary name over it, but it's going pretty hard for
+
+5
+00:01:50,752 --> 00:02:20,688
+You know, 20 seconds or whatever, and then going easy and hard. And it potentially led to the birth of CrossFit, and I don't think this is going to be a surprise to anybody, given how we've talked about CrossFit before. I'm glad of what it's doing for weightlifting, but I'm not glad for what it's doing for people overdoing high-intensity interval training. So with high-intensity interval training, what I really want to get into today,
+
+6
+00:02:20,688 --> 00:02:48,816
+is we're going to look at one of the original high-tensity interval training papers. We're going to look at the original Tabata protocol and the original scientific paper, which I really dug into in prep for this show. And we're also going to dig into another paper, but not quite as deep because it's a little more technical. And by a little, I mean very much so. If you want to read either of them,
+
+7
+00:02:48,816 --> 00:03:16,976
+I am actually going to put the link up to the second paper on the website and I will probably put the PDF for the first paper, the Tabata, on the website. The second one is open access so you can just click on the link and read it and that's at empiricalcycling.com. Head over for the show notes. So Kyle, high intensity interval training. So you have, like I have, been reading a lot of the
+
+8
+00:03:16,976 --> 00:03:34,864
+blog posts and books and whatnot. And, you know, doesn't it kind of seem to you like high intensity interval training, you know, regardless of the actual intervals done is kind of like a training cure-all?
+
+9
+00:03:35,312 --> 00:04:03,648
+Yeah, I think it's often billed as a great way to improve both like VO2 max, like aerobic capacity, like maximal aerobic capacity as well as building this anaerobic capacity and it's also famous for its very short total work intervals so you don't even have to like 2x20 by comparison is a long workout compared to a lot of the high intensity interval protocols and so it's
+
+10
+00:04:03,648 --> 00:04:31,280
+kind of billed as this silver bullet of, oh, get, you know, get all this work done in a short amount of time that's going to make you really fit and help a lot on race day or something like that. Yeah, and the studies, they do bear out some of that. However, we're going to go into what the studies actually say, what the intervals actually do to your body.
+
+11
+00:04:31,280 --> 00:04:55,072
+and how you can actually program your own high-intensity interval training. So there's a couple types of high-intensity interval training that we're going to get into. And some people call it HIIT training. And I think that's, I don't know why I can't call it HIIT training yet. Yeah, I kind of don't like it either. I've never, I think it's one of those things that I will say as like a joke.
+
+12
+00:04:55,072 --> 00:05:23,648
+But it, you know, sort of like ironically, but I would never actually go, you know, purposely call it HIIT training. Okay, so the first type of interval training is like the intensity level. So it's high intensity. So what do we mean high intensity? Generally, well, we're going to get to what the original protocols are in a minute, but high intensity generally means a maximal effort. Now, for most endurance athletes,
+
+13
+00:05:23,648 --> 00:05:47,840
+Doing a bunch of maximal efforts, like truly 100% all out and stringing them together for a couple minutes to a lot of minutes is actually not horribly difficult. I mean, obviously it's very, very hard, but it's repeatable. To make it more repeatable, we can actually
+
+14
+00:05:47,840 --> 00:06:07,184
+Lower the intensity. So to me, it's not technically high intensity because the intensity is not that high. But for instance, if you want to do 15 seconds on, 15 seconds off for 10 minutes, you are by necessity...
+
+15
+00:06:07,184 --> 00:06:36,096
+going to have to reduce those 15-second work intervals to a lower power than a maximal effort. And even if you do a maximal effort there, they are by their own nature of the fatigue that you're experiencing going to come down in power from the first one. So I think it's pretty obvious if you do like three minutes, 15 seconds on, 15 seconds off, the power is going to be a lot higher than if you do 20 minutes, 15 seconds on, 15 seconds off. And we're going to get into how we design these.
+
+16
+00:06:36,096 --> 00:07:05,248
+a little later and the metabolic implications. So the third way to do high intensity interval training is to do a short maximal effort and actually give yourself some complete rest. So a very common protocol is 30 seconds all out followed by four minutes rest. And this is pretty common. And one of the reasons that I actually chose the second paper.
+
+17
+00:07:05,248 --> 00:07:33,680
+is that they use this protocol. So Kyle, did I miss anything so far? No, that's it. I think in a lot of the, maybe the less cycling focus and more general fitness or like lifting focus communities, typically high intensity intervals are always billed as being some period of all out followed by some period of entirely rest.
+
+18
+00:07:33,680 --> 00:08:00,688
+Obviously, if you're going to be doing jumping jacks, that's it. So obviously, if you're going to be doing burpees for 20 seconds as your work interval, there's no way to measure intensity level with burpees. It's just you're going to do them as hard as you can. Yeah, and actually, this brings up a really good point that cycling has, and pat on the back to all of us cyclists, we've actually had a great advantage.
+
+19
+00:08:00,688 --> 00:08:30,032
+for a very long time with the invention of the power meter because we've actually been able to see the entire physiologic spectrum of an athlete where in a lot of other sports they're only just now starting to get power meters. Like there's power meters for running, there are for rowing. But, you know, we have a separate implement through which we put out power and we can measure it. And that's actually given us, in terms of the exercise physiology, like a real
+
+20
+00:08:30,032 --> 00:08:59,984
+Ahead above the other sports is I guess what I'm trying to say. But for now, let's start digging into the Tabata protocol. So the original Tabata paper, the design was 20 seconds at 170% of VO2 max and 10 second rest. And they would try to get their people doing this eight times
+
+21
+00:09:00,176 --> 00:09:29,216
+for a four minute interval. So eight four minute intervals of 20 seconds on, 10 seconds rest. And this is just as an aside, if you want to try this protocol yourself, the way that I would do it is if you have WK04, I would open up your VO2 max report and check out your VO2 max power. And now you can simply calculate what your work interval would be. So if your VO2 max power is 300 watts, you can do these at 510 watts.
+
+22
+00:09:29,216 --> 00:09:56,768
+and the rest period would be I assume 4 to 10 minutes. They didn't actually specify the rest period. One of the things about this study was that it was done in 1996. So we actually have to give some context for 1996. The typical training in a lot of sports in 1996 was pace-based. So in other words, if you're training for like a 4K pursuit, what they would do is they would take your target
+
+23
+00:09:56,768 --> 00:10:25,632
+Time, and they would divide it up. So if you're targeting like a five-minute pursuit over 4K, they're going to divide up five minutes into maybe four seconds or five sections, and then you're going to divide up 4K into those sections, and now you do 1K at your five-minute pace, and then you're going to do another 1K at your five-minute pace or however it gets divided up. So physiologically, this actually has implications because
+
+24
+00:10:25,632 --> 00:10:54,208
+You're actually not going hard enough to improve. Now doing these maximal efforts is kind of a big deal to people who maybe haven't worked this hard before. So like Kyle, you were a swimmer for a long time. Does this kind of, you were a swimmer in the 90s too, right? Yeah, 90s through late 2000s. Yeah, so does this kind of sound like, you know, the kind of training that you were doing?
+
+25
+00:10:54,208 --> 00:11:23,216
+It does. It actually reminds me, so in high school, I remember when it would come to be taper time, we would end up doing a lot of these sort of broken target race pace intervals for our races. So say you were doing the 200 free, yeah, the coach would break it up and you'd do 450s at your goal pace with someone standing there with a stopwatch and giving you, you know, at least one-to-one work rest.
+
+26
+00:11:23,216 --> 00:11:53,008
+My coach at the time was, he was in his 50s, I want to say, in the mid-2000s, so he was definitely old school in his training, and he started swimming and grew up before they invented goggles, so you can imagine how modern his training could have been. Yeah, okay, so that makes a lot of sense, and the runners I knew,
+
+27
+00:11:53,008 --> 00:12:16,288
+in high school were doing the same thing and a bunch of the rowers I knew too were also doing the same thing. Okay, so the Tabata paper is very, very good but it's not perfect because of a couple of the methodologies and assumptions that exercise science has, you know, we've learned a little more since then but I'm gonna go through the things that still hold up. So what Dr. Tabata did was he used
+
+28
+00:12:16,288 --> 00:12:45,776
+Moderately Trained Subjects. So people who, you know, play like Frisbee on the weekends or go hiking or sometimes go for a run, like people who aren't highly trained. So their VO2 max, their average group, they had two groups. One started at an average VO2 max of 48 and the other group started at 53. So what he was focusing on in this study was anaerobic capacity.
+
+29
+00:12:45,776 --> 00:13:11,488
+So he was measuring anaerobic capacity by accumulated oxygen deficit. So for instance, if you do a 30-second effort at, let's call it 500 watts, and your VO2 max is 250 watts, now you've gone over what you can aerobically
+
+30
+00:13:11,488 --> 00:13:36,144
+do in that time period. So that creates what's called oxygen deficit and debt. And by measuring oxygen uptake afterwards, like when you're done with that effort and you're breathing really hard, Kyle, track sprinter, do you know a little bit about breathing really hard after these efforts? Oh, certainly. And you get to the point where you actually feel like
+
+31
+00:13:36,400 --> 00:14:05,392
+Five minutes maybe after a four-minute set of intervals, you're still breathing hard and you're sitting there like, you know. Yeah, okay, so this is not a perfect measure of anaerobic capacity. And I don't have to get into the biochemistry of this, but okay, so here's the really cool thing about this. He split up his test groups. The first test group was basically doing FTP training.
+
+32
+00:14:05,392 --> 00:14:32,672
+So he got the VO2 max of each group and he had the first group doing like basically like sweet spot or FTP work. They were doing 60 minutes at 70% of VO2 max. So it's pretty much like FTP sweet spot work. The second group was doing the 20 seconds on, 10 seconds off protocol.
+
+33
+00:14:32,672 --> 00:15:00,480
+And they did this for, I think, six weeks. It was a couple times a week, right? Each of them did it. Yeah, so they exercised five days a week for six weeks doing this protocol. And what they found was that, yes, indeed, the 2010 group really increased their anaerobic capacity. But what's really cool is that both groups
+
+34
+00:15:00,480 --> 00:15:28,720
+increased their VO2 max by a similar amount. So, untrained people, FTP sweet spot work increases VO2 max. Kol, you've seen all of the stuff about high-tensity interval training increasing VO2 max, right? Right, yeah, that's often billed as one of its benefits. It's that it's going to increase this largely aerobic physiological trait while doing these much shorter...
+
+35
+00:15:28,720 --> 00:15:57,360
+Efforts where normally you think of, oh, if I have to improve my VO2 max, I'm going to be doing longer efforts. Yeah. Yeah. Or even, well, I actually, okay. So I think that, I think the interesting point here is, is something that, that a lot of coaches know to be true is that, you know, pretty much when you're getting up off the couch from being inactive to very active, literally anything.
+
+36
+00:15:57,360 --> 00:16:26,304
+will make somebody faster. And if you have a particularly very high responder, like some world-class people that we know now, then literally anything you do, no matter what, is going to make them faster. Like, I heard a good story from one of Brad Wiggins' first coaches. Did you hear this one, Kyle? I don't remember where I heard it. No, I don't think so. Okay, so...
+
+37
+00:16:26,304 --> 00:16:52,208
+So Brad Wiggins' first coach, you know, Wiggins was responding so well to all of the training he gave him. The coach is going, oh my God, I'm the best coach in the world. Look at this guy. He's improving so rapidly. And then, you know, then the punchline is like, you know, many years later, he was like, oh my God, I had Brad Wiggins. No wonder the guy's going to become a monster no matter what anybody does. Yeah. So the interesting thing is that
+
+38
+00:16:52,208 --> 00:17:20,912
+A lot of things improve your aerobic ability. So one of the things that becomes necessary, and we're getting a little ahead of ourselves in terms of episodes here, we'll do something in depth on this later, but what happens is as you become more and more well-trained is that just anything improving you no longer improves you later because now you've grown accustomed to that stimulus. So what happens is when you start training,
+
+39
+00:17:20,912 --> 00:17:49,328
+and anything improves you. Now there's a long string of things from breathing to your working muscles to expiring CO2. There's a lot of stuff happening there that is getting some stress and everything improves. But at a certain point during that training, everything has improved to the level that it can improve by the stress that you're giving the entire signal chain.
+
+40
+00:17:49,328 --> 00:18:15,488
+In order to improve further, now you have to start picking out little bits. Like you have to start, like if you want to improve anaerobic capacity beyond a certain point, I would actually say that 2010s are not right for you. And we'll get into it. We'll get into that in a little bit. But that's just a teaser for later. Yeah, I think put another way, if, for example, something that people often, I think,
+
+41
+00:18:15,488 --> 00:18:41,088
+Imagine early on when they start training is that, oh, say if I want to get better at my one minute power, I'm just going to go out every day and slam one minute intervals over and over and over and over again. And it turns out that's not anywhere near the most effective way to do it, even though you would think like, oh, I'm doing the most specific training possible. And it's because of exactly what you said.
+
+42
+00:18:41,088 --> 00:19:08,816
+There are many physiological components and physiological systems that have to work really well for you to have a good one-minute power. And if you just go out and start, this is like the shotgun training approach where you're just going to try and just completely slam it and hope that that, you hope you get improvements wherever you need them. And it actually is more effective if you go back and are thoughtful, like, okay, what are the components that go into me?
+
+43
+00:19:08,816 --> 00:19:37,440
+Riding Really Hard for One Minute. I'm going to go through and see which one of those I am deficient in and then work on those to bring them all up. The other example would be, say, if you're really bad at road races, if you only ever did hard group rides and were trying to figure out, well, why aren't I winning road races? All of my rides every day are really hard group rides. That should make me really good, right? That's very specific. Well, okay. Obviously, that's not going to work.
+
+44
+00:19:37,440 --> 00:20:05,136
+tried this, and they know that, oh, I have to go back and I have to look at the individual components of winning a road race and work on those and find the weaknesses. Yeah, and if we want to look at the individual components that were weak in the participants of the Tabata study in either test group, it would be everything because they're untrained in everything. And the FTP group,
+
+45
+00:20:05,136 --> 00:20:30,432
+didn't actually increase their anaerobic capacity, which is the stimulus that he was looking for. And the 2010 group did significantly increase the anaerobic capacity because not only was their aerobic system getting stimulated by the recovery between all the hard efforts, it was actually stimulating the anaerobic system because
+
+46
+00:20:30,432 --> 00:20:54,896
+because every 30 seconds they were doing a 20 second maximal interval and this is stressing out that system that burns carbs where the 70% VO2 max test group was not doing this. Actually, one of the things that I think about the Tabata protocol that a lot of people forget about
+
+47
+00:20:54,896 --> 00:21:20,240
+is that it actually can increase your anaerobic capacity, especially if you don't have a lot of anaerobic capacity stimulus in your training. So if you're going out and you're doing a lot of endurance pace rides or just easy rides or whatever it is that doesn't have all of these truly maximal efforts,
+
+48
+00:21:20,560 --> 00:21:40,320
+Then you're going to have a big response or you can have a big response when you start doing these intervals. I think most people would have this response. I think a lot of times that's what high intensity intervals are billed as for the more recreational weekend warrior type athlete. They're good.
+
+49
+00:21:40,320 --> 00:22:06,592
+They're good because they're short, and if you're time crunched, you don't need that much time, and also you improve both your aerobic and anaerobic capacity to a certain extent, so it's kind of built as a twofer. Okay, so here's one of the things that I want to point out with this type of training, and we kind of touched on this a little bit in the last episode on 2x20.
+
+50
+00:22:06,592 --> 00:22:30,768
+and, you know, structuring FTP workouts is that it takes a little bit for your muscles metabolically to catch up with, you know, with the actual workload. And so what's really cool about the human body is that it actually responds faster to higher workloads.
+
+51
+00:22:30,768 --> 00:23:00,672
+So the time from zero to maximal oxygen uptake, you can typically estimate at like, I don't know, a minute, two minutes, something like that. Maybe it depends on the person too. And so what's actually driving or part of what's driving aerobic adaptation during this type of training, it's not the actual intervals themselves. The intervals themselves are so completely anaerobic, especially for like
+
+52
+00:23:00,672 --> 00:23:29,232
+Short Four Minutes, that, and because you're resting in between, you can do a lot more work, like the paper said, 170% of VO2 max, and if you're doing 20 seconds on, you know, you can be damn sure that at least the first, you know, 10 seconds or so, there's a huge anaerobic contribution, and especially in the first handful per rep.
+
+53
+00:23:29,232 --> 00:23:52,976
+I mean per like four minutes set. So this is actually one of the mechanisms that drives the anaerobic capacity. Like if you did this as four minutes steady and you started out with the same effort and then you obviously faded down to what you could aerobically maintain, you're only going to get that first like 10 or 20 seconds of anaerobic stimulus.
+
+54
+00:23:52,976 --> 00:24:21,312
+And then you fatigue and you burn off all of that anaerobic capacity and now your heart and lungs are working as hard as they can. But with this intermittent type work, what happens is you're actually working over your aerobic capacity. So what drives your aerobic system is recovering from these anaerobic efforts. And that's why Tabata was measuring
+
+55
+00:24:21,312 --> 00:24:50,304
+Accumulated Oxygen Deficit, like how much oxygen do you need after your intervals and during your intervals do you need to recover from this type of training? Yeah, that makes sense too for people, especially people who've tried these before or any type of high intensity interval, kind of like when we were talking about in the Criterium episode, your breathing is really ragged even during the rest period when you're literally not
+
+56
+00:24:50,304 --> 00:25:14,144
+putting out any effort. You're just sitting there or barely taking the pedals over or something if you're on a trainer and you're still going to be sucking wind. And then even after you're done, for a few minutes afterward, your breathing rate is still really elevated over normal. Okay, so I think that's a good spot to wrap up Tabata for a bit and we're actually going to move on to the second paper.
+
+57
+00:25:14,144 --> 00:25:39,728
+It's called Rhianodyne Receptor Fragmentation and Sarcoplasmic Reticulum Calcium Leak After One Session of High-Intensity Interval Exercise. So what that really means is not too important, but the cool part about this paper is that they're actually looking at the cellular consequences of high-intensity interval training, and they not only looked at the
+
+58
+00:25:39,728 --> 00:26:08,784
+Less Trained Group. They also looked at highly endurance trained athletes as well. All right. So what they did was they looked at the one-off, very intense intervals, and they were actually trying to investigate what's the cellular mechanism behind this. And when we get to it, I'm just going to gloss over it for you guys. But if you want to look at the paper, I've linked to it in the show notes at empiricalcycling.com under the podcast episodes.
+
+59
+00:26:08,784 --> 00:26:37,888
+So what they did was they had a group, they did one set of three by 30 second all out sprints with four minute rests. That was the whole protocol. They took untrained people to begin with and had them do three 30 second maximal sprints on a cycling ergometer with four minute rests. And what they actually found
+
+60
+00:26:37,888 --> 00:27:00,224
+is that the ryanodine receptor fragments. And what happens is this leads to a calcium leak into the cell during rest periods and for possibly a couple hours and a couple days afterwards. I don't think they checked the recovery time. And they did this with trained subjects. They did six 30-second...
+
+61
+00:27:00,224 --> 00:27:29,312
+All Out Intervals with 4-Minute Rests, and they found no- That sounds like a horrible take. Yeah, and it probably was, but they were well-trained, and so I think their average VO2 max was like 67 or 68. Yeah, so pretty well-trained, and they had no receptor fragmentation. So when this fragments, the sarcoplasmic reticulum actually leaks calcium into the cell.
+
+62
+00:27:29,312 --> 00:27:57,072
+So just the quick and dirty thing for this is when calcium is in a cell, it means the muscle is contracting, and that stimulates the muscle to adapt to an exercise stress. And the adaptation that's happening here is making more mitochondria. So on the surface, this kind of looks like a paradox in that this is a very anaerobic
+
+63
+00:27:57,264 --> 00:28:24,528
+protocol that we're looking at here, like 30 seconds all out, followed by four minutes rest, that's pretty sufficient rest, and you're not going to be staying at your high oxygen debt and deficit, you know, like you are doing a Tabata protocol for four minutes. You actually get four minutes of rest between your next 30 seconds of work. You know, 20 seconds on for Tabata, 30 seconds for this.
+
+64
+00:28:24,528 --> 00:28:49,104
+You know, you might not expect the aerobic stress to be that high, but it turns out that it is in the untrained people because they haven't faced this level of aerobic demand before. And this is one of the interesting things about the untrained versus the trained is that the trained not only in terms of the oxygen uptake, but in terms of
+
+65
+00:28:49,104 --> 00:29:18,384
+In the case of what they're looking at in this study, handling the calcium that's in your cell when the muscle is contracting. So, you know, this being a stimulus to grow mitochondria, you know, in endurance trained people, you know, some people with, you know, high 60s VO2 max, pretty well trained, their muscles are so accustomed to the stimulus of having calcium in their muscles all the time that it no longer provides a sufficient stimulus.
+
+66
+00:29:18,384 --> 00:29:44,992
+with this protocol to grow mitochondria is kind of what this paper is saying. And I think this also points to the larger point that we've been making so far, which is that as you get better and better trained, you really need to find that weak link in your physiology and target that as opposed to doing things that are kind of a catch-all.
+
+67
+00:29:44,992 --> 00:30:12,320
+and you know whether that's going with the Tabata protocol of 2010s for four minutes versus this or if you need an even more specific stimulus for say VO2 max you know doing more targeted intervals that no longer target your anaerobic system as well and just going with the aerobic maximal
+
+68
+00:30:12,320 --> 00:30:42,016
+So there are different intervals that can do that, and we're going to get into those in another episode. Okay, so I was looking through the references for this study, and it led me to another study that had pretty much a protocol of 3x20 minutes FTP versus 7x30 second sprint at 180% VO2 max with 4 minute rests. And they have similar mechanisms of cellular level response, and they looked at gene transcription, so just to gloss over this real quick.
+
+69
+00:30:42,016 --> 00:31:09,248
+They had similar levels of response in terms of upregulating PCG1-alpha, cofactor PRC, and PPAR. So if you're into the scientific literature, those should sound pretty familiar as genes that downstream will upregulate aerobic enzymes and whatnot. Okay, the link to that is also in the show notes. So head over to empiricalcycling.com to check that out.
+
+70
+00:31:09,248 --> 00:31:38,720
+What is important about this study is that I personally think that this is the wrong comparison to make because in elite athletes, now like we talked about, you've got the whole signal chain from breathing down to your muscles and different types of training affect a certain spot differently.
+
+71
+00:31:38,720 --> 00:32:01,648
+High-intensity interval training affects anaerobic capacity a lot. And this is something that we try to keep down in endurance athletes. And we're going to get into why in another episode. So if we want to increase VO2 max, we do regular VO2 max intervals. We want to increase FTP, we do FTP intervals. And we find that VO2 max doesn't really increase FTP in elite athletes. We find that FTP work...
+
+72
+00:32:01,648 --> 00:32:27,360
+Doesn't really increase VO2 max in elite athletes because now you've got to focus on one or you've got to focus on the other and it's kind of hard unless they're coming right in from the off season. It's really hard to kind of get both at the same time. Does that kind of make sense, Kyle? Yeah, I think that makes sense in the sense that if you're an elite athlete, your body is already used to
+
+73
+00:32:27,360 --> 00:32:46,560
+or is already capable of such a high level of either VO2 max work or FTP work that FTP work isn't going to stress your body enough to also earn you a little bit of VO2 max adaptations or vice versa, like the VO2 max adaptations.
+
+74
+00:32:46,560 --> 00:33:12,240
+won't be, or the VO2max intervals you're doing won't be long enough in duration to kind of boost your FTP at the same time like it would be in beginner or intermediate athletes. Yeah, and actually a friend of mine who has been a physiologist for a very long time, he told me during a conversation once that you can
+
+75
+00:33:12,240 --> 00:33:37,360
+in the super elite, like if you increase one, the other actually decreases. So it actually becomes like a teeter-totter of physiological systems. That makes sense. Actually, as a kind of point of reference that people may know as well, like Phil Gaiman, now that he's going out and doing these like Strava KOMs everywhere and not having to train for these very long world tour races where he would have to really
+
+76
+00:33:37,360 --> 00:34:06,144
+have this very, very, very large aerobic base. He has actually said that his FTP has gone up a little bit, presumably because he doesn't have to do all of these very, very long days in the saddle. He's looking at 15, 20, 30-minute climbs, and so if he's going out and only having to ride for a few hours and not nine or something like that, you'd expect to see that go up.
+
+77
+00:34:06,144 --> 00:34:34,831
+Yeah, but also that he's also, he also must be doing a lot of anaerobic intervals to increase his anaerobic ability. And also this is going to increase your 20 minute power. So, so I know his coach is probably a fan of the 20 minute tests. I could be wrong. But, you know, if, but if you're doing a lot of anaerobic stuff, like this is the kind of polish on someone's fitness because the adaptations of
+
+78
+00:34:34,831 --> 00:34:50,560
+anaerobic work are almost all enzymatic. In other words, like they're enzymes. They're not like long-term, slow-changing structural adaptations of your body and your muscles and whatnot. You're just making a protein in your cell.
+
+79
+00:34:50,560 --> 00:35:12,912
+and this takes like a couple hours and by the time you've recovered your glycogen stores which is a couple days you're going to see immediate improvements and in my coaching experience this is exactly what happens and it's also borne out by the science but I think that just about covers it for today doesn't it? Yeah I think so you know I think people
+
+80
+00:35:12,912 --> 00:35:42,784
+People hopefully have a better understanding of what exactly is both the origin of high-intensity interval training, so maybe this kind of seminal Tabata study. Now hopefully people have also understood a little bit more of the finer details to picking up a workout protocol and also figuring out how they can sub them in maybe for some of their more traditional VO2 max or FTP work.
+
+81
+00:35:42,784 --> 00:36:12,384
+episode, the episode two, is that doing too much of this style of work, you know, because we've just been talking about how the recovery periods allow you to work anaerobically at the beginning of each interval more, so now you're really digging into your carb stores and these things when done kind of recklessly. So what you're saying is then also you do potentially run the risk that we talked about earlier where
+
+82
+00:36:12,384 --> 00:36:37,280
+If you are doing too many anaerobic workouts, your aerobic performance could start to suffer. And if your race is longer than, I don't know, five minutes, this is going to be a problem for you. It could potentially be a problem for you. Yeah, it could potentially be a problem for you. And this is just a lot more stuff for future episodes. We're really going to dig into this stuff.
+
+83
+00:36:37,280 --> 00:36:55,200
+Alright, okay, and so I want to thank everyone for listening, and I appreciate everybody's feedback and response. You know, please subscribe, we are on Stitcher, we're on iTunes, we're on SoundCloud, and the RSS feed is published on the website.
+
+84
+00:36:55,200 --> 00:37:16,064
+under the podcast notes. Podcast notes from today are at empiricalcycling.com under podcast episodes. All questions and coaching inquiries, please send to empiricalcycling at gmail.com. And also thank you again for the donations. If you think the coaching that you just got was worth a couple bucks and you find some improvements in yourself,
+
+85
+00:37:16,064 --> 00:37:35,664
+If you've got a spare dollar, we would love to have it, so head over to the website again, and there's a donations page, and we are forever grateful, and that's what keeps us doing this. Not really. Yeah, we would be doing this no matter what. Thanks, everybody. Thanks, everyone.
+

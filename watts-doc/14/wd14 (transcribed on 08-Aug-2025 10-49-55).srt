@@ -1,0 +1,300 @@
+1
+00:00:00,272 --> 00:00:18,400
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my host, Kyle Helson, and I want to thank everybody for listening, and I want to ask you to please subscribe to the podcast if you have not yet already. And remember that we are an ad-free podcast, so if you want to donate to the show to support us, you can go to empiricalcycling.com slash donate.
+
+2
+00:00:18,400 --> 00:00:42,800
+and we've got the show notes for this episode up on the website at empiricalcycling.com and for any coaching and consultation inquiries or questions or comments you can please email empiricalcycling at gmail.com also Kyle has set up some merchandise so you can get t-shirts and mugs and stickers and bottles and all that kind of good stuff at empiricalcyclingpodcast.threadless.com we also have a link up on the Empirical Cycling website under the podcast episodes
+
+3
+00:00:42,800 --> 00:01:07,136
+Today, we are talking about FTP training and what I consider the first rule of FTP training. Kyle, so tell me about what it kind of looks like FTP training is to the general public as we see it these days. I think the most common thing people think about when they think about FTP training is the classic 2x20 workout. They think like, oh...
+
+4
+00:01:07,136 --> 00:01:34,288
+I'm going to go, I'm going to do 2x20 and it sucks and it's hard, but it is known to be effective pretty much by almost anyone I think who's ever done sort of semi-structured training even or done any of those sort of cookie-cutter training plans that you can buy or download or whatever for free or paid, whatever. A lot of times there's the focus on either 2x20
+
+5
+00:01:34,288 --> 00:02:01,584
+or there's a lot of quote-unquote sweet spot workouts that are supposed to be, you know, touted as this nice zone where you can get more volume in and it isn't excruciating but it is high enough or close enough to FTP that it will raise your FTP. Yeah, and a lot of people I think find sweet spot to be like a lot more accomplishable than an FTP workout but if that's you, I think your FTP is set too high.
+
+6
+00:02:02,160 --> 00:02:29,504
+because FTP workouts should be very accomplishable. I think what happens is you get people who are thinking that the difficulty that goes into a 20-minute FTP test, like, oh, they associate with this, like, 20-minute test with this very painful, very mentally very hard activity and then kind of think that that's what FTP should feel like.
+
+7
+00:02:29,504 --> 00:02:57,696
+Yeah, or like, you know, 5% easier than that. Sure, yeah, yeah, yeah. Although, you know, I think actually we touched on this briefly in the What's So Special About 2x20 episode. And, you know, basically the conclusion in that episode was that 2x20 is this like perfect middle ground workout. Like it's not too short, it's not too long, like you can do it an hour. A lot of people find that, you know, 2x20s like increase their FTP. That's great.
+
+8
+00:02:57,696 --> 00:03:26,512
+But there's more stuff to it than that because, like, here's a little preview of what we're going to talk about later on in the episode is what I've found with a lot of people who are doing, like, you know, Trainer Road or the typical 2x20, FTP or Sweet Spot or whatever, what I hear from them, like, almost always is my progress stalled out. All the workouts they gave me, I wasn't going anywhere. So we're going to talk about what to do to get through that.
+
+9
+00:03:26,512 --> 00:03:54,320
+And this is basically what I do with 100% of my FTP training with all of my athletes are guided by one basic principle, which actually guides all training principles. It's really universal. What is FTP? So FTP is your power output or your work rate at maximal lactate steady state.
+
+10
+00:03:54,320 --> 00:04:20,096
+And that being the maximum rate at which you can ride without your blood lactate rising. Some papers do testing, they'll allow some movement of lactate, some will not. Okay, so why is FTP important? Now, the biggest thing to me about why FTP is important, it determines the highest metabolic load that you can sustain continuously before rapid fatigue.
+
+11
+00:04:20,096 --> 00:04:47,936
+Any higher than this, you know, you're going to fatigue a lot faster than if you're at that power level or a little lower. So it should be noted that I'm saying metabolic load, quote unquote, rather than what we typically see in, you know, from Andy Coggin or Hunter Allen, you know, or specifically Andy Coggin, who says quasi-steady state because it applies to intermittent efforts to like a criterion, which is very not
+
+12
+00:04:47,936 --> 00:05:08,032
+Close to a quasi-steady state. Or even like a team sports game like hockey or soccer and football. FTP or MLSS, Maximal Lactate Steady State, is the highest ability to maintain your ATP supply aerobically. Above this power output, metabolism is going to quantitatively change.
+
+13
+00:05:08,032 --> 00:05:37,040
+But FTP is still very relevant to this high-intensity training or repeated sprints kind of thing. So if you want to know more about that, listen to Wattstock, I believe it was number two. So what is this guiding principle to help us increase our FTP? What is it that is going to let us best train this most important parameter? The answer is, of course,
+
+14
+00:05:37,040 --> 00:06:05,648
+Progressive Overload. So progressive overload is the idea that in order to get better or improve some sort of physiological ability, you have to keep pushing your body to do a little bit more either in intensity or volume or both over a long period of time. Conversely, it's the idea that if you are
+
+15
+00:06:05,840 --> 00:06:35,536
+Only doing the exact same workout every week, you will see results up to a certain point until that is no longer enough stimulus for your body to actually be like, hey, that was hard, we need to build better physiological processes or more efficient or whatever. A really, really basic example is the probably very well-known introductory strength training program called Starting Strength, where
+
+16
+00:06:35,536 --> 00:07:04,240
+You go in and you do squats, bench, and deadlift, and the workouts are designed toward the very, very, very new lifter, so you're able to actually go in, and every workout you do three sets of five, and every time you go in, you add five pounds to the lift that you do. So you figure out where you start out, say it's 95 pounds, well then you're so new that the next time you can go in, you're going to be able to do probably like 100 pounds on the squat.
+
+17
+00:07:04,240 --> 00:07:24,928
+et cetera, et cetera, et cetera. And this works for months on end. And this is like the most basic progressive overload where you're just lifting the same reps, but a little bit more weight every time you go in. And conversely, you could look at doing, instead of increasing weight, you could look at something like increasing volume, which would be like add sets.
+
+18
+00:07:24,928 --> 00:07:51,536
+or reps, or you add weights. So you're looking at either increasing the amount of weight that you can lift for five reps, or instead of lifting for a certain weight for five reps, you're going to do it for six reps. Or instead of doing three sets of five, you're going to do four sets of five, or five sets of four, or something like that, where you actually get more total lifts in at that weight.
+
+19
+00:07:51,536 --> 00:08:12,704
+Yeah, that's actually a really good example that actually parallels what happens with FTP training very nicely. So a lot of people doing trainer road programs or just basic 2x20s and stuff like that, when you hit that plateau, you're at the end of your FTP version of starting strength. To talk about how we...
+
+20
+00:08:12,704 --> 00:08:42,511
+Progressively Overload FTP Training. We're going to look at one study very briefly in about half the usual amount of detail, but it illustrates the point of this episode very nicely. So the study, the link is up on the website to the PubMed page as always. It's titled, Training Effect on Performance, Substrate Balance, and Blood Lactate Concentration at Maximal Lactate Steady State in Masters Endurance Runners. Here's the breakdown of this paper.
+
+21
+00:08:42,511 --> 00:09:09,072
+So the subjects had been doing steady state endurance runs, 63 plus or minus 17 minutes average, an hour plus or minus 20 minutes is the standard deviation, so probably like we could call it like a half hour to two hours, five times a week. And they were looking to improve because they had all kind of plateaued. And they're not slow athletes. They're half marathon time, you know, for like...
+
+22
+00:09:09,072 --> 00:09:38,912
+I think they were about 50 average age. Their half marathon time is an hour 23. Wow, that's pretty good. They're pretty quick. And what they did was they replaced their two shortest runs with intervals at FTP. So they did six weeks of this. They found the velocity that they would run at at Maximal Lactate Steady State and they tested the lactate for this. And then they just kept running at this pace.
+
+23
+00:09:38,912 --> 00:10:08,704
+So what they did was they did six weeks of this. So twice per week is how often they did the workouts. And they did either two or three intervals for a total of 30 minutes the first week, 36 minutes the second week, 42, 48, 54, 60. So the intervals broke down into like three by 10, then two by 15 in week one, three by 12, two by 18 in week two, et cetera, et cetera, et cetera.
+
+24
+00:10:08,704 --> 00:10:37,952
+That's, it's pretty simple training. It's really, it's really cut and dry. So what physiological parameters changed and, you know, why is this good for cyclists? Like, can we really use this study for cyclists because it's on Masters Runners? The answer is yes. And a lot of studies that I've seen like this on, you know, untrained people and moderately trained and, you know, well-trained, et cetera, et cetera, they all come down to about the same exact improvements.
+
+25
+00:10:37,952 --> 00:11:07,792
+So with their FTP, their FTP went up. The power is not reported, but the pace was. And their average velocity went up from 13.8 to 15.2 kilometers an hour. So we cannot extrapolate power from this reliably, but, you know, it definitely went up. The length of time that they could hold their FTP got longer, 44 to 63 minutes. That's a big change, yeah.
+
+26
+00:11:07,792 --> 00:11:33,312
+You know, that's 50% longer. Yeah, and they could do it at that higher power output. To me, this is why it's important, like this aspect of FTP is really, really underlooked by most cyclists and even a lot of coaches. It's important to extend FTP because, you know, like we talked about, you can perform at your maximal
+
+27
+00:11:33,312 --> 00:12:00,944
+Steady State Metabolic Load for longer. So if you're going to go from, you know, if you're upgrading from like, you know, your cat three and cross to cat two or something like that, and now you're going from a 40, 45 minute race to a 60 minute race, you know, you're going to want to be able to hold that extra 20 minutes. So, you know, instead of two by 20s, you're going to want to start doing three by 20s and stuff like that. So the VO2 max for the athletes in this paper went up.
+
+28
+00:12:00,944 --> 00:12:29,824
+from 66.6 to 68.8 milliliters per kilogram per minute. FTP stayed at 85.2% of VO2 max with no increase or decrease. Kyle, and you remember the episode we did on relationship between FTP and VO2 max, right? Yeah. Yeah, so, and that was, that's a pretty high FTP relative to VO2 max. Yeah, usually you think like the, typically you think the fitter you are,
+
+29
+00:12:29,824 --> 00:12:56,768
+the either, you know, you would imagine that that percentage would go down, maybe, but I forget exactly what the other study found, but the high values were closer to 90, and I forget what the lowest value was like. Yeah, it was like 60. 60, yeah. I was going to say it was really low, because it was a large range. Yeah, it might have been below 60. Don't quote me on that.
+
+30
+00:12:56,768 --> 00:13:23,600
+Yeah, and so 85% on average for these athletes is really good. And I would imagine that they range from like 80% to 90%. And the highest value I've ever seen reported is 90%. I bet somebody out there is at like 91%. So that's pretty good. Sometimes FTP training doesn't always raise FTP relative to VO2 max. And if you're in WKO5,
+
+31
+00:13:23,600 --> 00:13:46,704
+We typically see the modeled FTP and the modeled VO2 max go mostly hand-in-hand. And according to this study, that actually bears out in reality. RER, so that's our respiratory exchange rate, which is carbohydrate and fat use relatively. So RER in this study, I thought, was actually very well done compared to a lot of other studies.
+
+32
+00:13:46,704 --> 00:14:10,288
+and what happened with RER so the carbohydrate and fat use at FTP so before and after training there was actually no change so at FTP the average for all athletes was 0.93 RER or about 83% carbohydrate use so this is despite increased power output
+
+33
+00:14:10,352 --> 00:14:38,544
+and not only that but also evidence of the slow component. We'll talk about that in another episode in great detail. So this real quickly is the rise in heart rate and oxygen consumption during long steady state efforts. You know stayed very very steady on average and also it stayed steady throughout their testing of FTP slash MLSS. So I thought that was really interesting. I actually had not seen that reported in a study before but these athletes stayed
+
+34
+00:14:38,544 --> 00:15:05,104
+using about 83% carbohydrates at FTP. So generally in well-trained populations, we see a range actually of 50 to 100% carbohydrate use at FTP. So, you know, the average right in the middle is actually fairly well expected. And they calculated non-protein use for the nerds out there and the average drops to about 80% plus or minus 12%.
+
+35
+00:15:05,136 --> 00:15:34,160
+So, again, pretty decent range. This is all at the same intensity relative to FTP, that is, say, like 100%. So, in other words, at their quote-unquote old FTP, you know, what was it, the 13.8 kilometers an hour, their fat combustion went up substantially. I mean, don't you see this could be, like, hugely advantageous as a cyclist or any endurance athlete?
+
+36
+00:15:34,160 --> 00:16:03,568
+Yeah, so you can imagine if your FTP goes from 200 to 250 watts and sitting in the bunch, you're only at 190 watts. Well, when your FTP was 200 watts, you were suffering and it sucked the whole time. And now if your FTP is 250 watts, then you can sit there at 190 watts. You don't have to be as concerned about blowing up and bonking because you're going to burn more fat and you have like, you know.
+
+37
+00:16:03,568 --> 00:16:31,440
+thousands and thousands of calories of fat in your body regardless compared to how much glycogen you carry. And the amount of time that you can just sit there at 190 watts when your FTP is 250 watts versus the amount of time you can sit there if your FTP is 200 watts is significantly larger. Yeah, definitely. And actually, that's one of the things that I've talked with my athletes about. They come home from a race and they're like, man, that sucked. I got to get used to. I got to get better.
+
+38
+00:16:31,440 --> 00:16:58,592
+at doing all these really, really hard efforts. And I'm like, no, we need to raise your FTP. Because if your FTP were 30 watts higher, most of that race would have been very accomplishable. All right. So you can imagine someone's FTP goes from 200 to 250 watts after some structured training. You've now actually moved what used to be your old FTP down to a tempo ride. Yeah.
+
+39
+00:16:58,592 --> 00:17:26,112
+Yeah, and so if your race, like, you, like, average or normalize 200 watts and your FTP goes up to 250 watts, like, you are going to be breathing through your nose until the last lap. So a lot of other parameters were reported in this study, but they're not relevant to us right now. Okay, so this study and all of the other ones like it that I've seen show almost all of the same things. So FTP training increases FTP and sometimes VO2 max.
+
+40
+00:17:26,112 --> 00:17:53,728
+Although I wouldn't always expect it to increase VO2 max depending on how well trained you are, et cetera, et cetera. And it does progressive overload by adding time to intervals. So let's talk about that by thinking about FTP itself. So FTP has two dimensions, how much and for how long. Intensity versus duration or in units, watts versus minutes.
+
+41
+00:17:53,728 --> 00:18:23,264
+So I don't think we can talk about FTP, you know, even though we do oftentimes, in the context of actually thinking about our physiology and our training, and as it relates to our racing, we cannot think about FTP as a single number, like 250 watts. Because in my experience, most amateur cyclists can really only hold their FTP for 35 to 45 minutes until, you know, we do some focused training to extend that.
+
+42
+00:18:23,264 --> 00:18:52,960
+So for a lot of athletes, quote unquote, one hour power is honestly not accomplishable by many cyclists, even ones who consider themselves very aerobic. But holding FTP for an hour or longer, I think should be a goal for any good cyclist. Given all this, what's our number one rule of FTP training? Of course, like you didn't see it coming, it's progressive overload.
+
+43
+00:18:52,960 --> 00:19:16,528
+Friel's Cyclist Training Bible. He may not actually use the phrase progressive overload, but he definitely talks about all of the components to progressive overload. As do a lot of other, you know, sort of how to coach yourself books on from lots of other sports. Yeah, they definitely do. And if they don't, then you can, you know. You should ask for your money back.
+
+44
+00:19:17,168 --> 00:19:45,360
+Alright, so let's think about why this study added time to intervals. So how were they able to control progressive overload in this way? So let's think about what happens when your FTP power goes up or your TTE goes out. So your power curve gets higher, you can do more watts, or your duration of FTP moves out. So therefore, to improve FTP, we need to quote-unquote chase.
+
+45
+00:19:45,360 --> 00:20:10,304
+One or the other. So in my experience and in the experience of these scientists, it's easier to chase your TTE, your Time to Exhaustion, how long you can hold your FTP, because, you know, honestly, it's easier than retesting FTP every week, which may not even be measurable, honestly, considering power meter error. So if your FTP goes up like two watts in a week,
+
+46
+00:20:10,304 --> 00:20:37,776
+but your power meter error at your FTP is like 8 watts then you have no way of really knowing that you're getting faster and nobody wants to do another FTP test every single week oh my god I think adding time feels like a much more natural route to add stimulus you can imagine that
+
+47
+00:20:38,960 --> 00:21:06,320
+Doing more intensity is extremely painful. Like, oh, this week I did 2x20 at 98%, now I'm going to do 2x20 at 102%. Well, is that second 20-minute interval accomplishable after you've done the first one? Well, and my thought is not only that, but it's like, you know, are you sure it's 102%? That's true, yeah.
+
+48
+00:21:06,320 --> 00:21:28,992
+So the safe way to do it and the easy way to do it and the accurate way to do it is to stick with the same power intervals of the same duration. Alright, and so what happens if you stick with the same power intervals with the same duration? So it means you're not going to challenge your body's two parameters of up.
+
+49
+00:21:28,992 --> 00:21:55,664
+or out of more watts or more time? Because let's think about what happens for somebody who's at 250 watts FTP for 40 minutes. And you do a couple 2x20s at 250 watts, great. But your body either needs like 255 watts now or it needs to do 50 minutes.
+
+50
+00:21:55,664 --> 00:22:24,272
+And you can kind of think about your power curve of like what can you do moving away from this point of 40 minutes at 250 watts. You know, we can think about it moving away in terms of height, like, you know, of the power curve, like watts are going up, or, you know, the time to exhaustion is going out. And so it gets further and further away from this 40 minutes at 250 watts. And so that's one of the reasons that programs stall out.
+
+51
+00:22:24,272 --> 00:22:50,512
+It's because, you know, your body's capable of doing so much more and you need to stress it. And sticking with the same power intervals of the same duration means you're not going to challenge it either way. And this is where the lifting analogy is really good. Like in lifting, you know, once starting strength gains go away, you've got to add weight, you've got to do other stuff, you've got to add reps, you know, programs can get pretty complex. The other analogy would be...
+
+52
+00:22:50,512 --> 00:23:17,648
+How many cups of coffee you drink in the morning? You know, when you first start out, you have one cup of coffee in the morning and it's great. And then you realize that the one cup of coffee is not quite giving you that same thing as it used to. There's definitely a drugs analogy to be made here too. So then when you're on your 12th cup of coffee that morning. All right. And so it wasn't explicitly addressed in this study, but
+
+53
+00:23:17,648 --> 00:23:46,880
+I think they added time because one of the things that you do in science is you doubt yourself. And so, you know, so what happens if one of these athletes' FTP does not go up? They didn't report whether individually anybody's didn't go up. But what if somebody didn't? And, you know, you've got to increase your, you know, basically your power output, like five or ten watts every week. You know, like if you do six weeks at five watts each week,
+
+54
+00:23:46,880 --> 00:24:11,952
+Yeah, so that's 30 watts. And unless your FTP goes up 30 watts in six weeks, which if you're kind of new or you're just getting off the couch, it's not unheard of, for sure. But if you're pretty well trained, that's going to be questionable. And so it's safer to add stimulus to increase your overload by adding time.
+
+55
+00:24:11,952 --> 00:24:39,552
+It's a safe way to do it. You don't have to retest every week. And this is how I do it. And this is how a lot of coaches do it. And if you're finding yourself kind of stalling out, this is the way that I would go. If you're doing 3x15s or 2x20s, add another interval. And if you're scared of adding more interval time, break it up further. Like I said in the 2x20 episode, I think about 10 minutes is the shortest duration.
+
+56
+00:24:39,552 --> 00:25:04,128
+that I would do FTP training for with like a three to five minute rest. The other thing is that metabolism changes quantitatively and qualitatively over FTP. And so we're looking at an FTP or MLSS as a training stimulus. And so staying at or below this physiologic level.
+
+57
+00:25:04,128 --> 00:25:16,272
+is going to be more or less the same stimulus. So if you're 10 watts below FTP, this stimulus is closer to FTP than being 10 watts above FTP. That's also like the...
+
+58
+00:25:16,272 --> 00:25:45,504
+foundational principle behind the idea of sweet spot training is that it is close to FTP, but it is not over FTP because that's grueling and it's not so low like zone two talking the whole time ride that you don't get as much stimulus out of it. Yeah, that's a good thought also. So let's now think about some concrete examples of FTP training and how we might program this. The first thing that I do is I start with an FTP test. I start every training block.
+
+59
+00:25:45,504 --> 00:26:14,000
+for FTP with an FTP test. And so we get not only an FTP, but we also get a time to exhaustion. And I look at this time to exhaustion as the basis for assigning intervals. So if someone tests at 40, 45 minutes, which is extremely common, we're going to start with four by 10 minute intervals at FTP with three minute rests. And then we're going to progress that.
+
+60
+00:26:14,000 --> 00:26:41,888
+2, 3x15, 2x20, etc., etc. We're going to extend out like that. So if someone tests at 55, 60, 65 minutes, we're going to start with maybe 6x10 or 3x15 minutes, and then we're going to add not only continuous interval time like they did in the study. So they started with 3x10, 2x15. The way I usually approach it is we'll do something very similar. So it'll be, you know,
+
+61
+00:26:41,888 --> 00:26:56,112
+So for an hour TTE, we'll go like 6 by 10, 4 by 15, or maybe even like 5 by 12. And then, you know, we might even do like 6 by 12 or 7 or 8 by 10. And then we'll gradually...
+
+62
+00:26:56,112 --> 00:27:17,200
+Reduce the Rest Periods. So like a 2x20 or a 3x20 is actually going to become a 1x40 or a 2x30 or a 1x60. And then typically as somebody can hold their FTP longer and longer, we try to challenge them a little more in this way.
+
+63
+00:27:17,296 --> 00:27:36,064
+So another piece of information that I have that I think about a lot when I'm assigning FTP training to people and assigning any kind of aerobic training is I'm thinking about the actual adaptation pathways for aerobic stimulus.
+
+64
+00:27:36,064 --> 00:28:06,000
+We'll do a Super Nerd episode on it later, but for now, just know that the things that cause aerobic adaptation, you generally do not find by increasing power. So, going over FTP, especially when you cannot hold that power nearly as long, this is not going to help you. I would say that 3x10 minutes just over FTP is just as effective as 3x10 minutes,
+
+65
+00:28:06,000 --> 00:28:34,384
+at FTP. You can just hold it a lot longer at FTP and just below it. And it's actually one of the things that does cause aerobic adaptation is spending more time riding and challenging your body. And if you can spend less time doing it by riding over FTP, you're not challenging it as much as you would be riding more time at or below FTP.
+
+66
+00:28:34,384 --> 00:29:00,272
+Like I said, we're going to do another big episode on that later. But for now, just consider that piece of information when you are doing your own FTP intervals. And so all that together, I promise that you will see results. And so I said, we may not want to increase power for our FTP kind of stuff, but in a way,
+
+67
+00:29:00,272 --> 00:29:24,768
+We can increase our metabolic load not knowing how far our FTP has actually gone up. So the way that I do this is we do over-unders or workouts with bursts or accelerations and that kind of stuff. So I guess when doing it with FTP, it's going to be like a...
+
+68
+00:29:24,768 --> 00:29:53,360
+It's not like an over-under, it's like an over-at. Since the focal point of determining what's over and what's under is actually FTP, I would say 99% of the time. That's the thought. So for instance, like a 2x20 or a 3x20 workout, or maybe even a 2x30 workout would be something like, you're going to ride it just about FTP or a couple watts below FTP, maybe 5 or 10 watts.
+
+69
+00:29:53,904 --> 00:30:19,568
+And every, say, like five minutes, you're going to sit in the saddle, you're going to shift up a gear, and you're going to hammer your eyeballs out for 10 seconds, and then you're going to go right back to FTP. And what we're doing here is we are just, you know, we are increasing our metabolic load. And we're going to do this every five minutes, so we'll do a couple, and then one of the ways that we can progress this is by...
+
+70
+00:30:19,664 --> 00:30:47,824
+changing the length of these things or we can change the density so we can make them more often during the interval or we can make them happen less often. So like I said, this increases the metabolic load and so even if it doesn't raise FTP, it's certainly going to help you prepare for race type efforts but a lot of the time I find that this is actually a very good way to also increase FTP.
+
+71
+00:30:47,824 --> 00:31:02,848
+I also think workouts like that are typically a nice small distraction if you're stuck on the trainer doing them indoors because you're like, oh man, if I have to just stare at my Garmin screen as it counts up to 20.
+
+72
+00:31:02,848 --> 00:31:30,176
+Again, I'm going to like chuck it all out the window. And at least if you're like, oh, you can kind of chunk it up. Oh, in four minutes, in 45 seconds, I have another acceleration or whatever. Like, oh, you can kind of pace your way through it that way. And it gives you sort of those intermediate markers as opposed to just like, you know, how many minutes has it been again? Still another 10. Oh, I got to like scroll past that screen so I don't keep looking down every time, you know. Do you have any concluding thoughts?
+
+73
+00:31:30,176 --> 00:31:58,400
+Buy stuff with our logo on it. Who doesn't want to stick our logo on stuff? Our tiny logo. Yeah. All right. So as always, I want to thank everybody for listening. Remember to please subscribe if you have not. And if you're enjoying the episodes and you love the podcast, please head to iTunes and give us a good rating and a review. That really helps us out. It really helps get more people listening through iTunes, related podcasts and whatnot.
+
+74
+00:31:58,400 --> 00:32:26,688
+And also tell your friends about the podcast if you're liking it. You know, I hope this was a little less nerdy and a lot more applicable to everyday training. That's how we're going to do the next couple episodes. And don't quote me on this, but we may do the next episode on training VO2 max. So that should be awesome. If you want some Empirical Cycling podcast merch, the link is also up on the website under podcast episodes, along with all of the show notes from today.
+
+75
+00:32:26,688 --> 00:32:47,984
+You can follow me on Instagram at empiricalcycling and Kyle Helson at khelson10. As always, if you've got any questions or comments or coaching and consultation inquiries, you can please send an email to empiricalcycling at gmail.com. And with that, I hope everybody has some really good FTP training. See you around.
+

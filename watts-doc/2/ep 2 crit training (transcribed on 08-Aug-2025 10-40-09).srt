@@ -1,0 +1,388 @@
+1
+00:00:01,264 --> 00:00:30,320
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. I'm joined again by Kyle Helson. And today we're here with some really bad news for everybody. You're training too hard for criteriums. But this is also good news because it means you don't have to train quite as hard. But before we dive into that, first episode on FTP testing, we brought up something seems to be true because a lot of people seem to know it. And so, Kyle, why don't we open up with that?
+
+2
+00:00:30,320 --> 00:00:57,856
+Google skills. It looks like we're thinking of the illusory truth effect or the validity effect, reiteration effect, something like that, where people believe something is true because they've heard it a lot. All right, so now we have a name for that, and we may actually have another case of that today with criterium training. But in all fairness, it's kind of logical to overtrain for a criterium, to train too hard, to do too many anaerobic efforts, to do too many sprint efforts.
+
+3
+00:00:57,856 --> 00:01:27,232
+Let's go over the demands of Criterium. Okay, well, I feel like everyone at first is going to say, you need to be able to sprint, you need to be able to go fast, you need to be able to turn your bike, usually lots of corners, and you need to be able to do repeated sprint efforts because you accelerate and decelerate around every corner. What's the number one rule in training? It's be specific to your target event. So if your target events are Criterium, it makes sense to do a lot of hard sprint and anaerobic intervals, right?
+
+4
+00:01:27,232 --> 00:01:56,208
+Right, yeah, and especially the closer and closer you get to a race, you think, okay, farther away from your race, the more general, the more basic, the more simple training is, and the closer you get to your goal event or your goal race, the more and more your training should be like that event. Alright, now what if you're one of those people who feels like, you know, I don't have a good sprint, I don't have a good one-minute power, and those are the kind of things that'll win me a criterium in a bunch sprint at the end.
+
+5
+00:01:56,240 --> 00:02:25,744
+I'm going to go starting in December with these types of intervals. Do you know a lot of people do that? Yeah, so you're going to think, oh, these are my weaknesses and I'm going to really, really try to work on my weaknesses this off-season or this winter because that's a good time. You're farther away from your goal races and you can really put in a lot of hard training that you don't have to worry about being fresh on the weekends. And that's, you know, a perfectly reasonable way to approach it.
+
+6
+00:02:25,744 --> 00:02:54,480
+Except in a lot of cases, did we talk about responders and non-responders in the last episode? No, I don't think so. Okay, so most people are responders to most types of training. So if you're most people, and there's going to be a lucky few who end up being world tour pros and whatnot, who just don't respond to sprint and anaerobic interval training,
+
+7
+00:02:54,480 --> 00:03:23,840
+And they can do a lot of these things and get nowhere, and it's not going to affect them. And we're going to get into how it affects people in a little bit. But most folks, when they go out and do your 15-second sprints, you do your repeated sprint intervals, you do FRC or anaerobic work capacity type efforts, you do see a really, really good response in your anaerobic power.
+
+8
+00:03:23,840 --> 00:03:51,680
+Right? Yeah. Okay. Yeah. I think there are also people love them and also hate them because they're some of the intervals and the workouts that probably hurt the most, but you finish them and you feel like you definitely know you've got a good workout in. And I think people incorrectly associate with how crappy they feel after a workout with how good it's going to make them later on.
+
+9
+00:03:51,680 --> 00:04:16,495
+And you and I have had a running joke about this, too. Like, this is the American work ethic. Yes. Have you tried to pedal your bike harder? Just pedal harder? Oh my god! Is this the secret to my coaching success? Is I just tell people to pedal harder? Imagine if you could drive next to someone, angry, director sportif style, in the middle of a...
+
+10
+00:04:16,495 --> 00:04:46,176
+a Grand Tour, right? You just yell, pedal harder to people. Up, like, Von II and stuff. And would it work? That's a very good question. I feel like a bottle thrown at you. Mark Matteo style. Right, yeah. Yeah, so just pedaling harder does not necessarily work. And I, you know, I've consulted with a lot of people and I've seen a lot of training programs where this,
+
+11
+00:04:46,176 --> 00:05:15,632
+does seem to be the case. So, you shouldn't necessarily correlate with the difficulty of workouts, like anaerobic workouts, HIIT workouts are really hard. It doesn't necessarily mean that doing a lot of them is going to be better just because they're hard. It doesn't mean that they're going to be beneficial just because they're hard. Yeah, isn't that how, isn't that how, like, CrossFit, um, isn't that their attitude? Not to shit on CrossFit, but I'm totally shitting on CrossFit. Isn't that the attitude?
+
+12
+00:05:15,632 --> 00:05:41,680
+Yeah, yeah, their attitude is definitely like, oh, we work really hard, no one works harder than us. I mean, they call the person who wins the CrossFit games the fittest person on earth. And maybe the fittest for, like, CrossFit, but I don't think they're going to make it to the end of the tour. Yeah, okay, so maybe I should take a second to spell out the unintended consequence of too much anaerobic training.
+
+13
+00:05:41,680 --> 00:06:09,088
+is that you're actually training your body to be more reliant on carbohydrates at all intensities. I mean, this includes FTP, this includes endurance, this includes VO2 max, like everywhere you are more reliant on carbohydrates because what you're doing is you're taking your muscles and you're training them to burn more carbohydrates by doing these high-intensity efforts and so you actually develop more machinery.
+
+14
+00:06:09,088 --> 00:06:33,344
+to burn through carbohydrates than if you were doing more focused aerobic and endurance type training. So what happens is you actually get to the end of a race and you are so depleted of glycogen stores that your FTP, it doesn't really work like this, but it effectively drops. Your sprint power drops, your one minute power drops, everything drops.
+
+15
+00:06:33,344 --> 00:07:01,456
+So you get to the end of a race if you're too well anaerobically trained and you've got nothing left. And this is why, you know, some really good sprinters make it to the end of a race because they hide well. But, and this is a strategy aspect. And, you know, if this is you, then you need to do that as your criterium strategy. Except now the difference between most of us and really good pros
+
+16
+00:07:01,456 --> 00:07:20,880
+is that really good pros are so reliant on oxygen that they can do, you know, they can race for, you know, 3,000 kilojoules worth of work and they're not going to see that big of a hit in their 5-minute power, their 20-minute power. Usually 30-40 second power takes a decent hit.
+
+17
+00:07:20,880 --> 00:07:45,264
+and sprint power is probably not going to be too different. You know, we've all seen Andre Greipel do 1900 watts at the end of a race and this is because he's really reliant on oxygen and he's got a lot of his glycogen stores left at the end of that race. And so how much training is enough to make you too reliant on carbohydrates?
+
+18
+00:07:45,264 --> 00:08:11,152
+Well the answer is it depends on the person but I think for most people once a week for several months is probably enough to be a problem. So I started coaching an athlete last fall and I was looking at his old training program and every single Tuesday he was out doing hard anaerobic efforts and this is for months because his anaerobic power wasn't that good and his coach figured he needed to work on it.
+
+19
+00:08:11,152 --> 00:08:38,159
+and so he was going out and doing these efforts and he was never able to really do many aerobic rides like he would get assigned tempo rides and threshold and he would just kind of fail a lot of them and he wasn't really having good races because what was happening was he was so reliant on carbohydrates that he couldn't really make it to the end of a road race and or even a criterium and be competitive he was just gassed
+
+20
+00:08:38,159 --> 00:09:07,168
+and we're now a couple months later and he just had his first set of races this weekend and he doubled up and he felt great on all of them and he set power records for between 30 seconds and about 30 minutes in both his first and second races. So he was much more reliant on oxygen and he was much more aerobically trained.
+
+21
+00:09:07,168 --> 00:09:36,432
+which meant he could double up in criteriums and do both a three race and a one, two, three race and, you know, and not just be hanging on for dear life in both of them. So, yeah, so too much anaerobic training is not always better. So you're saying that, you know, just because workouts are hard doesn't mean that they're more of like hard workouts are good, more hard workouts are not necessarily better.
+
+22
+00:09:36,432 --> 00:10:05,056
+No, that's a horrific idea. I actually did a consultation for someone who had been coached by a certain person who shall remain nameless, and he parted ways with this coach, and he decided that in order to get even better, he was pretty much going to double the workouts that he was doing. And this is like mid-
+
+23
+00:10:05,056 --> 00:10:34,320
+Cyclocross season. So he's racing really hard on the weekends, and he's training really hard in the middle of the week. And, you know, during our consult, I said, take next week easy. Just, like, spin easy, do some technique work, do some endurance riding, and, you know, don't even do openers before your race. Like, just get to your race, do a long, solid warm-up, do some good course preview. And he did.
+
+24
+00:10:34,320 --> 00:11:03,856
+And suddenly he went from like, you know, like 30th, 40th place out of 50 to 80 people to like, he got his first top 10. Nice. And he kept going like that, et cetera, et cetera. So he stopped training quite so hard and he rested and he got faster. I wonder if there's a correlation here. So I think this is the, there's a couple, probably a couple things.
+
+25
+00:11:03,856 --> 00:11:32,464
+at play here. One of them is that, you know, just going out and thinking, I'm going to get faster by doubling the amount of work you do. That is definitely true, especially if you do it in a thoughtful and pre-planned manner, like, oh, in a year, I want to be able to do twice as much work. That's fine. But just going out because you feel like you're just going to double your workouts, like that's definitely a recipe for disaster. And oftentimes it is.
+
+26
+00:11:32,464 --> 00:12:01,536
+And this is one of the pitfalls of a lot of self-coached people. And not to rag on America too much, but this is a very American work ethic is, you know, we're going to work harder, we're going to work longer, you know, we're going to pedal our bikes harder just by sheer will, by, you know, good old American work ethic that builds, you know, indestructible Ford trucks, which I would, if I ever off-roaded, I would totally get an F-150 Raptor, no question.
+
+27
+00:12:01,536 --> 00:12:29,600
+But one of the big problems that happens here is that now people start overworking, is that people start doing too many anaerobic intervals, they do too many high-intensity things, and this leads to burnout. Like my first year training myself, which was my first year bike racing, I had a severe case of overtraining because I did exactly this. I did exactly this. I was, you know, I decided, I looked up,
+
+28
+00:12:29,600 --> 00:12:59,360
+All of the hardest workouts in the back of training and racing with a power meter. I wrote down a very ambitious schedule. And you did them all over and over and over again. I did them all for about two months. And then the wheel started coming off the wagon. I got to my goal race of the season, my first race, which was bat and kill. And I pretty much died about 12 miles into that 60-something mile race. And I spent the rest of the race
+
+29
+00:12:59,360 --> 00:13:28,432
+Slogging up these dirt hills at like five miles an hour because I had just over-trained myself. Oh, for sure. Now we're doing a podcast and over-training. And so after having trained myself so hard and having blown up so spectacularly, I actually spent like four months off the bike entirely. And that's how I solved that. And I didn't even know if I was going to go back into bike racing. I didn't. I just dug...
+
+30
+00:13:28,432 --> 00:13:58,208
+The Hole So Deep. I think the other thing that you get in there is that the other unintended consequence of the anaerobic, hard, high-intensity interval training efforts is that it does teach you mentally to be able to dig really, really deep. And that means in a race, you're going to be able to dig very deep and too deep, in fact, to be able to recover. Because I've done that.
+
+31
+00:13:58,208 --> 00:14:27,280
+You're in a crit, and you see that no one wants to pull the brake back, and so you go to the front, and you pull the brake back, but you're able to do it, and do it too well to the point that when you pull off, you are overcommitted, and you actually struggle to get back on the back. Or people do it in the brake. They drive the brake so hard that they shell themselves. But, well, here's a good for instance, is a couple years ago, I went out with a friend of mine.
+
+32
+00:14:27,280 --> 00:14:55,136
+who was a good sprinter, just about as good as I was at the time, and another friend who was not a great sprinter, he was what you might call a spindly climber, and we were doing sprints, we did like probably 10 or 12, like 15 second sprints, one of us leading out and the other two sprinting. And after five or six, me and the other sprinter were leaning over the guardrail, just dry heaving, and our climber friend
+
+33
+00:14:55,136 --> 00:15:21,376
+was like, you guys okay? No, we're not okay. What's wrong with you? He's like, I'm going as hard as I can. I don't know why you guys are vomiting like this. So the point is that he couldn't dig the hole deep enough like we could because his coach was training him in nothing but sprints pretty much. My coach was training me in nothing but sprints pretty much. And so this leads to criteria and performances that I'm sure a lot of people have seen.
+
+34
+00:15:21,376 --> 00:15:50,928
+I actually pulled up one of the old power files for one of my athletes from their early, early days coaching themselves. And I'm looking at a 42-ish minute criterium. And this athlete could do about, you know, 1,200, 1,300 watts at the time. So the race starts out with a couple efforts around the 900,000 watt.
+
+35
+00:15:51,056 --> 00:16:20,608
+Sprint range. And then all the sprints out of the corners, and there's probably 100, 200 in here. And they're all in the 800 range. Halfway through, they're in the 700 watt range. Near the end, the best in like the last quarter, the best sprint, except for the final sprint, is about 700 watts. The final sprint, he could only manage just over 900 watts. Ouch.
+
+36
+00:16:20,608 --> 00:16:49,776
+And so in WKO 4, what I did was I selected the criterion and I did a linear regression. So basically I figured out like what is the average increase or decline of the average power throughout this race. And the answer is this athlete is losing 0.9 watts per minute over 42 minutes, which means 38 watts average lost over the course of a 40 minute criterion.
+
+37
+00:16:51,056 --> 00:17:20,271
+Ouch. Yeah. Imagine losing 40 watts off your FTP. I mean, it's not exactly like this, but for all practical purposes, we can think about it like you just lost 40 watts off your FTP for the end of a crit. Now, the thing is, like, is this, do you need this or not? This seems to be a really big question because I know a lot of people who actually hate FTP because they think FTP is just a big dickwagon contest.
+
+38
+00:17:20,271 --> 00:17:50,032
+And to be fair, it sounds like that a lot of the time. What's your FTP? What's my FTP? My FTP is this big. How big is your FTP? It sounds a lot like it, and no question. However, it is crucial to Criterion performances. And not only because, you know, FTP, as we said in the last episode, you can hold it for like 35, 40 out to like 70, maybe 80 minutes, something like that.
+
+39
+00:17:50,032 --> 00:18:18,528
+It makes a lot of sense, at least to me from a physiological perspective, that a higher FTP will let you do a higher power output for a criterium, even with all these little sprints. Yeah, I think the other way you can look at it is, if your FTP is higher than the amount of anaerobic work that you have to do to hit these 700-800 sprints out of every corner,
+
+40
+00:18:18,528 --> 00:18:43,808
+The anaerobic contribution is going to be less. Yes, that's a very good point. And so you're going to end up fresher for that big anaerobic dump in the last minute of the crit if you have to use less of it throughout the race. Like everyone's done those, have felt like that in a race where in the opening 20 minutes of a race, you know, you can go really hard out of every corner and then
+
+41
+00:18:43,808 --> 00:19:09,744
+At the end, you think, like, I'm still trying really hard. I'm telling my legs to go really hard, but you just can't dig as deep of a hole because you've done all of this work leading up to that. There's two very important factors here is that, like, okay, let's say you normalize, say, 300 watts in a criterium. Do you think you're going to be able to do that if your FTP is 250 watts?
+
+42
+00:19:10,576 --> 00:19:39,504
+It's going to be very painful. Yes, it will be very painful. But, you know, the short answer is unless you want to break the normalized power equation, no, you can't actually do that. And the best way to do that is by increasing your FTP. But this is not the physiological mechanism that I wanted to talk about today. So the first one is actually pretty basic. And this is just glycogen sparing.
+
+43
+00:19:39,504 --> 00:20:07,568
+And so, conversely, to just...
+
+44
+00:20:07,568 --> 00:20:37,568
+I guess maybe bring people up to speed a little bit who aren't as familiar with it. If you look at the fuel that your body burns for aerobic versus anaerobic efforts, anaerobic efforts are largely dominated by the amount by glycogen and burning glycogen. Whereas if you're more aerobic, you're burning a mix of glycogen and fat. So here's the other thing is what is the primary fuel for sprinting?
+
+45
+00:20:37,568 --> 00:21:06,112
+I'm sure you know this, right? Yes. Short sprints, it's going to be all ATP, phosphocreatine. Exactly. So ATP and phosphocreatine are the two big ones that we're looking at. ATP gets depleted in about a second or two. That's very, very brief. And then phosphocreatine has to regenerate ATP from the used ATP, which
+
+46
+00:21:06,112 --> 00:21:33,424
+ADP. So we don't have to get into the chemistry of this, but it probably sounds pretty familiar to most people. So how does creatine phosphate, which is our ATP regenerator, how does that get replenished? Is something that I don't think a lot of people really think about. And when I took biochemistry, this is one of the very first things that we learned is
+
+47
+00:21:33,424 --> 00:22:02,688
+about this enzyme called creatine kinase. And okay, maybe I lied a little bit. We do have to get into the chemistry a little bit. So the way that the creatine phosphate system works in order to regenerate energy for sprint efforts is it takes creatine kinase and it takes creatine, that's the enzyme, and it takes creatine phosphate and it regenerates ATP from ADP. And this happens in the main cell body.
+
+48
+00:22:02,688 --> 00:22:30,864
+And so the way that a lot of enzymes and metabolism work is they can actually do the same chemical reaction in both directions. It just depends on how much of what you have in that compartment. So if you've got a lot of creatine phosphate and you've got a lot of ADP, creatine kinase is going to regenerate ATP. And so now in order to regenerate
+
+49
+00:22:30,864 --> 00:22:59,888
+So now in order to regenerate creatine phosphate so we can do this again, we can't do it in the same part of the cell. So evolution is very clever and it's moved creatine kinase to also be inside the mitochondria. And so inside mitochondria, we regenerate ATP aerobically. And so now as this ATP leaves the mitochondria, it can actually stop by creatine kinase and say, hey,
+
+50
+00:22:59,888 --> 00:23:25,824
+I hear you guys are looking for some phosphates. Can we provide that for you? And creatine kinase is like, yeah, we've got all this creatine here and it needs some phosphate so we can send it back out into the cell so that this guy or this girl can sprint again. And so this is exactly how it works is that you regenerate creatine phosphate in the mitochondria. And this is incredibly efficient and it's very clever. And this is why we need more mitochondria.
+
+51
+00:23:25,824 --> 00:23:51,248
+And this is why aerobic training is so effective for repeated sprints. How do we get more mitochondria? We raise FTP. It's really that simple. So what you're saying is, and this, I think people are often on just on the cusp of kind of thinking about this where, oh, and they don't, they see this effect, but they don't really understand why it happens, but oh.
+
+52
+00:23:51,760 --> 00:24:20,480
+If you have a larger aerobic base, you seem to recover better from sprint work. Exactly. Exactly. And one of the things that I remember Andy Coggins saying a couple years ago on some forum is that recovery from efforts is mostly aerobic. And then I was reading a PhD thesis from someone looking at fuel use in high-intensity training. And they also looked at
+
+53
+00:24:20,480 --> 00:24:48,608
+the substrate use for recovery. So, when you recover from sprints, in this PhD thesis, the researcher found that about 80% of your recovery is aerobic, and that's from 30-second sprint, 30-second rest, and it's a little different for something like a 30-second sprint and 15-second rest. It changes a little bit, but not too much.
+
+54
+00:24:48,608 --> 00:25:16,592
+If people think about how they feel when they do something like 30-30s, it makes a lot of sense because, especially if you're wearing a heart rate strap, after the first couple, you start to see that your heart rate doesn't come down during that rest 30 seconds anymore, and your breathing becomes really ragged, which means that you're, if you think about it, it means you're really taxing your cardiovascular system, even if you're sitting there 30 seconds, like, really easy, ticking over at zero, you know, zero watts, effectively.
+
+55
+00:25:16,592 --> 00:25:43,200
+Yeah, you're exactly right. And actually, this is the same thing that happens in cyclocross races. I'm sure that you've seen people posting, oh my god, I spent 40, 60 minutes at my maximum heart rate or like within 10 beats per minute of my maximum heart rate and I hit my max a couple times. This is because you get no rest in a cyclocross race or virtually no rest.
+
+56
+00:25:43,200 --> 00:26:10,352
+and it's so easy to keep digging deep and digging deep and that's why this happens because your body is trying to recover aerobically from all of these hard anaerobic efforts. So the important thing really is to know that to support repeated sprint performance you need to have a really good aerobic base and this is where normalized power actually comes in very handy is that
+
+57
+00:26:10,352 --> 00:26:39,056
+Normalized Power will give you a pretty good approximation. It's obviously not perfect. You don't need to write letters. We know. Oh, that this is actually the realm in which normalized power is useful. Like, I think they talk about this in training and racing with a power meter that the idea of normalized power was developed to try to better approximate the aerobic equivalent of a
+
+58
+00:26:39,056 --> 00:27:08,400
+Ride or a Race that is too stochastic in power output to really use just straight average as the number. Right, and stochastic meaning up and down, not steady, but kind of random. Random, yeah. Yeah. So, yeah, so this is where normalized power comes in really handy is you can get a sense of effort and FTP and by looking at your normalized power through a race as well as average, you can actually get a sense of
+
+59
+00:27:08,400 --> 00:27:34,224
+the aerobic burden that the race is actually putting on you relative to your FTP. And I actually have some data here from some very highly aerobically trained athletes. And we're going to look at one now. This is a criterion from an elite female road racer. And, you know, her sprint's not amazing. She'll hit like 900.
+
+60
+00:27:34,224 --> 00:28:02,240
+950. Most of the women I coach are in about that same range for sprinting. And, you know, I'm looking at a Criterion file here, and the normalized power is about her threshold, maybe 10 or 20 watts lower. And there's hundreds of sprints. We're talking in the 500 to 700, 800 watt range throughout this whole thing. And this is the important part, is that
+
+61
+00:28:02,240 --> 00:28:30,288
+Once again, I put a slope, or I put the linear regression over the power trace, and I got the slope. So take a wild guess what the slope is. I'm going to guess it's like, you know, she lost 10 watts or something over the course of an hour. Because the other guy lost, you know, 38 watts. So she actually gains 0.8 watts a minute.
+
+62
+00:28:30,288 --> 00:28:53,744
+Yeah, so as the race gets harder, she's able to meet the demands of the race and put out more power as the race dictates it. Through all these hundreds and hundreds of sprints, she's fine at the end of it and she unleashes a really good sprint. Like, her... I don't have it up with me exactly, but...
+
+63
+00:28:53,744 --> 00:29:21,568
+But I think here she actually put out her best 5 minute and like 1 minute and 20 second power like right at the end of the race and that's really what you always want to see. Right. And so I'm actually, okay, I have one more power file and this one is, has a 0.8 watt per minute gain. So this is from the same athlete, second criterium. And finishes with
+
+64
+00:29:21,568 --> 00:29:51,152
+with one of, I believe it was one of her season best sprints. And this is actually pretty common. One of my athletes who won a national criterium championship, she's very much like this. She's highly aerobically trained and she can sprint hundreds of sprints. And actually one of the consults I did, somebody asked me, you know, oh my God, like she won this criterium thing. She must have done so much.
+
+65
+00:29:51,152 --> 00:30:20,208
+Intense Training. Like, she must have done so much sprinting, or like, what did you do? High intensity interval training? Did you do like a lot of, did you do weights? Like, what did you do? And I said, nothing. We did none of that. I trained her aerobically, and that was it. It's, it's not like there was a, there was a secret. It still came down to, essentially, having a good FTP, um, as being the, the,
+
+66
+00:30:20,912 --> 00:30:47,728
+the first most important factor in the race. Yeah, exactly. Yeah, because this is something that Adam Meyerson said a while ago. I'm not going to quote him exactly because I didn't write it down because I think he was even quoting himself when he said it. It was something like, your sprint determines your race strategy, your FTP determines the level at which you race.
+
+67
+00:30:48,208 --> 00:31:16,800
+and I know a lot of like cat threes who are who hate FTP training they hate FTPs it's a big dick waving contest yeah uh all that's probably true but at the same time if your FTP was 50 80 watts higher you would probably be racing the NRC series instead of your local criterium training series right oh yeah absolutely and and the other thing is like you can find plenty of cat four cat three men
+
+68
+00:31:16,800 --> 00:31:46,144
+who can output the same P-Max as Mark Cavendish, but there's going to be like a 100-watt FTP difference between Mark Cavendish and this, you know, this random Cat 3 crit racer. You are exactly right. I think another thing that we also need to address is how much of this training do we actually need to do in season? Because this is something that I see a lot of people overdo as well.
+
+69
+00:31:46,144 --> 00:32:15,856
+And so I'm going to give you an example from a cyclocross racer that I started coaching. And what happened was he said, you know, I was training at this pretty well-known coaching place, I'm not going to name them, with one of their coaches, and I'm feeling pretty tired, I've got a lot of races coming up, what do we do? And so I started looking at his training schedule.
+
+70
+00:32:16,048 --> 00:32:45,296
+and I'm going to take you through just briefly some of the most important races in the New England calendar because it includes Gloucester, it includes Night Weasels. I mean, who doesn't want to do well at a race called Night Weasels? So this period includes Holy Week and he did and he was racing twice a weekend and sometimes once during the weeks for
+
+71
+00:32:45,296 --> 00:33:15,296
+probably five weekends out of these six or so. And during these weeks, he was doing high intensity interval training two days a week, most weeks, except for one where he did it like one day a week. And his power was really low compared to what he could do like a month before racing. And like his normalized power was low. He said he was tired.
+
+72
+00:33:15,296 --> 00:33:43,392
+He was, you know, he was not in a good spot. He was training too hard. And I looked at this training schedule and I was like, how is this coach not realizing that this guy is overdoing it? So for the next three weeks, he kept racing once or twice on the weekends. For the next three weeks, we did almost no high-intensity training. It was a little bit of sweet spot, a little bit of endurance, and we turned.
+
+73
+00:33:43,392 --> 00:34:13,040
+We turned the weekly cyclocross practice into just party bike and work on your cross skills. Don't go hard. Let everybody lap you. It's fine. Work on your skills. And it took about three weeks, but he started feeling better. Okay, so not only that, he went from coming in about 40th out of 70, 80 riders to coming in like top 10 or 20 in fields that big or larger. Nice. Yeah. And in the comments on his races,
+
+74
+00:34:13,040 --> 00:34:42,512
+It showed. He was like, I finally started feeling better today. I had a really good start. I kind of lost it near the end. You know, next day. And I was advising him the whole time, rest. Don't be stressed. Eat a lot. And it's amazing that there's not a cult of recovery in cycling as much as there is this cult of suffering. I think people are getting a little bit better, as evidenced by the number of
+
+75
+00:34:42,512 --> 00:35:09,696
+Norma Tech, Compression Pants, Instagram posts that you can find. Don't start me on Norma Tech, oh my god. But yes, essentially what you're saying is that what was happening is that he was getting very, very concerned that his big time, big primary focus races were coming up and so he was doing more training and more race-like training, which actually was...
+
+76
+00:35:09,696 --> 00:35:39,392
+ultimately hurting him in actual races. I guess, but the thing is, his coach should have recognized the signs that he was getting overcooked and that he should pull it back and just didn't. Honestly, to me, it's incredible that some coaches who I know should know better just keep pushing people. I mean, all the problems that I've ever had with athletes I've coached,
+
+77
+00:35:39,392 --> 00:36:07,264
+Almost none of them were solved by more training. I think that is a good point. Especially if you're not a professional, you'll probably tend to err on the side of doing as much as you can with the time that you have, but you don't think that you have or remember really that you have all these other things in life that also stress you out, that also make you tired and that also kind of require recovery after. Yeah, exactly. And this is stuff that
+
+78
+00:36:07,264 --> 00:36:34,592
+that also needs to be taken into account for your life is that in order to be your best in a high-intensity race, you need to be really well-rested. The more I rest my athletes before these races, the better they seem to do. This year, I started giving one guy openers set the day before a race. You do some efforts, kind of wake your legs up a little bit. We didn't do that. He had...
+
+79
+00:36:34,592 --> 00:36:59,344
+three or four days easy, and then he did a two-hour endurance ride as openers. And he was nervous, but he is a dyed-in-the-wool sprinter. Like, seriously, this kid is sprinting at like 24 watts per kilo peak. He's amazing. Yeah. And the next day, he had a phenomenal race. And then the day after, he had another phenomenal race.
+
+80
+00:36:59,728 --> 00:37:26,368
+So, and he commented, you know, I was nervous about that, but it did the trick. I had a great race. Well, I remember even, I've seen you give me openers before, back in the day, before road races and stuff, and you would even comment, like, don't go too hard, like, don't do too many sprints, like, go just until you feel like you are warmed up, and then stop. Yeah, so a good set of openers is also not even necessary a lot of the time.
+
+81
+00:37:26,368 --> 00:37:55,424
+as I had a coach for a while who had all these amazing little Zen sayings like I swear to God he was a monk in another life or maybe even this one I don't know I should ask him he said openers are privileged for the well rested and you know there's definitely a point where you are too rested and that's when I think you really need a good set of openers because I'm sure you've had this happen to you and I've had it happen to me was you
+
+82
+00:37:55,424 --> 00:38:21,024
+Do a race one day and you feel like shit. And the next day you go race again and you feel great. Yeah. So your first race was a set of openers and that can be too well rested. You need to have a little harder the day before. So yeah, so I actually leave a lot of openers pretty open-ended for a lot of people except for the really, really intense sprinters.
+
+83
+00:38:21,024 --> 00:38:47,296
+who I'm like, you need to rest. So we're just going to give you some endurance riding. I think this kind of goes to a whole other point that you could make is where when amateurs borrow techniques and training from professionals, they don't consider a lot of the other elements that are not the same between amateurs and professionals. One thing people I probably don't take into account a lot of times is that like pros
+
+84
+00:38:47,296 --> 00:39:16,672
+Oh, they'll, you know, they'll throw up their rides on Strava and stuff. You'll see what they're doing in the off season. Think like, oh, they're not really doing like maybe traditional periodization or whatever, but the pros aren't getting like super fat in the off season either, right? Like, oh, they're, they're FTP tanks to 380 watts, you know, instead of 410 or something, you know, some like minuscule difference that, that a month long team training camp will like bring that right back up, you know, in February and come, you know, March.
+
+85
+00:39:16,672 --> 00:39:46,448
+They're good to go. Yeah, exactly. And I think even if a lot of people had the ability to train like pros, well, it's not that I think this, I know it, is that we would not be able to. Okay, so what are our take-homes here? So I think the first thing is to always make sure that you have the right aerobic training under your belt before you start doing any specific sprint training. Yeah.
+
+86
+00:39:47,216 --> 00:40:16,416
+And this kind of goes to the idea that these crits are not short races. You're not going out and just going out for 20 minutes and racing. You're still going to have to sit in at tempo or maybe even a little bit higher for 40, 50, 60 minutes. And so you need that aerobic base to be able to sit in and not have sitting in feel like you're dying. Yeah, exactly. Because anything over pretty much a minute,
+
+87
+00:40:16,416 --> 00:40:46,016
+is aerobic. I don't care how well you sit in, I don't care how much you can hide from the wind, you get to the end of a race and you're going to be sure that it was aerobic. And the better you are aerobically, the better you're going to have a Criterium performance. Okay, so do we have any other take-homes? Oh, in-season, don't work too hard. It's always better to be too fresh for really intense races.
+
+88
+00:40:46,016 --> 00:41:15,488
+like if you're wondering should I go out and do this really hard race how long does it take me to recover is a very important thing to consider at which point do my legs feel really really good so there's a lot of stuff to balance but doing but but for these really intense races for cyclocross for criteriums less is more especially in season I think the other thing to think about here especially in season is that
+
+89
+00:41:15,488 --> 00:41:40,272
+If you wake up and you feel bad and you're like, oh, I'm supposed to do like a tempo ride today, like if you bail and just do like an easy hour and a half like coffee shop ride, long term, skipping that, you know, tempo 90 minute ride that you're supposed to do is not going to ruin your season. No, it's not. And if you feel like crap, you didn't sleep well the night before or whatever, something like that, like
+
+90
+00:41:40,272 --> 00:42:04,832
+You're going to actually be better served by listening to the fact that your legs feel bad and you feel just run down. Then, you know, spin easy for an hour and go home. Like, make sure you have some spaghetti or something at dinner. Like, obviously sticking to the training plan and sticking to some programming is good, but listening to yourself and listening to your body is good too.
+
+91
+00:42:04,832 --> 00:42:33,280
+Yeah, exactly. Yeah, and this is, I guess this would be our last point for today is that individualizing this kind of stuff for what kind of rider you are. If you really want to become a crit racer and you have a horrible sprint and you need to sprint better, yeah, of course, we're going to work in appropriate sprint training throughout your season, but we're not going to hammer it, you know, in
+
+92
+00:42:33,280 --> 00:42:59,952
+instead of aerobic training because you absolutely need to do that and you're not going to be able to get off the front and ride your solo breakaway lapping the field without that aerobic training. Okay, so I think if all this is a little confusing to you, if you've kind of got a handle on the whole training thing, if you're a coach or you've been pretty self-coached for a long time and you're really well aware of all the periodization literature you've read,
+
+93
+00:42:59,952 --> 00:43:29,744
+You know, the training bible and training racing with a power meter, you've read Joe Friel's book, you've done a lot of research, you've talked to a lot of people, you've seen a lot of training programs, and you kind of have a handle on what you're doing. All of this probably makes a lot of sense to you. Otherwise, my honest advice is to get a good coach. I'm available, by the way, and so are my empirical cycling coaches. Wow, sales pitch right at the end. Yeah, perfect. If you made it this far, thanks for listening.
+
+94
+00:43:29,744 --> 00:43:54,528
+We are now on Stitcher. We're also on our main base for podcasting is on SoundCloud. And iTunes is currently pending. So that will be up in a week or two. Please subscribe. And also, Kyle, we should talk about why we're not advertising on this podcast. Oh, yeah, we...
+
+95
+00:43:54,528 --> 00:44:17,360
+You may have noticed, if you listen, no ads, no ad drops. As much as I was giving Kolie a hard time about having to read drops, he's decided that he doesn't want to do that. So you won't hear us endorsing, I don't know, weird products that we don't actually use. Yeah, so our model is going to be that if you think...
+
+96
+00:44:17,360 --> 00:44:46,064
+The show you just heard is worth a couple bucks worth of coaching. We would love to have it. So head on over to empiricalcycling.com and head to the podcast page and there's a donate bit and you can send us a couple bucks of love and we would very much appreciate it. If not, that is totally fine. You know, we don't want to force anything on anyone and really the point of this is to just make sure that everybody's training better.
+
+97
+00:44:46,224 --> 00:45:09,008
+And also, if you have any topics you'd like to hear, send an email. Send us suggestions. We'd love to take them. We've got a list of things right now that we think would make good episodes, but of course, we want to see what you guys think too. Yeah, so send an email to empiricalcycling.com. That will go straight to me. All right, everybody, thank you again for listening.
+

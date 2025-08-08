@@ -1,0 +1,256 @@
+1
+00:00:00,048 --> 00:00:29,776
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined by my co-host, Kyle Helson. I want to thank everyone for listening as always. Please subscribe if you have not yet. And remember that we are an ad-free model, so you can head to empiricalcycling.com slash donate to support the show, or you can become an Empirical Cycling athlete. You can send all coaching and consultation inquiries, questions, and comments to empiricalcycling at gmail.com. And we also have the show notes for today's show up on the website at empiricalcycling.com and head over to the podcast episodes there.
+
+2
+00:00:29,776 --> 00:00:55,280
+So this episode is going to be the first of two episodes looking at a classic paper that is multifaceted. So we're actually going to go through it in two parts because the two facets of it that we're going to divide it into are so different that it'll allow us to look at two fairly different aspects of physiology that are, again, of course, related because as always, all parts of the body are related and we just need to piece everything together.
+
+3
+00:00:55,280 --> 00:01:24,224
+So this is the part where we are going to talk about VO2 max and percentage of VO2 max, FTP, and the roles that these things play in endurance performance. But we're also going to think about how this affects testing protocols in the peer-reviewed literature that you read, because as we go through this and we talk about some of the literature out there, and we're going to see that some of the ways that testing protocols
+
+4
+00:01:24,224 --> 00:01:50,384
+have been assigned through a lot of the literature from, you know, from the 50s through today. You know, it's going to affect how we interpret those papers and whether or not we actually accept their conclusions. So yeah, so I think we should, just to make sure everyone's sort of here at the same level, we should probably talk about what is VO2max. I think people love to throw that word around and it's something that now probably...
+
+5
+00:01:50,928 --> 00:02:20,240
+30 years ago, your average athlete wasn't aware what VO2 max was, but now it's the, as the more and more of the scientific literature and actual scientific terminology is leaked into the popular culture, we now hear people talk about their VO2 max and, oh, you can pay however much and get your local university to test your VO2 max and 350 over here. There you go. And then some people worry that like, you know, oh,
+
+6
+00:02:20,240 --> 00:02:50,000
+Maybe I don't want to find out my VO2 max because I think there was this previous idea that somehow VO2 max was baked into you genetically and it could never change. So if you got it tested, that was like getting your athletic fortune told to you and you would just never be able to outlive that. Yeah, it's like finding out your blood type. Exactly, yeah. And you're like, oh, well, my VO2 max is 50, so I'm never going to be good. And obviously that's not true.
+
+7
+00:02:50,128 --> 00:03:18,272
+What, Kolie, what is VO2max? VO2max is usually defined as the highest level at which you can produce ATP via aerobic oxidation. So this means the highest rate at which your mitochondria can work, but it's limited by a couple things that we're going to get into lots of detail on in a future episode. So right now, let's actually think about what is endurance instead. So endurance is the ability...
+
+8
+00:03:18,272 --> 00:03:42,144
+to produce ATP before fatiguing. This can actually be defined in a lot of ways, but according to the human power curve that we look at every time we look at our power data, the point above which fatigue occurs is FTP, or as the scientific literature knows it, work rate at maximal lactate steady state, which we've talked about a little before.
+
+9
+00:03:42,144 --> 00:04:10,304
+So this is relatively speaking, of course, because you can still fatigue below FTP, but it occurs much faster above FTP. And let's also realize that FTP will always occur below VO2 max. So the highest point at which you can aerobically produce ATP, purely aerobically, is actually FTP. It's not VO2 max.
+
+10
+00:04:10,304 --> 00:04:39,968
+And we'll get into the metabolism on this in a future episode. But, you know, since VO2 max is the maximal ability to aerobically produce work, but it is above your, you know, quote-unquote endurance threshold, it's above FTP, you know, this whole thing gets complex. And so that's why we're going to have to delve into it in another episode. Otherwise, I'm going to be standing up here doing like a 10-hour lecture. So let's not do that today.
+
+11
+00:04:39,968 --> 00:05:09,920
+People think of VO2max a lot of times as being that sort of roughly five-minute effort. Like, oh, and there's that formula or model in WKO4, WKO5 that where the power data that you have within those ranges, it will estimate your VO2max for you. So FTP occurring below VO2max is pretty obvious because when we do a VO2max test,
+
+12
+00:05:09,920 --> 00:05:35,328
+You know, most coaches will just say, you know, who work almost entirely on power data will just say, go out and do five minute max effort. And when we measure these things in the lab, we can actually get very precise as to what level or what percentage below your VO2 max is your FTP. So in the study that we're going to look at today, the range is actually 59 to 86%.
+
+13
+00:05:35,328 --> 00:05:57,872
+and this is interesting because they picked people with the same VO2 max, the same liters per minute. So there's a big range and these are all people who were doing endurance training. So it's not like if you train, everybody gets up to like 80% and that's that. These are people doing endurance training and so it still has a pretty wide range.
+
+14
+00:05:57,872 --> 00:06:26,160
+And you could probably make some educated guesses that it's lower in untrained people and it's probably a lot higher for super elite endurance athletes. There's a bell curve there. There's certainly a bell curve. A lot of studies will find somebody who's VO2 max. Then they'll pick a percentage of VO2 max, like 70%, for instance, 75%, whatever it is, for the participants to perform either a test to failure or they will have people ride at a certain...
+
+15
+00:06:26,160 --> 00:06:41,200
+that certain percentage and just gather data like blood lactate, respiratory exchange rate, heart rate, et cetera, et cetera. That will all be measured and quantified. But like the time that an athlete can hold 70% of VO2 max changes.
+
+16
+00:06:41,200 --> 00:07:10,320
+If you're above or below FTP, and here as cyclists, we kind of take this for granted, but in the greater body of scientists, exercise physiologists, this is something that's not thought about a lot, and it's not taught in schools that much. So like, for instance, blood lactate accumulates steadily over FTP, and then below FTP, it'll remain in a steady state, and we're actually going to see that today.
+
+17
+00:07:10,448 --> 00:07:39,840
+So scientists must assume that there's this sort of linear relationship that's pretty steady. And despite that, like even just incorporating the, you know, rather primitive by, you know, modern standards, sorry if I'm offending people who love this, the primitive critical power concept, you know, even though flawed as it is, it would still raise enough questions to investigate further and reevaluate assumptions like, gee, what percentage of
+
+18
+00:07:39,840 --> 00:08:07,152
+VO2 Max is Critical Power would be a very powerful question in terms of evaluating this test protocol. It's funny to me that the realization of this quote-unquote endurance threshold or quote-unquote rapid fatigue threshold, as you might term it if you're FTP, MLSS, CP naive, in modern scientific literature is still happening. So in the show notes,
+
+19
+00:08:07,792 --> 00:08:32,912
+We have provided a couple links to some very recent studies investigating this, and I've been seeing people on Twitter talking about this and realizing this in the athletic training community, in the exercise physiology community, as recently as this year, talking about this, going, oh my god, guys, did you know that...
+
+20
+00:08:32,912 --> 00:09:02,048
+There's this, that, and the other thing. And so we've provided some links about it. And I can't fault them too much for it because a lot of the time they're not looking at the entire human power duration curve, which we have a big advantage in cycling to actually see this and work with it all the time because it makes it so easy to think about metabolic processes at certain time durations.
+
+21
+00:09:02,048 --> 00:09:30,160
+When we look at this and judging what our athletes are good at or not good at, what are their strengths and weaknesses, what do they need to work on, how should they race, that's another good one. With that, we get to one of the earliest papers that I'm aware of. There's probably others. I didn't chase down all the references in this one, unfortunately. I haven't had time yet. But there's probably a couple earlier ones. But this is the earliest one that I can recall off the top of my head that actually looks at exactly this.
+
+22
+00:09:30,160 --> 00:09:55,488
+What percentage of VO2max is FTP? So the title of this is Determinants of Endurance in Well-Trained Cyclists, published in 1988. And this is a paper co-authored by Andy Coggin. The primary author is Ed Coyle, who, if you are thankful for all of the cycling analytics and stuff that we have now,
+
+23
+00:09:55,488 --> 00:10:22,896
+You should probably thank him because he's the guy who taught Andy Coggin everything he knows and all of the best papers I've ever seen on cycling and endurance are from Ed Coyle and we're going to get into a lot of those in the future. Is the paper this old going to be useful? Yes, it is because they used the same technology that we still use today. They used similar testing protocols as we do now.
+
+24
+00:10:23,056 --> 00:10:48,976
+But here in this paper, they actually did it in a better way than most studies do because they're actually looking at percentage of VO2 max and looking directly at, you know, what you can do with different percentages of VO2 max relative to FTP. And they do it in a way that we can actually find useful for this discussion, which is one of the reasons I picked this paper today. And they also use the same concepts in physiology that we do today. You know, by modern standards,
+
+25
+00:10:48,976 --> 00:11:14,224
+It's not a great paper, but by the standards of the time, it is way ahead of its time. So in this study, they actually used the abbreviation LT for lactate threshold. The way they tested lactate threshold was actually the way that we would test Maximal Lactate Steady State or FTP today. Okay, so let's get into some of the details. Let's prep for what we're going to see in this paper.
+
+26
+00:11:14,224 --> 00:11:42,560
+When we're looking at the relationship between FTP and VO2 max, so whatever oxygen uptake your VO2 max was, let's say it's 4.2 liters per minute, and your FTP is 90% of this, then at FTP you are using 3.8 liters per minute. And they're not doing this by body weight, they're doing this by directly... Absolute quantity. Yeah, by absolute quantity, which is a perfectly valid way to do this. I know some people are going, but...
+
+27
+00:11:42,560 --> 00:12:08,672
+It's okay. This is valid too. But if your FTP is at 65% of VO2max, then at FTP you are only using 2.7 liters per minute of oxygen. So the study design we have here is we got 14 male endurance cyclists selected based on having similar VO2max in liters per minute. And they divided the group into two.
+
+28
+00:12:08,672 --> 00:12:36,560
+Equal Size Groups based on what percentage of VO2max their LT, their FTP was, either high or low. So the absolute VO2max is the same between groups, and actually it turns out that the relative VO2max is also the same between groups in terms of liters per minute per kilo, absolute being liters per minute. So the equal size of the groups has an interesting consequence that we will see and we can actually use to our advantage.
+
+29
+00:12:36,560 --> 00:13:05,440
+and they numbered the subjects to track the subjects individually through the data which is hugely helpful and even in all of the graphs that they used where they found high correlations between certain things they plotted the data points with each subject's number as the data points so you can really get into the nitty gritty through this stuff it's a great paper for this reason I highly recommend everybody reads it so the high group all of their FTP
+
+30
+00:13:05,440 --> 00:13:31,376
+was at 80 to 86% of VO2 max, except Subject 7 at 72%. The lower Subject 7. I know, right? Best of the rest. Best of the rest was actually at 71% in the low group. So the low group was at 60 to 67% of VO2 max, except Subjects 10 and 11, who were at 70 and 71% of VO2 max.
+
+31
+00:13:31,472 --> 00:13:59,520
+So we had a couple people kind of right in the middle in the two groups. And so we can actually, we're actually going to a little bit later go through them individually, which is going to be really cool. So they did a couple tests here through the study. They did actually kind of a lot of testing for one paper. They could have split it up into four publications just to increase their publication numbers, but they didn't because it was the 80s and everything was great.
+
+32
+00:13:59,520 --> 00:14:19,776
+So test one was to hold 88% of VO2 max until exhaustion. So this is over all of participants FTPs, like the actual O2 uptake during all of the tests was very similar. The actual number was 4.2 to 4.3 liters per minute. So what they found was
+
+33
+00:14:19,776 --> 00:14:46,224
+An FTP at a higher percentage of VO2max is highly correlated with a longer test duration, time to exhaustion at 88% VO2max. That makes sense. Yes, it does. So let's look at the longest test. So who held 88% VO2max the longest? The participant did it for 75 minutes.
+
+34
+00:14:46,608 --> 00:15:12,976
+And this is the guy who had his FTP at 86% of VO2 max. He was 2% over his FTP oxygen uptake for this whole test. And at the end, he had a blood lactate of 6.1 millimolars, which is probably a little high for, we don't know what his blood lactate was at FTP, but probably shows some accumulation.
+
+35
+00:15:13,264 --> 00:15:42,480
+The shortest test at 88% was 12 minutes. And this is an athlete with an FTP at 66.7 of VO2 max. And he finished his 12 minutes with a blood lactate of 18.2 millimolar. So, very, very anaerobic for this guy. That sounds painful. Yeah. And so the average between the high and the low groups, the average for the high group was 60 minutes.
+
+36
+00:15:42,736 --> 00:16:12,544
+I remember the range for this was like 80 to 86% except for the one guy at 72% and the low group averaged 29 minutes. Their actual range was 12 to 49 minutes. So almost there but like definitely all much lower than the high group. That's interesting because you kind of span the gap of you almost have this one person who is doing
+
+37
+00:16:12,544 --> 00:16:38,192
+essentially what is a more old-school 20-minute FTP test. And on the other end, you've got this person who probably was breathing through their nose for the first 45 minutes. Yeah, exactly. Yeah. All right. So the first time I actually read through this paper, I was annoyed by this test protocol because I wanted to know what they could do relative to FTP.
+
+38
+00:16:38,192 --> 00:17:06,992
+Something like 5% over your FTP. So if you're at 82% of VO2max at your FTP, I want to see Time to Exhaustion at 87%. Or if you're at 65%, we can see it at 70%. But remember, let's think about the context of the time when people were assigning, and still are actually, assigning tests at different percentages of VO2max. This is one of the early times where they're looking at, you know, what are the actual consequences of going up and down?
+
+39
+00:17:06,992 --> 00:17:35,760
+Vo2 Max relative to lactate threshold. What does this mean for us? So Vo2 Max is not the best indicator of endurance performance. It's a great indicator of Vo2 Max and very short term performance. But over the long term, like over say like, you know, eight, ten minutes, something like that, your
+
+40
+00:17:35,760 --> 00:18:04,832
+Actually, maybe even five. Your FTP is actually a better indicator of your endurance performance than your VO2 Max. Because if my VO2 Max power is 400 watts and I've only got a 300 watt threshold, somebody with a 350 watt threshold is going to probably ride away from me most of the time. And this makes perfect sense to a lot of us. So this is like context for VO2 Max. Everybody talks about their VO2 Max, but like...
+
+41
+00:18:04,832 --> 00:18:25,792
+What does it mean? VO2max is a ceiling for your FTP. That's why we care about it in endurance sports. Okay, so also during this trial at 88% VO2max, the lactate measured immediately after the test, the high group averaged 7.4 millimolars, so not accumulating as much lactate.
+
+42
+00:18:25,792 --> 00:18:54,080
+as the low group, which averaged 14.7 millimolar. This is relevant because while lactate does not cause fatigue, you can check out Watt's doc number six, it is an indicator of the amount of carbohydrates used that were not oxidized in the mitochondria. So this is carbohydrates used for energy, but not going into the mitochondria for full aerobic oxidation. Test two for this study, looking at endurance performance.
+
+43
+00:18:54,080 --> 00:19:22,576
+They did another test. This was at 30 minutes effort at 80% of VO2 max. And this is not the same as like how long can you hold 88% of VO2 max. This is like you're just going to ride at 30 minutes at 80% of VO2 max. So what we actually get now is a range of the athletes being above, at, and below FTP for the test groups. So for the high group,
+
+44
+00:19:22,576 --> 00:19:47,840
+All except for the one guy at 72%. Yeah, 72%. Everybody else, for them, this was below their FTP. So on average, they used significantly less glycogen than the low group. So the high group used 27.9 millimoles per kilogram of glycogen. The low group used 65.4 millimoles per kilogram.
+
+45
+00:19:47,840 --> 00:20:16,464
+Yikes. Yes. And we can also see this in the blood lactate values. So the high group's final blood lactate was all under 3 millimolar except subject 7 because remember this was 8% over his FTP. The low group's final blood lactate was all greater than 5.3 millimolar. Yeah. And the highest value was actually 8.3 millimolar. And this was at, you know, 30 minutes of 80% VO2 max.
+
+46
+00:20:16,752 --> 00:20:46,736
+So for the low group, this was all well over FTP. The high group, except for participant seven, who still actually did really well. Okay, so for this specifically, because we can track the subjects and their data individually, we can look at subjects two, five, and six, their FTP was all about 80% of VO2 max. So for them, this is just writing 30 minutes at FTP.
+
+47
+00:20:46,736 --> 00:21:13,104
+One of the most interesting things here is that their respiratory exchange rate, real quick, respiratory exchange rate between 0.7 and 1.0, 0.7 and below is just using fats and 1.0 and above is relying entirely on carbohydrate just because of a really basic biochemistry equation that we can do. So their respiratory exchange rate
+
+48
+00:21:13,104 --> 00:21:38,128
+at FTP was 0.81 to 0.86. So meaning they were using about 50% carbs and 50% fat. And in case you're wondering, those of you who have asked me about this, yes, it does mean that thing you've asked me about is wrong, so save your money. Okay, so let's think about everyone else in the high group who were below FTP at 80%.
+
+49
+00:21:38,256 --> 00:22:07,984
+For them, it was mostly 4-6% below their FTP, and they actually almost entirely had, except for poor participant 7, all of their blood lactate values were like 2.3, 2.6, 2.5, so like not terribly taxed, and their respiratory exchange rates were also about in the 0.84 region or so. So the paper found that in this test, glycogen use,
+
+50
+00:22:08,144 --> 00:22:33,520
+was inversely correlated with what percentage of VO2max your FTP is, as in the higher your FTP, the less glycogen that you use. So, okay, so how can we use this data to our advantage? FTP is a much better determinant of aerobic endurance ability, since having an FTP higher means you can have more percentage of your VO2max, like
+
+51
+00:22:33,520 --> 00:23:00,880
+like 85% of your VO2 max from zero to 85% of your VO2 max is in your endurance zone where below this you fatigue much more slowly and above it is more rapidly the other advantage is that you get to use less glycogen at a given percentage of VO2 max and you are more reliant on fat and so like you know we can think about just elite racers like if you've got a bunch of people in our bike race
+
+52
+00:23:00,880 --> 00:23:30,784
+and they all have very similarly high VO2 maxes. The one with the highest FTP as a percentage of VO2 max is probably going to have an advantage in terms of their endurance ability. And if you think about it, it just makes planning a race a little bit easier because you know that you are going to be using a little bit less glycogen which means eating, you don't have to eat nearly the high quantities as the guy in the back who's got like, you know,
+
+53
+00:23:30,784 --> 00:23:55,296
+who's using, who's burning literally twice as much glycogen as you are all of the time and that, that dude is like hurting and about to, on the edge of bonking the entire time on this like hammer fest or whatever that you're doing and Mr. My FTP is 90% of VO2 max, he's just like cruising along like breathing easy. Yeah, yeah and so like, so we can use this to think about
+
+54
+00:23:55,296 --> 00:24:17,296
+Race Strategies. Like, because if you're constantly surging above FTP, every time you go over, you're more rapidly depleting your glycogen stores. And so if your FTP is closer to these power values that you need to surge, you're going to be using less glycogen and you're going to be able to last longer in this race. So also, like, when you surge, if you're...
+
+55
+00:24:17,296 --> 00:24:28,448
+If your FTP is relatively low relative to your VO2 max, every time you surge you're going to go through a lot more glycogen and this means that you're probably not going to be able to eat it all back. This also contributes to that.
+
+56
+00:24:28,448 --> 00:24:53,552
+kind of what we talked about in a previous episode of watching people just lose power steadily over a race. Yes. Right? Yeah, even in a 40-minute criterium. And that's Watt's doc number two. So that's our second episode ever. So check that out if you have not yet. Okay, so the other thing that we can think about here is that studies that use percentage of VO2max in their testing protocols without taking into account
+
+57
+00:24:53,552 --> 00:25:13,424
+Maximal Lactate Steady State, or FTP, should be treated skeptically, because as we've seen here, you get a range of ability in a population, even in an endurance trained population, because all of these people were endurance training. If the assignment is right at 80% of the VO2 max, you're going to get...
+
+58
+00:25:13,424 --> 00:25:39,280
+Maybe like, let's say, you know, a third of people over that, and you're going to get a couple people at that, and then you're going to get everybody else under that, it's going to put you closer and further from your FTP, and it's going to drastically affect your physiologic markers, and it's going to affect how long that you can actually sustain that pace. And it's going to be harder to draw consequences, because if you are looking for these correlations,
+
+59
+00:25:39,664 --> 00:26:06,192
+If you have this group that is spread out over the ability range, like, you know, you're going to see clumps of people, but you may not see one trend among the whole population. I think also that this is probably worth, like, team sports, where if they're just looking at these papers of, like, oh, percentage of V2 max and sending their soccer team out on a run at trying to hit some percentage of V2 max, well, you've got 30 people, let's say, and all of them have different
+
+60
+00:26:06,192 --> 00:26:35,344
+You know, like that run is going to be very different training for all of them. And so you may not even be generating good training if you're going to go tell your group of team sports athletes to go do runs at certain VO2 max percentages. Right, which is not to shit on all of these people because, you know, it's not like all of them just assign stuff based on percentage of VO2 max. It's still amazing to me the number of exercise physiologists and, you know, coaches out there who are
+
+61
+00:26:35,344 --> 00:26:51,600
+who are still doing this type of protocol and not thinking about the quote-unquote endurance threshold or quote-unquote rapid fatigue threshold or as we know it, functional threshold of power.
+
+62
+00:26:51,632 --> 00:27:14,768
+I mean, it's your functional threshold. Like below this, you are a functional person and you can ride for a while. Above this, you turn into a not functional person after several minutes. I guess that's what it means. Moving forward, hopefully next episode, we can talk about, we'll dive back into this paper a little more and hopefully this helps people who are out there interested in reading some of the literature.
+
+63
+00:27:14,768 --> 00:27:24,976
+Maybe being a little confused about some of these testing protocols because they don't necessarily line up with the terminology or the protocols that your average cyclist or the Power Gator uses.
+
+64
+00:27:24,976 --> 00:27:48,688
+As always, I want to thank everybody for listening. Please subscribe again if you have not yet. And remember that we are an ad-free model, so if you want to donate, you can. If you want to become an empirical cycling athlete, you can. Coaching, consultation, inquiries, questions, or comments, or anything, you can send that to empiricalcycling.gmail.com. And as always, the website is empiricalcycling.com. Thanks, everyone.
+

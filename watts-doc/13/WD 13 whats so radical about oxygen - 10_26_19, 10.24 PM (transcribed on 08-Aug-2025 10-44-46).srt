@@ -1,0 +1,540 @@
+1
+00:00:00,624 --> 00:00:28,384
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by Kyle Helson, and I want to thank everybody for listening and remind you to subscribe if you have not yet already. And remember that we are an ad-free podcast, so if you'd like to donate to support the podcast, you can do so at empiricalcycling.com slash donate. All the show notes are also on the website under the podcast episodes, and you can also send any code from your consultation inquiries, questions, or comments to empiricalcycling at gmail.com.
+
+2
+00:00:28,384 --> 00:00:58,240
+and I also want to let everybody know that there is now an Empirical Cycling Patreon page so if you go to patreon.com slash empirical cycling you're going to see a bunch of resources that you can get access to there including video webinars that I'm doing just for a certain couple levels of patrons and that includes very practical advice looking at a lot of power files and periodization and some consultations and stuff like that so it's all very actionable
+
+3
+00:00:58,240 --> 00:01:27,616
+I tend to tackle these kind of stuff advice and I hope everybody finds it extremely useful and so there's that and you know without further ado let's get into the episode which is going to be about oxygen and what we're going to talk about specifically are the properties that oxygen has that make it both really useful for keeping us alive but also the reasons that oxygen is potentially toxic and dangerous and we're going to talk about free radicals antioxidants
+
+4
+00:01:27,616 --> 00:01:54,736
+and their roles in exercise and how the body deals with this kind of stuff. Kyle, you know, give us a little primer on oxygen and its role in exercise and just daily life. You know, you're a physicist. You've, you know, you understand oxygen better than I do, actually. Yeah, so oxygen, most people probably know that it's a major component or, well, it's a minority component, but it is a...
+
+5
+00:01:54,736 --> 00:02:23,952
+Very important component of air that we breathe. It's like 20 to 21%-ish of the air you breathe on the earth, and it's very important for things like cellular respiration and being alive. It's also a common component in any of the materials that you probably deal with in a day-to-day life, like your cell phone, your electronics, all these things wouldn't be possible without oxides, which are the
+
+6
+00:02:23,952 --> 00:02:50,528
+Kind of the bonding of various metals or metal-like things with oxygen. And then we're probably most familiar with rust, which is the oxide, an iron oxide. It's one of the few varieties of metal slash oxygen compounds you can make with iron. And then we're also maybe more familiar with oxygen in terms of exercise and health.
+
+7
+00:02:50,528 --> 00:03:11,536
+That terrible word that I hate, wellness, when people talk about antioxidants and how you should be, you know, I don't know, having whatever else is the latest, greatest superfood it claims to be, you know, antioxidant, which means that it's going to somehow absorb or neutralize oxygen or...
+
+8
+00:03:11,536 --> 00:03:31,120
+Heavy oxidizer, strong oxidizer. Yeah, free radicals and oxidants in your body, which actually we're going to get into in great detail because one of the things that I wanted to do with this episode is to, you know, get everybody understanding oxygen a little better. So we are going to have to get into the chemistry a little bit.
+
+9
+00:03:31,120 --> 00:04:00,048
+Honestly, if the technical terms aren't sticking with you and you want to look them up and you want to get yourself more familiar with this kind of stuff, that's awesome. If not, that's okay. Just let it slide off your shoulder and just keep moving because we're going to use as little of the terminology as possible. We're going to have to touch on it a little bit, but for the most part, I've written this episode so that if we introduce a term,
+
+10
+00:04:00,048 --> 00:04:23,568
+That's necessary in chemistry. I try not to use it again. Hopefully it's very understandable to everybody. And also at the end, we're going to talk about antioxidants with this new knowledge base about oxygen and oxygen's role in the electron transport chain and, as Kyle said, cellular respiration.
+
+11
+00:04:23,568 --> 00:04:50,976
+And cellular respiration, of course, is just what we are doing a lot of when we exercise aerobically and with endurance exercise and at different rates. We're also not going to be directly talking about CO2 and ATP a little bit, but they're a little bit separate from the role that oxygen has that we're looking at specifically. Save your questions for that and we will address them in the future.
+
+12
+00:04:50,976 --> 00:05:20,976
+It's just, in the atmosphere, it's a gas. Its chemical formula is O2, so it's two atoms of oxygen hanging out with each other. That's a pretty electrically stable thing. And, you know, as Kyle said, it's capable of making rust with iron on your car or, you know, just wherever. And it's also capable of making free radicals. And one of the things that I think a lot of people don't know or realize is that we make free radicals in every single cell in our body,
+
+13
+00:05:20,976 --> 00:05:45,696
+constantly. During intense exercise, we make a lot more, but that's not necessarily a bad thing. So through this episode, we're going to kind of give you guys, as always, the context of oxygen and free radicals and stuff. One of the things about oxygen is its electronegativity. If we just think about the electrons cloud on the outside of an atom and the...
+
+14
+00:05:45,696 --> 00:06:15,008
+Protons in the nucleus of an atom. Oxygen is actually a fairly small atom compared to bigger, fluffier things like iodine. And so this means that its protons are actually closer to the edge than other atoms. And that plus the amount of electrons it has, it wants eight electrons in an orbital and it's only got six. So this actually makes it fairly reactive. And also the other cool thing about oxygen, oxygen can be toxic.
+
+15
+00:06:15,008 --> 00:06:44,832
+Too High Quantities. If you work in the medical field, this is probably very familiar to you, but higher levels at a normal pressure or a higher partial pressure at normal levels, these are the two ways that you can get oxygen toxicity. There's a big difference in the two, but we won't get into the details, except to say like everything else, the dose makes the poison. You want to do a little bit of the history, Kyle? Yeah, so the discovery and isolation of oxygen,
+
+16
+00:06:44,832 --> 00:07:13,456
+It goes back to Priestley and Schiele, Schiele, I don't know how people want to pronounce it. Schiele, apologies to all those German speakers listening. But previously it was, you know, if you can imagine you're a chemist in the 1800s, it's going to be difficult for you to isolate oxygen out of the air. So to see this component of air,
+
+17
+00:07:13,456 --> 00:07:39,440
+aid combustion so well. And for those of you also who have a little bit of chemistry background, you know that if you have a flame and you douse it in complete nitrogen, only nitrogen, the flame will actually go out. Yeah, that was one of those very early experiments. Yeah. There were experiments done by scientists on themselves and breathing pure oxygen. And he actually noticed that...
+
+18
+00:07:39,440 --> 00:08:08,128
+that he felt a lot stronger breathing pure oxygen, but he also related it to candles burning faster and brighter in pure oxygen, right? So in 1775, from the paper Experiments and Observations on Different Kinds of Air, quote, we might be too soon exhausted in this kind of pure air. A moralist, at least, might say that the air which is nature provided for us is as good as we deserve, unquote. Ah, that's interesting. Right? So like,
+
+19
+00:08:08,128 --> 00:08:36,576
+What he's saying that he didn't realize he was saying is that we evolved perfectly for the atmosphere that we have. Which isn't surprising if you think about it now, but of course he didn't know that in 1775. Yeah, true. So the name oxygen actually comes from, oh God, Lavoisier. He called it oxy-genet, I think is the pronunciation. I apologize for my French, it's non-existent.
+
+20
+00:08:36,576 --> 00:09:04,064
+And apparently the translation is acidifying principle, because in very early acid-based theory, we know it's different now, but in very early acid-based theory, oxygen was necessary to form acids, but we know about acids that have oxygen in them, right? But Lavoisier experimented with combustion of phosphorus or sulfur with oxygen, and yeah, so it turns out it makes phosphoric or sulfuric acid, right? And so he said, quote,
+
+21
+00:09:04,064 --> 00:09:31,024
+It appeared proven that the air we respire contains only a quarter of true air. So like you were saying, you know, atmosphere is only 21-22% oxygen. That this true air is mixed in our atmosphere with three or four parts of an injurious air, a species of moffette, which causes most animals to perish if the quantity of it is a little greater. And he's actually talking about pure nitrogen there.
+
+22
+00:09:31,792 --> 00:09:59,568
+Which makes sense. If you get down to 19% oxygen in your air, that's when you start feeling stupid and you can quickly actually pass out. If any of you have ever worked with other inert gases like welding or working with cryogens or something, the oxygen sensors are tripped to go off if it dips below 20% because you can actually have permanent brain damage below 19%.
+
+23
+00:09:59,568 --> 00:10:26,064
+Oxygen Concentration for too long. So why is oxygen so bad for you? And of course, I mean more than just the absence of it. Oxygen can react to things in a lot of ways that create what we all know are called free radicals. And this is the preferred term here because free radicals can actually be more than just reactive oxygen species. There are also reactive nitrogen species like nitric oxide and stuff like that.
+
+24
+00:10:26,064 --> 00:10:45,520
+In textbooks, these are usually referred to as reactive oxygen and nitrogen species, but I find that to be a little unwieldy for a podcast, so we're just going to go with free radicals, understanding that it's kind of a blanket term. And also, some of the precise chemical mechanisms...
+
+25
+00:10:45,520 --> 00:11:14,848
+Don't seem to be clear in the literature and this gets into a big chemistry rabbit hole anyway and if you think we've gone down one already you have go try to strap yourselves in well we're not going to go that deep but if you want to if you want to go deep if you're interested in this chemistry just start looking up you know what's the mechanism of free radical damage like as opposed to the mechanisms of how enzymes work which are generally pretty clear cut for how this works is not so clear cut
+
+26
+00:11:14,848 --> 00:11:44,480
+But we do see the effects of these things. And that's also why these things should also not be called oxidants. Because one of these things, superoxide, which is .02-, is actually more likely to act as a reductant than an oxidant, which means it's going to give away its electrons. So here's a quick terminology, primer for you. Oxidation is the loss of electrons, because usually oxygen is taking them.
+
+27
+00:11:44,480 --> 00:12:13,456
+is the gaining of electrons. Because when somebody gives you a negative charge, your charge is reduced by one. So literally minus one. So does that make sense? Yeah, it's Leo the lion says ger. What? No, keep going. Leo, so it's Lew's electron is oxidizing.
+
+28
+00:12:13,904 --> 00:12:42,448
+Gurr, gain electron is reduction. So Leo the Lion says Gurr. Shout out to my high school chemistry teacher for that one. I've had years of chemistry and I've never heard that in my life. Gurr. Okay, so, alright, so let's look at it this way. A molecule of glucose that we use in aerobic respiration is oxidized and the oxygen that it turns to water
+
+29
+00:12:42,448 --> 00:13:11,216
+is reduced. Okay, so how are free radicals formed? Here's the newsflash item, is that radiation is a big thing that causes free radicals, and I actually had to check a bunch of sources because I didn't believe this the first time I read it. So radiation reacts with water. This is what's also known as ionizing radiation. Ionizing just means the moving of electrons. So apparently, according to my resources, 90% of the damage done by radiation
+
+30
+00:13:11,216 --> 00:13:40,400
+Poisoning is done by free radicals formed between the interchange of water and oxygen. So radiation causes electrons to move around in oxygen and water and it creates free radicals and that's apparently where most of radiation poisoning, acute radiation poisoning, I guess, you know, comes from. So free radicals are also formed by higher oxygen O2 pressures and higher levels at normal pressures in the air.
+
+31
+00:13:40,400 --> 00:14:06,192
+But the reason that this causes free radicals is because it overwhelms our body's ability to control and manage free radicals. Okay, so the immune system makes free radicals too. And this is actually pretty awesome because neutrophils make free radicals in special compartments or organelles. And what they do is they envelop foreign microorganisms.
+
+32
+00:14:06,192 --> 00:14:31,024
+into these specialized compartments and they just blast them with free radicals and they just melt. So it's kind of great. It's really metal. That's smart. That's good. Your body's using the destructive properties of oxygen to your benefit to actually attack the...
+
+33
+00:14:31,024 --> 00:14:48,128
+The virus or the bacteria or whatever it is. Yeah, exactly. And that's awesome. And also free radicals are used for inter and intra cell signaling. And we'll talk about that in a little while. All right. So let's talk about free radicals for a second. Specifically,
+
+34
+00:14:48,128 --> 00:15:14,880
+And just real quick, the list of the free radicals from oxygen that we're going to be talking about today are superoxide, that's O2 dot minus, as you would see it written, hydrogen peroxide, that's H2O2, of course, and the hydroxyl radical, that's OH dot. All right, so free radicals are defined as a molecule that's capable of independent existence, however long or short, so half-lives of these things can be really brief or actually...
+
+35
+00:15:14,880 --> 00:15:44,592
+Extended, so we're talking like very tiny fractions of a second to several minutes maybe with an unpaired electron. Free radicals are unstable and unstable things react with other things and release energy and sometimes this also means that an electron is bouncing around too. We'll talk about that in a sec. So O2, for example, has two unpaired electrons that might be considered a potential free radical.
+
+36
+00:15:44,592 --> 00:16:09,120
+But that everything in existence doesn't immediately burst into flames shows that not all free radicals are instantly reactive. The other place that free radicals come from is in the electron transport chain, which we need to make ATP. So they're being made constantly right there in all of your mitochondria in every single cell. And so, you know, it sounds pretty dangerous, right? But...
+
+37
+00:16:09,120 --> 00:16:33,632
+What does an unpaired electron do that's so dangerous? And we'll talk about controlling that in a minute. So the big thing is that it creates chain reactions. So it bounces around this unpaired electron and is reactive with whatever it gets its hands on until it gets absorbed somewhere. And there are specialized systems in your cells that are made to absorb.
+
+38
+00:16:33,632 --> 00:17:02,544
+You know, just an unpaired electron, which is actually chemically pretty hard to do. Not a lot of things can do that. And especially in cell membranes, this is really bad because they're packed very, very tightly. And so the most dangerous free radical in your body is the one that's usually first formed, which is the hydroxyl radical, or dot OH, you'll see in the literature, which, you know, essentially reacts with the first thing that it touches. It's so reactive.
+
+39
+00:17:02,544 --> 00:17:30,368
+Pretty much as soon as this thing is formed, you know, if you want to think about an attosecond or a yottosecond or whatever tiny fraction you can, you know, possibly measure, it's got that long to lift before it bounces into something else and reacts. When you read articles on antioxidants and hydroxyl radicals and stuff like that, you can't actually, quote unquote, scavenge this free radical because it exists so fast.
+
+40
+00:17:30,368 --> 00:17:47,280
+that the odds that it's going to bump into an antioxidant next is incredibly small. You would need antioxidants in a concentration higher than all other molecules combined to stand a chance, and that alone would kill you.
+
+41
+00:17:47,504 --> 00:18:14,976
+Another fun fact is that something people are probably pretty familiar with is the idea of hydrogen peroxide, which is actually just two of these OH hydroxyls bonded together. And in high concentrations, people usually call it high test peroxide, which is actually a common rocket propellant. So if you want to make some liquid rockets at home, kids,
+
+42
+00:18:14,976 --> 00:18:44,496
+High concentration hydrogen peroxide is one way to do it. Yeah. I actually knew a kid, a kid, a guy who would actually drink a small quantity of hydrogen peroxide every day because he thought it would get rid of the free radicals. Ah, that's smart. Yeah. Yeah. Yeah. He goes, yeah, it's food grade. It's okay. Like, yeah. Yeah. Okay. That's, that makes it perfectly safe. But as a, as a reference, most of the hydrogen peroxide you can buy at the store is, is like,
+
+43
+00:18:44,496 --> 00:19:11,472
+A few percent, it's like 3% hydrogen peroxide, the rest of it is water. And in order to use it as a rocket fuel, you need like 90% hydrogen peroxide. Yeah, and if you buy quantities that large in the grocery store, I bet the FBI is going to come after you. Yes. All right, so why is oxygen necessary if it's dangerous? Well, the reason is that the same qualities that make it reactive and dangerous
+
+44
+00:19:11,472 --> 00:19:40,992
+also make it very useful for being alive. So in theory, it should be easier to add electrons to O2, which releases energy. Anything that releases energy is in general, actually universally favorable to happen spontaneously. So it should be easier to add electrons to O2 than remove them from water, which requires a large energy input, which is what photosynthesis does. So the addition of electrons to O2
+
+45
+00:19:40,992 --> 00:20:06,416
+Can be seen in burning, which happens quickly, like lighting paper on fire, or in respiration, which is a very, very slow process. So, for instance, reaction of 125 grams of sugar with oxygen releases enough energy to power a 100-watt bulb for five hours, or boil three liters of water.
+
+46
+00:20:06,608 --> 00:20:31,920
+And so the oxidation of food very simply means sending electrons to oxygen. This is how we stay alive. And if you're like me, it's a lot of food. So some of you may be wondering, up earlier we said that oxygen, molecular oxygen has two unpaired electrons. And you could be saying, well, so then shouldn't...
+
+47
+00:20:31,920 --> 00:20:59,904
+Molecular Oxygen, Want to Bounce Around in Our Room, In The Car, Everywhere, And Just Light Things On Fire, Or Immediately Rust Them. And it turns out, no, due to some strange rules in quantum mechanics, which all rules in quantum mechanics are strange, the unpaired electrons in molecular oxygen are actually more stable than the
+
+48
+00:20:59,904 --> 00:21:23,776
+other case where you'd have paired electrons. And this happens to be because of something called Hund's Rules, which gets into the stability of electrons in various orbitals. But you can actually make this more reactive version of oxygen called singlet oxygen, which means singlet state. The regular...
+
+49
+00:21:23,776 --> 00:21:53,232
+Oxygen molecule that we're more familiar with in day-to-day life is the triplet state, but the singlet state is more reactive, and it takes one of those unpaired electrons, and it pairs it up with the other one, and this actually makes it a higher energy, unstable, more reactive species. Right, that's because it leaves an empty bonding orbital, right? Correct, yeah. So now you've had these partially filled orbitals, and now you've, which is
+
+50
+00:21:53,232 --> 00:22:12,304
+More preferable to have more of them partially filled than to have some of them completely filled and one completely empty. Right. So it's actually feeding oxygen one electron at a time, so each unpaired electron gets its own partner independently. And this is like...
+
+51
+00:22:12,304 --> 00:22:37,712
+Like this has to happen in this order. You can't just give O2 four more electrons and four protons and be like, here, go be two water molecules and don't bother anybody. You have to give it one electron at a time, which is what burning does and it's what cellular respiration does. It's what the electron transport chain does. So yeah, so and like for example that we kind of talked about earlier, iron is also capable of doing this now.
+
+52
+00:22:37,712 --> 00:23:05,104
+Iron is a much, much larger molecule and has way more electrons than oxygen does, but it is also capable of gaining and losing electrons to be stable, and this partially contributes to the magnetism of the atom. And everyone knows that iron is one of those natural magnets that we see in nature. But what not everybody knows is that oxygen is also magnetic for this reason.
+
+53
+00:23:05,104 --> 00:23:32,208
+Although, good luck using a magnet on it. Well, if you just Google magnetic oxygen, you're going to see liquid oxygen suspended between two very powerful magnetic poles. It's actually really cool to see. And, you know, it does show that, in fact, yeah, oxygen is magnetic. And actually, way back in the day, when science lectures were like shows,
+
+54
+00:23:32,208 --> 00:24:00,464
+like you didn't go to a play like if you were any kind of intellectual back in the day you went to like a science lecture and the best scientists were also great performers and they this is one of the experiments that drew huge crowds is going to see liquid oxygen suspended between two magnets so it's actually a classic experiment at this point but yeah it's it's really really cool so so oxygen's properties make it
+
+55
+00:24:00,464 --> 00:24:19,920
+easily bind to heme groups, which are just iron groups in a certain ring. You know, that's where we get the name hemoglobin from. And that's how it's transported to cells. You know, oxygen binds briefly to hemoglobin and then it goes elsewhere and then it like pops off. It's like, yeah, thanks for the ride.
+
+56
+00:24:19,920 --> 00:24:42,080
+And this also explains the propensity of iron to rust because of the attraction between oxygen and iron. And this also explains why things bind to iron in the body better than oxygen like carbon monoxide, hydrogen sulfide, and cyanide. And that's how we get poisoning from these things.
+
+57
+00:24:42,080 --> 00:25:06,192
+It's oxygen's energy release when forming water that makes it biologically useful, but like I said, it's the steps between them that are dangerous. So now we understand oxygen enough and how its intermediate states between oxygen and water, now with this background information, we can think about the electron transport chain.
+
+58
+00:25:06,256 --> 00:25:32,608
+Because if I just told you this without the background on oxygen, you might go, oh, okay, whatever. But how do free radicals form, really? This is how they form. So the electron transport chain is a giant ATP producer in our cells. Well, okay, not technically, but, well, okay, so here's what happens. The electron transport chain moves electrons down an energy gradient.
+
+59
+00:25:32,608 --> 00:26:02,112
+and also at the same time it moves protons between two membranes and we'll get into this in detail in another episode when we talk about the production of ATP but what happens is electrons move through things and you've probably heard of these things from complex 1 to coenzyme Q to complex 3 to cytochrome C to complex 4 or electrons move from complex 2 to coenzyme Q
+
+60
+00:26:02,112 --> 00:26:32,080
+into complex three and, you know, again, cytochrome C and again, complex four. So there's a ton of dietary vitamins that are involved in this transfer, like a bunch of B vitamins and stuff, et cetera, et cetera. You know, you can just look up, you know, what are the vitamins involved in electrons transport chain, and you're going to find a giant list. And pretty much eating any kind of food is going to have these vitamins in it, in some with, you know, greater or lesser proportions, as always.
+
+61
+00:26:32,080 --> 00:27:00,800
+One of the reasons that this is critical to understand is that getting energy from food is really just stripping protons and electrons and letting them roll down a chemical hill and this energy is used to make ATP. So oxygen's role here is how we aerobically produce ATP at rest or during exercise. O2 is actually at the bottom of the chemical hill. So its role in the electron transport chain is
+
+62
+00:27:00,800 --> 00:27:27,872
+making water from O2 gas. As we've said before, it's going to take four electrons and four protons, and with O2, it's going to make water. So this actually happens at complex four, which sits on the mitochondria's inner membrane with its top and bottom exposed into the two different compartments in mitochondria. So remember, mitochondria has two membranes, outer and inner.
+
+63
+00:27:27,872 --> 00:27:53,968
+So complex four sits on the inner one and, you know, it's kind of like an iceberg if, you know, the ocean were like half as wide as the iceberg, I guess. So complex four is actually the enzyme where things like cyanide and carbon monoxide and hydrogen sulfide can poison you because they stop electrons from getting to O2. Like it's literally like stopping a bucket brigade and letting a fire burn.
+
+64
+00:27:53,968 --> 00:28:20,608
+Complex 4 does what's called a sequential reduction of molecular oxygen. And this just means adding electrons and protons one by one by one by one. So this is where the formation of free radicals, superoxide, hydrogen peroxide, and hydroxyl radicals are necessary intermediates. Like there's no way to avoid it. You've actually probably seen this reaction.
+
+65
+00:28:20,608 --> 00:28:49,344
+somewhere, but you might see it as one-half O2 plus two hydrogen and two electrons yields H2O. And so what actually happens here is that complex IV plucks electrons off cytochrome C, which has both iron and copper in it, by the way, and it gives them to O2, which is actually why complex IV is called cytochrome C reductase. So it is reduced by cytochrome C.
+
+66
+00:28:49,344 --> 00:29:16,800
+It takes its electrons. And you'll note that if you look up in the periodic table, both copper and iron have a lot more electrons than oxygen, and so it is always going to be easier to pluck the outer electrons off iron and copper than it is to pluck them off something like oxygen. All right, so complex four is where free radicals get formed and released, and since this process isn't going to nail it 100% of the time,
+
+67
+00:29:16,800 --> 00:29:44,384
+including the actual chemical process of moving electrons around as you might expect by now. So measurements from various papers on how many free radicals escape from the process of turning oxygen into water is 1-2% in the form of superoxide radicals, which is the most common one actually, but a possible total of up to 5% at rest, I should say, at rest.
+
+68
+00:29:44,384 --> 00:30:14,016
+And let's also remember that hydroxyl is going to react with the first thing that it touches. So the free radicals that are probably going to actually be getting loose are superoxide and hydrogen peroxide. So this is how cells naturally create their own oxidative stress and free radicals in the normal day-to-day business of being alive. And there's no chance that this happened without also developing ways to compensate.
+
+69
+00:30:14,016 --> 00:30:33,136
+probably don't need to mega-dose antioxidants more than you get in a normal diet, no matter what Linus Pauling says. What about my emergency packets where there are some cyclists out there who love their large doses of vitamin C? Kyle, oh my god. Let's not get into that.
+
+70
+00:30:34,064 --> 00:31:01,712
+Yeah, Linus Pauling thought vitamin C would cure cancer and cure the common cold and all kinds of things. He was a brilliant guy. Okay, anyway. Yeah, so the creation of free radicals is oxidative stress. That's pretty much what oxidative stress is. Whenever somebody thinks about oxidative stress due to...
+
+71
+00:31:01,712 --> 00:31:31,712
+Due to exercise, they're not thinking about, you know, the, you know, I need more oxygen. What the, technically what's, what they're really saying is, we are creating free radicals because of the greater flux of oxygen through the cell. It should be noted that during very strenuous exercise, the totals of free radicals escaping from complex four might actually be as high as 10%.
+
+72
+00:31:31,712 --> 00:32:00,800
+2 to 10 times what we experience at rest. And for reference, if only 1% leaked to form superoxide radicals, you're probably making 1.7 kilograms of it per year. That's a lot, right? Yeah, that's a lot. Yeah. I mean, it's a slow process, but we are breathing liters and liters of oxygen at rest, some of us more than others, obviously.
+
+73
+00:32:00,800 --> 00:32:28,176
+But, you know, does that mean Chris Froome has like the most free radicals in his body? Actually, it might be the case. I don't know. Superoxide, like I said, is the most common, but it's not the most reactive. So hydroxyl radicals and hydrogen peroxide near iron are very reactive, and these can also cause large chain reactions. And what do we have a lot of in the electron transport chain? Iron. So there's a very real question as to whether...
+
+74
+00:32:28,176 --> 00:32:53,488
+A lot of this gets all the way to DNA and can damage it to cause cancer. Under normal conditions, under obviously ionizing radiation, this is going to be a huge problem because it's going to cause free radicals everywhere in your cell and there is water everywhere in your body. So does it go from the mitochondria to the nucleus to DNA?
+
+75
+00:32:53,488 --> 00:33:22,688
+Apparently it's up for debate still. But remember, mitochondria have their own genome that's like right there and can be damaged too. So it's the leaking of free radicals and ionizing radiation and a ton of other things that can actually activate genes to do something about all the free radicals that we're experiencing. Because remember, oxidative stress, the creation of free radicals,
+
+76
+00:33:22,688 --> 00:33:49,456
+is an imbalance between free radical production and antioxidant protection. So it's not just a state that the cell is having an issue, but it's the signal to activate genes involved in things like heat stress, insulin, and other things when the cell's state is quote-unquote reductive, meaning that there's a lot of free radicals and they can get turned off when there are higher levels of antioxidants.
+
+77
+00:33:49,456 --> 00:34:18,304
+Kyle, wouldn't it make sense to you for the body to use the larger production of free radicals as a signal that, hey, we're working pretty hard over here and you might want to do something about it to get better at this next time? Yeah, definitely. You can imagine lots of things like in your body are you have a natural way of handling this and if your body is producing antioxidants or whatever at a certain rate and then all of a sudden it gets overwhelmed,
+
+78
+00:34:18,304 --> 00:34:46,032
+It's like, oh hey, we noticed this building up in your blood or building up in your cells. Like, you end up developing a, your body sees it once and that tells it as a signal like, oh hey, be more prepared for this next time, so make more. Yeah, yeah, pretty much. Yeah, and so now we touch on antioxidant systems. So, are free radicals bad? Is, you know, you guys are probably realizing right now that they're
+
+79
+00:34:46,032 --> 00:35:15,216
+you know that there's a context to them um that you know no free radicals are not always bad sometimes they're very bad and sometimes they're just naturally occurring and you know we've evolved to be able to handle these things how do we end a free radical chain reaction so either two free radicals meet each other um or yeah or when a free radical product is not very reactive it's just gonna sit there with remorse
+
+80
+00:35:15,216 --> 00:35:41,488
+So with a free radical like superoxide, it's actually so close to being a regular O2 molecule, it's just got one extra electron, it's actually very likely to just get rid of that electron and reduce something else, which is a very weird thing for oxygen. If you've studied a lot of chemistry, that's a very strange thing to see. And then it'll just become a regular molecule of oxygen.
+
+81
+00:35:41,488 --> 00:36:10,256
+Here's the other side of it though, that a lot of things are capable of donating a single electron, but not a lot of things, like we said before, are capable of accepting a single electron. And now let's think about some of the things that can. So cytochrome C and other things in the electron transport chain move single electrons down the chain. And so cytochrome C itself can actually remove superoxide and hydrogen peroxide.
+
+82
+00:36:10,256 --> 00:36:39,792
+because of its iron and other cofactors. Because like in its role in the electron transport chain, it's good at accepting and donating single electrons. So it'll probably pluck an electron off superoxide and it'll just feed it right back into the electron transport chain and be like, here you go, buddy. Yeah, it's had to slide around. Yeah, you missed it. And like we said before, free radicals are great for immune system function, melting viruses and bacteria and whatever. It's awesome.
+
+83
+00:36:39,792 --> 00:37:06,400
+Catalase. So, you know, we brought up previously the guy who, you know, was drinking hydrogen peroxide because he thought it would get rid of free radicals. But there's an enzyme called catalase that actually turns, you know, it actually neutralizes hydrogen peroxide. And this is actually, and it makes oxygen.
+
+84
+00:37:06,400 --> 00:37:29,184
+And this is actually one of the things that happens when you pour hydrogen peroxide on a wound. Bubbles that you see are oxygen forming because of catalase, which is everywhere because, you know, we have catalase everywhere because there are free radicals everywhere because all of our cells have mitochondria. So the question is, is hydrogen peroxide good for wounds? I know we're way off topic from cycling here, but, you know.
+
+85
+00:37:29,184 --> 00:37:58,528
+It might be useful to know that the latest research says it actually might damage new cells being formed during wound healing. So, you know, I wouldn't, personally. Hold off for the road rash, maybe no hydrogen. Yeah. There's another enzyme called superoxide dismutase, which actually sounds like a supervillain or something. So it takes two superoxides and it makes H2O2,
+
+86
+00:37:58,528 --> 00:38:28,320
+and Oxygen. So it uses metals to absorb the electron, manganese, copper, and zinc. You know, depending on the metal and where it is in the body, blah, blah, blah, there's a bunch of different versions of superoxide dismutase. And also, you know, this bunch of enzymes will increase their presence when you are exposed to higher concentrations of oxygen. Vitamins C and E.
+
+87
+00:38:28,320 --> 00:38:57,408
+are big antioxidants, obviously. So vitamin E protects against peroxy radicals in the membrane because vitamin E is fat soluble. I always think about DAK or DECA or something like that. D, A, K, and E are the fat soluble vitamins. And membrane damage is very bad as always because our cell membranes are what keep the organization of life away from the chaos of the outside world.
+
+88
+00:38:57,408 --> 00:39:24,192
+We are avoiding entropy with our cell membranes, so they're a little important. Vitamin C is water-soluble, and what happens between vitamin C and E is actually vitamin C goes and plucks the free radical electron from vitamin E, which creates the regular form of vitamin E again, and now it can go back to plucking up free radicals that it finds around.
+
+89
+00:39:24,192 --> 00:39:50,640
+And so actually vitamin C in large enough doses, by the way, can actually act as a pro-oxidant. So another reason not to mega dose vitamin C. But at least you'll pee it all out because it is water soluble. Eventually. So the other cool thing about vitamin C and E is that when they do get this spare electron and they are free radicals themselves,
+
+90
+00:39:50,640 --> 00:40:18,992
+They are actually fairly unreactive, which is one of the things that makes them really cool. So coenzyme Q10, we mentioned this before, this is part of the electron transport chain, and it carries electrons from complexes 1 and 2 to complex 3. Something called glutathione, and this actually has a really cool thing where it has an exposed sulfhydryl group, which is just an SH on the end, which is very reactive.
+
+91
+00:40:18,992 --> 00:40:42,896
+and it actually donates the free radical electrons that it picks up to NADPH which, by the way, feeds electrons into the electron transport chain. How cool is that? We've made it back, full circle. Yeah, we have. Yeah, so now we have two places that we know about. This and cytochrome C where, you know...
+
+92
+00:40:43,120 --> 00:41:09,824
+Like, we actually reuse the free radicals, you know, and just put them right back to where they were supposed to go in the first place. And so there's a lot of others, but those are the big ones. So, lots of people love to talk about superfoods. God, I hate that term. And this primarily revolves around the idea that it's good for health and wellness if you
+
+93
+00:41:09,824 --> 00:41:39,136
+have a large dietary intake of antioxidants. So, common ones, like we mentioned, vitamin C, vitamin E, they are widely available in foods, so like, the reason that people like to say fish is very healthy is it has a lot of vitamin E, and then vitamin C, obviously people know oranges or citrus fruits. So, is it good? Should I take my hard-earned money? Should I go to
+
+94
+00:41:39,136 --> 00:42:06,560
+the store and should I buy lots of dietary supplements that contain antioxidants? So lots of the studies say that just eating more natural sources of the food are perfectly acceptable. However, some studies suggest there is a risk actually associated with additional supplementation. Some people have a theory about these antioxidants that they were actually a
+
+95
+00:42:06,560 --> 00:42:29,888
+Pre-requisite for life and the formation of complex life because of the very oxidative nature of oxygen and needing to actually have a good way to control in a natural way the buildup of the intermediates in this that we've just talked about that are these free radicals. I think another thing people often hear about is oh we want to prevent the buildup of free radicals which is again just this
+
+96
+00:42:29,888 --> 00:42:59,264
+Horrible, horrible, inaccurate statement that somehow these free radicals that if you exercise or if you're stressed a lot, if you're sick, that it's not going to build up in your bloodstream or build up inside your cells and do serious damage. And as we just talked about, that's just not true. Like they're going to, you know, wander around and either react or they're going to wander around and your body's natural processes for dealing them are going to get rid of them. Yeah, yeah. So, yeah, pretty much like unless you have a medical condition.
+
+97
+00:42:59,264 --> 00:43:28,880
+One caveat is with lots of different supplementation routines for lots of naturally occurring chemicals in your body that large amounts of supplements can actually cause your body to create lower levels of them naturally because your body sees these large levels in your blood and says, oh, hey, we don't have to make as many antioxidants.
+
+98
+00:43:28,880 --> 00:43:56,496
+obvious one that the food pyramid wanted to tell me when I was younger is that you should eat more fruits and vegetables because they do actually have, in addition to being generally healthy, they are good sources of antioxidants and sure enough, if you eat more fruits and vegetables, kids, you'll probably live longer. But is that because of the antioxidants or is it because of the fiber and the water and the other vitamins?
+
+99
+00:43:56,496 --> 00:44:22,000
+Typically people who eat more fruits and vegetables are also probably more likely to exercise regularly. So is it because they have antioxidants? Maybe. But remember that, as we said before, the dose makes the poison and so anything that can be good for you in certain concentrations can certainly be bad for you. So very large doses of vitamins can be toxic and actually...
+
+100
+00:44:23,024 --> 00:44:51,520
+Large buildups of certain vitamins can actually be an indication that you have organ failure, like some of your organs, your kidneys, are responsible for filtering out a lot of these, the high concentrations of a lot of these water-soluble vitamins, and so if you start to have bad kidneys, you have to actually avoid a lot of these vitamins that we've talked about. But, and unfortunately for those companies that like to sell,
+
+101
+00:44:51,520 --> 00:45:19,568
+these mega doses of vitamin C. Studies show that there is a lower risk for cancer for people with higher levels of vitamin C in their blood, but this is not related to vitamin C supplementation. So just taking your thousand milligrams of vitamin C every day is unfortunately not likely to lower your risk for cancer. Right, because isn't your body just saying like, oh, this isn't the level that we normally have, we're going to get rid of whatever extra, and it like goes back to baseline.
+
+102
+00:45:19,568 --> 00:45:48,944
+Exactly, yeah, you're gonna, if, I don't know if anyone has ever taken these large doses of vitamin C, but I know I have, especially if I've been sick and things like that, and you can definitely tell the next time you go to urinate that your body is excreting most of those vitamins. Another fun one to do that was with large concentrations of certain B vitamins that will actually turn your urine bright yellow, and that's how you know that you're not actually absorbing any of it. Or much.
+
+103
+00:45:48,944 --> 00:46:16,144
+Or much of it. And then, yet still, other studies show that consumption of large amounts of antioxidant vitamins, something like 4 grams of vitamin C, which is like, is something like, you know, 7,000% of your daily recommended intake, actually blunts your aerobic training adaptations. So, for those of you thinking like, oh, I'm gonna get done with a really hard training session and then...
+
+104
+00:46:16,144 --> 00:46:45,792
+Down a bunch of vitamins. Well, you may actually be negating some of the benefits to training. And if we kind of think about what we talked about previously, and we'll link this study in the show notes, but if this buildup of oxidative stress is a signaling pathway for your body, then you actually do want to allow your body to develop this small excess of free radicals.
+
+105
+00:46:45,792 --> 00:47:08,192
+and not just nuke them right away with ridiculous superhuman levels of vitamin C. Yeah, and the study that we linked to in the show notes, the doses actually used were 1,000 milligrams of vitamin C and 235 milligrams of vitamin E. I think like one IU of vitamin E is only like...
+
+106
+00:47:08,192 --> 00:47:37,824
+50 milligrams. It's like if you go to the store and you buy vitamin E supplements, the serving size is nowhere near 200 milligrams. Yeah, actually the recommended dose is 15 milligrams, which is actually 22 IU. And they say, oh, you only have to take one of these a day. Take one with food. Yeah, chances are you're getting plenty in your food normally if you're eating a healthy diet. Yeah, and so we do need free radicals.
+
+107
+00:47:37,824 --> 00:48:01,248
+to adapt to endurance training. So actually, you know, so there's another study that we've linked to that shows that doses as high as 500 milligrams of vitamin C and 400 IU of vitamin E. Wow, that's a lot. And one study did not blunt training adaptations. However, the authors in their conclusion note
+
+108
+00:48:01,248 --> 00:48:18,976
+that, quote, healthy people who just exercise regularly to improve or maintain a certain level of fitness should be more critical toward antioxidant supplements, unquote. And the reason for this is because the authors think that people who are more highly trained
+
+109
+00:48:18,976 --> 00:48:48,560
+You know, like large amounts of antioxidants is not going to affect them. And actually this kind of makes sense in a way because if you are a highly trained, highly endurance trained individual, you are very, very, very used to getting huge amounts of oxidative stress and you're used to handling that. And so, you know, so supplementing with antioxidants is sort of like if, you know, the U.S. Army fought the army of like, I don't know, Malta.
+
+110
+00:48:48,560 --> 00:49:10,832
+And then the Russian army showed up and were like, hey, we're here to help. Like, we got it, guys. Okay, so the other thing the authors talk about in this paper is that there's something called a hormesis effect with free radicals. Or this is their postulation anyway. And, you know, I think it's got about 50% merit.
+
+111
+00:49:10,832 --> 00:49:40,352
+And where they say some free radicals induced by exercise lead to beneficial effects because that's what we're capable of handling, but then too much leads to negative consequences. And so antioxidant supplementation can potentially blunt the effect window. And they also note that the training regimen that they had in this study was harder than in previous studies and that the vitamin dose may not have been large enough to actually blunt the effects.
+
+112
+00:49:40,352 --> 00:49:50,224
+500 milligrams of vitamin C, 400 IU of vitamin E. So there's a potential here that if you train hard enough...
+
+113
+00:49:50,224 --> 00:50:11,472
+No matter what you supplement, maybe I shouldn't say that, if you supplement 500 milligrams of vitamin C and 400 IU of vitamin E, you are still going to increase your fitness. But again, in this study, they didn't use a ton of really well-trained people, they used moderately active people, and they had them train really, really hard, of course.
+
+114
+00:50:11,472 --> 00:50:35,184
+and both groups who were supplementing the antioxidants and the group who was not supplementing the antioxidants all raised their VO2 max to similar levels. So there's a lot going on in that study and hopefully there are some other really interesting studies kind of teasing that apart.
+
+115
+00:50:35,184 --> 00:51:02,880
+But just in general, I would actually recommend that if a lot of your training comes from lower intensity, then, of course, this might make you a prime candidate for large amounts of dietary antioxidants, blunting training effects. Because if you can train high-intensity training, VO2 max, that kind of stuff, and avoid antioxidant supplementation, blunting your training adaptation,
+
+116
+00:51:02,880 --> 00:51:23,456
+Then, you know, if you're training at a lower intensity and the oxidative stress that you experience is smaller because the flux of oxygen through your working muscles is smaller, then, you know, I would actually suggest that you are actually a prime candidate to have interference from supplementary antioxidants.
+
+117
+00:51:23,456 --> 00:51:48,976
+So if you're doing long endurance miles, if you're doing polarized and you're doing under VT1, any kind of low intensity training like that where you need a larger volume, I mean, certainly oxidative stress is not the only trigger of adaptation, but it is definitely one of them. And studies do show that you can definitely blunt those training adaptations. So this is something that you might want to consider very carefully.
+
+118
+00:51:48,976 --> 00:52:15,664
+So free radicals, which actually, if you read a lot of these studies, they're usually referred to as reactive oxygen species, shortened to capital ROS, do cause changes in some enzymes that lead to increased PCG1 alpha transcription in cells. So we won't get into that pathway, but it is very well studied. We can think about this as the main node for increased...
+
+119
+00:52:15,664 --> 00:52:44,720
+Aerobic Adaptation is through PCG1 Alpha. All roads tend to like point to PCG1 Alpha. So that includes like P38 and AMPK and blah, blah, blah. You know, so all of this lead to obviously a great necessity for your body to control blood flow and oxygen pressure in the muscles. So the partial pressure of oxygen in the muscles is almost always around three to 4% of, you know, of regular atmosphere, even during
+
+120
+00:52:44,720 --> 00:53:11,344
+Very Intense Exercise. What actually changes is the flux or the rate of oxygen going through the muscles that changes. So the metabolic rate in working muscle can be up to 100 times higher than in resting muscle. This is also accompanied, of course, by a huge increase in free radicals, as we've discussed, and there's only a transient increase in oxidative stress in working muscle, but
+
+121
+00:53:11,344 --> 00:53:39,072
+It changes gene expression to increase aerobic fitness. So, right? Kind of makes sense, yeah? Yeah. So, there's also good evidence that the body gets better at dealing with free radicals, of course. There's a lot of papers on free radicals and aging that I actually haven't read, but could be related. You know, I typically see free radicals and aging, and I think, oh, it's not really my thing.
+
+122
+00:53:39,072 --> 00:54:02,384
+but you know somebody out there who's actually read a lot of these things could probably you know if you want to fill me in please do one of the consequences of all this is that the body is going to keep blood flow and therefore oxygen flow to a minimum unless demands are high enough and this is actually a really really really critical thing in understanding exercise physiology is that the body responds to demands
+
+123
+00:54:02,384 --> 00:54:26,448
+You know, we have to contract at a certain level for a certain length of time, and the body is going to adapt to do that better. And, you know, and it's not like, it's not like we push more oxygen into the muscles and therefore we make more ATP. No, the ATP in your muscles plummets.
+
+124
+00:54:26,544 --> 00:54:53,280
+And your cells go, okay, you know, it's this long, like, downhill, you know, chain of, it's literally like, energetically, it's literally like rolling down a hill. You're just gaining potential energy chemically until you get to, you know, putting four electrons and four protons on an oxygen. So always remember that. It's, you know, a response to demands.
+
+125
+00:54:53,280 --> 00:55:13,728
+That's what the body does. It responds to demands. So if you want more oxygen in your muscle tissue, you have to ask for it with training, with altitude, with all kinds of other things. And in the short term, you get more blood flow. And in the long term, you get more capillaries. So this is...
+
+126
+00:55:13,728 --> 00:55:41,920
+Again, exemplary of everything in exercise. The body responds to demands for things. And so, you know, like I said, like a lot of people tend to get the cart before the horse on this one. So for what we're talking about today, the electron transport chain works because the electrons flowing through react with oxygen that is there, which decreases the oxygen in the tissue and induces more oxygen to be delivered. Makes sense. Yeah. And so this is why at rest,
+
+127
+00:55:41,920 --> 00:56:11,776
+Skeletal Muscle contributes very little to metabolic demand, but during intense exercise, it is a huge energy hawk. And of course, this actually leads to a theory that I have on active recovery. So because oxygen is so potentially destructive and it takes so many resources in order to control the free radicals that happen with large amounts of oxygen flow,
+
+128
+00:56:11,776 --> 00:56:41,360
+Blood flow to muscles is restricted when not in demand. And therefore, that actually means other nutrients are also restricted to muscles while not in demand. So my theory is, there's obviously no evidence to support this, this is just a somewhat educated guess, that active recovery really works because it increases blood flow to muscles that otherwise are not getting so much.
+
+129
+00:56:41,360 --> 00:57:06,400
+And so, you know, you might think that, yeah, of course there's blood flow to muscles while you're at rest, but it's not nearly the same amount. And, you know, muscle cells can only absorb the things that are going across their cell surface. So if the blood flow is actually too low, you know, then your nutrient exchange is going to be pretty low.
+
+130
+00:57:06,400 --> 00:57:35,872
+Modes of Recovery that really work are the ones that actually increase blood flow. So, you know, just going for like a short, easy spin for most people feels amazing by the time you're done. And I think this is one of the reasons why your muscles finally get the chance to do some nutrient exchange. To me, this is actually the mechanism of active recovery. But of course, knowing me in a year, I might have a totally different theory.
+
+131
+00:57:35,872 --> 00:58:04,864
+This may have been a little more science than we normally cover, but hopefully now people understand a little bit more what is meant by the term antioxidant and also what antioxidants actually do for you and maybe we save some people out there a little bit of money if they're going to go to the health food store and feel like they're going to spend your money on something else. And I hope that actually people find this useful in understanding free radicals and what they really are.
+
+132
+00:58:04,864 --> 00:58:30,128
+and how they're made in the body. Stay away from radiation, kids. Yeah, and so, yeah, I just hope this is very helpful in understanding everything and also because, you know, as you exercise and you think about what's happening in your cells, what is happening that is going to make me faster, remember that free radicals are one of the signals that happens naturally.
+
+133
+00:58:30,128 --> 00:58:47,664
+and your body is made to handle the amount that you are making. So don't be too worried about free radicals unless you have a condition, which are real. Not to minimize that at all, but most people listening to this are probably fine.
+
+134
+00:58:47,984 --> 00:59:16,192
+All right, so everybody, as always, I want to thank you guys for listening. Remember to please subscribe and let your friends know about the podcast if you've been enjoying it. And also head over to patreon.com slash empiricalcycling if you want to check out some of the patron options. You know, again, we are an ad-free podcast, so if you just want to support the podcast, you know, please send a donation at empiricalcycling.com slash donate. And if you have any questions or comments or coaching inquiries, please send an email to empiricalcycling.com.
+
+135
+00:59:16,192 --> 00:59:22,352
+at gmail.com. And with that, thank you, everybody. Bye. Thanks, everyone.
+
