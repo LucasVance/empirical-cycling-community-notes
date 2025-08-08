@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Recent
 
 <p>
@@ -7,8 +11,6 @@
     {% endfor %}
 </p>
 
----
-
 ### Watts Doc Series
 
 <p>
@@ -17,8 +19,6 @@
     {% endfor %}
 </p>
 
----
-
 ### Ten Minute Tips
 
 <p>
@@ -26,8 +26,6 @@
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
 </p>
-
----
 
 ### Perspectives
 
