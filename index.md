@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Empirical Cycling Transcripts
 ---
 
 ### Recent
