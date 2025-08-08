@@ -1,0 +1,528 @@
+1
+00:00:00,720 --> 00:00:30,320
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolin Moore, joined as always by my co-host, Kyle Helson, and I want to thank everybody for listening. And we'll ask you to please subscribe to the podcast if you haven't yet done that already, and also share the podcast with a friend because that really helps us out, especially if you think the episodes are interesting and answer some questions you may have always had, or if you're just, you know, finding that you're training better using the principles that we're putting out there. If you want to give us an iTunes rating or a rating wherever you listen to your podcasts, a five-star rating never goes amiss. We really appreciate that.
+
+2
+00:00:30,320 --> 00:00:51,952
+We are also an ad-free podcast, so if you want to donate to the show, you can do so at empiricalcycling.com slash donate. We have show notes for this episode. They are up on empiricalcycling.com under the podcast episodes. And we also have merch at empiricalcyclingpodcast.threadless.com. And if you have any coaching, consultation, inquiries, questions, or comments, you can email empiricalcycling at gmail.com, of course.
+
+3
+00:00:51,952 --> 00:01:20,032
+and also on Instagram at Empirical Cycling. Of course, we have weekend AMAs in the Instagram stories. So give me a follow over there if you want to ask questions. A lot of people have been giving me follows last couple of weeks and asking questions right away. And that is great. Appreciate that. Having a lot of fun there. So, or if you just want to watch and read, that's cool too. So today we are starting a long series on metabolism. So we're going to touch on a lot of the big stuff that I think about.
+
+4
+00:01:20,032 --> 00:01:48,656
+in training. And usually when I'm thinking deeply about training. Not to say that any of this stuff is going to supplant the ideas of like VO2max and FTP and sprint power and anaerobic capacity and stuff like that. But it will hopefully make everybody's lives easier when you read articles or consume other media that discusses this stuff or you just want to start thinking about metabolism and training a little more deeply than you are right now.
+
+5
+00:01:48,816 --> 00:02:11,632
+Honestly, the thing I like most about knowing the ins and outs of metabolic processes is the fact that it really is one of the tools that I use the most when I'm thinking critically about training concepts and knowing how things like fatty acids get mobilized.
+
+6
+00:02:11,632 --> 00:02:37,680
+can inform training decisions. Not all the time, but sometimes if you want to eke out that extra 1% or you think there's a lot of extra percent there, that is one of the things where you can approach it like that. So that might actually be the next episode. But for this episode, we are going to talk about the process of fat burning and why it is in fact anaerobic, which...
+
+7
+00:02:37,680 --> 00:03:06,352
+in a way is a little clickbaity, but very strictly technically speaking is not. So Kyle, why don't you give us a little perspective on fat burning and what people think about as aerobic? Okay, yeah. I think most of the time people associate, well, firstly, fat burning with the idea probably of weight loss or weight maintenance or dieting. And I think there's a lot of public level, popular level science.
+
+8
+00:03:06,352 --> 00:03:33,968
+behind fitness or maybe bro science more appropriately behind oh if you work at a certain intensity level this is your your quote fat burning zone and usually that's kind of this not too dissimilar from the idea of long slow endurance long you know sort of uh or or something like a step up aerobics class or something like that where your your heart rate is elevated but you're not
+
+9
+00:03:33,968 --> 00:04:03,360
+Gasping, and it's a low enough intensity that you are able to maintain it for many minutes at a time, and then the idea is, oh, because I'm getting all this work in for so long, you know, I'm burning a lot of fat, and people tell you, oh, if you go too hard, kind of like we talked about maybe with, if you've looked at high-intensity intervals, or you're kind of seeing the spectrum of work that you can do, oh, well, if I work too hard, I burn more carbs, and if I'm trying to lose weight, maybe, or, you know,
+
+10
+00:04:03,360 --> 00:04:31,920
+Maintain Fitness. I'm going to work more aerobically or something. And therefore, I'm going to try to burn more fat instead of burning glycogen or carbs. That's something that bugs me a lot, actually, that we're not going to touch on yet in this episode because there are so many things. Yeah, surprise, something bugs me. There are so many things that I hear about, you know, once you stop burning fat, you are no longer aerobic.
+
+11
+00:04:31,920 --> 00:04:57,408
+And that is one of the things that we're going to be tackling in this series as a general concept. We may not get to it explicitly directly, but we'll absolutely incorporate that tangentially in some way or other when we talk about carbohydrate metabolism and fat metabolism and how the two can actually regulate each other. So why don't we get into talking about fat burning with some really...
+
+12
+00:04:57,408 --> 00:05:24,016
+basic terminology. So for everybody who remembers high school biology, I apologize to make this repetitive, but I think a lot of folks out there probably don't, or they never took biology in high school. And if, I know there are one or two people out there who are like, this was not in high school biology. It actually was, especially if you took AP bio, but not everybody did. So what is a lipid?
+
+13
+00:05:24,016 --> 00:05:51,712
+Lipids are different from fats. So a lipid is a class of molecules that all have similar chemical properties. So what property is this? Generally that they're hydrophobic, which makes them really good for certain things like membranes. Like Kyle, why don't you talk about the hydrophobic properties of fats and like oil and water kind of stuff? Yeah. So one of the things people are probably familiar with that if you cook, you know, you've ever seen
+
+14
+00:05:51,712 --> 00:06:20,560
+making soup or stew or your homemade stocks or like a roast or something, right? You'll see fat actually pool on top of the liquid water and that's for two reasons. One, because it's less dense but two, also because that fat cannot be dissolved or evenly homogeneously mixed into the water or for example like oil and vinegar for salad dressing or something like that. Like yes, you can take that bottle of Italian dressing and you can shake it up but
+
+15
+00:06:20,560 --> 00:06:50,016
+The fat doesn't want to stay dissolved in the vinegar or the water for very long, and it separates out. Yeah, and actually, I remember once in, this was in a college class, this was, I think, Cell Bio, somebody was asking, like, how is it that this happens? How does, like, fat, like, push out the water? And it's actually a property of the water more than it is the fat, which is that the water wants to, hydrogen bonds to other water.
+
+16
+00:06:50,016 --> 00:07:06,352
+It's just not interacting. So we'll talk about fatty acids in a little bit. They actually have properties that make them really good for membranes. But the other thing about lipids in general, not just fatty acids, but lipids,
+
+17
+00:07:06,352 --> 00:07:29,600
+Their structure means that they're actually really good at storing energy. And you can fit a whole lot of energy into a lipid. And especially when they're in something like butter, they're very densely packed. So, you know, the kitchen analogies, yeah, exactly. Or Crisco, or just like, just lard in general. Bacon. Yeah, the more...
+
+18
+00:07:29,600 --> 00:07:56,784
+General Kitchen Analogy I'm sure most folks know is that the more densely packed it is, the more solid it's going to be at room temperature. And the less dense stuff like oils, usually better choices than like butter if you're like dieting or something like that because they're less calorically dense. Although we'll talk about, maybe we'll talk about the calories thing with fat. That's actually a good podcast idea. Let's get to that at some point.
+
+19
+00:07:56,784 --> 00:08:26,464
+General classes of lipids are things like sterols. So cholesterol and testosterone are, you know, versions of sterols. Phospholipids, like phosphatidylethanolamine or phosphatidylinositol or things like that. You know, the classics, everybody knows those, I'm sure. Yeah, everyone can totally spell this. Yeah, waxes are also lipids. And the general category of fats.
+
+20
+00:08:26,464 --> 00:08:55,664
+All fats are lipids. Not all lipids are fats. And so the fats that we're going to talk about here fall under two categories that functionally, for our purposes, are nearly the same. And that is fatty acids and glycerolipids. So fatty acids are long hydrocarbon chains that end in a carboxyl group, like a carboxylic acid ion, which gives them the, you know,
+
+21
+00:08:55,664 --> 00:09:25,376
+Quote-unquote acid portion of the name and help impart the function. So an acid in this case is just a carbon single bonded to an oxygen and double bonded to another oxygen and that fourth bond for carbon, because carbon gets four bonds, goes to another carbon, that goes to another carbon, goes to another carbon, goes to another carbon, et cetera, et cetera, et cetera. And all those other carbons are for the most part just attached to hydrogens. So it ends up just kind of looking like this long snake. You got the head and then you've got the tail. But in our bodies, these are actually no more acidic.
+
+22
+00:09:25,376 --> 00:09:54,080
+Than Lactate is, which is to say that they're not actually adding any acidity. They're just called that because of the structure. A glycerolipid are things like monoglycerides, diglycerides, and triglycerides, which are one, two, and three fatty acids connected to a glycerol molecule. And so a glycerol molecule is just a three-carbon chain, carbon, carbon, carbon, and it has an alcohol group on each carbon.
+
+23
+00:09:54,080 --> 00:10:22,256
+And it's this alcohol group that can link to the fatty acid group on the fatty acids. And that actually gives them their ability to pack and store a lot of energy. And the linkage, by the way, is a type of acyl called an ester, which is why triglyceride is sometimes called a triacylglycerol. So in case you ever see those two terms, you will know that they are the same.
+
+24
+00:10:22,256 --> 00:10:44,432
+So I apologize for the chemistry here. But keep listening because we are actually going to get into some actual biochemistry. So it's going to get worse before it gets better. But I promise that if you keep listening, it will pay off in the end, even if you don't quite follow it. But on the website, we actually have a...
+
+25
+00:10:44,464 --> 00:11:12,304
+Some of the structures of what we're talking about today. And when we get into the actual oxidation of fats in a little bit, there is actually a diagram of that there. So I highly recommend people go to the website to check out the notes here. And actually, small note, glycerol used to be on the WADA banned substances list. Really? Yeah, you used to not be able to drink extra glycerol because it was...
+
+26
+00:11:12,304 --> 00:11:39,216
+deemed to be an ergogenic aid, but I think a few years back they removed that. Yeah, because you make it naturally in your body and you can actually consume it from foods like creatine. Yeah, it's like creatine or protein or sodium even, right? Like you consume sodium, anyway. But yeah, it used to be that like, and people sort of discovered this, that there are certain benefits to, more so for like sort of pre-competition, but people...
+
+27
+00:11:39,216 --> 00:12:08,272
+Just ingesting more glycerol a certain amount of time before a competition. Yeah, but not to say anybody should do that because what does glycerol lead to? Well, we might get into that in the podcast, like where glycerol actually goes. We'll probably talk about it in the next episode, actually. So no, don't go out drinking glycerol solutions before your next competition. Okay, so moving on with fats.
+
+28
+00:12:08,272 --> 00:12:35,904
+Now here's something that a lot of people probably know already, which is that in terms of energy storage, so fats are more dense than proteins and carbohydrates because of the way that they can pack. So carbohydrates and protein have four kcal per gram, but fats have nine kcal per gram. And it'll change a little bit, yeah, depending on which carbohydrate or which protein and which fatty acid we're looking at.
+
+29
+00:12:35,904 --> 00:13:05,712
+On average, that's a really, really good way to think about it. And alcohol is about seven, so alcohol is somewhere between carbs and protein and fats, so take that as you may. Yeah, so when you're dieting, don't drink barrel-proof bourbon. Yeah. That is per gram, though, and so typically, if you are drinking, you're not drinking many grams of alcohol. You would hope.
+
+30
+00:13:05,712 --> 00:13:33,792
+This is why like, you know, yeah, like an ounce of liquor or something is only like 100 calories because it's really not that, there's not actually that much alcohol. It's not 100, it's not 200 proof. Yeah, but once you've had 10 ounces. Yeah. All right. Are you okay? Are you feeling lonely? So, okay, so when, well, so this calorie density of fats, the energy density here is actually,
+
+31
+00:13:33,792 --> 00:14:02,304
+The reason that our bodies store energy as fat and not something like muscle. Unless, of course, you've made it abundantly clear to your body that you need that muscle or glycogen or whatever it is. So as mentioned above, energy dense. And the rule of thumb for fat, about a pound of fat, so what's that, 0.6 kilos, is about 3,500 kcal.
+
+32
+00:14:02,304 --> 00:14:29,296
+Hence the rule of thumb, if you want to lose about a pound a week, you need a 500 calorie a day deficit. So that makes actually fairly good sense. And we'll talk about a little bit about this with the nutrition stuff probably later in this series. I'm sure a lot of people actually want to hear about that. Okay, so now we're actually going to get into...
+
+33
+00:14:29,296 --> 00:14:55,472
+the process of breaking down fats. Now this process is called beta-oxidation, or if you're from Boston, beta-oxidation. So I had to fight so hard to not say that the first time. Anyway, so as I mentioned before, there is a schematic of this in the show notes, and I highly suggest you follow along there. Or just Google beta-oxidation, and that'll be probably sufficient.
+
+34
+00:14:55,504 --> 00:15:24,464
+This is actually a process that was hypothesized in 1904 by Franz Knop, or Knop, I don't think you pronounce the K in that. And he used phenol, so just benzene rings linked to carbon, labels on the ends of even an odd carbon length fatty acid chains fed to dogs. And what happens is the phenol on the end stops the fatty acid chain from being metabolized when it gets to the end.
+
+35
+00:15:24,464 --> 00:15:49,856
+He extracted it from their urine and he found that when he fed the odd length fats, it came out as hepuric acid, which is phenol, one carbon, and then glycine. But don't worry about that if you don't understand the phenol and the glycine thing. But the even length fats came out as phenyl esoteric acid, which is phenol, two carbons, glycine.
+
+36
+00:15:49,856 --> 00:16:18,448
+If it happened by a single carbon breakdown process, it would all have come out as hypoic acid, which is just the one with the one carbon in the middle instead of the two. But the cool part about this is that the process was only really confirmed in the 50s when techniques and stuff like that got a lot better, the analysis tools. But how cool is that that he theorized it like more than 50 years before? Yeah, that's cool that also that...
+
+37
+00:16:18,448 --> 00:16:47,088
+Obviously, 1904, you don't have fancy... Your measurement capabilities, let's put it this way, your measurement capabilities are not awesome in 1904. Yeah, being a chemist before 1950 was a lot of work. Actually, maybe before 1920-ish or something like that, but yeah. Think about all that dog piss that he mouth pipetted. No. Hopefully he had like a turkey baster kind of thing.
+
+38
+00:16:47,088 --> 00:17:15,824
+for that pipeline. You never know. No, you don't. Anyway, so we are going to start with our journey on oxidizing fatty acid molecules outside the mitochondria. And we're going to talk about transport in the next episode because transport is actually a very, very crucial part of fatty acid oxidation and actually in part of why it's so slow compared to oxidizing sugars. What happens is the...
+
+39
+00:17:15,824 --> 00:17:41,584
+Fatty acid needs to be quote unquote primed for oxidation. And what happens is first step is it is attached to coenzyme A at the carboxyl group, the acid part of the fatty acid chain. This is where a lot of the connections all happen. Yeah, the interesting part. Because when we break it down, it doesn't...
+
+40
+00:17:41,584 --> 00:18:06,224
+It doesn't break down from the other side from the carbon with the three hydrogens attached to it as opposed to the two hydrogens because chemically speaking there's really nothing interesting happening there and the carboxyl group is actually much more reactive. So if there's anything that's going to happen it's going to start from there and if you've taken organic chemistry at all this is going to be painfully obvious to you. So the coenzyme A
+
+41
+00:18:06,224 --> 00:18:31,232
+actually has a sulfur atom on the end. So the carboxyl group, the carbon double bonded to an oxygen plus single bonded to another oxygen, the oxygens here are the ones that are going to be doing all the interesting stuff. But this last oxygen actually is going to get displaced by the sulfur on the coenzyme A, which actually makes it a thioester.
+
+42
+00:18:31,232 --> 00:18:57,840
+And this requires ATP. So it is actually an energy investment process to get the energy out on the other end. And this actually happens a lot in metabolism where you have to add in a little bit of energy to kickstart the process and then it can kind of flow downhill from there. And now what's going to happen is this bond will mean it gets transported into the mitochondria finally. And then we're going to talk about that process later.
+
+43
+00:18:57,840 --> 00:19:26,160
+But I think it's interesting to think about this chemical bond that is actually going to be one of the important parts of getting the energy out of this fatty acid. So now what we have is called a fatty acyl-CoA inside the mitochondria. You know, you think about acetyl-CoA, acetyl, this actually comes from acetate, a two-carbon chain with a carboxyl group on the end. It's just vinegar.
+
+44
+00:19:27,248 --> 00:19:53,104
+That's acetic acid. Yeah. Which is delicious. And we have a lot of them attached to enzyme CoAs in our body. So, but we start with them very, very long chains, but that's where it's going. And if you know acetyl CoA, you know that it gets fed into the Krebs cycle. So that's what's going to happen here. So, so now that we have acyl, sorry, fatty acyl CoA inside the mitochondria, now the fun starts.
+
+45
+00:19:53,104 --> 00:20:18,560
+Listen to this process, even if you don't follow along 100%, if you don't have the notes in front of you, if you're riding your bike when you're listening to this or something like that, that's okay. Check it out when you get back. What we need to learn here now is the structure of what's happening. So we have the coenzyme A, which has the thioester, so it's the sulfur, is actually bonded to the carbon now.
+
+46
+00:20:18,560 --> 00:20:46,064
+and that carbon's double bonded to an oxygen and then the carbon chain starts on the other side. Well, so the process here is called beta-oxidation, right? So what is beta? What's beta in this whole thing in terms of the chemistry? So in terms of the chemistry, what's beta is if we take our most quote-unquote important, for lack of a better way to describe it, our most important chemically reactive thing
+
+47
+00:20:46,064 --> 00:21:06,512
+which is the carbon double bonded to the oxygen. We can go down the chain. Like that's our most important thing. And the first carbon attached to that is the alpha carbon. The next carbon attached to that is the beta carbon. Then the gamma carbon, et cetera, et cetera, et cetera, all the way down to the last one, which is the omega carbon.
+
+48
+00:21:06,512 --> 00:21:35,216
+So when we talk about beta-oxidation, if you imagine a carbon double bonded to an oxygen and another carbon, it's got two hydrogens on it, and then another carbon, it's got two hydrogens on it, and so on and so on and so on, that second carbon with two hydrogens on it, that's where the beta-oxidation comes from, that's the beta thing, is that second carbon in the chain, or the third carbon, if we count the carboxyl group, that is where all the interesting stuff happens.
+
+49
+00:21:35,952 --> 00:22:01,424
+So does that kind of make sense, Kyle? Yeah, I think so. I think if you, it will definitely help for people who are listening, if you're unfamiliar with, to kind of look at a structure of one of these fatty acid molecules and that will make it a lot easier. And this sort of naming scheme, yeah, I think it's a little confusing with the Greek letters, but it...
+
+50
+00:22:01,552 --> 00:22:30,784
+You know, for various reasons, I'm sure that they didn't start counting things with one, two, three, four, because then you have nomenclature problems all over the place. Definitely. And if people also have heard of things like omega fatty acids, this is where that term comes from. You may have heard of like fish oil or supplements or things like that. Yeah. Yeah. We'll talk about that in a little bit as a fun little add-on. Okay. So we actually only have four.
+
+51
+00:22:30,784 --> 00:23:00,320
+steps here. And they're actually short steps to describe because we're not going to talk about the actual chemical mechanism because actually, for our purposes, that does not matter at all. So the first of only four steps is that a hydrogen gets plucked off the beta carbon. And now that beta carbon double bonds to the alpha carbon. And the reason that we can actually make this double bond to the alpha carbon, because if we're doing our bond accounting and keeping each carbon at four bonds,
+
+52
+00:23:00,320 --> 00:23:29,936
+The alpha carbon actually also loses a hydrogen. So two hydrogens are lost in this first step. Okay, so the second step, water moves in and quote-unquote hydrates the carbon. So now there's a new OH connected to the beta carbon, but there's also a new H on the alpha carbon. So all is accounted for. Remember, we got to keep those carbons with four bonds somehow, be it a double bond or...
+
+53
+00:23:29,936 --> 00:23:59,088
+Bond to three other, two other hydrogens or whatever it is. Right. And if we're doing our atomic accounting like we learned in high school chem, and this wasn't high school chem, I swear to God. Sorry if you don't remember it. The new OH plus the new H, that is 2H and an O. So that's H2O right there. So now in the third step, two hydrogens get plucked off, and now the beta carbon is a ketone.
+
+54
+00:23:59,088 --> 00:24:24,048
+So if you've taken organic chemistry, you can now look at this molecule and tell exactly what's about to happen, knowing that that thioester bond is preserved. So this brings us to our fourth step. A new coenzyme A comes in, and the sulfur of the functional attachment point of the coenzyme A, this attaches to the beta carbon now.
+
+55
+00:24:24,176 --> 00:24:52,272
+And now this liberates the original ketone carbon, the thioester carbon, plus the original alpha carbon. So those two go away now. So now we have a new functional group carbon, and now we have a new alpha carbon and a new beta carbon, and now the whole chain is two carbons shorter, and the process repeats with the shorter chain. There it is. That's beta-oxidation. That is the oxidation of fatty acids. There's nothing else to it.
+
+56
+00:24:52,656 --> 00:25:22,320
+Yeah, so it's interesting if you think about that, what, for people who are not looking at this molecule on a piece of paper, you've got a carbon double bonded to an oxygen, and then we did two steps, three steps, and after the third step, you've got another carbon that is two carbons away from that carbon double bonded to an oxygen that is now also double bonded to an oxygen.
+
+57
+00:25:23,024 --> 00:25:51,936
+Yeah, so it's like you're moving that carboxyl group, or actually it's not a carboxyl group, it's actually a thioester, but it looks the same as our carboxyl group, except the single bond oxygen is just the sulfur instead. And so that functional group is just moving, it's just like playing leapfrog, two carbons at a time, down the chain. Yeah. And it's just splicing, it's like that's the signal where the
+
+58
+00:25:51,936 --> 00:26:14,480
+the molecule gets spliced to become shorter. Yeah. It's wherever that... Yeah, exactly. And so... So instead of... Yeah. Sorry, instead of like starting at the far carbon, carbon-y tail and just slowly chopping the tail away, you're actually kind of moving, you're moving the head down the chain as opposed to like chopping the tail.
+
+59
+00:26:14,480 --> 00:26:39,424
+Yeah, that's actually a good way to put it. But you're not actually moving the head down. It's not like you're taking the head off a snake and taking that same head and putting it a little further down, like two vertebrae down every time. It's actually that you are making a new head. And if you know anything about organic chemistry, one of the things that you know is that a carbon bonded to a lot of hydrogens is chemically really boring.
+
+60
+00:26:39,424 --> 00:27:07,840
+And it's probably going to take a lot of energy or a lot of something to do something interesting with those bonds. But if you have a group that has a lot of oxygens on it, oxygens have certain properties that we're going to talk about in a minute. That actually makes them really easy, quote unquote easy, to do chemical things too. And that's one of the things that we've talked about before with enzymes. Enzymes don't actually...
+
+61
+00:27:07,840 --> 00:27:37,072
+They don't actually make things happen that wouldn't otherwise. They do what's called catalysis. And when they catalyze things, they're just making natural processes that would spontaneously happen, happen faster. It's like standing at the top of a hill and instead of just letting gravity, it's giving you a little kick in the ass before you start rolling down the hill. It's strictly speaking, it's actually like if you're trying to roll over a hill, it's like lowering the height of the hill. Yes. Yep.
+
+62
+00:27:37,072 --> 00:28:03,840
+So, you know, because, you know, we've mentioned some things before where, like, okay, so now I'm sure somebody who's astute, actually, probably most of you, you're all very astute listeners, is what I've learned from, you know, people asking me questions about this stuff, is what happens if we have an odd chain fatty acid? There are lots of them out there. So what happens is there is a different process.
+
+63
+00:28:03,840 --> 00:28:32,512
+when you get to the end of the three-carbon thing or the one-carbon thing than happens to the regular two-carbon process. It's just a little different. And also if we have something like an unsaturated fatty acid. So in an unsaturated fatty acid, the long chain of carbons is not actually saturated with hydrogen. So not every carbon in the middle of the chain is just two hydrogens, except the last one obviously has three. But the unsaturated fatty acids are actually missing hydrogens here and there.
+
+64
+00:28:32,512 --> 00:28:54,832
+Which means there's a little less energy stored in them. And so when actually you see something like a hydrogenated oil, they have actually added hydrogens back to oils that wouldn't normally have them to increase the energy density to make them taste better. This is also something that you do if you make soap.
+
+65
+00:28:54,832 --> 00:29:19,968
+I remember one of the fun labs that I had in an organic chemistry lab in college was turning olive oil into soap, like a bar of soap. Was there hydrogenation in that? Yeah. Oh, cool. I didn't know that. I've never made soap before. Our lab was turning, I think, banana oil into cinnamaldehyde or something like that. Or the other way. I forget. The lab smelled very nice for a little while.
+
+66
+00:29:19,968 --> 00:29:49,504
+Nice, yeah. And so, yeah, so if there's an unsaturated fatty acid, there's a little different process where, you know, to saturate that chain or to, you know, make the process happen again. So it's not important for our purposes, just know that it happens, but it adds some steps. And yeah, the other tangential fact here is, as we've mentioned, the omega carbon on these chains, that very last one, so if you've heard of like an omega-3 fatty acid or an omega-6 fatty acid, so if you go
+
+67
+00:29:49,504 --> 00:30:16,880
+into the carbon from the omega carbon, like three carbons, and you put a double bond there instead of fully saturated with hydrogens, that is an omega-3. So that means the third carbon to the fourth carbon is a double bond. And the same with an omega-6, that means the first double bond that you find on that fatty acid is actually happening from the sixth to the seventh carbon. And this also can be where people maybe heard of
+
+68
+00:30:16,880 --> 00:30:41,920
+Trans Fats being bad for you. The exact shape that that double bond takes and how the molecule gets potentially bent by having double bonds in places is where this name of cis or trans fats or trans fatty acids comes from. Yeah, exactly. And that just changes the shape. Okay, so...
+
+69
+00:30:41,920 --> 00:31:05,072
+There's a very big question here, so sorry about those asides for a second, but returning to beta-oxidation, what did you notice was not involved in those reactions? Kyle, you're looking at the notes, so don't spoil it for everybody. So, besides Tic Tacs, there's no Tic Tacs in this. So, the answer is oxygen. There's no O2.
+
+70
+00:31:05,072 --> 00:31:29,520
+involved in this. We had an oxygen involved from the stuff that's attached to the carbon, and we added a water, but there was no elemental O2. There's no gaseous O2 involved here, which means, strictly speaking, this whole process is anaerobic. That is kind of interesting. I think it's, well, yeah, you're...
+
+71
+00:31:30,192 --> 00:31:58,736
+It's maybe, maybe some people might say, oh, but there is oxygen involved, right? Because we introduced water and then we got a free, quote unquote, water molecule. Yeah, but oxygen is the second most abundant element in our bodies. So we are actually quite a bit oxygen, but O2, like, so basically what I'm saying is if you don't have any oxygen in your cells, the oxidation of fatty acids can still proceed. Interesting. So even if you're...
+
+72
+00:31:58,736 --> 00:32:27,824
+I guess that's probably good for general life-sustaining processes. However, to sustain life, it will not proceed. And that is because of the regulation of, you know, the demand-based regulation of what happens in carbohydrate oxidation. And we're going to talk about that in a couple episodes. So that's just a little preview for what's coming up.
+
+73
+00:32:28,240 --> 00:32:57,648
+So, yeah, so there's no O2 involved in the process. The long goal, actually, of all of these carbon oxidation reactions is to connect oxygens to carbons. But the inspired O2 doesn't take part here. Inspired O2 becomes water, does not become CO2. Interesting. I think that's something that...
+
+74
+00:32:58,480 --> 00:33:27,712
+It, you think, oh, you're, you're gonna be inhaling oxygen, right? Like, and you think, like, oh man, I inhale this oxygen, it goes into my lungs, it gets bonded to the hemoglobin in my blood, and then it goes and it gets used as oxygen, right? You think it's, as, um, uh, you think it's, it's, your body needs this, like, molecular oxygen to get, and, you know, oh, it's gonna get shuttled to the cells and then something happens, right, where it needs to be this, this sort of, like, O2 molecule.
+
+75
+00:33:27,712 --> 00:33:53,840
+Yeah, but like, I mean, that's one of those sorts of things where we breathe in oxygen, we breathe out CO2, you know, we breathe in O2 and we breathe out CO2, like, you know, on the face of it, if we just, you know, if we split that O2 in half and then put a carbon in between and then breathe it out, that's CO2. However, that's not what just happened in the body. Right, yeah.
+
+76
+00:33:53,840 --> 00:34:22,320
+So what happens in the body is actually when we go through the Krebs cycle or, for instance, when we're turning pyruvate into acetyl-CoA, which is the end fate of fatty acids. So at that point, by the way, before entering the Krebs cycle, there is an equivalence, a chemical equivalence between glucose and fats. And this is well before oxygen is involved.
+
+77
+00:34:22,735 --> 00:34:52,320
+So all the CO2 is coming from these processes of breaking down glucose and fat into something that we can feed the Krebs cycle with, or the tricarbic acid cycle. But I am such a fan of Krebs that I think that we should keep his name on the cycle. I think he deserves it. What a life that guy's had. Oh my God. So I also have recently gotten three biographies of Krebs.
+
+78
+00:34:52,320 --> 00:35:16,080
+That is interesting to think about though, right? So if you exercise or if you're dieting to lose weight or something like that, those calories that you intake and then subsequently burn later, you're exhaling. You're literally dumping most of the mass out into the air through your breath, which is kind of cool. Yeah, unless you're making components of your body with those carbons, yeah.
+
+79
+00:35:16,080 --> 00:35:27,072
+You are definitely exhaling it. And that's why I think the measurement is, I think I saw a TED Talk on it or something, that you breathe out like a pound of CO2 at night. Yeah, that's interesting.
+
+80
+00:35:27,072 --> 00:35:55,936
+Yeah, I mean, because you just spent eight hours breathing. And so if you want to spend energy and things like that, then, you know, anything that you're doing that's going to involve breathing is going to be making you go through this metabolic process or just being alive or needing energy at all is going to make this happen. All right, I think we beat this to death. So this can all still lead to something.
+
+81
+00:35:55,936 --> 00:36:25,184
+that can be a little confusing because what does oxidation mean if it doesn't involve actual O2, if it doesn't involve gaseous oxygen that we're breathing in, right? And so this can be, even for me, I'm slightly dyslexic and even after taking several years of chemistry courses, I still have to like think about this for a second every time I go through this. So we're going to talk about oxidation and reduction now because this is going to set us up for big picture stuff. So oxidation,
+
+82
+00:36:25,184 --> 00:36:52,208
+does not always mean degradation by oxygen. So Kyle, like, what happens in rust with oxygen? Like, doesn't oxygen, like, take an electron from iron or something like that? Yeah, so oxygen really wants to borrow or steal electrons from anything, really, which is why one of the reasons it's so reactive. And iron, certain different...
+
+83
+00:36:52,592 --> 00:37:14,480
+Iron Compounds have a, we'll say a handful of electrons to quote spare or at least that the iron is sort of relatively willing to share and so the oxygen will bond, some combination of oxygen atoms will bond to a certain combination of iron atoms in a pattern such that the oxygens
+
+84
+00:37:14,480 --> 00:37:44,432
+are allowed to share a bunch of the iron... Quote, unquote, share. Share, yeah. Share the iron ions, electrons. Yeah. And this... Yeah, so oxidation itself means the loss of electrons. Yeah. This, in this context, can also be seen as the loss of hydrogen, because when you pluck a hydrogen off, if you do the electron counting, which I have, thanks, college chemistry,
+
+85
+00:37:44,688 --> 00:38:07,744
+You are actually losing a hydrogen and an electron. So when those things get plucked off, and we're going to talk about where they go to in a little bit, this is oxidation. And so the process is called beta-oxidation, not because it involves oxygen itself, really, you know, gaseous oxygen, but...
+
+86
+00:38:07,744 --> 00:38:33,952
+The beta-carbon starts with two hydrogens attached and ends up without them, meaning that the carbon was oxidized. And when something is oxidized, it loses electrons. And this does not actually have to do all the time with oxygen. If you lose electrons, it's oxidized, whether they go to oxygen or not. So that's a terminology thing. I think oxy is the Greek word for sharp or something like that.
+
+87
+00:38:33,952 --> 00:39:02,928
+because it's a corrosive thing because it wants electrons that badly. It's going to just destroy everything, which is why when we talked about myoglobin and hemoglobin, I made the point that one of the reasons that it's so important that we have these safe harbors, quote unquote, for oxygen in our cells is because otherwise they just wreak havoc if they're like not controlled. And we talked about actually in I think the last Wattstock episode that was where there is a calcium leak.
+
+88
+00:39:02,928 --> 00:39:28,368
+due to reactive oxygen species damage. And this is a signal. And I had actually said in that episode, I remember now, I didn't know why this might happen. Why would this mechanism happen? It must be evolutionary, right? Because if calcium presence is a signal and you have oxidative flux and you're new to aerobic stuff, then your body's not used to buffering the oxygen.
+
+89
+00:39:28,368 --> 00:39:56,208
+and that's going in the long term it's going to be really bad because it's going to cause a lot of cellular damage and this is why this I think is why we've evolved a mechanism to have a much more quote-unquote benign problem which is calcium leak into the cell to have more aerobic signaling which is going to increase the oxygen reactive oxygen species buffering capacity so oxygen very corrosive we've talked about that actually before in Wattstock I think it was 11.
+
+90
+00:39:57,200 --> 00:40:23,360
+Why is oxygen so radical? So now we're actually putting all that kind of stuff into context. So now we're actually getting a really big picture here about the ins and outs of oxygen and metabolism and how everything's really connected, I guess. So when it comes to oxidation, the thing that actually grabs the electrons is actually known as the oxidizing agent. And it itself is not oxidized. It is reduced.
+
+91
+00:40:23,360 --> 00:40:49,696
+Because if you gain an electron, your charge goes down by one electron. One of the things that I have burned into my memory from high school chemistry is Leo the lion says ger. That's a way to remember this. I'm not kidding. Leo, L-E-O, which loss of, like, lose electron oxidation, ger, G-E-R, gain electron.
+
+92
+00:40:49,696 --> 00:41:19,600
+Reduction. Oh, G-E-R, not G-R-R. Okay, yeah. Yeah. I will use that. Cool. I like that. Well, all right, so the next thing I want to talk about here is why does oxygen love electrons so much? Like, seriously, it sweats them so hard. So, Kyle, talk about electronegativity. Okay, so around an oxygen atom, I assume most people,
+
+93
+00:41:19,600 --> 00:41:46,752
+Aren't sitting next to a periodic table. But if you pull up a periodic table, you will see that oxygen is up in the upper right-hand corner. Not all the way in the upper right-hand corner. That's where helium sits. Third row down the first long row that goes all the way across. And the exact placement of the elements in the rows tells you
+
+94
+00:41:46,752 --> 00:42:15,568
+How many electrons it has in its outermost bunch of electrons. So if you are all the way in the right-hand column, it means that your outermost grouping of electrons is completely full. And those are where the noble gases sit, like helium, neon, argon, krypton, xenon, radon. And those are very unreactive because their outer electron shells are completely full.
+
+95
+00:42:15,568 --> 00:42:45,024
+of electrons. So they're very stable. And so they don't want to give up their electrons and they don't want to take any electrons. So if you go one to the left of that column, you find often the most reactive elements. And these are the ones where sort of famously they're bad for you. Like inhaling them is usually really bad. Like fluorine or chlorine gas, even bromine iodine gas.
+
+96
+00:42:45,024 --> 00:43:04,368
+Generally not good for you for a number of reasons. And these are usually the most reactive. And so, yeah, in order to safely transport fluorine, for example, like you have to take in a bunch of considerations. It's not just like shipping water or something like that. Yeah, like elemental fluorine. Yeah, elemental fluorine. And it's also a...
+
+97
+00:43:04,368 --> 00:43:29,968
+It's very difficult to break bonds with fluorine because it wants to hold on to those electrons so much. And oxygen is right next to fluorine. So it's to the left of fluorine, which means that it's missing one more electron than fluorine is. So it's maybe twice as hungry. But this just means that it can form more bonds. So fluorine can only bond to one other element.
+
+98
+00:43:29,968 --> 00:43:58,064
+perfectly fill its electron shell, whereas oxygen can bond to two other, I said elements, fluorine can only bond to one other atom to fill its electron shell, and oxygen can bond to two other atoms to form its electron, to fill its electron shell. Right, and then what's two to the left of oxygen? Carbon! Carbon, so carbon can make four fancy bonds. Yeah, and what's between carbon and oxygen?
+
+99
+00:43:58,192 --> 00:44:25,056
+Nitrogen. It's all the usual suspects right there. And that's actually one of the great things about how life has evolved, really, is that the inherent... Boron, wait a minute. Well, the inherent chemical properties of these things are fascinating. And they're actually, when the periodic table was being discovered, one of the things that people did that was, you know, that you would obviously do...
+
+100
+00:44:25,056 --> 00:44:51,440
+Knowing that things in like a certain column have a certain electrical property or things in a certain row have a certain property. So you could actually predict the properties and then people will go out and just find them right away. Okay, so one of the things that we can actually do with a periodic table is if you just Google periodic table electronegativity, you are going to see two arrows that point straight to fluorine.
+
+101
+00:44:52,368 --> 00:45:16,192
+So this means that as you go up the periodic table and as you go to the right of the periodic table, things want electrons more and more and more and more. And when you get the fluorine, you get the electron hoggiest of them all. And oxygen is right next door. But because of the properties of oxygen and its...
+
+102
+00:45:16,192 --> 00:45:43,200
+Orbital Bonds and all that stuff that we don't have to get into. It is actually a little more, actually it's a lot more sedate than fluorine and it can actually hang out with itself to a much larger degree because it's all around you and it's not reacting to anything. So one of the actual properties that I think is really fascinating about this is because as you go to the right on the periodic table, you're actually adding more protons in the nucleus and this means the protons are pulling in
+
+103
+00:45:43,200 --> 00:45:53,680
+the electron cloud a lot more. And so once you get to fluorine, you get this like teeny tiny little hard puck, like a golf ball kind of atom. It's like...
+
+104
+00:45:53,680 --> 00:46:22,544
+And it doesn't want to bend. It doesn't want to move. It just wants to grab that electron and go. And as we move away from fluorine, as we go down, because of the stacking orbital clouds, the atoms actually get larger and larger and larger. And so once we get all the way down to like iodine or something like that, it's actually like it's a big fluffy beach ball of an atom. And iodine actually has interesting chemical properties in that it can actually...
+
+105
+00:46:22,544 --> 00:46:50,688
+The electron cloud can like bend, like you can squeeze a beach ball. Like how cool is that? That it can actually do chemical reactions that like fluorine cannot because fluorine is like too hard and can't like bend at all. The other thing is that if you think about it, you may say to yourself, well, why is I go down the rows, I'm adding more protons, right? Like iodine has
+
+106
+00:46:50,688 --> 00:47:18,032
+50-something protons hanging out, trying to pull all these electrons in, and fluorine only has nine. So why can't iodine pull as hard? And it's actually because all of those... The cloud is so big. Yeah, all of those other layers of electrons actually cancel out some of the pull of the protons because they literally get in the way. Yeah, it's like if you're farther from the Earth, there's less gravity.
+
+107
+00:47:18,032 --> 00:47:46,192
+Yes. Only it's not just that there's less gravity, it's that the effective nuclear charge goes down. Oh, the Earth's effective nuclear charge, of course, how could I forget? Yeah. It's like, yeah, it's literally like, it's like having a very positive, the nucleus is very positively charged, it's concentrated in the center, and then you're interspersing these small bits of negative charge, and so that adds up with the positive charge to give you...
+
+108
+00:47:46,192 --> 00:48:14,176
+Neutral Charge. So, yeah. Okay, so this is a long way of saying, because obviously Kyle and I are chemistry nerds and we love this stuff. This is a long way of saying that this is why oxygen loves electrons so much. And this is why when we look at metabolism, this is going to be a regular theme, is oxygen is going to attack a carbon, electrons are going to move around, some other stuff is going to happen, and then we end up with ATP eventually.
+
+109
+00:48:14,176 --> 00:48:43,408
+It's really just like chemical reactions that are rolling down an energetic hill. It's really fascinating. But yeah, that's why it's called oxidation because anything that grabs electrons, anything that wants electrons is an oxidation reduction reaction. And so here we go with the big picture here. All these metabolic pathways is what we're really going to be getting into in this series. So here's the first big picture thing.
+
+110
+00:48:43,568 --> 00:49:10,896
+There's no ATP generated by fat oxidation. At least not until it becomes chemically equivalent to carbohydrates in acetyl-CoA and then gets folded into the Krebs cycle. And then it'll generate a GTP. So if you've ever heard of a G-coupled protein, these things operate on GTP. So GTP is a lot like ATP. It's just a guanosine triphosphate instead of adenosine triphosphate. But having a separate...
+
+111
+00:49:10,896 --> 00:49:40,224
+Cool of a nucleotide energy source actually means when the cell is contracting a lot, it means you have this other separate energy source that is not being tapped as much. And so you can actually have a like a separate currency almost, and you can exchange ATP and GTP between each other at some points. I'm not an expert in those reactions though, so that's where I'm going to stop talking. But as mentioned,
+
+112
+00:49:40,224 --> 00:50:06,192
+There's no O2-inspired involved in the process of beta-oxidation of fatty acids. So what's the point? Why are we doing this? The fatty acid oxidation process generates what are called reducing equivalents. So remember when the first hydrogen got plucked off the beta-carbon? It went to what's called FADH, or flavan adenine dinucleotide.
+
+113
+00:50:06,192 --> 00:50:35,488
+FADH becomes FADH2 when it has the new hydrogen with the new electron on it. And this goes right into the electron transport chain. And the next two hydrogens, a couple steps later, when they get plucked off, they go to NAD+, which is nicotine adenine dinucleotide, which has a single positive charge. And when it gets two hydrogens, it is neutral. So this is also a reducing equivalent.
+
+114
+00:50:35,488 --> 00:50:57,600
+And so why are they called reducing equivalents? Their job is to transport protons and electrons as if they were the original fats and sugars themselves. Interesting. So here's the next big picture question. Instead of using these intermediates to move protons and electrons around, you know, moving...
+
+115
+00:50:57,600 --> 00:51:25,024
+You know, every step of the beta-oxidation carbon, like you've got a 16-carbon chain, then you move that into the electron transport chain, then you've got a 14-carbon chain, you move that over, you've got a 12-carbon chain, you move that over. Instead of doing that, or like taking glucose, you split that, you do this, that, and the other thing, you move the PEP down, you do this. Instead of all that, because that's a lot of transport, that is going to take transport like, what, like nine times or something like that? You don't want to do that.
+
+116
+00:51:25,024 --> 00:51:54,960
+because then you'd be moving it against a concentration gradient also and that takes a lot of energy. It's like bringing the mountain to Muhammad, right? Yeah, it's like bringing many mountains to Muhammad at once in like little scoops and then like bringing it back to the original mountain in a slightly smaller scoop and then bringing it back to Muhammad. Then you would need an enzyme that's capable of catalyzing the reaction with every single structure and we already have that separately.
+
+117
+00:51:54,960 --> 00:52:18,608
+But it would have to happen close into the mitochondria, and you would need basically like a skeleton key. Or you would need one enzyme for every possible thing that you would want to pluck a hydrogen off of. And just in terms of just quantum physics, or just in terms of chemical physics, that's impossible. And it would just be, it would make you very, very...
+
+118
+00:52:19,440 --> 00:52:48,992
+Not-hearty. Un-hearty. I don't know what the right word is. Inefficient. Inefficient, yeah. You would just, you could, you wouldn't be able to process that many different fats or sugars. Like you could, you know, oh, you, or otherwise you would need a separate enzyme for every different thing that you could possibly consume as well as all of the subsequent products, intermediate products of all of those things as you move them around and strip off carbons and stuff.
+
+119
+00:52:48,992 --> 00:53:14,080
+Yeah, exactly. Yeah, it's, it would just be so, so much work. So instead of all that, all we have to deal with at the destination for these protons and electrons, you know, where, where these, the reduction matters, all we have to deal with is FADH and NAD+. That's it. They're, they're like money. So instead of me having to go to the grocery store,
+
+120
+00:53:14,080 --> 00:53:43,664
+and Barter that like I worked for X coaching hours therefore you owe me X pounds of potatoes and fish you know we have a unagreed upon medium and so while money's value can change based on a lot of whatever I don't understand any of that stuff the energy equivalent of NAD or FADH does not change regardless of where it comes from whether it's from the breakdown of carbohydrates or fats so energetically they're identical
+
+121
+00:53:43,696 --> 00:54:11,680
+Except for the NADH generated in the cell actually has to get transported into the mitochondria as well. But we're going to talk about that another time. And so what we're doing eventually with these reducing equivalents is we're feeding the electron transport chain and we are also feeding a concentration gradient of protons, acids, basically acid. And this is eventually going to be what drives...
+
+122
+00:54:11,680 --> 00:54:40,048
+the aerobic production of ATP. It's actually more complicated than that, but we're going to take it in little chunks. And I had actually planned for this episode to be about 30 minutes, but we decided to go for, I don't know, an extra half hour on the periodic table. But I hope everybody enjoyed listening to that because we are obviously really enjoying being nerds about that stuff. So, Kyle, what do you think? Is that a good way to end the episode? Yeah, I think so. I think...
+
+123
+00:54:40,048 --> 00:55:04,736
+This hopefully gives people a deeper insight into what actually happens when you're out doing aerobic exercise or even just existing, right? When you're just sitting on the couch watching Netflix, you're primarily going to sit there and burn fat. Or actually, that's something that we're going to talk about for sure, metabolic flexibility in that way.
+
+124
+00:55:04,736 --> 00:55:25,584
+You know that maybe the phrase burn fat isn't maybe the right phrase that you should use. But you're going to utilize fat. And this hopefully gives you a – it also kind of explains the differences in why your body doesn't just straighten.
+
+125
+00:55:25,584 --> 00:55:55,360
+you know burn fat all the time for everything right like you definitely carry around more fat in your body than you do glycogen so you might ask the question like oh why don't I just burn fat all the time for all sorts of different processes whether they're running jumping sprinting long term you know long slow distance and everything between if I have so much more fat why don't I just use that all the time well it's just kind of slow yeah this right here when they when you talk about slow processes look at all these steps that you have to go through just to utilize this yes it's a very
+
+126
+00:55:55,360 --> 00:56:20,128
+Energy Rich Molecule, but because it's energy rich and kind of optimized for storage, it requires all of these steps that glucose, for example, does not. Yeah, I mean, glucose has more, oxidizing of glucose, glycolysis in the cytosol actually takes much less time and has more steps. So I...
+
+127
+00:56:20,128 --> 00:56:48,800
+Don't actually think this is one of the things that I'm going to be researching for the next episode because I know 85% of what I need to know for that episode but there are some I's to dot and T's to cross on that kind of stuff so but basically Kyle's giving us a preview because the one of the reasons that it's so slow to burn to burn fat is because we have to move it across so much space and there are there's only so much to go around really
+
+128
+00:56:48,800 --> 00:57:17,888
+And so we're going to talk about that in the next episode. So one of the other things that I want to actually ask you, the audience here, is if you have any topics on metabolism and stuff like this that you would like us to cover, we have a long list already. But regardless of whether you think it's on the list or not, we want you to let us know. So shoot me an email, hit me up on Instagram. I'll probably post this episode on Reddit.
+
+129
+00:57:17,888 --> 00:57:40,176
+If you'd like to hear a specific topic on metabolism, just shoot me an email, empiricalcyclingatgmail.com, and let us know, and we'll get to that. All right, everybody, thank you for listening, as always. I hope you learned a lot. This was a lot of fun for me and Kyle to kind of let our hair down and, you know, be the nerds that we really are.
+
+130
+00:57:40,176 --> 00:57:56,848
+And hopefully by the end of this series, you're all going to understand a lot of things about metabolism a lot better. And I hope that it makes everybody's lives better. I really do. Because it's made my life so much better. I'm not kidding. It has.
+
+131
+00:57:56,848 --> 00:58:26,160
+and if you'd like to support the show remember that we are ad-free so you can do so at empiricalcycling.com slash donate we have the show notes up on the website empiricalcycling.com under podcast episodes we have merch at empiricalcyclingpodcast.threadlist.com and if you have any coaching and consultation inquiries questions and comments email me at empiricalcycling at gmail.com and don't forget on Instagram at empiricalcycling weekend AMAs and Instagram stories also I post a lot of cats and lifting heavy stuff so can you
+
+132
+00:58:26,160 --> 00:58:32,208
+follow up there. Yeah. All right. Thanks, everyone. Thanks, everybody.
+

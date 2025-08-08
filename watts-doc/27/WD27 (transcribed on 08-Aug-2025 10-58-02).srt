@@ -1,0 +1,680 @@
+1
+00:00:00,720 --> 00:00:17,568
+Welcome to the Empirical Cycling Podcast. I'm Kolie Moore, joined as always by my co-host Kyle Helson and I want to thank everybody for listening as always and always ask that you please subscribe to the podcast and share it with a friend because that is really the best thing that we can do with the podcast to get the word out about, well, if you like what we're doing really.
+
+2
+00:00:17,568 --> 00:00:34,912
+Also remember that we are ad-free. We want to thank everybody who's donated to the podcast. And if you would like to donate yourself, you can do so at empiricalcycling.com slash donate. We have the show notes for the website up at empiricalcycling.com. And we have merch at empiricalcyclingpodcast.threadless.com.
+
+3
+00:00:34,912 --> 00:01:04,239
+I think I'm going to do it. If you decorate your bathroom with all Empirical Cycling merch, you get a free hour consultant. Let's see those shower curtains. And if you'd like a coaching or consultation inquiry, questions and comments, you can please email empiricalcycling at gmail.com. Also remember, up on Instagram, in the stories at Empirical Cycling, we have weekend AMAs. Those are getting pretty popular. Those are a lot of fun for me. We have some really good questions coming in. So give me a follow if you want to participate in that.
+
+4
+00:01:04,239 --> 00:01:33,776
+And with that, I also want to thank everybody for your patience as we have taken a little bit of a break from the serious deep dive episodes in the podcast, and we're going to get back into that. Frankly, my brain needed a large break, and now I've had that break. And also, it's transfer season in coaching, so I've been very busy with the coaching inquiries. Thank you, everybody who has sent an email about that and signed up. So, yeah, it's a good year.
+
+5
+00:01:33,776 --> 00:01:59,232
+Kyle, let's get to it. Give me your thoughts on endurance and how and why FTP may have gotten to be the main metric of endurance and performance that people use, but kind of what's beyond FTP. Yeah, so I think if you have done any other sport, running,
+
+6
+00:01:59,232 --> 00:02:25,296
+Swimming, Skiing, other sports where you can't actually go out and measure power very easily like you can in cycling. The concept of like aerobic threshold or threshold has existed for a long time in the literature and then you get this advent of being actually able to measure the power that you can output.
+
+7
+00:02:25,296 --> 00:02:54,176
+It's a marrying of these two concepts where you have this idea of, oh, this work level that you can sustain for a long time and not get tired. Great. That could be running or swimming or skiing or whatever. And then now that you can actually quantify how much work you're doing with a power meter, you pair those up and you get this sort of threshold power. And it's probably really popular because
+
+8
+00:02:54,176 --> 00:03:23,776
+It's fairly easy to measure, and you don't have to hook yourself up to any sort of fancy mask or aerobic cart or an EKG or any of these things, and so people can do it at home, and you can be prescribed to do tests to measure FTP, and then also you can track progress, and that's super motivating. Who doesn't like seeing numbers go up, be whether it's in the gym or on the bike, you know, miles, hours, what have you.
+
+9
+00:03:23,776 --> 00:03:52,176
+And so I think it's really easy for people to get super into worrying about their FTP because it gives you that number that you can fixate on and if you like numbers, you can download all sorts of different software and track it and you can obsess over little graphs and charts and things. But we talked about this a little bit before, FTP is a good predictor of race success.
+
+10
+00:03:52,176 --> 00:04:21,360
+But it is not the only predictor, right? Otherwise, you could just throw up your FTP. And then you wouldn't actually have to race. You would just be like, oh, look at my FTP. It's bigger than yours. Therefore, I win this race. And it's all Zwift racing or something at that point, right? Yeah. So there are clearly other abilities beyond it. Obvious one is like sprinting, right? FTP is not a good measure of sprint power.
+
+11
+00:04:21,552 --> 00:04:46,144
+classic puncher, like roller type fitness where you're going to do efforts that aren't quite all-out sprints, you know, sort of 30 seconds or shorter, but you have to repeatedly do them. So you're going to repeatedly do harder efforts up cobbled climbs or through, you know, I don't know, the French countryside. And so...
+
+12
+00:04:46,144 --> 00:05:12,720
+There are all these different aspects to racing that FTP may not capture in its entirety, and that's good and bad, right? Because it's good because it lets you train other things or focus on other things, and it's bad because you can get too distracted, say, by FTP and get lost and sort of, why am I losing races? Why am I losing races? I'm doing all this FTP training. Shouldn't I be just awesome? I mean, that is a question that a lot of people have asked me.
+
+13
+00:05:12,720 --> 00:05:41,296
+consultations and in the Instagram stories and just in general. And that's kind of what we're going to talk about today. So we're going to actually move into an open question that we're going to answer later in the episode. What do rowers and cyclocross racers have in common? More arm muscle than road cyclists.
+
+14
+00:05:41,296 --> 00:06:10,480
+Probably true. Okay, so I also got this other question on The Weeknd's Instagram stories, which is whether someone should do mountain bike-specific endurance riding on trails. Plus, I'd be more specific to mountain biking. More variable power output could potentially be a downside. So we'll talk about this a little later. And also, given the point of the episode, let's start...
+
+15
+00:06:10,480 --> 00:06:40,064
+by saying also that those of you who are familiar with a lot of the media that I've put out there, this may seem ironic for a little bit given some of the previous podcasts and articles, but I know that irony is there and this is actually something that I didn't address in any of those things, but I knew was there and I knew that we would get to it eventually or getting to it today. So we'll finish up the podcast by addressing that.
+
+16
+00:06:40,064 --> 00:07:08,608
+a little bit of irony. So let's get to this in a roundabout way. So what is... Your favorite way. It's our only way. What is endurance? So endurance is the ability to work without fatigue. And in the scientific literature, the ability to work again is recoverable in a, you know, meaningful, meaningfully short...
+
+17
+00:07:08,608 --> 00:07:38,464
+Timeline as opposed to like a pathologic injury where it takes a very, very long time to be able to do the same work again. So it kind of leads us to a problem in defining or even measuring work and fatigue. And we want to try to quantify it with FTP, which does an okay job at predicting things. But, you know, like you said, it's not going to be, you know, you can't line up and just compare numbers and, you know, give the medal to whoever's biggest. I mean, because, you know, then, you know,
+
+18
+00:07:38,464 --> 00:08:03,040
+Like in a criterium is a great place where people with low FTPs can do really, really well. You know, you've got a good ability to sprint over and over again. That's a hint. And you're good at hiding and you're good at reading the race. You could do really, really well in criteriums. But also, where does FTP fall short when considering the whole of somebody's endurance capacity?
+
+19
+00:08:03,040 --> 00:08:30,480
+and their ability to perform in races which by and large are not perfectly steady state. Even a lot of time trials can qualify like this. One of the drawbacks is that FTP is not a one-dimensional number. It requires some context. So obviously TTE is very important. FTP, that point in your power curve generally comes from a fairly steady state effort or mostly steady state. And something like this is
+
+20
+00:08:30,480 --> 00:08:57,632
+probably not going to determine your entire ability to do well in a cyclocross race, though obviously it is important. Obviously nobody, no, for instance, men with a 200-watt FTP is going to win a cyclocross World Cup. And also, FTP itself doesn't really look at how well one can work under FTP. So, for instance,
+
+21
+00:08:57,632 --> 00:09:25,264
+One person might be able to hold 90% of FTP for an hour. Another person can hold up for two hours. And this can actually change a little bit as FTP changes with your fitness. And this is something that we're going to talk about in the next series coming up. Or potentially we will. We'll see where it fits into the whole thing. So FTP also, and this is a big one, does not encapsulate what happens in larger motor units.
+
+22
+00:09:25,264 --> 00:09:48,448
+If and when one might be using those. Oh yeah, for sprinters, yes, definitely my favorite. So what we're going to talk about now is an attempt to describe my conceptual framework for the whole of endurance performance. Or, in other words, ways to look at somebody's endurance capacity beyond FTP.
+
+23
+00:09:48,448 --> 00:10:13,264
+And like in a lot of podcasts and articles, I actually don't usually have names for things or even strict boundaries about where they are in my conception of them because there's so much overlap and things that are aerobic and different aspects of fitness that all intertwines. So whenever I do a podcast episode like this or write an article, it takes a little bit for me to...
+
+24
+00:10:13,264 --> 00:10:40,544
+make the concepts make sense out loud because they're just stuck in my head for the most part. So my apologies if the classification scheme is weird or rough at all. So physiologically, what are the hallmarks of steady state riding at and under FTP? An approximately steady amount of ATP in demand? Even demands on muscles?
+
+25
+00:10:40,544 --> 00:11:10,512
+and usually somewhat steady cadence means approximately the same motor units are being used until, of course, we see slow components start to manifest and we're going to discuss that a little bit. We see probably a carbon fat oxidation ratio that isn't really but can be approximated as steady state and with the caveat that if you look into physiology with a fairly classic view, it is very much thought to be a steady state.
+
+26
+00:11:10,512 --> 00:11:36,416
+But, you know, things like fat oxidation will increase over longer efforts and stuff like that. We'll talk about that another time. And so the consensus also in the literature is that fatigue is very much associated with depleted glycogen stores. There are a lot of mechanisms of fatigue, especially once you get into, like, sprinting and really harder efforts. But, you know, around FTP and below and, you know...
+
+27
+00:11:36,416 --> 00:12:05,456
+You know, we've talked about this a little bit before, like in the slow component. It's really very well correlated with low glycogen stores. But still, nobody's entirely sure how that kind of thing manifests, like the actual chemical mechanism of it. So I do still need to dig into more literature on that, but that's what it looks like right now. No, I just always think it's interesting when you get to a point where you're like, yeah, and then...
+
+28
+00:12:05,552 --> 00:12:32,256
+We don't really know because we just haven't had enough studies. So I think it can be refreshing for people and athletes and people who are trying to figure out their own training plan or coaches to see that unfortunately sometimes we don't always have the answer in the sense that it's kind of still an open question for some of these things and it
+
+29
+00:12:32,256 --> 00:13:02,080
+is not terribly surprising that cycling training does not receive the bulk of the NIH funding, although I'm sure Kolie would like to change the ratio of funding that the NIH receives for cycling training research. But I think it's always interesting to see how close you can actually get to the sort of cutting edge of trying to apply science, new science, to real-time endeavors.
+
+30
+00:13:02,080 --> 00:13:32,080
+Yeah, well, I mean, especially with fatigue, one of the big things is that there are so many places in the signal transduction chain that can kind of go wrong and cause fatigue. And there have been a lot of really interesting studies. Like I recently read, it was like a 50-page review or something like that of literature on fatigue. And there's more than that, where that came from. And it's really fascinating because even in something like that, it's like,
+
+31
+00:13:32,080 --> 00:14:02,048
+Yeah, well, there's this, but it might work like this, but it also might work like this. We're going to wait to see what happens with future experiments. Makes sense. Yeah, there's a lot of plausible mechanisms, but nobody's really quite sure what. And the other thing is, when it comes to actual fatigue, it's hard to see each of these little things manifest. We just know that you're pedaling, and then you can't pedal anymore. That's, you know, how and why that happens.
+
+32
+00:14:02,048 --> 00:14:26,800
+Yeah, the questions. All right, so let's talk about kind of classic endurance beyond FTP, like steady state endurance. You know, the one everybody thinks about is like base, quote unquote, or zone two or zone one, depending on what training zone model you're using. I don't think about it like this personally.
+
+33
+00:14:27,088 --> 00:14:38,496
+May be discussed in Wattstock number 7? Was it 7 or 17? The pacing, or was it 15? Yeah, so I, okay, so I personally don't think about this.
+
+34
+00:14:38,496 --> 00:15:08,176
+As discussed in Wattstock number 15, I suggest you listen to that episode, but here's a quick rehash. I usually don't assign endurance rides by heart rate or power. I usually tell people not to look at those and to ride to a certain feel based on some descriptors, and sometimes that lands lower and higher than one might expect based on external factors like diet and fatigue and things like that. So sometimes it's 50% of FTP and sometimes it's like 78% of FTP, 80%.
+
+35
+00:15:08,176 --> 00:15:17,136
+It'll change, and if somebody gets fit, yeah, we would expect it to go up, but we also, anyway, so go listen to that episode.
+
+36
+00:15:17,872 --> 00:15:43,376
+So the classic endurance training is definitely excellent for things like building plasma volume and early season training of VO2max because of that. Also capillary density is a really big one, fat mobilization and oxidation. These are the usual suspects that we'll be getting into really good depth with these soon enough, some of which we have already actually, especially the VO2max and plasma volume.
+
+37
+00:15:43,376 --> 00:16:06,064
+and typical durations for this type of thing. Steady state endurance, you know, zone two or whatever you want to call it. You know, let's call it the two to five hour range, but obviously it can go a lot longer. And yeah, a lot of the time, my personal preference is just to hit the RPE target. And so how do we measure these rides? This is something that we...
+
+38
+00:16:06,064 --> 00:16:31,392
+have not talked about before, but I think would be interesting to compare because, you know, when we get into talking about, you know, the main topic of today, really a little bit later, we're going to talk about why it's so difficult to measure those kinds of things. All right, so let's talk real quick about a couple of the ways to measure improving aerobic performance and ability.
+
+39
+00:16:31,392 --> 00:16:56,560
+Obviously, average power would be one of the big ones. For instance, the way that I usually assign endurance rides being perception-based. If they're all about the same perceived effort and the watts are improving each time, then yeah, that's a very good sign of improvement. We could also look at normalized power for rides that are a little less steady, but usually for endurance rides and things like that,
+
+40
+00:16:56,560 --> 00:17:22,880
+Normalized and Average Power are probably going to be within a couple watts. If it's more than two to five, it's pretty surprising. And heart rate drift and decoupling is another one where heart rate drift is, as discussed in Wattstock number 19, heart rate drift is usually from the slow component, but also we have to tease it out from things like heat.
+
+41
+00:17:22,880 --> 00:17:44,432
+and Stress and other things that can affect heart rate. Also diet. So that is another way to look at it. So for instance, if you do two hours at 200 watts and your heart rate starts at 150 BPM, but it drifts up to 160, 165 BPM by the end, yeah, that's a pretty good amount of heart rate decoupling.
+
+42
+00:17:46,352 --> 00:18:07,488
+But if we want to kind of look at everything all together, you know, without getting too far into it, efficiency factor is another good way to look at this kind of thing, where efficiency factor is just the average, not sorry, not the average, the normalized power divided by heart rate. So this is something that can kind of, you know.
+
+43
+00:18:07,488 --> 00:18:33,712
+Because there's normalized power, if we were looking at steady state rides, you know, this will kind of quote unquote smooth it out, but we'll talk about some of the drawbacks of normalized power in a little bit, obviously. But, you know, this metric kind of has heart rate and power baked into it both. So, you know, kind of understanding this tool is pretty good. And, you know, for me personally, this is one of my favorite ways to look at improving aerobic ability through a training block.
+
+44
+00:18:34,608 --> 00:19:00,704
+So for instance, the cover art of this episode is, I haven't chosen it yet, but it's probably going to be a chart looking at heart rate decoupling going down and efficiency factor going up over a training block. So check out the cover art. There's usually something related in that. But let's look at efficiency factor real quick. You know, not to do a very deep dive on it or anything, but...
+
+45
+00:19:00,704 --> 00:19:20,048
+You know, there's a lot of metrics out there, sorry, there's a lot of articles out there that actually talk in depth about efficiency factors. So, for instance, if you do a ride that's an average of 150 watts, or sorry, 150 watts normalized and 150 BPM, then your EF is 1.0.
+
+46
+00:19:20,048 --> 00:19:49,360
+But if you get more fit and your heart rate for the same ride, the same power drops to 135, your EF is 1.11. However, if the heart rate drops the same, but you also have an increase of 20 watts, then your EF has gone up to 1.26. So this is a very individual thing because some people put out very different amounts of power for heart rate, and also it will change based on the kind of training that you're doing. So it's kind of understanding this tool that we have.
+
+47
+00:19:49,360 --> 00:20:16,016
+here is actually a pretty good thing to do. And that's just a cursory glance. I had initially wanted to do kind of a deeper dive into this, but, you know, it's really not that necessary to do. There's a lot of other resources out there to look at this kind of thing. So let's move on. Let's look at practical ways to compare efficiency factor and heart rate drift for endurance rides. Tags and training peaks or WKO.
+
+48
+00:20:16,016 --> 00:20:37,424
+like Steady Endurance as a tag. And then you can make a chart to look at just these kinds of rides so that you have the best apples to apples comparison as much as possible. And this is something as a coach that I always try to do as much as possible to assess improving fitness. This would also be a reason why adding...
+
+49
+00:20:37,424 --> 00:21:05,728
+comments on a ride. If you felt awesome, you felt terrible, whatever, after the fact can be really useful either for you or your coach later on because if you just never leave any feedback ever, you're cutting out an extra dimension there that future you or future your coach might have really liked to see. Yeah, exactly. And, you know, putting down TrainingPeaks metrics like, you know, overall feeling and stress and how did you sleep and, you know,
+
+50
+00:21:05,728 --> 00:21:33,648
+actually pretty much those can really be very helpful for contextualizing these kinds of rides too. So making actually breaking out these rides into different tags, I'm only going to look at endurance stuff or steady endurance rides. I'm only going to look at these like with TT bike or my road bike or my mountain bike.
+
+51
+00:21:33,648 --> 00:21:55,552
+This actually adds a layer of complexity when we're trying to do the analysis. And so what I typically do as a time saver if somebody doesn't have that many confounding variables, I'll actually keep a couple rides in my periphery.
+
+52
+00:21:55,552 --> 00:22:24,784
+So if somebody goes on the regular endurance ride on Wednesdays and Sundays, for instance, I'll pull up a regular chart and I'll just mouse over a bunch of Wednesdays and Sundays for a couple months and kind of just look at the trend of those rides. And usually it's pretty obvious going through just three or four rides, usually there's a lot of improvement, especially early season. So we can see heart rate decoupling or efficiency factor or whatever.
+
+53
+00:22:24,784 --> 00:22:52,032
+And, you know, one could, in theory, do this for, like, FTP rides, sweet spot, tempo and group rides, you know, but the fact that when I assign them, you know, we're typically trying to add more interval time and add efforts on top, like, you know, sweet spot over-unders or FTP with accelerations or bursts, you know, it's hard to get apples to apples with these kinds of things. And, you know, sometimes, you know, a 4x15 minute FTP ride, you know, they're...
+
+54
+00:22:52,032 --> 00:23:19,936
+They can be few and far between if we're really trying to build. So for us, it's like a three-hour endurance ride and a four-hour endurance ride are fairly similar. Four by ten minutes of FTP is not as similar to 60 minutes of FTP with accelerations every two to five minutes. You're probably going to see some heart rate drift in that last one. You may not see heart rate drift in the first one. That just sounds hard reading it. Jeez. Oh, yeah. Oh, you build up to it. It's a lot of fun.
+
+55
+00:23:19,936 --> 00:23:49,872
+a lot of fun. I used to love those rides. Fun. Air quotes. Big air quotes. Type II fun. Type II fun, for sure, yeah. All right, so what does all of the above actually tell us? The above all indicate the usual aerobic adaptations are occurring, really. So we've got plasma volume and mitochondrial density, fat oxidation, muscle capillarization, glycogen stores, the whole shebang. You all know the list. Can we tease these out from the watts? That's an interesting question, because I always am asking myself,
+
+56
+00:23:49,872 --> 00:24:18,496
+this question. I would say a little bit, but there's going to be so many assumptions built into most of these things. There are a couple exceptions, but so many assumptions built into most that it's actually going to be very difficult to be precise. But in a general sense, you know, I personally can tell, you know, improvements of increased muscle capillarization and fat oxidation and plasma volume.
+
+57
+00:24:18,496 --> 00:24:44,096
+Right off the bat, somebody's getting more fit. But we're going to talk about those a little more in the next section and also in the next upcoming series. So, next thing to talk about is TTE. So, generally speaking, TTE, Time to Exhaustion, can be used for any intensity level.
+
+58
+00:24:44,096 --> 00:25:10,928
+What's Your Time to Exhaustion at VO2 Max, for instance? But usually, these days, people think about TTE as Time to Exhaustion at 100% of FTP. This is just the common parlance because the way that WKO has kind of set it up to be, that's the context of TTE. So, in my experience, this is correlated to your endurance performance, but not tightly.
+
+59
+00:25:10,928 --> 00:25:38,032
+and we're going to get into why later when we discuss the real origin of FTP and side note it's actually not VLA Max and VO2 Max those are actually artifacts so we've been over this a lot discussing FTP testing but we're going to get through this quickly one more time so I usually prefer to have people find TTE from an open-ended FTP test discussed ad nauseum obviously and
+
+60
+00:25:38,032 --> 00:26:06,240
+Then further iterations of the test can be similar, you know, PD model derived, listen to Wattstock number 26 for more on that. So, okay, so with measuring TTE, the latest iteration of WKO5 does actually a pretty good job getting the actual watts correct for FTP, but I usually find it actually comes in short with the TTE by about 10 minutes. Interesting. Yeah. All the time?
+
+61
+00:26:06,240 --> 00:26:32,016
+Not all the time. Sometimes it's really good, but we really need to get that smooth transition point. And actually, you know, beyond FTP, we're going to talk about this more in a second, somebody needs some actual really good maximal data points, and not a lot of people have those. So a really, really, really, really hard road race for like four hours, it will usually fill in pretty well.
+
+62
+00:26:32,048 --> 00:26:57,632
+Yeah, I bet. Yeah. Yeah, but increasing TTE is usually just, you know, correlated with improving fat oxidation at FTP. So let's talk about FTP. So let's talk about below FTP endurance. So you can do a subthreshold test kind of in the same way of doing a regular FTP test.
+
+63
+00:26:57,632 --> 00:27:25,008
+So if you want to see how long someone can hold sweet spot, like say 90% of FTP, you know, start 15 watts below, 20 watts below where your sweet spot is for 10 minutes and bring it up to the target value and just hold it there until death do you part. So is it necessary? I would say not really actually. I will sometimes have people test 90%, but almost never lower than that.
+
+64
+00:27:25,104 --> 00:27:54,832
+you know but you know here's the one of the benefits of also FTP is that over FTP we know we need good max data for over FTP and we have a lot of it you know these are really really strong efforts somebody's like that was really nine and a half out of ten you know all right another 10 or 15 watts you know for your 30 second power is not going to make that big a difference in the model it's really not uh but it makes my ego feel so much better yes it'll make a big difference in your ego and mine
+
+65
+00:27:54,832 --> 00:28:23,728
+No doubt there. But, you know, we're not going to get that big, you know, a lot of these good maximal data points under FTP. So, but we don't need them actually just to find FTP, which is good, but it also means that we have to contextualize what's happening, you know, with our fitness below FTP. And that's one of the reasons that I think, you know, endurance pace, you know, to an RPE is actually one of the better ways to do that.
+
+66
+00:28:23,760 --> 00:28:50,928
+Actually, one of my athletes today was just saying, like, you know, I can't believe, you know, how much this pace has improved and, you know, how much more comfortable I am, you know, now as opposed to before. Like, you know, his all-day pace has gone up, you know, like 180 to like 220 watts. And he's like, this is great. I can't believe this. Wow, that's a lot. Actually, probably higher than that. It's been a lot of training over a long time.
+
+67
+00:28:50,928 --> 00:29:16,560
+You know, that's good. You know, it means somebody's had room to improve and somebody improves. That's great. You know, but he was like, I don't know why everybody isn't talking about, you know, improving this. And, you know, the answer is actually, it's hard to find. It's difficult to nail down. It doesn't have a signature in the power curve. That's really obvious. So, you know, it's...
+
+68
+00:29:16,560 --> 00:29:43,296
+It's probably why everybody's talking about FTP. And if other things were easier to talk about, like 5-Minute Power is really easy to talk about. Sprint? Yeah, that's easy to talk about. But stuff like this, it's hard to nail down. Makes sense. Low-hanging fruit, right? That's one of the reasons why FTP, like we said, is popular, because it's relatively easy to measure. Yeah, definitely. Yeah, okay, but...
+
+69
+00:29:43,296 --> 00:30:10,112
+One of the other things that I also see a lot of the time is, especially when somebody's developing or like getting into shape early season, one of the things that happens commonly is we'll see like PB Watts from like three to four and a half hours or something like that. And, you know, is this like a really true 10 out of 10 max? I mean, honestly, probably not. I would imagine that person can hold it probably a little longer depending on how much they eat.
+
+70
+00:30:10,112 --> 00:30:37,344
+and that's one of the big things with this kind of thing is like your nutrition can really drive this a lot and so that's one of the other contextual things that's really difficult about assessing endurance performance. Yeah, that makes sense. Also, you can imagine just day-to-day variation from everything else in your life is gonna make that hard too because yeah, some days you feel awesome, some days you...
+
+71
+00:30:37,344 --> 00:31:04,672
+slept like crap because, you know, whatever, your neighbors were being loud, who knows? Yeah. All right, so what about steady state over FTP? Now, we're going to actually kind of kick the can down the road for this because there's a lot of debates about this kind of thing and there's a lot of research to get into with this topic and we're really just going to have to save it for another time because it also involves more
+
+72
+00:31:04,672 --> 00:31:34,512
+Examining Definitions and Historical Context. So these are things that take some thought to do properly. And we always want to do things properly on this podcast. So let's talk about repeated efforts. So this is the meat and potatoes of today. This is a very different type of endurance. So if we take most marathon runners and we ask them to intermittently sprint on a bike for an hour,
+
+73
+00:31:34,512 --> 00:32:01,136
+I'm sure most of them will not be that good at it. You know, it's not a judgment. I mean, it's just the fact of the training. But let's say we take a good rower. I'm going to bet they're probably going to be pretty good at that. So let's talk about this. Why is this a different type of endurance? So at least according to my understanding of physiology right now, which, you know,
+
+74
+00:32:01,136 --> 00:32:30,992
+takes a U-turn every couple months or a couple, you know, year, year at the most when I reverse myself on something. So we'll see what happens with this. So repeated or stochastic efforts are significantly different from steady state because to make more watts, to make more force in the pedals, you have to recruit larger motor units, which we've talked about many times on the podcast before. And I believe it was watt stock number nine was the first place we,
+
+75
+00:32:30,992 --> 00:32:58,656
+talked about them. So because of the nature of how aerobic adaptation happens, these large motor units can be in different states of quote-unquote aerobically trained. Small motor units are very, very well aerobically trained because we use them all the time just doing basic functions. Taking the stairs, sitting up, standing. Yeah, walking.
+
+76
+00:32:58,656 --> 00:33:23,184
+Putting the pedal in your car, things like that. Large motor units, not so used to large amounts of oxygen flux and sustained demands on ATP and NADH. They don't have a lot of calcium in them very often because they're not contracted that much. And there's no subsequent adaptations to these signals.
+
+77
+00:33:23,184 --> 00:33:52,784
+Mitochondria and fat transportation and things like that. So in order to get better at, you know, stochastic efforts and endurance with repeated stuff, things that use larger motor units repeatedly, we actually need to train them. Shocking. Sorry. Only some people need to train them. Some people are going to be genetic freaks and they can just step off the couch and...
+
+78
+00:33:52,784 --> 00:34:22,063
+Do 30-30s better than you. Yeah. I mean, I've seen it happen. I mean, I've had a couple people on my roster where, by all accounts, if you look at their FTP, they should not be racing at the level they're at, but you ask them to do some specific efforts, we'll talk about testing this in a little bit, then they're going to blow it out of the water, and you're going to go, oh, that's why you're so good at winning crits and things like that.
+
+79
+00:34:22,063 --> 00:34:51,456
+For more on large motor units, which will, you know, oftentimes include some fast-twitch fibers, how they can be aerobically trained, I suggest you listen to Wattstock number 12, but here's a quick summary, which I actually should have titled that episode, I think it was titled something like, you know, can fiber type predicts carbohydrate or fat use, and I really should have titled it something better like,
+
+80
+00:34:51,456 --> 00:35:18,976
+You know, how do fast twitch fibers burn fat? But I'm not really good at that kind of titling. Otherwise, I think that episode might have more than like 2,500 listens. I think it's actually one of our most interesting episodes from what I remember about it. I like that episode, yeah. Yeah, I haven't listened to it since we recorded it, but I remember the paper really well. So what the study found is that cross-country skiers had...
+
+81
+00:35:18,976 --> 00:35:47,440
+Type II, Fast Twitch Fibers that had fat oxidative capacity comparable to their own Type I fibers. And our conclusion from that episode is that metabolic adaptations are not inextricably linked to fiber type. And, you know, oftentimes when we see it, it may actually just be as an artifact in that, you know, sports that are very endurance oriented and not strength or power oriented or vice versa.
+
+82
+00:35:47,440 --> 00:36:14,496
+will find a fiber type and metabolic adaptation happening, you know, kind of in the same way. And, you know, there also may be some self-selection bias here where if you're a very slow-twitch person naturally, for instance, I know of an athlete who has no fast-twitch fibers whatsoever. Can this guy sprint? Yes, he actually can sprint fairly well. So anyway, so what I'm trying to say is, you know, if you...
+
+83
+00:36:14,496 --> 00:36:43,904
+are naturally pretty strong and you naturally have some fast twitch fibers. You might just pick up weightlifting or powerlifting or something like that. And it's not often that sports really require a high demand of force but also a high oxidative capacity and that's one of the things that they were looking at in cross-country skiers that I thought was so fascinating. Yeah, I think it's interesting how different sports can actually coax out these sort of weird things like you can imagine that
+
+84
+00:36:43,904 --> 00:37:13,744
+Cross-country skiing is not so much like, I don't know, hunting, gathering, running around as cave people. But because we are able to kind of come up with these more contrived sports, not that cycling isn't super contrived as well, I think it's always interesting to see what you tease out of the human body in that way. Yeah, for sure. Yeah, and cycling is one of those sports, well, you know, depending on the
+
+85
+00:37:13,744 --> 00:37:40,640
+specific discipline that you're doing that can actually, you know, really put a really high premium on people who are, you know, really good at this kind of thing. So let's talk about some of the rides that we can do. Obviously the races, you know, really obvious, like cyclocross criteriums, but road racing, depending on the course and the field and how tacky everybody's feeling.
+
+86
+00:37:40,640 --> 00:38:05,056
+Cross Country Mountain Biking, Short Track, et cetera, et cetera. The list goes on. So we're going to talk about some of the workouts that I usually have people do to kind of train for this kind of thing. All right. So we have stochastic tempo. I mentioned this in the AMA episode, I think. So where somebody asked if I assign like tempo rides and I said, I don't usually assign steady state rides just as...
+
+87
+00:38:05,056 --> 00:38:34,736
+Kind of like a, you know, wake the legs up kind of thing, you know, really short. But I really love stochastic tempo rides. I think Tim Cusick calls them tan, T-A-N, tough as nails, but I could be mistaken about this. I haven't looked into that in a while. So, you know, it's one of those kind of things. It's like, it's a workout that's kind of been around for a long time. And, you know, I just have my own name for it because I don't know what everybody else calls it.
+
+88
+00:38:34,864 --> 00:39:02,944
+So it's good for longer rides, you know, on the road, but I also really like it for off-road. So the goal for these rides is usually to cover the terrain, the distance, the course as fast as possible, which means pushing harder up hills and easier on descents, just like you would in a breakaway or an ITT on rolling terrain. But, you know, sometimes depending on how long you're out for, it could be an ITT that's like one to four hours long.
+
+89
+00:39:02,944 --> 00:39:31,872
+you know so it's it's good to like you know it's good pacing in that respect to practice because you can think I've got this much energy left um you know and I've got like four laps left on this course um and you've got to manage your energy that way see I always kind of like those rides too because they're just kind of fun I don't know maybe I'm I'm weird but I feel like you were good at them fair no I I think I think just as a person
+
+90
+00:39:31,872 --> 00:40:01,424
+Those are, if I'm just going to go out and like, I don't know, do a fun ride for a couple hours or whatever, that's just kind of fun. Like, even if you're out, you could be out there with friends, out by yourself, whatever. It's just kind of fun to like, go a little bit hard, but not like, you know, always like Wednesday Night Worlds trying to kill someone at the back. Oh, definitely. Yeah. I mean, I know a lot of cyclists who do these just as fartlek rides. Yeah. You know, fartlek, speed play.
+
+91
+00:40:01,648 --> 00:40:29,936
+Not Fart Lick? No, not Fart Lick. F-A-R-T. Actually, do you think that's where Speedplay got their name? Oh, maybe. The pedals. Yeah, I didn't even think about that. That's the first time I've ever... Well, now I have to decide if we're going to lead that in the podcast or not. Yeah. All right, so that's Fart Lick Tempo. Over-unders. Now, over-unders are one of my staples for training, for training threshold and for training repeated efforts.
+
+92
+00:40:30,320 --> 00:40:57,904
+you know they're a great way to achieve adaptations because it's like 10 to 60 seconds sometimes a little more over threshold followed by one to five minutes under threshold is a typical over under scheme so for instance if you want to you know individualize it to yourself you call it 30 seconds at your like five to eight minute power and then two minutes at your sweet spot power you know and that's a good place to start for like two by 20 or three by 20
+
+93
+00:40:58,192 --> 00:41:22,576
+So there's another way to do this, which is the intermittent type intervals. So there's a lot of ways to do the intermittent intervals as well. And we're probably going to break these down into their own episode. But here's the short version. So intermittent efforts in the range of like 10 minutes or longer can help someone prepare for repeated sprint efforts like in a crit. So starting with something like...
+
+94
+00:41:22,928 --> 00:41:52,432
+15 seconds on, 15 seconds off for 10 minutes, but I usually say no power target. Hmm. Pace it so that you can finish the intervals feeling like you've worked, but not totally dead, but obviously not breathing through your nose. So, you know, a lot of studies will say, like, we're looking at this percentage of VO2 max or threshold or MLSS or whatever it is, and, you know, quite frankly,
+
+95
+00:41:53,360 --> 00:42:18,320
+Having somebody figure that out for themselves when they go do this on that day, I find is the best way to get the most adaptation because this person, you know how to pace yourself the best. I don't know how tired you are. I don't know if you had enough to eat before the ride. I can look at what you've done with these intervals in the past and give you a ballpark, but your first week,
+
+96
+00:42:18,416 --> 00:42:48,400
+you know doing these intervals in week one of a training block it's going to be different than in week four of a training block you know what I mean if you even get to week four so so they require some context and it's also interesting so yeah is the also the theory here is that you just want that you want to build up that time at those higher force levels you know which is but not necessarily exactly prescribe oh you have to nail this you know whatever
+
+97
+00:42:48,400 --> 00:43:16,912
+Time for the 15 on, 15 off, or whatever it is. 30, could be any, however you want to split it up. You know, if we're going for a certain adaptation and we're going for training a certain amount of motor units, you know, somebody's going to pace themselves pretty well in a crit with these efforts, you know, obviously you're probably going to have to go a little harder keeping up with people around you demanding the pace, but, you know, people for the most part can get pretty, pretty close to, you know, that type of training.
+
+98
+00:43:16,976 --> 00:43:45,376
+And all we really want to do is have somebody make a lot of work, put out a lot of kilojoules. Yeah, and just the kilojoule demand is the ATP demand, really. And we're talking aerobic adaptation. If you want to have something adapt aerobically, you're going to have to demand ATP of it. And one of the things about large motor units is that...
+
+99
+00:43:45,376 --> 00:44:14,528
+If we really, really want to get into the big ones, you can't hold it that long. If I want to train those big, big motor units, I'm not going to just, I can't just hold 2,000 watts forever. I mean, I really wish I could. That would be awesome. But you can't do that. And similarly, anybody who's out there trying to train, if you think that I'm going to do five-minute max efforts that's going to train these motor units, you're going to train a lot of your motor units.
+
+100
+00:44:14,528 --> 00:44:40,432
+But you're not going to be able to really get into the big sprinty ones, for instance. And so, you know, I mean, that's another way to do it, too. But I prefer to actually have people do the intermittent efforts because they're more like racing. And if somebody's got a course where, you know, we know there's some like three to eight minute climbs, you know, we'll do some of that specific prep. But anyway, what were we talking about?
+
+101
+00:44:41,264 --> 00:45:09,424
+Oh, just that, yeah, the whole point of this is to build up time where you're working aerobically but producing more force. Yeah, exactly. But, you know, at the same time, like, if you are producing not enough force or not enough kilojoules, if you want to go for force, you know, we'll talk about manipulating cadence in a little bit. We're getting a little bit ahead of ourselves, but I think it's worth, you know, going down this avenue for a minute. You know, there's not as much...
+
+102
+00:45:09,488 --> 00:45:37,200
+Metabolic Flux. Because if you go too low with the cadence, the kilojoules suffer. Yeah, and it's almost like high rep lifting or something, right? Yeah, but not even because you can't even produce enough force on the bike to replicate an actual strength stimulus. I mean, for the most part, I would assume. I mean, certainly based on me and you, we certainly cannot do that.
+
+103
+00:45:37,200 --> 00:46:06,896
+I've got the Newton numbers in the gym and on the bike to prove it. So, yeah, so you really want to make sure that you can do a lot of work, you know, with these larger motor units. And sometimes, yeah, we'll talk about manipulating cadence in a bit. But, yeah, so if you really want to get into the big, big motor units of the very high sprints, actually, this is a good transition into the next one. RST.
+
+104
+00:46:06,896 --> 00:46:30,000
+So this is what I have in my head as repeated sprint training. I don't know if anybody else calls it this. This is what I call it. So for me, this is really excellent for especially mountain bike racers, cyclocross, and criterium racers as part of a good rounded training program, especially if someone's peak power or ability to create, you know,
+
+105
+00:46:30,000 --> 00:46:56,736
+Good Peak Power later in a race tends to suffer. You know, if you're watching somebody's race file and, or, well, actually, we'll talk about that in a second. We'll get more into that, the fatigue of the sprint efforts. So, what I usually have for RST is intervals that are intermittent max power sprints, like absolute max, seated or standing.
+
+106
+00:46:56,736 --> 00:47:26,400
+My usual scheme is 5-second sprint every 30-second to minute, or 10-second sprint every minute, something like that. And these can be progressed, you know, as the same as intermittent intervals, really, like 15-15s, where, you know, 15-15s, you might want to start with 3x10, and you're going to want to work up to like 3x20 and 2x30 or whatever. We can do the same with these. But there's a common thread in all these.
+
+107
+00:47:26,400 --> 00:47:48,624
+Larger Motor Units by Working Harder. But, you know, like I said before, you cannot actually fully go to exhaustion with these because it's going to take forever to recover. And recovery is a huge part of doing this type of training. It's as important as the efforts themselves. Yeah, I'm thinking like compare that to your stereotypical classic.
+
+108
+00:47:48,624 --> 00:48:18,384
+Pure Track Sprinter Workout, which is going to be three to five 20-second all-out efforts spread out over the course of like two, maybe three hours where you completely, you know, waste yourself and then completely recover. This is almost as far away from that as we can get while still doing sprint efforts. And it really well describes what I did in the gym this morning. Yeah, I think the other thing is
+
+109
+00:48:18,384 --> 00:48:47,072
+that this, like, contrast this with what we talked about in Wattstock number two, which is why you're probably training too hard for crits, and notice that it is not necessarily just going out and doing 30-30s all out and just wasting yourself anaerobically all the time and not recovering. Yeah, yeah, actually that's... It is very, it is different.
+
+110
+00:48:47,072 --> 00:49:16,192
+And the difference might be subtle, but if you look at actually the effort level that you described, it is not just doing 15-15s until your eyes bleed. Yeah, I mean, I've done those. It's just not fun at all. Well, the thing is, I mean, I remember the first time I got like 15-15s or 30-30s, I think it was like for like 3x10 or something like that. And I went out and I started doing them and I immediately found that I...
+
+111
+00:49:16,192 --> 00:49:43,200
+Way overcooked the first three, and then I had to really manage myself for the rest. And that's one of the things that those efforts really teach you. But I also have athletes where if I give them that same type of workout, they'll just waste themselves every single effort, and we'll have to talk about pacing and kind of dialing it back a little bit. Yeah. I remember...
+
+112
+00:49:43,200 --> 00:50:12,288
+One time it was like my first or second year racing. So I won't name the name, but there is one popular series of cycling workout videos that you can do at home where one of the workouts is 16 rounds of a minute on, a minute off. And I remember the exact same feeling of like way overcooked to the first two and just being like,
+
+113
+00:50:12,288 --> 00:50:41,408
+Oh my god. I have to do how many more? How many? Yeah, you're just like, you're like looking at the round counter in the corner of the screen going like, oh, come on. I remember doing one of those similar videos that doesn't have a name, but was basically a 2x20 with efforts on top. And I did that with an overestimated FTP. Not even worth doing, honestly.
+
+114
+00:50:41,408 --> 00:51:09,616
+Yeah, you get to the point where at the end you're just like, I'm not even, like, I'm breathing really, really hard, but I'm barely pedaling. Yeah, the motor units you're recruiting to make like 200 watts for that minute are not large. Yeah. They're slowly climbing up the stairs motor units. Yes, which you can barely do when you're done with that also. Yeah.
+
+115
+00:51:09,872 --> 00:51:38,704
+But let's talk about the cadence now, though, because I mentioned this a second ago. You know, we can manipulate the cadence a little bit. And this is something that I do with people, but we manipulate it in a different way than most people might think. I usually don't assign lower cadence stuff at like Temple or Sweet Spot, unless there's a very specific purpose in it. Like somebody's typically...
+
+116
+00:51:38,704 --> 00:52:08,496
+Overgeared on Climbs, and they're forced to climb at a lower cadence than they're used to, this is a really good chance to work on that. However, beyond that, besides a couple of very fringe cases, I usually don't assign this kind of stuff. But that's just me. Some people do it to a good effect, and that's fine. But I should actually throw in a word of caution with all this, too, because some people are really not
+
+117
+00:52:08,496 --> 00:52:32,752
+that good with this kind of work. And I don't mean that as a judgment. I mean, naturally, they're not excellent repeated sprinters. And so it can actually take a long time for this training to take hold. And I really mean like months to years of getting in this kind of training, getting used to doing repeated efforts and having it be a manageable effort like people who race cyclocross.
+
+118
+00:52:32,752 --> 00:53:01,488
+you know like 30 times in a two or three month period um and you know that's a lot of quality training yeah um well if you can if you can actually manage it because if you're barely doing any watts by the last race then you know why um so the other thing that can happen is somebody's you know a good sprinter and they can really really destroy themselves and it's going to take a much longer time to recover
+
+119
+00:53:01,744 --> 00:53:29,296
+I know that feeling. Not that I'm like an amazing sprinter, but I can dig a hole. So you really need to be judicious in the amount of the really hard work that gets done. But stuff like fartlek tempo and SST over-unders are usually pretty universally doable and recoverable in a normal training block as long as you're not doing them in ridiculous intensities.
+
+120
+00:53:29,296 --> 00:53:48,864
+If your FTP is overestimated, then doing an FTP with accelerations on top is going to be a really hard ask. So that's something to be cautious of. Monitoring somebody's recovery with this kind of stuff, how are you doing upstairs?
+
+121
+00:53:48,864 --> 00:54:18,432
+is a big one. Our very slight inclines are declines, so they hurt a lot. But making sure that you can accelerate and sprint and not feel like a pile of shit is going to be really, really helpful to recognizing that. And if you've got something harder, just take out the hard stuff. You can still do a sweet spot effort, probably. If you're not able to fully do big sprints, you can still get in good training.
+
+122
+00:54:18,432 --> 00:54:42,736
+But now let's talk about how we track this kind of fitness. Because this is what I mentioned earlier, where, you know, this can get kind of weird. Because just counting up those medals from all those crits. You know. I wish. You could do that. You know, but metrics previously looked at, like heart rate, EF, and TTE. The watts that we get with a lot of these things are not nearly as stochastic.
+
+123
+00:54:42,736 --> 00:55:09,728
+as you might see in a crit or a cross race or a mountain bike race. And especially for heart rate, oh my God, the heart rate that you see in your cross race, no, 25% less than that is not your new threshold heart rate. Yeah. You mean it's not just 180 beats for 40 minutes just straight? Yeah. Yeah, exactly. And that's one of those things where you cannot measure how hard it was.
+
+124
+00:55:09,728 --> 00:55:35,568
+It was very hard, but specifically your fitness with these repeated efforts, like you can be fading and still have your heart rate jacked to like 200 BPM for the duration of a cross race. And so Strava just gives me a sweet number for that when your heart rate's that high. Well, so, you know, the first obvious solution to this is normalized power, but obviously...
+
+125
+00:55:35,568 --> 00:56:04,672
+It's not a great solution because like everyone else many years ago, I used normalized power to see how I was doing for like crits and cross races and stuff like that. And honestly, it's discouraging sometimes when your normalized power one weekend is 50 watts lower than the other weekend, but you had better legs this weekend and you actually did better. So what happened to your fitness, right? Or for instance, you're on a course, remember one of the crit courses around here, what was it?
+
+126
+00:56:04,672 --> 00:56:32,896
+Fitchburg, I think, no, Lemonster, Lemonster or Fitchburg, the long hot dog one with the hill in it, like, that was a perfect, like, normalized power busting course because you're, like, pushing hard for, like, 30, 40 seconds and then you're coasting. I hate those courses, though, man. Yeah. Yeah, but I saw, I saw normalized power, like, 20, 30 watts higher than what I knew my threshold was and I was like, oh, that's weird. Oh, right. Oh. Yeah. No, that is not your new FTP. Yeah.
+
+127
+00:56:32,896 --> 00:57:01,984
+Put down that mouse. Do not adjust your FTP. Yeah, don't do that. I mean, because, you know, normalized power in this context is really course dependent because it's an exponentially weighted rolling 30-second average, and so your efforts are shorter than 30 seconds. They barely make a dent. But if they're longer, you know, 30 seconds or longer, like, normalized power busting is totally a thing, too. Like, if I go out and do... It's fun. It's my favorite hobby. Oh, yeah.
+
+128
+00:57:01,984 --> 00:57:23,728
+Like if I go out and do 30 or 40 second efforts, if I do say three in three hours, my normalized power is like 400 watts. And my threshold is not 400 watts. That's the best part about doing, like if you look at normalized power from like a match sprint tournament, it's like...
+
+129
+00:57:24,016 --> 00:57:48,368
+320 watts for four and a half hours. He's like, yeah! I did not do that. Yeah, exactly. Because you've got to do like a thousand watts for 30 seconds like every, you know, if it's a really fast tournament, like every 10 or 20 minutes. Yeah. Yeah, or even all day. Hopefully more. Hopefully way more than a thousand. Yes, hopefully way more. Okay, so given...
+
+130
+00:57:48,368 --> 00:58:17,776
+This deficiency in normalized power and it needing more context and consistent context, I have a couple of methods to kind of track this kind of stochastic fitness fairly well. And the most important one is to use a fixed course. Hopefully something that's more appropriate to your type of racing. So if it's cyclocross or mountain bike or road racing, you want to find something kind of familiar that you can use as a test loop.
+
+131
+00:58:17,776 --> 00:58:46,176
+Especially my off-road athletes, I'm always telling them, like, find a course, find a course. Like, we haven't found a course yet. We've got to find a good course for this. And I know some are listening going, oh, God, yeah, I've got to go keep scouting. Just buy a big enough plot of land that you can build your own course in your back. Ah, yes, I will do that right here in the heart of Boston. Yeah. Just have your Kolies testing course. Anyway, yeah. Yeah, yeah, that'll get good city approval. Specific test effort sessions.
+
+132
+00:58:46,176 --> 00:59:14,544
+are also really good. So for instance, an hour of 15 15s or like, you know, 30 15s or, you know, 10 20s, however you want to break it out, doesn't matter. And, you know, it depends on, I guess, the type of motor units you want to test. If you want to sprint 10 seconds every minute for an hour, I mean, I've done that. It's hard. I remember doing that. Yeah, I made you do it. Back in the day. Yeah, very effective. But, you know, you're going to test a slightly different ability than if you're going like 30 seconds on, 30 seconds off.
+
+133
+00:59:14,544 --> 00:59:43,296
+And if you only sprint for like one second or five seconds, like, you know, one second every five seconds, that would be an interesting one, actually. I'd be curious about that. One second every five seconds, oh man. Right? I mean, you basically have to do that on a trainer, though. I don't see how you... Yeah, yeah, it'd be weird. Okay, anyway, so what I'm saying is you've got to find something that is kind of reflective of the racing demands. This is going to give you the best...
+
+134
+00:59:43,296 --> 01:00:12,288
+Apples-to-Apples comparison. So you can look at normalized power better over a course. You can look at speed also. You can look at your efficiency factor a little better like this. So you can sort of pick a thing. It doesn't have to be anything too specific. It's got to be specific to you personally, which is why I'm just throwing out some random stuff here. Every couple weeks, if you're working on this kind of fitness,
+
+135
+01:00:12,288 --> 01:00:39,280
+Then you can go, oh, am I getting better? I'm going to go do my test loop and I'm going to see if I do my, you know, like right by my house, the, you know, the state park, my, my test loop, you know, there's 20, 25 minute loop. And to test myself, I would go out and just crush it for 40 minutes and see if I got faster. I mean, so the other way to test your fitness is workouts and races, obviously. This could be a mixed bag of like good and bad ways to watch your fitness.
+
+136
+01:00:39,280 --> 01:01:08,816
+because in a crit or while doing a workout that's FTP with sprints, one of the things, well, in a crit, obviously, you're at the mercy of other people unless you just want to sit in the front and have an interval session and drag people along. Not highly recommended, but certainly can be done. When you go out and do a workout like this, I think I alluded to this earlier, you can watch the power peaks as you go through the race or the workout and see if they fall off.
+
+137
+01:01:09,168 --> 01:01:37,680
+or something like that. That's in your article, you're training too hard for crits, is watching that. Oh, is it? Oh, cool. Yeah, you got a plot of it where, you know, the athlete in question or whatever loses, you know, hundreds of watts on their max sprint out of the corners as the race goes from the, you know, beginning to the end. Yeah. And you can see it just go down. Yeah, exactly. And I've seen the same thing in cross races. I've seen the same thing in a workout like FTP with sprints.
+
+138
+01:01:37,680 --> 01:02:07,584
+You know, a lot of the time, you know, I, everybody reports this to me, if this is happening to them, and I've certainly done this, and I've felt it, that the accelerations can drop, you know, the gusto of them. So we can start with like, you know, 900 watts for your first one, and then it'll be like 800, and then you'll kind of finish up at like, you know, 500, 450. And that gets harder, but the FTP stays the same. You can do that.
+
+139
+01:02:07,584 --> 01:02:35,264
+But, you know, your larger motor units are fatiguing because they're not used to this kind of effort. And that's one of the things that, or that's my interpretation of this anyway. So there probably is some other stuff going on here. But, you know, by and large, operating on this principle, at least, has gotten a lot of people a lot of good fitness with this kind of stuff. I would say also just kind of goes to show where wherever possible, as you get closer to events and races,
+
+140
+01:02:35,264 --> 01:03:01,776
+Making your training look a little bit more like said events or races can be very useful. Just doing steady state rides or FTP rides so your eyes bleed will help you not get dropped probably in a race but may not be the be-all, end-all to get you the win or podium or upgrade points or whatever you're looking for. Oh, sure. Well, I think if you're like a
+
+141
+01:03:01,776 --> 01:03:30,640
+If you're like a really good triathlete with a 4-watt FTP and you get in a Cat 5 crit, you're probably going to be fine. You know, accelerations or not. You know, that's one of those things where, you know, the relativity there matters a little bit. Sure. But assuming that you are, you know, hanging with your peers. Oh, definitely. Oh, but I wanted to mention one more thing with like an FTP with sprints type workout. You know, because I'm sure a couple people are asking,
+
+142
+01:03:30,640 --> 01:03:56,752
+Or is it better to, you know, peg the accelerations at a wattage that you know is doable than, you know, than like letting it, you know, start too high and then fall off? And my initial instinct would be to say yes, that is probably a better way to do it because you're going to be recruiting about the same amount of motor units each time. And if you start really hard and then you fade,
+
+143
+01:03:56,752 --> 01:04:20,144
+What's happening is you're recruiting less and less motor units as the power and the force goes down. Yeah, by the end you're barely tapping into them as opposed to, you know, at least maybe not drawing on all of them but drawing on a majority for the entire time. Yeah, and so the question is going harder and fading, is that more specific to what you want to do? And, you know, there can be, well...
+
+144
+01:04:20,144 --> 01:04:49,488
+I'm being serious because there can be some reasons that you would want to do that and there can be some reasons that you would want to do the other way. I would say probably try to peg it at something that you can sustain more or less, but don't undercook it. I'd rather see somebody's acceleration peak power for a workout like this drop like 100 watts over the course of it from like maybe 700 to 600 than I see like at 250 watts for an hour and they're only accelerating to like 350 watts. I'd rather not see that.
+
+145
+01:04:49,488 --> 01:05:15,248
+Right, yeah, that makes sense. Then you completely miss the point of the workout as opposed to just having it be slightly less effective. Yeah, definitely. It's not a... Yeah, I think if you can also do a couple hard ones and then kind of even out, I think that's fine too. Because sometimes you hear the music, you've got to dance. And somebody's going to tell me to sprint, I'm going to sprint. And then I'm going to think about what I've done and...
+
+146
+01:05:15,248 --> 01:05:45,040
+Do my penance sprints of, you know, okay, I'm not going that hard. I've learned my lesson. Yeah. I was gonna say, it's also something that you will get better at if you do it more. You know, the first time out, yeah, it's gonna be hard. You're maybe not gonna know exactly how hard to go or how easy to go or whatnot. But obviously, like a lot of things, the more you practice, the better you'll get. Yeah, exactly. So let's go back to our original question.
+
+147
+01:05:45,040 --> 01:06:14,048
+Rowers versus cyclocross racers. So what's the difference? What are the similarities? One of the things I've always found with people who are coming from rowing is they are awesome at repeated accelerations. Yeah, but yeah, generally speaking, you know, the strokes are pretty hard. You're recruiting a lot of muscle mass and rowers, you know, need to be good at like deadlifting and stuff. That's a very good specific lift for somebody who's rowing crew.
+
+148
+01:06:14,048 --> 01:06:35,648
+I haven't seen it tested, but I would assume rowers who are very well aerobically trained probably have very high fat oxidation capacity in their fast-twitch fibers. And they may have a lot of fast-twitch fibers. Wild guess, wild guess. I don't have any evidence here. Just guessing. Oh, and also, rowing is one of the few sports where
+
+149
+01:06:35,648 --> 01:07:03,648
+you'll actually, where doing a traditional deadlift or trap bar deadlift or something like that or squat even where you're actually using both legs at the same time as opposed to like pretty much every other sport you're not actually using both legs at the same time you're using one leg and then the other leg. No, that is very, very true. Weightlifting is the other one, right? Yes. But that's, but then your whole sport is moving apart, but I'm not, not, yeah. Yeah, I, yeah, Kyle, I need help with strength training for weightlifting.
+
+150
+01:07:03,648 --> 01:07:29,456
+Okay, so the other question was, you know, when should somebody or whether somebody should do mountain bike-specific endurance, you know, riding on trails where it's more stochastic output? Which I thought was a fantastic question, especially considering that I was working on this episode when it was asked. So I thought we would include it. So, I mean, the answer is, it depends, obviously. Of course.
+
+151
+01:07:29,456 --> 01:07:55,376
+The mountain bikers I coach, you know, we typically do both. With a road ride, you know, you're typically doing more pedaling, and this is usually going to be better for specific types of adaptation. But for the fiber type specific adaptation, you know, of endurance riding off-road, yeah, I definitely have people do endurance riding off-road, and it's usually a mix of the two. So if you're...
+
+152
+01:07:55,376 --> 01:08:16,768
+really, really good at this kind of thing. I would actually say it's probably less necessary to do the off-road riding. It's great for tech stuff and it's good to hang out with your friends and that's a good reason to do it. But as a specific training thing, if you're really excellent at repeated efforts, it's not as necessary. I actually...
+
+153
+01:08:16,768 --> 01:08:45,808
+often counsel people to ride off-road on their cross or mountain bike, but to find a flatter course where they're doing more steady type stuff. You had alluded to this a little earlier, but this is the irony that I was talking about because in the You're Training Too Hard for Criteriums podcast and article, I discussed not doing such high-intensity workouts all year.
+
+154
+01:08:46,319 --> 01:09:11,568
+and we've got a link to it in the show notes but you know what I was really specifically cautioning against in the article was short versions of these workouts all year the ones that improve or look to improve VO2 max and anaerobic capacity which especially anaerobic capacity takes a lot of energy to develop and maintain but also speaking since we're on endurance episode
+
+155
+01:09:11,568 --> 01:09:41,072
+Fun fact, for track sprinters, anaerobic capacity usually gets called speed endurance because it's how long you can hold a specific speed and you can hold it longer with greater anaerobic capacity. How cool is that? With doing FTP training all year, when I'm coaching them anyway, most people get some kind of intermittent efforts. You know, it's rare that like three FTP workouts in a week are all steady state. Even when prepping for an ITT.
+
+156
+01:09:41,136 --> 01:10:09,312
+You know, we've got ITT work, but we also have, you know, not steady state work. Mostly for all your kind of training stuff, it's like over-unders and stochastic tempo, you know, nothing that's really going to leave you dead and gasping in just a couple minutes. The medium hard stuff, which would be like, kind of like doing a three-quarter of a full send of 15-15s, you know, that kind of thing. Some people will get more often, some people get less, because this is where I think it needs a lot of...
+
+157
+01:10:09,312 --> 01:10:37,888
+Individualization. What determines this for the most part is, at least for me in my coaching practice, is the fatigue generated by these efforts and the subsequent recovery. How much recovery does somebody need is a really big thing with these efforts. If somebody needs more recovery, we assign them less. If somebody is really good at this kind of thing, yeah, we'll do a couple sessions a week for a lot of the year that would for most people be
+
+158
+01:10:37,888 --> 01:11:04,496
+might be kind of unthinkable, and for most people probably is, but in a couple rare cases, like, yeah, it's probably, you know, it's probably a good thing to do to be doing this very specific training. I think that just goes to show that you, it's hard to print out a blueprint of training that works for everyone. Yeah. Like you said, you even said that, like, you said that like three or four times in that sentence where, oh, well, you know, sometimes if you, if you are
+
+159
+01:11:04,496 --> 01:11:31,248
+Not good at recovering, or you're really good at digging deep holes, you're not going to be able to do this as often. Whereas some people, if you have the gift, maybe you're a recently converted rower, maybe you can just go out and just crush these workouts all the time. Yeah. Yeah, I mean, well, I also might just be repeating myself because it's really late here as of recording. But the other thing that I think becomes a consequence of
+
+160
+01:11:31,248 --> 01:11:58,912
+you know this kind of training this conversation I had with a couple coach friends earlier today about this actually about getting larger motor units to be better trained will this negatively affect someone's sprint at the end of a race and my answer was that I expect this to be a very positive benefit to that kind of thing so for instance if we just break this out into individual motor units you know
+
+161
+01:11:58,912 --> 01:12:24,832
+I suspect that these larger motor units will probably use more fat instead of their own carbohydrate stores if they're really well trained like those cross-country skiers. But even then, they could probably use their own carbohydrate stores more aerobically since more training aerobically means more mitochondria, et cetera, et cetera, et cetera. So for instance, instead of getting two ATP out of a molecule of glucose,
+
+162
+01:12:24,832 --> 01:12:51,568
+Net, and sending the lactate out to be used oxidatively elsewhere, you can actually get 30 some odd ATP instead of 2 when it's oxidized aerobically. You mean you don't like the get 4 ATP for a cost of 2 ATP? It's like the only thing I do. So the last thing I think, regular motor units, or the big sprinting units, will be a lot more quote unquote fresh.
+
+163
+01:12:51,568 --> 01:13:20,160
+when it comes time to throw down really. There's a couple things at play here. For instance, if somebody's FTP isn't high enough and they're in a race where if your FTP is at 300 watts and most of your efforts are at 330, keeping up with the group, you're probably going to fatigue and do the slow component thing and get into those big motor units pretty quickly. So that's one component of it. And of course, that goes without saying that it's also one of the reasons that you definitely want to keep your FTP high and you don't want to skip out on that kind of training.
+
+164
+01:13:20,160 --> 01:13:48,864
+Yeah, so these big motor units are going to be more fresh when it comes time to throw down because the low glycogen from being recruited and not being able to work that aerobically, the low glycogen itself is one of the big things that will inhibit contractile efficacy through a mechanism? Question mark? It's one of those areas where, you know, I haven't seen any big papers on it or I also haven't.
+
+165
+01:13:48,864 --> 01:14:12,448
+done the research well enough right now. So question marks for me or for all of science, we'll see. Yeah, and we talked about that a little bit in that wild stock number too and in that article on training peaks where, yeah, if you do overdo the, overcook the anaerobic efforts, you get really good at just plowing through that glycogen early and often.
+
+166
+01:14:12,448 --> 01:14:42,112
+and then at the end of the race you're real sad. Yeah and actually in the next series that we're going to be doing we're going to be talking about things one of the consequences of doing a lot of training like that you know if your FTP is overestimated it's probably one of the bad things if you do too much really hard anaerobic stuff all year round that's a bad thing and we'll find out the effect it has on fat oxidation and mobilization and things like that so
+
+167
+01:14:42,112 --> 01:15:09,936
+Very much looking forward to getting into that. Sort of hopefully people, after listening to the episode, have a good comparison in their mind of kind of what, like we said, this sort of irony of talking about the subject matter from Wattstock number two versus the training described here, and also both the timing and the applications. And I hope people got a little bit more insight into some of those.
+
+168
+01:15:09,936 --> 01:15:28,384
+statistics or metrics that you can use within WKO5 or TrainingPeaks or probably Golden Cheetah 2 for measuring performance and tracking improvements outside of just FTP and normalized power and maybe decoupling.
+
+169
+01:15:28,384 --> 01:15:57,968
+All right, everybody. So thank you as always for listening. And I want to ask you again to please subscribe and tell a friend about the podcast. If you're enjoying it, please share it. It's really a great thing when people share the podcast and, you know, when people write me and talk about their improvements. It's my favorite thing. So thank you all for that. Thank you all for the donations. You can make a donation at empiricalcycling.com slash donate. We have the show notes from the website. We have merch at empiricalcyclingpodcast.tribbles.com. If you have any coaching, consultation, inquiries, questions, and comments, you can email empiricalcycling at gmail.com.
+
+170
+01:15:57,968 --> 01:16:11,280
+Don't forget, Empirical Cycling on Instagram, check out the stories on the weekends, and ask some questions, ask your training questions, a lot of fun. So, with that, thank you everybody, see you later. Thanks everyone.
+

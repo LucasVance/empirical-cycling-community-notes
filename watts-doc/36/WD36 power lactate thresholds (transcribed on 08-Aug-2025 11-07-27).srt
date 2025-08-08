@@ -1,0 +1,916 @@
+1
+00:00:00,816 --> 00:00:30,416
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson. And thank you, everybody, for listening as always. And please subscribe to the podcast, of course, as usual. And a five-star iTunes rating would be amazing. Thank you so much for all of those. Share the podcast. I've seen a lot of the podcasts getting shared lately. Really appreciate that. I hope that we keep putting out stuff that everybody's going to enjoy and will be informative. So also remember that we're ad-free, so if you want to donate, you can do so at empiricalcycling.com slash donate.
+
+2
+00:00:30,416 --> 00:00:51,872
+We've got show notes up on the website, empiricalcycling.com, of course. And if you have any coaching or consultation inquiries, send an email to empiricalcycling at gmail.com. And of course, we also do consultations for coaches as well as athletes. So I had quite a bit of those lately. So I just wanted to remind people, yes, we do do that kind of consultation as well.
+
+3
+00:00:51,872 --> 00:01:21,552
+And of course, up on Instagram on the weekends in the stories doing an AMA every weekend. So give me a follow there if you're into that kind of stuff. And so let's get right into it because you may or may not be here because the title is a little clickbaity, isn't it? Right? Yeah, but who doesn't love a little bit of clickbait every now and then? Right. Whole industries are based off BuzzFeed or whatever. Yeah, but this is not actually a bait and switch.
+
+4
+00:01:21,552 --> 00:01:39,312
+This is not one of those questions that we're going to answer. Oh, no, it's actually no, of course not. I mean this, because based on the last few episodes, I think this is one of the episodes where I think it's time to make my case. So if you've been following the Metabolism Series so far, and I know a lot of you are, I think your knowledge base is deep enough to...
+
+5
+00:01:39,312 --> 00:02:04,784
+kind of follow this one. And we're going to use the knowledge base for the next couple episodes as we get into some really interesting papers that I've always wanted to really get into on the podcast. And I'm like, maybe we shouldn't. There's so much background info. It's going to be a three-hour podcast. And only the last 45 minutes is going to be what we want to talk about. So with this one, why don't we start with some thoughts on lactate testing?
+
+6
+00:02:04,784 --> 00:02:29,280
+Kyle, you actually had a friend of yours recently ask about getting a lactate meter. So what was that story there? Sure. So shout out to anyone who recognizes this story and knows who I'm talking about. But I have a friend and he is he's OK. Let's back up. This friend is a competitive cyclist. He is.
+
+7
+00:02:29,280 --> 00:02:57,920
+a self-coached Cat 1 roadie in the US. So he's pretty fast. He's pretty good. You know, there's some decent amount of natural ability there, right? If you're just able to, to over the last 15 years or something, or 10 years of bike racing, you're able to get yourself to Cat 1. And so he was looking at what does he want to do this next season with racing? Like he is a little bit over serious road racing, doesn't want to
+
+8
+00:02:57,920 --> 00:03:20,832
+Drive Around and do, you know, just chase all those P123 road races again and again and again that have been happening for years and years and years. So he was looking at, and he's also, because he's self-coached, he likes to read up on new or interesting training methods and has always been obviously aware of
+
+9
+00:03:20,832 --> 00:03:44,752
+Lactate Testing, and there are now a lot more places in the U.S., especially if you live in a major city or near a major city, near places with a research university where you can get lactate testing done or VO2 max testing done. And he was thinking about, oh, hey, maybe this would be interesting. Maybe this would be good. Maybe this would help jumpstart or spice up or change up his training.
+
+10
+00:03:44,976 --> 00:04:13,648
+Right? And that's a really common thing, especially in the middle of the winter when you're like, oh, what am I doing? Why am I doing all of this? Like, this kind of sucks. And in D.C., it's not quite the north, but we still get long enough winters where people spend plenty of hours on a trainer. And so he was thinking like, oh, hey, maybe I should get lactate testing done or maybe I should get VO2 max testing done. And as we were talking about this back and forth, he was like, oh.
+
+11
+00:04:13,648 --> 00:04:41,536
+What can I actually do with that, though? And eventually came to the realization that if you're a person who is going to pay $100 to get one lactate test done, maybe you should spend a couple hundred bucks on a lactate meter, and then you could sit there on a trainer indoors and have a friend gently stab you repeatedly.
+
+12
+00:04:41,536 --> 00:05:08,992
+If I start doing that indoors and if I want to keep track of lactate and threshold or VLA Max or things like that, I'm going to have to keep doing this over and over and over again and how is that actually going to be actionable? And I think ultimately he decided to do none of the above because he realized that either he didn't have an immediate conclusion of
+
+13
+00:05:08,992 --> 00:05:36,864
+If I get a lactate meter or if I get lactate tested, how is this going to directly make an actionable difference on my training? Or he realized that he was just doing it because he was looking for something else and it was just going to be like, oh, that's interesting. Okay, next. Like it, you know, and that was kind of this.
+
+14
+00:05:36,864 --> 00:06:06,752
+This sort of strange conclusion of this gold standard metric of lactate testing, everyone who's done endurance sports has certainly heard about lactate testing, and so it seems like this thing that you could, maybe there's something really, really insightful about it, but on the other hand, maybe it doesn't actually tell you anything that you can use in your day-to-day activity training for bike races, even if you're at the very elite,
+
+15
+00:06:06,752 --> 00:06:30,368
+Amateur level. Yeah, and that actually brings up so many interesting points that we're going to get to in this episode because a lot of what we've been trying to do over the last 100 years of lactate testing, give or take, is actually find the kind of stuff that we can measure with a power meter.
+
+16
+00:06:30,368 --> 00:06:53,104
+Let's, so let's start getting into that. Because, you know, is it actionable is one of the biggest things of, or, you know, is it going to make you faster is one of the biggest things when it comes down to where do you spend your money. And a lot of bike racers, you know, not all dentists, a lot of young, not so wealthy bike racers out there who are like, or, you know, kind of middle of the road income.
+
+17
+00:06:53,104 --> 00:07:22,784
+Like you've got X budget to spend on fun stuff. And it's like, do I get new arrow bars or do I get a lactate meter? Like what's going to lead to the best way for me to get faster? And in which case I would actually say, of course, hire a coach. And if you've got a coach, great. Then if you don't want to coach, that's okay. Then I would actually say get the arrow bars. So let's get into this thing here. So what are we measuring in terms of like lactate thresholds?
+
+18
+00:07:22,784 --> 00:07:43,424
+People are thinking about LT1 and LT2. So the first lactate threshold often, and of course I don't like this term, but the aerobic threshold and LT2 being the anaerobic threshold. We've gotten into those terms before, so we're going to save my annoyance for those past episodes. We're actually going to touch on LT1 today, but we're mostly going to focus on...
+
+19
+00:07:43,424 --> 00:08:11,680
+the second lactate threshold, or LT2, or OBLA, or anaerobic threshold, or how many names do we have for it now, like 12? Yeah, well, I mean, the concept evolves a little bit over time, right? And so finally, we have FTP, which I think is actually probably the best way to think about it. And what we're really going to get into is what is indeed so functional about the functional threshold of power. So we're first going to go through
+
+20
+00:08:11,680 --> 00:08:40,544
+What we're trying to measure and a history of lactate testing, a short history, it's not complete by any means. We're also going to go through a landmark paper and some actual data before getting to the main thesis here. So when we go through this, I'm not actually saying that this is obsolete for lab testing, by the way, because in a lab, you don't have the luxury of compiling a large amount of data, which is kind of where we can pull FTP from very easily or even
+
+21
+00:08:40,544 --> 00:09:07,248
+a test or two. It's a hugely useful tool in a lab, but we're actually going to talk about the difference between lab testing and actual coaching and performance training. So I don't think it's ever going to go in a lab, but I think if you do race a bike and you train in the modern way and you have a power meter, you are almost never going to have a need to get your blood lactate measured because your power meter is going to tell you almost.
+
+22
+00:09:07,248 --> 00:09:36,544
+Everything You Need to Know. And we'll talk about the almost in a little bit. So I also want to get my biases and my standards out of the way up front, which is that first, I have doubts about every one of these threshold definitions matching precisely with what we see in performance for 100% of people. And that is an important distinction here because my standard is we allow no fallacy of division at empirical cycling.
+
+23
+00:09:36,544 --> 00:09:57,984
+Which means that we know that not everybody's blood lactate is going to be 4 millimole at threshold. Like I did mine recently, it was like 5.6 or 9 or something like that. And so my standard is that we get it right every time with no assumptions that you are the average for some formula, which is, you know, that's easy to do, but we don't assume that.
+
+24
+00:09:57,984 --> 00:10:25,216
+So any definition of threshold that gets used should work for every single healthy person with as little period of adjustment as possible and ideally right away. And about 98% of the time that is indeed what we have found. So what's my personal definition of threshold? The point at which someone fatigues faster above it and slower below it. That's it. That's the whole thing.
+
+25
+00:10:25,216 --> 00:10:51,520
+That's the definition. There's nothing about metabolism. There's nothing about lactate. That is the definition because we're looking at performance, so we want to look at performance, right? Right, yeah. And you're also not tying yourself to a time range here either. I noticed that. Yeah, because as we all know that time range is also approximate.
+
+26
+00:10:51,520 --> 00:11:21,168
+Saying an hour is an approximation. Actually, it's an overestimation for a lot of people in terms of how long they can hold their FTP. All right, so what's the basic problem that we're actually trying to solve with lactate testing? We want an easy, time-effective, and reliable and reproducible way to determine a particular exercise intensity. And I'm going to quote from Minod and Scherer from their 1965 paper. The maximum rate it can keep up for a long time without fatigue.
+
+27
+00:11:21,456 --> 00:11:41,248
+Right? So without fatigue, now that's a tough one, isn't it? So, you know, at some point, maybe in the next couple episodes, we'll get into a paper that looked at definitions of critical power, because that's what they were looking at. Anyway, so let's get into our history. Early 1900s, so VO2 max testing was becoming more common.
+
+28
+00:11:41,248 --> 00:12:08,128
+because they were switching from Douglas bags, which are hilarious looking, by the way, to spirometry, which is the modern way to do gas exchange testing. But also lactate testing, they did not have cute little handheld meters. There was quite a lot of rigmarole when it came to actually testing lactate from samples. And so why was it VO2 max testing? Because nobody had thought about sub max intensities yet.
+
+29
+00:12:08,128 --> 00:12:24,720
+But for a very long time, people had known about the relationship between muscular work and consumption of, quote-unquote, vital air, like the late 1700s, like, what was it, Lavoisier and Priestley, I think. But it took until Hill and Lupton...
+
+30
+00:12:24,720 --> 00:12:54,544
+in 1927 to determine that there is a maximum, a plateau for O2 uptake, which is, of course, the VO2 max. This obviously related to the maximum speed that one could reach while running, and so more oxygen, more speed. It's a pretty simple relationship, right? Yeah. And that seems logical if you think about, you know, you imagine that, oh, you notice that you breathe harder when you run harder.
+
+31
+00:12:54,544 --> 00:13:19,280
+Yeah, and so for a long time, they had also known that, you know, the more you work, the more oxygen you consume. So it's a pretty, pretty simple thing. And so that's one of the things that I've always wondered about. And that when I started looking at the history here, I was like, oh, yeah, it makes perfect sense. Because I was like, how did they figure that out? So that was one of those things. VO2 max testing itself relies on it being maximal. So this...
+
+32
+00:13:19,280 --> 00:13:47,680
+proved to be a problem for people who were unmotivated and sometimes untrained people who actually their muscles couldn't get them up to fighting that VO2 max plateau. And so the other issue was that in medical testing, you know, this maximal thing could be a problem as one could suffer a quote-unquote accident, as one paper put it. Read heart attack and possible death. Oh, God.
+
+33
+00:13:47,680 --> 00:14:13,728
+Oh no. Yeah, yeah, just a little accident. And the other thing is that the tools at the time were coming along pretty slowly with how much O2 they could actually measure. So I think at one point in the 40s, it was only up to like three and a half liters per minute or something like that. But it was up to six liters a minute by like the 50s. So, you know, that technology was improving, but they needed a...
+
+34
+00:14:13,728 --> 00:14:43,168
+Reliable Way to Measure Submaximal Exercise Performance that correlated with other metrics that were measured at the time. VO2 max was one of those things. And they were also measuring things like arterial and venous pH, potassium, and ventilation, as in breaths per minute and stuff like that, and volume of breaths, all that kind of stuff. In 1959, actually, was the first time that submax threshold definition had kind of been put forth.
+
+35
+00:14:43,168 --> 00:15:08,272
+called the Pulse Endurance Performance Limit, which is a really catchy name that rolls right off the tongue. Say it with me, Pulse Endurance Performance Limit. So beyond this point, actually, I had actually written a long history of lactate threshold testing, but two things about it. First, I thought it was boring. Sorry. If you were really interested in that, there's a lot of resources online that are...
+
+36
+00:15:08,272 --> 00:15:34,640
+very available with a very quick Google. So if you're fascinated by that kind of stuff like I am, it's worth a read, but I didn't want to ruin the podcast here for it in case it's boring. The other thing is that it's incomplete, and I didn't think I could do that good a job of showing where these things come from because the important point here is not that
+
+37
+00:15:34,640 --> 00:16:04,560
+to argue about the minutiae over lactate threshold definitions here, but rather to look at what is the point of all of them because that is going to lead us to our main learning today. So just a couple key points from the history of lactate testing. First, they were always looking for a submaximal exercise performance marker that's easy to test for instead of doing full-on VO2 max work.
+
+38
+00:16:04,560 --> 00:16:26,784
+And, you know, even though at the time it was harder to measure lactate for a while up until, you know, 70s or 80s or something like that. Exercise intensity, though, since about the 30s, I think Oles or Owls? Owls, I always say in my head. I don't know. I'm probably pronouncing it wrong. Sorry to him. It was the first person to...
+
+39
+00:16:26,784 --> 00:16:53,344
+Discuss actually exercise intensity being related to any particular increase in blood lactate threshold. So this was actually the very first mention of threshold, especially in relation to exercise intensity. Because before then, people knew that a lot of lactate was produced with a lot of muscular work, but that was really all that was known up to that point, as far as I know anyway. So the second point here is that...
+
+40
+00:16:53,344 --> 00:17:17,263
+Blood Lactate Concentrations of 2 millimole and 4 millimole per liter had been found to roughly indicate two lactate turn points, and very roughly. So 2 millimole per liter had roughly correlated with an increase in CO2 generation, and what they were basically finding was LT1. And 4 millimole, as found by Mater of Mater and Heck VLA Max fame,
+
+41
+00:17:17,392 --> 00:17:45,008
+was roughly correlated to the highest exercise intensity over which runners would quickly become exhausted. And I hope that sounds familiar. And so I guess the only other really important thing to note about the history of lactate testing and blood lactate and all this stuff is that in 1982, Stegman was the first person to use maximum lactate steady state in a journal article. And so it goes on and on and on.
+
+42
+00:17:45,360 --> 00:18:03,776
+The main point here is that it took the better part of 50 years to really look at lactate thresholds. And there were both papers that said, oh, 4 millimoles, whatever, and we're actually going to take a look at a paper like that. There were also papers at the same time that were published that said, okay, look.
+
+43
+00:18:03,776 --> 00:18:31,152
+People's blood lactate concentration varies at maximum lactate steady state. And so we're going to get into this a little bit. We're going to take a look at a fascinating study. And hopefully this is very informative for when we get to the main point of today. Anyway, so let's cover a couple more things first. So what are we measuring? Anyway, blood lactate, like blood lactate what?
+
+44
+00:18:31,152 --> 00:18:51,040
+So it's millimole per liter. So what's a millimole per liter? Sorry, everybody who remembers their basic chemistry. A mole, M-O-L-E, is a chemist's dozen. And so it's a certain quantity that does not at all seem randomly picked out of a hat, which is 6.022 times 10 to the 23.
+
+45
+00:18:51,040 --> 00:19:21,024
+Yeah, and so a millimole is one one thousandth of a mole, which is still barely anything, you know, to the 23. Like, it doesn't seem like there's that big a difference. But, you know, when we're measuring things in the blood, yeah, there is actually a very large difference in, you know, regular quantities. So, don't forget, liter is a volume measurement. And so, for instance, if we test a tiny sample of blood, like in a lactate strip, which I think is something like seven microliters, we know the amount tested.
+
+46
+00:19:21,024 --> 00:19:34,528
+Therefore, we also know the concentration of the lactate, which can lead us to simple math that brings us to millimoles per liter. So that's what we're talking about here. And we can't ever forget that this is like...
+
+47
+00:19:34,528 --> 00:20:02,368
+Per Unit Volume. Because remember, blood volume can go up and go down. You can drink a ton and dilute things and you can also dehydrate yourself and the concentrations can go up. So, you know, there's some context to interpreting blood lactate and that's kind of the first, I don't really want to call it a nail in the coffin, but it's the first thing that leads to a little bit of doubt with using a direct measurement of blood lactate as, you know.
+
+48
+00:20:02,368 --> 00:20:31,328
+Is it 4 millimole? Like, I don't know. How hydrated are you? You know what I mean? Yeah. Yeah, yeah. I will say, the origin of a unit of a mole is because they wanted to force 12, a mole of carbon atoms to weigh 12 grams exactly. So that's what that, that's where that comes from. I learned something. That's awesome. Yeah. Okay, so I think the next concept to think about here is that
+
+49
+00:20:31,328 --> 00:20:46,080
+because I'm always fascinated by this. Maybe nobody else is. A lot of stuff in the blood have to be kept in certain ranges, like in terms of concentration for normal body function because things like osmolarity.
+
+50
+00:20:46,080 --> 00:21:13,504
+is hugely important for the sustainability of life. Things like, you know, here's a practical example that we know in cycling all too well, which is hematocrit has to be in range. So if you're doping with EPO and your blood hematocrit goes way too high, it basically turns into syrup and insert your doping jokes here, folks. And so that's going to lead you to die. So concentrations can be critical, but lactate...
+
+51
+00:21:13,504 --> 00:21:43,136
+Doesn't really seem to be like that. Or anyway, we probably can't produce enough to cause problems. And anyway, so let's talk about things that we do know. So what are the lactate thresholds anyway? So we're going to go old school to differentiate, which is LT1 and LT2. Typically, LT1's definition is where lactate levels rise above baseline, typically during a step test or a ramp test or a graded exercise test.
+
+52
+00:21:43,136 --> 00:22:05,344
+can be given as 2 millimole per liter or where blood lactate rises above baseline sometimes said as like 0.5 millimole above baseline. This is another one of those things we'll talk about in a little bit where, you know, going by these definitions can really bite us. So LT2, of course, being where the blood lactate continually accumulates and
+
+53
+00:22:05,344 --> 00:22:29,984
+a lot of times given as four millimole per liter. So spoiler alert, no, not really. The concentrations, of course, are not quite right, as we've kind of discussed already. So why is there so much controversy about lactate thresholds? And I don't even think it's controversy, really, right? It's kind of like definitions are a little bit at odds when we really read into them.
+
+54
+00:22:29,984 --> 00:22:58,560
+So there's confusion about them or what seems to be accepted by what authority, what's been published, what has or has not been rebutted. Although we have to remember that, of course, they're attempting to find the same things, right? Yes, certainly. I think what's interesting here is that if you're in a vacuum, if you want to do some performance testing of something,
+
+55
+00:22:58,560 --> 00:23:26,240
+If you stumble upon, oh, well, how do they do it for strength training or how do they do it for other modalities, not just cycling, a lot of things tend to take a maximal example. Like if you're going to do strength training, you'll estimate or find like a one rep max for a lift, like a bench press, and then you'll prescribe work.
+
+56
+00:23:26,240 --> 00:23:54,528
+at some fraction of that later on because the and sort of maybe maybe you think oh well that's because everyone else has done it before and and blah blah blah and and that's that's maybe true and the people who maybe are prescribing these things maybe don't know but what we kind of have done there is you've taken the epitome of this thing that you want to measure so like maximal strength or in this case it would be
+
+57
+00:23:54,528 --> 00:24:20,704
+Aerobic Exercise, like the most aerobic you can do, the most aerobic work you can do possible, that's sustainable, and then you measure it somehow, and blood lactate maybe seems like one way you could do it, but if you didn't have access to blood, then you might do it some other way, with like heart rate, or with a
+
+58
+00:24:20,704 --> 00:24:49,936
+Gas Exchange Cart, even though it'd be kind of strange for you to have a gas exchange cart, but then not have access to blood, but maybe you don't want to take people's blood, etc. But it's pretty common to try to figure out some maximum value and then express other quantities as some fraction to that maximum. And so even if this 4 millimoles or LT2, whatever people want to call it, or LT1, don't quite line up all the time, that's okay.
+
+59
+00:24:49,936 --> 00:25:17,520
+That just means that, like you've done, you have to either adapt this definition or revise this tool or this metric. It doesn't necessarily mean that this metric is completely useless. It just means you have to be smart about when you're using it. Yeah, and we're kind of going to get to this in a little bit, but I guess we can preview it a little bit now, which is that the population averages for LT2
+
+60
+00:25:17,520 --> 00:25:47,504
+Tends to be about 4 millimole in just about every paper where I've ever seen it measured. It's like 3.8, 3.9, 4.0, 4.1, 4.2. It's all about in that range, which is actually about the typical standard of error for most lactate meters. So 0.1 or 0.2 millimole or something like that. Some can be as wide as 0.4, but anyway. Yeah, so I think what's expected or what's defined from lactate testing
+
+61
+00:25:47,504 --> 00:26:14,304
+overlap too much with precisely where an athlete's actual performance threshold is. And I think that can lead to a lot of frustration too. Like the number of people who I've consulted with who have done a lactate test and found the power output from a three-minute step test and said, okay, this is where two millimole is for me, so that's my LT1. Then they go right at that power and they overtrain in weeks, like two, three weeks.
+
+62
+00:26:14,304 --> 00:26:43,952
+And they're like, man, I can't ride more than 12 or 13 hours a week. I'm just dying from all this endurance work. And I'm like, may not be the right way to do it. And as you got at it before, right, this is like a population fallacy where just because on average, you average a bunch of people together and you came up with four doesn't necessarily mean that it's four for everyone. Yeah, fallacy of division.
+
+63
+00:26:43,952 --> 00:27:09,216
+Often shouldn't mean that it's far forever. Yeah. So let's talk about lactate concentration in the blood. So one of the big questions here is can this really represent what's going on in the muscles at a cellular level? So here's the thing is that there are multiple sources for blood lactate and there are multiple places for it to go. So during increasing exercise intensity,
+
+64
+00:27:09,216 --> 00:27:38,208
+Especially with large muscle mass being used, like cycling, cross-country skiing, running, etc., etc., the source of blood lactate predominantly becomes the working muscles, but lactate also disappears into multiple places, like heart can use it in the Krebs cycle, refer to Wattstock number 32, the liver can use it to make new glucose, gluconeogenesis, and especially working muscles can also use it to power the Krebs cycle.
+
+65
+00:27:38,208 --> 00:28:07,184
+Because why wouldn't they? It's free food, right? So this might actually be weird to some because the implication here is that lactate was just in the working muscles, right? So how does it go into the blood, go all the way around the body, and then go right back into the same working muscle? Because diffusion, because entropy. So even with a good amount of subcellular organization and substrate tunneling, which means the enzyme active sites are set up close to each other, so...
+
+66
+00:28:07,184 --> 00:28:36,800
+Diffusion takes less time. Things in a muscle still diffuse, in a muscle cell especially. So Kyle, can you explain the FART model of diffusion and entropy here? All right. So if you have a substance that is in a high concentration located in a small region, but that that small area or region or volume has access,
+
+67
+00:28:36,800 --> 00:29:03,488
+to a larger volume around it or next to it. Because of the general aero flow of time that we don't really understand and also this thing called entropy, the high concentration wants to be diluted and becomes slowly lessened such that there is a generally homogenous mixture throughout all of the...
+
+68
+00:29:03,488 --> 00:29:29,968
+available volume, even if you start off with a high concentration in just one corner of your room. Yeah, so like, think about, like, so if you fart in one corner of your room, the odds that it stays in that corner of your room is zero because there's temperature in the room, which means the gas molecules are moving around. So when you add new gas mixture to the air, it, like, goes out and it gets jostled up.
+
+69
+00:29:29,968 --> 00:29:58,080
+Think about maybe taking a big box of marbles or something like that, and they're all white. And now you put in a handful of red marbles, and then you shake the whole thing up. At some point, the red marbles will be more or less evenly distributed. That's kind of what I think about. And that's the fart model of entropy. Yeah. Some of you may have heard of something called Brownian Motion.
+
+70
+00:29:58,080 --> 00:30:20,704
+Is that related to fart style? Given your fart analogy, it's like, anyway, but basically, yeah, that if you could somehow randomly track, or if you could somehow accurately track the random motion of a single molecule of air or molecule of oxygen or nitrogen or something in your...
+
+71
+00:30:20,704 --> 00:30:46,432
+Room, around your room, you would find that it doesn't just stay over here in the corner. It does slowly or rapidly move around depending on the temperature and depending on how much air flow you have. And so the gas that is highly concentrated in one corner will diffuse and actually nature generally, for reasons that we don't really understand, doesn't really like when things are really, really
+
+72
+00:30:46,432 --> 00:31:10,816
+Neatly ordered, and they want to trend toward disorder, which is this idea of entropy and maximizing entropy. And there are ways you can construct really ordered systems with low entropy, but you have to actually do work to do so. So you have to, for example, take a fan and somehow sort the fart particles over to one side and...
+
+73
+00:31:10,816 --> 00:31:40,592
+and prevent them from getting over to the other side so you need some valves and some fancy things. So you can imagine that you actually have to do work and if you don't do any work, the fart will just generally diffuse. Yeah, and so that's what's happening with lactate to bring it all back to where we were actually going with all this. So if you produce lactate through glycolysis in a cell, you know, most of the time it's because if you have a lot of mitochondria mass in your muscle, it's probably going to go into your mitochondria and get,
+
+74
+00:31:40,592 --> 00:32:10,016
+used as, you know, aerobic ATP generation. However, there is a non-zero chance that that molecule can just get bounced around through the cell like it would through, like a fart through a room and like reach the edge of the room, which would be a transporter on the edge of the cell and which would send it out into the blood. So this kind of thing happens all the time and that's one of the reasons that we always have some lactate in our blood even if we're not exercising because somewhere, somehow, we have to be using
+
+75
+00:32:10,016 --> 00:32:39,456
+Glycolysis to generate cellular intermediates, to do ATP generation aerobically, blah, blah, blah. The food that we eat shifts this a little bit. And so we're always going to be creating a little bit of lactate. And it diffuses. And so when it diffuses out of a muscle during exercise, there's a very non-zero chance that it comes right back into that same muscle and gets used. And we'll talk about an implication of this in just a minute.
+
+76
+00:32:39,456 --> 00:33:03,856
+The point here for this section here is that at times of low metabolic demand or low to moderate glycolysis throughput, the lactate that gets made is probably going to end up in the Krebs cycle. But there's a chance it wanders out as we talked about. And so the odds that lactate gets used in oxidative phosphorylation
+
+77
+00:33:03,856 --> 00:33:33,504
+probably has a lot more to do with mitochondrial density and transporter density, which means that's a big factor in what limits aerobic lactate utilization in muscles. And of course, the point here is that this is also one of the big things that limits fat use, right? So the first time I figured this out, it was a real light bulb moment for me. So I hope somebody else is having a light bulb as well. Excuse me. That's interesting because I think people who are...
+
+78
+00:33:33,504 --> 00:34:01,280
+You know, a little bit older, we'll have remembered all of those things when Michael Phelps was winning all those gold medals and they were talking about how, oh, he has a significantly lower concentration of lactate or they would talk about how, oh, his lactate tolerance or something was just so high, blah, blah, blah. But he famously, I guess, maybe only for the swimming world, but even though he competed in relatively short events,
+
+79
+00:34:01,280 --> 00:34:25,072
+He did a ton of volume, which is very much the popular training modality in swimming for years and years and years. And so even though he was racing events that were sort of five minutes and less, he was doing 20 plus hours a week of work. Well, that's sort of why Pursuiters need to do volume two, right? Right.
+
+80
+00:34:25,072 --> 00:34:50,000
+I recently came across a paper, well, somebody put up a figure from it and I asked for it, so that's how I came across it. That gets into this, and actually I want to use this in one of the next episodes. So I actually had a plan for the metabolism series to kind of go in a certain way, and it's going in a completely different direction, and I apologize for that, but that's kind of how my life goes a lot of the time.
+
+81
+00:34:50,128 --> 00:35:19,312
+Anyway, so I think this is really cool, and we're going to talk more about this in a future episode, but for now, I think the important thing to understand is that lactate going in and out of the blood is something that we cannot measure directly with lactate levels, because one of the things that blood lactate cannot tell us is rate of appearance and disappearance, or what fuel sources are being used by the cells.
+
+82
+00:35:19,312 --> 00:35:47,168
+Right? So the immediate implications for this, like you brought up with Phelps, and I think people have talked about with Tadai Pagachar, is that, you know, oh, they've got super low lactate levels. They're really good at, you know, using lactate or tolerating lactate. This is one of the things that signifies big aerobic utilization. And so for Pagachar, since the events are long, for him, I don't think it's that...
+
+83
+00:35:47,168 --> 00:36:13,008
+These using more lactate. I think that it's he's producing less because he's using more fats. And in Phelps, Phelps has very low lactate levels because he's doing high volume. Of course, that's the training. But in short efforts, that means he can aerobically use a lot more lactate because he's producing a lot in like a five-minute effort.
+
+84
+00:36:13,008 --> 00:36:32,256
+But he can use it, right? For sure. So we're kind of seeing the same thing at different timescales. For a little inside baseball, I told you I would get into this in a second, but this actually means that I don't subscribe to a particular model of fiber types, and we're actually going to talk about this in an episode or two as well.
+
+85
+00:36:32,256 --> 00:37:01,216
+I don't think that there are such things as lactate-producing fibers and lactate-consuming muscle fibers. Because this idea, to me at least, seems to come from an era before knowledge about mitochondrial lactate importers. So mitochondria has a lactate importer where it can directly import lactate from the cell and turn it right back into pyruvate, generate an NADH, take the pyruvate, and shove it into the Krebs cycle.
+
+86
+00:37:01,216 --> 00:37:28,048
+After, you know, Celicoid, blah, blah, blah. You all know this by now. So the old idea was that, you know, if lactate were brought into the muscles, the balance between pyruvate and lactate, remember it's an equilibrium enzyme with very little, if any, actual regulation of activity. The balance is 10 to 1 to 100 to 1 in favor of lactate. And so the implication is such that lactate won't...
+
+87
+00:37:28,048 --> 00:37:53,632
+become pyruvate to get imported into the mitochondria during levels of high lactate throughput because if you're producing a lot of pyruvate and lactate, if you import more lactate, you're probably not going to be able to disturb the balance at all. And so it's unlikely that in this muscle fiber that's producing a lot of lactate that it would use it. But now that we know that lactate itself can be imported into the mitochondria, which...
+
+88
+00:37:53,632 --> 00:38:22,704
+It should be because it's carrying valuable protons and electrons for the electron transport team. This would actually ease the burden on cellular glycogen stores to utilize this lactate as well. And so the equilibrium of LDH is no longer a theoretical or conceptual or actual hurdle for the consumption of lactate by a muscle fiber that's also producing it. So one would think that with LDH...
+
+89
+00:38:22,704 --> 00:38:44,832
+Equilibrium, so in favor of lactate, you'd have to bring in a whole lot to shift in the other direction. It doesn't quite happen like that, or at least I don't think so. And so also, now that we know that Type II fibers can be highly oxidative, especially with lactate and glucose, you know, they may not be the best fat burners compared to Type I fibers, but when trained, they can be amazing.
+
+90
+00:38:44,832 --> 00:39:14,288
+at being aerobic carbohydrate burners. So they will consume a ton of lactate. So that's one of the papers that I want to get into in the next couple episodes. It's interesting because for years and years as someone who's doing endurance sports, I was told as a kid and even through high school and stuff like that, that, oh, lactate is this waste product and you warm down after races or after events and things because you want to get rid of this lactate.
+
+91
+00:39:14,384 --> 00:39:43,488
+When you actually look at it like this, it's really interesting because like you said, it's basically free food still or it's like only eating half of your pizza or not eating your pizza crust or something like that and being like, no, no, no, like there's still actually food there. The pizza crust. Yeah, and in this model, like you're really hungry, your body's really hungry or your body's trying to be very efficient and yet if lactate was just a waste product and you were just clearing it out with your
+
+92
+00:39:43,488 --> 00:40:10,848
+Kidneys or something like that. You'd basically just be throwing away your pizza crust or something. And it also makes sense because if you are imagining your old, ancient, prehistoric humans or ancestors of humans and you did have to burn through, and food is not plentiful like it is now, throwing away extra carbons and hydrogens and oxygens is just a bad idea.
+
+93
+00:40:10,848 --> 00:40:40,464
+Yeah, overall, it's a really bad idea. Okay, so I think actually there's one more thing to think about here, which is that my conception of lactate producing and consuming fibers not really being a thing, they're all lactate producing, they can all be lactate consuming. In terms of practical applications for most cyclists, this concept is not incompatible with the concept of there actually being fibers that
+
+94
+00:40:40,464 --> 00:41:04,800
+Produce Lactate Versus Fibers That Consume Lactate. When it comes to actual practical applications and what we can measure and what we're thinking about, conceptually and practically, they're the same. This is like academic minutia almost until we get into certain aspects of physiology and metabolism. So that's kind of why I wanted to bring that up a little bit. And the other thing is that...
+
+95
+00:41:04,800 --> 00:41:33,776
+When we think about what a blood lactate measurement means, regardless of rate of appearance and disappearance, there are three assumptions that we need to make, actually slightly related to appearance and disappearance. So these three assumptions are elegantly put down by our main paper today. We've got the reference, of course, in the show notes. So these three things are, number one, the rate of blood lactate appearance and disappearance is proportional to the concentration. Kyle, can you...
+
+96
+00:41:33,776 --> 00:42:00,144
+Talk about how concentration can affect appearance and disappearance, especially in terms of diffusion like we just talked about. Okay. So if you have a high – so let's say you have a high concentration of lactate, right? You're working really hard. You're being tested, and you have a high concentration of lactate. You can take a measurement of your blood lactate and see that the concentration is high.
+
+97
+00:42:00,144 --> 00:42:28,512
+and if you are able to take another measurement and you see that the concentration is higher then you have you can make an inference you have enough data to make an inference about the rate of appearance or disappearance and or disappearance right because concentration is going up that means you must be making more than you are getting rid of or you're doing something and even if you're talking about the lactate in your blood if
+
+98
+00:42:28,512 --> 00:42:56,848
+We can assume, and we can generally assume this, that when you have excess lactate in your muscles, that some of it will diffuse into your bloodstream. That means that if there is more in your bloodstream, there is probably more in your muscle as well. Right. And, you know, it's important to note here, I think, that we cannot really measure without actual samples of muscles, biopsies.
+
+99
+00:42:56,848 --> 00:43:16,592
+the rate of diffusion exactly. We can't assume it from the muscle to the blood because somebody like me who does very little aerobic training, I probably have a very slow rate of diffusion because I don't have that many transporters expressed on my muscles. Somebody who is extremely well aerobically trained probably has a lot and so...
+
+100
+00:43:16,624 --> 00:43:44,864
+And so they will probably have a lot faster efflux, lactate flux out of the muscles into the blood. And so basically the concentration gradient from the muscle to the blood or vice versa from a high concentration in the blood to a low concentration of a muscle fiber, this concentration gradient can itself passively drive diffusion, right? Yes. Yeah. If you have...
+
+101
+00:43:44,864 --> 00:44:09,184
+A membrane, and if the molecules are small enough to pass through the membrane, and you have a gradient across it, then there will be some natural diffusion, or enhanced diffusion, rather, because there's an imbalance. Yeah, or in the case of lactate, there are transporters, which is basically the same thing as allowing them to pass through the membrane. So in case you're wondering if lactate can passively go through cell membranes, the answer is no.
+
+102
+00:44:09,184 --> 00:44:36,624
+With all that said, thank you all for making it this far, by the way. I think that was a necessary background. And so if you're not bored or asleep or tuned out yet, let's get into the meat and potatoes of this paper. So this is called Justification of the 4 mmol per liter lactate threshold. We've got a link to it up in the show notes. And so, like I said before, this is a great paper, even if I don't agree 100% with the conclusions. But the experiments are simple.
+
+103
+00:44:36,624 --> 00:45:06,304
+They're effective, and the paper is actually very well discussed. And we will be able to compare three of the most common lactate test regimens for LT2 all at once. So this paper is by Moder and Heck and others, including Hallman, who was actually the first guy to mention the pulse endurance performance limit in 1959. So this is kind of like, you know, this is like a supergroup of people.
+
+104
+00:45:06,304 --> 00:45:30,240
+Scientist. So it's a long paper, by the way, and with a lot of math at points, but if you've had, if you've had calc and if you've had, if you've studied enzyme kinetics, then this paper will make sense to you. But fundamentally, this all does some very interesting things, because I love the way he looks at variables and testing protocols for this paper, and
+
+105
+00:45:30,240 --> 00:45:58,976
+also not just looking at a standard RAMP test, by the way, which goes back to A.V. Hill's original RAMP test to find VO2 max in the 20s. And this is also not just finding four millimole and calling it a day. He's really taking a step back and thinking, like, why does all this happen and how is it all happening? So he has four main questions, but only the first two are going to suit our purposes. So we're going to talk about these. So question one, at which point, sorry, at which blood lactate value
+
+106
+00:45:58,976 --> 00:46:23,152
+Do we find the maximal balance between lactate production and elimination, the so-called maximal lactate steady state, in continuous exercise? So already we can see fundamentally this question has a little bit of eh to it because at what blood lactate value? Like we've, you know, it's been established by this point that it's individualized. But regardless. Question two.
+
+107
+00:46:23,152 --> 00:46:50,336
+At the workload level representing the maximal lactate steady state in continuous exercise tests, what is the corresponding blood lactate concentration in graded exercise tests, as in step tests or ramp tests, which is, you know, he's looking for the aerobic-anaerobic threshold according to Mater. So he answers questions one and two with one protocol, or one set of tests. So he compares graded exercise tests.
+
+108
+00:46:50,336 --> 00:47:19,104
+as in GXTs or RAMP tests, in three-minute and five-minute step durations versus 30-minute long stages. And he uses the typical MLSS criteria for reaching steady state for these long tests, which is no more than one millimole per liter increase in the last 20 minutes of a 30-minute test, which is most often, if not always, the basic criteria for a valid MLSS test.
+
+109
+00:47:19,104 --> 00:47:48,096
+are the results. First, let's quote from the paper. The maximal lactate steady state adjusts itself independently from the endurance performance capacity in the concentration range of 3 to 5.5 millimole per liter lactate. Let's break this down for just one second. So the endurance performance capacity, what is this? What is endurance capacity here? Basically, his definition for endurance capacity is our definition for FTP.
+
+110
+00:47:48,096 --> 00:48:17,264
+Like, what is the performance level? What is the workload? What's the power output at which people fatigue faster above it and slower below it? Okay? So, basically what he's saying is the concentration of MLSS is individual. And he finds a range from 3 to 5.5 millimole per liter lactate. The maximal lactate steady state adjusts itself independently from the endurance performance capacity, as in...
+
+111
+00:48:17,264 --> 00:48:46,912
+What we just said. And so I think actually it's important to note here that what he's basically looking for is what is the blood lactate concentration at this performance level. And what he finds is he finds no correlation. And I quote, a significant correlation between values of the maximal lactate steady state, as in everybody's individual blood lactate values for FTP, and the endurance capacity, FTP, could not be proven.
+
+112
+00:48:46,912 --> 00:49:15,536
+He says there's no, and he finds rightly that there's no one concentration of blood lactate at FTP. And so he immediately follows this statement with the endurance capacity as understood here and from now on to be the running speed at four millimole per liter threshold measured in tests with increasing workload. So he just goes right from, we can't find it, so I'm going to call it four millimole and the rest of the paper is justification for this.
+
+113
+00:49:16,752 --> 00:49:37,296
+That's strange. I thought so too because it does make an assumption that there is a concentration that works for everybody. And I mean, I don't know. I wish I could talk to the guy about it because I'm fascinated by...
+
+114
+00:49:37,296 --> 00:50:06,576
+by the logic here. I'm not saying it's bad because he's way smarter than me, but it's one of those things where what we know now versus what they knew then, I would love to kind of get his thoughts on what he was thinking about at the time versus how his thoughts have changed now, if any, if they have changed. So I think we should start looking at some raw data here.
+
+115
+00:50:06,576 --> 00:50:32,112
+because regardless of his conclusions here, we can actually draw a lot of conclusions with their data. So in our show notes, I've actually included table two from this paper. And what we have here is 16 subjects. And on the bottom, we have their average and standard deviation for all of these things. So we have several columns here. We've got five.
+
+116
+00:50:32,112 --> 00:51:00,112
+First is maximal lactate steady state in terms of millimole per liter. What is the concentration at FTP, basically? The constant workload in meters per second, as in what is the running speed? Then we have heart rate, and then we have two step tests. So what they did with these step tests, they have three minutes and five minutes.
+
+117
+00:51:00,112 --> 00:51:28,048
+With the three- and five-minute step tests, what they did was they looked at what is the blood lactate concentration at the MLSS running speed when you get to that running speed in a ramp test. Did I explain that well enough? What is the MLSS? Okay, so let's say my MLSS.
+
+118
+00:51:28,048 --> 00:51:53,296
+that they find from an MLSS test is like, I don't know, five meters a second, which is not, but let's just say it is. That's really fast. Let's say it's five meters a second. So from a, if I do a three minute step test, let's say I start at one meter a second and I increase a half a meter per second every like three minutes.
+
+119
+00:51:53,296 --> 00:52:22,672
+Right? So we'll go one, one and a half, two, two and a half, three, three and a half, four, four and a half, five, five and a half, six. We'll measure my blood lactate at five meters a second at the end of that five meters a second step in the three minute test. I see. Okay. And so the same goes for the five minutes. So they'll look at the effect of longer stages. And so this is a really fascinating way to do it.
+
+120
+00:52:22,672 --> 00:52:51,232
+Basically they're saying, can we actually find in a short version of, you know, can we validate that the five minute or three minute ramp test is going to lead to the same blood lactate concentration as in MLSS testing, which is going to save a ton of time for the lab, for the athletes, et cetera, et cetera, et cetera. So the answer is, if you look at the averages, yes.
+
+121
+00:52:51,232 --> 00:53:16,752
+But if you look at the individuals, no. So averages for the maximum lactate steady state, concentration, millimoles per liter, 4.021, standard deviation, 0.7. Okay, three-minute step average is 3.5, standard deviation of 0.6. The five-minute step lactate concentration is 4.053.
+
+122
+00:53:16,752 --> 00:53:46,144
+Standard Deviation of 0.86. So basically, we have the same blood lactate concentration from maximal lactate steady state as an average for all 16 people as we do in the corresponding speed for the five-minute step test. So that's kind of cool, isn't it? Yeah. Although the standard deviations are, I mean, I don't know. I think my first reaction to that is like, oh, those standard deviations are large.
+
+123
+00:53:46,144 --> 00:54:12,160
+Yes, they are. Yeah. Okay. So besides the standard deviations being large, basically the two distributions overlap very, very, very well. Right. So I think that's cool. But let's look at some individual values here. So like subject one, in terms of blood, lactate, and concentration, MLSS.
+
+124
+00:54:12,160 --> 00:54:40,032
+is 3.81. Cool. For the five-minute ramp is 3.6. For the three-minute ramp is 3.7. Okay, that's awesome. But we get some ones that... Yeah, those are pretty close. Yeah, we get some ones that don't match. One subject is 5.52 at MLSS. For the three-minute ramp is 4.2. And for the five-minute ramp is 5.0. We're 0.5 off, right? And then we get some even stranger ones.
+
+125
+00:54:40,032 --> 00:55:09,024
+So we get somebody with 4.43 for MLSS, we get 4.35 for the 5-minute ramp, and we get 5.2, sorry, we get 4.35 for the 3-minute ramp and 5.2 for the 5-minute ramp. So we have some pretty big mismatches going on, and this is actually a lot of running speed, delta. So while the stats match up, individually, it doesn't quite work.
+
+126
+00:55:09,024 --> 00:55:37,472
+and so they find that that the average works and that's fine but individually I mean it doesn't hold up to my personal standard but this is why I said earlier that I think for science this kind of stuff is fine and you know kind of trying to differentiate is a question of minutia on some degree but when we're trying to individualize these things and make something that works
+
+127
+00:55:37,472 --> 00:56:02,160
+really well for everybody. I don't think this kind of stuff holds up really well, especially if we want to just assume everybody's at four millimole lactate, you know? Yeah. I think the other interesting thing here is the fact that on average that the five minutes does approach this value of four could also be because
+
+128
+00:56:02,768 --> 00:56:30,768
+and you know someone got upset at this when I said this on a previous one but there's this thing there's this thing called the central limit theorem that basically says when you have a a quantity that is the that is affected by a bunch of different independent random variables even if those variables are not necessarily Gaussian distributed
+
+129
+00:56:30,896 --> 00:56:57,648
+When you see the effects of all of them together on one dependent variable, the distribution often comes out very Gaussian-like. I'm not following, but I hope somebody else is. Oh, anyway, basically all these things land in this really nice Gaussian, even though you may not assume that... A Gaussian being a normal...
+
+130
+00:56:57,648 --> 00:57:26,416
+It's bell curve. Yeah, like a bell curve, yeah. And I'm like, oh, so you find these values, like, oh, these are pretty bell curve-like. Oh, that's good. So you think that that's good. And it is good in some aspects because when you're going to do statistics on them and from a scientific perspective or standpoint for this paper, things are much easier when things are Gaussian-distributed. So you look at it and you think, oh, that's nice. But like you said, oh, that's nice for science and for...
+
+131
+00:57:26,416 --> 00:57:42,032
+the studies, but it's not that nice for individualizing and making conclusions about an individual person's... No, and it's weird, right? Because on some level, you want a large population...
+
+132
+00:57:42,032 --> 00:58:11,616
+for scientific studies. You want way more than N equals one unless you've got some medical patient with a super, super rare disease and you've only got one patient and you really don't want to do this to anybody else because it's such a bad disease, right? So N equals one is fine for that, but for stuff like this, people typically want N is much greater than one. You want some level of statistical power. So 15 people is good, 30 people would be great. But the more people you add into that pool,
+
+133
+00:58:11,616 --> 00:58:36,080
+The odds are that it's going to look more and more and more Gaussian. Yeah, and so the more people we add to this, the more the averages and standard deviations would probably line up even better, even though they line up incredibly well like this. But individually, this, I think, when it comes to an actual standard for coaching and individualizing training, this is where N equals 1 is the whole ballgame.
+
+134
+00:58:36,528 --> 00:59:05,008
+Like, I don't want a population average for all empirical cycling athletes. I want to know what works for this empirical cycling athlete. I want to know what is this person's threshold. You know, this is sort of like saying, I'm going to average everybody's FTP for everybody at empirical cycling. And then I'm going to figure out like, okay, the average FTP is like probably 280 or something like that. And so therefore, everybody's FTP is 280.
+
+135
+00:59:05,040 --> 00:59:35,008
+See what I mean? It's kind of like saying that, but with blood-lactate concentrations. And I think that's interesting, too, because if you were, for example, in a vacuum and trying to figure out, and you didn't have a power meter, right, and you were trying to figure out someone's lactate concentration, you would, because you know a lot of times things trend towards four, you would perhaps start looking at four, and that would inform your initial guess.
+
+136
+00:59:35,008 --> 01:00:04,560
+But it would not necessarily be where you start and also stop. Yeah. Okay. Oh, yeah. Sorry. Go ahead. Oh, no. Just that population studies can be useful for individual stuff like that because they give you a place to start with or a place that likely is close to the right answer. You are way closer if you start looking at four than if you started looking at 10 or at one. Yeah. Right?
+
+137
+01:00:04,560 --> 01:00:23,424
+But to start looking there and then immediately stop is silly. In a situation where you actually have the ability to look deeper. Like if you're just gonna, again, do these population studies, call it four, move on, that's great. Okay, so I've got some...
+
+138
+01:00:23,424 --> 01:00:50,144
+data here from a consultation I did a couple years ago from a person who may or may not have worn some version of stripes that could be described by some as a rainbow of sorts. So very high-level athlete here. This is a three-minute ramp test, as in three-minute stages. So the test stages are zero watts, 100 watts, 150, 200.
+
+139
+01:00:50,144 --> 01:01:06,032
+and then increasing 25 watts at each subsequent stage. And so these are the lactate values. At zero watts, we have 1.6. Then let's go all the way up to 250 because this person's threshold is pretty high. 250 is 1.9, 275 is 3.1.
+
+140
+01:01:06,032 --> 01:01:30,048
+300 is 5.3, 325 is 8.3, 350 watts is 9.8 millimole, 375 is 12.6, and 400 is 16. At this point, the tester stopped the test because they found the inflection point at which blood lactate rises exponentially, right? So we can really draw two very distinct and very good linear lines here from 0 to 250.
+
+141
+01:01:30,048 --> 01:01:58,064
+is basically straight, and from 250 to 400 watts is also very much straight, showing a pretty distinct turn point looking like exponential growth. So, what are this rider's LT1 and LT2? Kyle, scroll down a little bit in our notes and you'll see the test. Oh, okay, yeah, yep, I see it. So, what do you think is LT1, what's LT2? You would ballpark, I don't know, two...
+
+142
+01:01:58,064 --> 01:02:27,040
+200 and the plot's kind of small, 240-ish and then maybe, let's see, and then, yeah, I don't know, 275? Yeah, so like, yeah, so 2 millimole happened right around 250 watts, 4 millimole happens around 300 watts, right? And so if we want to use,
+
+143
+01:02:27,040 --> 01:02:55,376
+2 and 4 millimoles are LT1 and our LT2. This is a really narrow range. Right, yeah, yeah. It's crazy. That's why I was like squinting, like, how can I make these numbers slightly different, like, without saying, oh, they're 20 watts apart, oh no. Yeah. So, what it came down to is actually this test is basically useless for this guy, unless you want to compare it to exactly the same test later and look at how it shifts, but we can't really say much about it.
+
+144
+01:02:55,376 --> 01:03:21,040
+Right? And we cannot figure this as equivalent to a population average because this is N equals 1, right? And we want our system to be equally valid for everyone. So I'm going to give you a spoiler alert. This athlete's FTP is actually like 370 watts. Oh, wow. Yeah. That was, well, like over 12. Yes. But remember, this is a three-minute ramp test. Oh, okay.
+
+145
+01:03:21,040 --> 01:03:44,208
+What the hell is going on here? Why do we have such wild lactate values? And because if we look up at the paper that we just looked at, the three-minute step test, the population average is 3.5. It's 0.5 millimole per liter, 25% less than for the average of the populations.
+
+146
+01:03:44,208 --> 01:04:10,640
+We would expect if he follows the trend of this previous paper that he's going to be on the low side. However, he's way not on the low side. And so this is another example of how we need to look at N equals 1 for all this kind of stuff. Because I looked at his power data and I was like, oh, this is your threshold. This is about your endurance pace. And he was like, oh man, this doesn't match my lactate test at all. So what is happening here? Why?
+
+147
+01:04:10,672 --> 01:04:36,368
+Why do we get wild data like this? So what's happening is at the onset of exercise, the nervous system, muscle perfusion, activation of enzymes, all these signal cascades, these are all in a very rest and digest state and not quite in a fight or flight state yet. So there's not much O2 used for oxidative ATP generation. And so this guy who, by the way, also has a very large anaerobic capacity,
+
+148
+01:04:36,368 --> 01:05:02,880
+has a lot of glycolysis ready to go. And it can take, you know, it took him a little while to ramp up his aerobic systems in his muscles, especially. So creatine and glycolysis, phosphocreatine and glycolysis cover the initial burst of energy need until you properly warm up. And this is part of what's happening when you warm up, by the way.
+
+149
+01:05:02,880 --> 01:05:30,192
+The increase in glycolysis means a lot more CO2 gets exported versus O2 used. So we see things like RER increasing initially before falling. And also I've seen this in gas exchange tests too, where we get a little bump and then it goes down by the end of the stage, then a bump and then it goes down by the end of the stage. So this is one of the things that we can see happening here. And so what's happening is more lactate is obligately made early on.
+
+150
+01:05:30,256 --> 01:05:56,912
+per each stage, and then it diffuses out of the muscles. And muscles in other tissues will not only start consuming blood lactate, but they'll also produce less of it, hence its subsequent equilibrium as we go, right? So the body also needs time to go from rest to aerobically fully functioning. And in a lot of folks, this doesn't just happen in three-minute stages. And so actually, the lactate test was interesting.
+
+151
+01:05:56,912 --> 01:06:24,288
+because it actually helped me give him really good advice on how to adjust his training going forward and it did indeed seem to work, he told me later. So here's one of the things that we can learn from this is that some people need a really long warmup and also the protocol needs to work reliably for everyone. So I think
+
+152
+01:06:24,288 --> 01:06:53,808
+The next thing that I want to look at here is actually if you look at the cover art for the episode, this will also be up on the show notes, this graphic here. We have a chart of net lactate release from the legs during knee extension exercise. I've got the link to the paper in the show notes as well. So Kyle, the squares are lactate and so show me or describe to me kind of what we're seeing here. So early on,
+
+153
+01:06:53,808 --> 01:07:23,264
+The measure rest values. They're all very low. And this is measuring net release. So this would be... Yeah, micromole per minute. Yeah. Micromole per minute liter. Minute liter. Yeah. Per minute. Yeah. Basically micromoles per minute per liter. Micromoles per liter per minute. And so at rest, it's all very small. All the boxes kind of line up.
+
+154
+01:07:23,264 --> 01:07:52,496
+Really quickly at... Two and a half minutes, yeah. Two and a half minutes. The release rate is ridiculously high. Yeah. Like almost 9,000. Yeah, we're looking at 9 millimole. 9 millimole. And it drops as we go to five minutes. And then it stabilizes a little bit. And then as we go to 30 minutes, net lactate release drops even more down to like three millimole, two and a half. Yeah.
+
+155
+01:07:52,496 --> 01:08:20,080
+Or 3,000 microliters. And that's interesting. Yeah. Yeah. Because you have this, and this is something you may experience if you are a more anaerobic rider. But it's interesting to see that it's not just like the initial concentration is a little bit higher. It's like three, three times higher. I think it's a lot. Yeah. Yeah. And so one of the implications for
+
+156
+01:08:20,080 --> 01:08:49,055
+for this happening in a ramp lactate test like this is that when we see somebody's blood lactate values way, way, way high and then dropping over time, this is one of the things that shows us that this person doesn't do enough endurance training because they need more mitochondria. And we'll talk about that in another episode in great depth. But the main takeaway here is that
+
+157
+01:08:49,055 --> 01:09:14,880
+Lactate values in some people or even a lot of people, especially if you don't ride that much, it can take a lot of time to stabilize and equilibrate as aerobic metabolism gets underway since, you know, especially if we see something like this, we cannot rely on a three-minute ramp stage ramp test or a five-minute stage ramp test with lactate to determine these things in all athletes.
+
+158
+01:09:14,880 --> 01:09:44,496
+because obviously that's how I want it to work. I want it to work with everybody. So what's really happening here also, as we increase the power output, we're also increasing motor unit recruitment. And so we add more muscle mass per step. And so as these new cells start to have to work aerobically, they do the same thing. They start to work.
+
+159
+01:09:44,496 --> 01:10:13,184
+and so that means we get a new lactate efflux from these muscle fibers that are now freshly recruited. So like that's what we're seeing in the example above and that's why if we had done like 10 minute stages it probably would have been a lot lower and we probably would have had much better data for this athlete. Yeah and you can imagine too if the
+
+160
+01:10:13,184 --> 01:10:34,656
+the lab testing protocol maybe doesn't have them warm up or maybe has them all do some sort of short easy warm up or something like that where oh maybe even if you just adapt it a little bit and let people especially for trained cyclists do a warm up that you would for like a race and not just oh everyone's got to do uh you know
+
+161
+01:10:34,656 --> 01:11:04,656
+Yeah. The same spin 10 minute easy on no resistance on this. Yeah. I mean, that's an assumption too, because I actually haven't done any testing on that and I haven't seen a paper on that. So if somebody knows of a paper, please send it to me. Otherwise, I guess I'll have to go do some testing on this. More pinpricks. So anyway, so one of the other cool things that we can know about this from radioisotope tracer studies where you take, you know, like carbon 14 or something like
+
+162
+01:11:04,752 --> 01:11:34,688
+Labeled Things. And these basically show that the rates of lactate appearance and disappearance and the net are not uniform over time and through athletic populations. And it can also be different in trained and untrained people. And so these tracer studies also have interpretation issues anyway, and we're going to argue about this for decades anyway. And while I think that's fun, that's kind of besides the point, but it is interesting to note.
+
+163
+01:11:34,688 --> 01:12:01,232
+that kind of stuff. So what's the next best option? Maximal lactate steady state, right? Most of the time, yes, but if you want real precision, there are some drawbacks. And so a paper was published recently, and I thought they had a really good criticism of maximal lactate steady state testing protocols and utilization. The paper title is The Maximal Lactate Steady State Redefining the Gold Standard. And this is open text, so you can...
+
+164
+01:12:01,232 --> 01:12:29,136
+Check out the show notes at empiricalcycling.com and go read this if you want. It's a fascinating read because it presents critical power as the quote-unquote from above measurement. That's my words, not theirs. Because we're using performance above threshold to measure our athletic threshold, our performance threshold. Versus MLSS as a from below measurement, my words again, because typically
+
+165
+01:12:29,136 --> 01:12:57,856
+When you do an MLSS test, you increase the workloads and you measure lactate increase from minute 10 to minute 30. And if you get more than one millimole per liter increase, you are above MLSS. They go through some various criticisms in this paper for MLSS, but one of the two most valid criticisms that I think they have is error.
+
+166
+01:12:57,856 --> 01:13:27,040
+of lactate meters, which is often 0.2 to 0.4 millimole per liter, but it tends higher as the concentrations go higher. And the second, of course, is that since the tests only look at two to four power values for MLSS typically in something like 10 to even 30 watt stages, the actual threshold that you find can actually be inside the range. So if you test somebody at like 200 watts and 230 watts, you might have a threshold of like 215 or 220.
+
+167
+01:13:27,040 --> 01:13:50,688
+Whereas you just assign 200 as their threshold, right? Right. And so dehydration also they bring up as something that affects lactic concentration values because if you're sweating profusely over 30 minutes, like the blood lactic concentration is going to increase, of course. Although I do disagree with the...
+
+168
+01:13:50,688 --> 01:14:19,792
+Of course, we're going to get to the but. I do disagree with a lot of stuff in the paper here since it's a paper that's looking at intensity domains, which we can argue about later. But the big issue for me is that it's holding critical power up as a gold standard, and I think it's not. But it does go thoroughly through a bunch of stuff, and I think it is actually a really good read regardless. Well, I think there's a couple things.
+
+169
+01:14:19,824 --> 01:14:47,856
+trying to adapt a protocol that was basically picked because it would be easy to implement in lab tests and if time efficient, let's say, gives probably good enough data for the study to be done, otherwise they wouldn't use this protocol, but it may not be super actionable on the individual level. Again, we're kind of going back to this fallacy, but also that if you're
+
+170
+01:14:47,856 --> 01:15:14,736
+If you're rounding down in these big power jumps of 10 to 30 watts, which is, especially if it's 30 watts, that's really big, you're going to err on the side of underestimating, right? Like you're rounding down, which maybe that's fine for you personally. Well, and I actually find that 10 watts is actually a pretty good range to assign FTP in realistically anyway.
+
+171
+01:15:14,736 --> 01:15:43,536
+You know, it's very rare that I'm talking with somebody and I go, okay, your FTP has gone from, you know, 300 to 303. It's like 300, 310, 320, 330. I typically use 10 watts anyway. So I don't think that's that big a deal. But yeah, underestimating for the, especially for the way that these tests are typically done. So actually, one of the things that usually happens is that you do a ramp test first with lactate values.
+
+172
+01:15:43,536 --> 01:16:13,056
+And for, you know, as we saw, for some people, like, you know, three-minute steps, like, for the typical population that would underestimate most people, like we saw in the Modern Heck and Hoffman paper, but for our, you know, our example athlete, the guy I consulted with, that would extremely underestimate him, like, by, like, 100 watts, and you'll go, okay, we're gonna look at, you know, for him, it would be like, we're gonna look at 300 watts, we're also gonna look at 270, we're gonna look at 330.
+
+173
+01:16:13,056 --> 01:16:33,984
+for MLSS tests, and he would do 330 for 30 minutes, and instead of going, oh, 330, we're underneath our millimole per liter increase from 10 to 30 minutes, so instead of going up to 360 or something like that, they'll just use 330.
+
+174
+01:16:33,984 --> 01:17:02,736
+because that's a good way to save time. And we actually may look at a paper on runners and TTE at MLSS that has this issue in the protocol. So that's going to be really cool. But anyway, so that's just the kind of minutia that we can get into and that can indeed be an issue with MLSS testing. However, I always had a theory that somebody who's badly aerobically trained as I am
+
+175
+01:17:02,736 --> 01:17:32,720
+I'm obviously very well strength trained and sprint trained. So I had a feeling that if I actually rode at my FTP, my untrained basically FTP, I would actually find a greater than one millimole per liter increase over minutes 10 to 30. And so that's exactly what I did. And yes, indeed, I found exactly that. So at 10 minutes, my blood lactate was 4.9 millimole.
+
+176
+01:17:32,720 --> 01:18:00,720
+At 20 minutes, I was at 5.7. And at 30 minutes, I was at 6.6. So from 10 to 30 minutes, we actually have a 1.7 millimole per liter delta. And even better, I was not dehydrating that much because I wasn't breathing that hard. And I was very cool. And I drank like a bottle and a half during that time just to make sure that I wasn't... I was actually probably diluting my blood a little bit by doing that.
+
+177
+01:18:00,720 --> 01:18:26,464
+And so, for instance, if I had tested lower, you know, within the MLSS rule of no more than one millimole per liter increase, the thing is, when it comes to training, I wouldn't have been steered wrong because it's, you know, you get so fatigued by training too hard over threshold, but it's not as bad under threshold. So if we had, if I had tested at like 100 and...
+
+178
+01:18:26,464 --> 01:18:54,368
+My FTP, by the way, is a whopping 190 watts. So if I had, I probably would have been at like 150 to 160 for like the one millimole per liter increase. And if I were going to go do like sweet spot, like low FTP intervals, I would probably do them at 160 anyway. Yeah. And if we follow my rules for, you know, threshold training of just add more time.
+
+179
+01:18:54,368 --> 01:19:23,648
+That would not steer me wrong in any way. So MLSS, I find preferable by a long shot. But, you know, this is the first, I actually consider it, you know, I felt like I discovered something, actually. That at FTP, you can violate the rules of MLSS. But typically for somebody like me, you know, with no aerobic training whatsoever. But I think for most people, the one millimole per liter rule.
+
+180
+01:19:23,648 --> 01:19:51,504
+is probably fine, but remember, my standard has got to work for everybody. So, yeah. And I think that's interesting, too, because you imagine most of these studies, a lot of, not most, a lot of studies are, oh, we picked some recreational athletes or some reasonably well-trained or some competitive athletes to do these tests. And so all these people are coming in with a reasonable base of aerobic training. They're not, we took a bunch of
+
+181
+01:19:51,504 --> 01:20:14,976
+Olympic weightlifters and then made them do a lactate test, which would be fun. I mean, that'd be fun just to try, you know, but that they're not the typical subject pool. So you are going to have some selection bias there. Yeah. And I wonder if there's a corollary here too, like some triathlete with a 450 watt FTP and a 650 watt sprint.
+
+182
+01:20:14,976 --> 01:20:42,448
+You know what I mean? So like I bet somebody out there can violate this rule the other way. Like an ultra-endurance person. Yeah, exactly. So many mitochondria. Awesome. Let's not lose sight here of why this kind of stuff happens. Like why do we have edge cases like me and potentially a super ultra-endurance athlete, runner, cyclist, whoever. Somebody like me, a little background info on me.
+
+183
+01:20:42,448 --> 01:21:11,984
+I don't ride my bike that much anymore. It's not that I don't want to. It's that I can't because I got hit by a car a couple of years ago while I was riding my bike. It took the impact on my hip. And ever since then, whenever I've ridden my bike, I get a pinch, like a really bad pinch in the front of my hip every single pedal stroke. So I want to ride my bike, but it hurts, especially on bad days. I'll ride for two or three hours. I'll get home. That hip is like, I am in so much pain. So I don't do that much anymore, but I can, thankfully.
+
+184
+01:21:11,984 --> 01:21:35,808
+I can still do things like squat. And so I really like strength training and sprinting anyway, so that kind of works out. But the point is that without riding much, you don't have much mitochondrial mass. And mitochondrial mass is one of the big things associated with, or actually rather one of the big determinants of your rate of lactate.
+
+185
+01:21:35,808 --> 01:22:04,432
+And so since I don't have many of those, especially as I get into larger and larger motor units, as I fatigue and my motor unit recruitment increases, I have more and more lactate being made and I have less and less mitochondria in order to oxidize it. And so especially then when it goes out into my blood, since I don't have that much mitochondria to begin with in my working muscles, I'm sure that some are taking them in, but
+
+186
+01:22:04,432 --> 01:22:33,168
+I have a lot less than a lot of people who are doing even a moderate amount of riding per week. You know, like I might put my weekly bike volume at like half an hour, something like that, or less these days. And so my rate of appearance is going to be quite large. Whereas somebody else with my same sprint, but who has a 400 watt FTP and rides 25 hours a week, their rate of appearance is going to be smaller.
+
+187
+01:22:33,168 --> 01:23:01,184
+and their rate of disappearance is also going to be larger and so somebody like that I would expect to more obey or if not entirely obey the MLSS criteria but that's why somebody like me doesn't because as I fatigue and as I get into these big motor units they're going to create more lactate and they have fewer places for it to go and the lactate that's in the blood has fewer places for it to go but let's compare that to an ultra endurance athlete who's going to be
+
+188
+01:23:01,184 --> 01:23:18,912
+almost entirely slow twitch, or one would think, one would hope. The really good ones anyway, I would expect that. So their thing is going to be, they have a lot of mitochondria to burn lactate and fats, obviously, and they're not going to have much or nearly as much
+
+189
+01:23:18,912 --> 01:23:46,688
+Glycolysis as they get into large motor units as somebody like me, where those big motor units are going to be more and more slow twitch still. And that's going to mean that they have a lot more rate of lactate disappearance in the cell to begin with. And also from the blood, their muscles are going to be big lactate consumers as they're working as opposed to somebody like mine. So really two very interesting edge cases.
+
+190
+01:23:46,688 --> 01:24:11,696
+Me or any take your favorite track spinner or Olympic weightlifter versus an ultra endurance athlete. So, okay, so what are we really taking away from this? Obviously, you know, I don't want to spoil anybody's party. If you're using lactate tests and it's working for you, that's great, honestly. I think it is great and keep doing it. Keep doing whatever you find works for you. But none of these lactate tests are perfect, really.
+
+191
+01:24:11,696 --> 01:24:39,744
+MLSS obviously would be my personal favorite since the ramp tests can be so much more inconsistent. But ramp tests can sometimes give you useful data about where to start looking and they can give some people a good idea of threshold but you also don't want to lose sight of the fact that I think it should work for everybody or I don't want to lose sight of that fact anyway. You guys can do whatever you want. So for most train cyclists, MLSS testing would be the most useful
+
+192
+01:24:39,744 --> 01:25:09,280
+because if you do want lactate data to corroborate your threshold, you may only have to test once because you already know where to start looking based on your power data. If you think your threshold's feeling like 300 watts and you get like, you get nerves about actually going out and doing a power test, go to your friend with the lactate meter, ride at 300 watts and see if your lactate just like takes off and if it doesn't, great, you've gotten your new threshold, it works.
+
+193
+01:25:09,280 --> 01:25:35,728
+reasons that this might be good. Yeah, I think that's an interesting way to prescribe taking advantage of a lactate test. It's not just showing up and being like, no idea, let's see what happens, right? Like, you're using this other data that you have to inform, again, where you start looking and not just, start at one, who knows? Yeah, yeah, exactly. And, you know, when we start looking for, like, threshold...
+
+194
+01:25:35,728 --> 01:26:04,800
+data for new athletes or people who are training and feel like their threshold's going up, the first thing that we always get is like, oh, my RPE and power are decoupled. My RPE's way lower. My heart rate's way lower for my normal threshold power. I think my threshold might have gone up. And so, okay, so cool. It's like, yeah, we're using a lot of data at once in order to kind of triangulate or quadrangulate. I don't know. However many sources you're using to kind of
+
+195
+01:26:04,800 --> 01:26:32,784
+You know, come upon this thing, but I always think that we need to go with power data, right? So here's the point. So let's get back to our clickbaity title. So how indeed do power meters make lactate testing obsolete? Okay, obsolete's a bit of a stretch, but you know what I mean. In terms of what are we trying to measure, you know, my definition is the work rate.
+
+196
+01:26:32,784 --> 01:26:59,536
+Over which we fatigue faster and below which we fatigue slower. And so lactate tests have always fundamentally been attempting to measure this. And this is the most important point of this entire episode. Historically, we've been using lactate to attempt to measure human power output, right? Human performance. And so now we can directly measure performance on the bike.
+
+197
+01:26:59,568 --> 01:27:21,440
+So using human work capacity as in power output to try and measure lactate is backwards. We've always been using lactate to try and measure submaximal human performance. So with power meters, we now have the thing that we've been trying to measure with blood lactate since 1930 when OWLs, whose paper I linked,
+
+198
+01:27:21,440 --> 01:27:45,184
+too, by the way. It actually does read a lot like a modern paper. He noted, and he was the first person to note, that there seems to be, and I'm quoting here, there seems to be some critical rate of walk, he was looking at walking, above which only did an increase in blood lactate follow the exercise. He found a lactate threshold. That's interesting because...
+
+199
+01:27:45,184 --> 01:28:13,728
+One of the things that really does make cycling special in this regard is that we do have power meters, right? There are some running power meters now, but they're not nearly as ubiquitous as your cycling power meter, right? No one's like, oh, no, don't get those new running shoes. You need to get a power meter first, where almost everyone's like, no, no, no, don't get those $2,000 deep wheels to ride on every day. Get a power meter first. Yeah, and this is why.
+
+200
+01:28:13,728 --> 01:28:41,744
+Because lactate tests are trying to peek into what's happening metabolically, you know, because pretty much everyone since, you know, owls in 1930, notice blood lactate values shoot up when over a certain work rate. And so we've also learned that concentrations themselves are not so useful, they need to be individualized. And I wouldn't even think that I would want to individual, like use the same individuals, like lactate concentrations, you know.
+
+201
+01:28:41,744 --> 01:29:08,896
+on a different day-to-day basis. Things like we could probably see caffeine and diet and stuff like that might affect it, although they might not. So a lot of papers, besides the ones that we looked at, that typically dislike various lactate threshold tests are, as we saw, critical power proponents. Because on some level, I think some people listening have probably thought about this.
+
+202
+01:29:08,896 --> 01:29:38,160
+Critical Power is also based on actual human performance, actual work rates. And lactate tests are based on approximate definitions and not precisely in the context of performance first. And critical power does that, right? But critical power and lactate tests are fundamentally trying to estimate the same thing. But to me, there are still shortcuts and lab approximations for the actual athlete performance threshold.
+
+203
+01:29:39,280 --> 01:30:08,032
+Yes. And I think, honestly, if you're, like we said before, if you're doing this for scientific studies, that's fine, right? Like, the jump comes when you're trying to adapt conclusions from scientific studies to your individual training. Yeah, yeah. Yeah, so you want to have a, you know, a system that you can use in scientific studies that, you know, historically has been validated repeatedly, and, you know, that's fine.
+
+204
+01:30:08,032 --> 01:30:36,816
+Critical Power and Maximal Lactate Steady State, despite trying to find the same thing, the actual precise result does depend on the method of measurement. And so for me personally, that means neither of them are really as up to my standard as I would like them to be. And that's, you know, so despite that critical power is a measure of performance, it doesn't directly measure the performance that we want it to.
+
+205
+01:30:36,816 --> 01:30:54,736
+MLSS testing doesn't directly measure the performance that we want it to. They're pretty close. I would prefer MLSS because you're probably going to underestimate it more often. And actually, we may or may not look at a critical power paper in the next couple of episodes that it's fascinating to me that kind of gets deeper into this.
+
+206
+01:30:54,736 --> 01:31:20,624
+And also, I sent it to Kyle earlier. I think it was yesterday. And I said, you know, this paper does what we tried to do in the FTP versus Critical Power episode. We didn't do that good of a job in our episode. So we may do a revisitation of that. So I think for cyclists and for coaches and everybody who's trying to look at this kind of stuff, we actually have an advantage of not being in a lab.
+
+207
+01:31:20,848 --> 01:31:45,024
+We have an advantage that we're not measuring populations of people. Our advantage is that we are looking at N equals 1. And we want to find what is your N equals 1. And not anybody else's. Like, not the population average. Like, we don't want no fallacy of division at empirical cycling, remember. It's a big rule here. I was talking with someone about, and they were trying to figure out how they were...
+
+208
+01:31:45,024 --> 01:32:13,088
+trying to figure out why doing some VO2 intervals, a prescription for which they pulled from a scientific paper, seemed so easy. And it was just one of these things where like, oh yeah, like that's the prescription as given in this paper is a place to start. But if you do find yourself, you know, this prescription was generated from an average of a group of people doing this work. And so, yeah, if you find that you don't fit this average.
+
+209
+01:32:13,088 --> 01:32:41,872
+That paper gave you a place to start, but not the place where, oh, it said the average was this, so I have to do them like this. Yeah, yeah. You know, actually, I think that we all have an advantage of not being research scientists in this regard, that we can individualize things, and that we should individualize things, because, you know, everybody needs something a little different. You know, I've got athletes where if I train somebody else this way,
+
+210
+01:32:41,872 --> 01:33:11,648
+It would go very badly. Somebody does a lot of intermittent efforts. Somebody does a lot of steady state efforts. Somebody does a lot of volume with not so much hard efforts. Somebody does a lot of intensity. It's very individualized. And when we look at thresholds, we actually can do this pretty easily. And it's one of the easiest and simplest things that we can do to find somebody's threshold based on their mean max power curve.
+
+211
+01:33:11,648 --> 01:33:41,120
+Athletes and Coaches, which is, you know, things like if you really want to measure LT1, if somebody's having a hard time pacing it with RPE or the talk test or whatever it is, you can, you can easily do this. Remember, it's just not at two millimole. Remember, it's that first, that first big increase. So like I did this recently, I was at like 1.4 millimole up to a certain level. I was doing 10 minute steps and then I felt my RPE decouple at one point and my lactate went up to 1.8 and I was like, oh.
+
+212
+01:33:41,120 --> 01:34:10,048
+All right, now I'm over it. It's got to go below it. And I don't want to find precisely what it is. That lower value is just fine. So for me, it was 110 watts, by the way. I went up to 130, and I went, whoa! I actually had to start thinking about, oh, I got to focus on this. So that was a big difference, too. So especially if you're doing modern training methods, you can, like we said before, use lactate testing to kind of corroborate
+
+213
+01:34:10,048 --> 01:34:32,848
+what we think with power data, especially if somebody's having a hard time doing any kind of testing. And so if somebody's wondering, like, what do I personally use? And by that, I mean, what do I think is the best, most effective, and most time-efficient way to do all this stuff? For LT1, or for that first threshold,
+
+214
+01:34:32,848 --> 01:35:02,272
+the low one, the endurance one, I use RPE and verbal description. I'll describe it to people. And I've tried a lot of descriptors over time, and sometimes it's gone really well, sometimes it's gone, eh, okay. But my latest way to describe it is the hardest writing you can do that still feels easy. So, there you go. Try that. Although I advise people to stay under it anyway.
+
+215
+01:35:02,272 --> 01:35:20,624
+So, LT2 and FTP, however, like I said at the outset, I use the actual power curve. So, we're looking at the point at which someone fatigues faster above it and slower below it, and that's my definition, by the way. You can quote me, and you should. I don't mind you quoting me on this.
+
+216
+01:35:20,624 --> 01:35:45,792
+My threshold standard is the actual performance, and so I'm going to use this. And if you put your power curve on log time, and I mean like log seconds, because I've seen some very strange log curves recently where they're not entirely logged from zero all the way out to however many hours. So put it on log, and you will definitely see a very definite inflection point.
+
+217
+01:35:45,792 --> 01:36:14,464
+And you can figure this out easily as long as somebody's done a handful of max or near max efforts. Under threshold, obviously it gets a little difficult to figure out the max efforts, but that's totally besides the point. You can still find it. So anyway, whatever definition of threshold that you do use personally, I hope it at least holds up the standard that it works for everybody. I don't think that's, you know, I feel like talking about it.
+
+218
+01:36:14,464 --> 01:36:43,424
+Like, I'm like, this is a very high standard. I don't feel like this is a high standard at all. I think this should be, like, a minimum standard. Right? Yeah. Yeah, yeah, yeah. That, not to belabor it too much, but you could imagine that somehow there's a difference between the standards for, like, what a one-rep max is. Right? Like, oh, no, no. No, no, no. My one-rep max looks like this. Like, well, that doesn't make a lot of sense. Like, obviously, one-rep max is...
+
+219
+01:36:43,424 --> 01:37:13,200
+a somewhat simpler metric, but it is definitionally one that works for everyone. Yeah, so do we have any very generalized concluding thoughts that we can put out there before we totally wrap this up? I think hopefully, and we kind of now beat around this a little bit, but hopefully we get drive it home more that while scientific
+
+220
+01:37:13,200 --> 01:37:39,952
+Papers about training and finding intervals and interval prescriptions and test metrics and things like that are really useful and you can glean useful information that you can use to actually affect differences in your training. You do have to be a little bit careful when just looking at benchmarks and metrics and things and especially when it comes to averages that come out of papers. And so it doesn't mean that all...
+
+221
+01:37:39,952 --> 01:38:09,392
+All training is completely disconnected, and that doesn't mean that you shouldn't be looking around in papers for new tips or tricks or what have you, but it does mean that you should just be a little careful when directly copying one to another. Yeah, yeah, I agree. And, you know, I think it's interesting to think about Andy's, you know, functional
+
+222
+01:38:09,392 --> 01:38:38,704
+Threshold of Power from Andy Coggin. Because, you know, he knew this all along, you know, despite the, you know, 20-minute test, blah, blah, blah, it does not define your FTP. So, you know, I want to ask Andy about this when we have it on the podcast, but, you know, the functional threshold of power, like, this is the functional part, and is the threshold of power above this power output, you fatigue faster, below it, you fatigue slower. Like, that's what the WKO 4 and 5 models are looking for.
+
+223
+01:38:38,704 --> 01:39:05,696
+is looking for this point. And that's what I think is the brilliant part about this, about having power meters. This is sort of like The Wizard of Oz. It turns out that you were home the whole time. You've got a power meter, and you're trying to find what lactate, blah, blah, blah. And it turns out that, no, it's the power that is the important thing, not the lactate. The lactate, like we said, has been there to try to estimate.
+
+224
+01:39:05,696 --> 01:39:31,664
+this power output. But, you know, way back in the early 1900s, people typically didn't run much more than like five miles or something like that. So like the longest efforts people were doing weren't that long, not even five miles, I think, probably like, you know, maybe like 10 or 20 minutes or something like that. Like marathons weren't that common back in the day. And so we didn't have many very long data points to look at.
+
+225
+01:39:31,984 --> 01:39:58,256
+And I'm fascinated by this because, you know, historically, like, you know, because that's one of the things that, you know, that's one of the reasons that I think that critical power values are like, you know, tests are like three minutes, 15 minutes, but like you can do 20 minutes, you can do 40 minutes, you can do 60 minutes, you can do three hours, et cetera, et cetera. So, you know, like I said, but it turns out that we've been home the whole time. Yeah.
+
+226
+01:39:58,256 --> 01:40:27,008
+Yeah, power meters are a great tool and it's a shame that you're not using this or I guess that it's a shame that people are taking for granted that you have this quite, quite unique, rare insight into the sports performance where other sports are literally just restricted to speed or time or something like that. Yeah. Anyway, so I hope this was useful for everybody. I hope it wasn't
+
+227
+01:40:27,008 --> 01:40:52,176
+Too Controversial. I've been called abrasive recently, so I apologize if I've been abrasive in this podcast. That is not just my online persona. I just am like that. My apologies. So thank you, everybody, for listening, as always. If you have any questions or comments, you can let me know. You can tag me on Instagram. You can tag me on Twitter. You can let me know however you want to let me know.
+
+228
+01:40:52,176 --> 01:41:14,912
+Subscribe to the podcast, share it especially, of course. And also remember that we're ad-free. Your donations really keep us running. We've got some very generous ones lately. Thank you all so much for those. We really appreciate that. Empiricalcycling.com slash donate. And of course, if you want to become an Empirical Cycling athlete or you want to consult with us, athletes, coaches, everybody is welcome to come have a chat.
+
+229
+01:41:14,912 --> 01:41:27,344
+reach out, empiricalcycling at gmail.com and of course on Instagram at empiricalcyclingweekend AMAs up in the stories so give me a follow over there if you want to participate in that so with that thanks everybody see you next time
+

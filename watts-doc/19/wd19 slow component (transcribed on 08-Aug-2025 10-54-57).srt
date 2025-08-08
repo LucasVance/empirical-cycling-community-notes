@@ -1,0 +1,428 @@
+1
+00:00:00,752 --> 00:00:30,352
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, and as always, I want to thank everybody for listening. So please subscribe to the podcast if you have not yet already done so. And if you want to tell your friends about it, that does a lot for us. The last episode, everybody seemed to really enjoy, and we really appreciate that a lot. So keep spreading it around and heading to iTunes and give us a rating and a review if you are so inclined. And remember that we are also an ad-free podcast, so we ask if you would like to donate and support the podcast, you can...
+
+2
+00:00:30,352 --> 00:00:56,368
+Do so at empiricalcycling.com slash donate. We have the show notes on the website for all the studies that we're going to be talking about today. And for all coaching and consultation inquiries, questions or comments, you can send an email to empiricalcycling at gmail.com. We also have merch. We have bottles and bath mats and all sorts of other things at empiricalcyclingpodcast.threadless.com. So we are in the middle of a podcast series about VO2 max.
+
+3
+00:00:56,400 --> 00:01:17,376
+And in the last episode we mentioned something called the slow component. And we're going to talk about that for this episode. And as promised, you know, many episodes ago that we would be revisiting the work of Ed Coyle. But first we need to make a quick detour and I promise by the end this will all make sense.
+
+4
+00:01:17,376 --> 00:01:37,584
+So Kyle, tell us about thermodynamics and efficiency and then we're going to bring that back around into muscles generating heat when they do work and then what that has to do with VO2 max. Sure, yeah. So thermodynamics, for the people who are not familiar, is the study of heat and work.
+
+5
+00:01:37,584 --> 00:01:57,600
+this sort of nebulous definition of work not just like I go to work and I get a paycheck or right now I don't go to work but I get a paycheck maybe get a paycheck the the original scientists behind thermodynamics or physicists in the mid to late 1800s and they were looking at
+
+6
+00:01:57,600 --> 00:02:23,296
+this really interesting concept of temperature and energy and heat and how all of those things were related. They actually used to, a long time ago, think maybe that heat actually had mass and so they would do silly experiments like take hot water and cold water and see if a different, they weighed different amounts and things like that. Anyway, but even science from those times in the 18...
+
+7
+00:02:23,296 --> 00:02:52,736
+Mid to Late 1800s are still super useful today, especially when we think about engines and efficiency and work and how we can harness the chemical reactions like in your car engine or if you're a body burning food. All of these systems are still governed by these laws of thermodynamics and a big one is converting energy or chemical energy.
+
+8
+00:02:52,736 --> 00:03:21,536
+into work or doing work on a system and or producing heat, which is a big common thing that we think about when we think of thermodynamics. The word thermodynamics has thermo in there, which means heat, of course, temperature. And so both work and heat are the foundations of this field. Yeah, and work is power because power is just joules, which is work per second.
+
+9
+00:03:21,536 --> 00:03:49,648
+So power is really just work done over time. Yeah. And we're going to be talking a lot about the efficiency of muscle contractions today. And this is going to lead directly to VO2 max in some instances. We'll find out which ones. So for the human body, we are primarily concerned about efficiency, which is the amount of work that we get out divided by...
+
+10
+00:03:49,648 --> 00:04:19,392
+Enthalpy, which is E-N-T-H-A-L-P-Y, Enthalpy, which is a fancy thermodynamicist term for the amount of work that you have plus heat. So that means your efficiency is the amount of work that you get out divided by the amount of work plus the amount of heat generated. So if you think about your human body, when you exercise, your body temperature goes up, you start to sweat,
+
+11
+00:04:19,392 --> 00:04:48,800
+That is the sort of byproduct, or like the waste maybe, you can think of it, from the amount of physical work that you're doing, be that riding your bike, sprinting, lifting, walking up the stairs, whatever, what have you. And so the body is not perfectly efficient, that is, we do not directly convert all of that energy into pure work, we do generate waste heat.
+
+12
+00:04:48,800 --> 00:05:18,384
+So efficiency, though, in terms of the ratio of work to enthalpy or work to work plus heat is sometimes called mechanical efficiency, but this is actually not the best way to think about this. As in lots of things in thermodynamics and VO2 max, you know, we have strange terms sometimes because it implies that the entire enthalpy component can do work when in fact it cannot because there is always an enthalpy component that is heat.
+
+13
+00:05:18,384 --> 00:05:48,336
+And while we're on the subject of confusing terms, we can also look at the second law of thermodynamics. You know, enthalpy is a component of this. So, enthalpy delta H equals delta G, which is the Gibbs free energy, plus T delta S, and delta S is the entropy. T is, of course, temperature. And so, Gibbs free energy here, this is the actual component of enthalpy that is available to do work.
+
+14
+00:05:48,496 --> 00:06:09,712
+You know, delta S is the entropy slash heat component. And so one of the things that we need to get straight with our terms is that free energy is really not free, of course. But the second law of thermodynamics does give us an advantage when we want to measure and experiment because
+
+15
+00:06:09,712 --> 00:06:38,336
+Because really, if we treat a muscle like a closed system, which for practical purposes we can, the only thing that's going to exchange with the outside world is going to be heat, and then we can just measure the mechanical work that it does. So in this podcast, when we say efficiency, this is really what we're talking about, is how much of the total energy content is being converted to work, and the rest is going to be lost as heat.
+
+16
+00:06:38,336 --> 00:07:07,840
+And the other reason that we can do this also is because a muscle, we can, for all practical purposes, say that it is at a constant temperature and pressure. Even though it's not, it's close enough for our purposes, it's not going to be doing work on the outside world by expanding and contracting. And so, Kyle, like you were saying before the podcast, we can, for practical purposes, really define a closed system kind of anywhere we want, right?
+
+17
+00:07:07,840 --> 00:07:35,008
+Yeah, if you want to consider a certain, you draw your imaginary box around something and call that a closed system and only consider the things that go on in there, you are free to do that. Right, so we've got our muscles as our closed system. Yeah, so entropy, which is E-N-T-R-O-P-Y, which is something that some people may be familiar with and might be a new concept to others, is a little hard to understand.
+
+18
+00:07:35,008 --> 00:08:02,288
+I had a professor once describe it like you said like as a tax where entropy is a small amount of energy or heat that is lost sort of to the universe or sort of increase in randomness anytime you convert one type of energy to another. So some of you may know that
+
+19
+00:08:02,288 --> 00:08:28,032
+Energy can neither be created nor destroyed, but we are free to manipulate energy from one type to another, be that changing from potential to kinetic or vice versa. Entropy kind of feeds into this idea that there's no perfect transformation from one type of energy to another.
+
+20
+00:08:28,032 --> 00:08:56,864
+Even if you could make something perfectly efficient so that your muscle could burn a gram of glycogen and get out all of that gram of energy into actually doing work and none of it turn into heat, there would be some amount of energy, a small amount lost to entropy and this would prevent you from reaching this theoretical full efficiency. Right, and my chem professor had explained entropy
+
+21
+00:08:56,864 --> 00:09:25,744
+as the tendency of things to disperse. And so if you have a little pocket of high energy that you might, high molecular energy that you would look at as a region of high temperature, that temperature is actually going to disperse as that energy, those molecules bump into other molecules around it and so on and so forth. And the other way to think about energy of entropy is
+
+22
+00:09:25,744 --> 00:09:44,944
+that it actually would take energy to reverse that. So if you wanted to take, for instance, all of the oxygen in a room and put it in one corner, that would take a lot of energy. Whenever I think of this, I think of, you can't help but think of...
+
+23
+00:09:45,264 --> 00:10:14,128
+Perpetual Motion Machines. That was a popular research topic. So I always think of that episode from The Simpsons where Homer yells at Lisa and says, Lisa, in this house we obey the laws of thermodynamics. So I would like you all to think of your body as such a house that obeys the laws of thermodynamics. Yeah, I mean, this is why Lavoisier said, he said metabolism
+
+24
+00:10:14,128 --> 00:10:33,520
+is therefore combustion. Because the same principles that we apply when we take a gram of carbohydrates into a measurement device, we'll talk about this in a second, and we set it on fire, all of the...
+
+25
+00:10:33,520 --> 00:10:52,176
+Work and Heat that we get out of it is the same amount that we can get out with our bodies. And that's what he discovered. And that's what was so powerful about all of these really, really old experiments that are still extremely relevant today. Like we cannot escape them. So when we think about efficiency,
+
+26
+00:10:52,368 --> 00:11:10,992
+There are the three types that you'll see in papers. We mentioned these briefly earlier. And we're only really going to talk about the first one since that's in the paper for this episode, but we're going to define the others really quickly. So gross efficiency is total work divided by work plus heat. Net efficiency...
+
+27
+00:11:10,992 --> 00:11:36,720
+is the same as gross efficiency except we subtract the quote-unquote base metabolism parts. So we're only looking at the exercise contribution because when you do exercise and you are looking at somebody's efficiency during exercise and you're not subtracting this component, you are also looking at all of the energy and the efficiency that it takes to also keep that person alive.
+
+28
+00:11:36,720 --> 00:12:05,344
+And then, of course, we have delta efficiency. And this means looking at the change in efficiency for the change in work rate because, yes, it's not static. And that's one of the reasons that I picked the paper that we're going to look at today because it looks at efficiency at a very specific point of human physiology. If we want to think about efficiency in action, let's make it really cogent for a second. If you're riding a trainer in a closed room,
+
+29
+00:12:05,344 --> 00:12:31,904
+and you perform work that uses ATP, this is going to generate heat. You are breathing in oxygen and then you are burning fats and carbohydrates and a little bit of protein and this creates heat. So as you breathe in oxygen to make more ATP, this chemical process can also generate heat. And if you watch the temperature graph,
+
+30
+00:12:31,904 --> 00:13:01,312
+On your ride files afterwards, sometimes you can see a really large increase in temperature if your room is closed off enough. I hope it's not, but if it is, we can see that you're almost making what's called a bomb calorimeter, which is where you enclose an entire thing, even if it's a cyclist on a stationary trainer, in a room, and then you can actually, to a decent degree, measure not only the work output that they put into the bike,
+
+31
+00:13:01,312 --> 00:13:29,584
+but also the heat that their body generates. We can't really do this in a room unless it's really closed off. I do not recommend this, by the way, if you want to experiment at home. You would also need multiple thermometers and all these other, yeah. Yeah, but that's also one of the ways that they conduct thermodynamic experiments in the lab is they put something in a very small container and if it's going to do no work and you just burn it all, you are going to measure the heat that it generates. So it's a very similar concept.
+
+32
+00:13:29,584 --> 00:13:59,520
+All right. So the first paper we're going to look at is by Horowitz, Sidosis, and Coyle. It's called High Efficiency of Type I Muscle Fibers Improves Performance. So if you look back at Wattstock number 11, FTP versus VO2 max, you'll recall a very similar experiment design that had Ed Coyle on as one of the authors. So in this experiment, they took 14 male cyclists, trained male cyclists, as a very homogenous group. It is 25 plus or minus one year old.
+
+33
+00:13:59,520 --> 00:14:22,640
+The whole group, 75 plus or minus 1 kilo. Wow. VO2 max, 5.2 plus or minus 0.11 liters per minute. They're all from central casting. They're just the same carbon cutout of this guy. Exactly, right? And even better, the VO2 at FTP, they had these athletes do a one-hour power test.
+
+34
+00:14:22,928 --> 00:14:50,128
+You know, we can assume that's a pretty good stand-in for FTP. Close enough for our purposes anyway to keep them all in the same range. They are 3.97 plus or minus 0.16 liters per minute at FTP. The range, the entire range is 4 to 5 liters. So they're really, really close, grouped very closely. And they all had a somewhat similar training history as well. And they divided these athletes into two groups.
+
+35
+00:14:50,160 --> 00:15:11,680
+according to whether they were above the median percentage of Type I fibers, which was 56%. So how they determined this is they got two to four biopsies gathered from the vastus lateralis in a couple spots to get a good sense of the fiber distribution because it can change by location.
+
+36
+00:15:11,680 --> 00:15:39,680
+Fiber type, if you remember from Wattstock number 12, this is washing the sample in acid and seeing how dark it turns, which means we're going to get a general sense of the ATPase in the cell. That's the part that splits the ATP. We'll talk about that in a little bit. Here, they really only divided into type I and type II. They didn't do any subdivisions of type II, like 2X. And the authors note, actually, because it's that most of the type II fibers...
+
+37
+00:15:39,680 --> 00:16:06,304
+had been converted to Type IIa. So there are very few actually Type IIx fibers. I think 2% was the most that they saw. So it's not a big contributor anyway. Very likely when you see this experiment, you're going to realize that they're not probably using them. So this is where the group is not homogenous. The range of Type I fibers is 38 to 83%.
+
+38
+00:16:06,304 --> 00:16:35,744
+It's a pretty big range. It is a very big range, which is great for the experiment. So if you recall in the last Watts doc about ramp tests and the right duration to find true VO2 max, they note that they made sure to do a 7 to 10 minute ramp tests on their athletes to determine VO2 max. So, great. Then they measured both the low lactate threshold, which they defined as 1 millimole over baseline,
+
+39
+00:16:35,744 --> 00:17:04,512
+just resting. And then they had everyone do a one hour max effort. So, bad FTP. And now let's get to the business end here. So they matched a subject from the percentage of high Type I fiber group to a subject from the normal percentage Type I group by their one hour VO2 requirements. Like, how much oxygen did they use to maintain that power for an hour on average?
+
+40
+00:17:04,512 --> 00:17:31,920
+and let's stick those two guys together. And they were all for the VO2 for an hour within 0.05 liters per minute of the other one. So less than a 1% difference in the oxygen used. Now in every single one of these matches, the high percentage Type I group put out more power for this hour. Now the range is
+
+41
+00:17:31,920 --> 00:17:58,624
+about 10 watts a minimum, but some nearly up to 40 watts, like high 30s. Average difference was about 20 to 30 watts. So that's saying that between two riders, even though they used very close to the same amount of oxygen, the person with more Type I fibers used that oxygen to
+
+42
+00:17:58,624 --> 00:18:28,208
+the same amount of oxygen to make more power or to do more work. Yeah, let's just look at subject pair one plus eight. Subject one had 83% Type I fibers. That's the highest in the study. Subject eight had 46% Type I fiber. And they were at 4.62 and 4.67 liters per minute of O2 uptake. And subject one put out 357 watts.
+
+43
+00:18:28,208 --> 00:18:52,896
+Subject 8 put out 335. It's a big difference. Yeah. It's a pretty big difference. Now, it's not huge. It's not like 100 watts, but there is definitely, you know, ask anybody out there if they want another 20 watts of FTP. Right, yeah. And those two individuals might be in the same race, in the same field, in the same category. Yeah, they very well may be. One of them is going to...
+
+44
+00:18:52,896 --> 00:19:22,352
+Potentially feel a lot fresher after a race than the other one. Yeah, for sure. Now we can find actually a decently linear relationship in this study if we look at both groups together. So what the authors did was they determined gross efficiency for these athletes. And what's funny about this paper is that they didn't tell you the calculation of gross efficiency. They just assume you know it. So we're going to tell you how it's done.
+
+45
+00:19:22,352 --> 00:19:50,800
+And this is where our thermodynamics are going to help us a little bit. So metabolism is obviously slow combustion of various substances and this produces CO2 and we breathe in oxygen and this combines with hydrogen to create water. And this always produces the same enthalpy. And by enthalpy, remember that we're talking about the sum of all heat plus all work.
+
+46
+00:19:50,800 --> 00:20:15,456
+Regardless of whether it's in the human body or in a bomb calorimeter. And even if we put a human in a bomb calorimeter and measure heat plus work, we get the same result. That's good. You'd like your physics to be consistent. Yes. Well, I like everything obeying the laws of thermodynamics in this house. Yeah. So what we can do is we can actually measure...
+
+47
+00:20:15,456 --> 00:20:45,296
+RER or RQ, Respiratory Exchange Ratio or Respiratory Quotient, which is the CO2 produced divided by the oxygen consumed. And we can look at a table really quickly because these calculations have been done and, you know, really well accepted over a long time and determine the kcal or kilojoules that we would expect to get out as total enthalpy. And so the reason that we want to look at
+
+48
+00:20:45,520 --> 00:21:07,472
+a table for RER is because RER at 0.7 is burning 100% fat, of course, and RER of 1.0 is burning 100% carbohydrates, and above that, still 100% carbohydrates. With this burning 100% either carbohydrates or fats, we are actually going to have a different enthalpy content.
+
+49
+00:21:07,472 --> 00:21:35,504
+Based on what we're burning, and of course the range in between. So if you want to look at it in terms of kcal per liter of O2, 100% carbohydrates is 5.045, something like that. And an RER of 0.70, we have kcal per liter of O2 being 4.6 or 4.7 or so.
+
+50
+00:21:35,696 --> 00:22:03,072
+And you may be confused because, you know, you might think, you know, doesn't fat have more potential energy in it? That's true, yes, per gram. Per gram. So if you want to look at it by weight, fat has about 9 kcal per gram and carbohydrate has about 4 kcal per gram. But that's only by weight. When we actually combust it and look at the energy that we can get out, the difference is actually not huge. Okay, so now that we got that.
+
+51
+00:22:03,072 --> 00:22:31,296
+Let's say everyone in this test had an RER of 0.95. It's unreported in this study, but it might even be a little high for well-trained cyclists, but it's a pretty good assumption to make. Cyclist number four with 76% Type I fiber, let's just take him for an example. So at RER of 0.95, he's burning 84% carbohydrates at a rate of 4.12 liters per minute.
+
+52
+00:22:31,296 --> 00:22:57,120
+So the calculation goes like this, 4.12 liters per minute times 20.86 kilojoules per liter, that's from the RER table, divided by 60. And this yields 1,432 joules per second, or 1,432 watts. Yikes. Per second. Well, yes.
+
+53
+00:22:57,120 --> 00:23:22,816
+Yeah, actual power output is 325 watts, or 325 joules. In other words, we can divide, you know, we can divide 325 divided by 1432, and we get 22.7% efficient at FTP. So this guy's actually fairly efficient. But it also means that he loses 1,107 watts as heat. Which is...
+
+54
+00:23:22,816 --> 00:23:51,568
+A really large number when you put it that way. Like, I don't think people often think about how much heat they dump to the environment when they exercise. But, you know, you think of 1100 watts as being like a pretty large number. Or, you know, I would assume that 1100 watts is a, you know, pretty average sprint. And, you know, you're losing a pretty average sprint.
+
+55
+00:23:51,568 --> 00:24:15,456
+Just to heat. Just to heat every second that you are doing 325 watts at a respiratory exchange ratio of 0.95. Of course, at an efficiency of 22.3%. So a range of typical gross efficiency seen in cyclists is usually 18 to 23%, but numbers higher or lower than that would honestly not be surprising.
+
+56
+00:24:15,456 --> 00:24:43,440
+So now, when we plot percentage of Type I fiber versus efficiency, the authors of this paper found a relationship R-squared is 0.7. It's not great, but... No, it's not great, but other papers have found R-squared of 0.8. And so it's obviously not the only thing that explains this difference, and that's one of the rabbit holes that we're going to have to...
+
+57
+00:24:43,440 --> 00:25:13,424
+Dig into in a future episode. But for now, you know, it is a pretty decent explanatory thing. So none of this is to say that you cannot be fast without a high percentage of Type I fibers. The highest power output for the hour for the entire group was 376 watts. And he had a very, just a slightly above average distribution of Type I fibers at 62%, the median being 56%.
+
+58
+00:25:13,424 --> 00:25:37,936
+But he was using five liters a minute of oxygen. That's a lot. That's a lot. And so the amount of oxygen that you can actually send into your body is going to be a better determinant of your performance than the efficiency of your Type I fibers. However, obviously, it is a complex interplay.
+
+59
+00:25:38,160 --> 00:26:07,888
+Well, so let's dig into this for a second though. What is the actual functional difference between the Type I and the Type II fibers that in the context that we see here is showing us a difference? One of the things, this is definitely not all of it, this is just the only one we're going to touch on right now, is that the slower contracting myosin units that we see in slow twitch fibers are a little more efficient than the ones that contract faster.
+
+60
+00:26:07,888 --> 00:26:37,040
+Now, obviously, this is not the only thing that makes these two things different, the Fasten the Soap Switch Fibers. At some point, we are actually going to go very, very, very far into the difference in efficiency, but it requires that I read a lot of papers in biophysics journals, and I have not quite gotten there yet, but that will probably be coming at some point or other.
+
+61
+00:26:37,360 --> 00:27:07,264
+So, how much of this efficiency difference is due to other fiber type specific characteristics? Very likely some. So, now we're going to move on to our second paper. And this one is titled, Muscle Fiber Recruitment and the Slow Component of O2 Uptake, Constant Work Rate Versus All-Out Sprint Exercise. Link in the show notes. So, this is what we've been getting to this entire time. We've been setting this up.
+
+62
+00:27:07,264 --> 00:27:36,112
+What they did was they took eight habitually active men and the training status is not important for this test and I'll tell you in a little bit what the difference would be if they used highly trained people as opposed to habitually active. So they had them do a three minute all out trial starting with a maximum sprint, those poor souls, and then a three minute constant work rate trial.
+
+63
+00:27:36,112 --> 00:28:05,040
+And yeah, so they used the critical power relationship to find this relationship, to find the actual three-minute constant work rate, and they pretty much nailed it, because if you look at the horizontal error bars for the three-minute constant work rate, it's very small, so it's like probably two minutes 50 to three minutes 10, 15, something like that for exhaustion for the participants, so they got it pretty good, because this is one of those
+
+64
+00:28:05,040 --> 00:28:28,048
+domains where critical power is valid. So they looked at EMG and VO2, so O2 uptake for both trials in all of the participants. And so for the three-minute constant work rate test at one minute in, VO2 was at about 80% of max.
+
+65
+00:28:28,272 --> 00:28:53,520
+It took about two minutes to reach about 90% of max, and they only got to 100% in the very last data point. During this time, the EMG signal got progressively more intense through the trial, and we'll talk about this in a second. In the three-minute all-out test, the error bars on the VO2 got to 100% VO2 max in about 50 seconds in.
+
+66
+00:28:53,520 --> 00:29:23,424
+and the average, the center point got to 100% of VO2 max at about 70 seconds in. That's much better, much quicker than the steady work rate. Yes, but I'm sure it hurt a lot more. Yeah. So the EMG signal actually looks like the inverse of the three minute constant work rate test because they did the sprint for three minutes. They started out at like 900 watts and by the end they were slogging at like 250. Air quotes around sprint. Yes.
+
+67
+00:29:23,424 --> 00:29:45,920
+Well, you know, for pretty untrained individuals, for habitually active people, it's actually pretty good. I was actually impressed by that. So the difference here, if we use trained cyclists in the study, is that you would see a faster initial ramping up of O2 uptake. So we would probably see maybe like a 10 or a...
+
+68
+00:29:45,920 --> 00:30:12,496
+10 or 15 second, maybe up to 20 second improvement in the O2 uptake kinetics. That's the speed at which it is climbing. All right, so what's all this got to do with fiber type? So the EMG data is the most interesting. And the way that EMG works is that they put electrodes on your skin, over your muscles, and we have this tacit assumption that what's happening on the surface level
+
+69
+00:30:12,496 --> 00:30:42,048
+Electrically with your muscles is about the same as what's happening inside the full muscle. It's not a great, you know, it's not a perfect assumption. Yeah, it's not a perfect assumption, but for our purposes, it's good enough. So now, before we get into the EMG data, really, we're going to talk about the size principle. Now, we're going to reintroduce it here. If you have not yet listened to Wattstock number nine, we really get into the size principle.
+
+70
+00:30:42,048 --> 00:31:11,408
+But today, we'll just do it real quick. So when you want to contract a muscle, your brain sends a signal, and the strength of that signal determines how many motor units contract, all or nothing. So a motor unit is a nerve and all of the muscle fibers that it attaches to. And when this nerve says go, all these muscle fibers contract, or they don't. But if the signal's strong enough, they will contract. And as the signal gets stronger,
+
+71
+00:31:11,824 --> 00:31:32,880
+You are going to use larger and larger motor units because they require a stronger signal to be activated. And these generally will also have an increase in twitch speed. And this is something else that we covered in Wattstock number nine. So this is the size principle in a nutshell.
+
+72
+00:31:32,880 --> 00:32:01,744
+When you need to have more force, or when you need to contract more quickly, you are going to use your larger motor units by sending a stronger signal. So, in the all-out effort, and you start with the sprint, you are starting out with a large force and velocity output, and you're going to recruit a lot of motor units. And so, like we see in the study, as you fatigue, the EMG signal decreases.
+
+73
+00:32:01,744 --> 00:32:30,272
+smaller and smaller and smaller motor units while you were at VO2 max. Which is kind of interesting considering in the previous episode we said that VO2 max was only valid when you were recruiting a lot of muscle. Well, that's in a RAM test. So the principle of the RAM test, in order to find whether or not you are actually using true VO2 max, your body's
+
+74
+00:32:30,272 --> 00:32:59,952
+Capacity to deliver oxygen, you have to use a lot of muscle mass. You're not going to get there by just hand cycling. You have to do leg cycling. And that, again, is another rabbit hole that we are going to cover in a future episode, a very soon episode. And so one of the things that we might actually find interesting to note here is that we actually did see all of these subjects use a large amount of muscle mass in the sprint test because they started with a large amount of muscle mass.
+
+75
+00:32:59,952 --> 00:33:29,248
+And that drove up demand for oxygen to get those fibers back to their normal resting place. And that's what was able to let them get to 100% VO2 max and stay there for basically two out of these three minutes. So in the constant work rate test, the EMG is actually climbing. And this means that you're not starting at maximal intent. So what's happening will sound familiar from previous episodes.
+
+76
+00:33:29,248 --> 00:33:58,352
+recruiting an initial batch of motor units to meet this force demand. And as they fatigue, you're going to recruit larger and larger motor units. And you can feel this by digging deep, you know, like you have to try harder and harder and harder to maintain that power output. This is what's happening. So what's also happening is that your muscles are getting less efficient and they're going to need more oxygen to do the same amount of work.
+
+77
+00:33:58,352 --> 00:34:26,896
+If we take one of those subjects from the previous study, and we had subject 8 match the power output of subject 1, subject 8 is at 335 watts, and we're going to ask them to do 357 watts. But while they're at these two power outputs, they're both at 4.62 and 4.67 liters of oxygen a minute. And if we need subject 8 to do 357 watts instead of 335,
+
+78
+00:34:26,896 --> 00:34:54,447
+He's going to be using more oxygen to do that because he's less efficient. To me, honestly, this is why the Size Principle is one of the most powerful explanatory tools that we have today in physiology. And I don't think enough people appreciate it except the listeners of the podcast who, when I speak to you, will bring up the Size Principle and I cannot even tell you how much it warms my heart.
+
+79
+00:34:54,447 --> 00:35:15,616
+Nerd! So, the EMG signal for the constant work rate at the end of the three minutes, by the way, didn't even come close to the level as the sprint did right at the start. It was like two-thirds or so. And so, you know, you might be wondering why those...
+
+80
+00:35:15,616 --> 00:35:41,328
+Sprint to Start and Hang On things kind of suck so much. It's partly because you just depleted your very large, very fast twitchy motor units that generate huge oxygen demand when they're empty and need to recover. Something interesting about this is if you watch a sprint race, like even like the 200 meter dash on the track, you'll watch them finish and it is like an all route, you know.
+
+81
+00:35:41,328 --> 00:36:10,912
+Pure Sprint Effort. And you will watch them stand over it like gasping for air at the end. Yeah. And it is because of this right here. It is because they've exhausted their, you know, mostly fast twitch fibers that are then depleted and need a lot of oxygen to very inefficiently recover. Yeah, definitely. And so the increase in VO2 that we see during the constant work rate test, not in the EMG, but the increase in the VO2,
+
+82
+00:36:10,912 --> 00:36:37,712
+that is explained by the increase in the EMG and recruiting larger motor units. This is called the VO2max slow component. And this is why there are a range of intensities of constant work rate that will elicit VO2max, not all of them. And we're going to, you know, throw in another monkey wrench here in a second. And there are also, by the way, other things that can elicit VO2max, like starting with an all-out sprint.
+
+83
+00:36:37,712 --> 00:37:05,776
+and we can manipulate other things to increase the oxygen demand but we're going to talk about that in a future episode. However, here's the monkey wrench is that not all intensities are going to bring up VO2 to max or even high enough to improve VO2 max. So just because the VO2 is rising
+
+84
+00:37:06,288 --> 00:37:33,296
+Doesn't mean it is the VO2 max slow component. This is just called the VO2 slow component. And as we ride and we fatigue, at some point we're going to have to stop before we can get to VO2 max. So the increase in VO2 happens, well you'll typically hear about it happening at intensities above
+
+85
+00:37:33,296 --> 00:38:00,624
+Critical Power, or Above FTP, or Above MLSS, or the Second Lactate Threshold, or however you want to define that point. We all know what we mean. But the fact is that this thing happens at other work rates and intensities, lower. So if we look at FTP, we look at somebody riding for an hour at FTP, we can see VO2.
+
+86
+00:38:00,624 --> 00:38:28,224
+Increase Substantially. And this does not mean that you are over FTP. This actually shows us that when people think the body's metabolic state is constant during exercise, it rarely is, if ever. So heart rate decoupling can clue us into this happening, but it's only a clue since so many other things can affect heart rate.
+
+87
+00:38:28,224 --> 00:38:52,720
+And I have a study in mind to go into this, but we're actually going to talk about an almost entirely different subject, but a related subject when we get to that. But while it's on our minds, let's look at a couple numbers for this anyway. So we have a group of 10 well-trained cyclists, and we're looking at average lactate remains between 4.
+
+88
+00:38:52,720 --> 00:39:15,040
+3 and 4.7 millimoles for the whole test, although for the most part it stays around 4.3, so about what we would expect. And we are looking at the VO2 in terms of per kilogram. So we start out at 71.3, so these are fairly well-trained folks.
+
+89
+00:39:15,040 --> 00:39:44,848
+at minute 5 and at minute 60 of riding at MLSS, Maximal Lactate Steady State, they have hit 79.3 average, plus or minus 1.4. So a substantial... It's a lot. Yeah. It's a very substantial increase in oxygen uptake. You know, there's other things that can affect heart rate, by the way, as well, and O2 increase, sometimes as reflected by heart rate, because, you know, if somebody's not well recovered, you know, you'll just see heart rate just run away.
+
+90
+00:39:44,848 --> 00:40:08,288
+at an intensity where you think it's going to increase gradually. And this is one of the reasons that can happen because your muscle fibers are pretty depleted and they're right there at the fatigue state as you start. They're unhappy. They're very unhappy. Go eat some ice cream. And of course, you know, athletes will give subjective feedback to the same effect, you know.
+
+91
+00:40:08,288 --> 00:40:37,312
+going, I'm not feeling great today, or I just didn't have it, something like that. Pedaling squares, whatever, yeah. Yeah. And a lot of the time, they'll get through the workout, but you see that heart rate and you go, how are you feeling? Yeah. Now, the other thing here is that this means somebody's notion of what defines what's aerobic and what's not aerobic can sometimes get messed up.
+
+92
+00:40:37,312 --> 00:41:06,672
+by seeing data that shows that the body is not static when one thing is held static. So if you're looking at the maximal lactate steady state, lactate is approximately being held static, but other things are changing during that time. And so if you think your heart rate going up means you're quote-unquote going anaerobic, this is
+
+93
+00:41:06,672 --> 00:41:34,208
+Completely false. It's most likely that you are just recruiting and using your larger and less efficient motor units, which need more oxygen to do the exact same amount of work. And by the way, we can change over the long term our muscle fiber type by doing work that requires these sorts of things. So if, you know, to a genetic degree, of course, I'm sure everybody has a ceiling somewhere with how much type I fiber they can develop.
+
+94
+00:41:34,208 --> 00:42:01,664
+I would say that if you're shying away from letting your heart rate drift but you're still feeling like you're working in the right spot, keep at it. You are getting into motor units that probably need the training because if they're not being recruited, they're not being used. Yeah. That's a good point. I think that's something that people always talk about. Oh, what's your heart rate?
+
+95
+00:42:01,664 --> 00:42:28,368
+for this certain intensity and things like that. And this sort of goes to show that that may not be always true all the time. Yeah, for sure. That your heart rate is going to be the determining factor for how hard you're actually working. Right. And the thing is that, you know, I've seen a lot that you should, you know, pace things by heart rate. And actually, there was a question on
+
+96
+00:42:28,368 --> 00:42:57,024
+How should I pace my endurance rides? Should I pace them by heart rate? Because I've been prescribing them to people by, you know, the short ones we'll do by power, but the longer ones almost always by perceived exertion. And we talked about that. Yeah, we did talk about that. We did a whole episode on it. You know, the genesis of that episode was somebody asking me, hey, so this is hearsay, by the way, hey, Stephen Seiler said that you should
+
+97
+00:42:57,024 --> 00:43:19,552
+Ride to Heart Rate, because if it starts drifting too high, you're not working aerobically anymore. And I'm like, you know, you're always working aerobically under FTP. Like, it's, you know, your heart rate doesn't tell you that, you know, drifting heart rate going up, it could mean, you know, it could mean you're too hot.
+
+98
+00:43:19,552 --> 00:43:48,560
+It could mean that you are dehydrating. It could mean that you are behind on sleep. It could mean a lot of things. But if you're 100% otherwise, it probably means that you are getting into some of those larger motor units. And we can see this even on endurance rides. So that's one of the reasons that it's one of those other complicating factors where hopefully your preconceived notions are a little bit screwed up. And if this doesn't screw up your preconceived notions, I think that's great.
+
+99
+00:43:48,560 --> 00:44:15,152
+We're on the same page here. Yeah, and I think that this whole series of episodes is going into this deeper well of people kind of have this idea of what VO2 is and what VO2 max is and what it means and it turns out that's not very clear. No, I mean, because a lot of the metrics that we have now to measure cycling performance are a lot like histochemical staining. You know, it's...
+
+100
+00:44:15,152 --> 00:44:34,864
+It requires a certain degree of interpretation. And when we really start digging into it, I mean, there's like what, 10 or 15 different fyrotypes that we've found genetically. Not all of them are actually expressed in people. What do we have, like eight or 10 maybe? This is obviously something where I should have done some research first.
+
+101
+00:44:34,864 --> 00:45:02,944
+So don't quote me on this, but it's, yeah, it's more than just a couple types, and, you know, this is why we have subtypes of Type I fibers. We have Type Ia, Type Ib, and Type Ic, and stuff like that. And, you know, and we can characterize them based on different characteristics they have. And we can't see that with a heart rate monitor. We cannot see that with a power meter. You know, we still have pretty crude tools.
+
+102
+00:45:02,944 --> 00:45:31,616
+When it comes to what's going on, we can't just ride in a bomb calorimeter and always know our total heat enthalpy and everything like that. That would actually be interesting if you could ride and see a larger increase in body temperature or heat output of your body as you got to those less efficient... Well, I think a lot of people...
+
+103
+00:45:31,616 --> 00:45:48,752
+Get Pretty Flush and stuff like that. I'm sure a lot of people have felt it. I mean, I certainly have. I used to do, you know, 17, 20-hour weeks on the trainer in the winter and got a little toasty in there. Yeah, I think that's that kind of, it makes sense too why.
+
+104
+00:45:48,784 --> 00:46:15,792
+It got called the slow component of VO2 because you see it only after sort of longer intensities. It may not be the same length of intensity every time that this slow component kicks in, and it certainly isn't because it's intensity driven to a certain extent, but it's there like lurking behind when you're doing your aerobic work. Yeah, for sure. And this is one of the things that we're going to consider.
+
+105
+00:46:15,792 --> 00:46:36,576
+in one of the next couple episodes where we talk about training VO2 Max. And yeah, so that's the VO2 slow component. And, you know, the real lesson is you've got to work hard enough for it to get there. All right, I think that is going to be a wrap for today then.
+
+106
+00:46:36,576 --> 00:46:55,632
+If you're enjoying this series on VO2Max, please tell a friend, share the podcast, and also go into iTunes and give us a nice rating or a review. If you are so inclined, we would appreciate that a lot. We would also appreciate donations because we are ad-free. So you can do that at empiricalcycling.com slash donate.
+
+107
+00:46:55,632 --> 00:47:13,872
+And if you have any questions or comments or coaching and consultation inquiries, you can please send an email to empiricalcycling at gmail.com. And we also have all of these show notes up on the website, empiricalcycling.com, as always. And with that. All right. Thanks, everyone. All right. Thanks, everybody.
+

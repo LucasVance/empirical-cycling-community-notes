@@ -1,0 +1,386 @@
+WEBVTT
+
+00:00:00.720 --> 00:00:30.320
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by Kyle Helson, and I want to thank everybody for listening, and please subscribe to the podcast if you haven't. I assume you have, so if you'd like to support the show. Otherwise, you can share the podcast with your friends on forums, etc., etc. iTunes ratings and ratings wherever you listen to podcasts are always great, especially five stars. Ad-free podcasts also, so don't forget about that. We are not beholden to anybody except making you faster, so you can support the show financially if you'd like to do so at empiricalcycling.com slash donate.
+
+00:00:30.320 --> 00:00:54.528
+We have these show notes up on the website for this episode. We have some merch at empiricalcyclingpodcast.threadless.com. And if you have any coaching consultation inquiries, questions, and comments, you can email me directly at empiricalcyclingatgmail.com. Also on Instagram, we have some weekend AMAs in the Instagram stories, and I swear, technically, they are still going up on the weekends. I think Sunday night counts, so give me a follow if you want to participate in that, or you can just watch and read and hang out.
+
+00:00:54.528 --> 00:01:22.768
+That was the middle of the day in Hawaii or something, right? Yeah, it's, you know, it's the weekend somewhere. So also, if you want to check out my interview on Scientific Triathlon, Michael invited me on, and that was pretty fun. So we've got the link to that in show notes. It's episode number 271. And also, you know, that's probably one of the very few podcasts that I really enjoy listening to on training in science and physiology and whatnot. So check that out. All right, so Kyle, today we are going to...
+
+00:01:22.768 --> 00:01:50.192
+Be starting to get ourselves in hot water. Because a lot of people have strong opinions on this. And this thing is, of course, carbohydrates and carbohydrate metabolism. And so between this show and the next few shows, we're going to get onto some topics that I think may or may not upset some folks. And I just, well, I know that this is something where I know a lot of people have strong opinions. And so when we...
+
+00:01:50.192 --> 00:02:18.688
+Critique the Ketogenic Diet in a couple episodes. Your favorite diet. Come on. It's your favorite. Admit it. It's my favorite thing to annoy me, sure. But I know that it's going to raise some hackles on some folks. And so I want everybody to know that we do this with love. And if we're wrong, then that's cool, too. So what's your perspective on how people think about...
+
+00:02:18.688 --> 00:02:48.448
+Carbohydrates and Carbohydrate Metabolism specifically, like how we burn them and why we burn them and what we see these days in relation to that. Yeah. So putting aside the talk about keto and things like that for a moment, I think generally people believe that carbohydrates, your body generally needs carbohydrates to live, certain medical conditions notwithstanding, and that
+
+00:02:48.448 --> 00:03:16.496
+People think, oh, you burn carbohydrates, which maybe comes from this idea that carbohydrates are sugars or they're like any other carbon and oxygen type molecule and they can undergo oxidation and generate fuel, not unlike a fire or something like that. But then a lot of times people like to talk about how carbs are used for more high intensity workouts or sprints or things like that.
+
+00:03:16.496 --> 00:03:46.352
+Fat metabolism is your long, slow distance, that sort of classic picture of, you know, sprinting or high, you know, faster workouts requiring more carbs and longer, slower workouts requiring fats. And then I think for carb metabolism, also, there's some kind of knowledge that, oh, hey, after a workout, I should intake protein and carbs. And people like to talk about maybe, oh, what ratio, but they know that after a workout, you need carbs, right? Because presumably you were burning them. Presumably, yeah.
+
+00:03:46.352 --> 00:04:05.248
+Oh yeah. And especially on the carbs and fat thing, one of the things that I've noticed people are actually a little surprised about is that they're burning carbohydrates at rest a lot of the time. And the way we know this is that we have lactate in the blood. And so we're going to be getting to lactate today. And we've actually talked about carbohydrate metabolism previously.
+
+00:04:05.248 --> 00:04:35.184
+a little bit, but only in a very, very general sense. And if you've listened to the last two podcasts, you know that today we are going to get into the actual biochemical mechanism of carbohydrate oxidation. And we're going to take it all the way down to pyruvate. And I forget, I think we're going to maybe hint at the next step and that'll be the next episode. And we're going to tie it all into what is aerobic and stuff like that. So hopefully between the last two episodes, this episode and the next episode,
+
+00:04:35.184 --> 00:05:04.448
+everybody comes away with a fairly complete picture of exercise metabolism and then we're going to start getting into when you burn carbs, why you burn carbs and actually there are some interesting papers coming out these days on other reasons that you might burn carbohydrates and we may or may not get into that kind of stuff but it's fascinating so there are a lot of reasons to burn carbohydrates more than just you need energy. Well, another thing too I think and we've mentioned this before too like your brain actually
+
+00:05:04.448 --> 00:05:33.824
+prefers glucose all the time. So you've, plenty of people have had that feeling where if you haven't eaten enough in a day or whatever, like you feel really mentally foggy. Yeah. Brain fog, fatigue, you need to nap all the time. Yeah. Yeah. And part of that's because your brain's like, hey, idiot. Glucose is the preferred fuel source for your brain and your body will try to get you around that as much as you can. But like there, you can only do so far before you're
+
+00:05:33.824 --> 00:06:02.688
+Your brain's pretty upset at you. Yeah, and also a lot of the time, stuff like that can also hint at low protein intake too because even if you have enough carbs, you know, if you're missing some essential amino acids, you know, your body's going to be like, uh-oh, we're actually low on this kind of thing and these processes have to stop. So that may be the thing too. I'm not an expert on that specifically. So we are actually going to have a nutritionist in the future, hopefully. So, and a really, really good one.
+
+00:06:02.688 --> 00:06:23.840
+Look forward to that. So like I said, today we're going to go over the basics of glycolysis. And we'll probably touch on some regulation, because regulation in this is actually a very crucial component to understanding metabolism as a whole and generating a really good picture of it.
+
+00:06:23.840 --> 00:06:53.616
+Observations that we have fit with some of the data that we have instead of making the data fit our observations. Hey, but that one's so much more fun. Just doing a little massaging here and there and I can confirm anything. All right, so what is glycolysis? Glycolysis comes from the Greek word glycos, meaning sweet, and lysis, meaning split. So glycolysis quite literally means sugar splitting.
+
+00:06:53.616 --> 00:07:20.608
+Glycolysis in our muscles starts with glucose, and this can either come from the blood or from glycogen stores in the muscle. And it's a pathway that begins the degradation of carbohydrates to yield energy in various ways. Not just one way, this can actually end a couple ways. So why do we need this? It's actually not great, like we actually have a hard time storing ATP in cells.
+
+00:07:20.608 --> 00:07:47.568
+or we would probably have gigantic ATP stores instead of carbohydrates and fats and pools of metabolic intermediates. Which having those around actually is kind of like having your paperwork pre-filled in, you know what I mean? So you can just sign it and then, okay, here, it's done. It's like bike reg. We already got the waiver. Yeah. Yeah, exactly. You just show up and you just sign your signature and get your number and get out of there.
+
+00:07:47.568 --> 00:08:15.024
+So there are also a lot of branches off the main metabolic pathways. And so if we just had a lot of ATP lying around, we also couldn't fill in those side pathways. So for instance, if you need some flux into like the five carbon pathway, which runs off glycolysis, you can be like, hey, we need some flux into this. And it's like, oh, sorry, all we have is ATP. You know, it's like, I need this tool, except all I have is money.
+
+00:08:15.024 --> 00:08:40.352
+You know, you can't hammer in a nail with money. We don't take shrook bucks here, only Stanley Nichols. Yeah, no Dogecoins either. So it's also energetically intensive to maintain a chemical reaction away from equilibrium like ATP. So I would refer you to 10-minute tips number six, but the TLDR on that is that ATP itself
+
+00:08:40.352 --> 00:09:07.344
+doesn't actually have the quote-unquote high energy in the bonds, although it kind of does, but not really. ATP breakdown to ADP and then AMP is held actually orders of magnitude away from equilibrium, and that's where it really gets its energy, and we're going to talk more about equilibrium in a bit. So glycolysis is also catalyzed by enzymes. We've talked about enzymes before, but if you're new to the podcast, here's a quick review.
+
+00:09:07.344 --> 00:09:35.456
+Enzymes lower the energy required to make a reaction happen. And these are reactions that would happen naturally anyway, asterisk. So we'll get to that asterisk in a little bit because glycolysis actually has one of these reactions that wouldn't happen except for some other thing being coupled to it. So we'll talk about that. So chemicals in the cell have various amounts of energy as they bounce around. So we can think of them like puddles of stuff.
+
+00:09:35.456 --> 00:10:05.200
+and a hill in between them. And with a normal energy distribution in the puddle, a certain percentage will have the energy to get knocked over the hill by the other stuff bouncing around, and this will make it go over the hill and become the product, which has a level about equal or lower, if we want to think about it in terms of height of a hill and ponds on each side of the hill. And what an enzyme does is it lowers the height of the hill. Does that kind of make sense, Kyle? Yeah. I think that's a good sort of classic.
+
+00:10:05.200 --> 00:10:34.752
+Description of how an enzyme works, or the effect of an enzyme, rather. And side note, enzymes typically end in A-S-E, like ACE, lactase, things like that. That's a good way you can identify whether something is an enzyme or whether it's actually a reagent in the reaction. Yeah, and sugars, by the way, also end in dash O-S-E, so fructose, glucose, manose. All right, so an enzyme,
+
+00:10:34.752 --> 00:10:54.784
+can catalyze, or a lot of enzymes can catalyze both forward and backward reactions. Not a lot, but glycolysis is actually a really good tool for learning these kinds of things because it has both. It has both reactions that are at equilibrium. They go both forward and backward between these two pools. So as you can imagine...
+
+00:10:54.784 --> 00:11:17.984
+Things being getting kicked over the hill in both directions from the pool, that happens. But it also has things where it is one way only because the hill is too high to get up if you try to go the reverse direction. And also, another thing that can hold up something like this, like a pathway, a metabolic pathway, is that some enzymes operate faster than others. And the slowest ones can hold up the traffic.
+
+00:11:17.984 --> 00:11:47.568
+literally hold up the traffic. And so the reactions they catalyze are actually known as rate-limiting steps, and glycolysis has a bunch of these too. So for instance, an unregulated enzyme is something like LDH, lactate dehydrogenase, which we've talked about at length before. And so when these enzymes are at equilibrium, the forward reaction rate and the reverse reaction rate are approximately equal, but this does not mean that the two sides of the reaction have equal numbers of products and reactants.
+
+00:11:47.568 --> 00:12:12.208
+The reaction between LDH, between lactate and pyruvate, is 10 to 1 in favor of lactate at rest and 100 to 1 during exercise. And that's actually different, you know, for kind of like you said, like what equilibrium state is different for every sort of every reaction that you have. So, you know, you'll find all of these different steps may have different equilibrium.
+
+00:12:12.560 --> 00:12:37.216
+Yeah, equilibrium constant is how we usually look at it. So K being the constant equals the products divided by the reactants. And so K of one is an equal number of products to reactants at equilibrium. And, you know, generally speaking, it will probably not go to like infinity or B zero or anything like that. So what this means with the pools analogy, again, for
+
+00:12:37.216 --> 00:13:04.624
+for this forward and backward reaction thing is that it means we can have two very different sized pools but the height of the hill can be equal between them with things flowing over in both directions. So like I said though in an irreversible reaction the height of the hill on one side is way too great for anything to be randomly kicked up by the lower pool and these can also be a very different sizes as well but sometimes the size of the pool is dictated by other things by other regulatory mechanisms so then we can think about like
+
+00:13:04.624 --> 00:13:32.192
+Gatekeeper's not letting some stuff through or sometimes letting a lot of stuff through. So there's a lot of ways we could probably extend that analogy, but I'm feeling it's probably overextended at this point anyway. So one more thing to note about sugars before we look at this pathway specifically is that five and six carbon sugars like glucose and ribose, glucose is a six carbon sugar, ribose is a five carbon sugar. They do what's called an isomerization.
+
+00:13:32.192 --> 00:14:00.912
+And so there's a reaction where the oxygen, you know, that pesky, stupid oxygen, as always, on one end of the chain, which is an alcohol, attacks the carbon on an aldehyde on the other end of the chain. And fun fact, because that carbon has more bonds to oxygen. So we're going to talk about this in a little bit. Actually, we kind of went through that in the last episode, too, talking about the number of bonds between carbon and oxygen.
+
+00:14:00.912 --> 00:14:29.152
+Things get oxidized. So what happens is the oxygen actually draws away the electron cloud because the oxygen wants these electrons so badly that it's going to have a slight pull. And so this means that the negative electron cloud gets pulled away from the carbon atom enough that it's really, really tempting for the alcoholic oxygen on the other end of the sugar to go, hey.
+
+00:14:29.152 --> 00:14:59.056
+I'm very negative and that's some positive stuff over there. Why don't we link up for a little bit? And so that's where we get sugars flipping back and forth between a ring form and a straight chain form, which is why you see sugars sometimes drawn both as straight chain and as rings. And so in something like glycogen, everything is in a ring form and it makes it easier to store than if it was in the extended form, which would, you know,
+
+00:14:59.056 --> 00:15:22.400
+might be possible too, but, you know, I just don't think we see it, so, um, so that's one of the cool things, and then, you know, eventually, um, if it's just sitting in solution, it'll, I saw Mars like that, but otherwise, if it needs, has a specific need, it'll be actually be in a, a obligate ring form or, or a straight form, so that's why you see them written both ways. And if you look up,
+
+00:15:22.400 --> 00:15:51.680
+these various sugars online. You'll look for some of these molecule diagrams. You'll see a lot of times they will actually draw out like glucose or fructose or whatever in both and you can actually look at the information. Yeah, exactly. Yeah. And I think it's also interesting to think about chemicals in general like this because I know a lot of people, myself included, you know, do think and I used to think about chemicals as being very static things but it turns out that they're very dynamic. There's a lot of energy in a molecule.
+
+00:15:51.680 --> 00:16:21.136
+and like in a straight chain sugar, like that aldehyde, that less carbon, that aldehyde is spinning on that carbon. It's not like standing still. It's whirring like a jet or, you know, so I'm told by my chemistry professors who know a lot more than I do about this kind of stuff. And so the molecules are not in a static position. So when it comes to that kind of thing, it's very interesting to think about how they can bend and form shape.
+
+00:16:21.136 --> 00:16:50.416
+So this actually, this thing between, you know, an electronegative oxygen or an electronegative something and something like a somewhat positively charged carbon because an oxygen is drawing away the electron cloud, this is actually most or all of organic chemistry. It's just this. It's electrons being attracted by slightly positively charged atoms and then chaos ensues and it's great and then we have life. So how cool is that?
+
+00:16:50.416 --> 00:17:17.328
+You can spend many semesters in school learning about this if you'd like. Yes, many, many. I had two and that's enough for just about anybody, I think. Unless you want to do this kind of stuff. I know organic chemists and they're actually very cool people. So another cool thing actually about sugars is that when you have an aldehyde on a sugar, in terms of being oxidized, it's actually between an alcohol and a carboxylic acid.
+
+00:17:17.328 --> 00:17:45.232
+It's a bond to a carbon chain on one of this, so if we look at the last carbon, the aldehyde carbon on a sugar, one bond of its four bonds goes to a carbon chain, two bonds are going to one oxygen atom, and then one bond is going to a hydrogen, as opposed to an alcohol, which has two hydrogens to an oxygen, that oxygen has a hydrogen on the other side, and a carboxylic acid where carbon is bonded to
+
+00:17:45.232 --> 00:18:11.632
+double bond to one oxygen and a single bond to another, and then its fourth bond is going to the carbon chain. So like last episode, we talked about developing these bonds of oxygen to carbon, and eventually we end up with CO2. And this is the process of oxidation, and life has figured out a way to actually extract energy out of the entire process, which is actually really, really, really cool.
+
+00:18:11.984 --> 00:18:37.920
+So now that we know about enzymes and sugars and structures and things like that, now we can take a look at the pathway of glycolysis very specifically. And this, believe it or not, is not getting into technical details. If you look in a biochemistry textbook, you're going to see mechanisms for most of the enzymes. You're going to see very interesting names, and you're going to see families of enzymes between other living organisms.
+
+00:18:37.920 --> 00:19:02.080
+And it's very, very detailed. And so this is going to be the very, very basic process. And we're going to talk about enzymes when we have to, but we're, for the most part, we're going to try to leave all the technical terminology out of it. And we're just going to talk about the fun stuff. As long as, you know, anybody... For some definition of fun, yeah. Some definition of fun. Type II fun. For me, this is type I.
+
+00:19:02.080 --> 00:19:31.792
+I need to make the same warning with this that I did before we got into fat oxidation. Fat oxidation actually has less than half the steps than this. This has a little more than twice as many steps. So if your brain glazes over with this, that's okay. I understand that my voice isn't that dynamic and there's nothing in front of you. Although if you check out the show notes on empiricalcycling.com, I've actually posted a diagram.
+
+00:19:31.792 --> 00:19:59.328
+of glycolysis. So you can follow along with that if you want. If you don't have that in front of you, that's cool. Stay tuned because there's going to be more stuff after we get through this. So the first thing we do is we start with a glucose. Glucose is a six-carbon chain or ring. And the first thing we do is split an ATP and put a phosphate on the end of this, specifically carbon six. So this is the carbon that's farthest from the aldehyde.
+
+00:19:59.328 --> 00:20:26.544
+Yeah. And so if you remember in the fat oxidation episode, Wattstock 29, we had to make an activating bond, which is probably a terrible way to describe it technically speaking, but it's close enough for now. And so this is part of what's known as the energy investment phase of glycolysis, because we're supposed to net ATP out of this, right? So like we're down one right off the bat. So right now, so far in glycolysis, we are at negative one ATP.
+
+00:20:26.544 --> 00:20:55.024
+Nice. We're starting off in debt. It takes money to make money? You know, that's actually not a bad way to put it. Well, okay, so next thing we're going to do is we're going to isomerize glucose defructose. And an isomer just means that they have the same number of atoms and they're put together a little different way. So we're going to see why this happens in a couple steps. Basically what we're doing...
+
+00:20:55.024 --> 00:21:16.912
+is we're going to make a ring between carbons 5 and 1 turn into a ring between carbons 5 and 2. So instead of a 6-membered ring, fructose becomes a 5-membered ring. So the oxygen is going to attack a different carbon after this isomerizes. So what does the ring look like now?
+
+00:21:16.944 --> 00:21:43.616
+Typically, oxygen gets put at the top of the ring, so a five-membered ring, like fructose, oxygen is at the top, and then connecting down to oxygen are two more carbons, and connecting up from those are two carbons that don't go anywhere than the other carbons of the ring. So that's what it looks like. If you look at the structure, you can kind of see what's going to happen now, because now we are going to
+
+00:21:43.616 --> 00:22:08.448
+Make another activating bond. Because now that we've got fructose, you know, if you look at the structure of the fructose with just one phosphate on it, you can see it's ripe for another phosphate, which is kind of cool. So we're going to use another ATP. So now we're at negative two ATP already. Like, this better return on the investment, you know?
+
+00:22:08.448 --> 00:22:36.672
+Buy High, Sell Low. Wait a minute. No, that's not right. Stonks. Yeah. But a big reason that glucose needed to be converted to fructose is that fructose, instead of having an aldehyde on carbon one, has a ketone on carbon two. So if we remember what a ketone is, it's carbon with two bonds, and then the other two bonds of that carbon go to two other carbons.
+
+00:22:36.672 --> 00:23:03.936
+And what this allows is a really fun reaction to occur that would be difficult to otherwise occur. If we had an aldehyde in carbon 1 instead of a ketone in carbon 2, this would be very difficult. So if we look down what's happening, carbon 2 now is a ketone, carbon 3 is an alcohol. And together, this is what's known as a functional group. So a functional group is a moiety.
+
+00:23:03.936 --> 00:23:33.168
+or a chemical pattern, I guess we could say, that has certain predictable chemical behaviors. And this one is known as an aldol. And this is why the enzyme in this step is called, Kyle, can you guess it? Based on what we talked about? Aldolace! You nailed it! 100%. Way to go. You get some stonks. Aldolace splits the fructose chain right in half, right past the aldol, between carbons 3 and 4.
+
+00:23:33.264 --> 00:24:02.352
+And so what we're left with now is two molecules that are almost the same and actually will be shortly. So one of them is going to isomerize so that we actually end up with two identical things. So they're going to both end up as a chemical called glyceraldehyde-3-phosphate. And so we remember glycerol from fats. It's just three-carbon chain with an alcohol on each carbon. So now if we have glyceraldehyde-3-phosphate, so we've got...
+
+00:24:02.352 --> 00:24:31.328
+Yeah, so we've got an aldehyde on the first carbon, and we've got a phosphate on the last carbon, on carbon-3, so voila, nice and easy. And we end up with two of them after everything is finished, and they are, for all intents and purposes, interchangeable. And so, thus concludes the energy investment phase of glycolysis. So that wasn't so bad, was it? Yeah. And actually, if you do remember back to the fat metabolism that we talked about, this is not that...
+
+00:24:31.328 --> 00:24:59.824
+Dissimilar from starting at one end of the chain and working your way down and utilizing reactions that we'll call easy, put air quotes around easy, that make it easier to break down a more complex molecule into a simpler set of molecules. All right. So what we've actually gone through so far is five reactions. And this brings us halfway through glycolysis. So see, it's not so bad after all.
+
+00:24:59.824 --> 00:25:28.832
+So now why do we bother doing this in the first place if it starts by costing us energy? And the answer is, of course, because we get more energy out on the other end. So when we get to this step of splitting our form of glucose into two, because now we have two molecules of what's typically called just written as GAP or glyceraldehyde 3-phosphate, we are almost at our very first actually high energy intermediate. So let's talk about this a little bit.
+
+00:25:28.832 --> 00:25:54.384
+It turns out that there are things in the cell that have more energy than ATP. Because, of course, otherwise, how would you regenerate ATP? Right. It would be the most expensive and it would be sort of the peak of the chain and everything would just fall down from there. Yeah, exactly. And you would have to just get ATP from whatever else out there had enough energy to make it.
+
+00:25:54.384 --> 00:26:17.744
+How do we get to this thing? Well, we're going to start with GAP, glyceraldehyde-3-phosphate, and we're going to take an NAD+, so nicotinamide adenine dinucleotide, as we've talked about a couple times before, and we're also going to take a free phosphate ion. So NAD snags a hydrogen off the aldehyde and replaces it with a phosphate, and this creates 1,3-bisphosphoglycerate.
+
+00:26:17.744 --> 00:26:47.568
+and so don't let the name scare you because remember glycerol for the thousandth time now three carbons has an alcohol in each carbon this is very similar except on both ends we have a phosphate single bonded to each end carbon and so 1,3-bisphosphoglycerate is formed through an aldehyde oxidation and it leads us to what's known as an acyl phosphate which has a higher free energy delta G not prime for you nerds that
+
+00:26:47.568 --> 00:27:15.856
+than ATP splitting into AMP. So this is actually negative 49.4 kilojoules as opposed to ATP's negative 45.6 from splitting ATP to AMP. Side note, yes, these numbers of energy always come out negative. Sorry, it's confusing. Everyone hates it, yes. But more negative in this case is actually more...
+
+00:27:15.888 --> 00:27:41.696
+We'll say usable energy. And even though it seems kind of strange to have negative. Well, if we're looking at it in terms of what are we doing in the reaction, if we have positive energy, then we need to add energy into the reaction. If we have negative energy, we get energy out of the reaction. So that's the way I look at it anyway. All right. So now, but first we need to get there. We need to get to this.
+
+00:27:41.696 --> 00:28:10.896
+1,3-bisphosphoglycerate. So how do we get there? How do we make this acyl phosphate? Well, we're going to actually couple it with the next reaction. So this is what I was talking about earlier, where some reactions wouldn't actually happen unless you add it to something that would happen. So GAP going, so glyceraldehyde-3-phosphate becoming 1,3-bisphosphoglycerate actually nets plus 6.7 kilojoules per mole.
+
+00:28:10.896 --> 00:28:39.056
+So it's going to take energy to get there, right? However, 1,3-bisphosphoglycerate transferring a phosphate to an ADP to generate ATP nets negative 18.8 kilojoules per mole. And so I let the calculator do this before the show, so this math is right finally. We sum this up, it is negative 12.1 kilojoules per mole. My textbook also backs me up on that, so our math is correct this time.
+
+00:28:39.056 --> 00:29:01.808
+or my math is anyway. So this is what's called a coupled reaction and this could be used to actually drive reactions forward that would not happen spontaneously. So Kyle, give me some thoughts on the energetics of this kind of stuff. Yeah, so the, I think the thing is like you said earlier, if you have like some reactions, lots of reactions are possible.
+
+00:29:01.808 --> 00:29:29.664
+but whether or not they happen spontaneously or even whether they happen in the presence of a catalyst depends a lot on this sort of net energy transfer and you can in some certain situations like this go through an intermediate step that actually requires the input of energy but that's only because you are guaranteed a net gain in free energy at the end.
+
+00:29:29.664 --> 00:29:53.648
+Obviously if you were just losing energy actively making certain molecules in your cells like you wouldn't be able to do anything and you just sit there on the couch like actively making these molecules and not doing anything with them as you ate but instead you because the net balance of energy is positive as well it's negative in the sense but it's
+
+00:29:53.648 --> 00:30:21.984
+a positive return on energy. The whole reaction chain can proceed, even if you just, even though when you zoom in on this one area, it seems like, oh, that's a net cost of energy. You have to look at the whole net energetics from start to finish. And can I confess to you that this has always driven me nuts? Because, you know, part of me is like, how does it know that it's going to make that down the other? It's sort of like, you have to take a leap of faith. If you're like,
+
+00:30:21.984 --> 00:30:46.208
+No, there's no analogy to this. I can't think of an analogy. Because it's... Because an unfavorable reaction proceeds because the next reaction is favorable. It's so weird. Yeah. Like the... Like... You... So you have a... You're like borrowing. It's like borrowing a loan. It's taking a loan out on energy, basically, to get...
+
+00:30:46.208 --> 00:31:14.848
+to get a net positive return later on. And so it's sort of borrowing energy from, you know, the ether and then returning it later when you end up with a net positive. And like you said, that probably would not happen if you just isolated these two reactions in a, if you like separated them, right? Like if you were immediately taking that, the
+
+00:31:14.848 --> 00:31:33.200
+GAP and isolating it and then extracting all of the 1,3 BPG as it was produced, well, then no, it would probably stop because you would just, you would, it would not react because you were just getting this like net energy intake. But because that 1,3...
+
+00:31:33.200 --> 00:31:58.608
+BPG can hang around and then is in the presence of this ADP to transfer the phosphate, you get a net energy positive. Actually, you know what it reminds me of? It reminds me of an alley-oop almost. So an alley-oop is if people who don't watch basketball, where somebody tosses the basketball up in the air and then somebody jumps up, grabs the basketball and slams it down the net. Right. So that's kind of what it's like.
+
+00:31:58.608 --> 00:32:20.544
+Because we've got this phosphate that's kind of, you know, just kind of literally in the ether. It's literally just hanging out in the cell. And so this thing comes and it gets stuck on glyceraldehyde-3-phosphate to become 1,3-bisphosphoglycerate. And it's this temporary thing where, like, it's this really, really high energy intermediate and then bisphosphoglycerate.
+
+00:32:20.544 --> 00:32:46.048
+takes this phosphate and dunks it right onto ADP. Yeah. But if that ADP wasn't hanging around there, then you wouldn't get that net benefit, right? Like, you can only proceed in the presence of these other things. Like I said, if you just isolated these things in a Petri dish or a test tube or whatever, you probably wouldn't get very much out of it because you wouldn't have this super net energetic output at the end. Yeah, exactly.
+
+00:32:46.048 --> 00:33:12.400
+And so actually when you look at these reactions typically also in the show notes there is a reaction energy diagram and I forgot if I put this later in the notes so we'll get there maybe but check it out in the show notes if not because it's a diagram of energy of drops in energy through glycolysis and you can see the big drops of the big rate limiting steps
+
+00:33:12.400 --> 00:33:42.016
+And you can see very, very small drops for all the kind of equilibrium stuff in between. And typically with this reaction, I think these are reactions six and seven if memory serves. It may not, so apologies if I'm wrong there. But you'll see like six comma seven as this one step because it knows it's two reactions, but they have to be coupled together. So that's the way that you're going to see it. Now that we've done this thing, now that we've done this phosphate alley-oop, and now we're left with three phosphoglycerate.
+
+00:33:42.016 --> 00:33:59.776
+or 3PG. And there's a next step in glycolysis is that there's a very simple swap to two phosphoglycerates. So it just takes this thing, plucks it off and yada, yada, blah, blah, blah. But now what we have on the end of this thing is a carboxylic acid.
+
+00:33:59.776 --> 00:34:29.040
+next to a phosphate group. So if you know organic chemistry, you can look at this thing and you can see shit is going down. Nerd. So here we form our second high energy intermediate. Yes, even, and I kind of talked some quotes into that, high energy. Even my textbook puts high energy in quotes, so it knows that there's more stuff to this. But regardless,
+
+00:34:29.040 --> 00:34:58.896
+2-phosphoglycerate is turned into PEP or phosphoenolpyruvate. See, pyruvate, we're almost there. Yeah. So the chemical is actually pretty simple. So 2-PG, so 2-phosphoglycerate is three carbons. The first is three bonds to oxygens. So we've got double bond to one, single bond to another. The second carbon, bonded to the first, is hydrogen on one side and phosphate on the other. And the third is just two hydrogens and an alcohol.
+
+00:34:58.896 --> 00:35:25.184
+Phosphoenolpyruvate is the same molecule, but with the alcohol on carbon 3 and the hydrogen on carbon 2 removed. And now carbons 2 and 3 are double bonded. And oh my God, the chemistry that can happen. Oh my God, the chemistry. So now in our final reaction of glycolysis, arguably, we'll touch on that later.
+
+00:35:25.184 --> 00:35:54.256
+Phosphoenol Pyruvate generates our second ATP of glycolysis. So this reaction actually has a huge amount of free energy. So remember with 1,3-bisphosphoglycerate, we only ended up with a net of about negative 5 kilojoules. This one has about negative 20 kilojoules more energy. Nice. That's what I'm looking for. That's the good stuff. It's a big one. Yeah. And so when you look at metabolism and how phosphoenol pyruvate actually is involved in other pathways,
+
+00:35:54.256 --> 00:36:22.816
+that can sometimes go the other direction if we're thinking about it like that, then this actually being a very, very high energy, quote unquote, high energy intermediate becomes very advantageous to the cell in a lot of ways. So we may or may not touch on that ever, but if you want to look at that kind of stuff, you are certainly welcome to. One of the negatively charged oxygens on the last phosphate of ADP itself for this reaction, for this transfer of phosphate,
+
+00:36:22.816 --> 00:36:49.328
+It actually comes in and attaches to the phosphorus atom on the phosphoenolpyruvate phosphate, and it just snicks it off. And so phosphoenolpyruvate becomes, you guessed it, enolpyruvate. So enolpyruvate and pyruvate are actually very close, but less stable. So a proton gets pulled in, and now we end up with classic pyruvate. Nice.
+
+00:36:49.328 --> 00:37:18.064
+And for those of you keeping track at home, there are two of these. Thank you, yes. So this happens twice. So this last ATP creation happens two times. So we've invested two, and we've actually come out with four. So we net two. How rad is that? Sorry. But the interesting thing, I always thought the interesting thing here was that the ATP production occurs in two very distinct steps. Like, they're not even back-to-back. They're like three steps apart or whatever.
+
+00:37:18.064 --> 00:37:41.648
+where like you have one, you get one or you get two because you have two identical molecules. You get two early on and then you wait for another couple steps and then you get another two, another three steps and you get another two. Yeah, but those steps are actually fairly rapid. The slowest one is the aldolase of all those steps because glycolysis happens extremely rapidly, extremely rapidly, like to the point where
+
+00:37:41.648 --> 00:38:11.536
+It can happen faster outside of our cells than it can happen inside our cells. People have been working to make cells perform glycolysis more and more and more rapidly in the lab, and they've gotten it to the point where we're never going to see it in our human cells. It's never going to be as fast. It's going to be limited by regulation or maybe substrate, but it's certainly not going to be as fast as it possibly could be, which is mind-blowing to me.
+
+00:38:11.536 --> 00:38:35.792
+Personally. I think it's really cool though, right? Yeah. Oh, it's really, really cool. But instead of my mind being blown, let's actually step back and take a bird's eye view on this whole process. And, you know, we'll see more of the same later. And we've already seen actually some of this with the oxidation of fat.
+
+00:38:35.792 --> 00:39:01.536
+What's really happening here? A carbon chain with mostly single bonds to hydrogens and some single bonds to oxygen and the occasional double bond is becoming carbon atoms more and more and more attached to oxygens. So in glucose, there are seven bonds from carbons to oxygens, so just over one bond per carbon, one and a seventh. In pyruvate, out of three carbons,
+
+00:39:01.536 --> 00:39:29.072
+There are five bonds to oxygen for three carbons, or one and two-thirds oxygen bonds per carbon, and we all know where this is going. This is inevitable. This is that sound that you hear. This is that waterfall in deliverance. You know it's coming. Carbon will eventually have all four of its bonds occupied by oxygen and CO2, or a ratio of four bonds per carbon. But now, check this out. If we look at pyruvate,
+
+00:39:29.200 --> 00:39:57.904
+The one carbon, the carboxylate group, the carbon double bonded to an oxygen and single bonded to another oxygen, the last bond is going to the carbon chain. This is actually three quarters of the way there. Foreshadowing? Dun, dun, dun. So this brings us to a little aside on the fate of pyruvate and the word anaerobic. So everything so far has been anaerobic. There has been no gaseous O2 to be seen anywhere.
+
+00:39:57.904 --> 00:40:27.424
+And this will actually be quite a theme for a while. We're going to be not seeing oxygen until probably the end of next episode, maybe, something like that. But we did generate two ATP net, which is called substrate-level phosphorylation, since ATP was regenerated directly by the metabolic pathway. And this actually happens a little bit later again, too.
+
+00:40:27.424 --> 00:40:51.328
+We also use an NAD to make an NADH. And this presents us with a problem. So if glycolysis is happening quickly, we need to unoccupy NADH from the last hydrogen. Or we run out of the necessary reactant, NAD+, to proceed with breaking down more sugar. Because if we remember, there was one step in which NAD...
+
+00:40:51.328 --> 00:41:20.240
+plucked off hydrogen and became NADH. And so now we need to fix this or we're going to run out of NAD in the cytosol, in the main body of the cell, very, very, very quickly, especially at very high rates of glycolysis. In bacteria, there's another problem, which is that NADH in aerobically respirating beings is going to be used for oxidative phosphorylation. But what if you're a bacteria without mitochondria?
+
+00:41:20.592 --> 00:41:44.336
+Sad face. Sad face. Until you have what's left after that. And if we take advantage of that, we can get pretty drunk. So here's what happens. So you regenerate NAD by slapping that last hydrogen back onto pyruvate, which makes it lactate. And that's one of the reasons that there is this lactate balance.
+
+00:41:44.336 --> 00:42:12.032
+in the cell. This is the reason that LDH is so in favor of lactate. We've talked about this on the podcast before, but now we get to look at what's happening in bacteria. So if lactate is your final product for a bacterium, it's called homolactic fermentation, right? However, if we're a yeast of some sort and pyruvate gets that last carbon cut off into CO2 and
+
+00:42:12.032 --> 00:42:35.984
+I'd love to talk about this, specifically this reaction because I love illids and beriberi, but I'm going to spare everybody, sorry. So what we have here is really an alcoholic fermentation because the two carbon chain left over is acetaldehyde, remember? So we take pyruvate and we're going to stick off CO2 and we're left with acetaldehyde.
+
+00:42:35.984 --> 00:43:04.688
+And now, this is a two-carbon chain, one carbon occupied by all hydrogens, and the other has a hydrogen double bond to O2. So now, if we slap a hydrogen onto this oxygen, what do we end up with? Ethanol! Yum. So now if we have, instead of homoelactic fermentation, we actually have alcoholic fermentation. So that's a quick little aside. I thought everybody might find that really, really cool. And also,
+
+00:43:04.688 --> 00:43:31.872
+For those of you keeping track at home who are then going to consume the byproducts of this alcohol fermentation, in your liver, you have two forms of acetaldehyde dehydrogenase, which literally goes back and undoes these steps here and turns the ethanol into acetic acid and then you pee it out, which is why your pee smells if you get really drunk anyway. Yeah, it turns it into vinegar. And actually...
+
+00:43:31.872 --> 00:43:55.200
+Fun fact, and aside of the aside, if you drink methanol, if you, methanol actually has a lower affinity for this enzyme, so what actually happens is, when this happens, you get that turned into formaldehyde. And that's bad. Formaldehyde's bad. That's very bad. However,
+
+00:43:55.200 --> 00:44:19.824
+I googled this once and I don't know if it's actually true but I like to think it's actually true you can actually treat methanol poisoning by getting drunk because ethanol binds to this enzyme more preferentially so if you stay drunk long enough you're just eventually going to pee out all the methanol that's right yeah you get yeah the steps methanol it's methanol formaldehyde and then
+
+00:44:19.952 --> 00:44:47.840
+Formic Acid instead of Acetic Acid. Right, yeah. You just pee it out. But yeah, that is correct. I mean, if you go to the hospital with methanol poisoning, they don't get your, like, you know, three sheets to the wind drunk, but they definitely do administer ethanol as one of the treatments, aside from, you know, also potentially, like, pumping your stomach or whatever, but. Yeah, and that's actually, we could now talk about, like, the KM, Michaelis-Menten, kinetics, and
+
+00:44:47.840 --> 00:45:17.008
+preference for substrates, the lock and key kind of mechanism of enzymes, but we won't. We'll just tease you with that. And you all can look it up on your own. All right. So I think the last thing to understand about the process of glycolysis is that it's irreversible. So something everyone in biochem classes usually sees is an energy diagram of this process. So again, I mentioned it before. It's in the show notes. So let's really think about it now.
+
+00:45:17.008 --> 00:45:46.912
+So this is a step waterfall with some very big steps but also some very small steps. And all of them go down. But, you know, like I mentioned before, except six plus seven, this is a double step because six would go up and that's not going to happen. So it gets coupled. The large steps have such large energy with them, you know, energy output that they are irreversible. The hill is too big to get any stuff kicked back up it.
+
+00:45:46.912 --> 00:46:15.520
+And all the other steps are basically at equilibrium. So there are three main points that can provide good control over glycolysis. So the two ATP steps early on, so adding the phosphate to the first glucose and adding the second phosphate to fructose, now these are those things. And then also, plus the last one, where phosphoenolpyruvate generates an ATP. So these are the three steps that are ripe for regulation.
+
+00:46:15.520 --> 00:46:43.136
+And these are the ones that are irreversible. And so this means you're never going to climb back up that hill unless you're, I guess, a plant and you know how to use energy in the sunlight to make carbohydrates. All right, so I think with the energy diagram, though, we can actually look at all of these reactions as an entire whole. So glucose becoming lactate yields negative 196 kilojoules per mole.
+
+00:46:43.136 --> 00:47:13.104
+and a mole is just a chemist's dozen. It's the Avogadro's number. Now, if we look at glucose becoming 2CO2 plus ethanol, so if we get our alcoholic fermentation going on here, instead of glucose becoming lactate yielding 196, sorry, negative 196 kilojoules per mole, glucose becoming 2CO2 and 2 ethanol yields 235, sorry, negative 235 kilojoules per mole.
+
+00:47:13.104 --> 00:47:37.392
+that when we actually get to split that last two-carbon molecule into CO2 from this last two-carbon chain that we have, how much energy are we going to get? The answer is actually 50 kilojoules. So we're going to get another 50 kilojoules by taking that last two-carbon molecule and splitting it and getting that last CO2 out. And that's going to lead us to talking about the Krebs cycle.
+
+00:47:37.392 --> 00:48:07.104
+and that is going to be our next episode and we are probably also going to get into the electron transport chain but I'm going to propose a question that's going to tie us into the next episode. Does glycolysis produce NADH? Does it produce NADH? Kind of? What do you mean by produce, I guess? So does it net NADH?
+
+00:48:07.104 --> 00:48:35.216
+So if we think about it like this, because the sugar breakdown in the main cell compartment and not in the mitochondria can happen very rapidly, NAD stores, obviously, like we mentioned before, need to keep the process going and can run out if we're not kept in fresh NAD, NAD+, of course. So regeneration of NAD+, from NADH becomes a necessity, and this is what generates lactate and why we have this lactate ratio.
+
+00:48:36.496 --> 00:49:04.624
+But it has some implications for where the rest of the potential energy goes, right? So NADH is indeed potential energy, and we're going to take a look at the metabolic pathways that remain, the Krebs cycle and the electron transport chain. Because we would have netted one, two, in step six, the energetically unfavorable, like, hill climbing step. Well, that's ATP, right?
+
+00:49:04.816 --> 00:49:30.736
+Well, no, we've only used, in the entire process, we only use one NAD, and usually, it's funny, when you look at the diagrams of glycolysis, a lot of the time, instead of, usually when you look at single reactions, it's just like step, step, step, step, step, and the step where the NAD plucks off the hydrogen and becomes NADH, that step usually is not connected to
+
+00:49:30.736 --> 00:49:53.456
+to the lactate step later where NAD gets regenerated. So if you're looking at the show notes, what you're going to see is a diagram where the NAD and the NADH are actually in a loop. Because a lot of the time when you look at just glycolysis down to pyruvate, you are really only looking at...
+
+00:49:53.456 --> 00:50:10.256
+NAD becoming NADH. So you might think, okay, cool, well, that's, we generate NADH, we can use that for the electron transport chain. However, if we look at LDH and we look at how favorable it is to generate lactate as opposed to just pyruvate and we...
+
+00:50:10.256 --> 00:50:37.728
+Deplete our cellular or cytosolic NAD stores. NAD is actually really, really necessary for cell proliferation, for growth of cells, especially at rest. During exercise, it's a little different, but this is a philosophical question here. And this might be actually why we have a 10 to 1 ratio at rest of lactate over pyruvate and why during intense exercise, it's 100 to 1 over pyruvate. Because at 100 to 1,
+
+00:50:37.728 --> 00:51:06.752
+We are going to have 99% of our NAD going to be NAD+. But at rest, it's only going to be 90%, if you see what I mean. So at rest, we can actually spare a little more NADH, and we can actually probably use a little more of it like that. So there's really not a great answer to this question.
+
+00:51:06.752 --> 00:51:35.456
+I was just thinking we net an NADH like once I think in that list of reactions but yeah what whether that's I guess you net two well yeah you net two oh yeah because it's the glyceraldehyde 3-phosphate to the 1,3-diphosphoglycerate step yeah but we have two of those so we use 2-NADH
+
+00:51:35.456 --> 00:51:57.920
+2-NAD to become 2-NADH, and then we, you know, 2-NADH become 2-NAD with the lactate. So it all balances out. Yeah. So it's not, we don't actually net one. Yeah, that's right, that's right. So in the next episode, we're going to take a look at where pyruvate, sorry, we're going to take a look at where glycolysis and where fatty acid oxidation actually meet.
+
+00:51:57.920 --> 00:52:26.544
+We're going to find that little hinge point. This actually has some potentially earth-shattering implications depending on your point of view and your interpretation of the literature. And this is some kind of stuff that's still up for debate. So we're going to take a look at that. And we're also going to take a look at where the hell do we get oxygen in this freaking thing anyway? Like, where is oxygen in all this? We're going to find out. And you may or may not be surprised at
+
+00:52:26.544 --> 00:52:53.744
+What we're going to be discussing on how we actually generate ATP and how the cell actually has a very, very tight and exquisite amount of control over this kind of thing and how the energetics of it, which are fascinating, can actually keep things in a really, really elegant balance, I would say. So I'm looking forward to that. Kyle, do you have any final thoughts?
+
+00:52:53.744 --> 00:53:23.024
+No, I like this because this is some stuff I haven't thought extremely deeply about since taking college biology and then organic chemistry. So this is kind of a fun refresher, fun air quotes around fun for some of you, but I, you know, I'm a nerd, so I'm going to say I enjoyed this. Well, that's why you're here with me. Yeah. No, this is cool because it, I think also, unfortunately, in so many different classes when you take them in school or in college and things like that, you
+
+00:53:23.120 --> 00:53:52.752
+things can sometimes be taught as these two kind of like siloed subjects like chemistry is over here and like biology is over there but then it's fun when you get to stuff like this where you can actually take skills you learned in one class and apply them in another so it's fun yeah what skills have we learned in this class Kyle acronyms and order of magnitude estimation yeah actually we probably should end this on a certain note on the big picture
+
+00:53:52.752 --> 00:54:21.120
+thing here is that all of this is really interlinked with each other and you cannot really separate. I know where you're going with that. You're basically saying that like, you know, your body has this like continuum of processes going on and this is just one of them and even though we've covered them sort of as fat oxidation over here in one episode and, you know, glycogen, not glycogen, glucose, glucose metabolism in another episode.
+
+00:54:21.120 --> 00:54:47.008
+Your body isn't seeing them as these two disparate things. Like, oh, I'm going to spend all my time over here on this fat one or all my time over here on this glucose one. I'm going to do both of them at the same time all the time, regardless of what you're doing. Yeah. Yeah. So I guess the, I guess actually we could probably have one more big picture idea right here, which is why do we burn carbohydrates? Because I...
+
+00:54:47.008 --> 00:55:16.608
+started baking bread during quarantine and then have to... You and everybody else, you're so basic. No, it's, you know, if we think about the mitochondria as being a little compartment from which ATP emanates, and it only does so based on the availability of oxygen, we can think about carbohydrates, this pathway, as having several functions, one of which,
+
+00:55:16.608 --> 00:55:40.528
+is a energy triage function. So if you need to do something very, very rapidly, this pathway is in the cytosol and not in the mitochondria for a reason. And that reason is because it can generate ATP so very, very, very, very quickly that during periods of high demand, when oxidative phosphorylation, ATP generation lacks, then we can really...
+
+00:55:40.528 --> 00:56:10.304
+churn through carbohydrates really, really, really quickly. And this is one of the things where if we go over threshold, we are really chewing through the carbohydrates. So we're going to talk about how all this relates to threshold in a later episode as well. But I think this is the main learning today is that if we look at where this is all happening, this is going to clue us in into why it's happening and why it's there and why we've evolved like this. And so in the next episode, when we talk about the
+
+00:56:10.304 --> 00:56:39.440
+The Oxidative Fate of Carbohydrates, you know, we're actually going to be able to see that, oh, maybe just thinking about burning carbohydrates as anaerobic and fats as aerobic, maybe that's actually not really what we should think about. It's actually a lot more complex than that. A classic, it depends. Classic, it depends. Isn't this whole podcast just it depends? It's just nestled it depends clauses.
+
+00:56:39.440 --> 00:57:03.920
+Hundreds of hours of you just saying it depends over and over and over again. So everybody, thank you for listening as always. I hope you enjoyed this little nerding out on this kind of stuff, but I hope it was informative and I hope we talked about some ideas that are going to be helping you on your way to understanding metabolism a little better. I know that I think about this kind of stuff all the time.
+
+00:57:03.920 --> 00:57:31.984
+Again, share the podcast if you are liking what we're doing here. Remember that we're ad-free, so you want to donate, you can do so at empiricalcycling.com slash donate. We've got the show notes, empiricalcycling.com. We have merch, empiricalcyclingpodcast.threadlist.com, and questions and consultations, coaching inquiries, etc. Please email me directly, empiricalcycling at gmail.com, and on Instagram, that is at empiricalcycling, so check it out on the weekend AMAs. And with that, we will see you all next time. Thanks, everyone.
+

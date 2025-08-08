@@ -1,0 +1,500 @@
+WEBVTT
+
+00:00:01.808 --> 00:00:27.984
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore. Joined as always by my co-host, Kyle Helson. I want to thank everybody for listening and ask you to please subscribe if you haven't yet on whatever podcast service that you use. If you want to give us an iTunes rating, we appreciate that as well. And also sharing the podcast is very positive for us too. And if you like what you're hearing, also please consider that we are ad-free. And if you'd like to donate to the show and support us, you can do so at empiricalcycling.com slash donate.
+
+00:00:27.984 --> 00:00:52.848
+we also have the show notes up on the website and if you have any coaching and consultation inquiries questions and comments you can send an email to empiricalcycling at gmail.com we also have podcast merch up at empiricalcyclingpodcast.threadless.com and if you want to follow us on Instagram it is at empiricalcycling and I have to immediately put a disclaimer up in this episode because this is I know some of you are going to laugh at this but this is
+
+00:00:52.848 --> 00:01:22.592
+What I think is the most ambitious one yet in terms of putting together the physiology. So we're going to go through a lot of papers. I also referenced just about every book resource I have. And it was really hard to decide what to leave in and what to take out of the episode. For those of you who have been following along, we are going to be looking at the second half of the Fick equation. And we looked at the first half in Wattstock number 20, where we looked at the AV02 difference.
+
+00:01:22.592 --> 00:01:51.232
+And that is half of the Fick equation, which is that VO2 equals a VO2 difference times cardiac output. So now we have primed for this episode with the last episode on blood volume, and we're going to use all the information that we had from that episode. We're going to assume that you've already heard it and you know that stuff before we get started onto this stuff, because we're going to reference some of those things.
+
+00:01:51.232 --> 00:02:15.744
+So cardiac output is max stroke volume times max heart rate. The relationship is not always exactly this simple because, you know, we've seen max heart rate change day to day and stuff like that. But for the most part, this is what the Fick equation is. VO2 max is equal to max stroke volume times max heart rate, and that's our cardiac output times a VO2 difference. How much are we using? Last episode, we hinted at
+
+00:02:15.744 --> 00:02:45.424
+blood volume and its relationship to the stroke volume of the heart. And as we've said before, that the stroke volume is really where the limit, the long-term limit of VO2 max comes from. So Kyle, why don't you talk a little bit about what we know about stroke volume? I think most people probably don't off the top of their head know a ton about stroke volume of the heart. They think, oh, your heart just beats and that's all, which is fair because I don't think this is, this isn't often covered in a lot of like,
+
+00:02:45.424 --> 00:03:01.216
+Intro Biology Classes, but one of the things you may know or may be familiar with stroke volume is that like you can actually have the size of your heart makes effect how much blood
+
+00:03:01.216 --> 00:03:29.472
+Your heart is able to pump. And this kind of makes sense if you think the heart as a physical pump, it's like a billows or some other sort of bike pump, right? The larger chamber on a bike pump lets you pump more air per stroke than a smaller bike pump. And this sort of makes sense given geometry and stuff. But some people also may know that like, for example, a person who was really, really tall
+
+00:03:29.472 --> 00:03:59.264
+Tends to have a larger heart, like I'm talking, you know, NBA, seven foot tall and above, like a lot of those people who are really, really, really tall, a lot of times have heart problems because their hearts are so large and they have to pump so much blood. And this sort of scales with physical size of a person, larger heart, heart pumps more blood per volume. And the other thing that some people may know is that this sort of relative strength of your heart muscle,
+
+00:03:59.264 --> 00:04:29.120
+Can affect the amount of volume blood that your heart can pump. Go back to the bike pump example. If you only weigh 70 pounds because you're a child and you have to try to pump up a tract tubular up to 200 PSI, you're going to have a hard time because you're not physically strong enough to get all of the air from that bike pump into the tire. Whereas if you're a larger person with more muscle mass or that just weighs more and you can put your body weight behind it, you can pump that pump up.
+
+00:04:29.120 --> 00:04:59.072
+Harder or to a higher pressure. So we can kind of think about it like a mountain bike pump which is more high volume as opposed to like a track pump which is made to pump tires up to like 200 PSI. Right, yeah. Actually, I want to touch on the size thing too because one of the things that we're going to see in a little bit, we're not going to really get into it too much because this is, you know, that's obviously too medical for us and obviously I'm very much not a doctor but one of the things that happens with enlarged hearts,
+
+00:04:59.072 --> 00:05:22.976
+is the variable of does your heart ever get a break? So hearts that don't get a break, like people who are over seven foot tall or people who have really chronic and very bad hypertension, the heart is always really working very hard and it never gets to like chill out and repair. And hearts don't actually have the ability to grow new cells really because new cells are not that.
+
+00:05:22.976 --> 00:05:47.920
+Efficient and Good at Contracting, whereas the mature adult cells are actually good at contracting, but they're not good at repairing. I shouldn't say repairing. They're not good at making new cells. They're good at repair in terms of adapting to exercise, which we're going to see, because that's really what we're aiming for in the long term.
+
+00:05:47.920 --> 00:06:15.824
+But when it comes to a myocardial infarction and there's a bunch of damaged tissue in the heart, it's usually filled in with connective tissue rather than fresh heart cell. So we previously asked that the Fick equation presents interesting questions for training philosophy, and what are those questions? Are all parts equally important? As in, will increasing cardiac output have as much impact on VO2 max as increasing a VO2 difference?
+
+00:06:15.824 --> 00:06:43.216
+AKA oxygen utilization by the muscles. And we saw in the AVO2 difference episode that no, it doesn't have that big an impact. If you're looking for that last 1%, yeah, it'll have an impact. But for the most part, for most amateurs, it's not going to be that big a deal. And since everybody's doing a bunch of endurance riding anyway, you're going to be taking care of that on your own. So we've also set it up that
+
+00:06:43.216 --> 00:07:10.800
+Heartstroke volume is the main limiter for VA2 max and blood volume does have a role in that as well and I think that's where we left off in the last episode and so that brings us up to the present moment. So last episode we were talking about the Ed Coyle study on blood volume effects on stroke volume where blood volume helps VA2 max but only to a point and so now we get to introduce heart
+
+00:07:10.800 --> 00:07:39.776
+Rate and Stroke Volume. So the title of the study, it's in the show notes, effects of detraining on cardiovascular responses to exercise, role of blood volume, dot, dot, dot, continued. So I strongly suggest listening to the last episode, if not the last two or three or are we up to four now? Just carve out eight hours in your day. Just listen to us ramble, please. All right. So here's a refresher for the structure of this study.
+
+00:07:39.776 --> 00:08:08.080
+Well-trained subjects during training did two days of testing. Day two, they did the same tests, but after they had a plasma volume infusion. And then they did two to four weeks of detraining of doing basically nothing, which caused about an 8% loss in blood volume and a 6% loss in hematocrit and VO2max both. So most of the blood volume loss was actually plasma.
+
+00:08:08.080 --> 00:08:37.616
+Then, after they were detrained, re-infusing that plasma, they did the same two-day testing protocol, but they didn't introduce red cells, just plasma. It brought back most, but not all, of the VO2max. And adding about the same amount of plasma to the subjects while they were still trained did not improve VO2max. And that's where we left off in the last episode. I always thought that was super interesting, that idea that just giving them straight plasma.
+
+00:08:37.616 --> 00:09:06.240
+was almost fully restorative. Yeah, and we're going to see why right now. So the main reason this study was done was actually that they were looking for a decline in stroke volume while detraining, which is something they had noticed in a previous study. So they had subjects do two submaximal 15-minute tests before they did their ramp tests to find Viettumax, yada, yada.
+
+00:09:06.240 --> 00:09:32.400
+So they did two by 15 minute tests at 50 and 60% VO2 max before the RAM test. So during the submax tests, stroke volume was measured from electrocardiogram tracings. And so let's talk stroke volume during the submaximal tests, what happened to it. For the 15 minute submaximal test, about 50% VO2 max or so,
+
+00:09:33.104 --> 00:09:54.896
+Trained subjects with no extra plasma exercised at an average of 2.3 liters a minute. So this is across the board. All subjects in all conditions, trained or untrained, with or without the expanded plasma, were exercising at 2.3 liters of oxygen a minute. That was their O2 requirement to upkeep that level of exercise.
+
+00:09:54.896 --> 00:10:20.784
+So stroke volume for trained subjects was 166 milliliters average, and while detrained, this fell to 146 milliliters. So this is a 15% loss of stroke volume compared to the 8% loss of blood volume. Interesting. So just a point of reference, remember you have roughly 5-ish liters of blood in the average human being.
+
+00:10:20.784 --> 00:10:48.720
+If you have a stroke volume that's 150 to 160 milliliters, that's a small but significant fraction of the amount of blood that your body has that your heart is able to pump every time. Yeah, and if you want details on that, listen to the last episode or just check out the study. I believe the link is the full text. Yeah, and so this is despite the fact that the VO2 max had fallen from 4.42 to 4.15 liters a minute or 6%.
+
+00:10:48.720 --> 00:11:18.288
+So they lost 8% blood volume, 6% VO2 max, and 15% stroke volume. So how are they able to maintain the VO2 required for exercise? So remember what the Fick equation says. Cardiac output is stroke volume times heart rate. So heart rate went up from 126 to 140 BPM, or 10%. Kind of makes sense. Your body's going to make up in the way that it is able. Right. Yeah, exactly. So let's see how plasma re-expansion affected this.
+
+00:11:18.288 --> 00:11:47.920
+In the trained subjects whose plasma was expanded beyond their trained state, they found no effect of the expanded plasma volume on stroke volume and heart rate. No effect whatsoever. In the detrained subjects, stroke volume went from 146 to 164 milliliters, and the heart rate went from 140 to 131 BPM for this 2.3 liters a minute exercise rate.
+
+00:11:48.400 --> 00:12:17.648
+So the stroke volume is dependent on multiple things here, not just the blood volume or the conditioning, let's say, of the heart. It's dependent on some combination. Right. This is one of the things that I was considering keeping into this episode, but I've decided to leave it out, is how all the blood pressure and all this kind of stuff gets regulated. So that's a little beyond what we're going for right now.
+
+00:12:17.648 --> 00:12:34.480
+But just know I was thinking about everybody's patience with us when I decided to take that out. So what we can really learn from this is that there is some nervous system feedback and regulation that changes heart rate to maintain cardiac output.
+
+00:12:34.480 --> 00:13:02.192
+Since, you know, the VO2 was the same 2.3 liters in all the tests, but remember different stroke volumes and heart rates. So the major factors affecting heart rate is autonomic function. That's your sympathetic and parasympathetic nervous systems. There's chemoreceptors to sense metabolic changes. There's hormones and there's stretch and pressure receptors. These are called baroreceptors. So it's easy to see the influence of some of these receptors when you are, say, breathing.
+
+00:13:02.192 --> 00:13:25.536
+And then...
+
+00:13:25.536 --> 00:13:46.672
+As you breathe out, this decreases the volume that your lungs are taking up, so there's more room for your heart to expand, and so we can actually see the autonomic function happening here, which is very rapidly and directly responding to this change in vascular pressure in the chest cavity.
+
+00:13:46.672 --> 00:14:15.920
+exercise-related example is if you are going to be lifting heavy weights and you take a deep breath of air and then tense up your core, you can actually, I noticed this, I can actually feel my heart rate increase just from doing that because I'm squeezing my diaphragm and core and everything together and this is increasing the pressure inside my abdomen which is putting more pressure on my heart from
+
+00:14:15.920 --> 00:14:43.904
+internally, I guess. Yeah, and you're actually very prescient because we're going to talk about exactly that in a little bit. So first, let's talk about the balance to maintain cardiac output during exercise. So the muscles have the ability to say, more please, by dilating their own blood vessels. And the nervous system has to respond by increasing cardiac output. So remember the Fick equation for cardiac output, heart rate times stroke volume. And so let's just pretend for a second.
+
+00:14:43.904 --> 00:15:09.360
+At all points, the heart has the same stroke volume. Every pump is going to have the same amount. So in order to increase cardiac output, we have to increase the heart rate to increase the heart's output. So for example, if your heart always pumps a fixed volume of 100 milliliters per beat, then at 60 BPM, you're going to be pumping 6 liters per minute.
+
+00:15:09.360 --> 00:15:35.696
+100 BPM, you're going to be pumping 10 liters per minute, and then at a rather high 200 BPM, you'll be pumping 20 liters per minute. And so the COIL study may make it look like that we can just stuff more blood into the body, and we're going to improve VO2 max by increasing what's called diastolic filling volume. We'll talk about more of that in just a second.
+
+00:15:35.696 --> 00:16:05.648
+This didn't happen. So what happened was plasma expansion, while trained and detrained, both brought hematocrit to about 40% and improved but did not restore VO2max in the untrained subjects. But in the detrained state, subjects had less hemoglobin. But while trained with more hemoglobin, plasma infusion did not improve VO2max.
+
+00:16:05.648 --> 00:16:35.184
+whole blood volume, plasma and red cells and everything else, is necessary but not sufficient to increase VO2 max. So something that is limiting us, I think you all know by now, it's heart stroke volume. So what we saw with blood volume manipulations in this study, you know, we still have some wiggle room in the trade-off between stroke volume and heart rate at 50% VO2 max, but at VO2 max, at max output,
+
+00:16:35.184 --> 00:17:00.880
+We don't have any wiggle room, especially between trained and untrained individuals. And so to see why, to talk about the next study that we're going to get into, we have to first learn about some of the background information of the heart. So we're going to talk about the structure. We're going to do the cardiac cycle for athletes and what determines stroke volume.
+
+00:17:01.328 --> 00:17:22.528
+Let's take a quick tour of heart structure. So the heart's made up of four compartments. Two atria, those are the chambers on top, and the two ventricles, the bigger ones on the bottom. So every compartment has a one-way valve. So when the heart contracts, we don't get reverse flow, unless you have a heart murmur. So blood first enters your right, that's your right, not my right.
+
+00:17:22.528 --> 00:17:49.184
+You're right, atrium. Stage right. Stage right. And then it'll enter your ventricle. So from here, it leaves the heart via the pulmonary artery. Weird that an artery carries deoxygenated blood, right? So the blood pumped from the pulmonary artery goes into the lungs, which we discussed last episode, check that out. And then after becoming oxygenated, leaves the lungs via the pulmonary vein.
+
+00:17:49.184 --> 00:18:19.008
+a vein carrying oxygenated blood. Pretty cool, right? So the blood from the lungs reenters the heart in the left atrium and then left ventricle. And then from there, it goes on its way to the body to repeat the cycle again. Functionally, at rest, the atria are actually not big players in cardiac output. But during max exercise, they're actually very important. They operate as priming pumps that increase ventricular output. And so when the heart pumps, the valve that goes from the ventricle
+
+00:18:19.008 --> 00:18:45.680
+Back to the atria closes. Note that despite all the focus on the left ventricle, the one that pumps the blood into the circulatory system, there's a large amount of interdependence with the ventricles because if there's more blood pumped, there's more blood returning. And the right ventricle needs to match the left when it pumps the blood to the lungs. We can imagine bad things happening if that is not the case, right?
+
+00:18:45.680 --> 00:19:15.312
+You get a backup somewhere. A backup or a vacuum or something like that. This actually kind of makes, I always think when I think of the heart stroke and having the right word, compartments, sorry. When you think of having four different compartments and the way the heart stroke works, I kind of think this is a similar idea to a like four stroke versus two stroke motor or like internal combustion engine where like in a two stroke you have these greater inefficiencies and you can have
+
+00:19:15.312 --> 00:19:43.760
+Uncombusted fuel leak back out in the exhaust and all these problems and your heart tries to avoid having, what would be the analogous uncombusted or you have like deoxygenated blood being pumped back into the rest of the body? Well, there are actually organisms that have hearts whose septums, the divisor between the left and the right sides are not actually fully formed so blood actually gets between the two.
+
+00:19:43.760 --> 00:20:10.656
+Yeah, so the evolution of the heart is very fascinating. If you guys are interested in that, I highly suggest doing more reading. Those organisms smell a little bit like oil when they... They do, in fact. And they also smell like the sea. I think, yeah, lizards and fish or something like that. It's been a while, but it is out there for sure. But now we need to look at one more piece of background, which is blood pressure.
+
+00:20:10.656 --> 00:20:31.520
+Now we're going to talk a lot about blood pressure. So this is the real meat and potatoes of the cardiac cycle. So systole is just when the heart contracts and sends blood to the lungs and body. Diastole is when the heart relaxes and fills with blood. These two terms people may be more familiar with.
+
+00:20:31.520 --> 00:21:00.992
+Systolic and Diastolic pressures when you get your blood pressure taken at the doctor's office or something like that. So that's what these two, when you get a blood pressure, you get two numbers. One is your systolic pressure, one is your diastolic pressure. And that's the origin of those terms here. So for our purposes today, we can really think about heart stroke volume being determined by two things. And just using the terms that we just learned, how hard the heart can contract during systole and how much blood fills during diastole.
+
+00:21:00.992 --> 00:21:29.760
+And this actually is our first clue about training. So finally, long awaited, we are now going to be getting into how to train by the end of this episode. And we're going to save the real meat and potatoes stuff for like intervals and stuff. And we have a couple more studies to get to next episode. The next episode is going to be awesome. I really hope you guys stick around and check that out. So check out the diastolic filling and heart rate study. This is what we're going to call it, the heart rate study.
+
+00:21:29.760 --> 00:21:58.224
+to diastolic filling as we go from rest to submaximal exercise to VO2 max. In other words, as heart rate increases, what happens to the amount of blood that fills into the heart? So Kyle, take a wild guess. I'm going to guess that the amount of blood stays fixed because you want to somehow increase the amount of blood volume that you're pumping. So let's hope that...
+
+00:21:58.448 --> 00:22:19.824
+Let's hope that it stays the same. If it goes down, that would be counterproductive to the whole idea of increasing your heart rate to increase the amount of blood that's flowing into your body. Well, you're right. And you're actually bringing up a really interesting question that a lot of people had for a very long time about this in exercise physiology and just systems phys in general. So to set this up...
+
+00:22:19.824 --> 00:22:49.296
+It's a long debated question whether or not diastolic filling and therefore stroke volume, because remember they need to stay balanced, whether it plateaus at some point. So we have four scenarios. One, stroke volume stays constant as heart rate increases, meaning diastolic filling rate exactly increases to match the shortening length of time to fill. Does that make sense, Kyle? Because that's the one that you signed up for. Yeah. Okay. So scenario two, stroke volume can decrease as heart rate increases.
+
+00:22:49.296 --> 00:23:14.224
+So as the heart beats faster, how could you possibly fill the ventricles more if you have less and less time to do it? At 180 BPM and you contract every one-third of a second, you have much less time than a third of a second to fill the heart. And we're actually going to see some data on that. Scenario three, stroke volume rises a little bit, up to say some percentage of heart rate or VO2 max.
+
+00:23:14.224 --> 00:23:36.208
+and then stays constant. So at like 20%, at like 50%, at 80%, you know, the heart's not, you know, it's not contracting that much faster up to like say 100, 120 BPM, but you can, so you can still get that same amount of blood or a little more blood into it and then it'll plateau. Scenario four, stroke volume can rise as heart rate rises.
+
+00:23:36.208 --> 00:24:01.536
+So this seems the least likely to a lot of people, and this is one of the ones that a lot of people had money on would not be the case. So now we get to open up the study in the show notes. It's called, actually I'm not going to tell you the title because it's going to give it away. The references in the show notes. So what they did was they had seven competitive endurance cyclists.
+
+00:24:01.536 --> 00:24:26.480
+and seven normally active males. So the VO2 max average for the endurance cyclists was 68 milliliters per kilogram per minute versus 44 for the untrained. So the hemoglobin concentration, remember we talked about concentration before, is the same between the groups. But we also have a difference. Blood volume of the trained group is five liters versus four and a half for the untrained.
+
+00:24:26.480 --> 00:24:55.984
+So we already have a difference potentially in stroke volume right there with more blood volume. Not to mention even if the hemoglobin concentration is the same, you're going to have more red blood cell, more total RBCs in the trained people. Right, exactly. There's that too. But the untrained people are five kilograms heavier, but their heights are within about a four centimeter average. So about the same height, but we don't know body composition, but it doesn't really matter.
+
+00:24:55.984 --> 00:25:22.448
+In this study, this is a good thing because we're just looking at time frames. So we want people who are about the same size, so they're probably going to have about the same size heart to start with, as you talked about before with body size and heart size. So this is good. And so we don't have that many variables because it's like if you have a cyclist who's very short and weighs 50 kilograms,
+
+00:25:22.448 --> 00:25:41.584
+They're going to have much less blood volume than somebody who's larger, and so they need less stroke volume. So we have two good comparable groups here. They actually measured VO2max a couple times. They did a ramp test, and they did a supermax protocol. Remember, we talked about this in the first ramp test episode.
+
+00:25:41.744 --> 00:26:05.104
+So they did a single interval at like 5% to 10% over the final power value that they achieved in the rant test. And they did this to exhaustion to double check via to max. And then they did it again during the actual procedure. So we thank these participants for their sacrifice. And so they measured all of the fun stuff. Literally, they measured...
+
+00:26:05.104 --> 00:26:33.904
+just about everything they could. So they measured like stroke volume, diastolic filling time, left ventricle ejection fraction, because it's never 100%, there's always a little bit left, and ejection time, pre-ejection period, et cetera, et cetera. So the participants all rode a bike at 90, 120, 140, 160, 180, and 190 beats per minute heart rate, plus or minus one BPM. They adjusted it so that way the heart rate was very, very steady during the measurement time.
+
+00:26:34.608 --> 00:27:04.240
+So, excellent job with the researchers there, and the participants, hats off. They measured stroke volume at each of these heart rates while cycling, and the endurance-trained athletes almost linearly increased their stroke volume from 90 to 180 BPM. Wow. It went from 130 milliliters at 90 BPM to an average of 190 milliliters at 180 BPM. Untrained athletes increased their stroke volume.
+
+00:27:04.240 --> 00:27:33.968
+from 120 to 130 milliliters at 120 BPM, and that's it. That's all they got. It plateaued right there. And their 90 BPM stroke volume was not that much lower. It wasn't like they went from like, you know, 90 milliliters to 130 milliliters. They went like 120 to 130. It's really not a big jump. Yeah, like 10%, basically. This is despite the fact that total cardiac output increased.
+
+00:27:33.968 --> 00:28:02.352
+Fairly steadily for both groups through these heart rates. With the endurance athletes going from 12 liters a minute to 35 liters a minute peak, and the untrained went 11 liters a minute to 25 liters a minute peak. So what happened was, obviously, one of the reasons that the athletes were able to increase their cardiac output by an extra 10 liters was because they were filling more blood into their heart.
+
+00:28:02.416 --> 00:28:28.352
+and the Untrained, they were our scenario, what was it, three, where they increased their diastolic filling volume up to a point and then it stopped right there and then they had to go to our scenario one where they just like, or the scenario before that, whichever one that was, where they just increased the heart rate at the same diastolic filling volume, which didn't fall.
+
+00:28:28.352 --> 00:28:57.424
+Which is great. Evolution hasn't been that bad to us. So, now let's talk time frames. Because, now you might be wondering, did somehow the heart know to spend longer in diastole filling before it got to systole? So, diastolic filling time was actually greater in untrained subjects.
+
+00:28:58.128 --> 00:29:27.792
+Ah, interesting. At 90 BPM, untrained subjects were at 342 milliseconds versus the trained at 267 milliseconds. And at 190 BPM, untrained had 117 milliseconds for diastolic filling and the trained had 99 milliseconds for diastolic filling. And let's not forget, the trained subjects are pumping a lot more blood. It's interesting.
+
+00:29:27.792 --> 00:29:54.480
+This kind of points to the idea that a trained subject's hearts are just better and skilled isn't the right word, but they are more practiced at doing these basic functions than the untrained subjects. I think the word you're looking for is adapted. Adapted, there we go. That's a good one. So let's also take a second to appreciate.
+
+00:29:54.480 --> 00:30:23.216
+The diastolic filling volume and time. Because this means that the trained subject's diastolic filling rate was 1.88 liters per second. That's a lot. Jeez. This is like faster than a gas gasoline pump for your car. But it's actually a little faster, but they didn't calculate it because there's actually a isovolumetric contraction that happens that actually reduces the time frame a little bit more.
+
+00:30:23.216 --> 00:30:45.088
+So it's obviously not constant, or the cardiac output would have to match at about 113 liters a minute. So we talked about atrium having a lot to do with this, but that needs to get blood from somewhere, because as the atrium...
+
+00:30:45.088 --> 00:31:10.464
+starts to contract. What happens is the valve that goes back into your vena cava shuts first, and the atrium actually sends a lot of blood into the ventricle, thus increasing, this is the priming thing that we were talking about, increasing the amount of blood that is in the ventricle. And actually, if you want to just go to Wikipedia and look at the cardiac cycle, there is a great GIF.
+
+00:31:10.464 --> 00:31:37.360
+of a heart going through the cardiac cycle and you can actually spend some time and watch it and really appreciate the sequence of events. Okay, so let's get back to our subjects. So remember that the trained subjects on average had a little more than half a liter more blood than the untrained subjects, which probably helped them get the blood from somewhere, but it's not enough to quite explain the difference.
+
+00:31:37.360 --> 00:32:06.576
+Especially when we further look at the heart functions. So, you know, with our four scenarios from before, we actually have two that we saw. So in the untrained athletes, we saw stroke volume rise, but only to a point. Diastolic filling did not improve relative to filling time, but it just kept up. And so this increased cardiac output as heart rate increased. In the trained athletes, we saw no plateau. So diastolic filling improved relative to filling time all the way up to peak.
+
+00:32:06.576 --> 00:32:36.560
+We also saw, remember we were talking about work? We saw that blood pressure was lower across the board in trained subjects, particularly during systole, which means less what's called afterload, which is a short, fancy way to summarize resistance to emptying and how much work is being done by the heart. The trained athlete's lower blood pressure shows that the heart is actually using, as indicated by the product of systolic pressure and heart rate, less energy,
+
+00:32:36.560 --> 00:33:03.424
+to move more blood. Sorry, not heart rate, stroke volume. So it's trained to use much more energy efficient volume contractions as a response to preload, which is the diastolic filling. And this is as opposed to afterload stroke strategy. So the afterload stroke strategy is just something to make the heart contract harder with whatever's in there, like doing a deadlift. All right, so here's the next step to this.
+
+00:33:03.424 --> 00:33:30.912
+So if we can just stuff more blood into the right side of the heart, how does the heart know how hard it has to contract? I don't know. Right. So the heart can actually be considered a single motor unit where there's very little electrical resistance between cardiac cells. So the signals can propagate quickly. So unlike skeletal muscle, you don't just use some motor units and not others. And because it's one motor unit,
+
+00:33:30.912 --> 00:33:57.776
+The whole thing contracts. So how do we get gradations in force? This is where I'm sure some of you are waiting to hear the words Frank Starling, and it is that time. Oh, Frank. And Starling. I think it was Ernst Starling or something. So the heart, as we mentioned, is doing a balancing act between systole and diastole, between pushing out blood and returning blood.
+
+00:33:57.776 --> 00:34:26.560
+So if we get an imbalance in one side of the heart that's not matched by the other, it would usually lead to a drop in blood pressure somewhere. So if the left side of the heart is pumped harder, it sends more blood to the body and pushes out more blood than the right. And so we're going to get a drop of blood pressure across the lungs until the blood comes all the way back around. Or vice versa, we could overload the lungs and maybe burst capillaries, I don't know, and potentially lead to a huge blood pressure drop in the body.
+
+00:34:26.560 --> 00:34:52.272
+Neither of these sound particularly fun. No, I would imagine not. So the heart manages to maintain this balance with what's called the Frank-Starling Law of the Heart. And put simply, this means the more blood that's in the heart, the harder it's going to pump. So the Frank-Starling Law can be seen in a relationship between diastolic filling volume and stroke volume. So now if we put diastolic filling on the x-axis, as is the thing...
+
+00:34:52.272 --> 00:35:22.000
+that the other variable depends on, the Y-axis being stroke volume, so as the heart fills out more, it pumps harder, meaning it pumps out more, right? And so in the show notes for this episode, I'm actually going to put one of the graphs from the heart rate study showing the untrained versus trained. So this should be very, very telling, because you're going to see the untrained go up a little bit and then flat across, then you're going to see the trained
+
+00:35:22.000 --> 00:35:49.936
+just goes straight up. This is as opposed to some Frank Starling curves that you're going to see, which will climb, climb, climb, and then plateau, right? So now we know it depends on the person and how well adapted they are to endurance training. All right, now imagine if the heart didn't contract harder as it filled, and we got a mismatch between filling volume and stroke volume, which at best would be really inefficient.
+
+00:35:49.936 --> 00:36:16.208
+and at worst would cause a backup or a leakage. Something could rupture. I don't know. So yeah, so it's a very delicate balance and our bodies do a great job at it. So astute listeners, meaning all listeners, are thinking how the actual fuck does the heart know with zero delay and think about the delay between like starting at an interval and your heart rate catching up.
+
+00:36:16.560 --> 00:36:45.680
+So with zero delay, how does a heart know how hard the next stroke needs to be? So filling of the heart with blood stretches the heart walls, and this is preload, as we mentioned. Because the heart is so tightly linked together, the cells, the cardiomyocytes, increasing contraction strength of one ventricle gets matched by the other, so this is good. But we haven't yet touched on something called optimal muscle length and skeletal muscle, but here's a quick primer.
+
+00:36:45.680 --> 00:37:13.424
+So the contractile elements of skeletal muscle and all muscle are called sarcomeres. And they're packed into all muscle cells. So we've got skeletal, cardiac, and smooth muscle, like the muscle around veins. And each has a somewhat different function and functionality. And what we have is actin filaments are in the center, and on each side of the sarcomere is a disc that anchors myosin. And force gets determined by the number of myosin attached to actin.
+
+00:37:13.424 --> 00:37:34.656
+So as the muscle length changes and the sarcomere length changes, the amount of overlap changes too, and there's a very short range of overlap where we can get maximum force. So in skeletal muscle like your bicep, maximum force is not when your arm is fully extended, and it's not when your elbow is totally closed. It's somewhere in the middle. And on the whole muscle level,
+
+00:37:34.656 --> 00:38:03.216
+The heart is, actually, it's nothing like this, you guys. So as the heart muscle stretches, its next contraction will be more forceful, and if we stretch it even more, its next contraction will be more forceful than that. Usually, this is where I launch into an explanation about how amazing this mechanism is, but the real answer is we're not sure, no matter what you read on Wikipedia, I promise. There's a lot of conflicting data out there, and the experiments are really hard.
+
+00:38:03.216 --> 00:38:28.400
+Here's the best version of what we have so far. When the heart's relaxed, the myosin and actin filaments are fully or nearly fully overlapping. So this means they have nowhere to go when they contract. It's like trying to walk into a wall that you're already standing nose to. But when the heart stretches, the filaments get pulled up their length tension curve, which kind of looks like an arc, but not really, but we'll just pretend it's an arc.
+
+00:38:29.616 --> 00:38:54.064
+And so as the heart gets stretched more, it's going to go more and more and more up the length tension curve, and it's going to just contract harder. So it just knows what to do. So there are also elastic elements in the heart too. And there's changes in calcium sensitivity of troponin C. There's connective tissue. There's potentially titan that anchors myosin to your succomeres. And this may play a role as well.
+
+00:38:54.064 --> 00:39:23.040
+Also, as the heart muscle stretches, it may actually, in very three-dimensional terms, bring actinomyosin closer so that more cross bridges can be formed. So that's the short version of what we know so far. And the very short version is that as the more the heart stretches, the more it pumps, because in a way, it really has no choice based on how circulatory plumbing is set up. In other words, my working thesis, what I base VU2Max training on, in terms of adaptation,
+
+00:39:23.040 --> 00:39:51.008
+is that preload is the most crucial aspect of VO2max, and now I'm going to show you why I think that. Now let's talk about preload determination in terms of the Frank Starling Law. All right, if preload, diastolic filling, is crucial in my view of things, what causes the filling? How do we get more? How do we stretch the heart? How do we get it to adapt? In the right ventricle particularly, after full contraction, the re-expansion,
+
+00:39:51.008 --> 00:40:06.240
+Like Kyle, you actually said a bellows. This is a great analogy because it kind of sucks in blood like a bellows. But we also have two other things. We have the muscle pump and we also have sympathetic nerve stimulation. So the muscle pump...
+
+00:40:06.240 --> 00:40:35.584
+As we rhythmically contract our muscles, they squeeze veins, which have one-way valves on them. So each contraction helps get blood back up to the heart. And if we're standing, if we're running, whatever, we have to work against gravity. And we're going to actually see sport-specific stuff on this in a little bit. There's also sympathetic nerve stimulation of the vascular system. So this constricts smooth muscle around arteries and veins that go to the organs. It also decreases blood flow.
+
+00:40:35.584 --> 00:41:02.544
+to some of your organs, like liver and kidneys and things like that, your gut, et cetera. As we mentioned before, veins are rather compliant to handle surges in blood pressure, but sympathetic stimulation constricts them, which makes them rounder, which makes them less resistant to flow. This actually increases blood flow and blood return to the heart. Also, there are less veins in general.
+
+00:41:02.544 --> 00:41:31.296
+So as blood goes from capillaries to venules and veins, venules are just small veins, the velocity actually increases, and this also aids in diastolic filling. And so the sympathetic stimulation also increases heart contractility, so it pumps harder. And based on the fact that the circulatory system is closed and we need to maintain balance, harder pumping gets matched by more diastolic filling. And so it's all these factors that...
+
+00:41:31.296 --> 00:41:59.632
+affecting resistance to flow and flow through the system. These affect the blood flow the same way that blood viscosity does, like we discussed last episode, when your hematocrit can actually get too high, right? So there's two last things that affect preload that some of you are probably dying to hear. So let's talk about the adaptations that the heart might need to make.
+
+00:41:59.984 --> 00:42:27.568
+in order to pump better. So we'll have two situations here. So if you are getting a ton of diastolic filling, right, what do we need to do to make the heart pump better for this situation? So we have to make the heart larger so we can hold more blood during diastolic filling so it doesn't plateau as much anymore so we can pump more blood out, right? But let me pose a scenario to you.
+
+00:42:27.856 --> 00:42:57.840
+What if, for instance, the heart encounters a ton of peripheral resistance to pumping, also known as afterload, we've mentioned this a few times, except now we don't have the benefit of preload. What do we do? Let's say, for instance, in order to pump blood, you would need to overcome something like 400 millimeters of mercury or 400 torr. So, incidentally, you might be doing something like a deadlift or a standing start, right?
+
+00:42:57.840 --> 00:43:27.024
+Yeah. So this is an afterload contraction. The heart has to pump really hard, but without the benefit of preload, it just needs to plain contract, like deadlifting. So these are the two main contraction strategies of the heart, preload and afterload. So diastolic filling versus the heart just pumping harder against the resistance when you, you know, Valsalva maneuver or you're taking a dump or whatever it is.
+
+00:43:27.024 --> 00:43:55.168
+These two contraction strategies require different types of adaptation. And in the literature, just on the whole, it's called cardiac remodeling or cardiac hypertrophy. So with consistently high afterload, the adaptation is literally like building skeletal muscle. The heart wall thickens, especially around the ventricles. And what we're doing is we're adding more sarcomeres in parallel. So the chambers of the heart don't actually grow.
+
+00:43:55.168 --> 00:44:21.968
+They're not holding any more blood. But this is the adaptation that we need for activities that face a lot of afterloads. So the heart needs to contract actively without the Frank-Starling mechanism. So this is also known as concentric hypertrophy because there's obviously always, you know, a little bit of preload. But here the heart mainly, but not solely, will contract with a concentric only contraction like a deadlift and the cells get thick.
+
+00:44:22.288 --> 00:44:50.464
+with three C's. So I think one thing to note about this kind of heart adaptation is that this is also something that people who are overweight and who have a lot of arterial plaque buildup experience because your heart all of a sudden encounters all of this additional resistance to pump the blood through your body even when it's at rest.
+
+00:44:50.464 --> 00:45:19.312
+And so this, to a certain extent, this kind of cardiac hypertrophy in certain patients is actually seen as a bad phenomenon. Yeah, usually, because I just obviously read through like a lot of papers on heart adaptations prepping for this show, most of the papers on this are actually about pathologic
+
+00:45:19.312 --> 00:45:43.856
+Cardiac Hypertrophy. So here's what happens with preload. So with consistently high preload, the adaptation is adding more psychomeres to cardiac muscle in series, which means the heart gets more distensible. And over a long enough time frame, the chambers, particularly ventricles, get larger. And this is known as eccentric hypertrophy. And the cells get longer, but not thicker. And so now...
+
+00:45:43.856 --> 00:46:11.648
+From here on to the rest of the episode, we'll probably talk about adaptations in terms of afterload or concentric and preload or eccentric. So these are the two heart strategies and these are the two types of adaptation that the heart makes in order to adapt. And you can, in case anyone wants to know a little bit more about how they make some of these measurements, if you get an echocardiogram, it's kind of like a sonogram that you'd get for, you know,
+
+00:46:11.648 --> 00:46:37.680
+Fetus, but instead they hold the transponder over your heart and your chest and then they can actually measure things like the thickness of certain muscles in your heart, which is kind of cool. All right, so it's probably no surprise that most sports tend to induce both types of cardiac adaptation and remodeling. So in the show notes, I like to review a titled Acute and Chronic Responses to Exercise in Athletes, the Supernormal Heart.
+
+00:46:38.000 --> 00:47:01.680
+And what we have in this paper is in figure 2.4, we have a chart on the impact of sport type, and it goes 0 to 100%. So for instance, just looking at this, the sport with the most impact on the heart, cycling, rowing, canoeing, swimming, cross-country skiing, those are the top four. In the bottom, it is...
+
+00:47:01.680 --> 00:47:29.120
+something which will tell me in a second, equestrian, wrestling, weightlifting, I think they left it as comparisons. So the sports that have a relatively big effect on afterload adaptation relative to preload adaptation, so not just in an absolute sense of like changing the heart from untrained, we're looking at what is it relative one type of adaptation to the other.
+
+00:47:29.120 --> 00:47:58.592
+So sports that have a big effect on afterload adaptation are wrestling and Olympic weightlifting. So probably not a surprise. Sports with a large effect on preload adaptation relative to afterload, not in an absolute sense, are soccer slash football. That's European football for you Americans. Alpine skiing and cross-country skiing. Obviously, cross-country skiing has way more preload adaptations in an absolute sense than alpine skiing.
+
+00:47:58.592 --> 00:48:28.176
+Relative to the afterload adaptation, they're, you know, they're running away from the afterload adaptation. Not a lot of hard core abdominal bracing or something in alpine skiing relative to, like, Olympic weightlifting. Just comparing those two sports, like, in your mind. Yeah, exactly. Very different. So all the other sports here contribute a large degree to both. So these include cycling, swimming, hockey, tennis, and rowing.
+
+00:48:28.368 --> 00:48:57.520
+There is some, obviously, afterload adaptation in everything. There's some eccentric adaptation in everything. The sport that they included, by the way, that has zero impact on anything is yachting. Yeah, it's barely peaking above zero in yachting. So let's talk about the difference between cross-country skiing and cycling for a little bit because, obviously, I have some opinions. So it stands out here.
+
+00:48:57.776 --> 00:49:20.448
+Cross Country Skiing as the, this is the only sport where the preload adaptation is way, way more impactful than the afterload adaptation. There's way more of that than afterload adaptations. So I can pretty easily imagine that this is largely due to the muscle pump effect. So it's the only sport around here, or it's the only sport in this list where both arms and legs
+
+00:49:20.448 --> 00:49:48.256
+are contracting hard enough through a large range of motion. Sorry, rowers, not you. Meaning they need a large blood volume and preload to supply all this muscle mass. And they've got tons of muscle pump to bring it right back and potentially with very little resistance to flow, like very little core bracing and whole body isometric kind of stuff like that. So compared to cycling where our T-Rex arms do basically nothing.
+
+00:49:48.256 --> 00:50:14.784
+And our hips are at a tight angle, meaning the heart, this might be where the heart has to add some afterload adaptation to help push the blood through this. And we've actually seen a lot of athletes who have problems in their arteries and veins going down to their legs around the hips because of this tight angle that they spend so much time in. It's interesting because I think also a great old wives' tale about why
+
+00:50:14.784 --> 00:50:42.256
+Cobbled Classic Cycling Races Are So Hard is the claim that all of the vibration and shaking that you get from riding over cobbles actually counteracts some of this muscle pump effect, and that's why it feels so much worse. Well, actually, we're going to talk a little bit about that. So put a pin in that, and we're going to circle back. What kind of stimuli leads to these modifications? And this is the next step.
+
+00:50:42.256 --> 00:51:11.696
+in explaining my training philosophy with training VO2max. So this is the real business end that we're getting to here. Now that we've done two, three and a half episodes on the physiology of VO2max, we're now getting to, I think, a rather complete level of understanding if you've been following along. So if we want the heart to adapt to preload, it needs to be able to sense the preloading somehow and turn it into an adaptive signal.
+
+00:51:12.656 --> 00:51:30.880
+Right? And it can. So cardiac muscle cells have what are called integrins, which are membrane receptors that detect stretch by attaching to sarcomeres, which again are basic contractile unit, but next to the membrane. So the integrins we're interested in are found...
+
+00:51:30.880 --> 00:51:59.056
+at what are called costameres, which is the Z-disc actin complex with the membrane, and intercalated discs. And intercalated discs, you've probably heard of before costameres, which are the end-on-end attachments between heart muscle cells. And all of this links to collagen and whatnot. So mechanical tension, but also hormones and other ligands can activate these protein complexes with the integrins to induce a signal cascade.
+
+00:51:59.056 --> 00:52:28.432
+Which we're definitely not going to get into because it's stupidly complex. And we don't have any, you know, master switches like mTOR and PGC-1 alpha. We don't have any of these discovered quite yet, but there are some really interesting papers on this kind of stuff. So regardless, if we want to increase the signaling, we need to induce mechanical tension. And this is why I said earlier that preload is the most crucial aspect of adaptation for VO2 max.
+
+00:52:28.624 --> 00:52:51.104
+Is it all starting to fall together now? Yeah, that makes sense. This is interesting. The idea that this, yeah, that it's a mechanical stimulus is really interesting, I think. Yeah, but we can sense mechanical stimuli in the body. Like we have a stumble reflex, you know, and we have a stretch reflex.
+
+00:52:51.104 --> 00:53:20.736
+in our legs and actually in all of our muscles. So we have muscle spindles and we have Golgi tendon organs which either detect rapid periods of stretching like when we fall and this triggers us to contract and catch ourselves and it doesn't go to the tensional nervous system. It doesn't go to your brain. It's right in the spinal cord. It's very quick. Or there's the other one that will detect too much stretch and so it's going to go, oh my God, we're about to tear this muscle off the bones.
+
+00:53:20.736 --> 00:53:49.264
+and it's going to actually shut you down. Like we've all done lifts where we fail and we're like harder, harder, harder and then our muscles just disappear. Yeah. Yeah, yeah. So that's that. So we know that we have ability to sense mechanical tension and also mechanical tension is one of the things that induces skeletal muscle hypertrophy, right? Yeah. Okay, cool. So how much mechanical tension is sufficient?
+
+00:53:50.192 --> 00:54:19.952
+So if we go back to the diastolic filling chart of the trained versus untrained, and we see that no matter where we exercise between 130 and 190 BPM for the untrained people, they're at max diastolic filling, which means they cannot stretch their heart anymore. So something we would probably see in the untrained group, if they started riding,
+
+00:54:19.952 --> 00:54:49.664
+would be to increase plasma volume, obviously, and we would see an increase in VO2 max, and as we do in so many studies in the short term, blood volume will drive increased VO2 max by driving an increase in stroke volume. So if we just gave untrained people more blood volume, we would probably find that their heart stroke volume will increase. But remember that the COIL study, when they infused plasma into the trained group, and they found zero increase in VO2 max,
+
+00:54:49.664 --> 00:55:09.568
+They probably found the maximum amount of diastolic filling in those athletes' hearts. Yeah, their body's already maxed out and has the blood volume to match and additional blood volume doesn't increase the filling. Exactly, yeah. So, my operating principle at the moment, and...
+
+00:55:09.568 --> 00:55:34.992
+It may not stay constant, so if it's been more than a couple months since this episode's been out, or whenever you listen to this, double check with me if you're curious if I've changed my philosophy at all. So my philosophy is that there's a maximum volume, and working at that max volume, which can encompass a range of heart rates for sure, is the best way to stimulate eccentric hypertrophy.
+
+00:55:34.992 --> 00:56:04.880
+We, because when it comes to well-trained athletes who probably don't plateau, you know, we now need to think about where in this range of diastolic filling are we going to need to work to get the heart to figure out that it needs to increase its preload or to increase the amount of volume that it can fill diastolically. I mean, I would say a sort of strange
+
+00:56:05.584 --> 00:56:31.136
+A strange analogy is when you look at bodybuilders, a lot of times they want to talk about maximizing time under tension or the amount of time that your muscle is actually applying force while lifting weights and sort of targeting lots of volume for sort of regular muscle hypertrophy that way. Well, that's an interesting parallel because
+
+00:56:31.136 --> 00:56:58.368
+In my understanding, and we're going to get a little sidetracked here for a second. Sorry, everybody. My understanding is that, you know, it's kind of like you're actually going to fatigue when doing those lighter lifts before you get to really challenging your muscles to produce mechanical tension. And so if you do too much light lifting or even medium lifting,
+
+00:56:58.368 --> 00:57:27.584
+You're not going to be able to access those larger motor units that you need to train. And if you're just doing the same thing all the time, if you're just doing the same, now we're going to parallel this to cycling, if you're doing the same endurance riding all the time, you're not stressing your heart enough to increase VO2 max. And I know a lot of people, because there's a lot of stuff out there that says do endurance riding to increase your VO2 max. And don't get me wrong, for the untrained folks, it will work because you're increasing your blood plasma volume.
+
+00:57:27.584 --> 00:57:54.352
+When you become really, really well trained, doing 30 hour weeks in zone two or endurance pace, whatever you want to call it, you are not going to increase your heart stroke volume. And I know this because I've trained a lot of people who have come to me who ride 20, 30 hour weeks and they say, I think I'm tapped out on my adaptations. And I'll say, we'll see about that. And then we do some targeted VO2 max work and then their VO2 max increases.
+
+00:57:55.120 --> 00:58:18.032
+Yeah. And that makes sense too. Like if you're just doing the same stuff over and over and over again, you're never actually overreaching. Yeah, exactly. And because I think it's because they're spending too much time at the low end of the diastolic filling curve, like in the middle, like top two thirds, top three quarters or something like that. You're never going to challenge your heart that much. It'd be like if you only did...
+
+00:58:18.032 --> 00:58:46.304
+sweet spot intervals, the same sweet spot intervals over and over and over again. And we're like, oh, my FTP isn't going anywhere. I think a lot of people are feeling pretty called out right now. Sorry, folks. Yeah. Anyway. All right. So we're going to get into nitty gritty details on this next episode, which I've already started writing, by the way. So it's going to come out sooner than later. We appreciate your patience. So when it comes to well-trained athletes who don't plateau,
+
+00:58:46.304 --> 00:59:15.840
+My goal is to spend as much time as is reasonable as close as possible to maximum preload. Because, you know, there's the age-old question, I think it was asked in the 50s or something like that. Do we improve VO2max better with more time at 90% VO2max or less time at 100% VO2max? So in case you couldn't tell, my answer is less time at 100%, particularly for cycling. Now, why?
+
+00:59:15.840 --> 00:59:42.352
+As in anything, people have a range of responses to the same stimulus. Your friend can do four bicep curls a week and be ready for Mr. Olympia, and you need to work out like you're plotting revenge to see a lump. And so without actually being able to detect a preload plateau or not, or what's going on exactly in the heart, erring on the side of more means we have a much better chance of getting the adaptation that we want.
+
+00:59:42.352 --> 01:00:11.776
+and in all of my experience this has turned out to be the right strategy as opposed to you know more time and less but particularly the first cycling um we'll talk about that because um it's an open question still about how much the stretch signals get integrated into the downstream signal chain so we know some of the pathways but um you know we can actually think about the signals through the adaptive pathways as um
+
+01:00:11.776 --> 01:00:37.136
+as like pulses, like waves. One of the questions is, do we need to like see a short but hard pulse? Do we need to see a lot of short but not as intense pulses? Or do we need to see like bigger, more forceful pulses a little less frequently? That's my preferred way to approach this right there. That's what I find works best.
+
+01:00:37.904 --> 01:01:06.896
+Our real source, our real best source of information right now is in comparative physiology. So let's look at concentric versus eccentric hypertrophy in cross-country skiing and cycling. So with cross-country skiing, this is where Steven Seiler cherry-picked his polarized training data from. But we can see how physiologically cross-country skiing is not like cycling. So with cross-country skiing and...
+
+01:01:06.896 --> 01:01:31.904
+running to a lesser degree, like we mentioned before, these sports seem to suffer from an abundance of diastolic filling based on their adaptation profiles. So I suspect in these disciplines that when training to raise VO2 max, you may only have to work at 90 to 95% of VO2 max to preload your heart enough to stretch it enough to create eccentric hypertrophy.
+
+01:01:31.904 --> 01:01:57.712
+So I have no doubt that it's the case that working at 90 to 95% of VO2max when cross-country skiing is a much higher stretch stimulus on the heart than in cycling. That's interesting that, you know, this kind of brings us back to this idea that VO2max is very modality dependent and an example like this shows that conclusions made about VO2max in one sport are not necessarily...
+
+01:01:57.712 --> 01:02:27.376
+immediately transferable to a different exercise. No, you're exactly right. All right, so remember in the AVO2 difference episode, we actually talked about the difference between VO2 max in swimming versus cycling versus running, where they get higher, like in the same athlete. Swimming is the lowest one because you don't get a lot of range of motion of your legs. You know, like you swim, you know what's up. You're using your arms a lot, right? Yeah, but you're right. You're not...
+
+01:02:27.376 --> 01:02:56.256
+You're also not faced with the same types of loads or like inertial loads like in cycling or running, something like that when you're swimming. Right. Yeah. But in cycling, we're using our legs, glutes, potentially, you know, some core muscles and stuff like that. Arms, eh, not so much. So, you know, like we mentioned, we've got that kink in our legs too. So the blood has a little more resistance. So this might be where we get the...
+
+01:02:56.256 --> 01:03:25.984
+Afterload Adaptation is from. But in running, you know, we are evolved to run, not to ride a bike, unless there's, you know, bikes from, you know, the Pleistocene that I'm not aware of or something. Oh, yeah. So in running, you know, we probably see, you know, that we're optimized for diastolic filling adaptations when running. You know, arms are moving. We get, you know, they're somewhat isometric, but we still have
+
+01:03:25.984 --> 01:03:55.664
+Blood Flow, our shoulders are moving. Our legs are at a better angle, so we don't have much resistance to the flow. And in cross-country skiing, especially where you are really using your shoulders and your arms, this is probably why we see preload adaptation running away from afterload adaptation here. Because in cycling, preload and afterload adaptations look pretty even. And so in general,
+
+01:03:55.664 --> 01:04:24.368
+It looks like it's more difficult to induce eccentric adaptations while cycling because there isn't enough pumping going on to help venous return. Sure, we probably have similar adaptations in terms of autonomic function, vascular and muscular metabolic adaptations, but the things where we lack in cycling also that affect preload in addition to muscle pump and more working muscle mass is blood volume because in cross-country skiing,
+
+01:04:24.368 --> 01:04:53.504
+We have larger distribution requirements, so arms and legs, and we're also fighting against gravity. You know, this would probably lower blood pressure during exercise and trigger more blood volume because, you know, our kidneys are going to go, oh my God, or our baroreceptors are going to go, oh my God, we got to fix this and fix it right there, right? Yeah. So none of this is to say that one's potential highest VO2 max attainable would be determined by sport type, but
+
+01:04:53.504 --> 01:05:22.224
+My interpretation for now anyway is that without your genetics tilting you towards being extremely responsive to somewhat less preload stimulus that it's going to be harder to induce these adaptations in cycling. That makes sense. Now check this out. This is the last little note here. Research suggests
+
+01:05:22.224 --> 01:05:51.840
+that preload adaptations actually inhibit afterload adaptations. Interesting. Yeah. And so if we look at a lot of studies that just look at quote unquote cardiac hypertrophy, most of these have no distinction between serial or parallel sarcomere assembly. None whatsoever. And they're all looking at certain key pathways like MECH 1-2, but
+
+01:05:51.840 --> 01:06:21.792
+They're not talking about what exactly are we inducing with this. And so this would actually fit with the fact that the mTOR PGC1 alpha signal pathways eventually have the aerobic adaptation interfere with the strength adaptations. So overall, we would see that the body as a whole favors aerobic adaptation over strength. That seems to be consistent with what
+
+01:06:21.792 --> 01:06:51.056
+Anthropologists and other human people who study human evolution would suggest based on historic man's ability to feed itself. Let's also look at the muscle pump. Let's think about that for a second in the classics, right? So one of the things that I've noticed happen, I don't have any power files on this, obviously, is it looks to me like the cadence drops along the cobbles.
+
+01:06:51.056 --> 01:07:19.984
+you know on these on these like rougher sections of road yeah and in gravel and stuff too yeah and I mean I noticed this in particular especially the athletes I coach in cyclocross and gravel tend to have a lower cadence there and one of the things that we notice is that is that this leads to a lot more fatigue more quickly now we're going to talk a lot about this in depth in the next episode but the lowering of the cadence is actually going to reduce
+
+01:07:19.984 --> 01:07:41.584
+the muscle pump diastolic filling of the heart. This is going to reduce cardiac output without a subsequent increase of heart rate. And I guess you hint a little bit that these higher cadences see higher cardiac output, which maybe jives with what...
+
+01:07:41.584 --> 01:08:11.136
+Carmichael and Armstrong said back in the day of, oh, like aerobic climbing and all this stuff at like 120 RPMs. Well, I mean, because there have been a lot of studies looking at O2 uptake and changing cyclist cadence and seeing that higher cadences do require more O2. I think the last thing to note on this is that, you know, it's not going to be like two days of training to really see good long-term
+
+01:08:11.136 --> 01:08:39.408
+Eccentric Cardiac Hypertrophy. So, you know, we may get the signal, but remember, the optimal length of a sarcomere is about 2.4 micrometers. And creating enough heart material to make a permanent increase in stroke volume can take a lot of time. I mean, now you've just looped back to your thesis that all training is base training. And that even...
+
+01:08:39.408 --> 01:09:08.656
+You know, VO2 max intervals you did years ago are going to help contribute to you training better now. Yeah. I mean, and a lot of athletes I have who take a little layoff and they come back and they're like, oh my God, I'm going to be, my FTP is going to be back down to 200 watts again. It's like, it's like it won't because your heart is still as big as it was. All we need to do is do a couple of weeks of endurance training and your blood volume is going to come back up and your VO2 max is going to come back up and then
+
+01:09:08.656 --> 01:09:36.880
+Then we get to worry about things like muscular vascularity and capillarity and things like that. Now we see that the whole picture, everything, that affects VO2max, but now we see that really it's cardiac output that has the biggest effect on VO2max and why. But yeah, this also I think goes to a point that I was going to make a very cliched joke, but like even if you take layoffs,
+
+01:09:36.975 --> 01:10:06.304
+Like you said, you haven't detrained that much. And you can say it's just like riding a bike. Your body figures it out pretty quickly, much faster than it did to get there from that first go around. Yeah, for sure. And it's all a big intertwined system. So if we have more muscle capillaries, our blood pressure is going to drop more when we start exercising, when we get to really intense exercise.
+
+01:10:06.304 --> 01:10:33.648
+Kidneys are going to go, okay, we need more blood volume. We'll take care of that. And if you spend too long without getting to those low-pressure situations at intense exercise, then your body's going to go, we don't need all this extra blood volume. Let's pee it out. And you do. And so this is one of the things where when you see like, oh, endurance training really increases your VO2 max because you have more muscle mitochondria.
+
+01:10:33.648 --> 01:11:03.024
+are not, like, we cannot tap those out. Like, the maximal mitochondrial rate is so far and above the amount of oxygen that we can present to it to use, as we talked about in the AVU2 difference episode, and probably the last episode and the one before that. Just, just, I always just think back to that, you know, your one leg VO2 max is basically the same as your two leg VO2 max. About 75%. Yeah. How do you think we've done so far with
+
+01:11:03.024 --> 01:11:31.376
+presenting everybody with a rather complete picture of all of the things that go into VO2 Max. I think this is really good. I think, as far as I know, this is the most thorough review of VO2 Max and such that I've seen. And I think that it's really useful because there are probably more misconceptions or more misunderstandings or just more
+
+01:11:32.080 --> 01:11:50.752
+Ignorance, not willful ignorance or ignorance in a negative way, but just people know less about VO2 Max and they do about FTP or something like that. And so I think this has been a really good sort of wrap up of how this actually comes about and what...
+
+01:11:50.752 --> 01:12:19.200
+When we talk about improving VO2 max, what are the things, what are the physiological abilities or quantities that we're actually improving, aside from just peddling harder? Yeah, and so now we can actually take a look at studies that, you know, see, oh, you know, these subjects found a bigger increase in VO2 max than these subjects who did this, and now we can see, you know, what was it? Was it, you know, potentially blood volume? You know, if the study doesn't measure that, then, you know, I have questions.
+
+01:12:19.200 --> 01:12:44.848
+You know, there's a lot of ways to increase VO2 max in the short term. And most of it is blood volume. And actually, we're going to, I think we might take a look at that specifically in the next episode. And we're definitely going to look at the effect of cadence on diastolic filling. And we're going to look at a bunch of other stuff. We're going to take a look at the Ronstadt protocol. And we're going to look at...
+
+01:12:44.848 --> 01:13:14.816
+We're going to look very in-depth in that study that everybody seems to be doing Ronstadt intervals and we're going to go over why I don't think that study holds any water at all. And I think I'm going to make a very good case for why you should do intervals the way that I'm going to suggest doing intervals. And remember, I'm not making any money off of this. I want people to train better and get faster. I have no horse in this race other than
+
+01:13:14.816 --> 01:13:43.888
+presenting to people my way of thinking about this and doing things. I think hopefully this also, kind of like you said, goes to point out that some of these studies on untrained subjects and improvements in VO2 max do not produce conclusions that are useful to trained athletes as well. Yeah, I 100% agree. So watch out for those studies where like, oh, this new latest and greatest exercise protocol, blah, blah, blah. All right, so.
+
+01:13:43.888 --> 01:14:04.032
+As always, I want to thank everybody for listening, and these episodes are getting quite long, but I wanted to kind of get them done so that we can get onto the fun stuff for the next episode. Enough background. We're really going to get into the intervals and what you should be doing and how I think you can improve your VO2Max intervals and improve your VO2Max.
+
+01:14:04.032 --> 01:14:25.040
+in the long term, not just the short term. So I want to thank you guys and please subscribe to the podcast wherever you listen to the podcast and if you would like to give us a rating wherever that is and share the podcast with your friends if you're enjoying the content and remember that we're ad-free so if you want to donate and like I said before you can earmark your donation and we will use it for your earmark.
+
+01:14:25.040 --> 01:14:39.152
+We've got all the show notes up on the website, empiricalcycling.com. And for any coaching and consultation, inquiries, questions, and comments, you can send an email to empiricalcycling at gmail.com. And with that, we will see you guys next time. All right. Thanks, everyone.
+

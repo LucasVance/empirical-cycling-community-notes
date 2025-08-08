@@ -1,0 +1,544 @@
+1
+00:00:00,368 --> 00:00:29,520
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, joined as always by my co-host, Kyle Helson, and I want to thank everybody for listening as always, and I want to ask that you please subscribe to the podcast if you have not yet done so, and also think about giving us a rating on iTunes or wherever you are listening to podcasts. And remember, the best thing for the show that you can do for us if you want to support the show is to share the show with your friends and repost the show. If somebody's got a question on a forum and you've heard the answer here on the podcast, we love it when it gets shared like that.
+
+2
+00:00:29,520 --> 00:00:55,440
+but also we are an ad-free podcast so if you would like to donate you can do so at empiricalcycling.com slash donate we have the show notes up on the website and we also have merch at empiricalcyclingpodcast.threadless.com and if you have any coaching and consultation inquiries questions and comments you can email empiricalcycling at gmail.com I also want to take a second to plug the Instagram at empiricalcycling as you might expect
+
+3
+00:00:55,440 --> 00:01:17,488
+What I've been doing is on weekends, I've been putting up AMAs in the Instagram stories. So if you want to participate in that, I'll put up something like, you know, ask me anything about FTP or VO2 Max or whatever. If you want to suggest a topic, please do and I'll probably do it because usually I'll just default to FTP or FTP testing or something like that.
+
+4
+00:01:17,488 --> 00:01:47,280
+Also, I want to thank everybody for listening to all the VO2 Max episodes. Not everybody has listened to all of the background physiology episodes. Those shows have a little lower listen counts. That's okay. We appreciate you listening to those as well. But I want to make sure everybody gets into those background episodes if you have any deeper questions on the physiology behind VO2 Max. And also, sorry for the delay in getting more podcasts out, but I really needed a break. My brain was screaming for recovery.
+
+5
+00:01:47,280 --> 00:02:07,648
+One of those shows, you spend a lot of time chasing down the little odds and ends. And we'll also have more podcasts coming out soon, more 10-Minute Tips episodes and whatnot. This episode is obviously on training for Everesting. So this has been kind of popular with all the quarantine stuff that's going on, especially in America. Elsewhere, there...
+
+6
+00:02:07,648 --> 00:02:35,728
+They're racing again. I've got athletes racing in Europe again and Australia. But in America, we're still pretty much relegated to solo activities in a lot of places. So Everesting has, I think, become a little popular. Does that kind of make sense as to why it's grown over the summer? Yeah, that was kind of my impression. I think there were a couple people, I think back in June, right, who really first started hitting it out big.
+
+7
+00:02:35,728 --> 00:03:04,832
+on these everlasting attempts and it sort of took off from there. Once you get a few, you know, famous people or a few former pros and things like that and then it kind of takes off on social media. Yeah, and there was also no other racing news happening so it was like the only interesting thing happening. And it sort of makes sense naturally like people are going to look for challenges and goals and something to do that is like racing in a way but, you know, it's kind of like a it's an extreme time trial really.
+
+8
+00:03:04,832 --> 00:03:33,168
+not quite like Race Across America extreme but it is a form of an extreme time trial so yeah it makes sense that this is something that people can do and it also doesn't require you to go to some specialized area like a lot of people were able to you know find hills to do their everesting attempts on relatively close to where they live you know it doesn't it's not like you have to fly somewhere fancy or special or pay a registration fee or something.
+
+9
+00:03:33,328 --> 00:04:03,088
+Yeah, although there is a website on Everesting, everesting.cc, which I honestly didn't even know about. I didn't know like how anybody came across any rules or anything like that. Because, you know, there had been a couple attempts where it was like, oh, that was against the rules. And I thought was, I didn't know there were rules. So apparently, you know, I'm not saying that these are the official rules. I don't know anything. There's not an Everesting sanctioning body, you know, recognized by the IOC or anything like that. Although I think that would actually be pretty interesting.
+
+10
+00:04:03,088 --> 00:04:27,696
+You know, if you want to just, you know, Everest as in, you know, your set of rules is I'm going to climb 8,848 meters in one ride. That's fine if you want to do it, you know, but there are additional rules if you want to like play by those. And we'll kind of go through those because they seem to be just widely accepted. So we'll kind of act like those are, you know, the stipulations for the Everesting that we're going to talk about today.
+
+11
+00:04:27,696 --> 00:04:44,944
+I think that actually, that was where one pro or like former pro got disqualified is where his first attempt actually included some of his ride elevation to get to the hill that he was going to do repeats on and the official rules state that all of the
+
+12
+00:04:44,944 --> 00:05:09,216
+Meters used to calculate the total ascent must be repeats of the same hill. So you must go up and then turn around and come back down. You can't ride in a loop or a lollipop shape or whatever. It has to be the same hill over and over and over and over and over again. Or the person who went over the top of the hill and then did the other side, then came back and then... Exactly, yeah. You can't do like multiple...
+
+13
+00:05:09,216 --> 00:05:36,096
+Routes up the same hill. I would say you can do that, but, you know, it depends on what role set you want to follow. Sure. Yeah, and so I personally love Everesting because I'm actually a huge fan of ultra-endurance training and racing, but I love the fact that the logistics and the preparation of it are a lot like doing a time trial. Like, you know, there are
+
+14
+00:05:36,096 --> 00:06:00,816
+you know variables out on the road but there are also a lot of things that are completely and 100% under your control and that's why I think that this kind of thing is great and personally like you know if you're if you're an ultra endurance athlete and you would like some cyclists especially if you'd like some coaching please reach out I love training ultra endurance people so let's talk about how fast
+
+15
+00:06:00,816 --> 00:06:30,784
+People have done Everesting, kind of like as a place to start. So the women's record is 8 hours, 53 minutes and somewhat seconds by Emma Pooley. The men's record is 7 hours and 4 minutes by Rona McLaughlin. And we'll apparently have links to their Strava activities for this in the show notes. However, the average times I usually see for athletes are in the 9 to 13 hour range.
+
+16
+00:06:30,784 --> 00:06:51,648
+you know for the purposes of this podcast we're just going to call it 12 hours for a nice round number but we'll know that we kind of mean you know ish no that yeah that makes sense note that uh obviously um Emma Pooley rather famous former professional cyclist um former GCN presenter uh some people wanted to bill like oh like Ronan McLaughlin like this
+
+17
+00:06:51,648 --> 00:07:17,376
+Amateur sets this, uh, this, this Everstring record, but he was like a pro Conti rider. He wasn't just like some dude off the couch who liked to ride his bike. Uh, just FYI, you know, people want to say all this amateur because, um, at the time, just before he did it, like, uh, Contador had set the record just a few weeks before, uh, McLaughlin went out and then smashed the, the record by like 20 minutes or something like that.
+
+18
+00:07:17,376 --> 00:07:30,976
+Yeah, and, you know, Contador's been retired for how long now? And, you know, also, I mean, the Phil Gaiman podcast with McLaughlin I thought was really interesting because McLaughlin went through some of his preparation stuff to save time.
+
+19
+00:07:30,976 --> 00:07:56,816
+So that's worth listening to. We're going to cover a couple of cursory things like that, but there are a lot of other resources about that kind of stuff out there. So our focus really is going to be on the overall logistics and the training rather than picking the right route and stuff like that, because other people have done that and done it better. So prepping for a 12-hour intermittent hill climb.
+
+20
+00:07:56,816 --> 00:08:23,168
+So to me, 12 hours is about the average timeline for eating three meals, something like that. Or, you know, for like having a workday, you can go to and from work and get in a training ride in 12 hours. That's how I think of a ride like this, like in context of preparation. And 12 hours of riding in one spot has very large advantages.
+
+21
+00:08:23,168 --> 00:08:48,576
+from like doing a long loop or like ultra endurance racing across the country and stuff like that because you can actually carry a lot less stuff with you. And when I've trained people to race across the country, you know, preparation and like, you know, riding with your packs and stuff like that, like that is a big part of this kind of thing. But, you know, one of the appeals I think of Everesting is that you can just leave your stuff in a bag like at the bottom of the hill or in the parking lot and you're going to be fine.
+
+22
+00:08:48,576 --> 00:09:16,976
+And, you know, I think of this as like a borderline ultra endurance event. You know, ultra for running is pretty well defined. It's pretty much anything beyond a marathon. But in cycling, it's a little bit fuzzy. Some people call it 200K. Some people call it, you know, 100 miles. But, you know, there are races that are 100 miles. You know, you look at 100 miles in the tour, like that's not an ultra endurance race or is it? You know, who knows?
+
+23
+00:09:16,976 --> 00:09:30,864
+You kind of, and two, like if you think, um, Milan San Remo, right, is Oh yeah. the longest pro race and it is longer than 200k or 120 miles and so even that is like
+
+24
+00:09:30,864 --> 00:09:53,600
+you know kind of borderline quote unquote ultra endurance like if yes you know everyone requests to race Milan San Remo has to prep for it a little bit special but it's not like they have to completely change their training cycle to be able to complete Milan San Remo yeah and you still finish it up with a 45 mile an hour sprint right yeah so
+
+25
+00:09:53,600 --> 00:10:22,784
+So we're actually going to think about this not in terms of distance or vertical gain here because the vertical gain is given. We're going to think about this in terms of time for the most part because, you know, as most people start riding their bike, you know, we all probably thought in miles or kilometers and as we, you know, grew in our training mindset, we started thinking about more time because, you know, if you spend a lot more time climbing, you're going to go slower, cover less distance, et cetera, et cetera. So, you know, our real focus here is going to be the time.
+
+26
+00:10:22,784 --> 00:10:50,080
+it takes to gain 8,848 meters. So with the logistics prep, we're going to cover this first, because to me, honestly, this is more important than the training aspect. Your first order of business, you need to find a good road for the task. And I'm going to strongly recommend at least one recon run, if not two, and we'll talk about that in a minute. Proper gearing on your bike.
+
+27
+00:10:50,080 --> 00:11:19,408
+Having a nutrition plan, being ready to fix your mechanicals, and having an emergency and medical plan. So with the road, so I suggest somewhere you can either park a vehicle or leave a bag with your supplies in it. And especially having a spot to go to the bathroom close by or like bring a roll of toilet paper and have a favorite tree or three to shit behind if you're with others. Yeah, note that
+
+28
+00:11:19,408 --> 00:11:44,640
+There was a rider from the University of Virginia who was out on his first Everesting attempt and the road he chose ended up actually being a private road and so like halfway through he got stopped by someone. So yeah, definitely recon ride. Strongly recon ride that road. Yeah, and if it's private property, make sure you've got permission. If you really want to go for time, I suggest having
+
+29
+00:11:44,640 --> 00:12:13,520
+Less traffic on the road because it's going to be easier to turn around. It's going to be safer that way. And having good turnaround visibility at the top and the bottom of the road. And if it's a private road like close to cars or traffic, that would be even better. Or spotters, honestly. If you have friends who can tell you good time to turn around, not a good time to turn around, also useful. Yeah, especially if you're getting loopy at the end of your ride. It's very handy to have somebody there to help you think.
+
+30
+00:12:13,680 --> 00:12:19,680
+Straight Road with minimal turns is very nice, so you don't have to brake while descending.
+
+31
+00:12:19,680 --> 00:12:46,544
+This is an advantage for time, but also I think it's a safety precaution in that you don't have to negotiate as many turns when you are exhausted and having good visibility around those turns is really good too. Like I can think of a climb near me where people have Everested and there is a hairpin and especially in the summer when the trees have all the foliage on them, you cannot see around that turn and you can take it fairly quickly and there's hikers and stuff a lot of the time and it's just...
+
+32
+00:12:46,544 --> 00:13:13,616
+Yeah, it's not the best turn to have in your Everesting when you're doing that like 80 times in a day. And also, I didn't know this until I looked at the rules, you know, the rules on the Everesting site. They have a kinetic gain rule on the website if you want to follow that. So check that out. It's something about coasting and like being able to like coast over elevation gain on the way down. So if there's like a little...
+
+33
+00:13:13,616 --> 00:13:41,680
+Uphill, and you can like coast over that, like it doesn't actually count. Although if you have to like actually climb at some point, it actually counts. So they've got a calculator on the website. So check that out. The other thing of picking the right road is to calculate the elevation not based on your computer. Use Strava or like Google Maps or something to look at the actual elevation gain between two known points.
+
+34
+00:13:41,680 --> 00:14:07,088
+and calculate based on that. So if your climb is 128 meters tall to pick a perfectly and completely random number, then you will have to do some total of 69 reps to Everest up that climb. Or actually just over 68, but you always want to round up just in case, right? For that little bit of error.
+
+35
+00:14:07,088 --> 00:14:29,904
+You don't want to get there and do 838 meters and want to, you know, punt your bike into the woods after you don't make it. Well, so when you pick this climb, you also want to make sure that you have the right gearing on your bike. This kind of goes hand in hand with the slope of the road. So choosing the right road.
+
+36
+00:14:29,904 --> 00:14:55,584
+There's a little give and take, especially if you may not have the budget for more gears or you cannot find a gear small enough. So I would normally suggest finding the steepest hill that you can climb on comfortably because less wind resistance means more energy fighting gravity and not the wind. So Kyle, I bet you have a lot of scientific thoughts on this.
+
+37
+00:14:55,584 --> 00:15:22,768
+Yeah. Yeah, I would generally agree, like, sort of steeper is going to be better up to a point, like you said, if, you know, you only have 39, 28 and you're trying to go up a hill that's like 18% or something like that, you're going to have a bad time and you're going to be pretty far outside of your, like, optimal climbing cadence and so that's going to make it pretty rough if you have to do that, you know, dozens of times or something like that.
+
+38
+00:15:23,440 --> 00:15:42,480
+Just as a comparison, the two world records, and Pooley's ride was done up a hill that was pretty steep, on average like 13%, and McLaughlin's ride was done up on an insane 800 meter climb for 69 reps on a hill that averaged 14%.
+
+39
+00:15:42,608 --> 00:16:11,024
+So just for some round numbers, a pretty famous climb in the Northeast, if you have been in the cycling scene at all, or maybe even the cycling scene in general, is Mount Washington. The Mount Washington Auto Road Hill Climb famously averages about 12%, and it's a 1,400-ish meter climb. So for example, for this, if you wanted to Everest up Mount Washington, you would need something like six, just over six ascents.
+
+40
+00:16:11,024 --> 00:16:39,584
+and people famously from Mount Washington will gear their bikes ridiculously down so that sometimes, especially for us mere amateurs, mere mortals, will have like a one-to-one gear ratio. Yeah, or less. Or less. And they're only going up once and so then this is 12% and so you really have to think about it if you're going to do this for potentially 8, 9, 10, 12 hours like you're not going to be able to climb up the first ascent
+
+41
+00:16:39,584 --> 00:17:07,551
+like you're going to be able to just immediately recover and go super, super deep. So you want to have probably easier gearing than you think you need. And then even there, after your recon ride that we told you to take, whatever you found was your favorite gearing, you're going to want to have one, if not two easier gears in case you hit a wall, you bonk, you realize you have to take a nature break in the middle, something like that. Something goes wrong. You don't want to be stuck in like...
+
+42
+00:17:07,551 --> 00:17:37,104
+36, 28, just like reaching for another gear and just it not being there. Yeah, not having that extra gear to bail out on is like one of the most demoralizing things that can happen and it's happened to all of us. Yeah. I think the other thing is that you really have to realize that like I looked for it and I couldn't find it anymore and I was disappointed but Cameron Cogburn had written a blog about his multiple attempts to break Tom Danielson's.
+
+43
+00:17:37,104 --> 00:18:05,488
+Mount Washington record. And he even said, like, he geared up his bike to have his preferred gear and then one easier because he knew, God forbid, if you get up there and the wind shifts or something happens and you need an easier gear and you don't have it, like, you're going to have a bad day. Yeah, for sure. And also, the other thing to note, if you ever want to attempt Mount Washington, you cannot ride your bike up it most of the year.
+
+44
+00:18:05,488 --> 00:18:34,000
+people who race up it are not allowed to ride down. Yeah. Yeah. So if Mount Washington theoretically would be a good Everesting Hill, it is just never going to be one that is available to you. Yeah. I've done it in a car and like you have to put it in first gear on the way down or you are going to set your brakes on fire. Yeah. And this actually brings up a good point about finding a good hill and think about, you know, Washington is rather long.
+
+45
+00:18:34,000 --> 00:19:02,448
+The whole climb takes almost an hour for, you know, even pretty fast, like, elite males. And so, if you think about that really long climb, you're going to have to turn around, you're going to have to descend for a while. And so, I think that might, is also something with gearing and pacing is that, like, if you do the kind of crazy thing that McLaughlin did where he just did 69 repeats at half a mile climb, well, then he kind of stays a little bit, you know.
+
+46
+00:19:02,448 --> 00:19:31,824
+fresher, or warmed up more in between his climb, turn around, descend, climb, turn around, descend, as opposed to climb for an hour, turn around, descend for 15 minutes or something like that. Put on a jacket. Yeah, where you have to put on a jacket, you're not going to be pedaling, then you have to turn around and get all psyched up again, ready to go. Yeah, but that's a personal preference kind of thing. Because I know some people, I coached a couple people who really hate resting.
+
+47
+00:19:31,824 --> 00:19:59,488
+I think honestly for most people just trying to like finish and accomplish this
+
+48
+00:19:59,488 --> 00:20:29,248
+That shouldn't be high in the priority list. If you want to set a local record or something like that, or set your personal fastest time and you want to think about these kind of things, that's fine. But for the most part, I think looking at long climbs or close climbs to where you live that you've done in the past, and looking at where your preferred cadence is, is a good place to start if you're looking at what gearing should I have.
+
+49
+00:20:29,248 --> 00:20:56,848
+So, yeah, do you have any recommendations on that kind of process to choose a gear ratio, like a low ratio? Yeah, so I think a lot of people, initially right off the bat, you kind of find, might find two camps, like some people like to climb a little bit lower cadence, like 70, 80 RPMs, and then some people are going to, you know, be more like Chris Froome or whatever, are going to climb it a little bit higher, like 80, 90, maybe 100 RPMs, and so you probably already know which one you are.
+
+50
+00:20:57,296 --> 00:21:21,408
+and if you don't you're going to want to do some climbing on some hills of various gradients to figure out which one you are and then once you have picked out your hill of choice you're going to want to do at least a couple attempts I would say of the hill on its own to kind of know what your gearing is when you're relatively fresh just trying it.
+
+51
+00:21:21,408 --> 00:21:46,944
+And then there are lots of things online, but for example, Sheldon Brown's website has a gearing calculator where you can enter in, you know, the chain rings that you have, the cassette that you have, the tire that you have, and figure out a, and enter in a cadence, and it'll spit out a speed. And so what you can do is, if you know, okay, so you're 12 hours, you want to, that means you have to climb at about this average speed up the hill.
+
+52
+00:21:46,944 --> 00:22:15,696
+then you can figure out what gearing you would need and then hopefully that's not the only like the easiest gear that you have and you can you know get a different cassette or different chainrings or something like that and allow you to have some flexibility there with the gear that you pick. And also with pacing and stuff I actually recommend that you like we'll talk about more of this in a minute but when it comes to like looking for a gear ratio I
+
+53
+00:22:15,696 --> 00:22:41,424
+Also have looked at a couple of Everesting files for my athletes who have done Everesting and also for others. And, you know, when it goes bad, it can go really bad. And you want to make sure that you can still get up the hill. If you're going to keep slogging on, make sure you can still get up the hill, you know, at like 50 to 100 watts lower than like your normal chosen pace that you are feeling comfortable with to make sure that you can still do it.
+
+54
+00:22:41,456 --> 00:23:07,488
+You know, so you're not like at like 40 RPM at like 100 watts, you know, for your last couple reps, you know, where your first couple of reps, you know, you were like 250 watts and feeling very sprightly. Like it's, they're very different. Yeah. Think about just, just imagine if this is going to be double digit numbers of hours, how brisk would you start out?
+
+55
+00:23:07,488 --> 00:23:36,608
+on any sort of ride if you knew that you're going to be out there for 10 hours, right? Like, you would not go out there at, like, Sweet Spot and, you know, trying to hammer away for 12 hours or something like that. I got to tell you, dude, a lot of the people who do Everest thing, like, their first rep is, like, is, like, Sweet Spot FTP. Oh, God. And they find out pretty quickly that it's, like, not sustainable, like, within a couple reps. Yeah, I'm sure. I think the other thing is, like,
+
+56
+00:23:36,608 --> 00:24:05,616
+So kind of like we said with this before, there are lots of things here that you can control. So like don't overlook these things that you can control because some things on race day, like every race, you won't be able to control. Like if the wind changes or if all of a sudden you feel you get a cramp or something like that, like control the things that you can to make it easier should anything happen to you or anything pop up. Yeah, definitely.
+
+57
+00:24:05,616 --> 00:24:29,632
+And, you know, if you are in the camp where you cannot afford more gears, we'll get into training at lower cadences in a little bit and getting you ready for that kind of thing. There are things that you can do, though, and kind of borrow from the playbook of some of the people who do Mount Washington and these other more extreme hill climbs.
+
+58
+00:24:29,632 --> 00:24:57,536
+Like you can, like some people will, for example, put mountain bike crank sets on their road bikes because that gives them access to much smaller chain rings. And so they don't have to get huge, you know, 50 tooth cassettes or something out back. They can run their regular 1128, 1132, what have you. And if you have like 34, 26 or something front chain rings because you took it off a mountain bike, well then now you've got access to a huge other range.
+
+59
+00:24:57,536 --> 00:25:05,568
+that you would previously not. And you may even be able to ditch having two front chainrings at all and just have one.
+
+60
+00:25:05,568 --> 00:25:27,728
+and if it's a then you don't have to worry about does your front derailleur shift a 34, 26 or something like you know a mountain bike crank set on your road bike for example this is really popular in Mount Washington people will run like just a 34 or just a 38 or something like that up front and then run a pretty wide range cassette in the back yeah but if you feel like but if you have to like pedal on the way down
+
+61
+00:25:27,760 --> 00:25:53,376
+or, like, if you want to pedal on the way down, like, having that larger gear set, like, that's going to be, you know, part of your personal preference for your equipment kind of thing, like, what works on your specific hill. So you may not actually, like, want to, like, go full Mount Washington bike on this kind of thing, like, because you will need to, like, get down the hill also. And don't take your brakes off, please. Yeah, no. So the formal, the...
+
+62
+00:25:53,376 --> 00:26:17,696
+Some people might read up on this hill climb stuff and find out that a lot of the hill climb challenges, races only require you to have one working break and that's because you don't ride down the hill at all. There's no riding down the hill. You start at the bottom, you make it to the top and you stop. So have two working breaks. Please, please, please, two working breaks. But this is where some weight weenies can choose to go.
+
+63
+00:26:17,696 --> 00:26:45,680
+and indulge their desires of chopping their handlebars down or getting carbon cages or getting titanium bolts because here you are going to be spending the majority of your time climbing and here weight does matter because you really are just fighting gravity because even if you look at some of these files from pros, they're going 6, 7, 8 miles an hour. They're not going fast. People could run with them.
+
+64
+00:26:47,024 --> 00:27:14,384
+All right. So now let's get to, you know, besides picking the right hill, let's talk about nutrition. Because this is also one of the other critical aspects of ultra-endurance cycling. And this is something that requires, you know, if you're going to like do Race Across America or like Trans Am or something like that.
+
+65
+00:27:14,384 --> 00:27:43,648
+you know you are going to have to spend a lot of time working on the right nutrition strategy for you and being you know in one spot for the whole day is actually a huge advantage when it comes to nutrition because you can pack way more than you need and just kind of pick whatever you want but having like a schedule and some practice at it with your recon rides like that we'll talk about that is going to lead to greater success or
+
+66
+00:27:43,648 --> 00:28:12,608
+You can have a very bad day. I always say if your nutrition strategy is going well, you're barely going to notice it. And if it's not going well, that's when you notice it. So you really have to eat very consistently. Because remember, not only do you have to spend all of that energy to climb, you also have to spend energy to be alive. Just think about how much food you would normally eat in 12 hours. You have to have that as well as everything else.
+
+67
+00:28:12,608 --> 00:28:40,864
+So looking at data from a successful Everesting attempt, so a fairly average male rider, 300 watts, FTP, 165 pounds, 75 kilos, he did it in about 11 hours and he burned 8,200 kilojoules through the pedals. Dang. Which means he probably needed about 1,100 calories just to exist for this time period, right?
+
+68
+00:28:40,864 --> 00:29:07,904
+Now, as your attempt goes on, you will actually use a little more fat as you ride, like, you know, adipose tissue and intramuscular triglycerides and whatnot as compared to carbohydrates, but you still need to have a lot of carbohydrates. So expect to see about the same normalized power you would expect to see on a long ride or even a little bit higher. So like, you know, a lot of athletes will typically see on...
+
+69
+00:29:07,904 --> 00:29:37,520
+On a 12-hour ride, it might be like 0.5 or 0.6. Like you might be looking at like 70% of FTP, like normalized power, somewhere around there for average power, a little lower as well. So the file I'm looking at right now, he's riding between 70 and 80% of FTP for each rep, except for those first couple where he really needed to, you know, have fun on the bike. Yeah, he brought it back. And we'll talk about pacing in a little bit too.
+
+70
+00:29:37,520 --> 00:30:05,392
+But for this guy, I would estimate he's using 40 to 60% carbohydrates on each rep. Let's call it 50% nice and even, so he needs to intake 4,100 calories of carbohydrates to make up what he's burning. At 4 calories per gram of carbohydrate for 11 hours, at 4,100 calories of carb use, that's 93 grams of carbohydrates an hour. This is kind of a lot. It's a lot, yeah. We're ignoring glycogen too.
+
+71
+00:30:05,392 --> 00:30:33,744
+Because it's way better to err on the side of eating more than less. And also, it takes longer to replenish your glycogen than it does to burn through it. So it's better to eat a lot, eat early, and eat often. Because if you end up with empty legs, you're not going to be able to sit down for two or three days and eat it back and supercompensate and then get back to it. You've just ruined your day.
+
+72
+00:30:33,744 --> 00:31:03,408
+So it's better to always err on the side of, I should eat more. And one of the other things that's critical for nutrition that a lot of people, I think, forget is protein. It helps you feel full. And I'm sure we all know that feeling you get in your gut of when you've been eating nothing but gels and shot blocks and et cetera, et cetera. Even though the math says on the nutrition that you should be feeling fine,
+
+73
+00:31:03,408 --> 00:31:26,640
+You feel hungry and empty because you need some protein. Because you wouldn't normally do your 12-hour day just eating gels. I mean, I really hope not. Oh, God. It's like an end-of-the-world scenario. Yeah, have some protein. Have a cooler. Have some peanut butter. Have whatever you want and you need.
+
+74
+00:31:26,640 --> 00:31:55,936
+So I think this is one of the big reasons to do recon rides, by the way. Like if you're like, ah, that's fine, I don't need to do that. Like nutrition plan, you really need to do it. You really, really need to do it to practice your nutrition plan. Because you need to find out, does it taste good after doing hill reps for a couple hours? Does it keep? Do you need coolers? You know, do you, et cetera, et cetera, et cetera. Like does it have enough water content in it to make it easily digestible? Does it have the right balance of, you know, carbohydrate types and stuff like that?
+
+75
+00:31:55,936 --> 00:32:21,840
+you know there's there's also a lot of other really good resources out there on that kind of thing so we're gonna move on from there I would say hopefully this goes without saying but also don't try any new foods that you've never eaten before on race day like that's a really big mistake like even if you're pretty sure it will go fine like don't don't try something new before you do a 12-hour ride like that's hopefully that's that's
+
+76
+00:32:21,840 --> 00:32:49,024
+Even includes the day before, don't have a strange dinner that you've never eaten before, you know, the night before, so. Yeah. All right, so there's two more things with the logistics and preparation for this to be really careful with. The first is mechanical prep. So depending on how much space you have to pack spare gear, you may want to bring extras of everything.
+
+77
+00:32:49,024 --> 00:33:17,488
+So like tubes, tires, wheels, spokes, cables, maybe a whole spare bike because you really never know what you're going to need. Just make sure also that you have the skill to fix it. So if you don't know how to or you don't want to fix like a popped spoke or something like that, just bring another wheel. You know, there are workarounds. And also give your bike a full once over a week before Everesting Day.
+
+78
+00:33:17,648 --> 00:33:31,376
+Yeah. Yeah, because while it's fun to like reminisce about last minute equipment failures we've all overcome on like the night before a race or like five minutes before a race, you know, in the moment it is not.
+
+79
+00:33:31,376 --> 00:33:58,496
+Fun. So you want to, you know, make sure you control as many of those variables as possible. Like the amount of equipment and the mechanical skill that people who race across the country have is, you know, if they don't have like a sag wagon or something like that, you know, you're on your own pretty much. And so, you know, you've got to be able to make sure that you can fix that kind of thing. You can boot a tube. You've got a spare tire, stuff like that. Sorry, go ahead.
+
+80
+00:33:58,496 --> 00:34:26,768
+I would say also shops and bike shop employees hate it when you bring your bike in the night before and say, I have a race tomorrow. I need my bike to be perfect. Like they will hate you. Don't do that. Like bring it in, like you said, like a week before. Yeah. Yeah. And also you can, if you're friendly with your shop, you know, your shop might actually have classes for people to like learn how to wrench on bikes. Take some of those classes if you need those skills.
+
+81
+00:34:26,768 --> 00:34:55,696
+and you want those skills. Or, you know, you can just, you know, get your Mechanica a six-pack of beer and, you know, ask them to help you, you know, can you show me how to do this? I'm doing this Everesting thing and this is a common failure point on my bike, like derailleur hanger or whatever it is, just make sure that, you know, you know how to fix it and they will show you how for some beer and some nice words. All right, so the last thing here with logistics is having an emergency plan.
+
+82
+00:34:55,696 --> 00:35:23,856
+So obviously this is easier with Everesting than like other types of Ultra, but with a lot of climbing and descending and being tired, especially near the end, odds are not zero that you'll have an issue. So the first and best idea is to do this with a friend so that you can watch out for each other and make sure the other person's okay. But if you're going to do this alone, then you need to take other special precautions. So like you need to know
+
+83
+00:35:23,856 --> 00:35:53,184
+Where on the hill or in the area you do and don't have cell service, you need to have emergency contact stuff on your person just in case you're found on the side of the road or whatever. It might sound extreme, but really it's better to be safe than sorry. Like if you've got a road ID or something like that, definitely take it. And especially if you're alone, let somebody know where you're going, what stupid thing you're doing on your bike this time, and give them the time to check in on you.
+
+84
+00:35:53,184 --> 00:36:21,536
+and otherwise like send in the rescue squad. For sure. I would also say like really if you can rope a friend or two in I would strongly suggest doing that because that can help even with just mentally staying motivated having someone to you know help you get food prepped like if they see that you're coming down the hill descending well maybe they can start helping help open up the bottle or the food or whatever that you want next and
+
+85
+00:36:21,536 --> 00:36:50,752
+Lots of people on social media you'll see have had people, they'll do the Everesting on all the reps themselves, but then they'll have their friends stop by and do one or two reps with them and stuff like that to make it this more sort of congenial event than just like you alone staring down this yellow line. I completely agree, yeah. And also it's more fun to like make a memory like that with your friend when you're both suffering together. All right, so now let's move on to the training aspects of Everesting.
+
+86
+00:36:50,752 --> 00:37:18,512
+The first thing about it is it requires a lot of mental focus and not just endurance in your legs, but mental endurance. And I'm also going to file your position on the bike under training too. So let's talk about that first because this is a potential big failure point. If you've never done this much riding in your position, you don't know if you might have something that's like...
+
+87
+00:37:18,512 --> 00:37:47,120
+Ready for an overuse injury to pop up and flare up like you'll get tendinitis in your knee or your elbow or whatever. These are things that you need to know beforehand. So with position, you know, doing a lot of climbing can put a lot of strain in your body that, you know, just riding on rollers, I mean, like rolling hills and on flat ground are not going to present. Because the steeper the gradient that you are climbing,
+
+88
+00:37:47,120 --> 00:38:12,064
+It'll probably enclose your hip angle a lot more. And this can strain the muscles, you know, various places of your body, but most especially the lower back. The solutions are to get a fit and do things like raise your bars and put you a little further higher up. And, you know, tell your fitter what you're going to be doing. I'm going to be spending a lot of my time in this position. So you can like, you know, while you're getting fit.
+
+89
+00:38:12,064 --> 00:38:38,080
+Adjust the fitting to be at the gradient of the climb that you're going to be doing. That would be perfectly logical, and hopefully you can find a fitter that will do that. But also, the other things that you can do are strength training exercises for your core. So you can do things like good mornings or Romanian deadlifts for your low back, because this is a big point of soreness and strain for people who do a lot of climbing.
+
+90
+00:38:38,080 --> 00:39:07,520
+Even something like a trap bar carry or a farmer's carry can also help, you know, stabilize the core muscles and make them stronger, take a little more strain off your lower back. Yeah. And also like, so if you're going to go get a fit and do some strength training and stuff like that, you're going to want to start doing this early and make sure that it's having the effect that you want. So if you're going to get a fit, don't do it like the week before your attempt, do it like a month or two and make sure that, you know, you've got it for one of your recon rides.
+
+91
+00:39:07,520 --> 00:39:30,464
+So that way everything, you know, you might have to go back for like a follow-up fit. Like this wasn't quite right. Can we tweak this? Yeah. And never make big, again, this kind of should go without saying, but never make big positional changes the night before a big ride. Huge mistake. Don't do it. And if you are going to have rather large positional changes, sometimes doing it
+
+92
+00:39:30,464 --> 00:39:55,584
+Gradually over time can help and not just like, you know, all of a sudden moving your saddle like a whole inch in one direction or another. Yeah, just avoid big, big changes like that. Yeah. Now, there is one more concern to address here is that if you're generally trainer bound and you may not have the chance to get recon stuff like that done,
+
+93
+00:39:55,584 --> 00:40:23,824
+or you just want to spend more time getting used to the position, like you cannot get to that hill all the time, something like that. On the trainer, put your bike to the same average slope of the hill that you're going to be on. And you can actually simulate it pretty well because your body and the bike relative to gravity is going to be about the same. And some smart trainers can do this, simulate the hills and everything, just not the descents, which is fine.
+
+94
+00:40:23,952 --> 00:40:53,232
+But that brings us straight to the recon rides. So with positional specificity, what better way to be specific than to just go to the road and ride it? So recon rides serve many purposes, and we've been over them, but we'll just go through them briefly for a second here. Logistics, so you can do trial runs of all the plans you've put in place, especially nutrition, and make sure that you've got everything sorted out.
+
+95
+00:40:53,232 --> 00:41:19,792
+and also training. I strongly recommend that if you're not sure you can ride for at least like six to eight hours comfortably on like flat ground even you start to build up with a couple four to six hour rides first because if your longest ride usually taps out around two or three hours then you're really going to need to work on building up some volume for like a 12 hour attempt. Yeah, for sure. Yeah, and so your first recon ride
+
+96
+00:41:19,792 --> 00:41:49,680
+should probably be about four to five hours, especially make it at whatever point in the day has a lot of question marks for you. So if you have, if you don't know what the traffic is going to be like, you know, if it's morning rush hour, something like that, or afternoon rush hour on a weekend, if there's going to be heat, if there's going to be like a gate that may or may not be open on the road, then you're going to want to know about that kind of stuff. You want to have no surprises.
+
+97
+00:41:49,808 --> 00:42:17,456
+And also if you have more questions like, oh, I wonder what happens in the evening here, you can do your second recon ride a little later in the day and you can go into the evening and figure those out and answer all those questions. Your second recon ride, I suggest about 60 to 75% of a full run. This can give or take, but you really want to make sure that you learn more things on this other ride.
+
+98
+00:42:17,456 --> 00:42:46,512
+especially with nutrition and making sure that your nutrition plan you know eight hours into hill reps is still working for you and you haven't had any like gastro emergencies oh and also recon rides are a good way to see if your training is going well too and position and whatnot so let's talk about what kind of training you might actually want to do for Everesting I would suggest a couple key sessions the first thing to do would be very
+
+99
+00:42:46,512 --> 00:43:16,512
+Very, very extensive sweet spot work. Shocking. Yeah. So a key workout I would suggest is something around like 90% of FTP for something like 15 minute reps done with like five to 10 minute rests until approximately forever. Now this is not the best sweet spot training workout in the world just in terms of like, you know, FTP training and whatnot, but this can actually do a really good job.
+
+100
+00:43:16,512 --> 00:43:45,200
+Replicating the Muscular Endurance, and et cetera, et cetera, while still being, you know, decent but not great sweet spot training. Other long sweet spot type workouts would be good to do too. Also like, you know, doing 20 to 30 minutes of sweet spot every hour for three to six hours, something like that. If some of that sounds ridiculous, well, you just have to work up to it. Don't worry. You'll get there. Keep trying.
+
+101
+00:43:45,200 --> 00:44:14,592
+So, endurance rides. These are a key session also. I suggest, you know, normally your endurance ride, your long ride during a week should be like six to eight hours or building up to six to eight hours while prepping for Everesting. If you want to do like a race or like an Everesting length ride, like 12 hours ride, I think that's okay, but you may not want to do too many, especially if you're not used to it. You know, if you normally like, you can do like an eight hour ride,
+
+102
+00:44:14,592 --> 00:44:37,632
+And then, you know, doing the occasional 12 is probably going to be fine for you. But if you're tapping out at like two or three, doing eight is going to be a big stretch and doing 12 is probably, you know, you're going to have a hard time recovering from that. Yeah. I will say the long rides are also another good time to practice this eating and nutrition strategy that you've come up with and trying out these foods.
+
+103
+00:44:37,632 --> 00:45:05,296
+These would be opportunities to try those foods that you think might be a good idea but aren't sure. Like try them out on an endurance ride. Try them out on maybe one of the recon rides. Make sure you've tried it a couple times before you eat a whole bunch of it on Everest Day. Yeah, and if it's like a sandwich or something with mayonnaise that needs a cooler or whatever it is, then you're going to want to do a smaller loop and come back to having...
+
+104
+00:45:05,296 --> 00:45:33,536
+you know your storage uh somewhere like you know your house or like you park somewhere um in case you know you cannot bring it with you so that part of your plan can still uh you can still try that out and see if that kind of works that way um you know if you've got like fried chicken you want to keep hot you know you're gonna want to keep it in your oven and not like in your pocket um not that I reckon if it's hot out though it might oh that's disgusting um
+
+105
+00:45:33,536 --> 00:45:56,752
+Now let's also remember that for endurance rides, one of my guiding principles with all endurance rides is not to be dead by the end of it. And this includes your 12-hour ride, if you're doing that kind of length in any capacity. And if you're nervous about the duration of the Everesting, especially...
+
+106
+00:45:56,752 --> 00:46:26,672
+Even though if you're going, yeah, I can do these long rides, I can do like six, eight hours, but I'm still nervous about 12, then definitely do a 12-hour ride on like regular flat ground or as flat as you can find because it is a good thing to gather your confidence about being able to ride for that long and pace yourself especially. Yeah. Like you said before, this is also a mental effort. This requires mental as well as physical training. And so if the 12-hour ride boosts your mental,
+
+107
+00:46:26,672 --> 00:46:54,800
+Confidence, then that's great. Count that as a win for you. Oh yeah, completely. 100%. Okay, so now let's talk about cadence. So if you are going to end up being a bit overgeared for a section or two of the climb, I really hopefully suggest not all of it, because that would be horrific. No hard man like 39, 25, please. You don't have to. It's not 1998.
+
+108
+00:46:54,800 --> 00:47:23,440
+We have bigger cassettes and derailers. Please use them. Yes, definitely. And I suggest working in low cadence efforts around like 80 to 100% FTP would be my suggestion. You can start adding some lower cadence to efforts with your normal like sweet spot or FTP intervals, maybe a minute or two here and there. I don't suggest you do all of it low cadence at first, especially. And then building up from there.
+
+109
+00:47:23,440 --> 00:47:51,616
+You know, so if you are going to do like three by 20 minutes at Sweet Spot or FTP, I would suggest maybe like one minute low cadence and four minutes normal cadence. And then, you know, if your plan is to build up your time at lower cadence, then you're going to add the next time you're going to add another 30 seconds or a minute. So it's like two minutes on three minutes normal cadence. And then, you know, you can do three minutes low cadence, two minutes normal cadence or whatever that kind of, however you want to break it out. It doesn't matter.
+
+110
+00:47:51,616 --> 00:48:21,008
+I suggest that as a good place to start. So adding 30 seconds or a minute to each one of those little reps in the interval is a good way to go about it. And it could take time to build up to this. So watch your own fatigue levels because different people have different reactions to how they respond to doing this type of locating this training. Some people, it's fine. For some people, it makes them very, very tired.
+
+111
+00:48:21,008 --> 00:48:50,288
+And also, with the fatigue, if you're feeling tired at any point during these sessions, or at any point at all during your training for Everesting, it does not mean you need more training. It means you need rest. Yeah, listen to your body. And I know some people are going, oh God, is he talking to me? Yes, I am talking to you. Just because you pay for that whoop subscription doesn't mean you can't listen to your body every once in a while. I completely agree.
+
+112
+00:48:50,288 --> 00:49:18,272
+How do we periodize this kind of thing? How do we build up over the long term to an Everesting ride? How do we time our stupidly long training days? So I like to think about recovery strategy and then plan backwards. So I usually estimate it'll take like more about two weeks, depending on your training history, one to two weeks to recover from a 12-hour ride that really doesn't go well.
+
+113
+00:49:18,272 --> 00:49:42,736
+Like if you're wrecked beyond belief at the end of it. And if you are used to this kind of thing and it's fine, it'll probably take you like two or three days. So depends on, you know, your own personal timeline. But the same also goes for the longer recon rise in terms of recovery. You know, kind of estimate how long it'll take you to really be like back to 90 to 100% and plan around that, like playing your hard training stuff.
+
+114
+00:49:42,736 --> 00:50:06,464
+around those rides so that you're fresh when you get to training hard and then you can build up to this kind of thing. So your first recon ride, I suggest is probably six to eight weeks before your final attempt. And your second recon ride, maybe three to four weeks beforehand, something like that. If you're going to do like one of those 12-hour endurance rides, just to make sure you can do it.
+
+115
+00:50:06,464 --> 00:50:35,216
+you know if you're normally flying with like six to seven hours and you can really put that anywhere in the buildup I mean your 12 hour ride as you know a familiarization ride and a confidence building ride but you know just whatever works for you in terms of recovery just make sure you get it I remember the first time the only time I've ever ridden over 200 kilometers in a day it was kind of unplanned it was like in the summer one year rode from Providence to Boston and back and on the way back
+
+116
+00:50:35,216 --> 00:51:02,496
+My friend and I, we realized we were really close to 200 kilometers, so we tacked on enough to get to it. And I didn't want to look at my bike for like a week. Like, I wasn't totally wrecked, but certainly like, yeah, if you've only ever done, really only do six hour rides up to that point. Like, even if you're pretty sure you'll make it through the 12. And, you know, I did the 200 kilometers, no problem. I wasn't like, you know, incapable of walking. It's still, it took...
+
+117
+00:51:02,496 --> 00:51:29,408
+More than just a day or two after to feel like your legs weren't like a little bit weak when you took the stairs or like very slight inclines didn't hurt. The last thing to talk about here is pacing. And it's just like any other, almost any other time trial where you should almost definitely start a little easier than you think you'll need to.
+
+118
+00:51:29,408 --> 00:51:52,464
+Most of the Everesting files I've seen have a steady drop in power. Whether it's steep or shallow, it has it. And don't be afraid to adjust as you go. You don't get any awards for going harder and blowing yourself up. You win an epic bong. Play stupid games, win stupid prizes.
+
+119
+00:51:52,464 --> 00:52:22,064
+Yeah, and, you know, be realistic with yourself and take a break every now and then for a few minutes if you need to, you know, especially if you need to, like, go to the bathroom, you need to eat something, you need a mental break, you're getting too hot, you know, you need to, like, change a sock or something like that. I don't know what the problem might be. If you need to put on more chamois cream, whatever it is, take a couple minutes and, you know, you don't have to, like, destroy yourself. Like, that's okay.
+
+120
+00:52:22,704 --> 00:52:50,432
+So, you know, for most people, you know, like we said before, the goal is probably going to be just a finish. So, you know, if you blow your whole wad early on, your odds of finishing are really dramatically dropping with every single rep. So, just pace conservatively, and if you're not sure about, you know, your pacing, you know, look at your recon rides. How did they go? You know, did they stay even for the most of it?
+
+121
+00:52:50,432 --> 00:53:19,792
+Even then, like, if you did, like, a six, seven, eight-hour recon ride that was evenly paced, can you do that for 12? Yeah. And also, you can also use your recon rides to estimate, like, how much time is this actually going to take? Is it going to take 11 hours? Is it going to take 10 hours? Is it going to take 14? These are good questions to ask yourself. And you always want to, like, build in a little bit of, you know, you don't want to, like, go, all right, this rep took me
+
+122
+00:53:19,792 --> 00:53:48,448
+you know an hour and so therefore if I want to finish this it's going to take me eight hours by doing eight reps if that's like what it is it's never necessarily going to be the case because like I remember I once planned a road trip like that it's like oh it's this many miles if I have this average speed here which is totally the speed limit I'm going to make this you know long trip in this many hours and I remember I got to a certain point I was thinking
+
+123
+00:53:48,448 --> 00:54:13,552
+Why is it taking longer? I'm only stopping for like five or ten minutes and then I counted how many stops I had to make and I was like, oh, like it added like two to three hours to the whole trip that I just didn't count on and that's something that you need to take into account is like, you know, taking that nature break, taking that food break, taking that mental break. You've got to work that into, you know, your how long is this going to take plan and
+
+124
+00:54:13,552 --> 00:54:42,960
+Give yourself more time than you think it needs. So if you think it's going to take you 11 or 12 hours and it takes you less, that's awesome. And then that's a win. But if you're planning on it taking like nine hours and it takes you 11, that's going to be a little disappointing. And this is just an easy way to avoid that kind of thing. And especially if you underestimate, you may underestimate food, which would make the last few hours rough if you're out of food. If you're out of food, stop.
+
+125
+00:54:42,960 --> 00:55:11,024
+That's my suggestion. And like, you know, oh, that was my second long recon ride. Yeah. I would say the other thing, and this goes along with a lot of these recon ride and practice runs, is have a good pair of shorts. Don't pick the shorts that you think like look the coolest or have like your new ones that are like this fancy brand. Like pick a pair of shorts that you know you will be
+
+126
+00:55:11,024 --> 00:55:38,496
+Fine sitting in for double-digit hours. You're going to be in them for a while. They should not be brand spanking new, never worn, because sometimes you find that pair of baby shorts that you love how it looks, but it just doesn't work with you and the saddle that you have or whatever it is. So yeah, shorts. Yeah, like if I were going to do this tomorrow, I would actually put on my short-sleeved skin suit.
+
+127
+00:55:38,496 --> 00:56:06,624
+because that's the most comfortable piece of kit that I own. Even though the pockets are a little impractical for that kind of thing, I'll just keep everything on the ground. It's going to be fine. Or in a vest or something, right? Yeah, exactly. You just want to make sure that if you need to eat on your ride, if your reps are 20, 30, 40 minutes, yeah, you're going to want to keep food with you on that, in which case I would be like, oh, I need pockets on this thing.
+
+128
+00:56:06,624 --> 00:56:35,184
+you know otherwise if it's like short if it's like five minutes uh reps or like you know eight ten minutes reps you can eat you know in between your reps you don't have to like bring food with you but that's that's another one of those logistics on the day kind of things of like you know how often do I need to eat like how much can I stomach in a couple bites like what's my eating schedule um and then you can kind of you know kind of figure out how your everesting day you know looks you know your specific plan for you
+
+129
+00:56:35,696 --> 00:56:41,536
+Also it may be uncouth and it goes against what I said about maybe embracing your inner weight weenie a little bit.
+
+130
+00:56:41,536 --> 00:57:10,704
+But if you want to, maybe this is a time you embrace your inner Fred and you buy a handlebar bag or something so you know that you definitely have that extra piece of food if you're going to be on a 45-minute climb and, God forbid, you know, whatever piece of food you just ate, you just dropped it, you know, or something like that and you're like, well, shit, do I stop and pick it up or do I have extra food in the bag? Or the warm Clif Bar that you unwrap slightly and then half of it just falls out immediately and you're like, oh, God.
+
+131
+00:57:11,024 --> 00:57:36,704
+There it goes. Never coming back. If you all are inspired and go out and ever sting after listening to this, tag us in your photos on social media. No, seriously, I would love that. That would be great. Yeah, that'd be really cool. It seems like people have really turned this into a kind of a cultural thing and it'll be something I think a lot of cyclists can probably look back on.
+
+132
+00:57:36,704 --> 00:58:02,816
+Once the pandemic is in our rearview mirror, it's like, hey, remember that time that the whole cycling world decided to be fun to spend, you know, the better part of a whole day on the same climb, on the same stretch of road, yeah. Also, like, the number of people who have written me and said, you know, thanks for the podcast and thanks for the training tips and my training is getting so much better now, you know, it really means the world to us.
+
+133
+00:58:02,816 --> 00:58:22,800
+Yeah, it's cool to see it actually implemented. I really like that. Yeah. And also, thank you guys for the donations. We actually got a lot of donations over the last month, more than usual. And, you know, I just want to say thank you, everybody. We really appreciate that. And so, all right, so I think we're going to wrap up the show for now. Thank you, everybody, for listening.
+
+134
+00:58:22,800 --> 00:58:42,032
+Again, please subscribe to the podcast and share it with a friend and give us a rating wherever you're listening to it. Remember that we are ad-free, so if you want to donate, you can do so at empiricalcycling.com slash donate and also you can do a monthly donation too if you want. A couple people have done that last month and that's really phenomenal and thank all of you as well profusely.
+
+135
+00:58:42,032 --> 00:59:10,128
+We've got the show notes up on the website. We have merch at empiricalcyclingpodcast.threadlist.com. If you have any coaching and consultation inquiries, especially about ultra endurance riding with cycling, that'd be awesome. Send me an email at empiricalcyclingatgmail.com. Send questions or comments there as well. Also, Instagram weekend AMAs and the Instagram stories. Give me a follow at empiricalcycling if you want to participate in that. And feel free to give us any suggestions.
+
+136
+00:59:10,128 --> 00:59:19,376
+So with that, we will see you all in the next episode, which is probably coming up sooner than you think. Yeah, thanks everyone. All right, bye-bye.
+

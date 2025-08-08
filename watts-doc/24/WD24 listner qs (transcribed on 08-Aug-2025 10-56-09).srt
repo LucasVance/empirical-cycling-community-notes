@@ -1,0 +1,648 @@
+1
+00:00:00,624 --> 00:00:18,992
+Welcome to the Empirical Cycling Podcast. I'm your host, Kolie Moore, and joined as always by my co-host, Kyle Helson. And I want to thank everybody for listening as always and ask that you subscribe to the podcast wherever you listen to it if you haven't yet already. And give us an iTunes rating or a rating wherever you are listening to the podcast. And especially share it with a friend if you like the kind of content that you're hearing.
+
+2
+00:00:18,992 --> 00:00:48,480
+Remember, this is also an ad-free podcast, so if you'd like to donate and support the show, you can do so at empiricalcycling.com slash donate. We have the show notes up on the website at empiricalcycling.com. Not that there are actually any show notes for this episode. And we also have merch at empiricalcyclingpodcast.threadless.com. And if you have any coaching and consultation inquiries, questions, and comments, you can please send an email to empiricalcycling at gmail.com. So we actually need to start out this episode with an apology. So I made the mistake last episode.
+
+3
+00:00:48,480 --> 00:01:06,928
+of questioning the motives behind a bad study design. And that was my fault for being a little emotional about it. I should have cut that and I didn't. And I'm going to leave it in as a mistake because, you know, we all make mistakes. And especially in coaching, you know.
+
+4
+00:01:06,928 --> 00:01:35,728
+owning up to it and writing it and moving on. But we are also going to still talk about some aspects of the study design at the end of this episode if you'd like to hear more about the lactate and the 20-minute test and such kind of things. We're going to go into great detail on all of that. Kyle, do you have anything to add to any of that? It can be hard. I mean, as a scientist, someone who does science for a living nominally when there's not a pandemic,
+
+5
+00:01:35,728 --> 00:02:04,816
+It can be really hard to be distanced yourself from certain work and feeling like you have an almost emotional connection to the field that you study or something like that. I think that's a very natural reaction. People spend a lot of time, you spend a lot of time, we all spend a lot of time in science and studying a lot of these things and that brings with it this
+
+6
+00:02:04,816 --> 00:02:31,680
+deeper connection than if it's just like a, I don't know, a crossword puzzle or something. I would be lying to you if I said there weren't times when I also read papers, not of this paper, but papers where you're like, wow, this is like, like they make a lot of claims in this paper, but I don't believe, you know, whatever. I don't buy that measurement. I don't like that measurement, blah, blah, blah. Yeah, for whatever reason, something is wrong with this paper.
+
+7
+00:02:31,680 --> 00:03:00,784
+Yeah. Anyway, now that we've gotten that out of the way, and if you want to listen to the rest of us talking about the Ronstadt study, that is going to be bonus material at the end of this episode. We had actually covered a lot of it in the last episode, and then we cut it out because it also intertwined with a long tangent about pretty much what we just talked about. So that was an oversight to cut that out. So a little cutting room floor. We're going to do a little redux of that.
+
+8
+00:03:00,784 --> 00:03:28,048
+at the end of the episode. So we got a lot of questions, great questions from everybody about VO2max training and transferability and specificity and all that kind of stuff. Really great questions from everybody. Really appreciate everybody chiming in and asking these questions. And let's get started. Yeah, thanks for sending those in. Yeah, so let's get started with... So the first one is, if I spend my entire training block...
+
+9
+00:03:28,048 --> 00:03:54,992
+Working the VO2 system at 110 RPM, then I show up to an event, like a Strava KOM perhaps, and I need to actually use the VO2 type power, should I just use my preferred lower cadence, or should I also use the high RPM then? The answer is yes, you should absolutely use your preferred cadence. We're manipulating diastolic filling to increase
+
+10
+00:03:54,992 --> 00:04:22,288
+the ultimate VO2 max limiter in the long term of stroke volume. The high cadence is just for the training. I would say also there's plenty of studies that show that you're most efficient if you pedal at your preferred cadence for given effort levels and actually trying to make yourself pedal outside of those is less than optimal. So if it's a competitive situation, like do what your body is telling you to do.
+
+11
+00:04:22,416 --> 00:04:47,328
+and just go with it, you know, less thinking, more peddling. Yeah, when I used to study developmental biology, this was one of the cool things that they would do is they would actually, I think it was jerboas, like they would look at jerboas and jerboas have long hind legs and they have basically no front legs, if they have any at all, I don't remember, but what they would do is they would take these jerboas with the long hind legs and they hop.
+
+12
+00:04:47,328 --> 00:05:13,024
+and when you foreshorten those hind legs by manipulating the expression of the genes as they develop then it actually turns out with shorter feet they actually walk so it's not that the hopping is hardwired into their brain it's that they're figuring out what is the most efficient way to go forward with the least amount of energy and like this is something that we all do all the time like you roll your ankle or something like that
+
+13
+00:05:13,024 --> 00:05:36,848
+And then you spend the next, like, five minutes, you gotta keep walking, but you spend the next five minutes, like, trying to figure out that walk of, like, you know, energy, pain, and ambulatory efficiency. Like, that's what we're all doing when we pedal a bike, whether we know it or not. Yeah. Second question, does the benefit of high cadence apply outside of Focus Via 2 Max work?
+
+14
+00:05:36,848 --> 00:06:06,288
+So we just asked that, but follow-up is, should we be doing zone two to four work at high cadence also? And we actually got a couple questions about, you know, should we do higher cadence work at like FTP and such? And this is something that kind of depends. Like if you're a track racer and, you know, you're going to be spending a lot of time at, you know, 90, 100, up to like 140, 150, 60 RPM, then you absolutely need to be able to
+
+15
+00:06:06,288 --> 00:06:30,560
+put out power in this cadence range. That's race specificity. And sometimes we may want to manipulate motor units too with cadence. We want to get into bigger motor units once in a while and train those, then we manipulate cadence. But for the purpose of the intervals that I outlined, it's really just all about stroke volume.
+
+16
+00:06:30,560 --> 00:06:59,456
+I think normally, when you're normally training, for the most part, you should just work at whatever cadence you feel is appropriate. One other benefit would be, especially if you spend time descending and actually have to go gain speed while descending instead of just coasting, it's much easier to do that at a higher cadence than just chucking it into 5311 and trying to grind down a hill at 60 RPMs or whatever. So that's another sort of...
+
+17
+00:06:59,456 --> 00:07:25,744
+Application of being able to apply and actually put out a decent amount of watts at a higher cadence. Yeah, well, it's kind of about gear ratios and acceleration, right? Like, you're going to accelerate a lot faster on a really small gear ratio, but then suddenly you're, like, way out of your normal, like, torque range, so you have to shift and, you know, kind of make it work. Next question is, if you do time trialing, would it be best...
+
+18
+00:07:25,744 --> 00:07:54,992
+to do these intervals on the road bike to be comfortable and maximize oxygen uptake, et cetera, and do your long sweet spot intervals on the TT bike and then combine the two to devastating effect or just do it all in the TT position. Yeah, I would, knee-jerk reaction is if you're gonna be a time trialist and you think that's your thing, like you need to spend as much time on your time trial bike and time trial position as possible and that's at all different power ranges. Like you wanna be,
+
+19
+00:07:54,992 --> 00:08:21,664
+You want that to be almost as comfortable and as natural for you as your road cycling position. There's actually something that we didn't touch on in the coil study previously, by the way, that actually has to do with exactly this. Because while my instinct is to say that if you are a TT-er primarily, you should definitely be training in the TT position as much as possible, including this. But there may be a potential benefit of increased diastolic filling.
+
+20
+00:08:21,664 --> 00:08:46,944
+But it may actually be a wash. I don't know. Because in the COIL study, they looked at supine cycling, like recumbent cycling, and they found no stroke volume difference between the trained and the untrained at the 60% VO2 max condition. All they found was a slightly higher heart rate in one condition. So that suggests your heart has to work a little bit harder.
+
+21
+00:08:46,944 --> 00:09:16,064
+even though you're with this changed position. Yeah, you have lower blood volume after you've detrained, which means you've got less plasma and you also have less absolute hemoglobin mass. So you have a smaller ability to move oxygen, but you can actually make up for that with increased heart rate. So you are increasing your cardiac output by this way. But my instinct is to say a TT bike. So, all right, next question. What about standing during intervals?
+
+22
+00:09:16,064 --> 00:09:45,632
+I know that cadence wouldn't be able to get as high during these, but doesn't standing recruit more muscle mass, which would increase the muscle pump effect? And, well, here's an educated guess. I think what this person means is by more muscle mass, you're talking about arms and, like, some trunk muscles. Arms, for the most part, are acting isometrically. Now, when you see the bike moving back and forth, like biceps, forearms, triceps, deltoids and such,
+
+23
+00:09:45,632 --> 00:10:15,328
+They're not acting that much. They're not contracting that hard. Well, not when I do it anyway. You're not exactly like bench pressing or anything while you're doing it. Yeah, your lats are mostly active during that. So you're not actually getting the giant swinging motion and super hard contraction that you're doing in cross-country skiing. But you are also opening up the hip angle, which helps to increase venous return. Now, the thing is,
+
+24
+00:10:15,328 --> 00:10:40,896
+I typically would say avoid standing because, you know, your cadence is going to be so low at like, you know, maybe like 70, 80 RPM that, you know, the difference in diastolic filling volume may not actually be enough, you know, by opening up the hip angle and using some like lats and delts and whatnot. Oh, and so here's the other thing.
+
+25
+00:10:40,896 --> 00:11:10,608
+This is actually probably the most important thing besides whatever I just said. So ignore that for a second. The most important thing I think might be that with lower cadences you are actually using larger motor units because the force is higher. Yeah, that makes sense. And larger motor units take longer to recover. So this is something that I've noticed with some of my athletes who will like kind of, you know, stray a little bit with the cadence prescription.
+
+26
+00:11:10,608 --> 00:11:40,240
+and, you know, I have to be super diligent with them and saying, like, you have to stay in this cadence range and they say, I can't put out any power and I'm like, that's okay. Put out as much as you can. Honestly, the difference, I did a lot of digging and, you know, the biggest difference I could really find is about 20, 25 watts and that's like a drop in the bucket compared to, like, the fatigue that you're going to experience and the drop in diastolic filling volume that you're going to have from lowering the cadence.
+
+27
+00:11:41,776 --> 00:12:10,176
+So, yeah, so especially in terms of fatigue, I say avoid standing and lower cadences when possible. Not to mention for some people, those larger motor units are going to be less aerobic. Yes. Yeah, if you're, yeah, I mean, that's part of the training aspect of it, actually. And, you know, when we do actually go to train those larger motor units and people, you know, we have to, depending on, you know, their sport history and their natural abilities and whatnot.
+
+28
+00:12:10,176 --> 00:12:38,608
+Typically we have to start pretty easy, especially if somebody has a hard time recovering from that kind of work. And, you know, doing VU2Max work the way I have people do VU2Max work, it can get pretty dark pretty quick. So, I recommend against it. I do say. And all of my athletes who are listening to this right now are laughing right now because they know exactly what I'm talking about. So, this is kind of a long question. But I'm going to try to summarize it.
+
+29
+00:12:38,608 --> 00:13:03,312
+The person who wrote this, I apologize if I didn't get the summary right. I think I got it though. So this person attempts doing VO2 max efforts pretty much right after base training, you know, doing long, easier endurance rides. And they say it takes a few times before their legs don't give out and they can actually get themselves to breathe hard enough. What's up with that?
+
+30
+00:13:03,312 --> 00:13:31,696
+is their question. I've always wondered if I should mix in a little work above threshold during the off-season, but past coaches have always advised against it. The thing is, like, you can mix, honestly, you can mix in a little bit of work, but it's not going to help with this. It's really not. This is the type of training where, you know, if possible, which is almost always, you know, this type of training shouldn't be done straight after
+
+31
+00:13:31,696 --> 00:13:53,328
+an off-season or a period of low-intensity endurance training. It takes some work and some preparation to be able to get ready for a hard VO2max training block. So I actually agree with those coaches. Don't keep up the hard FTP work in your off-season. Really take a break. But you have to...
+
+32
+00:13:53,328 --> 00:14:22,048
+Give yourself a period of like working into it. Like I'll give my athletes some preparation stuff. Like when they see, you know, some high cadence intervals coming at them that aren't like full power, like they know, all right, I know exactly what's coming up after this. Oh no. Yeah. Okay. Moving on. Regarding your preferred view to max intervals, I have a question on pacing. You describe them as all out, but not start out with a full on sprint and also not to focus on power.
+
+33
+00:14:22,048 --> 00:14:50,528
+I take this to mean to start somewhat harder, like maybe 10 to 20% higher power than you could maintain for five, for example, minutes. And then as your power drops, keep pushing all out to maintain whatever power you can. Is this a reasonable application of your principles? I think it is actually. I usually, if I see somebody not starting out hard enough, I'll say start harder, especially in the first five, 10 seconds, accelerating up to speed is pretty important.
+
+34
+00:14:50,528 --> 00:15:18,240
+So that way you can have that flywheel spinning, you moving down the road or your trainer or whatever it is. But actually look at the cover art of the last episode. That's a good set of two and a half minute all out VO2 max efforts. So zoom in on that and try to see the pacing in that because those were really, really well done. And just remember...
+
+35
+00:15:18,240 --> 00:15:47,744
+Don't concern yourself if the average power is not what you hoped it would be. Yeah. Yeah, like I said, it's maybe 10 to 20 watts lower, but the increase in diastolic filling pressure is definitely going to be worth it. Next question is, is it fair to say that VO2max work, as described, can be more unstructured? That it doesn't necessarily need to be of X duration and Y recovery? As long as one ups the cadence and keeps up heart rate, you should be good to go, right?
+
+36
+00:15:47,744 --> 00:16:16,336
+In theory, absolutely, 100% yes. It can very much be unstructured. As long as you're following the general principles, there's no actual need for the structure besides having a method to, for instance, quantify the work. So one of the ways I look at it is with a definitive structure, within that structure's variations, I can see if somebody's getting tired, for instance. So if somebody's doing three-minute intervals,
+
+37
+00:16:16,336 --> 00:16:43,680
+and they start out with three-minute rests and then they have six-minute rests. Then, you know, before the last two, they've got 10-minute rests. I'm going to say, are you feeling okay? Because, you know, normally we don't see like 10-minute rests before such a short interval. You know, and then we kind of have powwow and figure out what's happening. So that's to me as a coach one of the benefits of having a structure and seeing how somebody adheres to it. I would say the other thing is like
+
+38
+00:16:43,680 --> 00:17:08,864
+I don't know about you, but I would much rather go out on a ride if it's going to be like a quality workout and have some sort of structure as opposed to just like, oh, I'm just going to do whatever I feel, you know, not that it's just like completely willy-nilly, but having some structure certainly like, at least as someone who's been like having to read structured workouts for like the better part of, you know, 20 years at this point.
+
+39
+00:17:08,864 --> 00:17:37,664
+It's much, it's comforting. There's this comforting effect to knowing exactly what I'm supposed to do. Yeah, I mean, I do coach a lot of people who love unstructured workouts or like have a semi-structure. And we can talk about that kind of workout another time. Usually it's with like FTP and kind of tempo and fartlek kind of work. But, you know, I can imagine easily here if somebody has like a couple sets of rows, like you can't really, like you like eight minute intervals, but you can't really like
+
+40
+00:17:37,664 --> 00:18:05,808
+You've only got one eight-minute stretch of road, and you've got three minutes here, you've got four minutes here. That I can see as definitely being a thing. You've got a slow hill of two to whatever minute durations, and you can keep up the cadence on those. Yeah, I can see that as being a good structured workout. The downside of something like that, of course, is that you are beholden to the terrain. It's harder to...
+
+41
+00:18:05,808 --> 00:18:35,328
+You know, you're at the top of the next hill and then you go, oh, now I'm ready for my interval, but I still have to wait two minutes to get to the next one. So there are pluses and there are minuses. You know, I would hesitate to assign somebody intervals like that, but if they love them and they could do them, you know, with a high quality output, then, you know, I would be all for it. Next question is, how crucial is the high cadence to this theory?
+
+42
+00:18:35,328 --> 00:19:04,976
+Maybe I need to listen again, but for me, I breathe the hardest going uphill. No question, I would have to basically sprint to get that kind of breathing on a flat. So I'm wondering if I should do VO2 sessions uphill because of the breathing, but obviously the cadence is usually much lower going up. Yeah, cadence is the crux here, because as I laid out in the previous seven hours of podcasts, I know I've said it a couple times, but it just still seems like a lot, kind of laid out the reasoning.
+
+43
+00:19:04,976 --> 00:19:30,496
+for these high cadence intervals, which, by the way, are not my own invention. A lot of coaches have their athletes do high cadence CO2 max intervals. You know, I got these handed down from another coach to me. Somebody said, you should have your athletes do this with this kind of structure, and here's why. And, you know, I figured out that their why is not the same why that I have, which is okay. That's fine. That's how, you know, the sport and training evolves.
+
+44
+00:19:30,496 --> 00:19:54,384
+But yeah, cadence really very much is the central focus here. Now one of the problems you may be having is you are trying to go for too high a cadence. And this happens sometimes where, you know, if I have somebody shoot for like 110, sometimes some people can do 120 RPM. And if they can do that and still put out good power and do the intervals well, that's great. I'd rather have them...
+
+45
+00:19:54,384 --> 00:20:21,440
+at 120. Once we start getting into like the 130s, 140s, it gets weird for most people. You know, you have to look at yourself individually. Now in WKO5, there's a chart that looks at your cadence distribution in each Kagan eye level. And guess what? It looks like a normal distribution. So right in the middle of that distribution where that big
+
+46
+00:20:21,440 --> 00:20:51,136
+That big block of dots is, that's your preferred cadence where you make the most power. And so I'll say start from like 10, maybe 20 RPM, maybe 15 RPM, let's not get too crazy, above that. And, you know, look for like a slight uphill, because, you know, a lot of people do put out a lot better power with that inertia pushing back against them, even if it's, you know, even just like a 1, 2% hill.
+
+47
+00:20:51,136 --> 00:21:12,144
+such a large hill that you're grinding away up like 15% Mount Washington grades to get you and trying to figure out how you're going to do 100 RPMs on your, you know, geez, I don't know what you need. You need like 30, a 30 tooth ring in the front and like a, I don't know, dinner plate in the back or something, you know? Yeah. So I think, I think bring up a good point, like.
+
+48
+00:21:13,168 --> 00:21:29,024
+This may change or alter the way you've done the O2 max intervals in the past, and that's fine, but you're going to have some time experimenting and finding the right way to get that cadence in with the terrain or whatever that you have. Yeah, here's another way that you can ballpark it.
+
+49
+00:21:29,024 --> 00:21:56,848
+Look at another effort that you've done in the, say, three to eight minute range. Pretty typical. Although, if you're wondering, should I do eight minute VO to max intervals? Sometimes. Mostly, I stay away from the eight minutes for most athletes. A lot of people cannot pedal that hard that long. But if you look in that kind of range and look at your average cadence for that, you know, it might be like 75 RPM, it might be 85 or 95 RPM. I would say start shooting for like...
+
+50
+00:21:56,848 --> 00:22:17,920
+10 to 15 RPM over that. You don't have to get WKO5 and look at your eye levels. But this is another method of individualizing the training and the target cadence for you because you don't want to have the cadence be too high that it's like shooting for the moon. You'll never get there without Kyle and NASA behind you.
+
+51
+00:22:17,920 --> 00:22:45,728
+But you want to make sure that it's attainable. You know, I have a couple athletes who prefer to pedal at like 70 RPM and they're spun out when they get like to like 95 and that's something that we're always working on year round. But, you know, I give them these intervals at like 90 to 95 RPM because 100 RPM is, you know, for them, it's ridiculous. And so we don't do that. Which leads us very much into our next question. Can cadence be too high?
+
+52
+00:22:45,728 --> 00:23:14,384
+I was hitting around 115, 120-ish RPM, I assume, mostly. Would higher be better, or is there a point of diminishing returns? Kind of like we just mentioned, yeah. I got ahead of myself. I should have remembered this question was coming. There is a point of diminishing returns, for sure. Your cadence can be too high, where your legs cannot contract fast enough to catch the pedal, as it were, to be able to put good force on it to do enough work. You're definitely going to have...
+
+53
+00:23:14,384 --> 00:23:42,080
+You know, increased diastolic filling volume, you're going to have, you know, you're going to have the muscle pump working and you're going to have the pendulum energy of your legs moving in space, but at the same time, you're still not going to be able to drive yourself at a certain point to work really, really hard. Like, you know, you know, if you can hold 180 RPM for like two minutes, you know, that's amazing, but also it's not relevant to the work we're doing here because...
+
+54
+00:23:42,080 --> 00:24:02,688
+you know the work output is actually too low so there is a balance yeah like you said you still want to be close to kind of like those three to five minute best power levels you don't want to you know take a 40 percent hit or something just because you can hit 175 RPMs for three minutes yeah and
+
+55
+00:24:02,688 --> 00:24:32,016
+Yeah, the other thing is, like, if you can hit 120 RPM and still have the, you know, horrible flu-like symptoms of VO2 max work, actually, they're flu-like for FRC, yeah, but if you can, yeah, if you can hold 120 RPM for these intervals and still have all of the proper symptoms of good VO2 max work, then I would actually say, yeah, go right ahead and do these at 120 RPM if you possibly can. Oh, this is a fun one. All right, so the next question is,
+
+56
+00:24:32,016 --> 00:24:59,792
+At the risk of causing a flame war, thank you, listener, I can cause them myself. You don't need any help there. After listening to the last six or seven hours of podcast, it's become clear that the VO2 intervals prescribed by many training programs just aren't efficient and in some cases may be wasting your time. If you were designing a VO2 program that could be applied to thousands of users, what would the gist of that program be?
+
+57
+00:24:59,792 --> 00:25:23,680
+I am in the very fortunate position to not have to design intervals for thousands of users. I train a handful of people, and that's the way I like it. But now I'm just kind of skirting around the question. So besides the fact that this is why I don't do pre-written plans anywhere, because I know people are complex, and training, even if somebody responds to the perfect middle-of-the-road program,
+
+58
+00:25:23,680 --> 00:25:49,136
+Perfectly. You know, I know that there's things that are going to come up that need, you know, schedule shifts and individualization, like we just talked about cadence before and like looking at rest intervals. So it's taking too much rest. I mean, it's not taking enough rest. You know, we can see that. And so, you know, especially the way that I train people in this aspect, I have come to this because I work with people one-on-one.
+
+59
+00:25:49,136 --> 00:26:16,464
+and I don't envy anybody who has to write a program for thousands of people. The honest answer is like if somebody offered me a very large amount of money, I would give it a shot. We kind of hinted at this in the last episode that, you know, maybe there is something, there is something to that kind of five by five sort of classic prescription in that it's like, it kind of gives you this sort of
+
+60
+00:26:16,656 --> 00:26:39,952
+Middle of the Road, Effective Dose that will probably work for you. Not saying that 5x5 should be the end-all, be-all of a VO2max training plan, but there's a reason that it's popular, and that's because it generally seems to work. Yeah, I think we called it the 2x20 of VO2max work. Exactly, exactly. Even if you're not applying these kind of extra, you know...
+
+61
+00:26:39,952 --> 00:27:05,360
+Tweaks with cadence or with, you know, how you structure the energy output during the interval, getting in the work in a 5x5 structure at that right intensity is, you know. You know, this is one of the reasons I started the podcast because I saw that, you know, I thought people could use a little more knowledge.
+
+62
+00:27:05,360 --> 00:27:34,096
+on kind of what's happening, you know, quote unquote, under the hood of your intervals. And, you know, we really went deep in the last couple episodes and we have not gone so deep in the previous episodes. And that may be something that we do more. If you kind of like the long series format, let me know. But, you know, I certainly see in the listening numbers that people's patience is limited with this kind of stuff. But at the same time, you know, if you're willing to listen,
+
+63
+00:27:34,096 --> 00:27:58,384
+What I'm really trying to do here is show everybody how they can improve their training for themselves and what the different factors might be in order to make better training decisions. So even if you wanted to do like a stock training plan, you know, that's why I said the first thing to look at is increasing your cadence even if you're just shooting for the same power output.
+
+64
+00:27:58,384 --> 00:28:27,536
+And if you have a hard time holding that power output, then great, you're doing maximal intervals and just keep going. And so, I mean, does that kind of make sense what I'm saying there, Kyle? Yeah. You kind of like want to give people the ability to take maybe one of these more cookie cutter training plans that they find and maybe modify it in a way that would actually help them get even more out of that. Yeah, completely. Yeah.
+
+65
+00:28:27,792 --> 00:28:55,360
+So to finally answer this person's question, my design would be probably, I would actually give a long descriptive, kind of like I do with my athletes, saying like, this is how it should feel, this is how you should be responding, this is your breathing, this is your heart rate, and that's how I would approach it.
+
+66
+00:28:55,360 --> 00:29:22,960
+It would not be entirely power-based. I would actually try to impart in a couple paragraphs what I've spent seven hours trying to impart here. That would be my preference. And that would be me putting my faith in people's abilities to interpret that properly. And then I would, of course, have a large phone bank set up for the questions that are going to come in.
+
+67
+00:29:22,960 --> 00:29:51,680
+about that kind of training. So that's what I would do. It wouldn't be like erg mode or anything like that. It would be, you know, go have fun on your trainer, no erg mode, you know, do these intervals this way. If you're having trouble, call one of our agents and they will help you. All right, next question. I've heard that juniors shouldn't be doing high-intensity intervals. Is this true?
+
+68
+00:29:51,680 --> 00:30:20,016
+What should juniors know about Vita Max training? I've never heard this. I've never heard this either. Coming from team sports and backgrounds and stuff, a lot of the conditioning you do is high-intensity intervals. Running field sprints and suicides and stuff are classic running sprinting high-intensity intervals. Yeah, I remember kids talking about suicides and stuff in middle school and high school.
+
+69
+00:30:20,016 --> 00:30:49,984
+It was definitely, we definitely did those. Were they unhealthy for us? The thing is, I don't know. It doesn't seem to be, but obviously, as I always say, I'm not a doctor. I'm not an expert on juniors. The youngest people I train are about 18, 19. But this is me guessing where it comes from. I could be completely off base. I could be wrong about anything, obviously, but I could especially be wrong about this. But I think it might come from the same reason that juniors have restricted gears.
+
+70
+00:30:49,984 --> 00:31:16,384
+You know, the old common knowledge was that growing kids shouldn't be lifting weights because their growth plates, something, something, growth plates, injury, not growing something. For something. I'm going to leave it in the podcast because that's exactly my level of understanding of growth plates. But that's apparently why there are restricted gears on juniors. And I'm sure somebody's going to email me and tell me more or I could have...
+
+71
+00:31:16,384 --> 00:31:37,408
+I could have hit up one of my friends who knows a lot about this, but I did not do that, so I'm going to bumble through this. So the thing is, like, there's actually no issues according to, you know, PTs that I see training juniors. Like, there are, you know, 13-, 14-year-olds lifting heavy weights in competitions.
+
+72
+00:31:37,408 --> 00:32:04,016
+I haven't seen powerlifting, but I'm sure it happens in powerlifting and definitely in like Olympic weightlifting. Yeah. You know, kids are snatching and clean and jerking a ton of weight for their body size. Yeah. And I think they are growing normally. And it happens in track and field too. Like if your kid's a thrower or something, even in middle school or something like that, they're going to be lifting weights and like football, all sorts of things. You know, those kids lift weights pretty young.
+
+73
+00:32:04,304 --> 00:32:24,032
+So I'm sure somebody may not know about the junior gear restrictions thing, juniors are limited to, I think it's like something like 52 or 51-14 or something like that as their largest gear to teach kids to spin and not to mash, which is fine. We've been talking about high cadence VO2 max intervals after all.
+
+74
+00:32:24,032 --> 00:32:53,872
+but it comes from this thing of not wanting to injure growth plates with high force and it actually turns out that people who lift weights have healthier joints and cartilage than people who don't or don't do any load-bearing stuff. See, I've also heard that some of it is an even playing field type thing where if you are bigger and stronger you could nominally push a bigger gear theoretically and so if you have, when you have differences in growth spurts and things like that with kids they may both be 13 but one of them, you know, might be
+
+75
+00:32:53,872 --> 00:33:20,064
+six feet tall and the other one might be two and a half feet tall or whatever because of whatever growth spurts that it helps to even that out as well and then not just a hundred percent reward the kids who hit growth spurts early. To say nothing of the fact that the six foot kid has way more lung volume and blood volume. I mean, you know, 300 watts versus 150 watts. I mean, it doesn't matter what gear you're on, really.
+
+76
+00:33:20,064 --> 00:33:42,160
+and we know that this is a thing and this is why like you know junior categories are small like two years. All right so the next question is you indicated to shorten the time of rest taken between work intervals. I assume that shorter rest periods would help with getting to the right zone faster. Is that correct? My understanding so far however is that when it comes to VO2 max intervals
+
+77
+00:33:42,160 --> 00:34:11,184
+The long rests are better as they help to recover and attain higher power slash better quality in subsequent intervals. Now, this is a really interesting question. So yes and no. So when somebody is particularly fresh, I typically give shorter rests. You know, I have definitely given people four by five minutes with two minute rests, for example. Yikes. Not everybody, obviously. Yikes. Yeah. But it works.
+
+78
+00:34:11,184 --> 00:34:40,592
+But in that discussion in the last episode, we got to talking about how at some point the fatigue starts to mount and you need to take longer rests. So my suggestion is to take the shortest rest that you possibly can while feeling ready for the next interval. And you're not going to have higher power, but as we discussed many times, the power output is not necessarily related.
+
+79
+00:34:40,592 --> 00:35:08,160
+to the VO2 adaptation and the cardiac adaptation. So we have to start with that, making that disconnection, and then we can think about is higher power always better? And certainly you can do an all-out effort, and if you are not recovered enough, it's not going to be that hard. So yeah, pretty much as little as necessary is my suggestion. And if you feel like you need to take a little longer,
+
+80
+00:35:08,160 --> 00:35:35,312
+to get to doing the next interval properly, then take it. But no longer than you need to. No 30 minutes in between five minute intervals. Yeah, I've seen people do that, by the way. And they're like sub max five minute intervals. And they wonder why they take the entire season to get into peak shape. Next question is, in order to achieve the right cadence and level of effort for these intervals, do you have any advice?
+
+81
+00:35:35,312 --> 00:36:03,760
+on the technique and or settings used for different terrain or on the turbo. Is it just keep changing gear to stay where you need to be? I have no suggestions on the turbo other than set it to what works. Probably, I have a dumb trainer. I don't have a smart trainer. So probably in some kind of resistance mode where you can freely shift and find the right thing for you. And you know, you don't have to get it just so.
+
+82
+00:36:03,760 --> 00:36:29,664
+You can be a little off on the cadence. You can be a little off on the effort level. As long as you're going hard, you're probably doing it right. There are ranges, right? They always talk about cadence ranges, power target ranges, whatever. It's never like, if you don't nail 367.2 watts, this effort's going to be wasted. Not rarely in life is anything like that. No, completely.
+
+83
+00:36:29,664 --> 00:36:57,488
+One of my athletes, actually, we just had this issue, he's doing via to max intervals right now, he went out and started doing these intervals, and he lives around some rolling terrain, and he was like, this is mentally exhausting to keep shifting into the right cadence range, because you've got to keep an eye on your cadence, you've got to keep an eye on your effort level, and you've got to, it's a lot of work, it really is. And I said, let's do them on the trainer tomorrow.
+
+84
+00:36:57,488 --> 00:37:20,240
+And he did, and they were much, much better. And this actually happens quite a lot, quite frequently, where sometimes, you know, you just have to do V2 max intervals on the trainer, and then if you want to get out for more riding, then you can head out. But, yeah, sometimes, depending on the terrain that's around you, it may be better to, you know, well, just find what works for you. It really...
+
+85
+00:37:20,240 --> 00:37:45,200
+Doesn't matter as long as, you know, if a slight incline is good, if you can keep up the cadence on a steeper incline, that's great. If you've got the gearing for that, you know, it really depends on what works best for you. And that's, I mean, that's one of the things that I typically help people do, but since I don't know much about where you're at, since I'm not coaching you one-on-one, then I unfortunately do not have any specific advice.
+
+86
+00:37:45,200 --> 00:38:13,424
+which is the unfortunate part of the individualize everything approach. Okay, next question is, as sessions progress and we need to recruit larger motor units to produce max efforts, parenthetically he says or she says, my assumption could be wrong, close parentheses, does that mean that later interval bouts are less effective than earlier interval bouts due to increased preload from the higher amounts of larger motor units?
+
+87
+00:38:13,424 --> 00:38:42,336
+Now this actually gets it backwards. So, you know, it could also be because, you know, you had to listen to us talking about this instead of seeing diagrams and such. But what makes later intervals potentially less effective is fatigue. So despite that, we'll probably, yes, be recruiting larger motor units than we will be initially. But the thing is, it does not take much muscle contraction to effectively amplify venous return.
+
+88
+00:38:42,336 --> 00:39:08,608
+We can use less motor units and just contract more often, which is the high cadence approach here, to increase Venus return. And so even if we have to, you know, even if we could somehow do max efforts and then increase the power more and recruit more motor units or just be more fatigued, you know, as long as everything else is kind of aligning, then, you know, the later efforts...
+
+89
+00:39:08,608 --> 00:39:38,000
+are going to be just as effective as the first ones. I mean, if we could actually get more preload later in a session from using a little more muscle mass, like that would actually make the stimulus more effective, not less. All right, nothing else? Okay, moving on. That's all I got, yeah. Should VO2 max work be in a targeted block or spread throughout a typical training period? If in a block, does one maintain threshold work in that block? What about after VO2?
+
+90
+00:39:38,000 --> 00:40:01,072
+Maxx, Targeted Block. Basically, how does one best structure their training to, quote unquote, realize this increased VO2max fitness? So, first thing is, my personal preference is to work VO2max really hard, all at once, and then rest. Recovery and maintenance of things like blood volume and capillary density,
+
+91
+00:40:01,072 --> 00:40:30,816
+are the best ways to maintain improvements in your heart as your heart adapts. And that's the best way to maintain everything else while you are doing this targeted work. I do not typically assign FTP intervals while doing VO2 max work. You know, we focus really hard on this one thing and we create a large stress and then we let somebody recover from the stress. And that I find along with the rest of the training that someone does is
+
+92
+00:40:30,816 --> 00:40:59,792
+the right way to kind of bed in these adaptations. Because, you know, if you lose some blood volume and then your blood volume stays low because you're not training that hard or very much or whatever it is, you know, after a certain point your heart might go, why am I so big? And, you know, sarcomeres start to disappear and, you know, I don't know how much the heart shrinks. I think you bring up a couple good points. One is not to mix.
+
+93
+00:40:59,984 --> 00:41:24,048
+Mix efforts in the sense that if you're going to do VO2 work, do VO2 work, don't mix in also FTP work because you're worried that you're going to lose those FTP gains. You can imagine as long as you're still riding hard aerobically, you wouldn't start to detreat. It's not like VO2 max work is, I don't know.
+
+94
+00:41:24,336 --> 00:41:48,240
+Max deadlifts where it's not like FTP work at all. You're still going to have that aerobic stimulus from doing either VO2 or FTP work. So being worried that your FTP is going to take a dive or something because you did a big FTP block and now you want to do VO2, I personally would not worry about that too much.
+
+95
+00:41:48,240 --> 00:42:16,880
+Yeah, and in practice, I don't worry about it either because, you know, even if we skip FTP workouts for, let's say, four weeks, I've never seen some of these FTP go down while we're focusing on V2 max work. I usually see it either maintain within about two watts, goes up about five. I've seen 10 a handful of times, but that's it. You know, when you are using...
+
+96
+00:42:16,880 --> 00:42:45,856
+Oxygen to create energy. It's going through the same pathway as for FTP work. You breathe in oxygen, it goes through your blood, it goes into your cells, and then electron transport chain. There you go. Oxidative metabolism. Not max deadlifts. Not max deadlifts. But, I mean, this is why I think it's important to stay on top of the volume.
+
+97
+00:42:45,856 --> 00:43:09,984
+During this kind of thing, like very low intensity, obviously. You know, not like I'm riding zone two, strictly zone two, hard, and I'm fading through my rides. That's not the right kind of training for this. You know, just getting in the hours, however hard they are. Next question is, in the 30-15 protocol, I would be curious to know...
+
+98
+00:43:09,984 --> 00:43:36,944
+what you see as the benefit to these types of workouts since I believe you said you still recommend them but for different reasons? Question mark? Absolutely. I assign this type of work all the time for lots of different reasons. Over-unders are great for... Actually, we should probably just do an episode on this one of these days. But yeah, I assign them. If for nothing else, then race specificity. You know, it's...
+
+99
+00:43:36,944 --> 00:44:05,696
+Very rare, unless you're like a strict time trialist, to do a very steady work output for your race. Unless you're maybe a solo breakaway artist, I don't know. But even for people who do time trials, like over-unders and intermittent stuff like this, which are kind of two sides of the same physiologic coin, they are
+
+100
+00:44:05,696 --> 00:44:33,248
+Important. They're really important in order to improve your fitness. I'm kind of dancing around the why, but we'll get into that in a future episode. Really, maybe only the individual pursuit is a race where you know you're going to have to more or less peg it at some fixed work rate. Because even, like you said, time trials, terrain, win, things like that. And team time trials, team pursuit, whatever, you're going to be...
+
+101
+00:44:33,248 --> 00:45:01,632
+exchanging and taking pulls and stuff. And so you have a not fixed pegged effort level. I think like just one race, that's all I got. Yeah, actually a lot of time trials that my athletes who are starting to race again, you know, their time trials are not exactly steady. So we are definitely using intervals kind of like this in order to prepare for those races. Next question. Since FTP...
+
+102
+00:45:01,632 --> 00:45:22,960
+is the maximum power the body can produce aerobically. Parathetically, they say, unless I'm understanding wrong, close parentheses, why does the body enter in a VO2max state in the first place since the oxygen won't be used for more aerobic contribution? Listen to our episode on FTP versus VO2max because we...
+
+103
+00:45:22,960 --> 00:45:47,488
+Go into this a little bit. So pretty much what happens is FTP is always going to be a certain percentage of your VO2 max. In the extremely untrained, it'll probably be maybe, I don't know, 55, 60%, 58, let's be generous, 60%. And in the highly trained, we could probably see high 80s, maybe 90, I don't think I've ever seen 90. Maybe I have? Anyway, it's late.
+
+104
+00:45:47,488 --> 00:46:15,200
+Yeah, so we're going to see a spread, but we'll never really get to 100% VO2 max for our FTP. What's happening is FTP is the highest steady state metabolic load that we can maintain. And once we go over this threshold, the increase in power output becomes more than we can aerobically produce in steady state, and we have to start working more anaerobically.
+
+105
+00:46:15,200 --> 00:46:43,200
+So if we are working at, and you know, there is actually some anaerobic contribution at FTP. You know, you've got glycolysis, so we're getting a couple ATP from that. We have substrate level phosphorylation in the Krebs cycle, we get a little bit from that. But most of it still comes from the electron transport chain. But we'll never get, we'll never be able to make FTP high enough to match VO2 max. Yeah, I think, I think.
+
+106
+00:46:43,200 --> 00:47:10,752
+The misunderstanding here in this question is that you're still working aerobically in VO2 max. It's just that you're not, what is happening is that your body is not able to maintain that workload for 40 to 70 minutes like it is for FTP. I think thinking about it as FTP being only aerobic is a misnomer. I'm saying that like
+
+107
+00:47:10,752 --> 00:47:34,112
+If you're over FTP, you are no longer aerobic. Saying that it's not this cutoff. FTP is the maximum aerobic metabolic load, but it's not like as soon as you inch over FTP, you flip a switch and bam, you're completely anaerobic. Yeah, actually, I think we covered a little bit of this in, what was that, what stock number?
+
+108
+00:47:34,112 --> 00:48:03,792
+2006 from memory? Yeah. The Lactate Myths and Truths episode where I think we went into the Warburg effect and we also went into a little bit of this in the Where Does Lactate Come From Really episode which everybody thinks is about milk but it's not. Yeah. Yeah, so that's what I mean. That's what I mean. It's not like as soon as you get over FTP you're no longer aerobic. You still have a very large aerobic chunk. Yes.
+
+109
+00:48:03,792 --> 00:48:33,312
+For sure. All right, here's the next question. It's a little long, but I think it warrants listening to all the way through. In the podcast, you made it sound like you have athletes that show continual improvement through the race season. So it sounds like they're doing similar VO2 work or enough that drives a stimulus. So it sounds like your athletes are making larger gains in a smaller period of time. I guess I'm wondering if I'm hearing that right and you would continually work on VO2 max type work.
+
+110
+00:48:33,312 --> 00:49:01,904
+During one season or training cycle to keep pushing up you to max. So any idea where the limit is for that during a season or in the long term? What indicators let you know that there is no more room for improvement? Or alternatively, what the body can handle for more stimulus? So, you know, when it comes for my athletes showing, you know, quote unquote, continual improvement through the race season, I was actually trying to compare people who take a whole season to get into fitness.
+
+111
+00:49:01,936 --> 00:49:28,928
+Versus people who focus really hard on training, you know, on focus training and improving very quickly and then being able to take a rest. You know, with young athletes especially, developing athletes, we see a lot of improvements very quickly. One of my athletes, younger guy, just did a V2 Max block and we saw absolutely phenomenal improvements. Like, to the level that it shocked both of us, honestly.
+
+112
+00:49:28,928 --> 00:49:57,296
+And I was watching his numbers and, you know, I'm looking at my models and going, wow, this kid is great. He knows who I'm talking about right now. So good work on the last block, by the way. But not everybody's like that. So when it comes to, you know, assessing if somebody's not going to be able to improve, it really just depends on if we give them the, as much targeted stimulus as possible.
+
+113
+00:49:57,616 --> 00:50:27,216
+and seeing what comes out the other side. Because we cannot predict the future. We cannot predict how much or how well somebody is going to adapt. We have the past, but at the same time, every step that you make towards the future with good, high-quality, targeted training, you are going further and further up your ladder towards your ceiling, and it's not a linear trajectory. So it depends on the athlete. Some people, yeah, we try really, really hard.
+
+114
+00:50:27,216 --> 00:50:55,056
+And we go, well, I think you're at your max. And then our strategy changes to doing the minimal amount of work in order to get them to peak fitness so they can race really, really well. A lot. Or, you know, maybe have that one really good sharp peak for their season. Depends on what we're trying to do. I would say also, keep in mind, there's no like magic formula that will let you like both be
+
+115
+00:50:55,056 --> 00:51:22,336
+Deep in a training cycle and also hit like an amazing peak for this like random race that you decided to show up for like it's just not you can't you can't do that I you know and as awesome as it would be to be able to do that like I think anyone who's going to set out on a three four year whole training arc knows that the race results that they get
+
+116
+00:51:22,336 --> 00:51:50,000
+in the interim are not going to be as amazing as they could be if you were peaking for every other month or something like that or whatever. Yeah, and peaking obviously requires some rest in order to, you know, you've got to try to maintain your fitness but also let yourself recover. Training 101. Also, one thing that we haven't covered yet on this question is how can I tell what's the right amount of work? And the answer is we start small.
+
+117
+00:51:50,608 --> 00:52:19,776
+Because, you know, as you probably, if you have listened to the podcast a lot, I'm fairly conservative when it comes to pushing people into doing things, because if somebody goes over the edge, that can mean a long period of recovery. And so we want to avoid that edge, and I'm the only person I've ever pushed over that edge, and I never want to tap it to anybody. So that was a lesson I learned very early in cycling. That reminds me of a post that...
+
+118
+00:52:19,776 --> 00:52:48,832
+Mike, Mike Israel said this one time about like coaches training athletes like that it's it actually he thinks it's important for coaches to know what it feels like to do too much so that they know not to do it to their athletes like they should know like really know what it's like to be like just pushed way too far yeah I mean I had to take six months off the bike and then when I started riding again I was really hesitant
+
+119
+00:52:48,832 --> 00:53:13,952
+and it was not fun. But I did the right thing taking that time off because I knew I had overdone it. So whatever it is we're training, whatever it is we're focused on, I make sure that it's accomplishable and effective. And if somebody seems to need more, then we will give them more. With VO2Max work, I think somebody...
+
+120
+00:53:13,952 --> 00:53:41,552
+I'm sure somebody is thinking in the last episode, you know, why go max with these intervals? The answer is that, you know, increasing the stimulus isn't going harder on the intervals for this kind of work. It's doing it more frequently. So with some of my athletes, I'm not going to tell you how many V2 Max workouts they do in a week, but it's more than you might expect. And it's because they've been working with me for a long time. They've built up to this over many, many years.
+
+121
+00:53:41,552 --> 00:54:10,528
+And, you know, some of these athletes, like their, you know, their FTPs are up 50, 60 watts from where they were when they started with me, and they can do so much more high-quality work, and actually, it turns out they need it. And as soon as we stop seeing a response from that giant stimulus and, of course, a sufficient rest, then we know that we're starting to really tap them out, and then our strategy starts to change. Last question. I understand that stroke volume is what you're chasing with the intervals.
+
+122
+00:54:10,528 --> 00:54:39,472
+My question is more after you go through your V2 Max block, is there anything that needs to be done to solidify and or expand those gains in the weeks and months after? So this is the kind of question that we put off previously. What it takes really is consistent, focused training, but not to be ignored is rest. You don't adapt in the middle of a set of squats. I mean, you do, but like...
+
+123
+00:54:39,472 --> 00:55:06,848
+You're not going to get stronger in the middle of that set of squats. It's not like you can do five squats and then go, all right, I'm ready for 10 more kilos. Like, let's pile it on. Two more plates, please. It doesn't work like that. So when you're training something, you know, you've got to watch out if you're spinning your wheels, which, well, for some people, like this year, this year is a weird year. Like, we don't know when racing is going to start, and some people want to be ready.
+
+124
+00:55:06,848 --> 00:55:34,352
+to be in shape in like three to five weeks. And so we are purposefully kind of spinning the wheels a little bit, just getting into maintenance mode, not doing a hard build and then, oh God, you need a couple weeks of rest and that's when racing starts. We didn't want to do that. So for the most part, in order to make everything really sink in, you have to
+
+125
+00:55:34,352 --> 00:55:58,752
+Adhere to the very basic principles of progressive overload and rest. That's it. There's nothing more to it. It's focused training. It's having a good annual training plan. And yeah, that's it. Kyle? Yeah, I was going to say, don't discount the way sleep and food can help you actually.
+
+126
+00:55:58,752 --> 00:56:26,192
+You bring up a good point. To realize these gains for a lot of these, especially for deep, hard, heavy blocks, you need rest. All right, so now we are going to get back into Ronstadt. So I had a couple people write me and say, you know, you missed this, that, and the other thing in the Ronstadt study. One of my biggest general thoughts in the Ronstadt study is, you know, with the post-discussion.
+
+127
+00:56:26,192 --> 00:56:55,728
+of the last podcast, in which people were rightfully, you know, giving me shit for, you know, saying not nice things about Ron's dad, and I do apologize for that. What we're really arguing about besides that is the fact that, you know, the instructions say one thing and the data says another, and we don't have any, we don't have enough data from the researchers in order to say for sure exactly how hard the four by five minute
+
+128
+00:56:55,728 --> 00:57:23,696
+Intervals were. Now, if we look at the instructions and we look at the RPE, we should say, yeah, they were pretty hard. But if we look at the data, the power data and the lactate data and whatnot, I don't think they were that hard. So here's my first thought is the human element in this study should have been discussed, I think, in terms of the given instructions, the athlete's understanding or following of the instructions. Did they understand their purpose?
+
+129
+00:57:23,696 --> 00:57:50,448
+as intended by the investigators? I mean, these are all very good questions. And there are studies just looking at these kinds of things, and it's like psychology and psychiatry and clinical psychology and whatnot. Kyle, I know you've got a thought on that. Oh, yeah. I mean, there's a whole field of study about like, you know, basically how to make good studies and like why if you just blast out a survey of people on your Facebook or something, it's not good. Yeah. Well, so, I mean,
+
+130
+00:57:50,448 --> 00:58:19,200
+This is why when we've looked at studies in the past on the podcast, as we tend to do, I have on purpose not selected certain papers where we have to guess on the important things to gather data. You know, we can argue about interpretation and whatnot, but, you know, we have not yet had to discuss methodology. And honestly, I didn't want to even include this paper at all. We would have just ignored it completely.
+
+131
+00:58:19,200 --> 00:58:46,848
+if it weren't so popular. Let's address the points on how I determined that the 4x5 group was at or under FTP intensity for the most part. The instructions for RPE intervals seem to imply that each interval was maximal, but RPE according to the Borg scale is to me weird, where 14 out of 20 is not out of breath. So like it's basically endurance pace, but if we scale it directly down into a
+
+132
+00:58:46,848 --> 00:59:15,408
+You know, one to ten, that's a seven. And usually people give sevens to threshold intervals, you know, on the training peaks, one to ten. Which, by the way, some people still will look at that and go, what should I put here? You know? I also want to point out that the Borg scale starts at six. So it's six to 20. It's not even one to 20. Like, if you Google, like,
+
+133
+00:59:15,408 --> 00:59:44,400
+like, oh, Borg scale. The website I'm looking at is from the Harvard School of Public Health, so it's not some random website about the Borg scale. I actually looked at the original Borg paper for this. Well, it was mostly descriptors like hard, heavy, severe, but pretty much right up to 14. It's more for daily levels of activity. It's not for exercise where endurance pace we call 5 out of 10. If we look at...
+
+134
+00:59:44,400 --> 01:00:13,520
+Individualized Responses to Training. Now, we saw three participants in the 4x5 group improved their Wmax. Now, the thing is, they did not show individual responses with VO2max. Now, the Wmax is the end of ramp test final power, which still depends on anaerobic capacity, as we talked about in the podcast episode with the sensationalist headline about ramp tests. Sorry about that, folks.
+
+135
+01:00:13,520 --> 01:00:42,064
+But the individual VO2 response is not reported, which I think it should have been. For the WMAX in the 3015 group, individually, three improved their WMAX kind of a lot. Three stayed the same, one went down. For that same thing in the 4x5 group, three improved their WMAX not as much as in the 3015 group, but they did. Three stayed about the same, and three definitely went down.
+
+136
+01:00:42,064 --> 01:01:02,144
+This makes me question the intensity based on the response just right away. The next thing is power at four millimoles as a lactate threshold indicator, as an FTP indicator. Now, as discussed in previous episodes on FTP, blood lactate usually kind of bumps up.
+
+137
+01:01:02,144 --> 01:01:27,120
+at the onset of exercise before settling down. In a ramp test where you are continually recruiting more and more motor units, that means these motor units never get into the settling down phase, quote unquote. But what they did here was a step test. So they didn't do a direct ramp test where it's like ramping up. So they did five minute stages, but five minutes is not long enough.
+
+138
+01:01:27,120 --> 01:01:56,976
+for lactate to really settle down into its steady state value. It still is high initially and then will relax. And so you could probably be overestimating blood lactate concentration by like one and a half to as much as three millimoles in five minutes. Yikes. Yeah, so it really depends. And I think it would have been interesting to look at during these five minute stages, like first minute and last minute.
+
+139
+01:01:56,976 --> 01:02:21,264
+to see how, and actually longer stages. So in Yugosan Milan, he does lactate testing really well, where he has people do 10-minute stages, very steady state, and he'll measure lactate at the end of the 10 minutes. So I think that's the way to do it. So the other thing is that, you know, ramp tests with lactate will typically underestimate FTP by a lot.
+
+140
+01:02:21,264 --> 01:02:50,816
+And especially when, you know, we see four millimoles when really it might have been two millimoles, you know, we don't know, you know, for this ramp slash step test where their FTP really lies because of this. I have lactate testing data from ramp tests that underestimates people's thresholds by 50 or 60 watts. Yikes. And it's because of this phenomenon. You're continually recruiting increasing size motor units and, you know, they
+
+141
+01:02:50,816 --> 01:03:07,936
+Start out with that big lactate spike, and then they settle down a little bit. And especially as you get into larger and larger motor units, which may or may not be as well aerobically trained and need to use more lactate, use more glycolysis.
+
+142
+01:03:07,936 --> 01:03:37,536
+That's why I discounted the lactate testing, because the stages weren't long enough. So what about 20-minute power as an indicator of FTP? Now the 20-minute time trial was conducted after the RAMP test, which happened after the lactate test. So it's, at least to me, unreliable as a true maximal 20-minute time trial, especially after a 15-minutes exhaustive RAMP tests. Yeah, that sounds pretty hard. Yeah. Well, actually, I'm estimating time. It might have been like 10 to 12 minutes.
+
+143
+01:03:37,536 --> 01:03:59,536
+I looked harder at their protocol and I did some calculations so they might have been in like that sweet spot of like you know 10 to 11 minutes or something like that depends on the athlete too so anyway so they also did two by 30 second efforts before the 20 minute test and described as and I quote
+
+144
+01:03:59,536 --> 01:04:27,472
+During the last five minutes of the recovery period, the cyclists performed two submaximal sprints lasting 30 seconds with increasing power output and they had complete rest during the last minute before the tests start, unquote. I don't know why they had to do that, honestly. But it's a little more fatigue. It's like a weird blowout effort or something. I suppose. Yeah.
+
+145
+01:04:28,048 --> 01:04:56,272
+The other thing is that anybody who's tried the typical Hunter Allen 20-minute test protocol where you do a five-minute all-out effort before your 20-minute test, for some people, they're fine with that, honestly. It's fine. But for some people, it can really screw up your 20-minute test by introducing a ton of fatigue. And especially if you're coming off of a three, four weeks, easy period of training, just volume, low intensity like these athletes were, you don't have the capacity to...
+
+146
+01:04:56,272 --> 01:05:25,120
+Go hard right then and then recover easily. And so as you do these intermittent intervals at kind of high power, you're going to be adapting in your ability to do that. So that might be part of the reason why that happened. And also let's not forget that the same number of athletes increased their Wmax power in both groups, but the average was higher in the intermittent group.
+
+147
+01:05:25,120 --> 01:05:53,936
+And also they increased their VO2 max by like, what was it, like 0.3 liters a minute or something like that? Yeah. Something like that. Yeah. Now, I also made a point in the last episode about the training of larger motor units and the anaerobic capacity and whatnot. All of that still applies right here in this testing protocol in one day. So, here's the thing. These are elite athletes who started their RAM tests at 3 watts per kilo, right?
+
+148
+01:05:53,936 --> 01:06:20,896
+Which is, you know, most ramp tests you see, you know, you ramp steadily up to like 80 watts, 100 watts, then you add 25 watts a minute until exhaustion. And so, you know, if you've got an FTP of like 400 watts, you're going to take forever to get there. Yeah, for sure. 20 watts a minute or something for like... Yeah, exactly. And so, I figured 5 watts per kilo...
+
+149
+01:06:20,896 --> 01:06:44,976
+is an okay if low estimate for their FTP, which means that their 75 kilograms average weight, this puts their average FTP at 375 watts. Now comparing this to my own athletes, now in this study, the test groups had VO2 max in liters per minute of about 5.4 to 5.5 liters a minute. In my own athletes,
+
+150
+01:06:44,976 --> 01:07:09,056
+The people with that VO2max value, they have an FTP of at least 360 watts, if not more. Typically, in the 370 to 380, 390 watt range. VO2max will get a little higher in the 390s. But some of them weigh 85 kilos, some of them weigh 75 kilos, some of them weigh 65 kilos.
+
+151
+01:07:09,056 --> 01:07:37,552
+Normalized to body weight, that's about 62 to 85 milliliters per minute per kilogram. So their average would be about 70 to 72 milliliters per minute per kilogram, just like in this study, right? And so the FTP range is 4.5 to 6 watts per kilo, or an average of somewhere around like 5.25 watts per kilo, which by the way is 390 watts for FTP.
+
+152
+01:07:37,584 --> 01:08:03,760
+The thing is, despite all the instructions, all of that is how I figured that 367 watts average for the 4x5 is at or below FTP for most of the subjects. In the three who improved their RAM test Wmax, they were probably doing the intervals as intended by the researchers. But now we get back to this problem of the human element and instructions.
+
+153
+01:08:04,176 --> 01:08:32,816
+I would also like to point out just one thing about this Borg scale and the human interpretation is that a 17 to 18 is rated as the highest level of activity you can sustain and it carries with it no indication of how long that sustain is and if you said highest level of activity you could sustain I could very easily see people thinking that means FTP highest level of activity that I can sustain is like
+
+154
+01:08:33,328 --> 01:09:02,895
+Almost, you know, like a weird jumble of the definition that people like to repeat for FTP. I like to think that they got their instructions across and maybe the cyclist didn't understand it. But the thing is, you know, if it was like really four by five minute maximal efforts, like the highest work rate you can sustain evenly for each interval, and you have to do it every single time, I think
+
+155
+01:09:02,895 --> 01:09:30,256
+I mean, I think I would love to see the actual intervals and the data and, you know, perhaps, you know, something about compliance, coaching cues, things like that. Like these are things that, you know, I'm always working on too. Like I always want to make sure I can say something like when somebody goes, oh, that was perfect. I understood exactly what you meant and they do the workout perfectly. And then I start saying that same thing to everybody.
+
+156
+01:09:30,256 --> 01:09:59,088
+Because, you know, you're learning your coaching cues as you go along. You learn this phrase has, you know, the right kind of meaning to get what you want across to somebody over time. So I think that there's a good discussion to be had in that also with this study. So I think that the last episode structure where we, you know, put forward what I think are the right viatomatics intervals for most people.
+
+157
+01:09:59,088 --> 01:10:24,720
+in order to increase their heart stroke volume, which I think we laid out pretty well is the real long-term limiter. We laid that out and then we got into why not do Ronstadt. I think that was the nice way to do it. I will point out that, you can cut this, but it was 368 plus minus 35 watts for the standard deviation for the
+
+158
+01:10:24,720 --> 01:10:46,496
+4x5. So some of those people were working more like 400 watts, which would be kind of in that 110%, 120%, whatever traditional prescription of VO2 max work as a function of FTP, if your FTP is 370-ish. Yeah, right.
+
+159
+01:10:46,496 --> 01:11:14,432
+But not all of them because... Yeah, well, that's why, you know, looking at the individual responses in the WMAX and I would love to see the VO2MAX, I think that's why that in particular is important because, you know, that's when we're going to see and comparing it to the intervals, the actual intervals, power outputs that people did relative to their FTPs or relative to their RAM test WMAX. All right, I think we've beat that study to death.
+
+160
+01:11:14,432 --> 01:11:16,912
+Alright, so thank you guys as always for listening.
+
+161
+01:11:16,912 --> 01:11:45,888
+we really appreciate it and if you want to subscribe to the podcast please go ahead and do that wherever you're listening to it and give us a rating if you'd be so kind share the podcast with a friend that is the best thing you can do if you're enjoying what we're doing and remember that we're ad free so if you want to donate you can do so at empiricalcycling.com slash donate we have the show note on the website we have merch at empiricalcyclingpodcast.threadless.com and if you have any coaching and consultation inquiries or questions and comments you can please send an email to empiricalcycling at gmail.com and you can follow me on Instagram at empiricalcycling
+
+162
+01:11:45,888 --> 01:11:50,160
+Thank you everybody, see you next episode. Thanks everyone.
+
