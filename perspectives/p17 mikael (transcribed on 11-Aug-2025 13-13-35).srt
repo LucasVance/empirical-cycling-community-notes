@@ -1,0 +1,992 @@
+1
+00:00:00,560 --> 00:00:20,848
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore. Kyle's got the day off today because, of course, we have an interview. So before we get started, I want to thank everybody for listening as usual. I ask you to subscribe to the podcast or follow it wherever platform you're doing that. Whatever their terminology is, we appreciate that so you can know when a new podcast comes out.
+
+2
+00:00:20,848 --> 00:00:50,128
+Five-star rating goes a long way. Thank you all so much for that and a nice review. Also appreciated. Of course, we're also an ad-free podcast, so if you want to support the show with a couple bucks, you can do so at empiricalcycling.com slash donate. But of course, if you want to become an Empirical Cycling athlete, you can reach out to us, empiricalcycling at gmail.com. That is a more expensive Patreon, I would say, but it definitely supports the show. Thank you all so much for your recent coaching inquiries and also for consultations. We are available. Our time is yours.
+
+3
+00:00:50,128 --> 00:01:02,976
+Time. We will answer your questions. We can look at your files, et cetera, et cetera, et cetera. Coaches, athletes, teams, we are happy to make our time available for you. We've got some show notes up on the website. We have a couple links.
+
+4
+00:01:02,976 --> 00:01:30,496
+from today's show. And of course, up on the Instagram, we asked a couple questions for our guest, and he answered them very graciously and in very excellent detail, as he is wont to do. So on today's episode, we of course have Michael Erickson of That Triathlon Show and Scientific Triathlon. And he's a podcaster who I've listened to for a long time, of course, as have many of you all listening to me now.
+
+5
+00:01:30,496 --> 00:01:49,312
+And he is a consummate podcaster. He's an excellent interviewer. He does a lot of research. He puts a lot of thought into what he does. And I think he is definitely one of the best out there. And I've been on his show twice now. And I thought it was time to turn the tables on him. And he came on the show.
+
+6
+00:01:49,312 --> 00:02:18,896
+and I think we had a really, really great chat. I was so happy about the conversation we had and I think he was happy about it too. He asked me to share the audio so this may appear on his channel as well. So I've got all the scientific triathlon media links up to their website and all that kind of stuff in the show notes at empiricalcycling.com. So if you want to check that out, please do. I highly encourage you to listen to that podcast as well in addition to, of course, this one.
+
+7
+00:02:18,896 --> 00:02:46,144
+Thanks, everybody, for everything. Thanks for listening. And without further ado, let's get started with this conversation, because it's a really good one. See you on the other side. Thinking about old training plans, because I had just looked up one of my old ones, and it was the first time I had ever put one of my long FTP tests into a training plan. And I was cringing while reading it.
+
+8
+00:02:46,144 --> 00:03:15,808
+And I was like, oh god, oh, I did that. Oh god, I told people to do that. Oh god. So when you go back and look at your old plans, do you feel the same way? And also, do you think when you're looking at those plans, I understand why I did that, and now I understand why it's wrong? Yeah, probably both of those. I mean, it's, yeah, I think that the principles of training haven't really changed, but it's more like there are,
+
+9
+00:03:15,808 --> 00:03:43,312
+So many kind of nuances that you understand better now than you did then. And I think, I guess, almost effectiveness tricks. Like, I think that the training is much more effective the way I prescribe it now than it was five years ago. So, yeah, I mean, I think you don't even have to go back five years. You have to go back one year and you already start to feel a little bit that.
+
+10
+00:03:43,312 --> 00:04:11,568
+Oh, I wouldn't do this like that. And yeah, I think it's easy as a coach to be very self-critical. And I certainly am. And yeah, it's difficult sometimes. But yeah, I think it's also a good thing to remember just how hard you worked to improve on things and how far you've come. Because it's also, you see it kind of in the industry that
+
+11
+00:04:11,568 --> 00:04:40,128
+Not everybody works hard to improve their understanding. Some people just do the same thing year in, year out. So I think there's two sides to that coin. Do you think that being self-critical might be one of the most important parts of coaching? Yeah, I would say so. I think so, because I think it's a profession and a task that is going
+
+12
+00:04:40,128 --> 00:05:07,952
+to be bound to be influenced by a lot of potential biases. And I think that's one of the, I think critical thinking, that's one, I think that I'm very passionate about in general. And I think it's something that should be taught in school and especially these days. But yeah, even when I went to school, like I wish we had had some of that. But I think being able to understand different, sorry, I'm going to turn off these notifications.
+
+13
+00:05:07,952 --> 00:05:36,576
+I think that having the understanding of different biases that might occur, you're never going to be able to completely put them aside, but at least understanding them, that's going to make you a better coach, and being able to question your own reasoning, that's going to make you a better coach, so I think being self-critical, it kind of goes hand-in-hand with those other attributes that I think are really important.
+
+14
+00:05:36,576 --> 00:06:05,760
+Well, because you went to school for engineering, right? And so like in engineering, I know engineering is not exactly the same as, you know, being trained as a proper research scientist, but you learn the scientific method. And I know in engineering, like there's an answer because you have to have a product or you have to have something at the end of the day. But, you know, I think in the scientific method, that should be self-doubt enough in itself because you're always trying to figure out
+
+15
+00:06:05,760 --> 00:06:34,256
+Oh, what could have confounded my research result? Well, maybe not enough people think of that kind of stuff. And so there's still that human element, you know? And so I think when it comes to self-doubt as coaches, you know, because I'm sure you're a lot like me in a way, but I have heard a lot of stories about people who, you know, not to name names, as we never do here, but who think they're the shit because...
+
+16
+00:06:34,256 --> 00:07:04,016
+their athlete won this, that, or the other thing, and they're like, yeah, now everything I do is awesome, just, you know, my plans are great, I know everything, I'm the best coach in the world, but, you know, I think people like you and me, even when somebody wins something, we go, what could we have done better? Yeah, no, I think you have to have that mindset of what can you do better, because otherwise you just, you won't improve, and somebody else will improve, and then you're done, so, yeah, I think it's,
+
+17
+00:07:04,016 --> 00:07:30,016
+It's pretty self-evident. I mean, it's not self-evident because you do see a lot of circulation, I guess, of, you know, the same jobs going to the same circle of coaches. They just seem to flip countries every now and then, for example, in triathlon in the federation world. But yeah, I think by and large, I completely agree with that. Is that...
+
+18
+00:07:30,016 --> 00:07:57,184
+What are the reasons you started your podcast? So that way you had an excuse to interview people all the time and learn? Oh, 100%. Yeah, that was the main reason. Absolutely. Yeah. Yeah, I was just fascinated by learning. But yeah, I found that, you know, there's just so much nuance that you can't get from reading somebody's book or watching somebody's video and also...
+
+19
+00:07:57,184 --> 00:08:11,824
+Reading Somebody's Research Paper, like you, yeah, the best, I still think I do all of those things, of course, but the way that I learn the most is by having a conversation with somebody. I think one of the...
+
+20
+00:08:12,208 --> 00:08:40,751
+Most fascinating things to me about you and your podcast is what effect does having hundreds or maybe, are you up to a thousand yet? No, but maybe over 500 because I have a lot of unnumbered episodes to Q&As and so on. So yeah, probably over 500. So when you have done that many episodes and you've interviewed that many people, how often
+
+21
+00:08:40,751 --> 00:09:04,464
+Do you get something like, oh, I've got to jump onto this thing? Like, how do you sort out how many trends or new things that you're going to follow? How many things do you go, I've got to wait and see? And how many things do you later think, I should have jumped on that right when it happened? Yeah, I kind of have a rule for myself that I should never jump on anything.
+
+22
+00:09:04,464 --> 00:09:29,696
+until I let at least a month pass from talking to somebody, and if a month later I still think, oh, that's so exciting, I need to jump on it, then I, at least I have given it some time, some time has passed, and I can give it, I have given it some more thought, and then that's one, I guess, safeguard in place for, you know, just jumping on some bandwagon. But to be honest, most often it's not that
+
+23
+00:09:29,696 --> 00:09:53,632
+Any one person makes me change my ways or anything like that. It's more about at this point, especially, you know, the principles of training are kind of not really changing. I mean, I'm sure we're pretty much aligned on them and it's more about the nuances and you always try to kind of look at them from different perspectives and in different contexts, different.
+
+24
+00:09:53,632 --> 00:10:19,104
+Athlete Profiles, perhaps, and you can tweak things here and there. But I find that that comes organically over time, and it's probably influenced by hearing a couple of people say that, oh, I do this with that type of athlete, or I do that with this type of athlete, and so on. But it's not so much that I hear this one thing that somebody says, and I'm like, aha, I'm going to use it. It's just the idea is probably...
+
+25
+00:10:19,104 --> 00:10:37,296
+Put into my brain a little bit, and then it simmers there for a while, and then somehow I remember it and try it out, and realizing that, yeah, a couple of people have mentioned this, maybe it might work. So it happens more organically over time most of the time, I would say. Do you have any conversations with...
+
+26
+00:10:37,296 --> 00:11:03,904
+with either self-coached people or other coaches who read like a handful of papers on one training methodology and they're like, this is the way I will do just this and this is going to be the secret to unlocking my full potential. How many of those conversations do you have? Yeah, how many of those? Probably more so a couple of years ago because I feel like at this point my podcast is so mature that
+
+27
+00:11:03,904 --> 00:11:27,696
+Everybody who has been a listener for a reasonable amount of time know that one coach will have one methodology, another will have another methodology, and they might both have achieved a great success with their athletes, so I think everybody's kind of starting to see that, okay, there is not one right way, there are different ways to skin a cut, and the same thing with different...
+
+28
+00:11:27,696 --> 00:11:51,136
+Trends in Research, and I think, to be honest, whenever I have an academic on that I'm interviewing on a certain topic, be it, for example, fasted training, which was a big trend a while back, and yeah, at that point I did have quite a lot of emails around that specific topic, but then more and more research started coming out that, well, there are some signaling.
+
+29
+00:11:51,136 --> 00:12:20,432
+Advantages, but we don't really see it translating into performance. And then on the practical side, practitioners start to see that actually a lot of these people might have a tendency to end up in a red-ass situation or even so. So you kind of start to see that it's usually not that beneficial to jump on a trend. It's better to wait until you get a bit more data and meat on the bone, so to say.
+
+30
+00:12:20,432 --> 00:12:49,616
+Not to answer your question more indirectly. I actually read a really interesting article on The New Yorker yesterday. It was sent to me by my sister. It was about how different biases affect us and about some experiments that Stanford researchers had done on people with confirmation bias. And I'll try to look it up and send it to you so you can put it in the show notes because it was absolutely fascinating stuff.
+
+31
+00:12:49,616 --> 00:13:17,808
+They're about how our brains and our biases work against us in these kind of things. So yeah, that was a really interesting read that I had just yesterday. Yeah, I mean, because I was talking to somebody yesterday about the Wasin Selection Task, which is the one where you've got like, it's like a vowel, a consonant, an even number, and an odd number. And you're supposed to flip over two cards to show that on the back of every vowel.
+
+32
+00:13:17,808 --> 00:13:45,728
+is an even number, or something like that. You can rearrange it however you want. And most people flip over the vowel and the consonant, or something like that. And what you should do is you flip over one to either to look at if you can confirm this, but you should also flip over the opposite one on the other side. So if you're supposed to look at on the back of every vowel is an even number.
+
+33
+00:13:45,728 --> 00:14:10,416
+Over here, you flip over the odd number to see if you can confirm or deny that rule exists. And so I think when it comes to the kind of stuff that we are exposed to as podcast hosts, do you ever wonder, have I developed a small echo chamber of my own podcast listeners? Because I think about that all the time.
+
+34
+00:14:11,184 --> 00:14:39,216
+I try to avoid that by mostly having my guests do the talking, and especially now, so it was a year ago in July 2021 when I transitioned from having two episodes per week, of which one was a solo episode, usually a Q&A episode, and it was just mainly hours, work hours related, and I just didn't have the time to produce two episodes per week, and the one, as I said.
+
+35
+00:14:39,216 --> 00:15:08,928
+100% the reason for starting the podcast was to talk to people, so I didn't want to give that one up, so I kept the interviews and stopped doing the solo episodes for the most part. So by doing that, I think that it should prevent most of that from happening. Of course, there is a possibility that I select people that I know will have a specific view on things, and I try to avoid that by having people with many different views as long as I respect their
+
+36
+00:15:08,928 --> 00:15:38,256
+their ability to be whatever it is, good coaches or good academics. Mostly those are the two types of people that I tend to interview. So I think I do my best to mitigate that, to be honest, with an interview-based podcast. Well, because I've always really appreciated your interview style, which is you ask a good question and then you give that person as much rope as they need to either weave a basket or hang themselves.
+
+37
+00:15:38,256 --> 00:16:07,296
+You, like, it's such a unique style. Well, it's not, it's not unique, unique, but like, you're not like a news anchor trying to, you know, get a statement out of somebody that's like quotable and can make a headline. You're not like, you're not also interviewing a political candidate where you're trying to have like a gotcha question. You know, you ask people fairly, like both, I feel like they're questions that are like both specific and broad at the same time. And it's always fascinated me.
+
+38
+00:16:07,296 --> 00:16:27,888
+How do you research your guests and how do you come up with such good questions where people can go just, you know, on for, you know, two to sometimes like 10 minutes? Yeah, well, I think the first answer to that question is that it comes back to the fact that I'm genuinely curious.
+
+39
+00:16:27,888 --> 00:16:52,592
+in learning what my guests have to say about certain topics. So I think that's really important. I don't have an interview as an excuse to make my own opinion known. That's not something that I need. But really, it is to hear what my guest has to say. And then in terms of the research, that depends a lot on what...
+
+40
+00:16:52,592 --> 00:17:22,432
+Type of Guest I'm Interviewing. So mainly for when I interview an academic researcher, there's usually a lot of research on my part involved reading several of their papers and maybe some introductory papers to the area that they're focused on and so on. So that can be many hours of work to prepare for that and of course to come up with the questions. When it's a coach, it's completely different, especially now that I've interviewed so many.
+
+41
+00:17:22,432 --> 00:17:43,952
+Kind of have a routine where I know a certain set of questions that I tend to always like to ask or at least very regularly like to ask. I do also always like to ask my guests if they have a specific area that they would like to talk to that they feel like they are experts in or that they feel would be.
+
+42
+00:17:43,952 --> 00:18:13,872
+Interesting for the audience. Quite often my guests happen to be podcast listeners. I never know that beforehand before I contact them, but then they say, oh, I listen to your podcast. And then they might know that, well, one thing that you haven't really discussed in your podcast is this, and I have some thoughts on that. So then I'm usually saying, great, let's have a chat about that topic. So it's also a bit of a collaborative process, especially when there are other coaches that I'm interviewing. But again, there are some,
+
+43
+00:18:13,872 --> 00:18:41,392
+Questions that I think, especially now I have quite a long, long time of doing these interviews that I feel are usually really good questions. And then, of course, I do do my due diligence on the coaches as well to know a little bit about their background as much as I can find out anyway. And in some cases, let's say it's a coach that has worked with some very famous or high-level triathletes, then I tend to try to ask about.
+
+44
+00:18:41,392 --> 00:19:04,112
+These athletes and their training methods and so on to get some specifics, although I also want to be careful about not doing too much about that because we both know that a coach has a certain part to play in an athlete's success, but a lot of it is also down to the athlete, so we shouldn't look too much into what one athlete has done as the recipe for success.
+
+45
+00:19:04,112 --> 00:19:33,264
+And secondly, I also want to have a certain respect for the privacy of the athlete, so try to find a balance there. Yeah, that's fascinating, because that makes me think, you know, because I'm sure you and I are on the same page about this, because a lot of the time when it comes to the training of the top-level athletes, you know, I always think about what Dean Golich said to me a long time ago, it's like, just don't screw it up.
+
+46
+00:19:33,328 --> 00:20:01,776
+You know, it's like, like, they're this good, you can mess this up, because you're steering the ship. But if you, if you're fine, they're going to be fine. And so is that something that you've seen kind of hold true? Or, or do you see some coaches can really get that extra, like one or 2% out of people? Yeah, I think some people can, but it also has to be with the right athlete. So I mean, I think
+
+47
+00:20:01,776 --> 00:20:29,632
+I think a great example of that in the last few years in the triathlon world has been the Norwegian triathletes. It's the obvious example. But it's not to say that their methods, I honestly don't think that their methods would work with every triathlete. I'm sure there are athletes that are equally talented as they are. But if you put them in the same environment and the same training methods, then that might not work for them.
+
+48
+00:20:29,632 --> 00:20:59,120
+I don't know, of course the coaches could change the training methods potentially to make those other equally talented athletes equally successful, but where was I going with that? Lost my train of thought. Me too. I think what I'm saying is that it's also a question of having the right coach-athlete relationship, not just the right coach or the right athlete. It has to be a match on both sides, if that makes sense.
+
+49
+00:20:59,120 --> 00:21:24,128
+Oh, it totally does. You know, because I've experienced that where, you know, me and some people, we just don't work well together. Like the communication isn't quite there. You know, they'll write workout comments. And I'm just like, I don't understand what this guy's trying to tell me with this sentence. And, you know, to him, it might be like lingo he uses with his friends or something like that. And I don't understand. And I don't want to be rude also.
+
+50
+00:21:24,128 --> 00:21:52,752
+When I try to ask for clarification, and at some point you just realize that you're just butting heads and nothing good is going to come of this, and when you part ways, I mean, I know some newer coaches, and especially when I was young and coaching, part of it would be like, oh man, that's like a substantial portion of my income gone, but also like there's this relief, and okay, now I can try to find somebody who's going to be a better fit, like, you know.
+
+51
+00:21:52,752 --> 00:22:19,440
+It's just business kind of aspect to that kind of thing, too. Yeah, I definitely recognize that. I completely agree. In the early days, it's really horrible because you don't know how you're going to have food on the table for next month. But then at some point, hopefully, if things go well, then you get to a point where it's just...
+
+52
+00:22:19,440 --> 00:22:47,696
+It's a good thing on all parts, because you get a chance to have an athlete that is a better fit for you, and it weighs on you even if you don't really think about it, but when you then part ways and you hopefully get an athlete that is a better fit for you, then you just start to realize how much that pressure has been weighing on you of having somebody who doesn't really, who you don't really work well together with, because that does happen for everybody, I'm sure. Yeah, yeah, it's like that, I notice like when I
+
+53
+00:22:47,696 --> 00:23:16,960
+Dread opening up that person's training piece. Because a lot of the time it's somebody who's inconsistent. Because I think one of the things that's nice about what we do is that, especially in our sports, our athletes are intrinsically motivated to a very high degree. And a lot of the time our job is to get them to train less or go less hard. Like, hey, pull it back on this ride because, you know, you've got to be this, that, and the other thing down the road. As opposed to...
+
+54
+00:23:16,960 --> 00:23:41,920
+Hey, you know, texting somebody, did you get your bike today? We don't have to do that a lot of the time, thankfully. Yeah, no, absolutely. And for me, that's definitely the kind of athlete that I don't work really well with if I have to be the motivator. Like, that's not something that I'm good at at all or even like doing very much. So, yeah, I'm not going to be a good coach for the kind of athlete that needs.
+
+55
+00:23:41,920 --> 00:24:10,768
+actual motivation. Some athletes just need to have a coach, and then that's enough accountability for them to be consistent, and that's fine, but if they need additional specific external motivation from the coach, then yeah, that's not something that I enjoy or I'm good at doing. Yeah, yeah, and we have a couple coaches, and I'm sure you've got a couple assistant coaches too, where they're way better at that, and when people are, you know, sending in coaching inquiries, like, what kind of coaching relationship do you need here?
+
+56
+00:24:10,768 --> 00:24:32,752
+Based on what they say, you know, it whittles down the choices pretty quickly and easily. Yeah, yeah, absolutely. So with your podcast, I'm sorry, like it's, this is so much fun to, you know, the interviewer is now the guest and I get to ask you questions. When, when you've interviewed so many people,
+
+57
+00:24:32,752 --> 00:25:01,296
+and you because you are probably one of the people on earth who has the most knowledge about what the most cutting edge stuff is and like the most new research like you've got probably like you've got the widest net cast and so you're probably aware of way more tools than a lot of people including especially me because I've got my head down in like three areas of research and that's it so
+
+58
+00:25:01,296 --> 00:25:29,888
+When you've got a lot of tools in your toolbox to reach for, does having such a big selection have any difficulties in itself, or is it like your core principles of training are pretty well conceived by this point, and you just reach for things when something becomes an issue? Yeah, that's a broad question, but largely I would say that you're
+
+59
+00:25:29,888 --> 00:25:57,008
+That what you said there, the latter option is correct, that the basic principles are well conceived, and then there are tools that can be helpful. There are, of course, certain tools that might be useful for everybody within those basic principles, but a lot of things are things that you kind of reach for in cases when we're having issues or maybe...
+
+60
+00:25:57,008 --> 00:26:19,136
+You need to look for the one percenters or something like that, but it's not useful for the majority of athletes necessarily. And again, I try to look at this with some critical thinking skills on me, and it's of course difficult and you don't always get it.
+
+61
+00:26:19,136 --> 00:26:39,248
+Get It Right, but I try to use things myself as well before imposing anything on my athletes, so trying out things, there are a couple of things that I'm trying out at the moment, and without, I mean, a couple of things that I can tell that I'm experimenting with now is
+
+62
+00:26:39,248 --> 00:27:07,904
+Aero testing, I've been experimenting with the Nocio Aero Sensor, being guided by actually a friend of mine who is an expert in aerodynamics and a cyclist himself, and also another is an app related to readiness, but not just the normal HRV, but things like cognitive fatigue and so on. So yeah, I'm always trying to experiment with different things, and that also gives me kind of that...
+
+63
+00:27:07,904 --> 00:27:36,992
+that time that I talked about earlier before deciding if I think this is something that I can have as a toolbox to reach for with some or even all of my athletes. But I think, for example, with the aero testing thing, the sensor is nice, but what we've found as well is that if you have a... I have access to an outdoor velodrome, which is basically just like a concrete track for cycling. I mean, it's...
+
+64
+00:27:36,992 --> 00:27:58,256
+Flattering to call it a velodrome almost, but it's still, it's good enough, it gets the job done. And we found out that, yeah, we can probably do error testing with a reliability of 1% without any other sensors than a GPS sensor and a power meter. Just based on speed, right? Yeah, so it also gets...
+
+65
+00:27:58,512 --> 00:28:27,536
+Yeah, testing different tools also kind of gets you thinking about different options that you have, and you can often find that, well, you can whittle things down to being more simpler than they seem to be at first, potentially. So I don't know if that answers your question completely, but at least it gave you some thoughts, probably. Well, I mean, you seem to have a lot of very similar thought processes to me in that a lot of the time there is no definitive answer to, you know, especially like the
+
+66
+00:28:27,536 --> 00:28:55,520
+Broad questions that I'm asking you. So, but I, you know, I think a lot of the time when you get, when you ask a question that has a definitive answer, it is a very niche question. And so, you know, a lot of the time it comes down to, you know, that kind of detail stuff, you know, like individualizing things for the athlete, like what is this person's specific issue? Like if they're not sleeping well, you know, getting them, you know.
+
+67
+00:28:55,520 --> 00:29:22,672
+to have a sleep routine or something like that. Or if their nutrition is a problem, having them consult with a nutritionist and things like that. Because that's not something that everybody needs, but it's something that some people need. And it actually reminds me, along those lines, do you ever get clients who, because of the nature of your podcast, because we get these occasionally, where they expect
+
+68
+00:29:22,768 --> 00:29:49,648
+a lot more, they expect you to like ride with like eight different sensors and go to the lab and get tests like once a month and stuff like that, like does that ever happen? Oh yeah, it has happened, yeah. Yeah, and I try to, especially maybe in the early days, that's something that I learned from early day mistakes, but these days I try to make it very clear kind of what
+
+69
+00:29:49,648 --> 00:30:16,304
+What my coaching is like and what our coaching is like in general, because all of us across scientific triathlon are pretty similar in that sense and pretty pragmatic and practical that look, there are all these cool tools, but still like the basics is 98% of what it is to training. So no, you're not going to have eight sensors on you for most of your workouts and no, we're probably not going to.
+
+70
+00:30:16,304 --> 00:30:41,888
+write your workouts into these fancy AI app or whatever so that you can do it based on you do your AI training or whatever it might be so yeah I think basically having setting the expectations right from the beginning and and if if the athlete is not okay with that then that's that's absolutely fine that's their prerogative but but yeah I think I learned from mistakes early on that because that
+
+71
+00:30:41,888 --> 00:31:11,184
+then didn't pan out very well if they had those expectations. And that's not the way that I coach or another one of our coaches coach. And so, yeah, setting the expectations right from the beginning is really important in that scenario as well as in all other scenarios really that you could have. Yeah, I completely agree. So I just want to ask you just a couple more questions on the podcasting front. So, you know, in the podcast,
+
+72
+00:31:11,184 --> 00:31:38,992
+You know, you're always looking at the scientific literature. And you know, when you do research on a researcher, or you know, you're looking at, you know, interviews that have been done with a coach that you're going to have on or, you know, whatever it is. Do you feel like there's a large gap or a small gap? Or like, where do you think the relationship is between most athletes and coaches and the scientific literature?
+
+73
+00:31:40,752 --> 00:32:10,176
+Oh, that's a great question. It's really hard to say. I think it really varies a lot from coach to coach, really. I mean, there's a cultural component, I think. I do have a sense that in Europe, there is maybe less of a gap. I think there is coaches here tend to be quite into
+
+74
+00:32:10,176 --> 00:32:36,224
+The Science as well as the Coaching, and there's also, I guess, a structure, a framework for how coaches and scientists work together within federations and the like, so that helps to close, to bridge that gap, basically. But even within Europe, I think there are definite variations from country to country and, of course, individually from coach to coach.
+
+75
+00:32:36,224 --> 00:33:03,376
+I'm a bit less familiar with other countries like the US and Canada and Australia and so on. I do have a feeling that maybe, at least in the triathlon scene, there's a little bit of a bigger gap there. But at the same time, that's not necessarily a bad thing because, I mean, I think that coaching is probably ahead of research and research is quite often trying to...
+
+76
+00:33:03,376 --> 00:33:29,072
+Prove the methods that coaches have found out years ago are working. So it's not always a bad thing. I think that a good coach doesn't have to have a great understanding of the scientific literature. I think in some cases it can help. And I think that it's more about the mindset, really. I think a good coach has to be curious and be open-minded, but they can be that can...
+
+77
+00:33:29,072 --> 00:33:58,320
+Take Many Different Shapes. It doesn't have to be that they have to read research paper. It can be that they're just really expressing that in different ways and channeling that energy into assessing their own methods and how they are working in different ways, if that makes sense. Yeah, it does. Well, and you say something that I find fascinating because I agree with you in that
+
+78
+00:33:58,320 --> 00:34:27,871
+A lot of, you know, you're saying a lot of scientific research is trying to catch up to coaching. Because I think it's very interesting that, because I know a lot of people who think, you know, unless something's been published, it's not scientifically valid, and it doesn't work, or something like that. And it's like, you know, two plus two was four before, you know, Euler published a paper on it. Like, it's, you know, there are, I think, certain observations that we can make as coaches where, you know, the scientific literature does need to catch up.
+
+79
+00:34:27,871 --> 00:34:52,784
+And, you know, I'm always, I'm just fascinated in general by the relationship between the two, because I think a lot of researchers are missing that, like, critical, you know, component of how does this change what we're doing in practice? And a lot of coaches will look at the literature and try to put that into practice and go, this works, this doesn't work. And I think...
+
+80
+00:34:52,784 --> 00:35:21,200
+A lot of our general audience who is more into the research may not be as aware of that dynamic as we are. And maybe just what we're doing is just trying to bridge that gap. Oh, yeah. No, 100%. I agree. And I think that's maybe what we can contribute with, especially is, well, first of all, when, well, and that's something that I try to do when I interview researchers, trying to
+
+81
+00:35:21,200 --> 00:35:36,240
+Ask about the applied side of things, so how to apply this, and that's where I also try to maybe express my own opinion a little bit about how I might apply that, but also asking about limitations of the research, and I think, and asking about, okay,
+
+82
+00:35:36,240 --> 00:36:05,040
+Here's this cool researcher that has done this really cool study, but is this the only one in the field, or what has come before it and what has come after it, asking about what the general state of the evidence is, not just this one paper that had this interesting result. So I think there are a couple of ways that podcasters and other media can do a good or a better job about conveying that sort of information to the audience.
+
+83
+00:36:05,040 --> 00:36:33,568
+Yeah, like, I love it when an article or just something links a paper. And I'm seeing it more now, but it's only like a rate of like 40% at most, where like they'll talk about this researcher and there's paper and I'm like, all right, how do I, where's the PubMed reference? I want to go find this paper and read it. And I can't. And it's, I'm sure it annoys you as much as me as a lot of the listeners.
+
+84
+00:36:33,568 --> 00:36:56,208
+You know, when it comes to that kind of stuff, you know, do you have any guests who are like white whales for you? Is there anybody you really want to interview and you've just not been able to make it happen? Or you've been like intimidated? Because, you know, I've been intimidated by the list of guests I've got. I'm like, oh man, is Ed Coyle still alive? Can I talk to him? Oh God, what do I ask him? I'm so excited.
+
+85
+00:36:56,304 --> 00:37:23,152
+Well, I'm glad you asked this question, actually, because if there's somebody that knows these people, then they might be able to help me get to them. I have tried to contact. There are a couple of coaches that I still, that I have wanted to interview for a long time, and I haven't been able to reach them or get them to want to come on. So, and they are triathlon coach. Well, one triathlon, one cycling slash triathlon coach. So, Julie Dibbons.
+
+86
+00:37:23,152 --> 00:37:43,328
+British coach based in Boulder, and Tim Carison, who was with Team Sky for a long time, but is also the coach of Camworth, who, of course, is doing a lot of triathlon in addition to his cycling. So those are two coaches that I would love to interview. I find that on the academic side, most people...
+
+87
+00:37:43,328 --> 00:38:09,392
+generally seem to be very happy to come on. Honestly, I can't remember off the top of my head an example of somebody that hasn't wanted to come on. And even on the coaching side, other than that, honestly, most or all of the coaches that I've really wanted to interview, I have been able to get on the podcast. So, I mean, a couple of coaches that at the time felt like, wow, this is really big was...
+
+88
+00:38:09,392 --> 00:38:36,272
+The first one, I think, was when I interviewed Malcolm Brown, who was the coach of the Brownlee Brothers, and that was fairly early on in the podcast days, no less, so that was really amazing. And Dan Lorang, with both Hans-Croix, but perhaps even more famous for coaching Jan Frodeno and Anne Haug, and now also Lucy Charles-Barclay, and also Adil Twaiten, the Norwegian coach, who has kind of...
+
+89
+00:38:36,272 --> 00:38:59,504
+Been involved from the start with the Norwegian setup and produced the triathletes to the level they are today. So those are a few that were, I think, felt like big moments for me. I'm trying to put that look on my face like I'm impressed, but I've never heard of these people. Except for, unless I've listened to their episodes on your podcast.
+
+90
+00:38:59,568 --> 00:39:29,056
+Because I still do that. I should add Joel Filial to that list as well. That was a really big moment for me. Yeah. Well, so now I want to dig into some triathlon stuff. Actually, hold on. Before I do that, here's a question that I have down for Andy Coggan when I talk to him in a couple of weeks. But I'll ask you now. Do you think that – well, because when you see –
+
+91
+00:39:29,056 --> 00:39:58,272
+a researcher who publishes something and then makes the rounds in the podcasts to promote it. What do you think is behind that? Because obviously they're not making money on this kind of stuff, going out and talking about their research. Do you think it's like a genuine desire to help the greater community by saying, this is what we found and this is our recommendations for what you should do to help XYZ?
+
+92
+00:39:58,272 --> 00:40:22,672
+Do you think there's something else to it? Yeah, I'm trying to remember when I've seen that. I think especially because Keith Barr, Steven Seiler, guys like that, they make the rounds. If you Google Keith Barr, that's B-A-A-R, on iTunes, you're going to get 20 or 30 podcasts. Yeah.
+
+93
+00:40:22,672 --> 00:40:50,672
+Is he in resistance training, or what is his area? He's, oh man, boy, what is his area? What isn't his area? He's done a lot of research on aerobic adaptation, mTOR, and lately he's looking at connective tissue and muscles and ligaments and tendons. So, a lot of stuff. I mean, I think, excuse me, I think that
+
+94
+00:40:50,672 --> 00:41:14,592
+Yeah, in the case of Steven Seiler, for example, I don't think that he's necessarily been putting himself out there for all his podcasts. I think he has just been somebody that has been popular for podcasts to get on. And of course, I also interviewed him and want to get him on at some point. He is a great researcher, I think, with some really great ideas.
+
+95
+00:41:14,592 --> 00:41:37,120
+And, but yeah, I think he has a big name, of course, in the world of sports science, so I think it's, honestly, I'm not sure if it's coming from him, I think it's more like some podcasts keep wanting him back on the podcast, and that's fine, I guess, and I think for my, I can only speak from my side, but I haven't really had researchers that
+
+96
+00:41:37,120 --> 00:42:04,864
+reach out to me that, hey, I published this article. What I do have is sometimes a lot of outreach for people that have published books. Like I got one just today, somebody published a book in diabetes and wants to be on the podcast and to be honest, like, yeah, that's not going to be on my show. So I generally want to do most or all of my outreach comes from me, not from the other side. And there is the occasional exception where somebody is
+
+97
+00:42:04,864 --> 00:42:34,560
+genuinely a great candidate and they're not necessarily looking to promote anything of their own. Or if they do, then it's just a side effect of the great knowledge that they can impart on the audience. But I think with academic researchers, it's more like maybe, and I have done that, certainly I've heard somebody on a different podcast and I'm like, oh wow, this guy knows what he's talking about. And then I ask them, hey, do you want to come on my podcast? And it seems like they're doing a tour.
+
+98
+00:42:34,560 --> 00:42:58,400
+They were just discovered by him. Yeah. Well, because, I mean, a guy like Seiler, like, you listen to him, first of all, his accent's great. It's a phenomenal Texan accent. And he's a really good speaker. And, you know, when he gives you advice on, like, you know, you've got to, you know, make sure you're recovering and, like, all, you know, sleeping well and eating well and all that kind of stuff, like...
+
+99
+00:42:58,400 --> 00:43:27,936
+I'm like, man, more people need to hear this kind of stuff. Polarized or not, everything else is like, oh man, get him out on more podcasts to talk about that stuff, because it makes such a big difference. So now I want to ask you about triathlon-specific stuff, because I used to coach running a little bit, and we have a couple triathlon coaches with us, but there's a bunch of stuff I want to ask you about that my
+
+100
+00:43:27,936 --> 00:43:56,800
+Cycling-focused audience is always kind of like, you know, or try curious about, like, how do you manage intensity between sports and like managing the different types of intensity and like, you know, the cycling, obviously, like large metabolic component, you can go through a lot of kilojoules, like running, very high muscular load, like mechanical load, swimming, different muscle group, it's in the shoulders, like,
+
+101
+00:43:56,800 --> 00:44:24,176
+Does this affect, you know, how you, like, assign, like, brick workouts? Or do you, like, is there, like, a general kind of periodization that kind of, like, balances all this stuff? How do you, like, how do you balance it in the athlete? Yeah, that's, I mean, I think it's one of the key questions in craft law. Sorry. No, it's fine, it's fine. I think there are a few things that
+
+102
+00:44:24,176 --> 00:44:53,344
+First of all, I should say that it really does make triathlon different than, say, running or cycling. Like, I would coach a cyclist or a runner different than a triathlete for this reason that you're training three different disciplines and you are doing some hard workouts in all of those three disciplines, so you just end up having more frequent hard workouts. But then the intensity management part of it, for me at least, in my approach, becomes
+
+103
+00:44:53,344 --> 00:45:19,872
+First of all, the low-intensity training is usually really, really easy. Like, I don't prescribe a lot of Zone 2 training. It's Zone 1. I don't necessarily prescribe it like that. But quite often, it's honestly just an RPE. Like, this should feel like an RPE of 2 to 3. And it doesn't matter whether it's a run or a bike or a swim. Like, that's the prescription. And so the easy training becomes really easy to...
+
+104
+00:45:19,872 --> 00:45:49,120
+to make sure that that's not too costly, considering that you then have more frequent hard workouts as a triathlete than you would have as a cyclist or a runner. But then when it comes to the hard workouts, the way that I manage that is to also keep them a bit more conservative than I would for a cyclist, especially for a cyclist. For a runner, I would probably still do the same just because of the load-bearing aspect.
+
+105
+00:45:49,120 --> 00:46:18,912
+But by that I mean that I always want my athlete to feel like they could have done more, and quite often quite a bit more, if they had wanted to, like they were not at the limit, like RPE, session RPE maybe a 7 or maybe an 8 or so, and feeling like they had, let's say they're doing something like 5 times 8 minutes on the bike, or something with 2 minutes recovery, and then
+
+106
+00:46:18,912 --> 00:46:43,168
+Then I wanted to feel like, yeah, I could have done one to two intervals more without it being going to the well. That's kind of what I wanted to feel. So basically managing the stress that each individual workout has in that way as well. And then still trying to get in, even though you have frequent hard workouts, trying to get in a couple of days that are...
+
+107
+00:46:43,168 --> 00:47:06,800
+Low Load. So for example, it might be that a Monday that is just an easy swim or a complete rest day, and a Friday that might be an easy swim and an easy bike, so it's a completely low intensity day, because then you might have an intense or moderate intense workout on all the other days of the week, potentially. And obviously that depends, like with a more beginner athlete.
+
+108
+00:47:06,800 --> 00:47:33,696
+You don't have that same amount of frequent intensity, but with more advanced athletes, yeah, you do. You can easily have two hard bikes, swims and runs in a week if you distribute things properly and manage those other aspects. And how much of those harder rides are targeted at a physiological intensity and how many of them are...
+
+109
+00:47:33,696 --> 00:47:54,720
+Targeted at Race Pace, because this is something that I would assume, you know, when you're looking at running, riding, swimming, you're thinking, you know, early season, you're thinking, what are our general adaptations that we need, general aerobic adaptations, like, you know, or, you know, structural adaptations for like running or technique for swimming.
+
+110
+00:47:54,720 --> 00:48:24,128
+And then you get more specific towards triathlon-specific pace later, like if somebody's doing a sprint try or an Olympic distance or a half iron or whatever it is. Is that kind of how it works? Because that's how I assume it would work. Exactly. I could be wrong with this stuff. Well, because I think one of the things that you had mentioned on your podcast with Matt DeRosh, the Oxidated Potential podcast, which was a phenomenal conversation, by the way. I absolutely loved it. You guys did a great job.
+
+111
+00:48:24,128 --> 00:48:51,808
+You were talking about, you know, feeling nervous about how you're approaching some swim workouts now. Yeah, yeah, yeah, yeah, I remember that. So basically, yeah, the discussion was that I'm approaching swim training. It's not so much being nervous. I think that I, honestly, maybe I'm too confident in being right here, but I do think that
+
+112
+00:48:51,808 --> 00:49:20,928
+In triathlon, we traditionally treat swimming, or we train swimming like pool swimmers do, but that's very different from the way that you would, that a traditional endurance cyclist or endurance runner would train, so you don't have your long endurance workouts necessarily, or you break it up into short intervals that are often, swim at steady intensity, which might, honestly, if you measure lactate, it might be quite high, and then in your hard workouts,
+
+113
+00:49:20,928 --> 00:49:48,240
+The work-to-rest ratios are completely off compared to what you would do in a bike or run workout. They're called a certain thing more so based on the total distance and the work-to-rest ratio rather than the actual intensity, but in a lot of cases, swim workouts are basically best effort for the set, and I think that's something that can be particularly dangerous in triathlon for the reasons that I discussed earlier that I want.
+
+114
+00:49:48,240 --> 00:50:14,592
+Each workout you feel like, yeah, there's quite a bit left in the tank, or at least a bit left in the tank at the end of the workout. So yeah, it's not so much me being nervous, it's more taking a different approach to swimming, I guess, and programming it a bit more like running and cycling. So having traditional endurance swims that are really easy swims with long duration intervals, and the rest are just there for...
+
+115
+00:50:14,592 --> 00:50:35,248
+A mental rest. And for the listeners that might not be at all familiar with swimming, the way that you would traditionally maybe do an endurance swim in swimming is not that you would go out and swim for an hour like you would for a run or for a bike. A bike might be two or three hours. But for a swim, you traditionally always break up the swim into intervals because otherwise...
+
+116
+00:50:35,248 --> 00:50:55,456
+Athletes get so bored just following the black line in the pool, but it can backfire because then if you do something like 40 times 100 with 10 second recoveries after each 100 and you might swim the 100 in 1 minute 30, then it basically makes it quite easy for the athlete to swim at
+
+117
+00:50:55,456 --> 00:51:14,912
+what we might call a tempo effort, and it still feels very easy because you're only doing it for a minute and 30 seconds and then you get 10 seconds rest and your heart rate drops down quite a bit because it's passive rest, it's relatively cold in the water and so on, you have the hydrostatic pressure as well.
+
+118
+00:51:14,912 --> 00:51:44,192
+Yeah, so for all of those reasons, it's quite easy to swim way too hard in your easy swims and in your hard swims. And that's where, yeah, changing approach to swimming, I think, comes from. And it's not something new exactly, but it's something that I'm, yeah, I'm more cognizant of, and I guess going more all in on these days, I would say, than I used to do a year or so ago. Yeah, well, because I think, well, when I say nervous, I, because I was detecting trepidation with breaking from tradition.
+
+119
+00:51:44,192 --> 00:52:13,744
+Because I think we all feel that way when we decide to try a new training method or a new testing method or whatever it is where we know that this has not been done before to our knowledge. And based on our experience and first principles, it should work. But people have gotten pretty fast without doing this. And what makes us think that we're special? You and I, we're just average guys.
+
+120
+00:52:14,224 --> 00:52:27,216
+Yeah, no, absolutely. But that said, I mean, I absolutely don't want to take credit for this because it has been done by other people as well. And only in the last couple of months, there has been at least two guests on my podcast that have.
+
+121
+00:52:27,216 --> 00:52:56,432
+talked about swim training in at least some of these aspects have been very similar to what I'm doing so I'm recalling right now Bex Milns and Tim Reed both expressed similar things about how they approach swim training so I'm not taking credit for oh I discovered this thing that's not at all what I'm saying but I do think that it's a bit of a break with tradition as you say and there are a lot fewer people doing that kind of swim training than what traditional swimming looks like.
+
+122
+00:52:56,432 --> 00:53:26,352
+Yeah, well, because I remember back in the day, I coached a couple runners, one for duathlon, one for triathlon. And the triathlete, one of them was actually doing a marathon. That was like her main training. And I didn't know much about traditional running training, but I knew cycling training. And I just took what I knew about cycling training and what I knew about running, like the mechanical wear and tear and all that. And I basically had her doing extensive threshold intervals.
+
+123
+00:53:26,384 --> 00:53:53,696
+like, you know, longer threshold and longer kind of sweet spot stuff. And, you know, she PR'd her marathon by, you know, I think, I don't know, it's like, it's like, it was like five or seven minutes or something like that. Like, you know, it's not like, you know, 20 minutes, but it was, you know, not insubstantial. And she was like, oh my God, I feel like this training really worked because
+
+124
+00:53:53,696 --> 00:54:23,552
+You know, in principle, like metabolically, yeah, this should work. And in terms of like running pacing and that kind of stuff, it should work. And it did. I'm not an amazing running coach. I don't, that's not my favorite thing to coach. But, you know, I was like, and I remember because I picked up like Daniel's running formula and I was like, oh man, how do I coach running? I've got this runner. And then I was like, oh, come on, I know how to do this. You know, I don't care what's been done before. This should work.
+
+125
+00:54:23,552 --> 00:54:52,256
+And, you know, it didn't not work, I guess. Yeah, no. And I think, first of all, you did a great episode on the extensive threshold work where you covered that Wernicke Bilat paper where they actually had runners doing that type of work. So that was really interesting just a week or a couple of weeks ago when we recorded this. Yeah, I think it was like two, two and a half, something like that. Yeah, thanks. Yeah, yeah. So that was really interesting. And secondly, I actually, I just...
+
+126
+00:54:52,256 --> 00:55:22,208
+Went on a run a couple of days ago with a runner friend of mine and we were chatting quite a lot about run training and marathon training and I don't know if you're familiar with Renato Canova but he's one of the top marathon coaches. He's coached a lot of the top Kenyan runners. He's Italian but I think he's based in Kenya and his methods are very well renowned. They've been written about a lot and he's been very gracious with sharing a lot of his methods and they are
+
+127
+00:55:22,208 --> 00:55:47,824
+If you compare them to a lot of traditional running methods, which is, you know, maybe something like VO2 max intervals on a Tuesday, a threshold work, which is probably a bit above threshold, five, six millimoles lactate on a Thursday, and then a long run, maybe with some marathon pace on a Saturday or Sunday. The Canova method is quite different in that it's a lot more about...
+
+128
+00:55:47,824 --> 00:56:15,328
+You know, that extensive threshold work, I mean, that's not what he calls it, but it ends up being more like that, quite a bit of, you know, marathon pace, a lot of marathon pace running and some progression runs and that sort of thing, and less of the really fast stuff on the track that a lot of other runners are doing, and that was a discussion we had as well, that in different regions of the world, like in Australia, for example, a lot of the
+
+129
+00:56:15,328 --> 00:56:39,504
+The running philosophy comes from a generation of runners that were really successful, and they did things a certain way, and that's why Australians runners now use those same methods generally to train, and of course the same thing plays out in many different regions. But anyway, I think it makes total sense that what you did there worked with that sort of training.
+
+130
+00:56:39,504 --> 00:57:07,312
+Long Endurance Events like the Marathon or for Long Distance Triathlon, like it's a similar approach with just trying to do quite a lot of that type of training, whatever you want to call it, extensive threshold or race specificity. Yeah, I mean, to me at least, that's also a big part of my approach. Yeah. Well, let me ask you another thing that I hear about all the time.
+
+131
+00:57:07,312 --> 00:57:36,016
+in triathlon. Is reverse periodization a real thing? Yeah, that's a good question. You start with a little bit of prep work, you go right into VO2 max, then you do your threshold work, then you do your sweet spot work, and then you do your Ironman tempo specific work or something like that. Yeah, I don't think it's not a thing. I don't think it's panacea. It's not going to make a...
+
+132
+00:57:36,016 --> 00:57:59,824
+I think periodization in general is maybe like, yeah, I look at it more about looking at this as a gap analysis. So where is the athlete now? Where do they need to go? And okay, how do we bridge those gaps that we have between where they are and where they want to go? If, of course, assessing if that's even possible in the first place.
+
+133
+00:57:59,824 --> 00:58:27,296
+And in some cases that's quite straightforward, and in other cases maybe not. That's where maybe in some cases we want to bring in some of those special tools, maybe some athletes we want to send into a lab to see, okay, where is your VO2 max and where is your threshold? Do we need to work specifically on VO2 max because you're limited there and so on? We can, of course, sometimes make estimations as well. But anyway, I think it can work in certain...
+
+134
+00:58:27,296 --> 00:58:50,944
+in certain contexts for sure when we're talking about you have a longer race like an Ironman or half Ironman that you're building towards and you still have an athlete that you know okay I want to at some point during this season I need to get in some VO2 max training with them sure it makes sense to do it after some it can make sense to do it after some preparation work and then you do it
+
+135
+00:58:50,944 --> 00:59:15,536
+An advantage of that is that they're quite fresh when they do the VO2 max work, so that's advantageous, like, you know that they can go really hard, because those are the kinds of workouts where you really need to go hard, and maybe not just an RP of 8, even for a triathlete, so you might need to go harder than that. So it can make sense. I don't think it's something that you should take as a, you know...
+
+136
+00:59:15,536 --> 00:59:44,576
+This is the way to periodize training for long-distance triathletes. That's absolutely not the case in my opinion. Because, yeah, there might be some, or there are definitely triathletes that they don't necessarily need that high-intensity training because they are getting their VO2max development from the volume they're doing. And when you do the threshold intensity, you also, that's not specific VO2max development, but the
+
+137
+00:59:44,576 --> 01:00:13,648
+I think it's, you see in VO2max improvements, it has to come from something, the volume is a big thing, and I think when you have a little bit of intensity, well, not a little bit, but you have that slightly lower intensity of threshold, for example, that helps when you combine the aspect of the volume and that intensity that it can still bring your VO2max up to a certain level, you will tap out on that at some point, and you've done great jobs of explaining your approach to VO2max training on your podcast, and I think that's really
+
+138
+01:00:13,648 --> 01:00:43,440
+Yeah, really great what you're doing there. But I think for many athletes, they don't need reverse periodization, but it can be a thing. Interesting. Because one of my other questions was, you know, do triathletes or, well, now the question is, how often do triathletes do those higher intensity workouts, like, on average? And do you ever think about anaerobic capacity with long-distance triathletes? Yeah. Well, this is one of those things where,
+
+139
+01:00:43,440 --> 01:01:09,232
+I can very clearly see my evolution as a triathlon coach, especially when I look at triathletes focused on half and full distance triathlon, every year I prescribe less and less high-intensity training, for some reason. So I think there comes a point when you need that, and I mean probably all of my athletes will at some point during the year do.
+
+140
+01:01:09,232 --> 01:01:39,168
+maybe one block of via to max training, which can be two weeks, so they will do a few sessions there, but at the same time, I think that you can, when we're talking about amateur athletes that are not at their genetic potential or close to their genetic potential, you don't need a lot of that, and you probably have bigger fishes to fry and potentially more room to improve by focusing on other aspects of your fitness and your physiology.
+
+141
+01:01:39,168 --> 01:02:06,688
+Yeah. And going on the other side of things, to the low-intensity side, do you think that there's a particular sport or do you have a sport preference for recovery activity? Or is there something that makes sense just in general in terms of triathlon training where you should do your recovery rides on your bike or you should do a recovery swim and avoid running or something like that? Yeah, I like...
+
+142
+01:02:06,688 --> 01:02:20,928
+Swimming as a recovery modality, because then you can still keep the frequency up because swimming is a technical sport, so you can still work, you can still get the benefit of the technical training. There comes a point when you're just too tired to have a
+
+143
+01:02:20,928 --> 01:02:50,256
+Good Swim, Your Legs Just Sink Because You're So Tired And Then It's Difficult But Even Then You Can Use A Pool Boy Or A Wetsuit Or Buoyancy Shorts So There Are Ways To Get Around That And Still Work On Your Stroke So I Like To Swim The Most As A Recovery Modality At The Same Time I Do Like To Get In A Lot Of Volume On The Bike So For Athletes That Are More Advanced Volume Is Important To Them We Try To Get In A Lot Of Volume Then They Will Do A Lot Of
+
+144
+01:02:50,256 --> 01:03:15,520
+Call it a recovery, I don't really ever put in a workout in training peaks and call it a recovery this or that, but it still forms a relative recovery day, for example, so that might be an easy ride then, and it can still for an advanced athlete be a two hour easy ride, but yeah, it's not recovery per se, but I think that you can get in some.
+
+145
+01:03:15,520 --> 01:03:41,344
+and some easy aerobic work on the bike as well. So definitely the swim would be the first one and the bike would be the second one. Okay, cool. Now whenever people ask me this question on my Instagram AMAs, I will just refer them to this podcast. Oh man, that's great. I guess my last question specifically about triathlon is on pacing.
+
+146
+01:03:41,344 --> 01:04:10,208
+You know, I get this question a lot for time trials, like what power can I hold? And my answer is usually, have we done an effort of this duration before, that that's going to be our, at this elevation also, and you know, in the same, you know, heat and humidity and all that. Have we done something in the similar conditions, that's going to be our starting point, you know? And also, what's the difference in your condition between now and then? Were you like peak shape right then, and you're not right now, or vice versa?
+
+147
+01:04:10,208 --> 01:04:39,232
+And because whenever people ask me about this kind of stuff, you know, the real underlying principle here is the best predictor of performance is performance itself. And I think one thing that is not as well known to a lot of just, you know, casual cyclists or even triathletes maybe is that what people can do under threshold varies.
+
+148
+01:04:39,232 --> 01:05:06,288
+quite a bit. Like, I've got a lot of, you know, world tour data now, and I'm looking at a lot of people with, like, great, like, 20, 30-minute power, and they just, like, fall off a cliff when it comes out to, like, three, four hours. And there are others who are the opposite, where they're 20, 30 minutes, not that high, but they just do not fatigue, and they can just bludgeon you with watts for, like, three, four, five hours if they want to.
+
+149
+01:05:06,288 --> 01:05:31,696
+And so when it comes to triathlon pacing, how do you approach this? Because I'm sure that there are rules of thumb. Oh, you did talk. You talked about this on Maths Podcast. Sorry. I did actually. I swear to God, I just heard this. And I did the same Google and I went, oh yeah, that's wrong. That's wrong. Or that's probably wrong. It might be a middle of the road thing. So tell me about your approach to that kind of pacing, like sub-threshold.
+
+150
+01:05:31,696 --> 01:06:01,184
+Yeah, well, it's very similar to what you just said there. Like, I agree with all of that, looking at what you've done before and the conditions as well. And in addition to that, before going into any sort of important race for the athlete, we do race-specific workouts and see, and that's obviously not doing the entire race, but when you do that in a relatively fatigued state in a training block, if you do, let's say, five times 20 minutes at your
+
+151
+01:06:01,184 --> 01:06:30,496
+half Ironman effort and with five-minute recoveries on the bike, then that's going to be, in my experience, quite reflective of what you can probably do for the entire race if you're somebody who does the bike fairly quickly, let's say in two to two and a half hours or 90 kilometers in the half Ironman, so it's close enough in the total duration that it can translate when you're tapered and in your...
+
+152
+01:06:30,496 --> 01:07:00,112
+Peak Shape. Of course, then you still have to account for conditions if you're going from a temperate climate to somewhere very hot or altitude as well. So those things you do need to account for. But yeah, it's looking at past data, comparing conditions and looking at recent simulation workouts. Those are the main methods I go by. And yeah, I would strongly urge people to not look at those.
+
+153
+01:07:00,112 --> 01:07:25,248
+Articles, because, yeah, as you just said, that it's just so individual, and what I think is that when you look at the triathlon recommendations, like 85% of FTP for half Ironman, for example, that's true for very, very well-trained athletes that, yeah, extremely well-trained athletes, extremely endurance-trained, and that are also doing...
+
+154
+01:07:25,248 --> 01:07:47,504
+the Half Ironman in a fairly short time, so obviously it's a very big difference if you're doing the bike in two hours versus three hours, then that's going to have an impact. Do you find that somebody's TTE at threshold has a relationship with this, or is that sometimes yes, sometimes no? I assume it does, but to be honest, it's not something that I looked.
+
+155
+01:07:47,504 --> 01:08:11,200
+too deeply into. I don't do as good a job as you do, I'm sure, of keeping the power duration model up to date, or I really think that your FTP protocol with the TTE as well, I think it makes a lot of sense, but it's not something I've implemented in my testing at this point, so I just can't say for sure, but I would assume so.
+
+156
+01:08:11,200 --> 01:08:41,120
+Well, one of the things that I've learned to do over the years is I assign some workouts that I know are going to positively affect the power duration curve in such a way that it will have an impact on the metrics. Like, for instance, if somebody's doing a sweet spot workout, some of my pro athletes who have forever to train, they'll do their efforts over the course of a seven-hour ride, and that's fine. But a lot of the time, I'll be like, okay, you need to do five-minute rests here.
+
+157
+01:08:41,120 --> 01:09:08,671
+It impacts the power duration curve in the 90-minute to 2-hour range a lot. And that's the kind of thing that affects the model. And so in those little bits of training where I give one workout like this, that's when I'm like, OK, I know this is going to show an effect in the model. And that's the kind of stuff where we'll see TTE go out and stuff like that. And so for me, I think also because an advantage in cycling in general is that
+
+158
+01:09:08,671 --> 01:09:35,167
+You know, there's there's almost never a bad time to have somebody go out and do a couple hard efforts, you know, in the one to, you know, eight minute range or something like that. And so, yeah, I imagine as your athletes are getting close to their race, the last thing you want them to do is go out and blast a full five minute effort. Yeah, exactly. Even if you lose that point on the curve, you're like, well, we're just gonna have to do without it for now. Yeah, yeah. And don't forget you have.
+
+159
+01:09:35,167 --> 01:10:03,120
+The swim and the bike and the run, and they all impact each other. So to me, again, this is something, an evolution in my coaching over the last few years that less and less looking at the metrics and more and more looking at what is the athlete actually doing in the workout. So for example, I might give a workout that is three to five times 20 minutes sweet spot intervals.
+
+160
+01:10:03,120 --> 01:10:28,928
+If the athlete does five times 20 minutes, if they choose to do that, they will tell me, it will tell me a lot of things. It will tell me about their psychology, it will tell me about their fatigue, but it will also tell me about their TTE, in my opinion, to some extent, especially when I can compare that to, okay, I gave you the same prescription last week and you chose to do four. This week you did five. So those sorts of things also help to get to the same points. And I probably, I can't...
+
+161
+01:10:28,928 --> 01:10:44,864
+Quantify things as exactly with these methods, but I can see that the trend is right, and it can definitely help us see, okay, so what is realistic for you to do to hold in the race, but then the same method, I can...
+
+162
+01:10:44,864 --> 01:11:13,216
+I can use those same methods, and they work across the board in swimming, biking, and running, whereas otherwise, swimming and running are really a lot more difficult, because we just don't have the accuracy of the power meter that we have on the bike, so yeah, that's a main reason for doing that. I can't believe how similar we are, because I've also come upon the exact same way to track progress, and it's like, if I didn't have WK05, I could still do it.
+
+163
+01:11:13,216 --> 01:11:42,736
+Yeah. It's not like quality training hinges on. It's easier to analyze trends and data like that. It's a lot easier. It's easier to analyze how somebody pedals and somebody's preferred cadence and force velocity curve and sprinting and stuff like that. It's so much easier that way, but it's indispensable as a time saver for sure. Yeah.
+
+164
+01:11:42,736 --> 01:12:10,672
+I think my last tri question specifically is has the – because I'm not an aero expert. It sounds like you're not an aero expert either, but you do have friends who are, and so do I. But do you think that the aero arms race has hit triathlon already, or is it like really in cycling time trials for now, and it's getting into triathlon?
+
+165
+01:12:11,152 --> 01:12:35,056
+I think it's HIIT Triathlon, for sure. And yeah, especially I think on the men's professional side, it is extremely well developed. It's getting to the women's side as well. It's a bit more, I would say, varied on the women's professional side. But also on the age group side now, like you do have a lot of age groupers that are.
+
+166
+01:12:35,056 --> 01:13:04,832
+really focusing on aerodynamics a lot more than they used to. And there's certainly a lot more awareness on the amateur side. And I think that we're maybe on the cusp of more and more people actually taking action on it and really working on actively improving their aerodynamics. And I think that will happen with the tools that we have that are already useful.
+
+167
+01:13:04,832 --> 01:13:28,240
+In certain contexts, you have to know their limitations and so on, but they are useful, and as they get better and better, which I think they will, then I think it will really hit triathlon big time. I'm not sure, I mean, I know, I'm quite familiar with the British time-trailing scene, and there you definitely have the amateurs as well that are extremely knowledgeable about.
+
+168
+01:13:28,240 --> 01:13:54,976
+Good, good aerodynamically on the bike, and I think in triathlon you have, you maybe don't have the same depth of amateurs that are extremely, extremely good at aerodynamics, but you have the top, the top amateurs, they are definitely, many of them anyway, will have that same attribute, and on the pro men's side, I really think it's top-notch there for the most part. Do you think it's more prevalent?
+
+169
+01:13:54,976 --> 01:14:19,968
+Or actually, let me put it this way. Do you think it's less prevalent in draft legal triathlon? Oh, for sure. Yeah, absolutely. I think very few people in draft legal triathlon pay any attention to it. And I mean, it makes sense because for many athletes anyway, they know that they're not strong bikers. Their plan hinges on being able to ride with the pack. But I do know that...
+
+170
+01:14:19,968 --> 01:14:46,688
+This is, again, the Norwegians are a great example of that. Their game plan, being weaker swimmers, is that they have to bridge up from that second swim group, for example, to the front pack and then start the run with the front pack. And to be able to do that, given that in the front pack you have the same issue that you have in all cycling and triathlon races, potentially being aided by media vehicles and so on.
+
+171
+01:14:46,688 --> 01:15:16,528
+They have to be really damn fast on the bike, even in draft legal races. So they did put in a lot of focus, I know, for Tokyo, the Tokyo Olympics, for example, into even things like aerodynamics in a draft legal race. And there are probably a handful of other draft legal athletes that are doing those things. But it's, I mean, it's understandably a lot less of a focus. But I think some athletes, depending on their strengths and weaknesses, could stand to,
+
+172
+01:15:16,528 --> 01:15:45,520
+To actually focus on it like the Norwegians showed could make a difference. And I know that drafting has a large component, especially in shorter, quote-unquote, shorter races on the track and running. Is that something that also happens in triathlon? I don't know if you're not allowed to run right behind somebody in triathlon because at some speeds I would assume there is a draft benefit.
+
+173
+01:15:45,840 --> 01:16:15,024
+Yeah, I mean, when you look at the Olympic distance and sprint distance racing, yeah, at the top level, you have speeds above 20 kilometers an hour to win those races. So there you do have a drafting benefit. I can't remember off the top of my head what it is, but it's significant. So definitely tactics play a part. And that's a good comment and a good observation, because I do think that maybe a lot of athletes would maybe
+
+174
+01:16:15,024 --> 01:16:43,168
+I benefit from thinking a bit more about that. You see it this year on the draft legal scene in the sprinting Olympic distance races that you have two standout athletes in Alex Yee from Great Britain and Hayden Wilde from New Zealand that are consistently battling it out with each other. And Alex Yee, coming from a track running background, has so far mostly gotten the better out of Hayden Wilde, and he seems to be running more of the time.
+
+175
+01:16:43,168 --> 01:17:01,488
+Behind Hayden and kind of hiding and waiting for his time. And it has helped him so far. When they reach the blue carpet and sprint for the line, he has beaten him. And it's obviously one aspect of it is just he has a great sprint on him, but also could Hayden be more tactical?
+
+176
+01:17:01,488 --> 01:17:27,360
+Run Behind Alex and then maybe have more energy left for the sprint and or maybe for a longer kick, like a 400 or 800 meter kick towards the line. So I think at the top level, those are the kinds of things that you need to focus on. But in long distance triathlon, when the speeds are more in the, I don't know, 18, 17 kilometer an hour, even on the pro men's side at the half distance, then
+
+177
+01:17:27,360 --> 01:17:56,336
+18 kilometers an hour, I guess it's trying to do the conversion from pace to speed, and I'm not sure I'm getting exactly right, but it's certainly a fair bit below 20, then I think that it stops really having that much of an impact, unless maybe if you're running into a strong headwind, so yeah, in that sense, in that context, I don't think it makes too big a difference anymore, but at the top level in the shorter draft legal races, yeah, it can have an impact.
+
+178
+01:17:56,336 --> 01:18:23,232
+Do you have more slower age group athletes who have this as a main focus on their training? Where you're like, hold on, buddy, let's get you finishing the race first. Do you have some people who think about this kind of stuff a lot? Because in cycling, I think a lot of people focus on the physiology, but there's also a very large camp of people.
+
+179
+01:18:23,232 --> 01:18:42,288
+who are always thinking about tactics and hiding and positioning and stuff like that. So where is triathlon with all that kind of stuff generally? Oh, that's a great question. I think it varies a lot from individual to individual there. I have, yeah, I've...
+
+180
+01:18:42,704 --> 01:19:09,968
+I mean, I think most people that I coach anywhere are, maybe it's just because we've worked together for quite a long time and we've already kind of talked through where they are currently and we have an alignment around that and there is a self-awareness in them so I think, yeah, I don't have that where people talk about race tactics when they should be focusing about finishing the race, really.
+
+181
+01:19:10,032 --> 01:19:39,728
+Yeah, I think that there is definitely a point where the faster age groupers, for example, and professional athletes where maybe thinking about tactics isn't something that has really occurred to them, especially in long distance racing, because it's still such a long race that it's in a way it's an individual time trial, but it's also not. You can still benefit from not racing it like a
+
+182
+01:19:39,728 --> 01:20:08,160
+an evenly paced time trial. So I guess there is a little bit of, I would say that there is a certain demographic of athletes that are not thinking about tactics when they maybe should be. But then again, at the very top of the sport, I do think that everybody is very tactically aware and it does play a big part as well in the racing and how it plays out, the race dynamics and so on.
+
+183
+01:20:08,160 --> 01:20:26,192
+That's fascinating to me. And I think my very last question on all of this is going to be, was there a big uproar in the triathlon community about drafting in the two-hour marathon?
+
+184
+01:20:27,824 --> 01:20:44,160
+Not that I'm aware of, no, no, I think they all, actually it was, but are you aware of the Sub-7, Sub-8 project that happened just this June? So that was the triathlon equivalent of the two-hour marathon where Christian Blumenfeld and...
+
+185
+01:20:44,160 --> 01:21:08,512
+and Joe Skipper on the men's side and Kat Matthews and Nicola Spirigo on the women's side each put together a team so there were four teams and the men were trying to do an Ironman in under seven hours and the women were trying to do it in under eight hours and they each got to have ten people on their teams and they could distribute them how they wanted in swimming, cycling and running as pacers and on the bike they were allowed to
+
+186
+01:21:08,512 --> 01:21:33,552
+to draft, which, of course, normally you're not allowed in an Ironman. And so it became like a team time trial on the bike, and the bike is obviously where most of the time gains were made. And I think there was a bit of a, like, there was definitely, you know, some people that thought that, well, this is not in the spirit of triathlon. So there was an uproar there in that sense.
+
+187
+01:21:33,552 --> 01:21:53,088
+I would disagree with that. I think it was a fun event. It was a show. It's not, of course, not a world record, just like a two-hour marathon wasn't a world record. And to be honest, the two-hour world, the sub-two-hour marathon was obviously closer to the real thing than the sub-seven, sub-eight, because in a race, in a running race...
+
+188
+01:21:53,088 --> 01:22:14,272
+You are allowed to draft people which are not in a triathlon race, so they did bend the rules a lot more in the triathlon equivalent of the running. But yeah, I didn't see anything for the sub-2-hour marathon in the triathlon community, no. Interesting. Yeah, because it sounds like a bit like the UCI hour record.
+
+189
+01:22:14,272 --> 01:22:42,000
+You know, because the rules have changed so much, like, you know, a lot of people, like, I was so excited when Fabian Cancelaro wanted to do the hour, Merc's style, with, like, box section rims on drop bars, because he wanted to compare himself to, you know, the greatest. And, you know, it's gotten, you know, it's obviously to, you know, re-instill interest in the hour, they changed it so that aerodynamics can play a big part, you know, like...
+
+190
+01:22:42,000 --> 01:23:11,920
+I cannot imagine, like, Dan Bigham's hour, he did more than, like, 380 watts or something like that. But, you know, aerodynamically, he is, like, on top of the world. And I think it's, you know, I think the question is, really, is, like, obviously, this is something that everybody has to answer for themselves, is, you know, is that in the spirit of the hour? Like, is that fair play? That's a good question. I don't have an answer.
+
+191
+01:23:11,920 --> 01:23:31,712
+Yeah, not as familiar as either with when different rules changes have taken place. So I'm only, yeah, my knowledge of the hour is more recent than that, I guess, like what is allowed now and how did Tempe go about it. So for me, but I understand people that have seen.
+
+192
+01:23:31,712 --> 01:23:53,504
+the way that it was done before. And it's obvious that you want to compare. Okay, so what could the current heroes do compared to the heroes of old? And when you're rubbed on the chance to see that, then yeah, I can understand that that's frustrating. And you want things to stay the same in that sense. Yeah, well, the UCI is interesting because they're trying to...
+
+193
+01:23:53,504 --> 01:24:22,992
+Regulate a certain amount of tradition in cycling, I think, because when we were watching like, you know, Aubrey, like with the Superman position and that super tuck and all that, you know, like he's on that bike that he made out of a washing machine. You know, he's in this tiny little weird position. He's got these tiny little bars and he's tucked down like a ski jumper and he's going so fast. You know, like it was so radical compared to what had happened before.
+
+194
+01:24:22,992 --> 01:24:50,208
+And, you know, like, because the most radical thing that had happened before that was Greg Lamond put triathlete bars to win the tour time trial on the last stage by eight seconds. And, you know, I think it's, I'm all, I just, I always wonder about that because I don't have a good answer either. Because cycling is a sport of tradition. Like, we still do the same, like, you know, 15 big races in Europe that we've always done. And, like, the...
+
+195
+01:24:50,208 --> 01:25:16,112
+Biggest new one is in Italy. Go figure. Like, I would love to see a really cool race in like Africa or South America where everybody goes and it's like a huge deal. But, you know, it's that tradition thing. Yeah, there is. What triathlon is doing, because things are changing a lot in triathlon right now with the introduction of the professional triathletes organization, which is...
+
+196
+01:25:16,112 --> 01:25:45,632
+backed by some really rich investors, so they have a lot of money that they are using to try to grow the sport commercially through growing the professional side of it, to make a long story short, and they are introducing the so-called PTO Tour, which this year had the first two Opens, as they call them, so the US Open, well, that's to happen in September, and the Canadian Open already happened in July, I believe.
+
+197
+01:25:45,632 --> 01:26:00,464
+and next year they're going to do the European Open and the Asian Open and I think in particular the Asian one will be interesting because so far triathlon has been so centric to Europe and North America and it will be interesting to see what sort of
+
+198
+01:26:00,464 --> 01:26:27,344
+engagement that they can drum up with the Asian one. To be fair, there are races, it's not like there are not races in Asia, there have been races there for a long time. Japan is actually, there's been a lot of good, especially short course Japanese athletes over many, many years, and they have a history of putting on races as well at the highest level. Yokohama is consistently on the World Triathlon Championship Series calendar, but...
+
+199
+01:26:27,344 --> 01:26:56,512
+But it's, yeah, on the long course side of things, yeah, it will be interesting to see where the new Asian Open will take things. And yeah, I think I can understand that in cycling as well, it would be interesting to see what a new interesting race in an interesting place would do for the sport. Yeah. And one more question on that, because in cycling, I think a lot more people would rather win the Tour than they would rather...
+
+200
+01:26:56,512 --> 01:27:25,312
+They would rather win the tour than an Olympic gold in the Olympic road race. And I think that speaks to the amount of tradition that's there. So where is the Kona Ironman versus the Olympics for triathlon? Yeah, well, I mean, I think it's more skewed in triathlon towards the Olympics than Kona, or compared to cycling anyway, that the Olympics
+
+201
+01:27:25,312 --> 01:27:53,712
+I would see the Olympics as the most prestigious thing, partially because it happens only every four years. And also, it's just crazy, the times that they're running. I mean, Kona is great, long-distance traveling is great, but it's more of a war of attrition. But compare that with when you see somebody running a 29-minute 10k after they've already swam and biked as hard as they possibly can. That's just crazy to me.
+
+202
+01:27:53,712 --> 01:28:17,456
+Incomprehensible. And I think a lot of athletes, especially the athletes that have grown up doing triathlon as kids, they would certainly say the Olympics. Athletes that have straddled both short and long distance triathlon would probably say the Olympics. But there is, of course, a lot of athletes that come straight into long distance triathlon and then, yeah, they would say Kona. A lot of amateurs would say...
+
+203
+01:28:17,456 --> 01:28:43,200
+Kona, because they are adult onset triathletes, they started doing Ironmans, and they are more interested in Kona, not at all in the Olympics, so it's not as if it's, you know, a clear, oh, the Olympics is bigger, but I, yeah, I think it's a little bit maybe skewed towards that, and I think that maybe, at least for me, like, what kind of determines that question is the athletes that have the opportunity to win both, like Christian Blumenfeld,
+
+204
+01:28:43,200 --> 01:29:12,112
+won the 2021 Ironman World Championships, even though it was in St. George in 2022, because the Kona version was postponed and he was moved, but now he has the chance to win Kona after winning the Olympics. He has probably been asked this, but I can't remember, but I'm pretty sure that he would say that still the Olympics is the one. If he could have only won one of those, the Ironman World Championships or the Olympics, I'm pretty sure he would say the Olympics. Yeah, because I think
+
+205
+01:29:12,112 --> 01:29:37,504
+You know, when it comes to that kind of stuff, I always wonder what's the, you know, because provenance also has a big part of it too, like, you know, if you win an Olympic medal, you're comparing yourself to everybody else who's won an Olympic medal, like, you know, throughout, you know, when was the first Olympics in the modern era, like late 1800s, early 1900s, like 1906 maybe? Yeah, 1904 or 1896, I think, one of them. But, you know, too bad we don't have like...
+
+206
+01:29:37,504 --> 01:30:05,776
+Records going back to the Greek times. Yeah. They didn't have bikes back then. Who cares? So, but I always wonder, because I think the tour is probably harder than the Olympics in some ways, especially because it's longer. You know, there are larger team aspects. You know your team better. And I think also, I think, who is it, Miguel Indorain once said that anybody can win the...
+
+207
+01:30:05,776 --> 01:30:35,568
+World Championships, because you just have to have one day, but winning the Tour, or any Grand Tour, is harder, because you have to have 21 good days. Yeah, I think that's a very fair point, and he's probably right, and that's probably right, that winning the Tour is harder. Yeah, if you have one bad day, then that's it for you, and we kind of saw it in this year's Tour, because Pugacar really only had one bad day, but that cost him in the end.
+
+208
+01:30:35,568 --> 01:31:03,920
+Yeah, I mean, in the triathlon comparison between Kona and the Olympics, it's different because they are both one-day events. So I think that you don't really have that same aspect. I think the Olympics is the one that is, there's no, absolutely no margin for error. Like, if you ask Jan Frodeno, who has won the Olympics in 2008, and he won Kona three times in 2015, and...
+
+209
+01:31:04,272 --> 01:31:32,224
+2016 and 2019, I think. He would say, I'm pretty sure that only 2019 was, that's when he had his perfect race in Kona, 2015 and 2016. There are things that he could have done better. But in the Olympics, there is really, there's no margin for error. Like, you have to have a perfect race, almost certainly to win, because it's, you're almost, almost definitely going to be, yeah.
+
+210
+01:31:32,224 --> 01:31:55,168
+To be together with other people until very close to the finish. So the shorter distance makes it more exciting in a lot of ways? I mean, yeah. So my coaching bias is that I love coaching the long distance. I love training for and racing the long distance. But as a spectator, I love the short distance. That's what I'm the most drawn to.
+
+211
+01:31:55,168 --> 01:32:22,656
+And so, yeah, I think it makes it, I think the bike is honestly, they should do something about the bike, because that's often very, very boring, because the packs just say the same that they are after the swim, and it's almost impossible for a break to happen the way the courses are set up. They should have some more challenging courses, maybe less dead turns and so on. But yeah, the bike can be boring, but yeah, the swim and the run are super exciting.
+
+212
+01:32:22,656 --> 01:32:51,024
+So, yeah, for spectators, I think the short distance is more exciting. That's something that organizations like the PTO are trying to do something about making long distance more exciting for spectators and bringing more commercial value to it. And clearly cycling is a great example of that because when you have people that are engaged for 21 days of racing or many hours in the tour, then it's not that the duration is necessarily the problem, but there's got to be something they can do to make it more exciting.
+
+213
+01:32:51,024 --> 01:33:16,352
+Yeah, I don't know what it is. Somebody who makes cycling more exciting is going to make a lot of money. What is your favorite meme? It doesn't have to be training or cycling related, just what's your favorite meme? Yeah, I'm really bad at this. But I have one that I saw that was quite funny. It was...
+
+214
+01:33:16,352 --> 01:33:45,360
+Somebody comes in, a cyclist coming in from a ride, looking at his bike computer or GPS watch and telling his friend that I rode 120 kilometers at 32 kilometers an hour at a power of 195.7 watts and a heart rate of 145. And his friend asks, did you have fun? And the guy looks at his watch and says, it doesn't say. So that's one that I like. Oh, that's fantastic.
+
+215
+01:33:45,360 --> 01:34:11,408
+But I can give you a bonus one, which is not a meme at all, but it's a video, a six-minute YouTube video. If you search on YouTube for Ultra Runner versus Iron Man, that's a really fun one. I think you will enjoy that one. Okay, cool. Do you have time for a couple of listener questions? Yeah, sure. Okay. I have not seen these yet. I guarantee at least the first one is about peeing on the bike.
+
+216
+01:34:11,408 --> 01:34:41,200
+So why don't we just get that out of the way? Do triathletes pee on the bike and does anybody actually care? Yes and no. Okay. Well, maybe some people care actually, but yeah, triathletes do, they don't care. Yeah. Oh, just like clockwork, first question, pee pee on the bike, yes or no? Two, three, four pee questions. All right. Everybody who's checking out my Instagram needs to stop asking about pee. Somebody says,
+
+217
+01:34:41,200 --> 01:35:10,176
+Tell us more about your training camp in Majorca. Yeah, so it's basically a pretty big training camp. We're going to have hopefully all of our coaches there, so five of us, but at least we're going to have many coaches and 40 to 50 athletes, hopefully. Last year we were mid-30s and there's room for a few more this year. And it's for all levels. We have the resources to split things into
+
+218
+01:35:10,176 --> 01:35:25,680
+groups of different levels. We're going to be doing, of course, a lot of the famous climbs from Mallorca, like Saka Lobda, and exploring the different, the great cycling opportunities that exist there. It's a really beautiful island, and the cycling there is brilliant.
+
+219
+01:35:25,680 --> 01:35:50,880
+Roads are good, drivers are respectful, and there's also a pool right at the hotel facilities, so we're swimming in an outdoor pool at the hotel and doing some swim video analysis, technical feedback, but also just good old-fashioned hard work to get everybody ready for the season. And there's more information on the website scientifictriathlon.com, but in a nutshell, that's what we're doing there.
+
+220
+01:35:50,880 --> 01:36:20,240
+In the pool, is it like a typical hotel pool? Like there's a shallow end and there's a diving pool? No, no, no. It's a training pool. Oh, okay. There are also recreational pools, but most people don't use them in March. It depends on the weather, I guess. Like we hopefully will have, to be honest, last year we had pretty bad weather for unseasonally bad weather, but it's the end of March. So generally speaking, the weather should be really nice in New York at that time of year. Why don't triathletes?
+
+221
+01:36:20,240 --> 01:36:37,696
+Wear socks. Well, it's faster to not put them on in transition, and so most try for up to Olympic distance triathlon, which is 1500 meters swimming, 40 kilometers biking, and 10 kilometers running.
+
+222
+01:36:37,696 --> 01:37:06,272
+Most athletes, especially the faster ones, don't wear socks for any of it, so also running barefoot. When it comes to the half distance, where the running goes up to 21 kilometers, then a lot of athletes choose to put on socks, but some choose not to do. I've done both, and sometimes successfully not put on socks, sometimes you pay for it with a blister that takes some time to go away and you lose some training.
+
+223
+01:37:06,272 --> 01:37:35,920
+in a race where 15 seconds might mean a lot to you, then it can still be worth it. But yeah, it's basically saving time in transitions. Interesting. I had never noticed that or even thought about it, but that makes a lot of sense. I would definitely go socks because I've, I just can't imagine the smell of your shoes if you don't wear socks and you go for a long run. Yeah, no, it's pretty bad, but you don't really notice it in a race when you're pumped full of adrenaline, so it's all right. I bet.
+
+224
+01:37:35,920 --> 01:37:58,560
+What's your favorite restaurant in Spain? In Spain? Well, I live in Portugal, so should I answer Portugal? I can answer Spain as well, because I've been there a fair amount. How about Portugal and Mallorca? Portugal and Mallorca. Well, Mallorca is definitely the buffet at the hotel we're staying during the camp. That's a good buffet.
+
+225
+01:37:58,560 --> 01:38:26,128
+And in Portugal, yeah, we have a great local restaurant called Adega das Gravatas, which is a place in Lisbon where you will never have any tourists. It's only locals and it's traditional Portuguese cuisine. It's not fancy. It's big portions. It's very good quality. And yeah, I like that. That sounds great. I'm down. I'm especially down for the buffet.
+
+226
+01:38:26,128 --> 01:38:51,808
+Anything, like, I can be swayed by volume. What's the difference in volume, especially for endurance training in general, between Ironman distance and sprint distance? At the elite level, the difference is not that big. Like, the world's best sprint distance triathletes train 25.
+
+227
+01:38:51,808 --> 01:39:17,952
+30 hours per week, depends a little bit, 20 to 30, some are more, the lower volume athletes are maybe in the 20 to 24 hour range, and the higher volume in the 26 to 30 hour range per week in total, and for Ironman, honestly it's very much the same, or maybe you would have a slightly higher skew in the Ironman athletes, like two to four hours more on average in an Ironman athlete than a sprint.
+
+228
+01:39:17,952 --> 01:39:43,088
+Distance Athlete, if you take, let's say, the top 50 in the world, but not too big a difference, because, yeah, it turns out that you still need that volume to maximize your endurance adaptations also for a race that takes you, let's say, 50 minutes at the top end. But for an age grouper, if you're looking to just complete, then for a sprint distance race, you can train, you can easily do a sprint distance race generally with...
+
+229
+01:39:43,088 --> 01:40:07,008
+3-5 hours per week, 4-5 hours maybe, if you're just starting out. And for an Ironman, if you want to, then I would definitely recommend building up to, you want to have a couple of kind of 14-hour weeks in there probably, but that doesn't have to be the bulk of your program, the bulk of your, you can definitely average around 9-10 hours per week, if it's your first Ironman.
+
+230
+01:40:07,008 --> 01:40:33,104
+and you have maybe done some shorter races before. So for the three months leading into the race, if you average 9-10 hours per week and you have a few weeks of 14 hours per week, then that I would say is, with the right training structure, is very much doable for completing your first Ironman. I'm kind of fascinated by that because I would have given the same answer, not that I know a ton about triathlon, but...
+
+231
+01:40:33,456 --> 01:41:01,168
+I think that, actually here, let me ask you, let me approach it this way. How prevalent is it that people ask, well, my race is only this long, why do I have to do more training than that? Yeah, it's quite prevalent. I don't have any stats on it, but yeah, it does happen. What are your tips on how to start running safely for cyclists?
+
+232
+01:41:03,280 --> 01:41:29,264
+Yeah, you have to really give it time. I think, especially as a cyclist, a well-trained cyclist, you have to be aware of the fact that your cardiovascular and metabolic fitness is going to be way, way, way ahead of your tissue resilience, your bones and tendons and ligaments, and those things. And also, even if you're starting from not being a word-beater on the bike,
+
+233
+01:41:29,264 --> 01:41:57,568
+Those cardiovascular and metabolic adaptations come a lot quicker, especially the cardiovascular ones, I would say, than the tissue adaptations. That's something that takes a much longer amount of time. So progress much slower than you think you should be progressing. That's the best answer that I can give you. I think, yeah, it depends on if you've done any running before or any weight-bearing sport, like having done some resistance training can...
+
+234
+01:41:57,568 --> 01:42:27,168
+can help because then you have maybe some higher bone mineral density and tissue strength than if you're a complete newbie to any sort of load bearing. So yeah, I don't want to generalize around volumes, but yeah, there's nothing wrong with starting with doing three runs a week of 10 to 15 minutes, doing that for a couple of weeks and maybe add five minutes to
+
+235
+01:42:27,168 --> 01:42:56,944
+to each of those runs for a couple of weeks and then take a week where you maybe don't run at all or just do a couple of 10-minute runs and like really it's always better to be too careful than to progress too quickly because that can potentially derail you not just from running but also from cycling if you get a running injury. I think it's very telling that in triathletes they tend to find when they do studies on the subject that 80% of triathlon injuries
+
+236
+01:42:56,944 --> 01:43:24,880
+come from running. That might be 80% of overuse injuries. I'm not sure if traumatic injuries are included in that, but that's still the lion's share. And it's not like as if there are no overuse injuries on the bike or the swim. Both of them, you see cyclists have overuse injuries and swimmers have overuse injuries, but it's just that running is so much more riskful in terms of overuse injuries. Yeah. I mean, because especially when somebody like
+
+237
+01:43:24,880 --> 01:43:54,032
+You know, it goes faster than you tell them to. I was training somebody in running because he, you know, was just going to do like a 5K or something. And when I was trying to bring the pace up just a little bit with him, like, you know, jog and then, you know, a minute every five minutes, go a little faster at whatever pace, he was like sprinting. And I was like, don't do this. You are going to get shin splints.
+
+238
+01:43:54,064 --> 01:44:14,400
+It's like, I was like, all right, well, we got to do some race pace kind of stuff. Don't sprint. Shin splints. Yeah. Yeah. I think another thing is that when even things like shoe selection for your running gait, I mean, that's not, that's not to say that, that's the thing that I get asked a lot, actually, especially by.
+
+239
+01:44:14,400 --> 01:44:37,872
+by my athletes sometimes like should I have this opportunity to go and do a running gait analysis and get some correction tips and generally speaking my advice is that no you shouldn't do that your body will already be well adapted to your running style and it will have found the most efficient way for you to run there are definitely certain cases where you might want to do some technical changes but for most people that at least have been running then
+
+240
+01:44:37,872 --> 01:44:57,904
+Technique takes care of itself, but at the same time, if you're completely new to running, you don't really know what you're doing. You might find that you have to experiment with finding the right shoes and so on that will have the right amount of cushioning and support for you and for your running style. And while you do those sorts of...
+
+241
+01:44:57,904 --> 01:45:25,040
+Find those sorts of lessons, basically, and learnings, then, yeah, it's better to be conservative to not risk anything happening in the meantime. Yeah, then when you're more experienced, if it ain't broke, don't fix it. Yeah, exactly. Okay, last question. You're amazingly impartial on the podcast. What training concept do you most disagree with? What training concept do I most disagree with?
+
+242
+01:45:27,312 --> 01:45:51,552
+Oh, yeah, I need some time to think about this. I'll start. I mean, I mean. Fasted training. Yeah. Fasted training, yeah, that's a, fast, yeah, fasted training is probably, that's probably the one I would say, because honestly, that's, yeah, I haven't, and I have experimented with that as a coach, and I've never seen that translate into performance, and, and.
+
+243
+01:45:51,552 --> 01:46:15,008
+Yeah, all the other things that I can think of, I can think of examples when, even though I don't agree with it, it does work with fasted training, I think everything points towards not doing it. So I think that that's a good one. Yeah, for sure. All right, do you have any more thoughts to share or anything that you wanted to bring up that we didn't quite get to?
+
+244
+01:46:15,008 --> 01:46:41,504
+No, I think we covered a lot here. I just want to thank you for all the work you put into your podcast because I'm a very loyal listener of it and I think it's a unique podcast that you have and I appreciate that. Thank you. Holy fuck, I'm blushing. Thanks, man. I really appreciate that. And your podcast continues to be my favorite training podcast.
+
+245
+01:46:41,504 --> 01:47:05,520
+You know, partly because, you know, you do have such good and partial questions. And I think, you know, you and I have such a similar mindset when it comes to training and coaching. And, you know, the first time you reached out to me to be on your podcast, my first thought was, I made it.
+
+246
+01:47:05,520 --> 01:47:34,928
+No, that's amazing. Oh, man. So thank you so much. Thanks for coming on. I hope people appreciate this. And I will leave all the links in our show notes about where they can find you. But I'm sure most of my listeners already listen to your podcast. So thanks again for coming on. Yeah, great. Thank you for having me. All right. Of course, thanks again to Michael Erickson for coming on the show. I always have such a great time talking to him. And I think that was probably one of the best conversations I've had.
+
+247
+01:47:34,928 --> 01:48:04,208
+and you know it's because he's such a thoughtful guy and he's so well researched and he's so well thought out and his perspective is great on everything so Michael thanks again for coming on to the show and I cannot wait to have you back and of course for everybody listening to the show who knows what's coming up thank you for listening again subscribe to the podcast and share it of course because we are ad-free sharing the podcast goes a long way and again if you want to reach out for coaching or consultation inquiries empiricalcycling at gmail.com and of course we asked the questions up on
+
+248
+01:48:04,208 --> 01:48:12,816
+and the Instagram. So follow along at empiricalcycling if you want to check that out. So thanks everybody for listening and we'll see you next time.
+

@@ -1,0 +1,956 @@
+WEBVTT
+
+00:00:00.624 --> 00:00:28.752
+Welcome to the Empirical Cycling Podcast. I'm your host, Koli Moore, and Kyle's got the day off today because we have a guest, Tim Cusick, for an interview, and it's a really, really good one, so I hope everybody enjoys it. But in the meantime, I want to thank you all for listening. I want to thank you all for subscribing and ask you to subscribe, like, and all that kind of usual stuff. Of course, the big one being sharing the podcast goes a long way. Thank you so much. If you enjoy what we're doing, share it with a friend, share it on a forum, et cetera, et cetera. I love to see that kind of stuff.
+
+00:00:28.752 --> 00:00:55.824
+remember we're also ad free so if you would like to donate to the show you can do so at empiricalcycling.com slash donate your donations do keep the lights on we appreciate that so thank you so much for all of that and of course if you have any coaching or consultation inquiries you can just shoot me an email empiricalcycling at gmail.com we are always taking on athletes and a consultation is like your own personal one-on-one AMA so feel free to reach out for one of those
+
+00:00:55.888 --> 00:01:25.328
+and of course if you've got any questions or comments also shoot me an email also you can you know let me know on DMs on Instagram I get to most of those I think I think I've got to everybody so let me know of course if you haven't and of course that's where we get our listener questions is up on the Instagram at Empirical Cycling and of course up in the show notes on empiricalcycling.com we're going to have some places where you can get in touch with Tim so
+
+00:01:25.328 --> 00:01:30.848
+Otherwise, this is a great podcast and it kind of started with
+
+00:01:30.848 --> 00:02:00.112
+Tim and I talking about some discussion that was happening on a forum. And Tim was like, you know what, you should do a podcast on data and coaching. And I said, no, we should do a podcast on data and coaching. Because Tim's experience with working with data, both, you know, in his previous jobs for work, and also as the product leader for WKO four and five has been really invaluable. And he's been kind of a mentor coach for a lot of people who, you know,
+
+00:02:00.112 --> 00:02:21.728
+kind of needed a place to start. And Tim has definitely provided a place to start. So if you want to check out more of his stuff, you don't have to buy WKO 5. You can just go onto YouTube and look at the WKO 4 and 5 webinars. I highly recommend Tim's. So check those out. But in the meantime,
+
+00:02:21.728 --> 00:02:49.456
+Yeah, let's just get into the podcast. And fair warning, we had a quick technical difficulty with the Riverside recording, so we switched to Zoom. So after a little bit, there's going to be a little audio quality change. Apologies for that. I've tried to fix it as much in post as I possibly can. So, yep. In the meantime, thank you all for listening, and we will see you on the other side. I think I remember in a webinar, you said you came from mountain biking? I was a runner.
+
+00:02:49.456 --> 00:03:15.600
+It's kind of that classic story, right? So you started riding when you got injured running? Well, no, it's funny. Isn't it like how many athletes come to us that way? I ran in high school, ran in college. I literally finished my senior year of running. I threw my shoes in the trash and I never ran again. It wasn't that I didn't like it. There was just something where that was done. I'd had enough.
+
+00:03:15.600 --> 00:03:31.088
+You know, I'd actually been doing some biking as part of an injury recovery and then didn't do anything for a while. Got into biking due to a friend and then just everything went crazy from there. Yeah. And how is your history as an athlete? Because I...
+
+00:03:31.088 --> 00:03:57.040
+I also remember, I think you said you were a national champion of some sort or a master's national champion maybe? No, no way. You know, it's funny. I mean, I raced and I raced pro elites back in the day on mountain bike for about eight years. But I was more of a middle of the packer. Like, you know, my goals lived in the world at that time. I was like in my mid to late 30s. My goals were more like...
+
+00:03:57.040 --> 00:04:24.912
+Man, if I could just get top five, like top ten, I'm okay. If I could just get to top five. But I actually think that pays off well in learning how to be a better and better coach because nothing came easy, right? And you're always learning and searching and connecting that improvement desire. Do you encounter that a lot with people where they're like, well, you weren't a top-tier athlete, so how can you coach top-tier athletes? Yay!
+
+00:04:24.912 --> 00:04:49.024
+Maybe. To be honest with you, no. I think if you look at most sports, you don't see the top tier people very prevalent in the top tier of coaches. Don't get me wrong, it's a round and people can make the jump, but it is a combination of skill sets, as you know, in coaching that goes beyond the skill set that you might prove in our sport on the bike or in a race.
+
+00:04:49.024 --> 00:05:10.112
+So I don't see it much. I think it's probably harder to build your resume enough until you get to the point where people don't ask that question anymore. But no, I don't see it as a big barrier at this stage in my life. Well, actually, because I'm just thinking about when I started to know who you were in like 2014 or 15 or something like that.
+
+00:05:10.112 --> 00:05:38.064
+Yeah, because I think you had already been coaching Amber Neven at that point. Everybody just sort of knew you as a coach, and everybody was like, oh, okay, cool. Well, Tim's a good coach, and that's that. So how did you get into coaching? Let's see. No, it's always been a passion. So, like, I have a degree. It's funny. People talk about my educational programs and stuff like that. I have my degree in education. So I went to college, wanted to be a school teacher, was going to come out, make a difference.
+
+00:05:38.064 --> 00:06:06.656
+that had burned out too. That went in the sort of in the trash with my shoes. And the reality is it didn't. I just got into it, you know, and began to head off in a different direction. So I've always had the desire to coach and teach because those two in my world are highly interrelated. And then through racing, what actually had happened, I was racing and I did this big race, the Iron Cross race here in Pennsylvania.
+
+00:06:06.656 --> 00:06:31.296
+and then jumped on a plane and I was doing, you know, I was doing some other stuff. I was working in another field, jumped on a plane, traveled, whatever. Long story short, a couple of days later, came down with some pulmonary embolisms. Oh. This was years and years ago, right? And I'd crashed in that race and whatever. So it's all classic story, but. Classic pulmonary embolism. Yeah, right. Everybody has them. No, in reality, it was just that then incoming.
+
+00:06:31.296 --> 00:07:00.544
+It really though shifted my focus into learning and I had coached, I had a coach, I had been working with different coaches in my life who were all pretty good so I had some blessing and I was just like I need to go further in this, I need to learn more and I'd already had, I really enjoy learning as a habit which has served me well. So that set the trigger and then as soon as I started going deeper I just really decided
+
+00:07:00.544 --> 00:07:30.144
+that it really needed to be a career for me. Interesting, yeah. So how was your first coaching client? Wow. Oh, great. Now you're going to get me in trouble. Or how did that relationship come to be? Well, when I originally got into coaching, I was doing a lot of other stuff in data, data analytics, stuff like that. And I'd actually worked with Hunter Allen in the Peaks coaching group. I knew Hunter. I'd worked with him for a while before.
+
+00:07:30.144 --> 00:07:39.712
+sort of as an athlete, but then I actually worked with him in a coaching evolution. And to be honest with you, I was doing some work for him, some stuff.
+
+00:07:39.712 --> 00:08:08.208
+helping him with what his coaching company was accomplishing and some consulting, let's just call it. And at the same time, I was doing my own deal. And then through that, he just said, we just decided, let's just kind of coach with Peaks and help me grow Peaks Coaching Group. So I spent some time with Hunter and Peaks, learned a lot during that phase, continued to expand my knowledge. But that's where I really went into coaching full-time. I come from a background, I have a degree in education, but my background is in data analytics.
+
+00:08:08.464 --> 00:08:36.320
+So I was building models for big, scary corporations that were going to manipulate your buying patterns years before. So while I was racing, that was sort of my full-time job. And I had really gone deep down the modeling, algorithms, predictive analytics, stuff like that rabbit hole, working for a firm that specialized in credit card targeting. So that was like the late 90s? Yeah.
+
+00:08:36.320 --> 00:09:03.744
+Late 90s, correct? Early 2000s. At first, I was like, what's Tim's background that gives him the unique ability to be the WKO5 product leader? And here it is. This makes perfect sense. You have everything you need. If you take that plus coaching, I see the qualifications right there.
+
+00:09:03.744 --> 00:09:28.016
+Thanks. I mean, I'm trained in education, which I loved, right? I love learning and teaching and explaining. I spent a lot of time in data analytics. And like, when I say data analytics, what's funny, and this should be explained someday, I'm not really good at math. You know, it's funny, they think you're in there with like, you know, you got your pencil out and you're writing down all this math and stuff. Actually, what I was really good is understanding output.
+
+00:09:28.656 --> 00:09:47.216
+How so? We have a huge pool of data. When you work with these big data companies and consumer targeting and psychographics and things like that, you have to understand you can take a pool of data, you can apply math, algorithms, whatever you want to it, but somebody has to step up and say, here's what we really need to know.
+
+00:09:47.216 --> 00:10:16.416
+like you need key points like if we want to be able to predict consumer behavior or enhance consumer behavior we can't just throw a bunch of data in a pool and start around and it's like ta-da there's the answer you have to start like at multiple levels like okay we have data what's a first tier evolution of that data what do we want it to tell us and eventually you want that what do you want us to tell us what do you want it to show us to lead to what do we want to learn from it
+
+00:10:16.416 --> 00:10:45.312
+then you want it to lead to what can we reliably use in there to predict some desired outcome. So I would sit in a lot of meetings where a bunch of people who were really good at math would like paint the walls with here's all the things we could do and it was kind of my job to be able to say all right we need this piece and this piece and this piece put it together and that output begins to be predictive now let's go validate that back against the data we have.
+
+00:10:45.312 --> 00:11:10.304
+So, which leads me to the logical question that is definitely not on the script, which is, where's your AI coach, Tim? You know, it's not possible. We'll come to that. I'll let you ask me that question later in the fully formal. You know, the reality is what I learned then, and that's kind of what, when I, you know, then evolved in with Training Peaks and WKO, I still am not good at math.
+
+00:11:10.304 --> 00:11:39.232
+I've never mastered that scale. And I get all the theories and I can talk enough, know what it is, but I don't put, you know, I'm not going to be out there doing the math. But the reality is like when it came to that evolution, I believe that I still had that vision. Like by understanding data from a much bigger universe, it was easier for me to come in here and say, okay, I have these backgrounds and say, and I'm riding and I'm racing and I'm coaching. What do I really want to know?
+
+00:11:39.232 --> 00:12:04.912
+and the ability to put that in the right order so it made sense. And I don't mean the right order the way you read it, but so that it outputs a data that's a useful data point. That really was the evolution. So for me, in what I drove as the leader of the team was not doing the math, not creating the models, but saying, what do we need to know? So you were doing the deciding.
+
+00:12:05.520 --> 00:12:26.560
+Yeah, I mean, it's always groupthink. I mean, you were part of it, so, you know, it's always groupthink to some degree, but it might be a better way to think about it is I was the one who put out the problem statement. So that's where good analytics all start, right? Somebody would say, what problem are we trying to solve? What's the problem statement that drives that?
+
+00:12:26.560 --> 00:12:55.552
+and then you should always have a compartmentalized team which we had very good you had some practitioners you had some mathematicians you had some scientists and you had some users and then you put out the problem statement you gather feedback from all those individual areas and you reorganize all that feedback into a statement like here's your problem statement here's your mission all right let's solve that problem based on that statement so all end users have a role in that all the
+
+00:12:55.552 --> 00:13:24.000
+The stakeholders in the problem have input into the problem statement and the problem should be able to come and solve that solution. It was a unique perspective, you know, working with you in the Training Impact Score and the FutureWorks group because usually whenever, you know, because, you know, all of us were a bunch of nerds and we get lost in the weeds all the time, like me and Dean and just, you know, Raul, everybody. And you...
+
+00:13:24.000 --> 00:13:46.160
+have this great ability to keep everybody grounded because you know, like you're like focused on, okay, this is what we need and this all stuff like, okay, we can sort that out at some point, but how do we get to this thing? And is that what a product leader does for like WKO5? Cause I, cause that's a, it's an interesting title. I think I've never heard it before or since.
+
+00:13:46.160 --> 00:14:12.736
+Well, thanks. Yeah, well, thank you for the compliment. But that's what you should do, right? Yes, that's what a product leader should do because it's very easy to create technology for the sake of technology. Like that's a trap, right? And to be able to stay on focus and be like, we want this to serve a purpose. We want this to serve a purpose we can define. We want this to serve a purpose that solves a problem. You know, when you think about that.
+
+00:14:12.736 --> 00:14:35.264
+that's how small teams can be very agile and produce a lot of great stuff you know versus the downside often small teams it's almost easier with big big teams is you can do exactly what you just said and I've been down that path many times before like and it's funny Kevin Williams that the genius behind the WKO software will you know
+
+00:14:35.264 --> 00:15:03.952
+If I say, hey, Kevin, I've got this really cool idea, like he cringes, like he hangs up the phone, he shuts off the Zoom, right? Because as soon as I say really cool, like if I can't start out with, here's something we need to do and here's why, as soon as I say really cool, he knows we're in trouble because we're going down that rabbit hole. That's hilarious. Well, I think you've got a unique perspective with that stuff too, because one of the things that I think I and a lot of people found
+
+00:15:04.112 --> 00:15:30.288
+probably the most interesting and useful about WKO is the webinars that you've done. Because I think the webinars are a really interesting mix of your particular coaching philosophy and your training philosophy, but also how you use the tool to accomplish that. And I think a lot of people...
+
+00:15:30.288 --> 00:15:59.024
+and have a misconception about what the tool is. And I think one of the hard parts, and I've said this for a long time, which is WKO 4 and 5 made me ask myself, what do I want to see and what am I doing? And then it will help me along the way, but it's not going to do it for me. Couldn't agree more. I mean, thanks for saying that. I know you get it really well. You know, it's funny when we developed WKO 4.
+
+00:15:59.024 --> 00:16:27.664
+we really wanted to go we wanted to accomplish something that was not just like okay let's put some analytics on the table let's just help people get faster you know we had this idea Andy actually coined the phrase like actionable intelligence but we worked hard to make it we didn't want WKO to be a solution or a train by system the goal was to develop something that helped a coach
+
+00:16:28.368 --> 00:16:42.272
+take up more 360 view of training, performance, physiology. So like part of my first vision of this is we need to accomplish those three because what we tend to do in endurance sports is just mash it all together.
+
+00:16:42.272 --> 00:17:12.256
+Training is performance. Performance is, you know, and we mash things together because we want the simple output, right? We want to put it in the magic machine. It spits out something out the backside, and that's what we do. And we knew that was a direction we could have went in even back then. You know, AI was becoming a great discussion process. Machine learning has been advancing. And we definitively did not set out to go down that path because we believe that path is full of flaws.
+
+00:17:12.256 --> 00:17:40.272
+that what we wanted to do was actually give coaches and self-coach athletes tools to better see the full 360, which maybe helped them identify some of the flaws and some of the other things they were seeing would help point out some problems and help solve them theoretically and give good guidance. Just be a really robust tool in the toolbox. But we wanted a multi-tool.
+
+00:17:40.368 --> 00:18:09.728
+We knew people needed, you know, a tool for this and a tool for that. You know, and we knew one tool didn't fit all sizes. We wanted people to have the flexibility to create their own to be a very user-driven experience. And that's been wildly successful in certain ways, and I've enjoyed it. And it's been wildly painful in other ways. And I've still enjoyed it. There's two sides of that coin. So in what way is it painful?
+
+00:18:09.728 --> 00:18:31.760
+When you release a product out in the public, right, and you're representing that product, it's a challenge because there is an expectation. You build something, a toolkit, a software, right, and you push it out there. And if you build something that a user can ultimately define the absolute end experience.
+
+00:18:32.464 --> 00:18:58.544
+you actually get a lot of pushback about how the user then wants to know how to define that end experience and I don't mean how to build a chart I mean in the sense what to me it exposed in looking at a broad view of the coaching industry the range of coaches both in style and I don't mean this positively or negative but maybe knowledge base and understanding you know
+
+00:18:58.864 --> 00:19:26.736
+that range was under anticipated. And what that made us do was almost have like a slew of answers for experts and a slew of answers for people who maybe weren't such experts yet and were working their way there. And to be quite candid, some answers for people who didn't really want to be an expert. They just did want that magic solution. And that then we formed a large fuel.
+
+00:19:26.736 --> 00:19:54.768
+group of people in a Facebook group and the WKO Facebook group and all this stuff. And it was really hard for me to control that in the early release, which was the desire then, which led to the webinar series, because I never want to tell people what to do. If you've been to any of my webinars and you know this, I'll start out with, this is my opinion, learn, build yours. But I did want to show people one path.
+
+00:19:54.832 --> 00:20:17.888
+and if the experts learned a little from me you know because I've been doing this for a long time I do have I'm blessed with an amazing group of clients and I've had chances to work with pro teams and pro riders and all that stuff so I've been around but I also wanted things for people who were newer and wanted to start their journey towards being an expert or being a master or accomplishing mastery they could do that too but not in a way that was like
+
+00:20:17.888 --> 00:20:37.792
+Here's step one, read the manual. Here's step two, go to school. I wanted it in a way where people would discover because WKO was a software built to help you discover and we wanted the process to be that. But we needed, we quickly learned, we needed to lead that by at least demonstrating a way. Yeah, and I think
+
+00:20:37.792 --> 00:20:55.936
+I think one of the hardest things for a lot of people is where do you start in the process? Because there's so much information everywhere. And one of my questions to you that I think you've seen is about the process of evolution. But one of the things that I was thinking right before we started recording was...
+
+00:20:55.936 --> 00:21:22.368
+How do you actually begin to have a framework to start with? And I think that your framework in the webinars helped a lot of people of like, you know, put down the first couple of building blocks and then start to rearrange it the way that they see fit. And so I want to ask you a couple of questions about, you know, your training philosophy first before we get going. So more into the data and metrics and physiology and all that. So I think.
+
+00:21:22.368 --> 00:21:46.496
+One of the things that a lot of people ask me, and I'm going to ask you because nobody's ever been satisfied with my answers, is what's unique about working with a top athlete like Amber Nieben versus an average Joe like yourself or myself? Huh, great question. I would say two or three things. One, and this is hard for everybody to understand since you work with athletes.
+
+00:21:46.496 --> 00:22:11.664
+the range of change and improvement so you think about training right and all training is like take something from down here to up here and that path right that's why you're training you want and it's easy in our sport to talk about power or speed or some output I want to get somebody from a 300 watt threshold to a 350 watt threshold and then you train that's the path when you work with athletes that are that gifted let's call them
+
+00:22:11.664 --> 00:22:40.608
+pro because pro really is a form of natural selection, right? They are the genetic mutant. They're the one in a million or 10 million human beings or a hundred million human beings who have a combination of capabilities that put them at that level, particularly in cycling, by the way, that pointy tip of the spear is very, very small. So when we think about that, all right, you have to understand that one of the biggest frustrations as you grow as a coach from working locally to expanding and you get into people of that talent is
+
+00:22:40.608 --> 00:23:09.056
+that gap between their untrained status and their ultimate desire and their ultimate peak is really much smaller you don't have this range of change and as a coach that's hard to adapt to because you might be a pretty good coach and you're like wow and I just took on this local rider and they had a 225 watt threshold and I started to work with them and six months later they're 275 because they really weren't riding before they had no structured training you just gave them a good system you structured them you weren't
+
+00:23:09.056 --> 00:23:35.104
+having to be like on the cutting edge of squeezing out every percent. As you get more and more athletes at a high level, and I'm sure you've gone through the same process, that range of what you quantify as success gets smaller and smaller and smaller. Their genetic capability is driving and their experience and their performance capability really narrows that range. When you're looking at an entire season of building an entire...
+
+00:23:35.104 --> 00:24:02.432
+block of like an entire periodization years of looking at it your change might be 10 watts 15 watts like you're working all year long to get that 15 watts but yet it's those 15 watts that that athlete needs to go from being professional fodder to world champion right that just what it is so what that does it's almost like you know you take this idea of having a very broad laser
+
+00:24:02.432 --> 00:24:31.696
+working with a lot of athletes. And then as you get more up the pro because their genetic capability, you've got to narrow that. You've got to be better at the specifics. And I don't just mean better at like smarter or stronger. I mean, like you've got to be better at the whole package because that athlete is coming with all that talent. It isn't easy to spend four years trying to get 15 watts out of a threshold.
+
+00:24:31.696 --> 00:24:59.968
+It's a challenge. Yeah. And I think one of the other things that people hate me for saying this, but a lot of the people with that level of talent, they start on third base. Absolutely. They're already like way better than I've ever been at my peak. Like they're starting there. Like our coach, Corey, I don't think I've ever seen this threshold measured like anywhere below like 370 or 380.
+
+00:24:59.968 --> 00:25:26.768
+Absolutely. And it's, you know, so one of the things I think it would be interesting for people to hear about is which kind of athlete keeps you up at night more, the pro athlete or the amateur athlete? Well, you know, it's funny. Go back to the original question. So we talked about that small change, right? Yeah. That small change takes you to be more laser focused and everything, but also takes a lot more work.
+
+00:25:26.768 --> 00:25:53.600
+because that athlete, exactly what you said, their natural starting point is so high. Sometimes people hear that and they're like, oh, then that athlete needs eight to 10 hours of training a week and they're going to be good to go. No, as a matter of fact, that athlete needs even more work than you can imagine because they're already so physiologically capable for you to create a stress and strain, a stimuli environment that that athlete's going to adapt to. You have to work them hard.
+
+00:25:53.600 --> 00:26:20.816
+You know, if we think about it, like I always try to give an analogy. It's like you're pounding with the everyday athlete, you're pounding the nail with a regular hammer. When you start working with athletes that capable, you have to use a sledgehammer. You have to be able to add that much. And that doesn't mean high intensity every day or something crazy like that. It just means total workload. It takes more to elicit a lot less change. Yeah. Who do I like? Who keeps me up at night? You know, it's funny.
+
+00:26:20.816 --> 00:26:49.680
+I have passion for both sides of that and it's really been evident since with the Tokyo Olympics over and stuff like that I'm a little less focused at the professional level I've taken on right now I've taken on less athletes than I've managed for years and I'm putting time and energy into other programs we're doing that are more focused towards beginners and getting people like up and actually training and avoiding some of the the fad training diets and things like that and I've found that to be
+
+00:26:49.680 --> 00:27:17.008
+is extremely rewarding because it doesn't keep me up as much at night. That's a long way of answering your question. So I've found it in that sense, like it's great to, I always want to answer it more in a way of passion. So that passion has been kind of energized and whatever. When you're coaching with an Olympic athlete, right? And this is when you get into data utilization, Coley, I really think this is a driver that people should consider. And I say this story.
+
+00:27:17.200 --> 00:27:44.400
+because every coach goes through this. You really start to learn and evolve your ability to use these tools and stuff like that that first time you really fail an athlete. And it's not just going to be once. I mean, I've screwed up a lot of athletes in my life. To all of you listening, I'm sorry. But the reality is, right, it's like you have to be able as a coach to reframe that and grow. But the pressure of failure never goes because
+
+00:27:44.432 --> 00:28:10.656
+as you get to those higher level athletes and that athlete is now truly pursuing their dream and they go through a season and you as the coach have gotten it wrong and they don't achieve that dream in the end of the day it's just you and that person and you have to in one way or another look them in the eye and say sorry I messed that up I didn't get that right for you you know and that's a driving passion to learn so one of the things it's like so I lose sleep over that but it also
+
+00:28:10.656 --> 00:28:37.920
+fuels my desire to be a better and better and better coach. Because you go through that and you're like, wow, holy shit, I really screwed that up. It's like you feel those deeper to a certain degree, right? So you're like, I'm never going to let that happen again. So you go back and you sharpen your tools, you know, you sharpen your blade, you get better prepared to improve. And I think that, yes, you lose sleep over it, but it's the mechanism of improvement that it's important.
+
+00:28:37.920 --> 00:29:06.208
+I think that's interesting to say that because I think one of the biggest challenges to like a self-coach athlete is that they don't get that experience as much as we as coaches do. Like, you know, managing, you know, anywhere from like 15 to, I know people who have coached up to like 50 athletes or more at a time, which is mind-blowing to me. That's literally all they do, 12 hours a day. I mean, I'm sure the money's great, but like, wow.
+
+00:29:06.208 --> 00:29:35.360
+where do you get the time to relax and, you know, educate yourself and stuff. But that level of experience is also an education. And so, you know, managing a normal coaching training load of like between 20 and 30 athletes for years is such a big tool that I think a lot of self-coach athletes don't get. So where do they start? Where, like how they've, they've got N of one, like, you know, they've never tried to coach somebody. Should, should a lot of people.
+
+00:29:35.360 --> 00:30:04.960
+try to coach a buddy like you coach me and I'll coach you and get some experience that way. Absolutely. Actually, you said something really cool there, which is great. My number one answer, if you're new to cycling, you're like, even if your goal is just fitness, hire a good coach. So think about this, right? And we have it backwards. There's so many things we have backwards in endurance sports. I love it. It's like, wow, I'm brand new and I need to learn. I'm just going to figure stuff out.
+
+00:30:04.960 --> 00:30:32.480
+and then later once I figure it all out I'll hire a coach right how many times have you heard people say that to you that are new to sport that's backwards you know you can dramatically shorten the curve by hiring a good coach when you're new learn grow get those things that knowledge base entrenched then make decisions if you want to be a self-coached athlete or a coached athlete so that's my overarching answer
+
+00:30:32.480 --> 00:30:57.520
+When you set off down your goal, here's the thing, it's like you're a new coach and man, you and I are going to get hate mail by the end of this one. If you're a self-coached athlete and you're new to it and you're like, I'm just going to be self-coached, you're going to potentially gather expertise on the internet and listening to people like me and you and whatever, but expertise is like a knowledge-based, you don't have mastery.
+
+00:30:57.520 --> 00:31:24.528
+Mastery requires experience. It requires having seen scenarios. It requires wisdom. It requires all these things, right? So if you're just stuck with expertise, I guarantee you, you're going to make a tremendous amount of bad decisions for yourself, particularly the more expertise you gather. If you're that person, like, I'm going to self-coach, and then you're reading everything, and it's like, I'm in every study, I'm in every group, I'm reading everything that comes to the internet.
+
+00:31:24.624 --> 00:31:44.336
+you might find and some of you might look back if you're being honest with yourself and say yeah I did this because I did this I made worse and worse decisions the more I gained expertise because I kept making that learning that expertise the solution and then eventually I realized I couldn't name it then I needed to go out and find mastery
+
+00:31:44.336 --> 00:32:14.224
+like somebody who's done this, who had skill. And some people come into it from the mastery side. They're like, man, I've been riding my bike all my life and I've decided now I'm going to start competing. I don't need anything more. I just need to ride a little harder. Mastery without expertise is you're not really sure you're doing the right things. You don't know how to use the data and the tools. You don't know all that. You only know what you know, which the reverse is really what kills you. You don't know what you don't know. So you need that blend. And if you're new to it, get them both fast.
+
+00:32:14.224 --> 00:32:44.128
+hire the mastery grow your own you know expertise you'll be surprised six to nine months into that you'll be in a much better situation to decide are you a coached athlete or a self-coached athlete it'll probably redefine all of your goals and other things yeah and I think I think most of our coaching inquiries come from people who have either tried to coach themselves or haven't coached by you know some form of software coach or other and they're like well this isn't really working so let's you know let's really get this customized
+
+00:32:44.128 --> 00:33:11.104
+um and then a lot of the times well not a lot of the time but sometimes after a couple months people go I think I got it from here and we go great let us know if you need any help or questions we're here for you um that's a sign of a great coach right yeah because great coaching is teaching too and sometimes that means you teach the athlete to to they are going to come to that solution that self-coaching is better for them but to me then you should pat yourself on the back you did your job
+
+00:33:11.104 --> 00:33:39.744
+you might have to go out and now get another client but at least you did your job and you did it well um okay so my next question for you uh because well that was a long one about about you know pro versus amateur training but um um when it comes to periodization I think this is something that a lot of people also wonder um how do you periodize differently for like in the looks like like four years for Amber Niebin versus you know somebody who
+
+00:33:39.744 --> 00:34:02.208
+just wants to be fit or go fast at a local race. Well, I mean, think about this in terms of good, better, best, right? Always a great way to think about things because there's never one solution. Best is long-term cycles. So based on what that athlete is doing in one year is not a long-term cycle. So you might say two to...
+
+00:34:02.208 --> 00:34:30.608
+Five years, you know, it depends. Olympics makes it very nice and easy because you have that four-year thinking and four years is a pretty good timeframe of thought. So the best answer starting up on the top of that good, better, best paradigm is think long-term. And here's why, and I would say this to any self-coached athlete or somebody who's new in the sport, once you get into a well-designed system, and this sort of assumes you haven't been in one, but once you do get into a well-defined system, and I don't care.
+
+00:34:30.928 --> 00:34:59.344
+how old you are and that's going to be controversial but I don't care how old you are you probably have multiple years of growth meaning once done well we look at a periodization plan as one year we love to compartmentalize things into neat little boxes and we're like well the best I could ever do is I start down here in the winter you know whenever my winter is whenever my base training and if I train well I'll peak here and then I would just repeat and do the same thing the next year actually good periodization
+
+00:34:59.408 --> 00:35:22.624
+You should be able to continue to drive improved results for somewhere from two to four years with an athlete. Depends on maturity, depends on history, depends on what they were doing. So thinking big overall helps. The reality is the other side of the spectrum, good. Like good is an annualized plan. The only thing I would say is thinking more of an annualized strategy.
+
+00:35:22.624 --> 00:35:49.936
+Plans are really hard to implement because you put out your layout, you spend a lot of time doing all your little X's and O's and you got them all perfect and then three weeks in something goes wrong and you're like, oh wow, now I've got to rewrite my plan. Have a good strategy of timing, application, volume, training, intensity, distribution, all the elements that go in there, but ebb and flow with it. So, you know, on that downside is a one-year plan is still pretty powerful. I wouldn't go below that. Like when you go below that, you're just ad hoc.
+
+00:35:49.936 --> 00:36:18.960
+which is fine if you're just fitness maybe ad hoc works for you but if you want to accomplish something you have some goal at the low end of the spectrum one year high end of the spectrum two to four years is the best solution. So what do you think do you have different focuses for different years like like the first year after the Olympics like let's let's forget Tokyo because that that kind of thing up but like if if you've got three or four years after an Olympics year one what happens like year two three
+
+00:36:18.960 --> 00:36:45.808
+Olympic year. How does each year differ in terms of what you're thinking about? Great answer. Great question. The reality is, yeah, we'll see if I can answer it. Reality is, it really is something because we tend, even the way I just said it, we tend to think everything is building, right? One of the flaws in endurance training, more is more, harder is harder, right? The reality is in a four-year cycle, one of those four years is
+
+00:36:45.808 --> 00:37:10.176
+and I'm doing this in air quotes right online is rest so if you want to think of the terms of training load or chronic training load CTL or whatever you have a low training load year and you have to have the fortitude to just go through that year because you know it depends on junior coming in maybe a little different but you got to be prepared to consider that in your four-year strategy.
+
+00:37:10.176 --> 00:37:38.624
+So it's like I can, you know, tell you, like Amber, for example, used her as an example. She rested after 2016 because that was the year she built for the Olympics and stuff like that, but was not selected for the team, was on the long team, but didn't end up going. But we trained like we were going because you don't know the last minute. So in 2017, she had a very, for her, a low training load, low CTL because she was ready to reset her goals on Tokyo.
+
+00:37:38.624 --> 00:38:02.192
+So we needed that little bit of recovery. She's a more mature athlete. That was really important that we built that in our four year cycle so we could get her out to Tokyo. And then the next three years had a progression in them that was not driven towards peaking that year, but was driven towards bringing it all into the Tokyo Olympics, which then, as you stated, you know, the pandemic.
+
+00:38:02.192 --> 00:38:30.576
+added an extra year. And we really had to bob and ebb and weave kind of in our strategy to make that work because we didn't know if Tokyo was going to be canceled. It wasn't like we had two years of advance notice. You had two months, three months. So we had to really pivot through that year and rebuild for Tokyo. I think I heard a lot of eyeballs roll when you said rest because I harp on rest in this podcast all the time.
+
+00:38:30.576 --> 00:38:49.440
+And I think it still hasn't sunk in for some people. So take it from Tim, who is coached world champions. Rest is as important as the training. Absolutely. Couldn't agree more. It's so simple of a statement. We have this knowing to doing gap in cycling.
+
+00:38:49.440 --> 00:39:18.496
+Like everybody tells us the right thing to do. So we know it, but we can't always do it. So here's the knowing you get faster when you rest. It's true. You adapt in that type of process. You know, it is a big part of the mechanism. If you never rest, you are never, you know, you're never going to reach peak. That doesn't mean you can't get stronger and do a bunch of high intensity or whatever. It might work, but you'll never reach your peak. Well, so one of the other things I think I heard in you describing a four-year plan too is evolution of a plan.
+
+00:39:18.496 --> 00:39:47.824
+you know and one of the things that I wanted to ask you about evolving a training plan besides you know finding a place to start is when you think about looking back on the previous year or many years if you've coached if you've had privilege of coaching somebody for a long time I mean personally I think that is the best way to get the most out of somebody like I've worked with some athletes now for the entire time I've been coaching and I feel like I know those people the best I know what they need the best etc etc so when you
+
+00:39:47.824 --> 00:40:14.256
+Go to looking toward the future and you look at what happened in the past. How much of that evolution is random chance, like actual evolution in nature? You know, the blind guy wandering up the cliff, you know, looking for trees or whatever. I don't know what the metaphor is. I forget that one. And how much is like hard logical engineering?
+
+00:40:15.696 --> 00:40:45.248
+Training is easy. Physiology is hard, right? You hear that being said, and it's true, right? You know, you can come in, you can have your great strategy, you can apply training stimuli, you can rely on that history. The end goal we can do, the best thing we can do as coaches, and this is how we should use data, this is how we should apply training, and this should be how we encourage ourselves and also forgive ourselves, is the best we can do is increase the odds of success.
+
+00:40:45.248 --> 00:41:14.400
+right there is no perfect solution like if I was a great coach and I can make it work every time you wouldn't have athletes and nobody listening to this podcast would have athletes I'd have them all right and the reality is there is a certain amount of what you just kind of you use the word luck the this idea of data utilization building your toolkit growing both your expertise and your mastery all these things are just helping to increase the odds it's never going to be 100 you're never going to have the luxury of being like
+
+00:41:14.400 --> 00:41:43.248
+Cool. I implemented my checklist. My athletes, oh, look at her in the Olympics. Perfect peak. All worked out great. No way. It doesn't happen that way. You have to get lucky. And I'm sure you've been through this. There are so many times where you're like, you're totally like, am I going to get lucky? You know, here's the coach. Please come true. You know, whether it's you're asking for divine intervention or to get lucky or whatever, you've been there. But at the end of the day, good coaching improves the odds.
+
+00:41:43.248 --> 00:42:13.184
+better coaching improves the odds a little better, but you're never going to go beyond that just is what it is. Yeah. And I think one of the things that I've, I've told a lot of my athletes is I want your, your worst days to be better than they are now. And I want your best days to be consistent. And I think, I think part of that is, is important in, you know, learning to have consistent performances because when I consult with people and you consult with a lot of people too,
+
+00:42:13.184 --> 00:42:42.032
+One of the things that I see is one of the biggest impediments to good performance on race day is that somebody's best days are inconsistent. You know, it's funny. I would agree. As a matter of fact, in data tracking, when you think about kind of big picture view, I always find like if you track times of change, whether that's improvement or not, let's just say.
+
+00:42:42.032 --> 00:43:07.344
+You tend to see like this steady, like you look at data and like, look, things look steady, steady, steady. Then you tend to see time ranges of inconsistency. Obviously feels great. Amazing day, you know, crushes some great power numbers, does something, then really bad, then amazing day. To me, like that, understanding those. And then after that, there tends to be improvement and then improvement stabilizes.
+
+00:43:07.344 --> 00:43:27.184
+my personal opinion when you see that like I'm looking for an athlete who trains steady it's kind of what I call training rhythm I was talking to an athlete before you and saying we're on that rhythm right we want to stay on rhythm until it begins to get less predictable to it begins to become a little more good day bad day
+
+00:43:27.184 --> 00:43:47.840
+then we're going to push a little harder just to make sure we've kind of finished out our cycle then we rest and we'll let all that improvement come I think some of it is identifying patterns that for you as a coach or what I might use in that data I warn my athletes about that right off the bat like that's part of communication and data right it's not just saying hey we're looking for a power number of this
+
+00:43:47.840 --> 00:44:11.328
+it's let's understand how training cycles go let's say you know and we all do it you get in a training cycle and like man the first week first couple of days hard to get started you're not feeling great then you have that awesome middle phase where you know you're kind of in the phase of resistance and you're in your gas if you know what that is and stuff like that and it's like I feel great and then towards the end it's like good day really good day bad day good day bad day
+
+00:44:11.328 --> 00:44:37.568
+Koli, what's going on? I'm good yesterday. I had the best day ever yesterday and today I feel like total do. And that's often when that person's getting really to that phase of exhaustion and they're right on the edge and it predicts some potential change. I think you've been reading my texts as well. That's what that is. It's totally in there. Just live with it a little bit, right? Now don't keep doing it. That's telling you something, but yeah, it's absolutely predicting change and hopefully good change.
+
+00:44:37.568 --> 00:45:07.392
+Yeah, I mean, that's one of the things that I tell people who do get into that rhythm is, you know, at some point, you know, this should be a signal to you that you need rest, and some of them are loath to rest. But, so, I think one of the most interesting things about your coaching philosophy, like, in light of data, which is, you know, kind of why this podcast started, we were like, man, we should talk about
+
+00:45:07.392 --> 00:45:32.336
+How to Use Data in Coaching. I think you're always saying, like, your phrase is, the reality is. And I don't think I've ever heard you talk for more than like five minutes without saying it. And I think, you know, in one way, you know, it's like, oh, is that like a, you know, like a...
+
+00:45:32.336 --> 00:45:57.520
+you know, pausing for time or something like that is one of those things but I think you mean it I think because when you say the reality is what you're saying is pay attention to what the reality actually is instead of thinking that something else has the answer there's a relationship between the data and the reality is what I'm hearing.
+
+00:45:57.936 --> 00:46:23.072
+Absolutely. You know, you go back to this idea, and I've said this a lot, and you and I have had the same discussion. When you think about coaching with data, so let's shift more and talk about that application of coaching with data for that answer. It's like you have this idea of the art and the science, right? And using data as a tool, and science and data are often associated together. And that's true when not always true.
+
+00:46:23.072 --> 00:46:51.504
+but you have to have both art and the science and as a matter of fact the way I've been rephrasing that we're in a phase where all our own coaches are going through training as we get ready for our new big year and everything else and it's like I'm really going back to this idea of expertise versus mastery like we need expertise we need knowledge we need to understand the science we need to understand the data we need to send whatever but we also need mastery we need to know how to apply that we need to know the reality of what really happens on the road.
+
+00:46:51.504 --> 00:47:13.760
+and it's that mastery that if you're such an expert right you're always totally focused on the exact science the exact application I see this happen on the internet all the time and I got to be honest it's why I don't post as much anymore and I just stay out of the fight of it because I don't see it like everybody sees it and I don't want to jam my opinion down everybody's throat but here's the thing right like
+
+00:47:13.760 --> 00:47:39.168
+that reality like what really happens in the road you could say I use software x y and z and it tells me that I'm exactly in this shape and this is exactly my number and I need to go out and I need to do maximal aerobic power intervals at 312 watts and then I see and people will say and long they'll spend hours arguing that out is it 312 or is it 318 is it this day that athlete
+
+00:47:39.168 --> 00:48:02.816
+in reality, right? They go out in the road and they're going to do five of those or seven of those or whatever the number is. And they probably won't hit that exact watts on any of them in any given way. And there's so many variables that can impact that athlete. It was really hot. They didn't eat well. They haven't slept. They're overly fatigued because they're not in a good training rhythm. What happens in that reality, right?
+
+00:48:02.816 --> 00:48:32.064
+that's what really matters and that's the art and science that's mastery and expertise working together you have the knowledge of what should be so you can help target you can give guidance right but you need to know that's that's expertise the book says the science says if you are somewhere at about 105 to 120 percent over threshold you are probably if you're the average human being stressing that you know max aerobic power you are vo2 max I hate using that as a training zone.
+
+00:48:32.064 --> 00:49:00.288
+and it's like okay so that's not a bad start but at the end of the day what happens to that athlete can be so varied off of that as a coach I wish people would more invest in managing that reality with their athlete what's really happening in their training and on the road Coggan had you guys did such two great podcasts it was great to listen to him and Coggan had this early and it's always been his vision it's descriptive
+
+00:49:00.288 --> 00:49:29.072
+Like if I was to take one of his phrases and just like tattoo it on me somewhere, all this stuff was meant to be descriptive and then challenge you to think, improve, analyze. We've made all data to, and now the need for data to solve this problem, we want it all to be prescriptive. Your mastery coupled with your expertise, right? Your art and science of coaching, that's prescription.
+
+00:49:29.648 --> 00:49:59.296
+using the stuff that's out there using the information to look at that you prescribed it and then did the athlete accomplishment accomplish it what were the variables where did they miss why possibly did they miss you're constantly in diagnostic mode in the description that's where data and data analytics have its real power and if I could go back and do WKO differently I would have made this like when you load it it would have come up and it would be on top of the thing and it would have been I would have changed certain things
+
+00:49:59.296 --> 00:50:18.752
+that we did to not encourage that I want everything prescriptive and encourage people to be more descriptive. Do you think that's one of the biggest challenges for people in the last like 20 years with the data explosion is managing what the data actually means? I think that's...
+
+00:50:18.752 --> 00:50:43.888
+You know, and it's like, I'm not blaming people in that in any sense. Like sometimes you say something in a podcast and people are like, that son of a bitch, he just said I'm not at all. What I'm saying is, because we've had so much data come to the world, the data has become the solution. And that's bad. That's a bad way to go, right? Data, you know, here's my number one rule of data usage. Data helps you make better decisions.
+
+00:50:44.176 --> 00:51:13.872
+End of story. Put a period on that and forget about it. That's everything. All the answers there. When you leave that realm, you're probably not using data correctly. So what is the inherent limitation in data where the data cannot be the decision? That's a hard question to answer because you'd have to have like a ton of different levels. So one of the things you'd said in the question earlier, like if you wanted to go to AI or machine learning,
+
+00:51:13.872 --> 00:51:39.456
+Why can't a machine tell me the perfect training? I've got all this data. I'm wearing an HRV monitoring device. I have a heart rate monitor on. I have a stride pod on my foot. You've got your moxie. Yeah, you've got like five kilos of extra stuff on. In the real world of machine learning and AI, and this is just perspective, and this is a fortunate perspective I have from where I came from pre, that's not nearly close enough.
+
+00:51:39.456 --> 00:52:03.264
+to predict. It's not nearly as much data as you would think. There are so many more variables that AI can't measure yet, and they're trying, and it's great, and it's interesting to see progress. And when you see Garmin trying to find out hydration status and things like that, I mean, they're trying to reduce, but these systems, even with mixed devices, and it seems like so much data, don't have enough data.
+
+00:52:03.264 --> 00:52:32.400
+to create true AI solutions. They don't have all the variables, as you'd like to say, in data. And that's true. So you have those limitations of data. Now drill that down into like everyday uses of data. You know where that gets gray and fuzzy is in reality. You know, it really is, right? And then because then it traps us into overthinking, over precision, over whatever. I mean, you can go out and just have a really bad day doing intervals and you can't hit power because in reality,
+
+00:52:32.432 --> 00:53:00.272
+So you just have a lot of other stress going on. You have different things. So it's a tough question to answer because it's such a broad spectrum. Well, so that makes me think of the other thing that you always say, which is data science leads to decision science. So how does the science get involved here? Because deciding things is hard and looking at data is hard.
+
+00:53:00.272 --> 00:53:26.528
+My first thought is I always go to, well, I should have an idea of this already. Like I should already know what I want to know when I look at the data. Like somebody says, I'm tired or this was the bad day. I go look at the data, but I also ask them even before I do that, how'd you sleep? Have you eaten enough? Are you stressed? That kind of stuff. I think part of the thing is what we would define as science, right? You know, it's like...
+
+00:53:26.528 --> 00:53:52.864
+one of the things I do with my athletes when I am looking at athletes it's like I have a little score I keep I won't tell you how but I call it the stress budget so I'm literally looking at what their life is like what are they going through you know and not data hard data metrics for all my pro athletes you know we're measuring sleep I do believe in collecting a fair amount of data as you can imagine but I'm not always using it exactly like people would think but I want it there when I need it but I'm also collecting that soft I'm
+
+00:53:52.864 --> 00:54:22.432
+creating this like stress budget, like how they operate, what they do. And in the end, it's like that combination, the science, the data, because of where we're at with devices, we think science and it's all just a hard data. It's a hard fact. So I'm collecting that information. There's a relationship to science. Then I'm looking at that, like you have data, data should always lead to a hypothesis, not an action.
+
+00:54:22.432 --> 00:54:49.648
+first have a hypothesis first say wow I see a bunch of data and whether you're being diagnostic or you're looking to optimize or whatever you're doing you have to look at the data and say I have a hypothesis wow this data tells me this trend or this should happen or whatever that then should be compared to the science enhanced by the science validated by the science or disproved
+
+00:54:49.648 --> 00:55:16.592
+by the science. Like if I would look at a bunch of data and I'm like, I have this hypothesis. If my athlete trains super high intensity, seven days a week, they're going to get faster. And I'm like, I know science might or might not agree, but I don't care. That's a really good hypothesis. The data tells me it does. And I go and apply it. And then the athlete gets faster for the first two weeks. Right. And I'm like, yep, my hypothesis works on the shoulder, but eventually the science catches up.
+
+00:55:16.592 --> 00:55:45.216
+So the reality is, right, the science is kind of the pool that you're making the decision-making process in. In this case, I mean like literally like a swimming pool. No, it's the banks of the river. It's the controls. But understand within that science, there's more application wiggle room than people might want to fully acknowledge. How do you mean that? Take certain studies, right?
+
+00:55:45.216 --> 00:56:12.656
+Pick a topic. I could probably find five studies that prove that topic works and five studies that disprove that topic works. So pick your poison, right? But what I tend to look at is you have to know the knowledge that's in there. Read those studies. Learn what they did. Look at elements and form an opinion. God, they were testing that wrong or that's a bad study. And I think probably right now, because I see so many people who throw, like, I appreciate you do studies and then you'll talk.
+
+00:56:12.656 --> 00:56:41.072
+talk about it. Like, here's what was in here, or here's what you need to know. A lot of people read those studies, jump to the conclusion and go, yep, I believed that this was accurate. Now I know it is, which is the worst thing you could say. If you're starting in your brain with, I believed it, that's bias, right? And data should help us remove bias, not enforce it. So I think people have to look at what they learned from these studies and still understand that there's wiggle room. And that doesn't mean, you know.
+
+00:56:41.072 --> 00:57:10.560
+just throw it away. It just means understand that there's some, so you're applying it like any other tool. Well, and you know what's funny about you mentioning the podcast breaking down the papers is that a lot of the time, one of those podcasts breaking down one paper leading to one actionable conclusion is actually the sum of me studying and reading for 10 years. And like the last Wattstock episode on
+
+00:57:10.560 --> 00:57:38.544
+on endurance. You know, we only looked at like one or two papers, but we referenced like maybe four or five. And in reality, I read like 50 and like two textbooks leading up to that episode. And it's the summation of a lot of things. And the idea that one single paper has all the information in it is usually incorrect because it needs to be taken in context with so much other stuff.
+
+00:57:38.736 --> 00:58:04.480
+and I think it's interesting uh the way that people use science too because I think a lot of coaching practice is science in itself like I have a hypothesis about this person does better doing 15 15s than steady 20 minute efforts like let's try this out for a couple weeks and see if we do indeed get better at and then we're gonna have like it's like it's like you know you develop hypothesis you
+
+00:58:04.480 --> 00:58:29.008
+control your variables, then you test it on the other side, and you go, well, does this work? This does not work. And, you know, coaching itself is that. It is an empirical science as much as, you know, we like to think that we can just lean on peer-reviewed studies all the time, right? Yeah, I agree. You know, and I'll add one point to your statement, and it scares me these days, and it's been going on for like the last four out of five years.
+
+00:58:29.008 --> 00:58:58.416
+when you look at studies and here's something for the self-coached athlete who's reading a lot of these studies or coaches who do that be careful of reductionism like one of my complaints of what's happening in endurance training science and all these papers because it's so easy to publish papers right now the barrier is a little lower and that doesn't mean there aren't plenty of great ones out there but just know the barriers are a little lower you need to be a little more thorough in your vetting of those papers you know it's
+
+00:58:58.864 --> 00:59:16.976
+you this reductionism you're you're a human being right and and a training human being think about you the athlete us the athlete right we still ride when we have time and do our things right it's a complex system and that complex system fitness isn't just
+
+00:59:17.136 --> 00:59:39.984
+an improvement in metabolic fitness. Fitness isn't just an improvement in cardiovascular fitness. Fitness isn't just improvement in neuromuscular capability. You also have other systems playing in the game, endocrine system, you know, nervous system, all these things working together. But what science is doing more and more, I shouldn't say more and more, it seems to have leveled out, is over-reductionism.
+
+00:59:39.984 --> 01:00:09.856
+bringing something down to some tiny point trying to take out all that and then they post like this is here's my paper the paper is the answer unlock all the secrets to your training to do this one thing and then when you go to reapply it back to the system that might be totally irrelevant or totally non-impactful you still have to understand somebody broke down that entire system is looking at one tiny little thing and then you have to look at how that might learn from and what you just said that as you know is always
+
+01:00:09.856 --> 01:00:39.776
+great wisdom from you is you did all you looked at it all you went beyond just once you read the textbooks, you looked at multiple studies. So you didn't come away saying this study taught me that you created knowledge, self knowledge, you learned, right? And so does this apply? Can I improve my ability to make a hypothesis? And what does improve my ability to make a hypothesis and then implement it? You're trying to improve your odds of success using the science, not taking the point from this reductionism science and saying, aha, now I have the secret.
+
+01:00:39.776 --> 01:01:07.728
+Yeah, and the reduction of science is important to do to understand how these systems integrate, but I'm always thinking, how does this compare to what reality is? Correct. And so, okay, so talking about data, thinking about data and data management, so WKO4 and WKO5 have been big pieces in the cycling world for, I don't know, when was WKO4 released, like 2015, 14? I think it was 14, yeah.
+
+01:01:07.728 --> 01:01:37.024
+What is WKO? But probably more importantly, what isn't WKO? Great question. Let's start with what it isn't, because that's probably the easiest, right? It is not a training solution. It is not a training plan. It's not a training strategy. It's not a path to fitness, right? What it is, is an analytics tool. Like if I give you the book answer, right? It is the only analytics engine specifically built for endurance sports.
+
+01:01:37.024 --> 01:02:04.880
+I think that's what it says in the box. Remember old days when we'd get software with the CD? That's what we would have put on the CD. That's what it is. But what it is, it's a support mechanism for you to use data, data analytics, modeling, and information as a whole because there's a lot of soft metrics that you can track in WKO that people don't choose to and they should. It's just a tool for you to look at that.
+
+01:02:04.880 --> 01:02:32.368
+and this is an odd way to explain it and save you a lot of time. So when you begin to think about analytics as a whole or predictive analytics or all these fancy analytic words that you hear, you could like think about without software and your athlete was generating files. You could just like print each one out, right? And spread them all over your office and you'd have like 500 pieces of paper and you'd file. All analytics is doing is compiling. It's looking at all that data. The computer is looking at all that data.
+
+01:02:32.368 --> 01:03:02.256
+It's following a set of rules to make that easier and easier until eventually you, the end user, can consume a large pool of data in a few key points that you're looking for. And a few might be 20, 30, don't get me wrong, but it certainly isn't 500 pieces of paper overall. So it's a tool to do that. It's a tool to help you learn, maximize your time efficiency, give you an output of data that is meant to be actionable to you.
+
+01:03:02.256 --> 01:03:31.952
+and actionable in the sense of, you know, it's funny the way I always say, it starts the decision tree. Should I do this or shouldn't I do this? You know, you can start with that one as a big, you know, decision tree. And then more data will let you get further and further down. End goal of all that analytics, you improve your odds of success. That's where data lives. That's where WKO was designed to do. And we wanted to do it in a user compiled way because we didn't want to say, here's our analytic.
+
+01:03:31.952 --> 01:03:59.312
+We wanted you to think what was important to you. And so one of the major features of WKO is the PD model and the PD metrics. So what is the PD model and the metrics? Because we all know MFTP, TTE, FRC, yada, yada, yada. So beyond the textbook definitions of what are they,
+
+01:03:59.344 --> 01:04:28.048
+So what are they and what can we think about them as we train? So you got to go back a little. This is going to be a little bit of a longer answer. You go back to this idea that one of the underpinnings of WKO as a whole was the F in FTP. Like Dr. Andy Coggan, you know, he had a vision of making things function when I actually think he was genius at it. I mean, clearly, I mean, I've worked with him for years and stuff like that because he was, he's very smart.
+
+01:04:28.048 --> 01:04:51.920
+As you know, you know him and you've done some podcasts with him. He's very smart and he's very strong in his opinion and is committed to his science and his craft at a very high level, more so than probably most people would even guess. Yes. But that being said, he had a really good mind for saying, I just want the everyday rider to be able to use this. Like, it's not going to be perfect.
+
+01:04:51.920 --> 01:05:19.312
+map is not the territory, right? It's going to be something that will allow somebody rolling around with a power meter to make much better decisions about training, whether that's their coaches making the decisions or they're making the decisions. And when he looks at all the complexity going on in that noggin of his, it wants to come out in a functional format and he understands the science really well and he wants to push out. So then as we were looking at WKO,
+
+01:05:19.472 --> 01:05:48.672
+He wanted to do a model, you know, and there's models, let's call them human performance models. And the problem he was given to solve, remember how I talked about data earlier as the product leader, my job was to create the problem statement, use the team, work with individuals, create the problem statement was, you know, not how do we predict somebody's FTP off a couple of short tests.
+
+01:05:48.672 --> 01:06:17.536
+We wanted a human performance model that gave us information back about that performing individual that allowed us to further individualize their training. Not by telling them what to do, but giving them a series of data points that will give them insight to the response to what they've already done. I, I'll take, once we launch that.
+
+01:06:17.536 --> 01:06:46.912
+It immediately became something else. And I was like, I remember like the first 30, 60, 90 days that W came out. I kept, I'm on the internet. I'm everywhere like, no, no, no, that's not it. That's not, because everybody went, it's another CP model. It's predict, it's its own, its only focus is predict my FTP. We wanted to functionalize the ability. We never predict anything. The power duration curve is not a prediction. It's a human performance model that's insight into the why or the response to exercise stimuli.
+
+01:06:46.912 --> 01:07:12.096
+and it does so in a series of physiological metrics it puts out data like PMAX and MFTP and others you can utilize and kind of you know hone from it FRC or whatever we do like to re-term things going back I wish we would have used more common terms but that is what it is so in the end of the day we just were looking again to make the coach or the self-coach athlete we wanted to save them time
+
+01:07:12.096 --> 01:07:41.456
+we wanted to make their job easier we wanted to compile data and say here's usable actionable data for you to use in coaching but early on as is always kind of unfortunately the downside of these things it became the people's desire to have a training system be to hold what to do within the process tried to morph it into that and it was never meant to be and then people said it's wrong because it doesn't predict my FTP and it doesn't do this and it doesn't do that I understand everybody has an opinion I use it every day
+
+01:07:41.456 --> 01:08:03.824
+It helps me understand, you know, in the absence of a lab, obviously working with professional coaches, I do spend a fair amount of time in labs, particularly, you know, this time of year and stuff like that. And it's like, I know the model tracks pretty well. But once we get going in the season, I mean, the model is a nice way. It's very functional. It's exactly what we want out of it. So long answer, short question, but that's what we built.
+
+01:08:03.824 --> 01:08:32.144
+Well, from my personal experience working with it and coaching with it, it actually did change some of the ways that I approached coaching because when you assign workouts in a certain way that doesn't show improvements in the model, like if I've got a rider, for instance, who's doing like, you know, six, seven hour rides and he's doing like, you know, 60 to 80 minutes of FTP work through that ride, something like that. The model doesn't really show.
+
+01:08:32.144 --> 01:08:58.895
+like the TTE going out or anything like that. But if somebody is doing a two-hour ride with that much FTP work, it will show a response. And so that makes me change my game up when it's like, okay, the model doesn't show if any improvements have happened the last two weeks. Like, let's get you to do an effort that might show us if these things have indeed been effective or if you're tired or whatnot. So it really changes the way that I see.
+
+01:08:58.895 --> 01:09:28.880
+you know having to test people for instance is like is the training being effective it should show up in the model and if it doesn't I want to know why well you just said something very interesting about what I've been saying about analytics how you're taking all this data right you're shortening the time you're saving the coach time we tend to think about just our time like working time one of the things we wanted at the power duration curve is to shorten the time range that we can see impact of you know we're applying a training stress and stimuli
+
+01:09:28.880 --> 01:09:56.672
+if we have to wait all year, right? Get up, you write a clear plan and your plan says, I'm going to make you, I'm going to take you from 300 to 350 FTP and you're just so set on it. And then, you know, that's six months, eight months of training and you get at the end of the eight months and you're like, nope, we didn't get there, right? You don't learn if you have that long of a runway. You said the key, right? The model helps you, one of the keys, the model helps you because it's an analytic. It's not a predictor.
+
+01:09:56.672 --> 01:10:22.768
+It shortens the range of time you see that change or maybe don't see that change. So you as a coach, it's shortening your cycles of improvement and optimization. It doesn't say, hey, Coley, you're 38 days in and we're not seeing change. You see that and it doesn't tell you what to do, but it warns you. There's an alert. There's a signal. You're learning something 38 days that might have normally taken you 90 days to figure out.
+
+01:10:22.768 --> 01:10:48.288
+and we're oh yeah we're seeing change I'm on the right trend that's validating my direction where we see no trend my hypothesis which or we see no change my hypothesis was I'd probably be seeing change by now that forces you into a re-evaluation cycle much faster that combination is where analytics makes you a better coach it doesn't tell you what to do it doesn't give you the absolute solution but it shows you
+
+01:10:48.288 --> 01:11:16.816
+it saves you time it shortens it compacts the time range of which you apply your coaching knowledge yeah and it doesn't just have to come from the PD model is is what I learned early on is there's so much data in there you can compare any two three four whatever data things that you want next to each other you can graph them over time like I want to see I want to see 20 minute power versus how much sleep somebody gets on an average week like I haven't even
+
+01:11:16.816 --> 01:11:46.768
+I haven't even looked at that one, but I'm sure it would tell a lot of people something very interesting. You could do it. And I bet you, if you had enough data in there, it might show you a relationship. I would tell you there's one. Science would tell us there's one. Yeah. Okay. So let me ask you this the way that a lot of other people might ask it. Why hasn't the WK05 or 405 model, the PD model, why hasn't it been scientifically published and reviewed for validity?
+
+01:11:46.800 --> 01:12:16.320
+That's a great question. And it's funny, I always answer this question very honestly. And then people are like, aha, we got no one. I don't want to put words in his mouth. But when Dr. Coggan, when Andy created the power duration model, it was effing functional, meaning it wasn't meant to be something that was like, okay, we're going to run it down the science and whatever, because his my vision.
+
+01:12:16.320 --> 01:12:45.008
+because I fully agree with him. And maybe I learned it from him. Maybe I heard what I want to heard, but I don't want to put him on the spot. My vision is, you know, it's like the reality is it was vet. It was tested against, you know, a lot of high quality data. We did do the research. We did do the things we need to do. In the end of the day, if it works in the field, that is what we really wanted. Then you're like, well, yeah, Tim, that's not good enough, which is kind of fair enough. We are not stopping anybody from
+
+01:12:45.008 --> 01:13:14.752
+testing. I mean, there's plenty of people who have tested out there. There's 10, 12 good studies on his original concept of functional threshold power. And guess what you get? Like half of them say it works or 20% and 95% of 20-minute power works and this one doesn't, whatever. And there's a certain amount of that. Why do we not put the model? Originally, we didn't put it out because it was a human performance model. There wasn't things like that quite in the marketplace at that stage.
+
+01:13:14.752 --> 01:13:43.936
+go back to this idea like a PMC and these are just the honest answers it's like every we did a PMC everybody copied a PMC like Training Peaks had it it was a great piece of intellectual property it was you know really interesting way to think about it now everybody has some form of a PMC so the goal was originally was just to slow the copy cuts down a little bit and that's going to happen and honestly I've seen people in software get really mad like somebody's copying us and I'm like
+
+01:13:43.936 --> 01:14:08.032
+It's going to happen. I mean, because we didn't own the idea. We didn't create the idea of human performance models or power duration or whatever and just face it. But we needed to slow that down a little bit. We found the WQO legs. Now the simple answer is the model's been broken. It is a regression model that confused people for a long time. You could look up regression models and figure out what that means. It is a multi-parameter model.
+
+01:14:08.032 --> 01:14:37.712
+the secrets of the model has been broken and published in places so it's out there already you know somebody wants to take it that is the model final answer is we believe it's been validated across enough big data that we're okay with it as an answer and we're not telling you to use it it's not like our system only works in this like I literally run the power duration model and I have two versions of the critical power model
+
+01:14:37.712 --> 01:15:01.568
+as part of my analytics. And I'll use all three. There's multiple tools. So you have that same option. So in the end of the day, it's like we just didn't feel compelled to do it. And I know that's like a pretty lame answer. And we're sitting here in the same boat. It's like, yeah, it's like it wasn't meant to be game changing science.
+
+01:15:01.568 --> 01:15:27.952
+even though I actually think it is I think Andy nailed it he got it pretty right um you know and it was uh it's a pretty complex thing to have brought that to life and I think it's got a fair amount of validity but that's where we left off it's you know what I could have answered that very shortly it was simply our philosophy that's what it really was it was our philosophy and how we saw it like wow you can say the same about training stress score you've we've always lived in that world
+
+01:15:27.952 --> 01:15:48.768
+Take it for example, how many people criticize training stress score, particularly right now? A lot. I'm going to raise my hand right here and say, see anybody doing anything better? I hear you, critic. I hear the critics. I get it. And they're often picking on things that we already knew that was the weaknesses in training stress score, but no one's put another answer out there yet either, right?
+
+01:15:48.768 --> 01:16:16.912
+There's a lot. And that's our philosophy. Simple, functional, F in functional. We wanted a functional model. You could pick it apart science-wise. That's okay. Don't use it. We wanted it to be something that the everyday person, the everyday coach, the everyday writer can use in a functional format. Testing it is a step. If Andy wanted to do it, I'd fully back him. I don't think he ever will. Probably not. Well, one of the other things that I personally like about the model
+
+01:16:16.912 --> 01:16:45.872
+is that if you have the right inputs, it is individualized enough. It controls enough for things like somebody's anaerobic capacity. I've always had a massive sprint, massive anaerobic capacity, and yet when I look back, it's not way overestimating my threshold power. Because way back in the day,
+
+01:16:45.872 --> 01:17:14.816
+I was riding with my threshold power overestimated by an average of 15 watts, but sometimes as much as 30. And I could do like maybe three by 10 minute efforts and I was dying at the end of it. And my coach was like, see, that's why you shouldn't do like a 60 minute time trial to find out what your FTP actually is because you're just going to recover for a month. And I'm like, yeah, I couldn't do that for an hour. That would be a big, tall ask. And so one of the things that I like about it.
+
+01:17:14.816 --> 01:17:42.144
+is that when you compare it to studies of model validations and you look at your 95% confidence intervals and you compare the two blah, blah, blah, you look individually at a lot of people, like they'll be way off like 20, 30 watts, but they're still in the confidence interval. And it's like, okay, close enough. And in a way it's close enough, but like my personal standard for
+
+01:17:42.144 --> 01:18:10.704
+having something that is much more accurate is it's got to be within 10 watts, ideally five. And I haven't run across any other system that really does it. Like one of my pro athletes, if we model his critical power, it's going to be 20 watts higher than what he can actually do for 45, 50 minutes. And so I think I like it.
+
+01:18:10.768 --> 01:18:39.936
+probably the best for that reason is that it is so functional that whenever I give an athlete a test, the model doesn't usually overestimate or doesn't underestimate. Actually, here's what I want. I want an option to go back to the WKO 4 PD model in WKO 5. I want to be able to flip a switch and have the model change because I like the WKO 4 one better personally, but I know why you did the 5 one.
+
+01:18:39.936 --> 01:19:07.632
+Why did the 5 change? Why did the model change? Because if you compare the two, although I actually just tried to open up WKO 4, it asked me to log in and it bounces me back. I can't even get past that dialogue screen. Because I wanted to check, okay, what is the difference in these two models side by side? I couldn't get in there. So why did the model change into 5? What was the big difference? What was the driver of that decision?
+
+01:19:08.336 --> 01:19:37.792
+That's a tough question, and I can imagine where that question came from. A lot of discussion with other coaches and friends and whatnot. Well, you know, it's funny. If you actually compare the two, I bet you wouldn't see it be more than a couple of lots different. It's a hard question to answer. Well, let me mention the biggest observation I have is the TTE shorts people.
+
+01:19:37.792 --> 01:20:07.648
+in the five mile by like five to 10 minutes a lot of the time. Like we'll see that MMP inflection point out there and then the models over here because it's looking for a tighter interpolation around like 20, 30 minutes or something like that. Yeah, there's a complex mathematical answer in there. So all models have parameters. And when you think about these parameters, the parameters are meant to align.
+
+01:20:07.648 --> 01:20:36.192
+the PD curve model parameters are meant to align with certain things like output data that we want, which we tend to call metrics. It's not quite that neat and clean, but that's a simple way to do it. So we look at this output data of Pmax, right? That would also, it would be safe to assume that might be a parameter of the model. That being said, TTE, certain TTE and stamina.
+
+01:20:36.192 --> 01:21:04.816
+are not a model parameter. They're a model calculated result. So they're slightly more sensitive to slope or change than the actual parameter because the parameter is one of the parameters of a model. See what happens when you build a model, right? If you have too few parameters, the model's really fast. You can generate it quick and do a lot of things with it online and stuff like that because it's not crunching a lot of data, but it tends to have a high
+
+01:21:04.816 --> 01:21:31.936
+higher inaccuracy. So if you had a two-parameter or a three-parameter model, three is more common, two, and why the original CP models were eventually corrected, because they were two-parameter models. But the inverse is also true. You can over-parametize a model, and you would think more parameters would be better, it would be more accurate, but it's not. If you over-parametize a model, you have a hard time getting known as, you know, getting...
+
+01:21:31.936 --> 01:22:01.792
+in this case a fit like a good appropriate fit because you have too many parameters you're trying to solve too many items for that model to actually be a model so um we we literally worked with a prominent university to do the math like Andy wrote the model but he didn't do the math behind it he did to a degree but to actually bring it to life and calculations and stuff like that was hard um that model uh
+
+01:22:01.792 --> 01:22:30.768
+by the parameters, there was always a slight issue in the math. And I'm picking my words really carefully here because it's not that it was wrong because it can't be wrong because the model is a regression model. And it's the simplest term. The model does like a million options, right? And it picks the best fit. And impacting that fit is the way you look at those parameters, not necessarily driving the development of the model. So long story short is
+
+01:22:30.768 --> 01:22:58.800
+The model fits better as it is now to the parameters. It cleaned up a little bit of the fit math. So does that make it a better model? Maybe, maybe not, you know, because it's always you're literally talking about in thousands of observations less than a five watt change or four watt change at threshold at FTP or MFTP. But it cleaned up the model better.
+
+01:22:58.800 --> 01:23:28.192
+Has that had some negative connotation to maybe stamina or TTE? Possibly. But because there aren't parameter built, those aren't parameters of the model, we can't use the model to test it out as well. Like if you look at, like we have error corrections in the model, you can look at your own error corrections. We can't necessarily do that for a TTE or stamina. And I will tell you to give fair credit, there are people who would say they want that old model back.
+
+01:23:28.192 --> 01:23:56.960
+It had other downstream effects that people aren't, you know, that would be more negative. It's a cost-benefit reality. So it's like, it's not like one was good and one was bad. That's the problem. It's not like WKO4. WKO4, if you wanted to look at the pure parameter, was a better model. And I'm going to end up going to jail for this. Where WKO5 is a more functional model.
+
+01:23:56.960 --> 01:24:26.000
+But at the end of the day, what I want everybody to realize that's going to listen to this, you're literally talking about such a minuscule change that it's pretty small. Has that had impact on TTE? Well, TTE is a point of drop-off or inflection that has always been difficult to measure. There's a hypersensitivity to TTE and stamina because it's a measurement of trail data out beyond FTP.
+
+01:24:26.256 --> 01:24:55.728
+That makes a lot of sense. It's a lot of information to process too for me because I'm not great at understanding this level of modeling. But on the other hand, I think one of the things, one of the reasons that I ask about TTE specifically is because I harp on it a lot of the time because one of the functional parts of FTP is how long can you hold it? And this is one of those things that I've talked about in the podcast a lot.
+
+01:24:55.728 --> 01:25:25.696
+Maybe it's probably just me generating my own echo chamber with the podcast listeners because when they ask me, oh, how come the TTE isn't as long as it actually is, now I can tell them to go listen to Tim. Well, I would also be careful. Here's the problem, right? Your philosophy is 110% right. So you're out there preaching that. Everybody should be listening to you. I couldn't agree more. I would say the same things. Truly agree with the philosophy.
+
+01:25:25.696 --> 01:25:54.992
+The downside is you're probably picking the trickiest thing to measure in a human performance model, right? It's just because it's not a parameter that can be tracked and it has to be measured based on the drop off of power. It has to be measured on you're really looking for a super subtle point of inflection. And that is tricky. Like you could talk about like a concept like decoupling.
+
+01:25:54.992 --> 01:26:24.080
+right so I can look at a power and heart rate and I can look at somebody riding for four hours and if you're pretty good you know what you're looking at you're like yeah look I can kind of see it here and then they really decoupled at this point finding TTE in a human performance model is even more precise than that and it's harder um it the second problem in TTE is a lot of athletes and I don't know any of your athletes they don't have enough long
+
+01:26:24.080 --> 01:26:48.720
+harder data to really get that slope pulled correctly. Well, that was one of the things that I changed about the kind of testing and training that I was having people do. Because initially it started in like 2014 with starting to give people long threshold intervals going, oh, well, let's leave this open-ended. How long can you hold this?
+
+01:26:48.720 --> 01:27:15.856
+and then I had to learn how to tell people when to stop because fatigue at that point is also very you know subjective like I could have got another five minutes could have got another ten minutes I might have been able to do two I think I went a minute too long did I actually fade here like there's there's that aspect of fuzziness to it but then in terms of like regular training you know if it's it's funny because
+
+01:27:15.920 --> 01:27:45.488
+And this is another one of those things that made me question, like, what are my own methods? And, you know, is this even effective? So, like, when I started giving people, like, longer sweet spot efforts, like, because I started getting them myself as an athlete from a pretty good coach. And I was like, okay, I had this amount of stimulus. And then every week, I saw my power output going up. And I went, okay, this is effective. And then looking back in the WKO4 model, I saw that and I went, wow.
+
+01:27:45.488 --> 01:28:12.192
+this tracked my fitness change this is fantastic and one of the things that I see with people who I consult with is a lot of the time they don't increase that stimulus and so one of the things that that model made me think about was things like progressive overload and made me really really think about it more and you can harp on that all the time in your webinars yeah you know it's right and and I'd even caution you right in the sense is like
+
+01:28:12.192 --> 01:28:42.096
+What do you really want in the sense is, you know, you know, you understand the science, you've been doing this for a long time. The idea, the science of progression, progressive overload is probably, you know, like a top three, the progression principle and exercise physiology. Like if you're a coach or you're self-coached athlete, that must be applied to you, whether you're applying it to you or your coach is applying it to you. If you don't increase the stimuli,
+
+01:28:42.096 --> 01:29:11.440
+you don't increase the response I mean at a certain point like I've been laying on the couch for six months and I start riding four hours a week I'm going to get a little fitter but at some given point you have to begin to progress if you want responses to go always forward so that's where you see the science of a principle right exercise physiology principle in play now the other side of that is the mastery right the art because you can overuse that science and actually produce worse results
+
+01:29:11.440 --> 01:29:40.992
+do it seven days a week it is always its simplest example right fatigue overwhelms you the cost of the benefit you're searching gets too high so we always have to use the art and understand that that science fits within you that complex human being that we're talking about it needs to be placed in that human being in a way where you're utilizing the data right to better understand are they responding can I get more can I improve can I optimize this training that's where the analytics support it but at the core
+
+01:29:40.992 --> 01:30:06.640
+You, the coach, need to understand the driving science. Progression is important. Everybody who's listening, check that down. One, progression is important. Okay, right? But then how to apply it? How frequently? How much is that progression? When is enough enough? All those things, that's the art. And that's where data we get. Here's my simple prescription. Find out what they can handle today.
+
+01:30:06.640 --> 01:30:34.592
+Add a little more the next time and add a little more the next time and add a little more the next time, right? Don't overthink that starting point. Watch what they do today. Watch what they do the next time you do that. Then start bringing analytics in. What am I seeing? And analytics can be simple observation. Oh, look at their power and heart rate. You know, oh, they have some drift or they don't have whatever. You can start that simple all the way into complex. But use the data, use what you know to start. Then start going down that road. Then circle back.
+
+01:30:34.592 --> 01:31:01.968
+and exactly as you said you're looking at metrics that you want to validate deeper that philosophy TTE change stamina change threshold improvement right and that all really depends on how you're managing training load intensity and distribution and and how you're managing that within the environment of fitness freshness kind of thinking you know like when am I building fitness when am I building some freshness all that comes into play.
+
+01:31:01.968 --> 01:31:27.136
+Yeah. And one of the other things I harp on with people is what is the mechanism? What is the driver of the stimulus? Because sometimes it's not adding more. Sometimes it's the intensity itself is the driver. Like I always say, like VO2 max is like lifting weights. The maximalness is the driver of the stimulus. And, you know, it's like you don't need to do, you know, if you start out with like, you know, three sets of five.
+
+01:31:27.136 --> 01:31:54.640
+over the next couple months, you can keep doing like three-ish sets of five. You might need to move on to four to five sets, but you'll never need like 20 sets. You'll never need 30 sets. And then the fatigue, all that kind of stuff, that's looking at the reality of things, how much rest does somebody need to see the improvement? Did we overdo it? Did we overshoot the mark? And now they're just coming back up to their previous baseline. Did we fatigue them too much? I'm sure you and I have both done that.
+
+01:31:54.640 --> 01:32:22.768
+Absolutely. No, you know, and it's funny. It's like, again, you're talking about the principle of specificity. So based in science, you understand the science, but then you're actually now saying these are the things I have to manage as a coach, the art, right, to get it all right. Science-based, good principle. Absolutely. We need specificity. We need progression. We need specificity. We need volume, load, all these things. You're putting it together. You know, that's the art of it all. Data supports all that and how all those things interact.
+
+01:32:22.768 --> 01:32:49.408
+We have tools to measure. We have tools to put a number. Like, for example, right? When you think about data, think about your performance management. We're talking about, you know, these metrics of fit or being fresh or whatever. So you have chronic training load, acute training load, and training stress balance, right? So you have these three metrics to measure. Those are like, it's just like a fancy thermometer. All it's telling you is like the temperature outside. Like I have a thermometer on outdoor one. It shows me it's 40 degrees outside. It doesn't tell me what to wear though.
+
+01:32:49.408 --> 01:33:19.104
+it doesn't say put on a jacket and a scarf and a warm hat because it's cold it just says it's 40 degrees these metrics that our people are using that's the temperature outside you have to decide how to dress what to put on what to make it work but as you get into analytics you're using the data in a more predictive way we can do a little better we can give hints and insights so like if you think about training one of the things I preach in our own coach like I said I'm
+
+01:33:19.104 --> 01:33:46.352
+We're retraining all our coaches for a brand new 2023 year and always has me all hyped up on stuff. So in reality, if you think about training volume, right? When you think about what you're training, you have volume and intensity distribution as a whole. At the end of the day, as a coach, you manipulate those two things together to produce results. The environment you're manipulating those two, what you're managing in that manipulation is fitness and freshness. When are they digging a hole? When are they coming out resting and adapting?
+
+01:33:46.352 --> 01:34:07.888
+Super Compensation, right? So you're always working in that environment. Here's a tip I'll give you. My super deep knowledge of 20 plus years of doing this. Training volume, let's assume all things are done generally well, just to avoid the later arguments, right? Trainer volume will dictate the depth or the amount.
+
+01:34:07.888 --> 01:34:28.544
+of something that you will adapt to. It's the amount you adapt. More volume, the more you're going to adapt to something. Your training intensity distribution, the specificity of what you're doing, that defines that adaptation. So everybody listen to that. Write those two notes down. Now you can be a great coach and do it.
+
+01:34:28.544 --> 01:34:56.576
+but that's parameters of wisdom I'm giving you right there because I'm telling you people come to me all the time like I want my super secret you know I want to be a pro I want to go cat one like six hours a week to train maybe if you're freakishly genetic that can happen but the end of the day you want to get people ask me all the time how can I get 20% faster train 40% more start with that right start with that volume dictates the depth how much you can adapt then what we put in there the content right
+
+01:34:56.576 --> 01:35:22.432
+that's the specificity everybody can walk away with that there it is there's training in a nutshell and then people who keep pushing back against volume I mean I'm not again remember my parameter you have to know generally doing it all right that doesn't mean you're going out riding hard five hours a day every day you have to do it under the right rhythm the right progression you'll get faster you want a big change it takes a big change you want
+
+01:35:22.432 --> 01:35:43.632
+20% growth, 10% growth on your FTP. It isn't going to come from just polishing what you're doing now by 3% better. You got to have a big change. I mean, I think that's what we're going to get hate mail about more than anything is right there. Because I harp on volume all the time. People are like, well, I can't write more. And I'm like, okay.
+
+01:35:43.760 --> 01:36:11.984
+I mean, you can substitute some intensity for the volume, but like you're saying, over the long term, especially when it comes to things like endurance, there is no substitute for the volume. Absolutely. I mean, and this is an aerobic sport. At the end of the day, the more you're focused on building that, everything will get better. It will. Trust me, it will get better. That doesn't make it the perfect specificity plan. That doesn't mean that's how you should get ready when you're peaking for your big event.
+
+01:36:11.984 --> 01:36:40.944
+but it should be a whole lot of work getting there it's all about that and you can you know it's you said one thing to add you I'm sure you get this question all the time well I've been training hard for five years am I at my genetic max and that person is training 10 to 12 hours a week no I would say you're at your training max if that's your real life balance and you've been optimizing your training pretty well that's probably as good as you're going to get at 12 hours and yeah we'll get some hate mail about that but also appreciate the fact that you're getting an honest answer
+
+01:36:41.008 --> 01:37:06.704
+because I could tell you, no, no, no, I can make you faster. Come and let me be my athlete. I'm going to charge you an exorbitant amount of money and I'll make you faster, but it's not likely to come true. Remember, it's never perfect, but it's not likely to come true. The reality is if you wanted that 20% step up, the cost, you as the athlete or the self-coach athlete is you're going to have to find time. And if you can't, be comfortable where you're at.
+
+01:37:06.704 --> 01:37:31.296
+that's okay too, right? It just is what it is, but you can't have like two totally competing goals. Like I just want that 400 watt threshold, but I can only get away and train 10 hours a week. Chances are those two are going to work against each other and it's pretty a rare human being that's going to get those two. Yeah. And I've had clients where I tell them, okay, we're just going to get you riding more. And they go, okay, is that going to make me fitter? And I'm like, yeah, watch.
+
+01:37:31.296 --> 01:37:59.504
+Absolutely. Six months later, they're like, oh my God, I'm fitter than I've ever been in X decades. And it's like, yeah, I know. I told you. Okay, so I have one more thing. We'll do a couple of listener questions real quick. One of the things that I've gotten into arguments with people about is more threshold versus more TTE. Now, if you don't know anything about the person, you don't know anything about the event,
+
+01:37:59.504 --> 01:38:27.440
+which would you rather have 10 watts more threshold or 10 more minutes TTE? No brainer 10 watts more TTE you want the time look if you do and you analyze a lot of data particularly at higher levels of racing and I don't know pick a number cat two and above that ability to sustain power to resist fatigue to hold a set power longer
+
+01:38:27.440 --> 01:38:52.560
+absolutely more directly results to performance. Write that one down too. But here's the point, right? And I think this is why people don't understand when you say that well enough, this idea we're training with power has made the goal power. Your training goal is not power. Your training goal is performance.
+
+01:38:52.560 --> 01:39:14.960
+Power is a uniquely well-suited metric because it's actually the definition of how quickly you can get from one place to another. If you start thinking about what work is and what power is really saying, that power, because power translates to velocity, what you really want is velocity. You simply want to get from one point.
+
+01:39:14.960 --> 01:39:38.352
+to another point, either in the fastest time or faster than all the other people. That's the end goal of training. The problem when we want to break things down, because what I see when you're having that argument is it's an argument of yes and no. When you really need to go beyond that, it's like, I've seen you ask it and I ask it all the time and I get in trouble for it. Well, what do you really want?
+
+01:39:38.352 --> 01:40:05.392
+and they're like well what do you mean what do I want I want more power more no but what do you really want you want to win the race right you want to perform better and performance isn't just about that power number it's a whole broad range of things but get at the core that power number is a pretty big driver don't get me wrong but you want to be able to translate it and performance in a and and this comes back to why you and I've said it all my life right it depends performance requirements in a 45 minute local crit
+
+01:40:05.424 --> 01:40:26.064
+or a four hour, five, six hour classic or a seven or 21 day stage race. Those are dramatically different games, right? And the output might, the easiest language we can talk about those is power. What is FTP? But it's probably the least one that...
+
+01:40:26.064 --> 01:40:55.984
+It's the one that hides all the nuance across all these specific demands. There's a lot more nuance than just the number, but yet the number is such an easy language, we tend to always use it. Well, bigger numbers are better, right? Yeah, more is more. Yeah. Well, you know, it's funny because I had this discussion with Corey when he was training to set the American 40KTT record. You know, he was like, well, why don't I just get 30 watts more FTP? And I'm like, that is like probably years of work.
+
+01:40:55.984 --> 01:41:24.016
+but I can get you 25 more watts of TTE this year and the difference in performance is gigantic. Yep absolutely and you know it's funny like one of those things I was just having this conversation with somebody a couple of days ago a professional younger pro rider trying to live the dream and it's like well why you know we're having this kind of same discussion about this idea of better durability and repeatability better TTE and all these things and I'm like
+
+01:41:24.016 --> 01:41:51.600
+and he raced in Europe last year for the first year and I'm like what happened to you in Europe and he was describing basically what happens to every younger pro that goes to Europe and they sat in the back they couldn't work through the peloton the smackdown went down and they were like holy shit everybody in Europe's really fast yeah there's what racing in Europe is like good summary right we were on roads you know 10 feet wide and it was crazy there's the final step but the reality is I said to him so what was your strategy going into each wave?
+
+01:41:51.600 --> 01:42:17.200
+race. And he said, it wouldn't matter because after 20 minutes, I couldn't execute strategy. And I just sit there and wait for the light bulb to go off. That's why you need this learning. It's like, you can't even actually, you could have the greatest plan. Like your team sits in the team bus, right? And you're laying out all these plans and they look at you and they say, here's your job. And you can't do anything about that. That's part of it. That's, it's not just about Watts. It's the whole performance. It's the whole element. It's all those things you need to look at.
+
+01:42:17.200 --> 01:42:46.128
+Yeah, yeah, fully agreed. Okay, so a couple of listener questions for you before we wrap this up. Do you have any advice for people to get the most out of their relationship with their coach? Communicate. And yes, I actually have this great way of saying it, in my opinion, I guess. Be a two-year-old. So you ever have a two-year-old, I have lots of kids and grandkids and stuff like that. It's great. And you know what they always do? Why? Why? Why? Right?
+
+01:42:46.128 --> 01:43:10.256
+Be polite, but require, you must be present. As a coach, oftentimes the coach is trying to gauge you what you want to know, what you don't want to know, what you're involved with. I find that the most successful coach-athlete relationships really thrive on the ability to have good communication, good back and forth, good trust and good understanding, and they learn together.
+
+01:43:10.256 --> 01:43:29.104
+I have this luxury of working with great athletes, but part of what I love about that is I learned so much from them. I mean, I coach Rebecca Rush, and when I took on for, I don't know, I guess we've been working together five years now or whatever, like one of the first big events she did was the Iditarod fat bike.
+
+01:43:29.296 --> 01:43:56.576
+and I'm like hmm let me check that in my resume do I have any other Iditarods on a fat bike no I don't know you know it's like so it's cool it really challenged me to learn and suddenly I had to think a lot more about thermal regulation and nutrition and and and not dying you know crazy things like that right it's like literally she rides out into the Alaskan wilderness with bacon strapped to her body and it's like well let's think about that you know it's like all these crazy elements it's like so if a
+
+01:43:56.576 --> 01:44:09.872
+Bear comes or Wolf come. I mean, what do you do if you get chased? I mean, there's all elements you're learning that you learn from your athletes. So it's not like I didn't just man up and be like, I know all the answers, Rebecca, here you go. I said, tell me about every day.
+
+01:44:09.872 --> 01:44:38.656
+tell me what and I had to learn from her and she was a great athlete she shared back Amber's the same way she shares back so we build this rapport and then I understand because I didn't have the time to go out and do a quick I did around myself and figure it out so we had that way right so it was great we had to bring in some other experts I need to I need to top my game on thermal regulation but she had an event she wanted to understand how she can improve she's 50 at the time she was 50.
+
+01:44:38.656 --> 01:44:58.768
+Wow. She wasn't going to add a lot of watts. That isn't going to happen. You know, yeah, some and she got pretty darn fit, but it was more about us figuring out the rest of the things together. If it wasn't for that dialogue, it wouldn't have worked. Yeah. And, you know, it's, it's, it's interesting you say that because that's one of the things that I like most about ultra endurance events is that.
+
+01:44:58.768 --> 01:45:26.832
+At a certain point, it's not so much about the fitness. It's about the prep and the decision-making on the day. Like if something happens, here's your decision tree. You already know what's going to happen. And sometimes people will get to that point and they don't know what to do. Your spoke breaks. What do you do? Absolutely true. Yeah. Can people really do three hours of sweet spot work in one day? You can.
+
+01:45:27.472 --> 01:45:49.344
+You can. It's funny. That's an interesting question. You know what I'm going to say. I mean, why would you want to? It really depends. Would I recommend it? Probably not necessarily as you asked it, but you certainly could if you really wanted to. Yeah. Should people is really the next question. Probably not.
+
+01:45:49.344 --> 01:46:14.656
+Probably not, no. Yeah. Okay. So what are your thoughts on low cadence training? So maybe like the practical side of things versus like how people seem to use it in terms of the physiological side of things these days? Well, that question tends to get broken down to, can I strength train on the bike? Right. And somehow it always kind of comes into that type of thinking and I think about it differently. So I re-parameterize that question.
+
+01:46:14.656 --> 01:46:40.080
+I think about the idea that I think all good training programs, fitness or performance fitness is a blend of things, right? It's not just cardiovascular fitness. It's not just metabolic fitness. It's not just neuromuscular fitness. It's those things working together that really make your performance great. One of the things I see that needs to be in every good training plan is neuromuscular manipulation. Everyone's like, ooh, what does he mean by neuromuscular manipulation?
+
+01:46:40.080 --> 01:47:07.456
+Cadence work, right? Here's what happens to athletes. And I think this is very prominent now and very pertinent right now because I see it almost like, you know, very problematic with all the indoor training going on these days. Think about the way you make power on a bike. You have a range of cadence, right? And as if you went from, if you weren't moving at all and you accelerated out as hard as you can and just tried to hold power, you're going to, you know, start with a lower cadence. You're riding a track bike. You're going to know this well enough.
+
+01:47:07.456 --> 01:47:34.944
+your torque starts very high and your power actually is a little lower and as you get on top that cadence you get on top that gear your torque is actually coming down even as your watts are going up because you're spinning you know you're turning the pedals faster and a watt is how hard times how fast you're pedaling in simple terms but then you have this point where you have a range as you're getting on top that gear you're getting into the right cadence where you put out a range of max power.
+
+01:47:34.944 --> 01:48:04.432
+and most people peak that range out of good power you know like a good a pro athlete a track rider even higher but a pro athletes probably like 120 to 130 135 cadence when they're hitting a peak power output track athletes can go beyond that and be better but what is just below that is a range of power what I see because so many people are training on the trainer or they get caught just always plodding along that power range gets smaller and smaller so they can only make their peak powers
+
+01:48:04.432 --> 01:48:32.368
+in a certain very small cadence range. Go look back at an athlete's test. And if you're listening to this, do this for yourself. Go look at your last 10 FTP tests, whether you did them 20 minutes, 40 minutes, whatever your number is. And if they're all in the same five cadence number, that's your self-selected cadence, right? Then compare that to all your work. Like, are you always doing in that range? And you're going to find a lot of people just live in that range. And indoor cycling promotes that even more. You turn on.
+
+01:48:32.368 --> 01:48:51.008
+ERG mode, right? Or you do an incline mode and you just tick out 85 RPMs all given times, your power range is narrowing. Then you go outdoors or you get in the first fast group ride or you're racing and there's rolling hills and suddenly you've got gears and you're not shifting, you're sitting in the peloton and you got to do power at 70 and power at 95.
+
+01:48:51.008 --> 01:49:20.832
+and you struggle and you feel like I'm just not fit. Well, actually you might not be ready to perform in that range of cadence demands. So all the way back to your question, I think neuromuscular manipulation needs to be part, cadence work needs to be part of any good base foundation program. And that should be a blend of lower and higher cadence work. What that blend is, is probably specifically more related to the athlete's needs, what they do well and what they don't do so well. But the output goal is to be able to make
+
+01:49:20.832 --> 01:49:48.320
+and hold their higher power numbers at a broader range of cadences. I want to improve range, not some specific area. Yeah, I think that's a really, really good answer because you're thinking about very practical applications and like a lot of the time I've run into this with people who are good time trialists or good at low cadence stuff and they start going downhill in a time trial in a race and they just like, it's like that pedal's just getting away from them. They're in 50-11.
+
+01:49:48.320 --> 01:50:16.592
+and I just, I just, I'm spun out and I look at the cadence of what, what counts as spun out. I'll see like 9,500 RPM. I'm like, okay, this needs work like right now. Absolutely. You know, and, and, and that's a challenge you see in so many events right there, whether it's, you know, it's, it's easy to talk about in something like a time trial, but it actually happens a lot more frequently in race events than people would think. And they don't realize that, that if you have that very narrow range.
+
+01:50:16.592 --> 01:50:45.104
+power. Like your, your, your peak power kind of range is just five RPM. Every time you go out of that range, you're just not as efficient. Your physiological efficiency is going down. It just isn't, you're, you just haven't trained that part of your system. Yeah. And, and physiologically what's happening is you literally need to train that part of your system. Like literally it needs work and it will be trained up better. Okay. We have.
+
+01:50:45.104 --> 01:51:10.544
+We actually, we have kind of a lot of questions. So I'm going to pick my favorites here. Why can you not calculate TIS when planning a workout training impact score? Because it's meant to be descriptive. Honestly, that's the answer. Here's why, you know, you're getting all the honest truths. We were afraid if we did that, because you could kind of do it. But we wanted people to learn from the actual in reality workouts. Like if you think about it.
+
+01:51:10.544 --> 01:51:38.640
+Most of us, most training athletes, we think we have like 100 different workouts we do through the year. And you probably really have more like 8 to 10 with variations, right? You can look at those workouts and you know where it's going to score. We want people to learn from that, not the prediction. The other side of that is if we would have done it predictably and then the athlete didn't deliver it, then people would say, well, this doesn't work. And I don't want to have to say back to a no, the athlete didn't work. I know the math is right.
+
+01:51:38.640 --> 01:52:02.848
+You know what I mean? That's why I'd rather have people learn from the description side of it and then be able to circle back. And they should be. That's predictive analytics in your head. Every time I do a four-hour easy ride, it scores very high aerobically. Yep. It's true. Well, I remember in the meetings for TIS,
+
+01:52:02.848 --> 01:52:30.832
+you know it's I think it started out as like um uh training adaptation score or something like that and it was like oh well we can't actually predict adaptation we'll probably never be able to predict adaptation maybe that's like a holy grail of analytics someday but we can definitely predict that it will likely have an impact like and the phraseology when you look at the training impact score is very careful for that reason is that you know you don't want to over promise and under deliver great addition way to remember the meaning
+
+01:52:30.832 --> 01:52:53.424
+No, that's exactly it. And that's why we move away from anything in the name that's adaptation because all we can say is, yeah, that's having an appropriate impact to stimuli, but adaptation physiology is complicated. Yeah. And speaking of remembering the meetings, the next question is, can we get a metric combining TSS and TIS? I remember that...
+
+01:52:53.424 --> 01:53:21.424
+I have a terribly great memory for stupid stuff like this, is that you had floated like maybe we can break down TSS by the aerobic and anaerobic impact scores and combine it that way. And I remember that it seemed like it probably was not going to go well by doing that. It would be a matter of over-precision to some degree. I'll tell you, right, that's an interesting question. I've been having that dialogue with a couple of different people in the last couple of weeks.
+
+01:53:21.424 --> 01:53:48.672
+Training stress score was always meant to measure something external, a stress you place on the system. We knew, or not we knew, but Andy and Hunter and the gang and Alan Lim and the people who were working on it at the time, they knew that it wasn't strain, but they said, what's most quantifiable? Like, what can we quantify in some generally linear fashion and external stress? And since we had power data, which is an external stress, when you look at 300 watts, that's load you're putting in the system. That's a stress.
+
+01:53:48.672 --> 01:54:15.216
+and external factor. Your heart rate is strain, right? That's you responding to that. In reality, you need to... Sorry, I got lost there. First edit. So go back to the idea of TSS, right? So we've always known it's a stress door. We've always known it's this quantitative measurement outdoors or as an external measurement on you.
+
+01:54:15.216 --> 01:54:44.256
+One of the realities though when we start talking about do we do it aerobic or anaerobic this is what people always say is wrong with training stress score and to me this is my opinion big highlight flashing lights Tim's opinion everybody says like when I go out and do a hard cyclocross ride or I do a hard mountain bike ride it scores too low but I actually think it scores that side very well and if you look at VO2 max kinetics and stuff like that the science behind that is pretty legit what I actually think the problem with TSS
+
+01:54:44.256 --> 01:55:14.080
+is it underscores easier rides, particularly easier rides over time. But I say that, and for us to go down that path, the reason we didn't end up going there, it would take a whole paradigm shift of the way people see PMC, because if we started, I don't want to say waiting, but we better appropriately accounted for, we gave higher TSS for longer aerobic rides, which is where the real, and again, my opinion,
+
+01:55:14.080 --> 01:55:39.632
+I don't think there's a shortcut. I think TSS is an awesome external measurement. And it's linear, it's quantifiable, and I get it. But if you were to say what is one weakness is the external side of those longer rides are a problem. And we've looked at it a couple of times and said, let's just fix that. But then it's going to blow up what PMC is. What is 100 CTL that everybody's used to or 120 they're driving for or 75 suddenly is going to become a much bigger number.
+
+01:55:39.632 --> 01:56:09.504
+Now your new norm might be 200 CTL or 225 for a pro. And one of the things when you're developing software and you're thinking you have to think about the way people will adapt around data. And you see it all the time. People put in new metrics in our group and stuff like that. And if you don't really understand how that becomes a communication tool and you got to be very careful with change in communication tools and stuff like that, it can be a challenge. Yeah. So long story, long answer to a short question again, but that's, you know, that's my opinion.
+
+01:56:09.504 --> 01:56:28.912
+I think the long answers are good, though, because seeing the thought process behind all this stuff, I think it's going to show people something that they probably don't consider when you actually get to be in the driver's seat behind a lot of these metrics. It's hard. It really is.
+
+01:56:29.264 --> 01:56:57.520
+And it's worse. It's less predictive than coaching. It's like the same thing, right? You have this idea. I have a hypothesis. We're going to do this and everybody's going to love it and they're going to understand it. And then you put it out there and it's like, literally, this is my training. Like WKO is training and then everybody gets less fit. It's hard. But honestly, it's like our way is that we continue to move forward and fix things. But it's a difficult to change paradigms.
+
+01:56:57.616 --> 01:57:27.488
+Yeah. Well, and I think that might be another reason to not allow TIS to be predictive because then you can try to game the system. Like, okay, I'm going to do X workout that gets me four or five TIS aerobically twice a day, and I'm going to do this six days a week. So where's my adaptation? How come my FTP isn't higher on the other side of things? And now the data is the solution, right? And that should never be. Data helps you make better decisions. Yeah.
+
+01:57:27.488 --> 01:57:54.848
+I think people are going to be a little disappointed by that because one of the things that happens first is like, oh, where do I go from here? I have to make my own framework for this stuff. And I think that's one of the hardest things to develop. So, okay, last question. What to look for in youth development? But let's not only just say like youth development, but...
+
+01:57:54.848 --> 01:58:22.080
+what to look for in long-term development of an athlete, a cyclist. Okay, good answer. In youth development, I'll answer that first in a very simple answer. It needs to be fun. Like one of the things I just, you know, and I get so many people ask me these questions who watch my webinars and be like, if I apply this science and optimize intervals this and that to my 15-year-old.
+
+01:58:22.080 --> 01:58:46.160
+What Should I Expect? And I say, I would expect that they're not going to have a lot of fun. How about you just get them riding their bike, give them some loose structure, you know, but don't make it that. And anybody who's that talented has probably been ID'd by a program and has some slightly better support and other stuff. So just be careful if you're young and, or you're coaching a junior or a young rider or something like that, just make sure it's always fun. In the young rider, I would go back to
+
+01:58:46.160 --> 01:58:57.248
+When you start to emerge out of that, long-term thinking is so, so important in all younger riders. So if you asked a question a while ago about like...
+
+01:58:57.248 --> 01:59:22.336
+What's the cycle? I would never, if you're under 23, you should never be thinking in one year cycles. It should always be four years, whether you're self-coaching even, and you're that young and you're that motivated and you're thinking I'm self-coaching, you need longer term cycles because your body's still developing, you're still developing, your aerobic capability is still developing. You have years to go before your endurance capability is fully maximized. So think bigger picture, longer term.
+
+01:59:22.336 --> 01:59:47.472
+I think if you apply that to all people who get into training, and I think that was the broadness of your question, or did I answer it? I think that works for all people, because I think on some level, well, then again, how quickly are you going to hit your training max? Because I think one of the things that
+
+01:59:47.472 --> 02:00:11.008
+we struggle with at Empirical Cycling, not often, but sometimes, is how much better can I get? The answer is always, I have no idea. We're going to do everything we can and we're going to keep learning, but it's not going to be in two or three months. Two or three months is enough to kind of get to know each other and get to...
+
+02:00:11.008 --> 02:00:36.752
+communicating somebody's structure of their workouts like are they stressed day to day but you know it's not going to tell you are they bad at traveling for races it's not going to tell you you know they've got a I don't know secret snack habit of like a block of cheese every night that is going to affect their workouts and their sleep and all that kind of stuff yeah so
+
+02:00:38.672 --> 02:01:05.200
+I'm trying to think, is there any other thing that I wanted to touch on that we didn't quite get to? Oh, I got one more. Are we ever going to see the PD metrics and like that for the full PD curve on the web? My guess is no, because it's too hard to analyze all those. Because every time you do it, like if I click all workouts and somebody who's got 10 years of training, it's got to look through every data point.
+
+02:01:05.200 --> 02:01:31.696
+Yeah, it's caching a fair amount of data. People don't realize how big a fit file is. You know, go out and ride your bike for four seconds. That file has 50 channels in it recording one piece of data per second. And that's one file. And then you look at your average heart rate for 10 years. It's reading every second because that's the only mathematically correct way to do it. So in reality, you know, that's cumbersome. Our model is a five parameter model.
+
+02:01:31.696 --> 02:01:57.920
+I don't think outside of like a big system like Microsoft's BI or something like that, you could manage that type of data crunching in short metrics. So it really is just a horsepower. We can write a shorter one and move it, but there's sensitivity to changing the models and stuff like that that you always have to be careful of. We could reduce it down maybe in parameters or size or maybe make it calculate a little better.
+
+02:01:57.920 --> 02:02:27.872
+but it would cost some accuracy right now regardless when you look at the model and you look at your own error calculations it's always within a couple percentage points we have a high confidence in it and actually it's funny the model won't calculate if it knows something's really bad which you probably haven't seen for a while because we're fixing it has it has been quite a while and if I've got somebody with a you know I like like people have been kind enough to send me a lot of data on pro athletes
+
+02:02:27.872 --> 02:02:56.672
+and the number of spikes I have to clear out. Stunning, isn't it? It's like the model will be like, okay, this person clearly has a 2,500 watt sprint despite the fact that they're 110 pounds. Dude, I worked, I don't know, seven years ago with a world tour men's team. I won't say the name. They had to hire a person who just goes through everybody's file every day to take all the spikes. They literally had a person on payroll that that was their sole job.
+
+02:02:56.672 --> 02:03:24.560
+Yeah, when I consult with people and I look through their files, part of me is like, I should charge an extra $50 for the half hour to hour that I spend clearing out spikes every 10 people or something like that. But that's fine. Is there anything else in your mind that you want, anything that kind of came up that you wanted to touch on before we go? Yeah, there was one when we were chatting back and forth and talking about this podcast, a question you had that I...
+
+02:03:24.560 --> 02:03:53.680
+I'm going to self-answer because I think you're out there sending this message and I think it's great. So I'll give you some credit here. I mean, I always give you a ton of credit. I recommend your podcast and things you're doing all the time to get your voice out there. Well, you know, what's great is, you know, it's hard, right? People don't realize the challenge of what you're doing. And I've been down this path at times and I'm not as out there in the public. It's a lot of pressure. You know, it's like people don't understand. It's tough. You have to have a little bit of a spine to have an opinion, to be able to back it up.
+
+02:03:53.680 --> 02:04:19.488
+to take the heat and to put opinions out there. But yet that's so helpful for the general public to have somebody who actually takes a stand, say, here's what I believe and stuff like that. That's more rare. I think about it. How many people are really out there in the cycling world doing it right now? Not as many as you would think for as many cyclists as there are. And it's like, so I applaud that. It's great. And I agree with 98% of what you say, so it's easy for me to say. But, you know, for those who don't.
+
+02:04:19.488 --> 02:04:43.152
+Great. Come up with your own hypothesis. Build. At least he's a challenge or you're challenging them to think and go beyond. But one of the things you're doing, and it was a question when we were chatting back and forth, you did get the question in your Instagram was, somebody said that I prescribe training in power zones rather than RPE. And what's my thought behind this? Oh, yeah. And I thought that was like a pre-built plan thing that they had seen.
+
+02:04:43.152 --> 02:05:08.144
+and that could be I mean I have training plans on the on the internet it's whatever I'll tell you right now I'm not really proud of selling training plans I did it I got talked into it by our we have a marketing person in the office over there who talked me into doing it and I did it because it's not coaching it's too static I get it but when you write a training plan there needs to be a number yeah but when I coach athletes I do one I don't use zones
+
+02:05:08.272 --> 02:05:37.152
+even when I'm planning my prediction when I'm saying I want you to go out and do an interval or this and that I don't use zones period and two RPE is the key meaning I want the athlete to use like I might when I'm looking at a zone descriptively whatever zone system and I do use eye levels for all my description right I am and I think they're awesome for that like that was the problem I wanted greater individualization Andy absolutely delivered eye levels
+
+02:05:37.152 --> 02:06:00.784
+very painful seven months of my life because I kept having to go out and prove I was crazy. But the reality was I use them in description, but it's not how I prescribe. But I use zones with athletes to teach them RPE. Then I tell them to ride by RPE. See, that's like first we use the power to quantify our feeling.
+
+02:06:01.104 --> 02:06:25.696
+then we use our feelings to quantify power that should be if you know you as an athlete if you're a self-coached athlete that's an evolution you'll never go through without a coach but it's probably one of the most important evolutions you should go through power teaches you to quantify your feelings oh this is what tempo feels like oh this is what threshold then once you get good at that then all your training at RP is a pretty good answer
+
+02:06:25.696 --> 02:06:54.064
+because if you're training below, you're never really sure unless you're lab testing every day where your LT1 is, what's exactly the right target, and those are moving targets anyway. So riding by that RP is better. When you're well above threshold, let's say 105% above, usually it's in reality, and then you're going to do what you pretty much can do. It's not being controlled by anything except, ouch, this hurts, and I'm giving it all I got in one way or another. That's pretty much what you're doing.
+
+02:06:54.064 --> 02:07:23.136
+In reality, being able to quantify that, use the data to figure out your feelings, then use your feelings to absolutely optimize. That's the word I would use. Absolutely optimize your training. You know, it's funny because I've like over the time of coaching people, I've evolved into coaching pretty much exactly that way. And I tell people all the time, like, okay, I'm going to go give you this FTP test, but it's more about your RPE.
+
+02:07:23.136 --> 02:07:39.088
+than it is about the average over whatever. And people say, oh, I feel like sweet spot is getting easier. Threshold is getting easier. I might be getting more fit. And I'm going to trust what they tell me over any piece of data that I have. Absolutely.
+
+02:07:39.952 --> 02:08:09.488
+You go back to your art and science question, right? Someday science is going to look over the plateau and art's going to be looking at it. There's that reality coming that it is a cycle. And it is. We don't overcomplicate it behind there. But unless you really learn to calibrate the feelings or have a coach guiding you, that's where you can miscalibrate your feelings. And you go to this idea of training optimization, Koli, and it's like people don't work.
+
+02:08:09.488 --> 02:08:39.024
+I'll close on this, right? Here's my final tip for your audience. And I'll be interested to take your, I'm going to ask you a question. Okay. So the reality is, right, people ask me all the time, like we were talking about training volume. Like they only have so many hours of training and they can only do this amount of work and they still want to get dramatically better. I have people come to me that this happened to me, absolute truth. Three weeks ago, somebody was banging away at me at the internet. Like, can you help me? I just have this problem with my training. And I know if I just do optimized intervals and he wanted to do.
+
+02:08:39.024 --> 02:09:02.976
+fasted, optimized intervals at a certain time of day, trying to trigger catabolic, anabolic management. Then he had all these science things all out. And he's like, no, no, you don't understand. And to balance with you, I was just ignoring him. Don't get me wrong. I'm sorry if you're listening to this because you'll know who you are. But over time, I was like, I want somebody, you know, I'm like, let me just respond. I'm fine. I was like, look, I really can't help you. There's a lot of things in there. And he was like.
+
+02:09:02.976 --> 02:09:31.024
+So eventually I said, I'll help you. And I know I don't, if I ever do a consulting, which is super rare these days because my athletes take my time, I'd just do it for free because I want to be free to give you whatever opinion. You're not hiring me to do it. I'll just do it. Don't everybody message me now for a consult because I'll say, no, I'll ignore you. Send him my way. Send him Cole's way. He's awesome at it. So then I said, fine, let me upload your data and take a look because I don't want to just throw an opinion out the air. But I knew what I would see because I've seen this so many times before. Wisdom.
+
+02:09:31.920 --> 02:10:00.768
+looked at their data I showed him one chart I said here's my answer to you you went up there you want to do all this stuff I pulled this time in zone for five years and he spent more time in zone one than in zone two and zone two was very close to zone three and then zone six was kind of weirdly proportioned so in the end of the day if you think about what I'm seeing I was using high levels and I'm not like it's not that
+
+02:10:00.768 --> 02:10:29.008
+time in zone one has no impact, but it's not always the best way to get impact either, right? So I wrote him back and I said, after all your questions, you're worried about all this complexity and optimized, fasted, catabolic intervals or whatever you're trying to do. I'm like, dude, get this right first. Fix this so your time in zone, because you're wasting hours on the bike that aren't high return for you because you're coasting around or you're not staying. I don't know. I wasn't looking at each ride to figure it out, but you're not.
+
+02:10:29.008 --> 02:10:56.128
+even in the right area. It's not a perfect zone, but it still is a range of influence and impact. And I'm like, in the amount of time you've been sending me messages back and forth with this and whatever, go out and learn to keep pedaling, pick better routes, pedal down a hill, stop doing so many group rides or something, optimize your training. We have so much more room to grow in what we have, but we tend to ask guys like you or like me, like, well, can you make me better?
+
+02:10:56.128 --> 02:11:23.520
+and they want answer that's like this complex super secret next level where it so often starts in this simple optimization of what you have and being a better athlete is such a crucial point. So to me that's you know the question I really like my question is going to sound odd but what's your thoughts on that do you see that a lot too is it just because kind of what I'm asking is am I crazy did people just send that to me or do you see that?
+
+02:11:23.520 --> 02:11:51.392
+uh yes and no well because i put myself out there a lot more than you do um in terms of uh engaging with the average cyclist or the people who are paying attention to me anyway um i have got a lot of people that have interesting ideas like that where they're like you know that meme of the guy from always sunny in philadelphia in in the room with the string and the newspaper clippings and um you know just just like your guy comes to me like that
+
+02:11:51.392 --> 02:12:15.968
+and I always go back to what Dean said is there's no one secret thing in training you've got to kind of get it all and you've got to kind of get it all right and as long as you take care of the basics and you don't screw it up too bad you're probably going to be fine and so this is one of those like forest for the trees things it's like you know you're in there like trying to like figure out okay this this leaf has
+
+02:12:15.968 --> 02:12:39.280
+these veins on it. And so it's a monocot versus a diacot. And yet you've got to step back and go, am I in a deciduous forest or am I in an evergreen forest? Am I in North America? Am I in South America? Am I in Africa? You've got to look at the big picture. And I think a lot of people have trouble with the big picture because a lot of the media out there
+
+02:12:39.632 --> 02:13:09.520
+focuses in on these small things. I'm guilty of the same thing in the podcast. We'll break down some really technical stuff, but on the other side of it, I always try to tell people actually turning these things into applicable, actionable training advice is one of the hardest things to do because if we look at what a complex system is, and one of these questions I skipped was something about,
+
+02:13:09.520 --> 02:13:38.000
+um you know can we actually you know can we can we really I don't know what was it oh let me let me let me see if I can find it um uh I don't see it anyway so it was something like can you really model something as complex as human physiology um yeah you asked a question about AI well is AI something in the future oh uh it was something like that but I'm I'm more thinking of like
+
+02:13:38.000 --> 02:14:02.768
+like a lot, a question I get asked all the time is should scientists or should coaches know all the science? And I say yes and no, because it's, it's helpful. But if you read like five papers and you read 20 blog articles, like you're not going to have enough science to be able to coach somebody well based on that science. Nobody does because science is not there. It's not even close to there. And when we start thinking about like,
+
+02:14:02.768 --> 02:14:32.288
+gene expression and all that kind of stuff. What we're doing is we're taking a very complex web and we're like trying to like, like look at a couple of the lines that make the web and you're, you need to like step back and look at the whole web. And that's what like the PD model does. That's what a lot of our descriptive analytics do because, you know, the best predictor of performance is performance itself. So, so you never escape that. You will never escape that reality right there. Yeah. And so there are very few bridges we can actually build between
+
+02:14:32.288 --> 02:15:01.344
+the granular science and the whole level athletes performance. And one of the questions I had for you that I kind of skipped was about, you know, do we even need lab testing anymore? Because for a long time, I've been arguing, no, we don't, because pretty much everything we need to see is in the power data. And if it's not in the power data, somebody will tell us descriptively. I generally would agree with that. There are some unique situations where the lab test will help.
+
+02:15:01.344 --> 02:15:29.296
+Validate, but I would say that in my experience, it's pretty rare it introduces change. That's a good way to put it. Hence the term validation. I mean, you can't go out and earn a living and have a big pro contract and whatever and not, if you have the resources readily available to you, not check off.
+
+02:15:29.296 --> 02:15:57.680
+certain things to make sure that you're doing it right. And I think like VO2 max testing, no. Lactate testing, I think lactate is a surrogate for fitness in a certain way and can be utilized, but very rarely does a lactate test surprise me because of using superior analytics models data. I get it. It never comes out like, holy crap, we've been that much off on some perception. I don't think that's ever really happened.
+
+02:15:57.680 --> 02:16:24.064
+Yeah, so where is the AI motor learning coach? How far away in the future is that? Or is it ever going to be there? And what do you think is the best it could get? A question that nobody's ever asked before. When the Terminator is knocking on your front door, you mean? You know, I don't think it ever happens in our lifetime. People, the complexity of the physiology, the amount of data we need more.
+
+02:16:24.064 --> 02:16:53.536
+I think we can improve analytics by that data and I think we can give some predictive analytics like and predictive analytic means you become like an if-then statement if I do this right that will happen that's or even better yet predictive analytics are if I want this right that's a better way to say if I want this I need to do that because that's the kind of guidance we want we might see some improvements in that but the human physiology it's too complex and I don't care I know
+
+02:16:53.536 --> 02:17:23.504
+There's some people out there selling it that do a pretty good job. And they're starting to move that technology ball down the road. And in a certain amount of years when we do, you would need implants and full-time wearables and all your clothes would be talking to the 7G network that you have in your house. That could feasibly be where the future goes. I mean, that sounds like the Terminator. It sounds like the Matrix. It actually probably would be more Matrix because that's what you need. Just think about the number of interactions going on in your body right now.
+
+02:17:23.504 --> 02:17:46.768
+you're cold you're hot are you this are you hungry and all those all the systems all that complex you are just intensely complex and we don't have the data we have enough data to make some predictions helping your analytics and improve your coaching but we don't have the data I don't think we'll see it in our lifetime yeah so so you don't think that the answer is in big data because well what is
+
+02:17:46.768 --> 02:18:13.424
+Oh God. What is the fallacy of averages or something like that? Like, like you are not the average, like this, the second grade class likes ice cream. So therefore Timmy likes ice cream, but it turns out Timmy's more of a pie kind of guy. I used to work with a partner and said, you could have one foot in freezing cold water and one foot in boiling hot water. That doesn't make you warm. That's his favorite thing to say, right? And it's true, right? It is true. Big data is another tool. You have big data. You have science.
+
+02:18:13.424 --> 02:18:42.688
+You have your own knowledge and learning, right? Put all those tools in your tool bag, understand how they appropriately work for you, and maximize and optimize your knowledge and your ability to apply that knowledge to coaches, and you'll be all right. It's in the absence of using any of those or over-relying on any one of those that you get into trouble. I fully agree. All right, Tim, thank you so much for coming on to the podcast. Well, thanks for having me. I always appreciate it.
+
+02:18:42.688 --> 02:19:11.791
+All right. So thank you everybody for listening as always. And of course, thank you so much to Tim for the support of coaches like me and everybody else over the years, but also for coming out to the podcast and having some really good, in-depth, very thoughtful answers to the questions that were asked and for just being so available. Because if you are in the Facebook group, this is for WKO users, which is pretty much the only reason I've got Facebook these days.
+
+02:19:11.791 --> 02:19:41.407
+So it's a really good place to ask questions, not only about WKO stuff, but also about kind of training a philosophy kind of things and how to use it and how to best use it for yourself. Because a lot of the time, especially in there, you say, oh, I want to know how I can program this chart. A lot of people will ask why. And you tell them and then they go, oh, there's a better way to do it. So that's a cool place to learn and grow. And the webinar is, of course, up on YouTube.
+
+02:19:41.407 --> 02:20:09.360
+Yeah, I think that's about it. Thanks everybody for listening as always. Again, if you want to coach with us or consult or with Tim perhaps, we've got Tim's contact info up in the show notes on empiricalcycling.com. And of course, signing up for his base camp and all that kind of stuff that he's doing is actually pretty awesome. It looks really fun. I kind of wish I could do it, but I'm a sprinter and I'm out of shape, so I'm probably not going to.
+
+02:20:09.360 --> 02:20:27.360
+but yeah also for us if you want to reach out for coaching inquiry empiricalcycling at gmail.com of course same goes for consultations that's your own personal AMA thank you everybody who's reached out for all of that kind of stuff we really appreciate it that is of course the main thing that we do we are not professional broadcasters
+
+02:20:27.360 --> 02:20:46.096
+even though we have the veneer of it anyway so up at Empirical Cycling on Instagram is the place to ask your questions for future podcast guests and of course the weekend AMAs up in the Instagram stories that's where all that happens so yeah thanks everybody for listening and we will see you all next time
+

@@ -1,0 +1,904 @@
+1
+00:00:00,656 --> 00:00:30,592
+Welcome to the Empirical Cycling Podcast. I'm your host, Coleen Moore. Thank you, everybody, for listening as always. And of course, I'm going to ask that you please subscribe to the podcast. A lot of you have done that already. So the next thing you can do is, of course, share the podcast wherever you decide it is worth sharing. So thank you for all of those shares where I've seen them on many forums and in discords and all that kind of stuff. Thank you all so much for that kind of support. We really appreciate it. Thank you all for the five-star iTunes ratings, especially, this goes without saying, of course, for, you know,
+
+2
+00:00:30,592 --> 00:00:56,544
+Might be our last podcast for the year. It might not, but it might be. This is, you know, a chance to say thank you to everybody for supporting us through the year and all of your feedback, good and bad both, which you can send at empiricalcycling at gmail.com. And of course, that is also where you can get in touch. If you have any coaching or consultation inquiries, we are taking on athletes all the time. Cory is looking to take on a couple more athletes too. So if you'd like to work with him.
+
+3
+00:00:56,544 --> 00:01:26,064
+shoot me an email there of course if you'd like to work with any of the rest of us including myself shoot me an email there of course and also we are open to consultations so if you have any questions that you would like answered on your training on training philosophy if you want to talk to me about physiology if you want to talk to Fabiano about medical stuff with training if you want to talk to Corey about time trialing you know the list goes on and on so we are really really happy to help you answer that
+
+4
+00:01:26,064 --> 00:01:44,784
+those questions that you have and set up your training for next year, starting out nice and strong, going in with many fewer doubts than you previously have. Our goal is to, of course, give you the tools to do it yourself. So that is consultation. And thank you all for the consults that we've done so far. They've been so much fun.
+
+5
+00:01:44,784 --> 00:02:12,176
+Really appreciate everybody who's reached out. And of course, always ready to do more. So please shoot me an email, empiricalcycling at gmail.com if you would like to consult with us. And of course, we've gotten a question or two about this. They are, of course, anonymous. So no matter what level you're at, we will not disclose that you have consulted with us, that you had any doubts whatsoever. Totally cool. Not our policy.
+
+6
+00:02:12,176 --> 00:02:39,968
+What else do we have? The Instagram, of course. Empirical Cycling. And I normally ask that you go follow me over there. You may or may not be here from the memes that you've seen there. So thank you all for that. And I usually ask up in the stories about questions for the podcast or the podcast guest. And we don't have that today because I kind of figured all the questions I've been asked about Corey and Corey's training so far, I just went right ahead and just asked him straight up.
+
+7
+00:02:39,968 --> 00:03:06,256
+on the record, on the podcast. We talk about it. We talk some power numbers. We talk aerodynamic prep. We talk altitude stuff. And of course, we end up talking about just coaching stuff and training and being able to empathize and sympathize with people. And you get to hear a little bit more of our kind of shop talk, as it were, that just happened to be recorded on the podcast.
+
+8
+00:03:06,256 --> 00:03:19,552
+so it's a good podcast and thank you everybody for listening as always and of course as usual I will see you on the other side but of course if I forgot to plug it show notes up at empiricalcycling.com on the website we
+
+9
+00:03:19,552 --> 00:03:48,960
+Actually, I shouldn't plug it because we don't have any show notes for today. So anyway, sorry about that. Here's the podcast and apologies because we have a little bit of a delay between me and Corey. One of our internet service providers is a little sluggish, kind of the same that you hear with me and Kyle, but also it's actually a little more pronounced in this one. So in case you're hearing any awkward pauses, that's what that is for and apologies for that. But you're probably all used to that kind of stuff by now. So anyway, see you on the other side.
+
+10
+00:03:48,960 --> 00:04:16,112
+Why don't we start with the big news? Because I just went to the USAC national records page, which for people who go to usac.org or usacycling.org, don't do that. Just Google it, USA Cycling National Records. The website is terrible. So we have 40 kilometers, new national record, Cory Lockwood, Moriarty, New Mexico.
+
+11
+00:04:16,112 --> 00:04:39,920
+5th of November 2022, 445459, officially ratified. Congratulations. Yeah, it's pretty cool. That was a lot of work to do that one, but getting that into the record works and getting that official, especially seeing it on the webpage is a pretty neat thing. That's up there with some of the stuff that I've done so far with cycling, so I'm pretty happy with that one.
+
+12
+00:04:40,528 --> 00:05:09,968
+I and I'm super happy to be involved that was so much fun so I think my first question to you because we haven't you know chatted about this much besides like the training and the mechanics and all that is how long have you had this kind of record in your sights like pretty much as long as you've been cycling I guess long as you've been time trialing so we had a local time trial in Bakersfield I think back in 2014 when I was
+
+13
+00:05:10,512 --> 00:05:39,968
+just kind of starting doing USA Cycling Racing and there's a guy named Kerry Ryan and he runs Action Sports and he was telling me about that original record set in New Mexico and how long it had stood for and so that was always been in the back of my mind and I had never really given it a huge amount of thought for the first couple years of cycling as to breaking the record but I was aware that it was out there for quite a bit and because every time we go to Action Sports they would talk about that record and talk about how it was done and
+
+14
+00:05:39,968 --> 00:06:08,720
+and so I remember hearing about it and I had gotten to meet the guy a while back on a group ride and so that had kind of seeded kind of the thoughts of doing it and it wasn't until just like this last season or so I had gotten the opportunity to actually go and give it a run I mean because it's quite a drive from where we're at I think it was a 17-hour drive which is not huge but that's enough to get out there to find a motel and set all that up and
+
+15
+00:06:08,720 --> 00:06:38,352
+and practice on the course. And so it was a whole thing, but it was definitely worth going out there for. What's the elevation there, like 6,500 feet or so, right? Yeah, it's just over six, right around there in the 6,500 foot range. So it's pretty well up there. You can definitely feel it. Yeah, did you, you know, because you've raced at altitude before. So did you do anything specifically to prep for that altitude other than going, wow, the air is going to be thinner. I'm going to go faster.
+
+16
+00:06:39,536 --> 00:06:59,744
+So my thoughts were I had spent quite a few years of my life training and living between 4,000 to 6,000 feet, a good, I mean, well over 10 years, 15 years at least, doing different sports and then cycling specific training at altitude. So I was pretty confident.
+
+17
+00:06:59,744 --> 00:07:18,144
+and having like come out of altitude and go back to altitude before that I only needed about six or seven days to feel comfortable. Usually like the first day you feel okay, second day not so good, third day you're pretty flat, then you start coming out of the hole by the fourth, the sixth, and the sixth day like in seventh day you're pretty good like for somebody like me. Some people take a long time to adapt.
+
+18
+00:07:18,144 --> 00:07:41,904
+I find about a week's worth of time I'm usually pretty good that's just coming from knowledge of being out of my hometown and then coming back and then training in that elevation usually about one week's time like I'm feeling fine within that so it was kind of like rough science more of like experiential like and less less data driven I just had known that for me personally that seemed to work so we went with that one
+
+19
+00:07:42,544 --> 00:08:01,328
+That's interesting, because for a lot of people, going up to altitude is actually, it is very individual, because some people don't feel it at all at that elevation, and you've got to get them up to like 8,000, 9,000 feet before they go, wow, whew! And, you know, especially once you get there for a couple days, because, you know...
+
+20
+00:08:01,328 --> 00:08:18,240
+um you know normal uh wisdom is you've either gotta like walk up to altitude and get right at it um and there's also an immune response that happens too and typically uh the received wisdom is it happens from like you know days like five-ish to
+
+21
+00:08:18,240 --> 00:08:43,232
+8 or 10, something like that. And so that's pretty much when people seem to feel the flattest is pretty much what I've been taught about altitude. And so it's interesting that you're very different from that and that you get it pretty immediately. So it's good that you've had that experience because that's one of those things where I think if you...
+
+22
+00:08:43,232 --> 00:09:11,728
+look at scientific papers or you look at talks about people for altitude training and adaptation and stuff, which is where I've gotten it. It's one of those things where you can be different from that kind of stuff and it doesn't make your experience wrong. It means that you are just not one of the average people from one of those studies. Yeah, I think it's just the amount of time I've spent not knowing, doing a specific science.
+
+23
+00:09:11,728 --> 00:09:37,456
+and experiment or study with it personally, but it seems to be six or seven days in, I'm fine. Now, if I was at seven or 8,000 feet, I can tell the difference when I go to seven or eight because I haven't spent a big majority of my life living there. So I would say that if we went and just did a race at 8,000 feet, that would be different than a race at 6,000 feet for me. But that like 2,000 feet makes a difference. I can tell like if I'm pedaling up a mountain.
+
+24
+00:09:37,456 --> 00:10:05,232
+I can tell when I get to like 4,000 feet, you can feel a little bit of a power loss, but you're like, okay, this is manageable in five, six, like you're fine. But when you get to like that seven, 8,000 feet, it's like a whole different experience for me personally. And so I can tell if I'm pedaling up a mountain, not even knowing what the altitude is, I'm like, okay, I wear it like 8,000 feet. And you start seeing like a sign on the side of the road and you're like, yep, there's 8,000. Cause it feels like you all of a sudden lose a big ability to breathe just when you get up into there. Yeah. Well, and it's also,
+
+25
+00:10:05,232 --> 00:10:31,648
+really crucial, I think, for some people because having that experience, and this is a little off topic from the time trial, but I think it's still worth going into, is my experience, high VO2 max riders like yourself are actually pretty much fine walking up to 5,000, 6,000 feet, and once you get past that initial flatness, you're fine. And then it takes extra
+
+26
+00:10:31,648 --> 00:11:00,192
+time at like 8, 9, 10,000 feet to really adapt to altitude. Because I've had people go up to Colorado, like Denver, Boulder, which is like 5,500 feet, something like that. And they'll spend a week or two there. Then they get into the high altitudes and they're like, they just got nothing. And so getting into those higher altitudes is what they need to do a lot of the time to, you know, it's kind of get ready for altitude.
+
+27
+00:11:00,192 --> 00:11:20,192
+I think if you were going to be at what's one of the super, super high tracks? Aguascalientes, what is that? I think it's just over 6,000 feet, isn't it? An elevation 60, 100 feet. Oh yeah, it's 6,000 feet. Okay, so that's actually not bad. But if you were going to...
+
+28
+00:11:20,192 --> 00:11:46,640
+go, I don't know, is there a track at 10,000 feet? Like, if you wanted to, you know, go do the American Hour record or something like that, you know, you'd have to pretty much do Aguas Calientes or, you know, one of those other elevation tracks, I think, right? Yeah, I don't know if they've got any tracks that are really higher than 6,000 feet. I'd have to do some research on that, but I, there might be one, but yeah, that's,
+
+29
+00:11:46,800 --> 00:12:15,712
+August Calientes I think would be your best bet in the United States. Yeah, who's got the American Hour record? Tom Zerbel, right? Yeah, and that's where he did it was August Calientes. Yeah. Oh, who'd you take the 40K from? George Simpson. Actually, George and I were racing against each other for quite some time. He had broken the record the year previous, and so he put a pretty fast time down. So it took me actually two attempts to break that.
+
+30
+00:12:15,712 --> 00:12:37,744
+on back-to-back days, which I wasn't sure if I was going to be able to do, but I ended up getting a faster time the second day and better averages the second day than the first day, surprisingly, so it worked. Yeah, I mean, your legs are so weird because you recover so fast, but I think, you know, when you're really, really going for it, because like, you know...
+
+31
+00:12:37,744 --> 00:13:07,104
+And day one, if it was like a win thing, you might have had a tailwind on the way out or something like that and been like, oh, wow, that was a pretty good split. I'm going to break this thing. And on the way back, go, oh, what happened? That's pretty much what happened. It was like a tailwind on the way out. And I knew it was going to be really hard on the way back. So I just tried to put as much time in down the downhill as you can into the turnaround. But obviously, it's still like a losing battle. And then you just watch like the power drop on the way back. And you're just going like as hard as you can. And like five minutes from the finish line, it's terrible because you've had to like.
+
+32
+00:13:07,104 --> 00:13:35,504
+put such effort in before you would normally want to in a strategy like that, that you're pretty much blown up like 10 minutes out from the finish. And then it was just like hanging out for dear life. And then I ended up missing it by whatever it was like 10 or 15 or 20 seconds, something like that. So it was pretty miserable. Well, then you did it again the next day. So more favorable wind conditions, more favorable humidity, et cetera, et cetera. So day two.
+
+33
+00:13:35,504 --> 00:14:03,312
+Did you feel like you had it in the bag at the turnaround? Or like you were like, this is a better day, the wind's better, faster ground speed, et cetera, et cetera? Into the turnaround, the wind was interesting in that, as I remember, it was coming off my right shoulder, like a smidge of a headwind on the way down, but it was almost calm. So like I didn't really have like help on the way out at all.
+
+34
+00:14:03,312 --> 00:14:32,704
+I was able to pace it and such where I was able to get actually another 5 or 10 seconds faster than the tailwind run into the turnaround and then by the time I got the turnaround then like the temperature started picking up and I got like a little bit of a tailwind on the way back and so it started helping you like turn over a gear and I was pacing pretty fast because I was like 10 seconds ahead of like my split like on the first day and then going back I had experienced from the course the day before and I was like there's like a slight rise out of the turnaround and I knew not to like bury it out of that because it's
+
+35
+00:14:32,704 --> 00:14:56,624
+deceiving in that you're trying to keep over 30 miles an hour but it can be quite a fight and just like that extra couple percent you have to be almost like not necessarily like patient but you have to be aware that if you do go too hard in that five or ten minutes up until it gets onto that little knoll you pay for it like another ten minutes down the road when you're trying to make the climb into the finish then you end up losing a lot of time so you have to be
+
+36
+00:14:56,656 --> 00:15:19,264
+as fast an arrow as you can and just try to like find all little undulations in the ground to pick up speed while being like really patient to like mind your pacing. It's a pretty technical part of the course and once you get over it then you're rolling pretty good and there's a couple little climbs and then like you can get to where like the wind starts helping you right now and you can really get on top of the gear then and you're flying it feels like I'm
+
+37
+00:15:19,264 --> 00:15:46,528
+In some areas, you're doing 34, 35 miles an hour. It's a pretty fast experience on a TT bike because the air is so thin. If you've got just a couple mile an hour push and the wheel well like on the road where you're going is pretty smooth as you really carry a lot of speed. It's a pretty fun TT as long as you pace it well. For an out and back, you mean. Yeah, for an out and back. I think most people think an out and back is like the height of boringness.
+
+38
+00:15:46,528 --> 00:16:15,472
+You're describing like a little hill as like a technical section, which I think is probably something that only the most like laser focused TT-ers would consider. It's like, wow, this is a technical section. I've really got to nail my pacing and stuff. Yeah, I'd say that something like that requires like an out and back TT.
+
+39
+00:16:15,472 --> 00:16:42,144
+you can look at it as just like you go one direction you flip around you come back one direction but when you start looking at a more technical perspective you look at the different features on the course like each little bump on the course requires a different pacing strategy different body position and a different um different technique and so you've actually got like you know 15 or 20 different obstacles like broken down in the course how you're going to attack them how you're going to recover from each and how you're going to manage your speed so every time like the course goes uphill like
+
+40
+00:16:42,144 --> 00:17:08,208
+you're running a different strategy versus like over the top of a little crest or how to get more speed down little downhills and like what power numbers you're going to run what cadences you're going to run you know and you're even picking like landmarks where like if it's really fast like you can tuck your head and you're watching and like you're just like lining up like the stripe on the side of your handlebar so you can keep your head super low and you don't really have to look at anything so this yeah I mean the boring out and back is one way to look at it but
+
+41
+00:17:08,208 --> 00:17:37,296
+as you really start trying to squeeze a lot of speed out of it. Like the out and back gets broken down into like quite a few little sections. Yeah, it's really engaging that way. Do you think that the elite Nats course in Knoxville is because it's got quite a bit of up and down and, you know, quite a lot of fast and flat too. So do you think that's a little more challenging or do you think it's more fun in a certain way?
+
+42
+00:17:38,352 --> 00:18:06,608
+um that's an interesting course um hmm it's obviously it's got a lot more turns than an out and back something like Moriarty and the lapping strategy with it is also interesting adds a different component to how you would go about pacing it each one of the sections is like it's basically like a bunch of three minute power sections broken up by
+
+43
+00:18:06,608 --> 00:18:34,320
+turns or cone turns. From there, it's like you want to build lap by lap. So yeah, it is more technical in a way, but some of it's a lot more fun, like the upper section where the subdivision is. There's a lot of cool lines you can take and a lot of cornering stuff you can do. And if you're good at carrying momentum, you can use all those little obstacles to pick up free speed, so to speak. And so that aspect of it's really fun.
+
+44
+00:18:34,480 --> 00:19:04,016
+certain aspects of it. Like the temperature is pretty difficult to deal with. Um, also depending on what time of day you run at dealing with the different weather conditions and, you know, air density and stuff can be, can be difficult. Yeah. And the humidity. Oh my God. Like I went there like this year and I pulled out my Kestrel and I was like, uh, this is not going to be good. Is it? So it was like 80% at like 8am. It was ridiculous.
+
+45
+00:19:04,880 --> 00:19:26,576
+But it's a course that I think, thinking back to that day, I remember you had said you've never had a really good race on that course until this year. So it's kind of like a white whale for you to have a good day on that course. Yeah, it's a difficult course for me in that I tend to do...
+
+46
+00:19:28,560 --> 00:19:57,712
+I tend to do better at like running really close to threshold and being like being able to go a percentage over and a percentage under and like running a lot of power and so I have to figure out how to like take a lot of momentum carrying lines and carry a lot of momentum around the turns because every time you have to go around one of those turns you have to get up on the brakes really hard and go around the turn and then you have to re-accelerate the bike really quickly so that's almost like I would say like different time trial courses
+
+47
+00:19:57,712 --> 00:20:18,032
+suit different riders. That's almost like a specialty course that suits somebody that can do like three to five minutes really hard efforts in the saddle and recover quickly. We're not so much somebody who runs like a big power like 30 to 60 minutes like at a really high like FTP number or has like really good you know like sustainability.
+
+48
+00:20:18,032 --> 00:20:45,632
+and so for somebody like me I have to go at it with a certain equipment setup and a certain strategy to try to carry a lot of rolling speed and momentum so I don't have to continually like re-accelerate and sprint the bike out of turns and so your line choice into the turns and like how much like you get up on the brakes is really critical like you have to carry a lot of like sweeping speed around the cone turnarounds and nail them because if you overbrake into the turnarounds you have to like unbury the bike from 20 miles an hour and then you're up out of the saddle you know like sprinting to get back up on pace
+
+49
+00:20:45,632 --> 00:21:13,376
+and that little sprint effort for 30 seconds really starts showing up like lap after lap later on and so if you're doing all those cone turnarounds like you have to be really how would I put it patient in like picking out a braking marker on the side of the course not over braking into the turn not coming out of the arrow bars too soon and trying to carry a lot of rolling speed around it because if like you even if you brake for like a second too long you go from like 25 to 23 miles an hour but that extra three
+
+50
+00:21:13,376 --> 00:21:36,864
+or four miles an hour that you lose just by like maybe messing up a little bit. It shows up later on. So for me, somebody like me, that can be a tricky aspect is trying to carry a lot of rolling momentum so I can use my advantages to my advantage on a course like that that's not suited for me. Yeah. Well, so, okay. Going back to the Moriarty TT.
+
+51
+00:21:36,864 --> 00:22:06,480
+I think one of the things that's been a trouble spot this year or had been was power on your TT bike because your power meter on that thing is pretty unreliable. Give me an estimate of the watts that you think you did and then we can talk about what you've done in training with a real power meter. I would say real world numbers at altitude. I was probably running
+
+52
+00:22:08,304 --> 00:22:36,592
+because it looks flat on paper but there's a lot of like undulations on the way out and so I'd say anywhere in the high 300s to low 400s on the way out so maybe 400-ish average at altitude which is pretty good because you see a percentage loss going from like sea level up to that so low 400s out to the turnaround and then like mid 400s on the way back like the 20 minutes on the way back.
+
+53
+00:22:36,784 --> 00:23:00,464
+was probably a pretty stiff pace. Like if I was to do it back like on my trainer or something like that, it was probably anywhere from 420 to 440 average probably on the way back. So I was probably doing like 390 to 410 on the way out and like rolling, do a turnaround, get like a breath and then like you ramp the pace again because it was pretty well negatively split with the way the wind was working. Yeah. That'd be my guess.
+
+54
+00:23:00,816 --> 00:23:18,400
+Yeah, so a little bit of power loss, but not a ton because in training, you know, because we had discussed this a little bit because, you know, you did a lot of time trials in the second half of the season to get, you know, like a later
+
+55
+00:23:18,400 --> 00:23:42,752
+seed time at Nationals next year. Man, you went ham on it. Yeah. So many TTs, so many course records too. Like one of my clients from Ohio messaged me. He was like, hey, Corey came up and like destroyed this course record up here. And he wasn't even salty about it. He was like, wow, that was awesome. The Jeff's Word Out Time Trial, that's a really cool TT actually. It's like a...
+
+56
+00:23:42,752 --> 00:23:58,416
+It's almost a complete circle. It's like a U, but the way the direction of the wind goes almost like funnels around the course. If you get a quick day, it's like a perpetual tailwind and there's a lot of like 50 or little 100 foot rises. And so it's like a roller coaster ride at like 33 to 34 miles an hour for like...
+
+57
+00:23:58,416 --> 00:24:26,704
+18 to 20 minutes, and you're just straight flying. And then when you come around the backside of the course, it looks like it's uphill, but you've got such a tailwind, it's like you're going up like this fall flat uphill, which you're doing like 35 miles an hour. It's a really fun TT. You're just flying the whole time. So all the little roller coaster bumps everywhere. And if you're really good at picking lines, like you're going from like the left-hand side of the road, the right-hand side of the road, apexing stuff, like pumping through little moguls and like body position changes. And so it's a really entertaining course to do.
+
+58
+00:24:26,704 --> 00:24:55,856
+so if nobody's ever done it before I highly suggest giving it a whirl in that area it's it's pretty fun it's one of my favorite ones I've done so far you know I think um it's interesting the way that you talk about time trial courses because it almost sounds like you're talking about like a motocross course like that you like you'll never really not be a motocross rider when you're on anything with two wheels I can tell yeah I mean that the way you would attack a course like that and manage speed um
+
+59
+00:24:56,208 --> 00:25:22,000
+yeah there's a lot of similarities I mean bikes are bikes and a lot of ways like body positioning and techniques and strategy to go about stuff is pretty similar the way like you use like you know your hip rotation for example like you do the same thing a lot like on a dirt bike like you do that a lot on a TT bike rotating your hips like forwards and backwards and how to like unlock your hips versus like rolling them under you do that a lot on a like a motocross bike or a TT bike as well so
+
+60
+00:25:22,000 --> 00:25:38,128
+like pelvis positioning, hand positioning, like your body positions, how you go about like cornering and stuff, sighting through turns, line picking, all that stuff. So I tend to like attack a course the same way I would like if I was on a motorcycle, like a TT is very similar to like racing motocross.
+
+61
+00:25:38,128 --> 00:25:55,696
+20 or 30 minutes high intensity and so having that already drilled into me like looking forward and attacking every like second or every section of the race course and if you're not like attacking you're losing time it was like easy for me to do like going from like dirt bikes to bicycles because after doing that for so many years of just
+
+62
+00:25:55,696 --> 00:26:24,320
+trying to attack every square inch of the race course, like the mental game. Once you get that down, then you transfer it to bicycles. Like that's, that's like the same way I would go about like a Jeff's word out TT or like why I look at Moriarty is like 15 or 20 sections instead of like a flat road with a cone. It just comes from doing years of that, learning how to like break the course down and attack it in sections. So yeah, totally. That's, that's why I like them because it's, it's a lot like that.
+
+63
+00:26:24,320 --> 00:26:51,216
+Okay, so I think people would probably be upset if I didn't ask about this because I know the answer to it and the answer is not as cool as everybody's going to think it is. So tell me about the aero prep that you did for this TT. The aero prep. So I would say it's been an ongoing adventure to try to get more aerodynamic equipment.
+
+64
+00:26:51,312 --> 00:27:14,464
+with the budget at hand. So the wheels that I chose are 10 years old and a lot of people were asking like as to why I ran those. The simple answer is because that's the set of wheels that I have. And so they're pretty aero. Head wheels are still pretty fast even if I think they're considered first generation wheels because they're like a rim brake, aluminum braking track.
+
+65
+00:27:14,464 --> 00:27:42,320
+and so I think what they're on like what's considered the third gen of wheels now so yeah they're like a decade old but they're still pretty quick but that's what I got so the aero coach bars that's something you and I picked out we found which was a pretty critical component to the front end as opposed to what I was running at nationals that made a good speed difference because you can really lock in and tuck in like it would be like if you put you know a cheap aluminum stem on your
+
+66
+00:27:42,320 --> 00:28:11,088
+bike and tried to sprint. You can feel the front end flex and it's probably not very confidence inspiring. No, it's not. That's why I've got those beefy zip stems, the big fat boys on all my bikes now. Because you don't want the bars to flex or the stem to flex at all. Because somebody like you, you could just break the stem on the bike. And so the same thing goes for a TT bike. If you've got a cheap set of aero bars or a cheap set of aero bar pads, the amount of give and flex in there makes the position really...
+
+67
+00:28:11,088 --> 00:28:40,032
+non-confidence inspiring plus it's really hard to lock in like if your elbow pad is moving like half a centimeter every time you hit a bump like that changes the amount of like hip angle you have and like your head position is like always moving and that's why they've moved to like those carbon like One Piece 3D like printed bars because it doesn't move it stays there so you can make the position so tight and it'll actually stay every time you hit a bump it's not like your elbow pad is flexing and you're like oh is it gonna break in half when I hit a bump so
+
+68
+00:28:40,032 --> 00:29:08,624
+That would be the one piece we picked out that was pretty critical. As far as the group set goes, I mean, I'm still running 11 speed. A 12 speed would be more ideal. Having like a 10 on the back, even though the amount of chain bind around a 10 is like pretty ridiculous. Just having that bailout gear occasionally would be nice. So that's why I've got the big like pizza pan 60 on the front there, because that's just a cheaper way to go about. You realize that most people talk about a very large cassette.
+
+69
+00:29:08,624 --> 00:29:37,568
+Cog being a bailout gear. You're talking about a 10 being a bailout gear in a time trial. Well, sometimes not wanting to run like 120 RPMs or something like that. Obviously, you do it for specific training like VO2 max or something, but I find personally I don't want to run huge bouts of excessive leg speed because once your heart rate goes up, it's really hard to get it back down. So you can run like some areas where you want like a lot of leg speed like selectively.
+
+70
+00:29:37,568 --> 00:30:03,456
+But I guess the moral story is you want to be able to pick when you want to run leg speed and then when you want to run like just turn over a gear at like 70 RPMs. This sounds like silly like you would never do that but like sometimes on a false flat instead of like spun out doing like 120 you can like shift all the way down the block and if you have like a monster's gear you can run like less power and like slow the legs down that starts bringing the breathing down and you're running the same amount of speed.
+
+71
+00:30:03,456 --> 00:30:32,192
+and you're just turning over like this big diesel gear and all you do is just like tuck in and you're doing like 300 watts instead of like a bazillion watts and spinning your legs out until they blow up and so that's where you'd use the bailout gear is like something like a nationals like where you go over that hill and you come back down onto the oceanfront or the waterfront excuse me where you're doing like 40 because you can shift all the way down the block and you can turn the gear over like steady state and you're actually like bringing bringing yourself down like a little bit and recovering but then you're pushing like speed two
+
+72
+00:30:32,192 --> 00:30:59,040
+and it carries that momentum all the way down that straightaway. Yeah, that's interesting because you're talking about like having a lower cadence being feeling more like a load in your muscles versus the higher cadence being a much more breathing heavy kind of like VO2max kind of thing. And I think it's interesting because when I look at your training data, like you are so consistent at like 95 RPM, but like...
+
+73
+00:30:59,040 --> 00:31:25,968
+It doesn't take much for you to have a much wider range of gear available to you. It's one of the craziest, coolest things I've ever seen, Boot, by the way. It's so much fun to just be like, wow, look at what he can do. It's so crazy. Yeah, I could probably expand on that a little more.
+
+74
+00:31:26,512 --> 00:31:48,048
+you know train myself to have a little wider of a cadence range but sometimes really specific cadence ranges work really really good like you find something that works good like a certain cadence range and you can tell the difference between like two or three RPMs and you know being able to have a gear to select to be able to run that is pretty critical at times to be able to get like all little seconds out of your split time
+
+75
+00:31:48,944 --> 00:32:16,032
+Yeah, well, I think it's also interesting that you've been doing this so long and you've gotten, like, you are your own, like, N equals one, like, science. Because the way you talk about, you know, bike handling or position or, you know, cadence or anything in a time trial, like, this is stuff that is so specifically you that, honestly, like...
+
+76
+00:32:16,032 --> 00:32:43,216
+There's nothing I could say. I could be like, well, you might want to try this if this is an issue. But, you know, you've got it so well down for yourself. And I think that that's something that people listening could probably take as a lesson is to, you know, not think about what you should be doing or what you think you should be doing, but think about what actually works best for you, right? Yeah.
+
+77
+00:32:43,216 --> 00:33:08,736
+having an open mind and listening to a lot of smart people and then from there doing some testing and picking and choosing what works for you like what works for one person ultimately would be different from another but finding like that protocol be it like warm-up or be it like the food you eat or like the strategy or how you go about something what tire pressure you like to run these are all things like leaving no stone unturned and like
+
+78
+00:33:08,736 --> 00:33:36,560
+Really gathering as much scientific data, as much experiential data from other people and then putting together a solid program that's repeatable. That's a pretty big thing and learning how you like to attack a course, how you like to ride your bike, how it likes to be set up. Those are all things that just come with experience and time and I've been doing racing for such a long time that learning from people like yourself and other people who've been in many different sports.
+
+79
+00:33:36,848 --> 00:34:02,848
+picking up just different things down to like even like mindset or stuff like that like it all adds up and you eventually come up with something that works really good for you as an individual which can be sometimes completely different than what works for other people yeah um uh where was I gonna go next um uh tell me about your oh yeah tell me a little bit more about arrow testing because um you know
+
+80
+00:34:02,848 --> 00:34:26,496
+We don't have the budget for a wind tunnel. We barely had the budget for aero bars. So, you know, what have you been doing to like check your position? Because you are, by the way, notorious as somebody who cannot stop fiddling with their position, like their saddle, their front end, everything. Because, you know, to you, it's like as important.
+
+81
+00:34:26,496 --> 00:34:55,120
+to feel strong in your position as it is to actually be going fast. Because it seems like there's a lot of common wisdom these days where I think people think that being incredibly uncomfortable in your time trial position is normal, where all the really, really good arrow fits that I've ever seen and all of my clients have gotten, they can...
+
+82
+00:34:55,312 --> 00:35:23,536
+go ride for like five hours like the next day in their TT position and they can go do some hard efforts pretty much right away with very little time to adapt. So tell me more about kind of the balance between aero and comfort and that kind of stuff. Yeah, I think just from personal experience,
+
+83
+00:35:24,624 --> 00:35:53,072
+I think it's pretty important in a time trial to be able to put out your best effort as far as like numbers go and your time to exhaustion like if your setup is so wildly different from your road bike like not only can you not put out the power you would on your road bike but you don't have like the amount of like time to exhaustion even to your FTP I find like you take like a big hit everywhere and so be it you might be way more aero but the power that you can push
+
+84
+00:35:53,648 --> 00:36:21,616
+isn't as good as it would be on your road bikes. You end up actually not, I feel like not performing as well. So there's a balance between having good aero equipment, having a really good power position, but then making that power position aero. And people always think that like being super, super low or crunched up on a ball means more aerodynamic. And that's not always true. How would I put this?
+
+85
+00:36:22,288 --> 00:36:37,088
+without getting super often to left field about it. Making yourself really small doesn't always mean that the airflow goes over you really smoothly. I've spent enough time around really smart.
+
+86
+00:36:37,088 --> 00:37:03,648
+aerodynamicist because my dad was over in the air from the aviation industry that I'm not going to like delve into that because I'll just get myself in trouble because I know how technical it is and the amount of like modeling they do goes into that and so like you could say one thing and they'll be like no that's wrong so I'm trying not it's like a minefield to traverse so yeah and also the amount of nerds that listen to this podcast yeah yeah I mean that in the best possible way yeah so it's like just in basics like
+
+87
+00:37:03,648 --> 00:37:32,976
+Something that looks fast doesn't mean that always is fast. So like I always find it's a good spot to start to like put out really, really good power. And then you start doing like real world testing, which is what I do. Like I'll go out and try to figure out like between like riding on the trainer and looking at myself in the mirror and trying to like envision about how the air would flow over me and looking like what helmet I'm going to use, where my hands go. You try to make like what would seem like a pretty aerodynamic shape. And then you go out, you go test on the road and see what sort of speed averages you're running. And then you like kind of relate those back to the courses and be like on a flat course.
+
+88
+00:37:32,976 --> 00:38:01,808
+in this sort of humidity I should be running something like this and you can kind of look through and be like well it's not quite as fast and you go back and you look and you look at other people's positions like on the internet you look at somebody who maybe won like a world championship or somebody that's doing like a pursuit effort and you start looking at like the different ways people set their bikes up and you go back and look at yourself and you're like well maybe my seat angle is a little my seat height is a little low because like my back is a little low in this area or like maybe my hands aren't high enough or like and so there's a lot of just like tests
+
+89
+00:38:01,840 --> 00:38:28,000
+look at things try again do an interval see how I felt with like my sustainability how my power felt how the speed like ground speed looks and then do it again like then so it just takes it's just like a week by week month by month process of improving things that's the best way to do is just by like just going out and testing using the the rate of perceived exertion wind tunnel which is like you can kind of like hear
+
+90
+00:38:28,000 --> 00:38:40,880
+You can hear when things feel fast, like based on the amount of pressure there is pulling on you, the amount of pressure there is like tugging on your suit in certain areas, like you can feel the load on your head, you can feel like where you put your hands at, where like it makes like it more quiet.
+
+91
+00:38:40,880 --> 00:39:07,904
+in certain areas where you get more wind noise maybe in your helmet. You can see little differences. If you can hold your power smooth enough, you can see little fractions of a second or little fractions, tenths of a mile an hour difference here and there. And you can kind of get a sense of what's faster and what's slower based on your position. Then you go back and look at stuff again and you tweak things. So that's how I do it. It's just weeks of that. I know it's not the most high budget way, but that's what we got. A lot of experience.
+
+92
+00:39:07,904 --> 00:39:35,840
+Yeah, that's true. If anybody wants to sponsor Cory in time trials, please reach out. So I think that's actually interesting because that kind of matches with what we've kind of talked about with coaching for so long. You can know so many things on paper, but in the real world, you've got to like...
+
+93
+00:39:35,840 --> 00:40:02,784
+Get it out there and see if it works. And you don't, I think in some ways you don't necessarily, like in training especially, you don't necessarily have to have like the deepest scientific knowledge. But I think, you know, I think I've said this on the podcast before, like the more you know, the easier it is to kind of sniff out the bullshit. But at least in aerodynamics, like there's a very immediate, like, you know, change, test, repeat.
+
+94
+00:40:02,784 --> 00:40:32,688
+like there's really you don't have to like do something for three or four months and figure out was this faster like you can you can go outside and figure it out right away which I think is actually really convenient about aerodynamic testing yeah I mean you try to find something that's pretty consistent a consistent area you make sure the weather's pretty consistent and you really like change like one thing at a time so you can tell what actually made the difference if you change two or three things then you'll have a hard time discerning what actually made the difference then you'll go around in circles so it's usually
+
+95
+00:40:32,688 --> 00:40:59,696
+the same thing even like with just changing like bike fitting stuff or anything else like having a good solid baseline and then making one specific adjustment that's measurable and small enough and then you go out and you test it and you see if it actually made a positive difference if not like you put it back where it was and then you change something else and if they work then you add it to your repertoire of things that work if it doesn't you maybe put on the shelf for a later date until you have more information on how to like make it work because
+
+96
+00:40:59,696 --> 00:41:13,936
+it just sometimes those things like you that they don't work because you didn't do it right or you don't have all the information that you learn something later on you go okay I need to do it because A, B, and C was missing so now I try it again then it works whatever it may be.
+
+97
+00:41:13,936 --> 00:41:41,744
+Okay, so I have another question is, can you relate the experience of getting USADA tested? Because I think this is something that a lot of people are probably curious about. And they took both pee and blood from you to make sure that you were not indeed doping for this time trial. And yeah, and came back clean. So congratulations on not doping like I knew you weren't.
+
+98
+00:41:42,192 --> 00:42:01,968
+Yeah, so what's that like, getting pee tested and getting blood drawn at random? Well, it wasn't at random on the day. You knew you were going to get tested, but when they came to get blood, that was random, I think. Yeah, I mean, certain events like they'll...
+
+99
+00:42:02,576 --> 00:42:32,176
+and they'll let you know that they're going to do testing like be at Redlands or Nationals and you know if you've placed in a certain area and then they've got like random people they pick to and they take you over and you go over to the tent and you do a test and you know the people are always super nice and they're usually like athletes themselves and you end up like having to drink a whole bunch of bottles of water and fill out a bunch of paperwork and then it takes forever and then you finally get to go to the bathroom and then you have to go use the bathroom like 12 times after that because the amount of water you have to make yourself to use the bathroom because you're dehydrated from racing so it's very...
+
+100
+00:42:32,176 --> 00:43:01,296
+it's very awkward and unergonomic to do for the first time so and then you realize later on like you know you're gonna get tested and you're like okay I have to drink water or else the poor like guy that's trying to like do the testing is like okay like an hour later you're talking about stuff like just chugging water trying to drink so like as soon as you're done if you know it like drink a bunch of water because you're gonna need later on not too much because like or else like you'll water down your sample and they make you do it again so but
+
+101
+00:43:01,392 --> 00:43:29,536
+yeah it's just and then like them testing me at random like at my house that one was a whole different experience like somebody knocks on the door I think it's like 5 30 in the morning I was like this is pretty early for somebody delivering mail what is this and then there's like a bunch of people standing at the door and like hi where you saw it and I was like wait what how did you find my house like I'm in the middle of like the Amish farm fields in Kentucky so like they came in and we just like hung out with the cats or whatever and talked about sports and
+
+102
+00:43:29,536 --> 00:43:55,488
+that's the first time I had somebody draw blood though which is usually it's a good thing to have though because the blood draws usually what they say is way more accurate than usually like when they do the pee test so having blood drawn just like dispels any rumors of any like performance enhancing stuff I might be buying which like I could never afford in the first place so and so to have that done and and like they were pretty good like the nurse and everything like they
+
+103
+00:43:55,488 --> 00:44:24,128
+they're all trained so it's not like super hokey they just show up and they do a test and they just draw a little bit of blood so like you can go train like right afterwards if you want to it doesn't like wreck your whole day of training yeah nice people not very difficult takes an hour or so just depending on how quickly you can like get water in your system to do the pee test if it's super in the morning because you might be a little dehydrated or something yeah but it's not too bad
+
+104
+00:44:24,128 --> 00:44:53,856
+not terrible what do you have to fill out on the paperwork I'm curious because I think because I've seen I've never been pissed at myself but I've seen the paperwork and it's like you know what kind of like what are your prescription drugs and what supplements are you taking and stuff like that is that stuff on it still yeah they'll go down and they'll check and they'll ask like what vitamins you're taking what supplements you're taking and I try not to take any stuff like that because it's really hard to know what you're getting if you get like a multivitamin or you get like and you hear so many like
+
+105
+00:44:53,856 --> 00:45:21,088
+bad horror stories about people getting tested positive for buying the wrong protein powder or something. So I'm pretty careful about not taking any of that stuff at all just because I'm aware that these random occurrences can happen where they'll show up at your house and test you. And the other thing I do is this is why I try to post all my rides to Strava and I try to never miss an upload on TrainingPeak so we all have the data and it's all there. So at any point in time, if anybody had a glaring question about something,
+
+106
+00:45:21,088 --> 00:45:50,736
+We have all the data to show like all the training and all the years of just like progressions and stuff. And so, yeah, they'll ask you pretty in depth like what supplements you take, you know, do you have any TUEs for anything? And you go down your list, you know, four or five pages of stuff, you know, on whatever. And then they take it all and they ask you if you want to like donating your stuff to research. And it's not like a terribly difficult thing to do. Yeah, it's fine. Cool. It was good to have happen.
+
+107
+00:45:51,312 --> 00:46:20,384
+Yeah, I agree. And I think because I think sometimes when, you know, people don't know just how much of a genetic freak you are. And like your current training block, by the way, holy shit, like I, I've, I've literally never seen anything like it. So, so why don't we start talking about training for a little bit? Because this is one of the things that I get, honestly, like in terms of, in terms of like training, like my clients, like
+
+108
+00:46:20,384 --> 00:46:47,520
+I get more questions about you and like, what is Corey doing differently now? And my answer is always, I make him rest. But I think you can probably go a little bit more in depth because, I mean, to me, it's just like normal training. It's not that much different than I would have anybody else do, except, you know, you're spending a lot more time on your bike than a lot of people have. But besides that, to me, it's just like...
+
+109
+00:46:47,520 --> 00:47:14,768
+Oh yeah, like everybody does this kind of training. Maybe not to the same degree, but all the basic principles are there. So to me, the only real difference is like rest and helping you feel good. And it's so easy because a lot of people need like a little bit of rest and they need some training into racing. And you're just like, nope, let me walk it for a week. I'll do a couple openers and...
+
+110
+00:47:14,768 --> 00:47:44,464
+I'm good to go. It's super simple. It's great. So where are you at with like, what's the difference between what you're doing now versus previously? So previously, I just, there's a big learning experience that goes into training and learning what works and what doesn't. And you can probably attest to that, that there's a lot of magic training protocols and things that
+
+111
+00:47:44,464 --> 00:48:13,552
+are out there that maybe don't always apply or maybe aren't always true but unless you know the difference between what works and what doesn't you end up having to like stumble through a lot of things that don't work until you discover like some of the key philosophies that work really well I would say one like I was maybe missing rest that I should have otherwise not been missing and then
+
+112
+00:48:13,936 --> 00:48:42,080
+riding too hard in endurance was another one that's a pretty glaring one like trying to like squeeze every last while you can out of endurance and then when you go to do like intervals like you don't have like the headroom to be able to push with like the abilities you have and then you just get like this kind of like muddy training um muddy that's a good way to put it where like you don't have the upper end to like push hard but then like you're just like riding too hard in endurance and so you're just like constantly exhausted and so you're really good at just riding like
+
+113
+00:48:42,080 --> 00:49:03,392
+steady state and tempo, but you never have like great FTP numbers because you can't like work on them. Yeah. And that's that's one of them. And then I spent like time in the gym a lot, but then other times like not in the gym and I didn't understand how to do like concurrent training and like gym lifts like blowing me up.
+
+114
+00:49:03,392 --> 00:49:25,184
+before like critical sessions or blowing myself up before the gym and then like not periodizing gym work and so it was just like a giant like muddy mess of like bits and pieces that were working and things that weren't working or like doing too many intervals for a week like sometimes like doing three or four or five interval sets in a week which is like too many and so it was like a whole combination of things that were like
+
+115
+00:49:25,184 --> 00:49:49,312
+right or wrong but the timing was never correct and it wasn't sequenced properly and like a lot of methodologies were missing so some things were great while other things were terrible so it was always like this like something was always missing and now like I feel like I'm like hitting on all six cylinders so to speak and like the training is timing well the hours that I'm putting it are going towards forward motion I'm resting when I'm supposed to I'm putting in like the proper like
+
+116
+00:49:49,312 --> 00:50:11,168
+pace at endurance and endurance at the right time if I'm doing lifting in the gym it's not like compromising like when I want to do like a critical set on the bike I'm doing VO2 max work which I'd never done before that makes a massive difference like actually like elevating your ceiling so you can actually have more headroom to like push time to exhaustion sets like my FTP sets before used to be like four by eights
+
+117
+00:50:11,168 --> 00:50:40,816
+occasionally you do like some 10 minuters or whatever just do like a bazillion of those instead of just doing like actual like 60 minutes like who'd have thought like you want to be able to ride your bike for 60 minutes go ride for 60 minutes like earth shattering stuff but just a lot of mistakes I was making before so and now it's all coming together so I'd say that's the main difference so the main difference is everything okay got it everything
+
+118
+00:50:41,392 --> 00:51:08,784
+I mean, because, you know, it's I think I think especially with some of the folks that you've worked with previously, like a lot of it is like, oh, I've got some super, super secret thing that's going to be like the trick to, you know, making you giving you all worldly manner of watts. And like, you know, you are so talented naturally. It's like, who are they to argue? You know?
+
+119
+00:51:10,992 --> 00:51:38,816
+yeah the magic intervals and the magic stuff a lot of it's just like following some like key philosophies which you teach a lot in the podcast and it can be like super super scientific but if you boil it down there's like some basic like key principles which you like teach all on there if you follow those there really isn't a lot of like magic intervals to do per se just a lot of like time consistency resting properly I mean just things that I wasn't doing properly before it's just like I
+
+120
+00:51:38,816 --> 00:52:05,808
+Well, my go-to was just getting out the sledgehammer, just beating through walls, which doesn't always work. That only takes you so far. Yeah. Well, I mean, I think somebody might look at your current training block and think that that's what you're doing. But there's a method behind the madness. So why don't you talk about the VO2Max block you're doing and kind of actually, why don't we start with talk about the prep that you did for like the two-ish, two and a half-ish months before this current block.
+
+121
+00:52:08,528 --> 00:52:35,984
+Yeah, that was a lot of lifting in the gym like twice a week. Obviously like an adaption phase. How would I put this? It's organizing my thoughts here. It's kind of like a buildup from taking a complete rest up to being ready to do super high intensity work. It starts with just some baby steps. You start with doing like two weeks off the bike, which usually nobody wants to do, not even myself. It's post-race season.
+
+122
+00:52:35,984 --> 00:52:58,144
+and then you start with just really easy stuff like adaption phase stuff in the gym is what you were calling it just basic like we go by rated perceived exertion just basic lifts simple stuff ankle mobility getting ready to go some easy riding on the bike so that like encompasses usually a month of just like slowly building into that and then you start doing some more heavy lifting you start doing
+
+123
+00:52:58,144 --> 00:53:27,264
+you know longer miles on the bike you start building and doing more tempo more over-unders steady state work and so it's kind of like this like slow building process where like you have like the mileage built up you have like yourself yourself opened up on the bike you're building the strength in the gym and then when you go time to like transition over to doing intensity it's not like from out of the freezer into the frying pan where you're just doing like two months of just like zone two and like nothing so there's some like intensity work there but then there's
+
+124
+00:53:27,264 --> 00:53:55,872
+a lot of emphasis on like building a lot of strength in the gym too and then proper rest in there and by the time we get around to that like I'm used to doing 25-30 hours a week I'm used to doing like steady state intervals I'm used to doing like lifting in the gym I'm strong it's been timed well I'm rested then we come into this VO2 max block which is like super savage by the way if you're not ready for it I can actually start making like strides forward and improvements so it's a lot of just like consistency
+
+125
+00:53:55,872 --> 00:54:23,184
+well-timed workouts, basic philosophies stacked together in sequence where it really allows you to go step-by-step from just like a complete rest to ready to just do FTP intervals afterwards. Yeah, and all your aerobic metrics currently are like eye-popping. And I don't want to spoil anything. I don't want to...
+
+126
+00:54:23,760 --> 00:54:49,280
+you know kind of blow anything up ahead of time but um there's uh there's gonna be some pretty healthy numbers on the other side of this it looks like uh like I've like the the the aerobic metrics I'm using to track this uh I'll I'll because this is uh just a little bit of proprietary stuff we'll chat about it afterwards but um yeah never seen anything like this it's awesome by the way awesome like it because
+
+127
+00:54:49,280 --> 00:55:19,280
+just it's like how many times have I told people like even this month like during consults it's like when I see somebody not resting between seasons I'm like you know you've got to like come down off the ladder there's no more rungs your ladder is only so tall and the ladder is a metaphor for how much training load you can absorb so you've got to like get down off the ladder move it to higher ground and now you can like now you can climb it again like you're ready to absorb the training load and that's exactly what I'm seeing it's it's so textbook it's
+
+128
+00:55:19,280 --> 00:55:49,136
+It's so nice. It really is. Yeah, and a lot of people really overlook that rest after the season, and that's a perfect analogy, like climbing up the ladder, you get the top rung of the ladder. I know what that feels like, where you just feel exhausted, like down to the bone almost, where you're like, I need to take like a nap for like two weeks, is what you feel like, and you need to, because or else you have no more room to grow, but you get like this, where you're like, oh, I'm going to lose all my fitness, I have to keep training, I have to keep going, and like,
+
+129
+00:55:49,296 --> 00:56:19,296
+But if you don't take that rest, then like you said, you have to come back down off that ladder and kind of like set everything down and start from square one and then take like a month to slowly rebuild things and then get back into like into stride and then start putting things back together and then and then get ready to let go again. And that's pretty important. A lot of people overlook that. So that was something I was messing up a lot. Well, I think it's not even it's not even square one because, you know, you took a couple weeks off. You took some time in the gym, easier rise, lower volume, building back up.
+
+130
+00:56:19,296 --> 00:56:48,576
+you know it it only took you um it was kind of a deliberately slow process it could have taken you much less time but it only really took you let's see like late September to yeah it took you about two-ish months to just kind of ease back into your previous fitness and you don't even have to ride that hard we started doing some testing efforts and it was like bam like right back to where you were and I think people are so afraid of you know losing a couple watts for a little bit but
+
+131
+00:56:48,576 --> 00:57:10,512
+In the longer term, letting yourself lose those watts allows you to train harder when you need to train harder. Because I think if you had kept going right after Moriarty instead of taking a break, I think you would probably be quitting the sport right now instead of going, wow, give me another week, let's go. Probably about that, yeah. And I think I was...
+
+132
+00:57:10,512 --> 00:57:40,112
+talking to you about being nervous about doing the 30 to 40 minute test and whether after taking like two months from not doing any FTP as to whether like where that would be at and it was it was surprisingly actually not that far off and so just being confident in myself and learning that lesson like being confident that like the fitness really doesn't disappear all that much like it'll be there within like a couple percent like two months later even if you're out just like riding around on your bike easy we went from doing like just some aerobic riding and some a little bit of tempo stuff to just doing an FTP test and it was like
+
+133
+00:57:40,112 --> 00:58:08,784
+was right there again and then we're back here doing stuff and so the rest is pretty critical so you're not going to lose that much or if anything like you'll gain a lot by resting yeah and I think this kind of reminds me of what Dean Golich told me a long time ago before I had you know worked with anybody of quite this caliber he said that you know most of the most of the top people
+
+134
+00:58:08,784 --> 00:58:35,216
+they don't really lose that much fitness when they rest like their power numbers he says are within about 1% all year round and the big difference is that they gain endurance and not like not watts per se like you know a couple watts here and there sure but but the biggest change is in what you can do after you've been racing for four or five six hours okay yeah
+
+135
+00:58:37,232 --> 00:59:01,456
+So, yeah, hopefully you'll be doing some more stage races this year, even though last year was really unfortunate that you were promised some stage race starts and it all fell through. But, you know, onwards and upwards. Yeah, that was a tricky season. I think coming out of lockdown and then going into that season.
+
+136
+00:59:01,456 --> 00:59:29,520
+People were still trying to figure out like race schedules and budgets and all kinds of stuff and so I was slated to go start a lot of those races and we never got the chance to be at like Redlands or Joe Martin or Tour of the Gila or Valley of the Sun or all that stuff like went by the wayside it was I was frustrating to not get to that so but the later half the season was really good I kind of like we picked up the pieces and did a lot of those time trials and races around in this area and ended up going to do that record and so I think
+
+137
+00:59:29,520 --> 00:59:52,848
+giving a little bit and not doing those allowed me to gain the extra headroom and concentration and ability to train hard to be able to go and set that record so that that worked out in the long run yeah okay so I think I've only got two more things for us so the first thing is why don't you tell people about
+
+138
+00:59:52,848 --> 01:00:21,168
+what you're doing with your VO2max block, like kind of how it's structured versus like how would you give it to like an average amateur who's, you know, doing like 10 to 15 hours a week? Like where do you feel the difference is, you know, enabling you to handle the higher training load and also what's kind of reasonable to expect for an average person who wants to try a focused block of VO2max?
+
+139
+01:00:23,408 --> 01:00:51,856
+So, for somebody like me, like I'm currently doing six sessions a week, and I think we're going to do three weeks versus six sessions a week, so that's 18 sessions total, comprised of three double days a week. Some of them are back-to-back double days, so like AM workouts, PM workouts, next day AM workouts, PM workouts, and then doing endurance.
+
+140
+01:00:51,856 --> 01:01:21,136
+So the volume is staying up. I'm doing between 25 to 30 hours a week, and I'm doing roughly, that would be three days a week of 40-something minutes of VO2 max, like stimulus, broken up into two separate sessions. So that's quite a huge load. For somebody who would normally be just at a Cat 3 level or a local racer, I probably wouldn't give them six sessions a week.
+
+141
+01:01:21,392 --> 01:01:51,152
+it's all about seeing whether they're making an improvement or not because these are really hard so it's easy to say the word VO2 max but until you do like one of these intervals where you're spinning at like 110 or 120 you know RPM and you're doing even like three minuters you're like oh I can do seven by three minutes and you do one of them you're like holy cow like three minutes I didn't know it could be so hard and I got how many more six of them and I could do them again tomorrow and so it's yes they're no joke but they make a difference and so
+
+142
+01:01:51,152 --> 01:02:20,928
+For me, doing that many sessions is necessary to push the stimulus to actually get that to raise up because we were talking about how it was hard for me to actually get to crack making some improvements for the first week and I had to bust through that barrier through so many of those sessions and now all of a sudden I'm making headway and it took a while to get there, getting my legs to be able to turn with that amount of speed, just seeing how much I can actually push and get my heart rate to stay up and get the breathing to go up.
+
+143
+01:02:20,928 --> 01:02:47,248
+because, like, for me, like, if I, like, shifted down, we were talking about that, like, my heart rate would recover, and so, like, there was, like, this tricky balancing act until, like, I got, like, adapted to it, and now we're making headway, but for somebody else, like, no, we wouldn't give them six sessions a week, maybe one, maybe two, just depends, it depends, like, to use what you're saying, it depends on whether they're improving or not, like, if they're not responding to three or four of them, and they're just, like,
+
+144
+01:02:47,728 --> 01:03:15,088
+just dying but not getting an improvement maybe only one or two so like you were talking about in one of our meetings a little while ago like some people like you'll mix in doing like high power shorter VO2 max efforts and doing like you know FTP style efforts in there and other people can do straight up just like a lot of aerobic work and specifically focused on just VO2 max.
+
+145
+01:03:15,088 --> 01:03:34,512
+and so it's just it's highly dependent on whether they're actually improving or not. I'd say for somebody like that I'm working with it's at like a lower level like one or two sessions a week will do it and it'll do a really good stimulus of doing like three minuters or four minuters and depending on like the type of athlete some people have to like
+
+146
+01:03:35,120 --> 01:04:02,432
+be a little more conservative with their startup like spin-up sprint while other people like me like I don't have like a fantastic sprint so I can just basically smash the gas pedal to the floor like right at the beginning and I'm not going to do 2,000 watts and destroy my legs so like that part's a little easier or like somebody like you if you did VO2 max you probably if you stepped on it for like five seconds like you would explode within probably 60 seconds yeah instant death I'm gonna I'm gonna throw a rod to use the engine analogy
+
+147
+01:04:02,432 --> 01:04:19,920
+Yeah, sprinters, I usually recommend that they pace it a little bit, especially somebody whose FTP is like a lower percentage of their VO2 max. And so once you like get into those bigger power numbers, like you're using so much more muscle mass than is typically trained to do steady state.
+
+148
+01:04:19,920 --> 01:04:49,584
+so it can be a lot more fatiguing and something like that that's where I would be like all right we'll do some prep work like maybe we'll do a couple intervals then we'll do some rest we'll do some sweet spot kind of stuff like you know folding those in a little bit is one strategy you know during a different type of block like you know tempo kind of sweet spot endurance block is another strategy to kind of get somebody used to that kind of thing without you know blowing their legs out of the water because yeah we sprinters yeah if we really want to go for it
+
+149
+01:04:49,584 --> 01:05:15,408
+Yeah, it's going to hurt. So I have definitely recommended to some sprinters like even pacing or only a slight positive split and not like, you know, mashing the gas of the firewall like you can do, which is another thing that I'm always in awe of. I'm like, man, what is it like to be so aerobic? I have no idea. Well, for these ones, it's pretty difficult, like to get yourself to.
+
+150
+01:05:17,488 --> 01:05:45,296
+to get yourself to work hard enough and find the balance between like spinning really hard pushing with enough force to get your heart rate to elevate quick enough and then like hold it up there for a long period of time and so it took me a little bit to figure out how to time it properly and I just I just had to start that hard at the beginning like if you're more aerobic like you have to start hard like you just spin up pretty hard on the trainer and the trainer works really good because it's got the flywheel effect on it I don't know if I can get the same effect outdoors
+
+151
+01:05:45,296 --> 01:06:05,776
+as you would indoors. So if you're doing VO2 max blocks, the trainer's pretty well the way to go because you can take the load off of the trainer and you can spin up really hard where you can get up on top of the gear at like 120 RPMs. Then you can add the load on and you're doing resistance mode. Then you start using the shifting like with the cassette and then you can stay.
+
+152
+01:06:05,840 --> 01:06:33,504
+pretty well at like 110 RPMs for the majority, but you start dying towards the end of the last 60 seconds, but that's like where you start really like making the headway on the gains. It's pretty miserable, but you start making, that's where it starts paying off. It's a character builder too. Now it's sounding like somebody's dad. The suffering makes you a heartier person. And I wrote this on somebody's
+
+153
+01:06:33,504 --> 01:07:02,496
+VO2Max workout recently. But another of my observation with VO2Max is that I think women are better at it than men. Their capacity to suffer is just immeasurable in my experience. So it's one of those things where it's like, if you ask somebody like you to suffer, you've got to calculate the suffering. Like your girlfriend, for instance, is like,
+
+154
+01:07:02,496 --> 01:07:29,072
+ask her to suffer. And she's like, got it. Can't do. She's doing really good. I've watched her do a couple of those and I like, she's hitting like heart rate highs that are much better than mine. You watch the attention she's riding with it for three minutes or she can get that way up there. So it's, um, yeah, yeah, it's going to make a big difference. So, yeah. And I, my other observation is that, um, well, you've, you've noticed this definitely, but there is a cadence at which
+
+155
+01:07:29,072 --> 01:07:57,120
+you can no longer pedal hard enough to make yourself breathe hard and keep your heart rate up and that's I think an edge that a lot of people probably are experientially a little bit aware of like when they try to do the high cadence VO2s but it's also one of those things that you know you kind of do need to hear confirmed is that like yeah you can spin too high like right now if I did if I did VO2 max efforts I would probably do them at like 110.
+
+156
+01:07:57,120 --> 01:08:24,688
+because I used to do them at like 120 easy if I wasn't doing like hill reps or something like that. And so I was like, yeah, 120 back in the day. Cool. No problem. Now it's like 120 is kind of a big ask for three minutes just because I just can't contract that fast for that long anymore. I could do it for a minute for sure. Yet it definitely takes some practice and some technique to do. Like I think I was.
+
+157
+01:08:25,040 --> 01:08:51,024
+struggling for the first week and that's what was going on there is I was only spinning about 105 and I feel like if I went any lower I was going to be digging into those larger motor units in my legs and I wasn't going to be able to do like 40 minutes of VO2 power but then like I didn't have like the spin speed without like dropping off the power and then I couldn't like push enough like load on the system get the heart rate to go up and so it was like a balancing act between the two and I started like figuring out how to like
+
+158
+01:08:51,024 --> 01:09:16,032
+actually can track faster. I'm doing like 110 to 115 now. Like obviously like the cadence doesn't work on my bike. So you like have to take that for, but you have to like take my word for it. But I'm doing like the old school counting where you can count the amount of like revolution you're doing in a second. You watch the clock and it's like, I'm doing like probably 115 for the first bit. So that hard spin up at the beginning and then like just holding 115 and then
+
+159
+01:09:16,032 --> 01:09:43,504
+teaching my body how to contract and push with the same amount of force I would do at 105 at 115 and all of a sudden like that's where the big gain came with all the power because I figured it out. It took a little bit though. I mean it sounds like you're racing a points race like doing math at VO2 max and 120 RPM. That is like a track racer right there. We got to get you on the track one of these days. I probably would really like the track.
+
+160
+01:09:43,504 --> 01:10:12,944
+That would be a good one for me because I'm such a tech nerd and I'm so focused and I like those highly focused specific things that the track would actually be good for me. I'd have to probably go give that a try. I've only ridden them briefly and it was really a lot of fun. I rode the Carson track. Yeah, well, I mean, well, I mean, I think it's actually interesting that because you and I are kind of nerds in a very similar vein where I think having more controllables is actually a good thing for us.
+
+161
+01:10:12,944 --> 01:10:40,880
+which is weird considering my how much I really enjoyed bun sprints back in the day but you know like doing something like a kilo or like a you know 200 meter time trial or something like that like I love those aspects of it like like having so many more controllables over how things go and yet at the end of the day you know the the wind changes like you end up doing it in the rain or you've got a headwind on the start straight or the back straight or something like that like it throws the whole thing off
+
+162
+01:10:40,880 --> 01:11:07,728
+And anyway, so yeah, you would definitely like the track. All right. So last thing is I've got for you here is TTE stuff. Because, you know, I think, you know, this previous year, like last summer and fall and, you know, even going into nationals, like, you know, hammering the TTE stuff and that kind of threshold.
+
+163
+01:11:07,728 --> 01:11:36,544
+training I think was probably a bit of an eye-opening experience for you at least based on my conversations with you before and afterwards. So why don't you talk a little bit about doing TTE work at Threshold and kind of how that made an impact on your time trialing and if you feel it made an impact on anything else. Yeah, really working on that TTE is
+
+164
+01:11:36,544 --> 01:12:02,992
+is pretty huge at FTP. I think before I had coached with you or anything else, I had done a lot of shorter sets and focused on trying to do maybe more power. And so I ended up maybe riding harder than what my threshold was. And so the sets were like a classic, like four by eights or four by tens or something, or however long it took to go up the short part of round mountain or something.
+
+165
+01:12:03,216 --> 01:12:26,336
+What you notice is then later on in like those races when you have to come back and you have to actually push for like 30 or 40 minutes like consecutively like on a time trial you don't have That in the tank because you haven't practiced it and so Coming back and doing that time to exhaustion work and actually physically learning how to do like, you know, three by 20s and then
+
+166
+01:12:26,336 --> 01:12:53,776
+two by 30s and then two by 40 and 45 minutes and then 60 minutes and then doing like that continuously like week in and week out really makes you much more adept to being able to like consistently hit those numbers and then being able to actually like do that amount of time like you have to practice that amount of time to do it it's like it's one thing to have like that number where like oh like my my FTP is like this divided by that like that I should be able to do that for 60 minutes well you can't unless you practice it like
+
+167
+01:12:53,776 --> 01:13:19,136
+It's there, yes, but unless you do the amount of time and repetitions at practicing that, you don't actually develop that amount of platform to pedal for that amount of time, and then after 20 minutes, you just drop off, and you lose, and you end up going to steady state or tempo after that, because you're not used to it. So you have to actually practice that amount of FTP number and start extending that out, and it's like the first time you go to 25 or 30 minutes, you're like...
+
+168
+01:13:19,136 --> 01:13:47,696
+that was a little more difficult than I thought like practice 40 minutes and then 50 minutes and then 60 minutes then pretty soon like you can do it but only if you practice it otherwise like it's just like a fancy number that you have but you can't actually do that for 60 minutes because like you're capable of it physically but you haven't practiced it so I'd say those longer sets are pretty important and especially if you're looking at any races with long climbing efforts or like stage races with long time trials like having
+
+169
+01:13:47,696 --> 01:14:14,528
+practiced your time to exhaustion is pretty huge it's a big benefit because you'll notice like other people that don't like on a long climb or something they start feeling it like by the time the 20 or 30 minutes comes around or like long time trials like people usually blow up around the 20 or 30 minutes because they just don't know like how to pace it or they haven't practiced it and so like nationals is a perfect example like lap one and lap two looks great and then lap three like they just like lose like two minutes you know like well no time to exhaustion training there
+
+170
+01:14:14,528 --> 01:14:41,184
+Yeah, I think it's interesting that you say, you know, physically capable of it. Because I think that that's, maybe we should break that statement down a little bit. Because when I hear that, I think, you know, somebody should be capable of holding FTP for an hour. I think after training, yes, I think just about everybody is capable of holding FTP for a full hour, like no doubt. But, you know, I think...
+
+171
+01:14:41,184 --> 01:15:09,584
+you know right away like after this after this VO2max block we're gonna test your FTP and see where you're at and I guarantee you're not gonna be able to hold it for an hour like no matter how hard you try so oh man but when you will oh man like when we get to TT Nets um yeah it's gonna be uh hopefully gonna be a good day but we'll see and uh maybe we'll talk about the hour or something like that later this year or next yeah I guess like you'd be physically like
+
+172
+01:15:09,584 --> 01:15:33,056
+the capacities there to do because like you've created that through doing VO2 max work and all this other stuff but you still have to like train that ability to do that to 60 minutes yeah that would that would be more accurate like you're saying yeah because I remember when I was doing podcast Tim I think and
+
+173
+01:15:33,056 --> 01:16:01,808
+you know I think I had mentioned a conversation that we had had I think it was at Nats where you were like man I want a 450 watt FTP and I'm like okay calm down we're working with you know we're working with a lower number right now but we'll get you there but we're not gonna be able to get you there like right now especially I think it would be interesting for you to talk about how you feel TTE training might be
+
+174
+01:16:01,808 --> 01:16:29,504
+better during a season. Because the way I structure it with you is we do the Via 2 Max stuff, the super, super hardcore fall off the bike after every session kind of thing, eat everything in sight, like grocery bill probably doubles during a Via 2 Max block. Sorry about that. Yeah. And then once you get in season, I see so many people.
+
+175
+01:16:29,504 --> 01:16:58,688
+I do a fair bit of consultations these days. And when I see people who kind of do V2 Max work throughout the season, it's actually hit or miss, you know, being able to do it with a high quality, especially when you're recovering from racing a lot. So especially if you've got a kind of a hard racing schedule, you know, what are you going to do? Like Saturday, crit, Sunday, road race, Monday off like Tuesday. What are you ready for V2 Max work? I don't know.
+
+176
+01:16:58,688 --> 01:17:23,696
+Are you going to do that all year? So I'm obviously asking a leading question. So let me ask it to you this way. When you are working with your clients, how do you structure that kind of thing throughout the year? How do you think about the periodization and times of maintenance and when to push and when to pull with everything?
+
+177
+01:17:25,584 --> 01:17:46,368
+yeah the cost of a VO2 max block is so high it's pretty hard to do anything other than maybe like some crunches or something like that and a little bit of like PT work other than that like you're gonna be if you have like a day job like between doing a day job and doing like your couple VO2 max sessions and then just like
+
+178
+01:17:46,368 --> 01:18:13,680
+riding around on the bike easy. That's about all you're going to be able to do. Like putting in racing in there is quite a stretch because the intensity is so high. And then like the rest you need afterwards is pretty absolute for like at least a week. And then you can start doing like FTP style stuff. But like in races, when you're racing, you're either focused 100% on racing, you're resting, or you're maintaining. It's pretty hard to like...
+
+179
+01:18:14,096 --> 01:18:41,584
+push like that ceiling doing VO2 max stuff I found personally during race time because the racing is so intense that if you're not recovering from it then you're just maintaining something like I'll go out and do maybe I can work on like time to exhaustion stuff at FTP but that's just me personally but then like trying to go out if I tried to do like VO2 max stuff in the middle of doing racing while trying to do FTP while trying to do like
+
+180
+01:18:41,584 --> 01:18:58,304
+Intermittent efforts or something like you just explode within like three weeks so racing is specifically like for racing resting or maintaining I find personally and it seems to like be a pretty common theme with a lot of people if you put too much stuff in there more than like the racing would count as like
+
+181
+01:18:58,304 --> 01:19:14,960
+one intensity session in a week and then like maybe you could put in like some sort of FTP stuff I find that's pretty critical to maintain that throughout the season like if you miss like three or four weeks of that that starts to disappear so it's something you want to work on like maintaining that time to exhaustion working on it and then
+
+182
+01:19:15,312 --> 01:19:37,856
+maybe some early season stuff you can put in some more intensity work if the races aren't very intense or they're not very important like if they have like a 30 or 45 minute local crit they're doing like once a week then you can put in something like some 30 30s and like a little bit of like steady state work or something like that and add a little more in there but by the time like that those those races come around that's all you're going to be able to do I find is like either race rest or maintain
+
+183
+01:19:37,856 --> 01:20:04,224
+so the time to push is usually in the wintertime or preseason and then as like those races that are critical start approaching you start like focusing less on trying to like really push that like that um performance and you're more of like trying to rest so you can use that performance that you've already created like in the months prior I guess did that answer the question man I got nothing to add you nailed it perfect
+
+184
+01:20:04,224 --> 01:20:31,840
+I knew you were the right guy to bring on as a coach. I couldn't have said it better myself. Because I think you're absolutely right about all of that. I don't think that you being a genetic freak actually impairs how you are as a coach.
+
+185
+01:20:31,840 --> 01:20:56,928
+You know, it has a reputation to happen sometimes. I don't think it's quite as common as a lot of people think it is, but it definitely happens. And so, yeah, I mean, I, yeah, I, man, I'm super appreciative of just your ability to kind of, you know, sort those things separately. Because, you know, because you're somebody who listens to people.
+
+186
+01:20:56,928 --> 01:21:25,424
+and how many, not to name names, but how many coaches have you met and possibly worked with who just don't listen to people and where that's one of the biggest, most critical parts of a coaching relationship? I mean, there's been a few of them where it's just like their way or the highway and they've got such a level of experience in other areas that they think it translates over into coaching.
+
+187
+01:21:26,160 --> 01:21:53,488
+I'd say that my stuff is from I myself like failing enough times or dealing with other coaches or relationships or things like that have not worked that I kind of have a basic idea of what not to do and then between like reading stuff and learning stuff you start painting a picture of what works pretty well so a lot of it's like experiential but you know it's good to have maybe some
+
+188
+01:21:53,488 --> 01:22:23,088
+some coaching relationships or some other things that didn't quite work as well because it gives you contrast and teaches you what works better later on. Not to say that all the people I haven't worked with in the past, you learn things from each and every person. They have some specialty they work with. And so it's good to learn those things. But then, you know, how would I put this?
+
+189
+01:22:23,760 --> 01:22:52,416
+I'm having a brain fart right now. I know what you're trying to get. You're trying to put something very delicately that is difficult to put delicately. I understand what you're trying to say. Actually, one of the things, after every podcast where we possibly mention some certain folks, everybody's like, just name the names. I'm like...
+
+190
+01:22:52,416 --> 01:23:19,792
+I don't want that kind of attention. And definitely neither do you. But let me ask you one last question that we did not prepare, but I'm curious and we'll cut it out. If it's something that we don't want on air, we'll cut it here. Okay. Now, knowing that this may or may not actually be on the podcast, what is the craziest, stupidest thing?
+
+191
+01:23:19,856 --> 01:23:46,128
+Coach has ever asked you to do or made you do for training? Holding my breath for minutes at a time, suffocating myself so that I may increase my body's hematocrit level. So that was holding my breath was one of them. What was another one?
+
+192
+01:23:46,128 --> 01:24:13,920
+I should ask, while you were doing that, were you thinking, this is fucking stupid? No, because sometimes that's where, as an athlete, you're trusting that your coach is giving you the best possible knowledge that they know. They're trying to be a good influence on you.
+
+193
+01:24:13,920 --> 01:24:43,440
+that's like the coaching client relationship that there's a lot of trust there and so maybe some of these methodologies that they were teaching as ridiculous as they were maybe they truly thought that they were teaching something that was very valid and I mean I guess in a way I guess that's okay but like I think I've learned from that like it's how important it is to really if you don't know something say I don't know but let me figure it out.
+
+194
+01:24:43,536 --> 01:25:12,512
+and so you can give somebody really good knowledge because you're taking a lot of somebody's time and somebody's finances and somebody's stuff and there's like this trust that's involved where like when I try to write a program like when I write it like I sit there and think for a while like what's the best possible thing that I can put on there and you know most time it goes pretty good sometimes like you know even as a coach like you do things that don't work you're like oh man that was a failure and like you have to try again and you have to own those failures so like
+
+195
+01:25:12,512 --> 01:25:39,296
+sure there's been some pretty ridiculous things I've had to do by coaches and like I feel sorry for them like if if it was a failure but hopefully they had the best of intentions in mind like put their best foot forward when they gave me those ridiculous workouts and I was thinking like this has got to work like this is the next best thing this is like the magic workout and like and then it doesn't work later on like I think you you probably experienced that where you put things in like and at some point in time later on you're like well
+
+196
+01:25:39,296 --> 01:26:08,656
+you know that really didn't work out because we read this study later on and like this theory wasn't a thing like but you try to do like the best you can to give really good information because you know like how important it is the people that you're teaching or working with that you give them good stuff because they only have so much time in the day they only have so much effort and what they're doing like they want to make these improvements like you've got somebody's like hopes somebody's dreams somebody's ambitions that they're like entrusting you with you have to be like okay what's the best way that we can get this person who has a lot of ambition to get better like to where they want to be
+
+197
+01:26:08,720 --> 01:26:36,544
+and so I think that's the long way of answering that I feel like they may not have known what they were doing but hopefully they learned from that failure as much as I did that that holding your breath uh I would not count on them having learned as much as you have oh man but I try to give people the benefit of the doubt ah they've they've lost the benefit of the doubt in my mind anyway um
+
+198
+01:26:36,544 --> 01:27:05,184
+Especially looking back over some of those plans and just reading them going. I mean, I mean, it's low cadence work for an hour straight. It's only like your knee explodes. Oh, God. Yeah, not that much. Jesus. I mean, even the low cadence stuff that's going around now is like four minutes. Okay, good. 90 minutes. 90 minutes. It's like some of those dominant position for your TT. Oh, my God, dude.
+
+199
+01:27:05,184 --> 01:27:29,936
+where you can't breathe. We were looking at your old position from Redlands and we were like, oh, there he is. We recognize that. Oh, yeah, there it is. I discovered that I was like 15 millimeters too low. Oh, God, yeah. I think I was a good 15 millimeters too low on my seat or something like that. That's on me. I should have known better as to what my seat position should have been.
+
+200
+01:27:29,936 --> 01:27:57,712
+you also learn as an athlete there's like a connection between like the mechanic the coach and yourself and it's up to you to be able to like speak more than just like goo goo gaga speak as to what's wrong with your bike so they can scratch their heads and figure out what's actually going on so like I didn't know so like my seat ended up being that low that's why you watch replays I'm just like smashing my foot down because I just had a ridiculous fit yeah and I think you know I think at least now I think it's
+
+201
+01:27:57,712 --> 01:28:26,064
+good to recognize that as coaches, we are not fitters. You are your own personal fitter, but we can recognize when something's wrong with a fit because there's a weird training outcome or fatigue after something when you're like, wow, that's very unusual for you. You just got this fit. Let's talk about it. And it's not up to us to fix it, but it's up to us to go, wow, I think this is suboptimal.
+
+202
+01:28:26,224 --> 01:28:53,280
+I think at least with a lot of that stuff, you know, I don't know. In some ways, I think people who say that, oh, yeah, this simple thing is the answer. Like they're in a way, I do believe that they think that for sure. Like, oh, you just have to do this particular training zone or you just have to do this particular.
+
+203
+01:28:53,280 --> 01:29:19,120
+bike fit or you just have to do this particular holding your breath, I guess, or super low cadence and make your knees explode kind of thing. And I think when somebody's working with somebody like you and they see on the other side like, oh, you win Redlands or you win TT Nats or something, like they go, wow, it works. And I think that, you know, having done those failures, like you've had
+
+204
+01:29:19,120 --> 01:29:47,792
+those failures. I've had those failures, like both coaching and as an athlete. And, you know, on the other side, one of the things that I always think about whenever I'm choosing a new coach for Empirical Cycling is, is this going, is this person going to learn from their mistakes? Are they going to be able to say, I'm sorry, like, you know, this is my fault on their failures. Like if, like every once in a while, like I'll like write somebody's week out or training peaks won't save it or I'll forget, like there just won't be a workout on like a Thursday.
+
+205
+01:29:47,792 --> 01:30:10,992
+somebody's like, hey, did you forget this? And I'm like, that's possible. I'm really sorry. It's one of the downsides of writing all the workouts by hand. It just happens once in a while. So it's pretty embarrassing when that happens. I've had that happen once or twice. Yeah. It's going to happen a lot over the next couple of years. Yeah. Over the rest of your coaching life, it will happen. But yeah, I think.
+
+206
+01:30:10,992 --> 01:30:40,736
+When I thought that you were a good fit for us, that was one of those things where I was like, man, this guy has been through so much shit. He's going to have a really, really good sense of honesty with his clients. I think I was right about that. I figured you were only going to need a little bit of guidance.
+
+207
+01:30:40,736 --> 01:31:08,464
+you know just kind of confirmation of oh yeah like there are no silver bullets like you just got to work hard and some people are gonna get there some people are not and you know it doesn't matter that you know most of us are never gonna get to the world tour you know because I think you respect people the same way I respect people if somebody wants to work hard even if they're not even racing you know we're gonna support them to the best of our abilities.
+
+208
+01:31:10,096 --> 01:31:28,880
+Yeah, I guess I've been on both sides of the equation there. I've had some pretty spectacular failures myself, so I think that that's given me a lot of some pretty painful ones, and I think that that's given me a lot of insight as to how to connect with people.
+
+209
+01:31:29,520 --> 01:31:55,344
+and see the situation they're in, kind of like relate to it. Then it allows me to be able to put myself in their shoes and think about like what they're trying to achieve, what they're trying to do. And I'm like, I remember when I was there at this spot. And then I think being able to relate to the people you're working with in some fashion is pretty important. And then being a good listener and then just trying to put like your best honest effort in to help somebody because they're putting a lot of their time in finances and like emotional like.
+
+210
+01:31:55,344 --> 01:32:24,160
+bandwidth into this coaching relationship and so you got to be like honest and do your best job you can because you're trying to help somebody in the end of the day like you're trying to help somebody like achieve something. Yeah and having that that positive outlook and that positive feedback and like believing people can do stuff like I've got a couple clients now who are you know doing different training than they have been previously and you know they'll they'll thank me like thanks for believing I can do this and I'm like I think everybody can do this you know you just.
+
+211
+01:32:24,160 --> 01:32:45,440
+You need to just tweak a couple things. And I think everybody, if they wanted to, could easily do the type of training that pros do. Obviously, if they had infinite time and no stress and a lot of money and stuff like that. And it's just not everybody physically can.
+
+212
+01:32:45,440 --> 01:33:12,992
+You know, I don't like, I don't give up on people. You know, like, okay, one year, we don't see the fitness improvements that we thought we were going to get. Great, we're going to try something else next year. Okay, that doesn't work. Great, we're going to try something else next year until, well, there is no end to that cycle. It's just, we're going to keep going. So, yeah, and I think, you know, one of I think our styles is like,
+
+213
+01:33:12,992 --> 01:33:41,136
+no negative feedback. There's no punishment with us. I don't know about you, but I don't find that motivating. Sorry, say again. I was just going to say, I don't find... I hear that dog barking too. Yeah, that was what was going on in the background. I was like, what is that? Don't worry about it. I was just saying that...
+
+214
+01:33:41,136 --> 01:34:07,328
+I think that the way that we approach our coaching relationships is also super important because we don't do any punishment kind of feedback because it's not motivating to do that. It's something where we're not like, oh, well, you didn't do this workout right? Okay, great. Well, you're going to have to do it twice as hard tomorrow. It's like, no, you didn't do this workout right. Let's find out why. You're probably tired, so you get to rest.
+
+215
+01:34:07,328 --> 01:34:35,424
+like we're not going to make you go harder like you've got to go easier until everything starts to work out like that kind of stuff you know yeah that just comes from being in the athlete's shoes too like you've done enough like difficult workouts yourself that you have like sympathy for people and you can connect and be like okay I know what it's like to like fail a VO2 max like session or crash on your bike or like or have a miserable day riding in the rain for five hours like you've done that enough like as an athlete then like
+
+216
+01:34:35,424 --> 01:35:00,640
+when you coach somebody you're like oh yeah I know what that's like and like you can see through the data like the data is one thing and then you see their comments where there's like upside down smiley faces and like little emojis with tears in the eyes and you're like okay let's try this from a different perspective here I know what that's like so maybe we don't have to do this workout we can try a different one it doesn't have to be miserable yeah for sure I mean and and um
+
+217
+01:35:00,640 --> 01:35:28,816
+Some of our mutual friends who are working with you have sent me some hilarious screenshots of your comments on their training peaks. Like my favorite one so far is you saying that like about cyclocross, what was your phrase? Something like, you think it's silly to run with a bike when you could be riding it? Oh, yeah.
+
+218
+01:35:28,816 --> 01:35:58,496
+Yeah, I just have a hard time doing running myself. I'm not really a big fan of having to run with a perfectly good bicycle and myself like when you can ride it. Like it's some people really like that. And so that's that's good on them. I mean, I would prefer like if I would be in the cyclocross if they weren't like specifically like making you have to ride like in mud or like specifically making you run with bikes and things like that.
+
+219
+01:35:58,496 --> 01:36:27,984
+wrote a sport like that. I would probably write out that part. Is there anything else that you thought about while we were chatting that you were like, man, I got to get to that and we didn't get to it? No, I think we nailed just about everything right there. I think anything else we'd talk about would probably be for a future podcast. We could come up with another.
+
+220
+01:36:28,144 --> 01:36:55,760
+Another one. I think this one was good. I really enjoyed it. All right. So, of course, thank you to Corey for coming on to the podcast. And, of course, as his coach, I want to thank him for being such a hardworking and excellent athlete. He really, really is just a pleasure to work with. And, of course, I've gotten great feedback about him as a coach. He's a pleasure to work with there, too. And, you know, as you just heard, a very thoughtful kind of guy.
+
+221
+01:36:55,760 --> 01:37:14,656
+Again, I'm glad I picked him to come coach with us because I still feel like he was a really good pick. Anyway, so thanks, Corey, and thanks for knocking down the American 40KTT record as an Empirical Cycling athlete. So, so happy.
+
+222
+01:37:14,656 --> 01:37:41,648
+and of course as usual if you'd like to oh this is what I forgot to plug at the top of the show is if you want to donate to the show empiricalcycling.com slash donate we've got some Venmo and PayPal links up there so we really appreciate the donations that is one of the big ways that you all help keep the lights on if you'd like to become a recurring monthly donator you know five bucks a month 60 bucks a year it goes a long way we really appreciate that kind of stuff
+
+223
+01:37:41,648 --> 01:38:01,264
+and of course Empirical Cycling up on Instagram and I do weekend AMAs up there and of course usually ask questions for the podcast for the guests but we didn't get into that today so what else do we got five star iTunes rating thank you all for all of those and of course sharing the podcast thank you so much for the sharing and of course
+
+224
+01:38:01,264 --> 01:38:30,576
+EmpiricalCycling at gmail.com if you would like to reach out to become an Empirical Cycling athlete. That's really our ultimate expensive Patreon. It's become a regular client of ours. We really appreciate that. And of course, if you would like to consult with us, we are always doing consultations. We will answer any and all of your questions. We will look at your files. We will help you out. We will give you the tools you need to coach yourself or if you're a coach, to be a better coach. We do that as well. So let us know what you're reaching out for.
+
+225
+01:38:30,576 --> 01:38:52,560
+and we will hopefully be hearing from you or I personally will hopefully be hearing from you since I do the email answering. I don't know why people think that I have a secretary or something like that. I mean, come on, we're a very small business. We can't afford that. I am the secretary. So thank you all so much for a wonderful year if we don't do another podcast.
+
+226
+01:38:52,560 --> 01:39:01,744
+Yeah, if we don't see you again in 2022, we will see you bright and early in 2023 and stay safe, ride safe, everybody. See you later.
+

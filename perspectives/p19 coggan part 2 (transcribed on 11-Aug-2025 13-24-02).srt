@@ -1,0 +1,1192 @@
+1
+00:00:01,040 --> 00:00:27,904
+Welcome to the Empirical Cycling Podcast. I'm your host, Koli Moore. Thank you, everybody, for listening as always. And of course, please subscribe to the podcast if you haven't yet already. And a five-star iTunes rating goes a long way. But of course, sharing the podcast is probably one of the best things to do. So we really appreciate that when you refer us to a friend or share on a forum or et cetera, et cetera, et cetera. Thank you so much for all of that. Also, we are an ad-free podcast, so you can donate at empiricalcycling.com slash donate. And if you have any...
+
+2
+00:00:27,904 --> 00:00:48,480
+coaching or consultation inquiries. Shoot me an email at empiricalcycling at gmail.com. Becoming an empirical cycling athlete is our ultimate Patreon, of course. So thank you all for all the inquiries we've gotten lately. And of course, consultations, our time is your time. We will discuss anything and everything you would like, our intention being to give you, of course, the tools to make yourself faster.
+
+3
+00:00:48,480 --> 00:01:10,992
+and if you have any questions or comments also you can DM me on Instagram also we've got a couple AMAs on the weekends and also that's where we ask people or ask for listener questions when we have people on to interview like today and so one of the things that I did for this is that I kind of interspersed some of the interview questions or some of the listener questions throughout the interview
+
+4
+00:01:10,992 --> 00:01:34,656
+and we only did a couple specific ones at the end but a lot of people a lot of what you all wanted to know from Andy Coggan was very similar to what I wanted to know so we got to fold in that kind of stuff very nicely so thanks everybody for all the questions and that's at Empirical Cycling on Instagram of course so give me a follow over there and
+
+5
+00:01:34,656 --> 00:02:02,128
+Yeah, this is going to be part two of talking to Andy Coggan. It was really nice of him to come back on. And, you know, it was a lot of fun. And I think this I had a better time this time than last time. So, yeah, hopefully you all do, too. And we'll see on the other side. Yeah. So where are you at with research on nitrates? Because we kind of touched on it last time and I put it in my mental folder to follow up on. So I think the obvious.
+
+6
+00:02:02,128 --> 00:02:30,304
+First place we should start is, should endurance athletes be taking nitrates or beetroot juice? Interestingly, the bulk of the literature suggests that endurance athletes, the more highly trained they are, the less likely they are to benefit. So while you see Kipchoje advertising for Beat It, etc., again, multiple meta-analyses suggest that there's minimal impact there.
+
+7
+00:02:30,304 --> 00:02:56,112
+That could be because every time you work out, you increase shear stress, you generate your own nitric oxide, it goes to nitrite and nitrate, and there is evidence that endurance trained individuals, they have higher nitric oxide synthase activity, they have higher interstitial and plasma nitrate and nitrite levels, higher breath NO levels, etc.
+
+8
+00:02:56,112 --> 00:03:22,272
+presumably because you have already sort of saturated the system that you can't really benefit from supplementation. Well, that sounds familiar because that sounds like a lot of things that are highly regulated where supplementation doesn't really get you anything. Yeah, I draw the analogy.
+
+9
+00:03:22,272 --> 00:03:48,864
+and whether it's a good analogy or not, but mentally I think of dietary nitrate as being somewhat analogous to creatine. They're both substances, well ultimately nitric oxide, that are produced within the body but also can, to a greater or lesser extent, be obtained from dietary sources either directly in the case of creatine or indirectly in the case of nitric oxide from nitrate.
+
+10
+00:03:48,864 --> 00:04:18,815
+and within certain limits you can push the system by providing significant quantities exogenously by the diet. In our acute studies for example the amount that we find to be I can't say it's optimal because we haven't done a sufficient range of doses to know exactly where the peak is but the dose that we find to routinely be efficacious without being too much is about you know
+
+11
+00:04:18,815 --> 00:04:46,576
+10 times what you would normally eat in a day. You could sit down if you're a dedicated person or you really like your veggies, you could sit down and eat a two-pound bowl of raw spinach and get that much nitrate. So it's possible, but normally we don't consume such large quantities. So we are pushing things. At the same time, it's not like the resveratrol story where, yeah, you show all these...
+
+12
+00:04:46,576 --> 00:05:15,280
+Solubrious, is that the right word? I don't know if that's in my vocabulary. Beneficial effects in mice and rats, and then you back calculate the amount of resveratrol that they're receiving, you'd have to drink a 55-gallon drum of wine every day to get the same amount. So we're not in that range. Yeah, even Caligula would be like, oh, settle down, folks. Yeah, but it is a large amount.
+
+13
+00:05:16,176 --> 00:05:39,744
+target population as I see it and as others see it. So it's really more in clinical populations in which nitric oxide bioavailability is reduced either because nitric oxide synthesis itself is impaired or because the nitric oxide is being destroyed too rapidly as a result of increased oxidative stress.
+
+14
+00:05:39,744 --> 00:06:09,328
+So our target has been patients with heart failure initially, and then when I came to IUPUI and no longer had a cardiologist at my beck and call, I returned to my roots here to studying ostensibly healthy older men and women who also, you know, you could argue are deficient in nitric oxide. And we do routinely see improvements in those populations.
+
+15
+00:06:09,424 --> 00:06:37,456
+like a an exercise component to this because one of the things that I saw in a recent study was looking at older individuals and like mitochondrial capacity and and whatnot and I think one of the things that my first thought was maybe older individuals just are less active and that would lead to a down regulation of you know all sorts of things actually I think it was
+
+16
+00:06:37,456 --> 00:07:01,776
+I think I was rereading the chapter you did in the history of metabolism. Yeah, when it comes to studies of aging, distinguishing between primary aging and secondary diseases associated with aging and changes that are due to just the changes in physical activity can be quite challenging. There was a period of time.
+
+17
+00:07:01,808 --> 00:07:28,192
+and about the time I did my postdoc actually that all the baby boomers were optimistic that they would live forever if only they had the right lifestyle. There was significant funding being directed at aging and we would perform studies where you would do your best to try and differentiate between those. And then after a decade or half a decade of that sort of research, people kind of woke up and said, well,
+
+18
+00:07:28,192 --> 00:07:55,520
+you're studying the squeaky clean these people are not representative of the aging population as a whole it requires a huge amount of work to actually recruit those individuals since they are the minority and now the world has kind of been sort of reverted to let's just embrace sort of all-comer studies where take people as they are and if you can't fully differentiate between
+
+19
+00:07:55,520 --> 00:08:19,008
+aging, disease, and inactivity, well, that's okay. Because what you really want to do is just improve people's health, longevity, possibly, one way or the other. Well, and that actually brings up another thing I wanted to ask you about, which is I remember a couple of years ago, I think you said you wanted to have a VO2max of 60 at the age of 60, and you were doing...
+
+20
+00:08:19,008 --> 00:08:47,760
+quite a ridiculous amount of VO2max training. It looked like every other day or something like that. I did. That experiment, what did I call it? 60 for 60, kind of ESPN's 30 for 30, twice as good. There is polarized training. I think I had a name for that. Oh, it was bimodal, I think. Bimodal, yes, bimodal training. That's what I called it.
+
+21
+00:08:47,760 --> 00:09:08,320
+That was a few years before I was 60. Unfortunately, I had a crash in 2014 and changed jobs in 2016. And therefore, typical of many people as they get older, if you plot out any physiological function for the population, you see this nice smooth decline.
+
+22
+00:09:08,320 --> 00:09:36,752
+with age. But the individual typically doesn't experience things that way. Instead, your grandmother is doing just fine until she broke her hip and got pneumonia. And it was like a step down, right? And then she never really fully recovered from that before she got the flu. And then it was another step down, et cetera. So along the same kind of ways, I made a significant step down as a result of...
+
+23
+00:09:36,752 --> 00:10:04,544
+crash and changing jobs and changing lifestyle and haven't ever fully been able to come back from that. Now, with all that said, I did three or four VO2 max tests right after I turned 60, trying to break the 60 ml per kg per minute. And one of those tests, one of those tests, I did get over 60.
+
+24
+00:10:04,544 --> 00:10:32,704
+Can I lay claim to it? Do we have to take an average of all three? Yeah, upper 50s, we'll say. Just call it, now it's like, as long as I can stay in the 99th percentile for my age, then I'm happy. I mean, you've been a pretty high percentile person for a long time, because I think, weren't you from the determinants of endurance?
+
+25
+00:10:32,704 --> 00:11:00,448
+that famous and highly referenced paper you did with Ed Coyle. I think you were the person with the highest MLSS relative to VO2 max. I was participant number one. That's what I thought. Yeah. So it went 88% of VO2 max for 73 minutes or something. I don't remember exact values, but yeah, I was number one.
+
+26
+00:11:00,448 --> 00:11:28,880
+Quite a feat. Although, you know, I've seen people reference that study and they'll say something like, well, if you have better fractional utilization relative to VO2 max, you'll have better endurance and reference that study. And I always thought, well, that just goes along with like, you know, what percentage of critical power are you at? You know, it's like you're higher and you're going to fatigue faster. And I didn't see anything showing.
+
+27
+00:11:28,880 --> 00:11:55,344
+you would have a longer time to exhaustion at MLSS or anything like that in that study. So I always was curious about how it's been talked about ever since. A lot of people do think about that in terms of the exercise intensity duration relationship. And of course, this then loops back to the WKL4 mathematical model thereof.
+
+28
+00:11:55,344 --> 00:12:21,168
+but I kind of view it as training does two things if you've got this curve right it both lifts the curve up in terms of absolute intensity but it may may in the extreme alter the terminal slope but that's but that's
+
+29
+00:12:21,360 --> 00:12:49,504
+unproven, I would say. Everybody embraces that idea, but I don't really see any good evidence that that's the case. Now, the other aspect to it, you're following this curve, and then I talk about, well, you fall off the curve. Picture something like a marathon. If you go out and try and run a marathon and you haven't trained for the marathon, in all likelihood, at some point, the wheels are going to come off and you're going to slow way down. But I view that as like you're falling off the curve.
+
+30
+00:12:49,504 --> 00:13:19,072
+as opposed to riding it to your capabilities. So when you look at the terminal slope, that's what we attempted to get at in the modeling in WKO4, stamina. And it's based on what you've done, which isn't necessarily the most you can actually do. Not that many people do all-out four-hour time trials, blah, blah, blah, blah, blah. But at the same time, if you express power output as a
+
+31
+00:13:19,072 --> 00:13:42,944
+percentage of FTP, everybody collapses beyond like five minutes and the standard deviation within the population is quite narrow. Which suggests to me if there is any change in, I call it stamina, it's not a large effect or a large difference between individuals. Because the stamina metric is one that I've always been...
+
+32
+00:13:42,944 --> 00:14:11,664
+kind of fascinated by, and it never behaves the way exactly I think it will, because it's one of the few things in the WKO ecosystem where I really don't know how it's calculated. And I've always been curious about that, but at the same time, it seems like it brings up another point that actually a bunch of listener questions were kind of pointed at this, which is,
+
+33
+00:14:11,664 --> 00:14:40,240
+one of the proverbs because you are one of the great books of proverbs. You must have five proverb books on the back of the toilet for the last 30 years. I think it's laziness on my part in some regards. Once you figure out what you think is the best way to express something, then you just stick to your guns and you don't have to rethink it.
+
+34
+00:14:40,240 --> 00:15:07,392
+Yeah, you narrow it down and somebody asks you that question and there you go. So anyway, we've talked about other pithy power proverbs, but go on. Well, you know, my favorite proverb that obviously you didn't write, but somebody did. You probably remember who it was. All models are wrong, but some are useful. The statistician George Box.
+
+35
+00:15:07,392 --> 00:15:34,720
+I like to quote him a lot. Yeah, he's great. I think a lot of people don't really think about that in terms of having actionable data. They think that you can just do X, Y, Z, and then there's predictive software. And a lot of platforms are trying to predict whatever. But I always wanted to ask you, what is your favorite training proverb?
+
+36
+00:15:34,720 --> 00:15:56,720
+or even proper just in general. It doesn't have to be training related. I don't know if I have a favorite one. The ones I like to toss around in part because I have a bit of a split personality. I like numbers.
+
+37
+00:15:56,720 --> 00:16:26,080
+I was attracted to stabilized top tracers because here you find people who are very willing to argue about what's happening out in the 17th decimal place, right? At the same time, I like to think that I have a strong pragmatic side as well. And so when you start, you have all these ideas, they're very complicated, they can be highly quantitative, but at the same time, you got a foot in the...
+
+38
+00:16:26,080 --> 00:16:54,832
+pragmatic world and you understand the issues etc so ways I can express things to try and get those ideas across all sort of appeal to me such as all's you can do is all's you can do right I mean okay athlete in competition in training they've got a certain amount of motivation on a certain day and as long as you
+
+39
+00:16:54,992 --> 00:17:23,728
+did what you could, then forget theory. You laid it on the line. That sounds very Midwestern Lutheran. Well, I'm not religious at all. Yeah, same, but it just has that Lutheran vibe to me. Yeah. So the coach says, you got to do six by five minutes and you ought to be able to do this at 115% of your FTP.
+
+40
+00:17:23,728 --> 00:17:53,616
+Crack on the fourth one. If you gave it your best effort that day, then all you can do is all you can do. Don't beat yourself up about it. Don't worry about the fact that you're not matching up with theory. It's all good training and put it behind you and move on. Along the same kind of lines, at the risk of R-rated, if it feels hard, it is hard.
+
+41
+00:17:53,680 --> 00:18:17,216
+emphasizing the importance of perceived exertion. Again, using that as an example. Okay, you prescribe this workout. It should be easy for you, the coach says. But it doesn't feel easy. Well, perceived exertion is subjective, but it's my perceived exertion.
+
+42
+00:18:17,216 --> 00:18:46,208
+Like, you can't question it. It is truly what I am perceiving for whatever reason, right? Yeah. So if it felt hard, it was hard for you. Yeah. Well, there's so many people who I think, because what you mentioned about matching theory, who really, really push to match the textbook version of the average of the population. Like, I should be able to do X for this percentage.
+
+43
+00:18:46,208 --> 00:19:13,152
+I've always been somebody who really violates what one would expect I could do for five minutes or one minute or whatever based on my threshold. My best ever five minute was 430 watts or something like that, and my threshold on a great day was 300 watts. And I could do that for probably 70 minutes. Well, let's loop back here, talking about the...
+
+44
+00:19:13,152 --> 00:19:35,936
+power duration or exercise intensity relationship or even the training levels. There really is no expectation of what you should be able to do. You're not violating anything. You are an outlier of what the population average might be.
+
+45
+00:19:35,936 --> 00:20:02,944
+Once you are above maximal, sustainable, steady state, then other determinants of performance come into play. And while average cyclists might only be able to maintain in a one-off, all-out five-minute effort, you know, 120% of FTP, that doesn't mean everybody has to be there. I mean, my wife was a pursuiter and her Pmax is rather low.
+
+46
+00:20:02,944 --> 00:20:26,496
+She's, if anything, she's more slow twitch than I am. But as a pursuiter, her pursuit duration power was quite high. So she was in a very similar sort of range as what you're talking about. Yeah. Well, I remember her PD model from that talk you gave showing, you know, retroactively looking at her training through WKO4.
+
+47
+00:20:26,496 --> 00:20:54,320
+And I think her Pmax was like in the 12, 1300 watt range. And for women, that's incredible. No, it wasn't nearly that high. Really? Yeah. Maybe it was like a model artifact as she got ready for the pursuit, something like that. It did. Well, it certainly increased when you taper, et cetera. But like I said, if anything, she's more slow twitch than I am. And by biopsy in my youth, I was 70 to 80% slow twitch. Wow. So, you know, for example.
+
+48
+00:20:54,352 --> 00:21:24,352
+national champion in the pursuit, but not at all competitive in like a 500 meter. She can't get up to speed quickly enough. And when she was racing, she could win field sprints, but she would light it up from 500 meters out and then kind of like dare or goad people to come around. And it doesn't always work as a tactic, but a lot of times you can sucker people into trying to come around too early. And then they still have a full bike length to make up.
+
+49
+00:21:24,352 --> 00:21:51,264
+and it's a drag race to the line and she is highly competitive. So in a local Cat 1-2 race, you know, she could win field sprints that way, but she's not a sprinter. Yeah, well, actually, so let's circle back to RPE as well, because I think one of the things that has been happening lately, like a little bit, is I think a lot of people have been
+
+50
+00:21:51,264 --> 00:22:21,184
+thinking more about their perceived exertion because one of the things that I think we finally come full circle on is relying on how you feel about a certain training. I tell people to ride to a certain feel for their endurance rides and not to ride to a percentage of FTP or anything like that. I think that while we're going full circle with that, I'm setting this question up for you. People have asked,
+
+51
+00:22:21,184 --> 00:22:48,336
+how you prefer to do VO2 max work because I am well on record in this podcast about talking about maximal, oftentimes high cadence, shut up, just go as hard as you can, breathe as hard as you can, and then be done. So how do you actually train VO2 max?
+
+52
+00:22:51,152 --> 00:23:15,424
+The study in the literature, beyond a case report here or there, the study in the literature reporting the highest ever increase in VO2 max remains the classic Hickson study out of John Hollis' laboratory, where in mLs per kg per minute, they got a 44% increase in VO2 max. And that is the six by five minutes, three days a week.
+
+53
+00:23:15,424 --> 00:23:45,200
+protocol that then became the norm in Hollowsley's Laboratory, which I used when I was there and then continued to use when I went to Ohio State. The study with the second largest is the one we did at Ohio State. We couldn't match the 44%, but we got a 31% improvement or 33% improvement. So in light of all of the attention, noise, buzz about, you know,
+
+54
+00:23:47,024 --> 00:24:11,248
+what does Andy Jones call it he's interested in VO2 kinetics and you can speed VO2 kinetics by sprinting off the line and depleting your phosphocreatine stores more quickly whatever you want to call it I actually talked at one time at ACSM slightly before the pandemic Jim Hagberg and I got to wondering as he was in Halsey's laboratory in
+
+55
+00:24:11,248 --> 00:24:37,600
+and around the Hickson study. So I was asking, well, exactly how did you guys do those workouts? Again, back to the fear of the telephone game. Is it possible that it had morphed over time? And no, it turns out he did them the way I've always done them. And that is, you just, it's isopower. And I would, I pick a power on my Velodyne ergometer. I, you know, do a five minute effort.
+
+56
+00:24:37,600 --> 00:25:07,472
+and I figure I have the right intensity if I crack on the last interval about half the time. So sometimes it's six by five minutes and sometimes it's five by five minutes and one by three minutes or something. I couldn't finish. Or it's five minutes on, two and a half minutes off, five times, and then I have to take a five minute break in order to attack the last one. Yeah. What's your RPE for that? How would you describe what a good V2 Max session feels like?
+
+57
+00:25:09,104 --> 00:25:37,664
+Well, because you're doing six by five minutes, it has to be repeatable. I'm not sure I hit VO2 max on each and every one of those efforts. I did, when I was in Galveston, do it three days a week for 18 weeks.
+
+58
+00:25:37,664 --> 00:26:07,136
+with the postdocs in the lab to cheer me on, et cetera. And then at the end of that 18-week period, I did the entire workout hooked up to the metabolic cart. So I was trying to see, well, you know, how high can my VO2 max be? This metabolic cart gave data every single breath. So it was noisy and sweat in your eyes. You can't really see that well. I go in as hard as I can the first couple of efforts and I'm not seeing a true plateau in VO2.
+
+59
+00:26:07,136 --> 00:26:27,680
+so you just double down and go as hard as you can for the next couple of still no plateau it's like crank up the power more suffer as much as you possibly can can't really see a plateau and then as it turned out when I you know had time to cool down go shower eat lunch put on my glasses look at the data and
+
+60
+00:26:27,680 --> 00:26:51,872
+average over this noisy, every breath kind of measurement. I was in fact plateauing out over the last 45 seconds to one minute in each case as I kept increasing the power. But there's a, I mean, the physiological strain associated with exercise intensity increases non-linearly.
+
+61
+00:26:51,872 --> 00:27:21,168
+So there's a very large difference between going right at VO2 max and going at, you know, 105% of VO2 max or 110% of VO2 max. You know, a really well done VO2 max test, I'd be tired hours later. You feel like you've had the flu or something like that. Yet, I have done experiments with the Moxie monitor where I wanted to have a range of intensities. And if I bailed 25 watts below,
+
+62
+00:27:21,168 --> 00:27:48,864
+my limit. I could do five of them in an hour, and it just felt like a good workout. So how does a VO2 max, you know, it's, if it feels hard, it is hard. All you can do is all you can do. If you're cracking on the last interval, well, then it was maximal, right? At least at that moment. So this is probably why if I ever had, you know, gadolinium contrast.
+
+63
+00:27:48,864 --> 00:28:17,200
+Imaging, I probably have, you know, fibrosis of my ventricle like other highly trained long endurance athletes, you know, scarring of the heart. Is that one of the reasons that, actually, maybe not. I was going to say, is that one of the reasons we get slower as we get older, but probably not at all for, you know, somebody well trained. But why do we get slower as we age, like aerobically speaking?
+
+64
+00:28:17,200 --> 00:28:40,864
+I'm going to blame the heart. Every physiological system shows reductions in performance capability function as we get older, but our cardiovascular system more so than our skeletal muscle system in terms of endurance sports. So VO2 max declines.
+
+65
+00:28:40,864 --> 00:29:06,624
+and muscle mitochondrial respiratory capacity might decrease and there's muscle atrophy and et cetera, et cetera. But it seems that the reduction in VO2 max, your central pump function is greater than any reduction in the capability of the periphery to take up and utilize oxygen. So VO2 max goes down, threshold goes down, but VO2 max tends to go down in absolute terms more than threshold.
+
+66
+00:29:06,624 --> 00:29:35,248
+So your threshold actually creeps closer to your VO2 max as you get older. You get an unhealthy, untrained, average, you know, not untrained, healthy, young, moderately well-trained cyclist and, you know, their maximal steady state is, let's say, 75% of their VO2 max. And then that same person, when they get to be my age, it might be 85% of their VO2 max. So the, you know, and then you talk to older people, it's like, yeah, they can grind, but...
+
+67
+00:29:35,248 --> 00:30:03,168
+They don't have much reserve above that point. Yeah, well, because I remember one of the first times I ever got my mind blown reading literature was in a COIL review. It was like, you know, threshold rollout to VO2 max, and there was a heart failure patient with threshold at 100% of VO2 max. It was more than one heart failure patient. It was a group of heart failure.
+
+68
+00:30:03,168 --> 00:30:30,784
+VO2 max, VO2 peak, they are limited by ventricular dysfunction, but nonetheless, it's not normal physiology, but nonetheless, that is the highest rate of oxygen consumption that they can achieve. And they would run a 10-kilometer running race at that intensity. And so this was actually the study that made me reach out to Ed and ultimately do my PhD with Ed.
+
+69
+00:30:30,784 --> 00:30:39,392
+interesting because I read that paper I you know highly interested in the underpinnings of performance at the time and I thought here's somebody Ed Coyle who's really
+
+70
+00:30:39,392 --> 00:31:08,448
+tackling the question with an interesting study design. I mean, we can do, as back in the day, people would do muscle biopsies and show, okay, you have correlations between fiber type and capillarization and mitochondrial respiratory capacity, but those are all just correlations. So here was a cross-sectional study where you had individuals with markedly different VO2 max values or VO2 peak values, but equal performances.
+
+71
+00:31:08,448 --> 00:31:35,856
+and so I was like oh this Ed Coyle guy I gotta talk to him and Ed and I hit it off well you know he was a young man at the time close in age we could relate to I could relate to him decided to do my PhD down there and then I think I had only been there maybe less than a year and there was another doctoral student Tom Walters also six foot tall also
+
+72
+00:31:35,888 --> 00:32:00,304
+I was a little under 70 kilos. He was a little more than 70 kilos, but similar build, et cetera. Also a cat too, similar VO2 max. He had brown hair and brown eyes. So I think Ed looked around and he said, okay, if there's two of them, there's gotta be more. And that's why we went, that's what stimulated going out and recruiting 14 cyclists all with.
+
+73
+00:32:00,304 --> 00:32:29,792
+very similar VO2 max values. And same hair color. That was not one of the eligibility criteria. So 14 cyclists all with similar VO2 max values and then differing thresholds. And so it was really the converse of the original heart failure study that Ed had done back in St. Louis. And that's the one you were talking about where I was participant number one.
+
+74
+00:32:29,792 --> 00:32:58,352
+Yeah, one of my favorite studies of all time because I think these days, you know, somebody might do something like that and then get 20 publications out of it. And that one is so dense and such a fun read. And it was, you know, it's just really just solid science. And it's one of my favorites. And I refer to it all the time, like on the podcast and just in general, like I'll go back and read it like I'm, you know, reading my favorite book or something like that.
+
+75
+00:32:58,896 --> 00:33:26,528
+Well, you know, we worked hard. I could tell. I just wanted to see. That study has been cited a lot, so I was just searching here very quickly to see how many times that's been cited. Go on. I'll look forward to it. I can multitask. Well, one of the things... 313 times.
+
+76
+00:33:26,528 --> 00:33:55,440
+That's pretty good. Yeah, that's okay. It's the fourth most highly cited paper that I've had my name on. Nice. What was number one? One we did at WashU actually looking at the effect of liposuction on insulin action, risk factor for coronary heart disease. It's a clinical study, nothing to do with exercise, but being a clinical study and being in the New England Journal of Medicine gets a lot more attention. That's true.
+
+77
+00:33:55,440 --> 00:34:20,944
+Well, one of the things I was going to ask was on Via2Max still, I think one of the things you would, because you were posting a lot in the WKO users group on Facebook at the time when you were doing your 60 for 60. I think I remember a comment from you about how
+
+78
+00:34:20,944 --> 00:34:49,824
+you know vo2 max like that vo2 max training at that point was kind of indistinguishable from regular endurance riding if i'm not mistaken you said something like that um or like you know regular threshold training i'm not entirely sure but but i've always thought about that i'm probably misremembering something because i went back to try to find it i couldn't um because it's it's something that i see in individuals who are kind of like you know getting off the couch
+
+79
+00:34:49,824 --> 00:35:19,248
+and haven't had a lot of endurance riding, not a lot of base. Pretty much any training we do has approximately the same effect or a similar effect that we can measure at least with our regular metrics. I think what I'm getting at is where's the overlap in adaptation? It's pretty wide, but also depending on how we want to look at adaptation, it might be fairly narrow.
+
+80
+00:35:21,648 --> 00:35:51,072
+Yeah, it actually is something. I don't remember what you're talking about. It doesn't necessarily ring a bell, but to focus on the question is something that I really came to realize once I started using a power meter is that athletes, be it in cycling or in running, and the coaches, we can make the training a lot more complicated than it needs to be.
+
+81
+00:35:51,072 --> 00:36:20,384
+And that can be beneficial in the sense of variety. You don't want people to become mentally stale because they're doing the same thing over and over again. But if all you want to do is induce physiological adaptation, the recipe could really be quite simple. And I think I've made this point many a time, and I think I made it when we talked before. Despite all of the...
+
+82
+00:36:20,384 --> 00:36:46,320
+thousands of genes whose expression might be impacted by various types of exercise. At the end of the day, they do one of two things. They either increase the force or power, the maximal force or power that the muscle can generate, or they improve the fatigue resistance of the muscle so that it can generate the same submaximal force or power longer. And then you could subdivide these.
+
+83
+00:36:46,320 --> 00:37:12,976
+type B adaptations into those that contribute to fatigue resistance during, you know, very high intensity, non-sustainable exercise and during, you know, lower intensity, more sustainable exercise. And there might be some overlap between those adaptations. Yeah. Not fiber type B, to be clear. Right. Yeah. And that's what I was saying before and why I said B here. But, you know, if you view it from that perspective, then you start going, yeah, training's training.
+
+84
+00:37:12,976 --> 00:37:40,496
+Are you sprinting? Okay, sprinting is different than doing five hours, but there's a huge amount of shades of gray in between. At this Integrative Physiology of Exercise meeting, Stu Phillips was presenting much of his research, and he mines Twitter, Instagram, pushback from bro science, quote-unquote, experts for a lot of his research ideas, and he goes out and proves people wrong.
+
+85
+00:37:40,496 --> 00:38:09,184
+But you have the paradigm in the resistance training world that while you do a handful of reps, that's how you build strength. And if you do a somewhat lower weight and you do it 20 times, well, this is muscle endurance, right? Muscular endurance. Well, you're talking about exercise. You're using your muscles. Why do you have to have the word muscular in there? Endurance is endurance, right? And then in between, you have this so-called hypertrophy range.
+
+86
+00:38:09,184 --> 00:38:35,888
+Well, what Stu has been demonstrating in his studies is that if you're lifting to failure, then it doesn't matter whether you're lifting 80% of 1RM or 30% of 1RM. You're getting the same increase in strength and you're getting the same degree of hypertrophy. So, you know, that's a point I always make and I try and convince my 16-year-old swimmer son and made points to other people. You know, if you want to talk about an endurance high rep workout.
+
+87
+00:38:35,888 --> 00:39:05,584
+I'll go out and ride your bike for, you know, five hours at 90 RPM. So that's what 300 times nine, is that 27,000 pedal strokes? Am I doing that correctly? Or 27? Yeah, it's 27,000 pedal strokes, 2,700. 300 minutes times 90 RPM. That's 27,000. Yeah, 27,000 pedal strokes. Now that is a high rep workout.
+
+88
+00:39:05,584 --> 00:39:31,008
+Don't come talking to me and say, hey, we did 20 rep sets today and we were doing muscular endurance training. It's like on the continuum, it's like that's all resistance training. It's all a very short duration, very high intensity, high forces entirely. Yeah, I mean, that's something that's super, super simple to work into strength training is just getting close to failure.
+
+89
+00:39:31,008 --> 00:39:56,928
+and my big question is how many reps or not how many reps how many sets do you need to do per week well you know is it once or twice a week and that's that's where I have people looking at because otherwise it's pretty much indistinguishable for doing like you know six reps or for doing 10 or for doing 15 yeah I know there's quite a bit of literature out there you obviously get the biggest benefit you know the first set and then there's some
+
+90
+00:39:56,928 --> 00:40:20,480
+The literature is somewhat split as whether you get further benefit from the second or third set, etc. Maybe that's something that Stu needs to pursue in greater detail to try and further refine his exercise prescription, but at the same time, his data suggests that it doesn't matter. Just do something and work it.
+
+91
+00:40:20,480 --> 00:40:48,912
+Yeah, Brad Schoenfeld has been talking about that lately, and it's nice to see somebody who's respected being like, no, no, this really doesn't matter. And actually, the last one that he was talking about was how resistance training while losing weight may not actually have any effect on maintaining or conserving muscle mass. So that tracks with something I've experienced, which is, you know, it's
+
+92
+00:40:48,912 --> 00:41:17,328
+probably more to do with protein intake. Your body just needs the resources. Yeah, that was one thing I didn't have a chance to ask, Stu. I kind of wanted to. It's like, okay, 25 years, you've come to the recognition that it doesn't matter what weight you lift. And while they've done a meta-analysis of literature with 3,800 participants, they could show that protein supplementation led to greater strength gains.
+
+93
+00:41:17,328 --> 00:41:43,136
+But as he himself pointed out, the effect is really, really small. And it's like, great, 25 years. How many millions of dollars did the Canadian government give you? Are you going to give it all back now, Stu? Isn't it disappointing that your entire career has really been a bust? Showing what doesn't work? But Stu and I go way back, so I could... Yeah. Well, actually...
+
+94
+00:41:43,136 --> 00:42:05,632
+Speaking of overlapping adaptations, this is something that you definitely said, which is that threshold training is endurance training. So I think that's probably worth unpacking for the audience because not only in terms of overlapping adaptation, but just in terms of being time crunched.
+
+95
+00:42:05,632 --> 00:42:33,712
+I'm sure a lot of people like doing that kind of stuff as a substitute for long endurance rides even though obviously they're not exactly one-to-one exchangeable. This actually connects to what Frank Overton ultimately dubbed sweet spot and what I was trying to explain at a USA coaching cycling education clinic at Yale one time and drew the inverted curve on the board. But if you kind of think of the extremes.
+
+96
+00:42:33,712 --> 00:43:00,256
+At one end, you have very low intensity, very prolonged duration exercise. You're out for a walk. How long would you have to walk in order to induce any kind of physiological adaptation? Probably quite a while. And the fitter you become, the longer it would be. And there probably is some point at which there's no overload. You would not induce any further adaptation. And we may not know the exact minimal.
+
+97
+00:43:00,256 --> 00:43:29,168
+intensity that that represents, but clearly there's a minimal intensity. It might be good, you go do a recovery ride, maybe that's maintenance, but it's not training that's going to improve you, right? So that's at one extreme. At the other extreme, the exercise intensity is so high that either you're inducing different adaptations, right?
+
+98
+00:43:29,168 --> 00:43:55,200
+altering your pH, changing muscle buffer capacity, what have you, or further up the intensity spectrum you're sprinting, right? Increases in neuromuscular function, muscle hypertrophy, etc. So at some point, the intensity is too high and you're inducing a different kind of adaptation. Or perhaps the intensity is just so high that you can't do a lot of it and get a lot of further adaptation.
+
+99
+00:43:55,200 --> 00:44:25,104
+So if I take an untrained individual and I have them do five minutes all out and that's all they did for the day, I'm sure I would get beneficial endurance training adaptations that look like everything else. The work that Martin Jabal has done with short interval training, etc. So that kind of thing can be highly effective. And then you have this huge range in between where the adaptations are qualitatively all the same.
+
+100
+00:44:25,232 --> 00:44:51,312
+And the question is more one of quantity. How do you maximize those adaptations? Well, how much time do you have? Empirically, elite endurance athletes tend to train 15 to 25 hours a week on average. So empirically, it suggests that
+
+101
+00:44:51,312 --> 00:45:17,728
+If you're training less than, let's say, 15 hours a week, you may not be reaching your maximum capability, even if you dial up the intensity as much as you can. Conversely, you don't see very many elite endurance athletes who train more than 25 hours a week. And you have to think when you look at the elites, they're incentivized always to do more.
+
+102
+00:45:17,728 --> 00:45:47,216
+These are highly motivated people whose lives are arranged around their ability to train. And I know if I were in that situation, I'd be worrying about what my competition is doing. And if I got wind that, you know, Joe was doing 20 hours a week, I'd do 21. Because, you know. At least, yeah. Right? And it may be that they're incentivized to do far more than they really need to. You know, there are people like Chris Bordman who would ride the Tour de France and he only trained like maybe 15 hours a week.
+
+103
+00:45:47,216 --> 00:46:16,080
+and then when you go back it's like okay the study that shows the largest ever documented increase in muscle respiratory capacity in untrained individuals is that one by Phil Galnick where it was you know 40 minutes as hard as you could go four days a week I remember that one yeah that's what they did and they got nearly a doubling in mitochondrial respiratory capacity now Hollis he got a doubling in his rats and that's why he wrote twofold and why he's you know
+
+104
+00:46:16,080 --> 00:46:44,784
+behind his back. It was how is he Mr. Twofold, right? And you can see a twofold difference in markers of mitochondrial respiratory capacity comparing in a cross-sectional human study. So comparing an elite or highly trained endurance athlete to an untrained individual. But in terms of a longitudinal training study, that Golnick study is still the champ. And I've actually gone back and looked at our
+
+105
+00:46:44,784 --> 00:47:08,352
+the training study that we did at Ohio State and we only got like a was it a 40 or 50 percent improvement so we couldn't match what Gauntlet did. You know it's funny because I've occasionally with people who have super super low amounts of time to train who are just getting back into it I will actually use the 1x40 protocol.
+
+106
+00:47:08,352 --> 00:47:36,592
+on them sometimes. And it works really well as long as they're recovering and all that kind of stuff is happening. And even if that's not optimal, it can work oftentimes. As long as their motivation's high. Yeah. And well, one of the things that I think this kind of gets to is adaptation in general. And because I think that, you know, I think at least my audience is
+
+107
+00:47:36,592 --> 00:48:02,224
+past thinking that, you know, X power output yields adaptation Y, which means if you do a minute in zone five every like, you know, once every five minutes and you can do that for a hundred minutes, you've got a hundred minutes of V2 max training. Congratulations. Or I'll pet peeve as well. This may be drifting your question or your point a little bit, but training to increase fat oxidation.
+
+108
+00:48:02,224 --> 00:48:28,720
+Oh, I need to know what my fat max is so I can train at fat max and enhance my capacity to oxidize fat. It's like it doesn't work that way. You and I are very much in the same wavelength because I was heading there, but in like a question or two. So we'll get there. So my first question here along these lines is, you know, is there any way to predict?
+
+109
+00:48:28,720 --> 00:48:58,272
+adaptation or at least estimate impact. And I think about this because I was on the training impact score team right after you left. I joke with people that I replaced you, even though obviously I'm like 30% as knowledgeable as you are about all this stuff. But coming out of that and actually going into that, I remember I think I saw you post something about metabolic pathways and
+
+110
+00:48:58,272 --> 00:49:28,240
+you know contributions and all this that and the other thing on a thing and I think I was you I think you had said like does anybody know what this is and I did and I was just always wondering you know did you take anything away from going into that the training impact score because I think initially we called it adaptation score or you know did your mind change around that or did you have anything where you went oh this is really not
+
+111
+00:49:28,240 --> 00:49:56,720
+kind of what I expected it to be. I was asked early days, so 2004. When were the London games? 2012? 2012. So maybe it was a little later than I thought. But I was asked by UK Sport to come and give a talk at their annual retreat on
+
+112
+00:49:57,360 --> 00:50:23,312
+Oh, what they call it, you know, quantifying training load. Because I was this so-called expert, right? And I felt like in some regards, I'm a bit of a fraud because I hadn't published anything in that area. But I also trust myself. Well, you've been vetted by the people who use CTL and CSS and all that.
+
+113
+00:50:23,536 --> 00:50:47,408
+accepted it and gave a talk. And if people are looking for my old talks, I mean, PowerPoint slides without hearing what people have to say often aren't especially informative, but I threw a bunch of them up onto SlideShare. I've seen all of them, yeah. Yeah, so that UK sport talk is up there.
+
+114
+00:50:47,568 --> 00:51:13,184
+The take-home message I gave with people after comparing and contrasting TSS and Trimp and Rusko's EPOC and Foster's Session RPE, etc. I mean, they have similarities, they have differences, etc. But at the end of the day, my conclusion was one's as good as the other, really.
+
+115
+00:51:13,184 --> 00:51:41,136
+I mean, there are conceptual advantages to, in my opinion, of looking at the objective strain-based measurement power as opposed to the stress response, heart rate for EPOC or perceived exertion in the case of, sorry.
+
+116
+00:51:41,232 --> 00:52:04,672
+Yeah, Foster Session RPE. But really, that's a minor consideration. My conclusion at the time, and it remains to this very day, if we want to try and predict or model, better understand the relationship between training and adaptation and performance, it's really the model structure itself that needs improvement.
+
+117
+00:52:04,672 --> 00:52:15,552
+By model structure, I mean the equations that actually describe how you relate those two things of interest. Example, again, I worked for years in the...
+
+118
+00:52:15,552 --> 00:52:41,728
+pet laboratory where you had a mathematical model of let's say fatty acid metabolism within the heart so that's the model structure and then you inject an 11c labeled palmitate tracer which fluxes in and out of the heart and use a pet scanner to observe these changes over time and that's your input function so you have the input function that then drives the model to
+
+119
+00:52:41,728 --> 00:53:08,832
+give you the outputs. So analogously, TSS and these other things are inputs. They're the input function. But what really needs to be improved is the model structure itself. And then the problem we run into is people love to over-parameterize. The other statistician, now I'm blanking on the name, George Box is all models are wrong, but some are useful.
+
+120
+00:53:08,832 --> 00:53:38,096
+who was it who said you know what give me give me enough parameters I can draw an elephant and one more I can make him wiggle his trunk or something like that you know the example is if you have six data points you can get a perfect fit with a sixth order or fifth order sixth order polynomial statistically speaking you need five to fifty independent measurements
+
+121
+00:53:38,096 --> 00:54:03,616
+for every adjustable parameter that you have. And so let's say I devise some really complex model structure relating training to performance, and it's got seven adjustable parameters. The last time you had a fight with your girlfriend, how many hours of sleep you had last night, what your caffeine intake was, what your aura ring is saying your heart rate variability might be, et cetera, et cetera.
+
+122
+00:54:03,616 --> 00:54:31,312
+and now I want to relate all of these things to performance. Well, how many valid all-out performance measurements do I have? How often do you really go 10 tenths? It's like, okay, well, in a year, maybe you'd have a few, but you, the system, you have changed within that year. So you're trying to, you know.
+
+123
+00:54:31,312 --> 00:54:58,400
+create a static representation of a dynamically changing system. And this is actually the issue that Bannister and his colleagues ran into back into the 1970s. So if you trace back Bannister's impulse response model, originally the model was more complicated. But the problem was they couldn't fit the model. If you're trying to do nonlinear least squares curve fitting and you have too many parameters,
+
+124
+00:54:58,400 --> 00:55:28,112
+You either fail entirely to get a valid fit or you get a fit, but parameter X is plus or minus 300%. There's a number, but there's uncertainty associated with it, which is why coming from a metabolism mathematical modeling perspective, I've presented it on mathematical modeling at NIH-funded seminars to teach people how to use isotopic tracers. Coming from that perspective, that was why I insisted.
+
+125
+00:55:28,112 --> 00:55:57,504
+when WK04 was being developed that we need to estimate and report the standard error of the estimate. So when it says that it thinks that your FRC is, you know, 20 kilojoules, well, is that 20 plus or minus one or is it 20 plus or minus four? Right. And as far as I know, that's still the only program that actually tells you the truth that way. Others like to lie to you. R squared. You got me ranting here. R squared.
+
+126
+00:55:57,504 --> 00:56:24,960
+R-squared. In linear regression, R-squared can be interpreted as the percentage of variance in Y that can be explained on the basis of X. And, you know, it ranges between R-squared ranges between 0 and 1, R itself between negative 1 and 1. But it doesn't mean the same thing in non-linear curve fitting. So you can have a really high R-squared value, and yet your curve fit is
+
+127
+00:56:24,960 --> 00:56:50,960
+insufficiently precise to be of any use. Again, people have knocked themselves out. I'll point fingers. Golden cheetah. Ah, Coggan, he's full of crap, says Liver's Edge, right? We're going to implement the real science here. Bannister's true impulse response model. And they do all the coding and they implement it. It's great. You've got these influence curves. And we say that when you taper, you're going to hit your peak in seven days.
+
+128
+00:56:50,960 --> 00:57:20,112
+and then you actually go back in the literature and it says, well, you're going to peak sometime between, you know, between one and 15 days from now. What good is that, right? You've done all of this heavy lifting, you know, crunching numbers, writing code, et cetera. And at the end of the day, the information you're providing is of no use whatsoever. I'd rather gamble on what my coach's experience says my taper should be, you know? I mean, that is, I think Dean once said that, this and I agree that getting somebody to their,
+
+129
+00:57:20,112 --> 00:57:40,704
+best legs on the right day is one of the hardest things in coaching. And if there were a model that worked reliably, I would use it. Well, Banners' impulse response model has been really useful in the big picture scientific perspective in terms of evaluating different templates for tapering.
+
+130
+00:57:40,704 --> 00:58:05,152
+proposing new hypotheses, et cetera. But there you're talking about group mean responses, et cetera, and not trying to use it to optimize competitive performance in a particular individual. So the other thing that people, they miss the point is they are desperate for magic is the fact that tapering
+
+131
+00:58:05,152 --> 00:58:30,512
+doesn't have a huge effect on performance. A well-executed taper improves performance between 1% and 5%. And in a competitive event, that can be huge, but it's not like you're going to go from your FTP is 250 and then your taper is going to be 400. It just doesn't work that way. And then you see, and it's...
+
+132
+00:58:30,512 --> 00:58:45,792
+It's the shorter duration events. Neuromuscular power seems to be more responsive to tapering, more impaired by regular training. When you actually talk about endurance events, 40 KTT or whatever.
+
+133
+00:58:45,792 --> 00:59:13,728
+you know the effect is on the small end of that one to five percent range yeah and then you look at what people do when they prepare say for ultra endurance or gravel races or whatever it's like yeah I would assume that Ashton Lambie tapered and tapered hard for his you know world record four minute pursuit event right but prepping for a gravel race you talk to the people who you know take those things seriously it's like no I can't taper I'll lose fitness yeah you know they'll ride right up until like two three days before and then
+
+134
+00:59:13,728 --> 00:59:41,760
+load up on carbs. At least that's what they should be doing. Yeah. No, that's, that's, that's, that's pretty much how I coach people, you know, for like, for like a UK hill climb, you know, the week before a hill, like a one to three minute hill climb, people are like walking like all week and then they get there and they're like, oh my God, look at all these watts. And then, you know, if they want, they want to go to a road race the next day, they're like, oh my God, I've lost so much fitness. It's interesting to me. My son's a competitive swimmer and
+
+135
+00:59:41,760 --> 01:00:08,752
+you know his best events probably 400 meter 500 yards but he's also been coming on at 200 and he's not a sprinter but he's even okay at 100 but of course they train a lot and then you know competition they only really taper and suit and get on the tech suits you know once or twice a year and it's always it's always interesting to see how much time they can actually drop at that point.
+
+136
+01:00:09,488 --> 01:00:35,824
+Yeah, well, I think that's – I had a thought and I completely forgot it. So what we're going to do is I'm going to ask you about more magic stuff. So does knowing your FatMax allow you to train better? Should we know our FatMax and should we know our LT1 with lactate tests and should we – The whole notion, you know.
+
+137
+01:00:35,824 --> 01:01:04,352
+Metabolic responses to exercise are nonlinear with increasing exercise intensity. They are not a true threshold response, as we like to say, as a mental convenience, if you will. Can you define those terms? Like, what's a threshold response? I know our audience is going to need some help. You stepped over the threshold from one room to another.
+
+138
+01:01:04,352 --> 01:01:34,160
+You were below your threshold at 200 watts, and we turned it to 201, and now you're over your threshold. It doesn't behave that way. If you actually look at the blood lactate response to exercise, it's best fitted by an exponential function, not by a piecewise sort of regression.
+
+139
+01:01:34,160 --> 01:01:55,984
+being studied extensively in the Scandinavian countries. And that's where Ira did his postdoc. And then he came back to Canada. Jacobs did a study where they looked at the ability of a single blood lactate value to predict performance. And yeah, you know, if your blood lactate level is higher than mine at, you know.
+
+140
+01:01:55,984 --> 01:02:23,504
+at 280 watts, it's going to be higher than mine. At 300 watts, it's going to be higher than mine at 160 watts kind of thing because it's all on this continuum. So I don't buy into the notion of LT1 and LT2. It's not even really an LT. And this is not just my way of thinking. Let's say the people in the know, the exercise physiologists who aren't.
+
+141
+01:02:25,200 --> 01:02:54,880
+confused, corrupted, distracted by too much applied sports science thinking, but instead are just focusing on exercise physiology. We all just use threshold. What is threshold? Well, lactate threshold. It's a concept as much as it is a specific intensity. And that's why you can have 27 or 28 different definitions for lactate threshold in the scientific literature, because there isn't really a
+
+142
+01:02:54,880 --> 01:03:22,320
+a strong pressure or ecological incentive to standardize things. Because I can go to a meeting and I can say, yeah, this guy's got a really high lactate threshold and my colleagues know what I'm talking about without me ever actually trying to specifically define how it was measured. The other aspect to that, while the world has focused on lactate, there's nothing really magical about lactate.
+
+143
+01:03:22,320 --> 01:03:49,088
+relatively non-invasive indirect marker of metabolic events within the exercising muscle, but there is also a glucose threshold. So up to that same intensity, your plasma glucose levels are relatively constant, but over that intensity, they tend to rise. It also happens to be the intensity at which your epinephrine levels take off.
+
+144
+01:03:49,088 --> 01:04:16,208
+et cetera, et cetera, et cetera. And I, you know, I think I gave a, well, go back to slideshare.net, you know, what is, what is lactate threshold or something is what the title. I've got a slide in there where I list a whole bunch of physiological responses that show these, I'll say threshold like, but that's not really a threshold. It's a exponential rise behaviors. So then if you actually look at something like fact,
+
+145
+01:04:16,208 --> 01:04:39,776
+Fat Max, to get back to your question at hand, well, changes in blood lactate are indicative of rates of change in glycogenolysis within the exercising muscle, and there's a reciprocal relationship between how much carbohydrate is being oxidized and how much fat is being oxidized. So as carbohydrate oxidation goes up, fat oxidation goes down, and so there will be a fat max.
+
+146
+01:04:39,776 --> 01:05:08,976
+and maybe Fat Max occurs below so-called LT2 or LT1 or whatever but nonetheless they're highly correlated with one another. So couple that with the fact that you don't have to burn fat to get good at oxidizing fat and the whole notion of Fat Max just goes right out the window. Unless you're a coach and you have a metabolic cart and you want to charge people $75 a test to determine their Fat Max so that you can
+
+147
+01:05:08,976 --> 01:05:38,176
+Finger quotes, scientifically write their training program for them. This is one of the things that I've got on my list of podcasts to do, which is burning fat doesn't make you better at burning fat. We've got so many variables at play here. We've got exercise intensity and rate of ATP demand.
+
+148
+01:05:38,176 --> 01:06:07,088
+How many times have you read about fasted rides or low-carb rides or anything like that? I've done a lot of that kind of experimentation with myself and with my athletes, and there are some interesting side effects, but first, that kind of stuff is hard. Nobody likes to come home from a long ride and just eat salami and eggs. But I think the other side of it is that there's a certain intuitive appeal of if I
+
+149
+01:06:07,088 --> 01:06:35,024
+you know burn more fat I will get better at burning more fat but I think it's something that you know I say this every time I say this phrase I don't know where to attribute it but it's it's literally false metaphorically true where it gets you to act in such a way that is beneficial but it but the reasoning that you have behind it is literally not true and so I think
+
+150
+01:06:35,024 --> 01:07:04,272
+So if you think, oh, if I need to burn more fat, I need to ride at a lower intensity, I need to ride longer. So instead of somebody who's riding way too hard on their endurance rides at like 75% of FTP or something like that, and they just knock it way back and they go, well, if I spend more time burning more fat at this lower intensity, I will have burned more fat. And that gets them more training adaptation, even though it is literally not the reason that they're adapting more. It was the more time. More time.
+
+151
+01:07:04,272 --> 01:07:33,856
+Yeah, you know, I don't know how you ever slay that dragon in terms of explaining to the world because to appreciate it, you have to understand how metabolic regulation takes place within the muscle and other tissues as well. You know, our fat cells adapt to endurance exercise training and the rate of plasma fatty acid oxidation is
+
+152
+01:07:33,856 --> 01:08:01,744
+determined in part, maybe you could say even in part by plasma fatty acid availability. So, you know, if you could do a better job of mobilizing it, you know, don't eat before your ride. You'll oxidize more fat. But again, that doesn't, you know, that doesn't necessarily mean you'll get better adaptation. Yeah, I was going to say, isn't lipolysis relatively the same between trained and untrained individuals? And it's just the rate of oxidation and import that differs?
+
+153
+01:08:03,600 --> 01:08:32,336
+Well, it's going to be hard to say in a human because the rate of lipolysis is going to depend upon activation of the sympathetic nervous system and now how do you equate the two of them? If you took a trained and untrained individual and you threw them down on the table and you infused catecholamines, you would get a larger increase in lipolysis in the trained person. Their fat smells, their fat cells would...
+
+154
+01:08:32,752 --> 01:09:02,160
+be smaller and be more sensitive and or responsive to catecholamines. But the other aspect to it is that a lot of the fat that we mobilize is also simply re-esterified. So it isn't necessarily the rate of lipolysis that's the limiting factor. It's more actually the fatty acid concentration itself, raising that. Yeah. Well, and I just remembered where I remember that.
+
+155
+01:09:02,160 --> 01:09:28,032
+Fact from is a graph of blood concentration between trained and untrained individuals. And I was just thinking, oh, right, it's appearance and disappearance. And if you're trained, higher rate of disappearance. And so we really can't. Certainly, endurance exercise training increases the capacity of the muscle to oxidize fat and glucose. But there are some adaptations that are also just specific to enhance.
+
+156
+01:09:28,032 --> 01:09:39,776
+the ability to oxidize fat, but the actual rate of fat oxidation ends up being a very complex function of many things. Yeah. Yeah. And lactate oxidation, you know, the same.
+
+157
+01:09:39,776 --> 01:10:09,152
+because the way, you know, lactate can go in and out of cells is sort of the same way that fat can go in and out of cells and either get oxidized or not or, you know, turn into, you know, shoved into the Cory cycle, et cetera, et cetera. So, you know, these are complex things. Yeah, you know, think of the extending it a little bit. You're talking about doing fasted rides or whatever. Extend that to the sleep low, train high idea.
+
+158
+01:10:09,152 --> 01:10:33,456
+where depletion of muscle glycogen itself may be one factor driving an increase in mitochondrial biogenesis so it's been proposed and studies have been like one-legged studies have been done showing that if you like work out one leg the evening before don't eat carbohydrate and then work out again the next day with both legs the low glycogen leg shows greater increases in signaling.
+
+159
+01:10:33,456 --> 01:10:58,400
+Now, whether that pans out in terms of greater mitochondrial biogenesis over the long haul is a somewhat different question. And then whether there's any difference in the actual performance, even if you do have greater mitochondrial biogenesis is a third question. But then what is the stress associated with this? Are you more likely to overtrain?
+
+160
+01:10:58,400 --> 01:11:24,544
+And then how do you write that into a program? I mean, people have written scientific articles, you know, fuel for the work performed and proposing this is how you would schedule it. And it's like, how are you ever going to implement this in the real world? With great difficulty. Amateur, even in the Tour de France, you know, a pro cyclist or whatever. So my take on things is more the other way. We know that.
+
+161
+01:11:24,544 --> 01:11:53,936
+carbohydrate availability is a very important determinant of exercise performance ability. And we know that you get better by training and you want to do as much training as you possibly can. Therefore, you need to supply adequate carbohydrate to support that training. You can kind of extend those thoughts as well. People want to train in hypoxia, train in the heat, both of which may
+
+162
+01:11:54,032 --> 01:12:22,176
+induce additional or specific physiological adaptations, but both of which compromise your overall exercise training capacity. And it all makes my head swim, so much less the average person, average non-exercise physiologist. So my message to people is that you're training for performance. You want to train at the highest absolute intensity.
+
+163
+01:12:22,176 --> 01:12:48,000
+that you possibly can, and therefore you don't want to compromise your training ability by limiting oxygen, getting too hot, limiting carbohydrate, unless you're preparing for competitions under those specific conditions. And I don't know of any competition where they limit your carbohydrate intake. That sounds like a Hunger Games kind of thing. Literally the Hunger Games. Okay, we're going to have this race, but...
+
+164
+01:12:48,000 --> 01:13:16,544
+There's no feeding allowed, right? Empty your pockets. Yeah. So let's, you know, man, there's two directions we could go with this. Because on one hand, I think it would be interesting to discuss specific adaptive signals. But also, I think this leads us to the adaptation chart.
+
+165
+01:13:16,544 --> 01:13:45,904
+that you had made so many years ago. That is one of the things that I got a bunch of listener questions on, which is, is it still valid? Because I still refer people to it. I'm like, well, if you want to know exactly what's happening, go to this chart. I don't think it's been beaten since. Other people have put together similar sorts of tables or chart, whatever you want to call it.
+
+166
+01:13:45,904 --> 01:14:15,344
+This was something that Bob Tobin, who runs cyclepowermeters.com in the UK still, very smart guy and an e-pal of mine back in the day who was very into time trialing. But he suggested, I think, on the waters list or in a private email, it's like, hey, you should include this. So that's why I constructed it. And I was drawing upon my knowledge of, you know, the scientific literature, etc. And as an example,
+
+167
+01:14:15,344 --> 01:14:44,288
+It used to be argued that you need to go long and slow to maximize your capillary growth and that if you went too hard in the off-season, you'll damage inhibit those nascent little baby capillaries that are also fragile. That's bullshit, right? It is, yeah. I think I may have first heard it from Mike Walden, who was the coach, no exercise background as far as I know.
+
+168
+01:14:44,288 --> 01:15:13,376
+Really? For the Schwinn Wolverines team, Joe Friel was certainly somebody who broadcast that message. So if you go back to the early editions of his book, and I trained with somebody who basically had to get off and walk up the hills in the winter because he was following Friel's advice. And I know that Rick Crawford, who doped, I mean trained Tom Danielson, also used to promulgate this myth.
+
+169
+01:15:13,376 --> 01:15:41,120
+So, I wanted to, you know, rub people's faces in a little bit, so I included capillarization as an entry there, and my thinking was, well, what do we know? We know that there's a high correlation between capillary density and VO2 max. We know that if you look at distance runners, the people who have the highest VO2 max are not the marathoners, it's the 1500 meter runners, etc.
+
+170
+01:15:41,120 --> 01:16:01,312
+It therefore logically follows that the higher the exercise intensity, the more potent stimulus it should be for capillary neoformation, you know, greater shear stress. Now, you know, we know greater release of VEGF, et cetera, et cetera. And then, so I'll stick to my guns and...
+
+171
+01:16:01,312 --> 01:16:28,864
+just saw the other day a meta-analysis where they concluded that high-intensity exercise results in greater increases in capillary formation than low and moderate intensity exercise. But people ask for, well, what are the references to sport this table? It's like, good Lord, the literature is fast. And I've been reading it since I was a junior in high school.
+
+172
+01:16:28,864 --> 01:16:57,344
+And I'm sure, you know, I have long since forgotten where I might have learned something, but that doesn't mean I'm wrong. Because, you know, I've been studying this a lot longer than you have. So no, I don't think there's anything in that I would change. I mean, it's a conceptual sort of thing. It's like, you know, what is the most potent stimulus for a particular adaptation per dose?
+
+173
+01:16:57,344 --> 01:17:25,840
+Think of, again, coming from the pet world and now doing nitrate studies, dose response. We've actually published a pharmacokinetic study of dietary nitrate, modeling the nitrate and nitrite pools together. And I was working with a pharmacologist and thinking about, okay, if I were in a drug company and I had a new drug and I wanted to get it to market.
+
+174
+01:17:25,840 --> 01:17:43,248
+as quickly as possible. Pharmacokinetic mathematical modeling is a very useful tool to advance quickly as opposed to doing lots and lots of experiments. Thinking along those lines, what is a unit dose of training?
+
+175
+01:17:43,376 --> 01:18:09,600
+You know, it's hard to define, right? So, you know, one check mark is, you know, half the dose of, you know, for a given dose of training, one check mark is a weak stimulus and, you know, three check marks is a strong stimulus for a given dose of training. But what is a dose of training? Although I can connect it a little bit, you know, way back in the day when I was in high school and starting to study exercise physiology and reading about...
+
+176
+01:18:09,600 --> 01:18:38,240
+the importance of muscle glycogen as a substrate how glycogen depletion results in fatigue you know conceptually the rates of glycogen utilization depending on the intensity and then looking at studies that have looked at rates of glycogen resynthesis in the fasted state or when you're refed carbohydrate and bored and out on a long you know out on a long ride one day all by myself start doing the mental math and my conclusion was that you can go on average moderately hard
+
+177
+01:18:38,240 --> 01:19:08,096
+two hours a day at most, and still, if you ate an adequately high-carbohydrate diet, finish the week with as much glycogen as you started. So maybe I'm wrong. Maybe it's three if you eat enough carbs because training increases glycogen synthase activity. Or maybe in my high school math, I slipped the decimal point. The important aspect there, though, is not the two hours or whatever.
+
+178
+01:19:08,096 --> 01:19:36,800
+but the notion of I've referred to it as glycogen budget training and I even you know I even had a website that I was like bookmarking there I thought when I retired maybe I'll spring this on the world but the the saying the pithy power proverb it's your glycogen budget spend it wisely yeah right there's so much there's only so much physical strain I can well
+
+179
+01:19:36,800 --> 01:20:05,488
+strain that can be applied to me, only so much physical stress that I can experience. And beyond that, I'll break down. So given that, you know, and different people, some people are more robust and some people are fragile, what have you. And you have psychological stressors as well as, you know, physiological stressors, right? But regardless, you know, you can only handle so much. So within that context, I want to do as much of the right type of training that I can.
+
+180
+01:20:05,648 --> 01:20:35,360
+and no more. If I do less, I won't be as good as I can possibly be. If I do too much, I'll break down, but I also need to do the right type. Then that comes down to specificity, specificity, specificity. My advice to people, train for performance, let your physiology sort itself out. I agree. One of the things that I think
+
+181
+01:20:35,360 --> 01:20:52,736
+that the internet and widely available information has given us is it's given a lot of people. My analogy is they have a couple pieces of the puzzle and they think it all fits together, but it's a very small puzzle. In reality, the puzzle is huge and they're jamming these pieces together.
+
+182
+01:20:52,736 --> 01:21:20,080
+It comes back to your question about signaling. People like to measure signaling because it's relatively easy to do. To measure mRNA is actually easier than measuring the protein content. Or to carry it a step further, let's say you've got some intervention that you think is going to resolve in increases in strength and muscle hypertrophy. Bob Wolf's argument was basically, well, training studies are too hard to do, but we can do acute studies and they'll be predictive.
+
+183
+01:21:20,144 --> 01:21:48,448
+And it turns out that's not the case. Again, I don't want to pick on Stu Phillips too much, but there's so many studies done not only by Stu, but by Kevin Tipton, Arnie Ferrando, all the people who emerged out of Wolf's Labs and other groups as it spread. People have focused on, in the context of resistance exercise training, well, how much does muscle protein synthesis go up in the next few hours? What happens to the signaling proteins? And then it turns out these acute changes in
+
+184
+01:21:48,448 --> 01:22:10,752
+muscle protein synthesis are not at all predictive of the adaptations that occur over weeks and months. So if you start devising your training program and altering it based on signaling and predictors, there's a perfect example of why you might go off the rails.
+
+185
+01:22:10,752 --> 01:22:39,856
+Do I really care that this type of interval training increases PGC-1 alpha than that other kind of interval? That's backwards as the saying goes. Instead, the proper thinking, the way to approach it would be to say, I've got two interval training programs and they lead to different results. Why? Oh, maybe that's because there's differences in PGC-1 alpha. But you need the outcome, the functional result.
+
+186
+01:22:39,856 --> 01:23:09,056
+to drive looking at signaling because you can't count on the fact that the signaling will ever be actually predictive. Yeah, I mean, because you've got to start with the performance because that's the ultimate thing that you want to do is improve performance. And if you are training to, like let's say you're training to improve fat oxidation, you can adjust your diet and increase fat oxidation, but it's not going to change your maximal respiratory capacity of your muscles.
+
+187
+01:23:09,056 --> 01:23:37,920
+Yeah, and depending on how much you restricted your carbohydrate intake, it might actually compromise your performance, right? Yeah. It's like, great, I got the highest fat max in the world, but I can't go more than 65% of VO2 max, you know? What good am I? I can be a sled dog, you know, because a lot of the studies that have been done, you know, Louise Burke has been the world leader in addressing some of these fat adaptation ideas and doing, you know, fantastic science and hard.
+
+188
+01:23:37,920 --> 01:24:07,632
+to perform studies. But a lot of the ideas have been around since the 1970s with, you know, protein sparing modified fasts and Stephen Finney and Cordain, Loren Cordain, et cetera. So people who are more interested in weight loss, health benefits, and then they lap over a little bit into the exercise world. But there, yeah, there are studies, you know, putting trained cyclists on, you know,
+
+189
+01:24:07,632 --> 01:24:37,424
+very low-carbohydrate, high-fat diets in the 1970s. Yeah, it really increases your rate of fat oxidation, but you can't go hard to save your life. Yeah, I mean, it doesn't spare your muscle glycogen, really, and you barely have any to speak of to start with. Yeah, I think we've done probably three or four hours of podcasting on Louise Berg's stuff because she's just fantastic.
+
+190
+01:24:37,424 --> 01:25:02,128
+and every time people ask me or we've occasionally gotten clients who think that they're going to do all this kinds of stuff when they sign up with training with us and they just end up doing kind of normal stuff and they're like, where's all the science? And we're like, this is the science. Training becomes simpler. The principles become so simple. And I think a lot of people...
+
+191
+01:25:02,128 --> 01:25:30,352
+Try to make it more complex than it needs to be. And of course, I'm the master of complicating things. So when I go to tell my wife something, she's always like, just give me the Reader's Digest condensed version, right? But one of her excellent points when she was training for nationals was, and as a track cyclist and you need access to the track, your only real regular access comes, at least at T-Town, was align yourself with a coach and a training group.
+
+192
+01:25:30,352 --> 01:25:55,264
+that would book the track for hours. So she chose to align herself with Lucy Tyler, et cetera. And Angie's argument along the line was that there is no such thing as the perfect training program. Just keep it between the rails and the outcome is then going to depend a lot more upon motivation and your talent level, et cetera.
+
+193
+01:25:55,264 --> 01:26:16,624
+and she was fortunate actually she was training with a male masters athlete who's still racing I think Steve Lehman who's been masters world champion masters world record holder on the track and you know an older guy and a young woman you know age negated any sex difference so who was better on any given day just depended on you know
+
+194
+01:26:16,880 --> 01:26:45,680
+random chance who was fresh, who wasn't. And so they would just go hammer and tongs at each other, you know, and drove each other to new heights in the process. So that kind of thing is often more important than, oh, we got this new super secret, you know, T-Max interval, et cetera. You know, and the Aussies know it. I mean, the things I've learned, heard of out of Australia, things that Lucy, who would
+
+195
+01:26:45,680 --> 01:27:14,496
+raced to Australia for some years, even though she's from the U.S. originally, you know, doing handicap, you know, she'd put the cyclists on the track and, okay, we're going to do intervals, but in a handicap format. So the back markers are motivated to catch the people in front of them. And the people who are not as fast as the back markers are motivated to go as hard as they can to try and not get caught. And it's a way of psychologically manipulating your athletes to go hard, even in training.
+
+196
+01:27:14,496 --> 01:27:38,720
+Yeah, we do races on the track like that, the Australian Pursuit. Line people up, you know, four spots on the track, equidistant, and just, you know, last person standing, last person to not get past. My daughter is now starting to train for Little Five at IU, and that's one of the things they have coming up here, time trials for the newbies.
+
+197
+01:27:38,720 --> 01:28:05,616
+Four on the cinder track chasing each other on coaster brake bikes, you know? Well, so I think kind of what we're getting to is there's no shortcuts. But I get asked this question a lot, and I've never really addressed it because there's no science that I'm aware of. And also, you know, my experience with this is a little hit or miss.
+
+198
+01:28:05,616 --> 01:28:32,976
+The current fad, I think, is torque training. Have you seen this? Have you heard of this? Yeah. What goes around comes around, right? I mean, it's just like pedaling a bicycle. That pedal just keeps coming around. So, yeah. So, let's see. Let me think back into my exposure. It was, who was Francesco Mosier's coach back when he did the hour record?
+
+199
+01:28:32,976 --> 01:28:58,640
+Oh, I have no idea. So we'd hear about how he would do, to simulate, you know, climbing, he would do, you know, out of the saddle intervals in a big gear against the wind. Yeah. So, you know, this is 1980-ish. And who knows, the idea was probably around before that. Then it was strength endurance training and, you know, it's gone by various names. Oh, yeah, that was all the saucy, yeah. Yeah, now it's torque training.
+
+200
+01:28:59,056 --> 01:29:26,096
+specificity, specificity, specificity, right? Well, that's my usual response is, I mean, I have one style of locatence training that I give to people sometimes that I think works in a certain way, but also, you know, the main way that I think about it is if somebody is having a hard time climbing and we don't have a wide gear selection, then okay, sure, we'll do some locatence stuff.
+
+201
+01:29:26,096 --> 01:29:54,880
+go climb a steep hill at a low cadence, like go hard like you're racing, then have fun. And that seems to work well enough. And it's certainly helpful, I think, for cyclists to be a bit flexible in terms of their gearing or their preferred cadence. We don't have continuously variable transmissions and even with electronic shifting and all the pins and ramps and that kind of stuff, you do sometimes get caught in the wrong gear. But again, no particular magic there.
+
+202
+01:29:54,880 --> 01:30:20,976
+So why don't we get to some of the listener questions? Oh, these are all your questions. These are all my questions. The worst stuff I wanted to ask you about. We're going to be here for a while, huh? Well, why don't we keep these a little short? I'll try and keep my answers shorter. So when's the last time you did a 180 on something, either in research or in training?
+
+203
+01:30:26,672 --> 01:30:56,592
+A 180. You stumped me here. I'm an exercise physiologist. I've been studying exercise physiology since I was a junior in high school. I tell people, cut me and I bleed exercise physiology. I live, eat, breathe, and think about exercise physiology. That's pretty much all I do.
+
+204
+01:30:56,592 --> 01:31:26,240
+like to believe at least I'm my own worst critic. So when it comes to writing a paper, for example, I hopefully have examined the data from all possible perspectives and therefore have identified any flaws, fallacies, errors that I've made, etc. And then you send it out there and your reviewers are never that critical.
+
+205
+01:31:26,240 --> 01:31:51,696
+because they don't know your data the way you know the data or they come up with some off-the-wall criticism out of left field. I will. It goes way back. In my Galveston days, Will Winder, who passed away recently,
+
+206
+01:31:51,696 --> 01:32:21,248
+Capitalizing upon studies of liver fatty acid metabolism started looking at changes in malonyl-CoA within skeletal muscle. So malonyl-CoA can be produced from citrate and it's an inhibitor of carnitine palmatil transferase. So this is a putative mechanism by which high rates of carbohydrate oxidation can inhibit fat oxidation at the mitochondrial level.
+
+207
+01:32:21,248 --> 01:32:50,576
+Yeah, so-called a reverse glucose fatty acid cycle. Oh, the Randall cycle, right, yeah. Yeah, but this is the reverse, right? It's carbohydrate oxidation inhibiting fat rather than fat inhibiting carbohydrate. So, Winder had done studies showing that during exercise, malonyl-CoA levels go down within muscles, so you're kind of like taking the brakes off, etc. And then at higher intensities, it would go up. Capitalizing on that,
+
+208
+01:32:50,576 --> 01:33:19,216
+Labrosidosis, who was doing his PhD in EDGE lab at the time, we started doing studies where we were infusing 13C-labeled palmitate, a representative long-chain fatty acid tracer, which is dependent upon the carnitine palmitate transferase system for entry into the mitochondria, along with 14C-labeled octanoate, an 8-carbon medium-chain fatty acid that can bypass the CPT system.
+
+209
+01:33:19,216 --> 01:33:47,856
+with the notion being that the ratio of oxidation of the two and changes thereof would give you a indicator of the extent to which CPT is rate limiting. So Labros did intensity. He did some other things. Then the one study I collaborated with him, we actually compared trained and untrained individuals.
+
+210
+01:33:48,656 --> 01:34:16,704
+proposed that method to look at aging. And we actually did some AV balance studies looking at fat oxidation across the leg of young and old men and women. In setting up to assay, all the methods were already set up on how to extract long chain fatty acids and measure the total concentration.
+
+211
+01:34:16,704 --> 01:34:44,304
+measure the stabilized top enrichment on the GC mass spec. We had not fully worked out a method yet for isolating the medium chain fatty acids, which are not really there unless you give medium chain triglyceride. And we're infusing trace levels of a 14C labeled substrate. So as a shortcut, as something we needed to do.
+
+212
+01:34:44,336 --> 01:35:07,376
+eventually, but to get a handle on it, I immediately turned my attention to measuring 14 CO2 release by the muscle. And what we were finding was none, minimal. Even though on a whole body basis, the octanoate was being oxidized to 14 CO2.
+
+213
+01:35:07,376 --> 01:35:34,976
+So it didn't hang around in the body very long, you know, the investigators in the room breathing the same air were getting as much of a radiation dose as the participant was, right? So I came to the realization then that, and then you dig a little bit, you know, medium chain fatty acids are normally not present in high abundance in the peripheral circulation. If you ingest medium chain fatty acids,
+
+214
+01:35:34,976 --> 01:35:58,656
+The first pass extraction by the liver is very high. So the liver normally sees, you know, it's the organ that's normally, if there's any medium chain fatty acid around, it's the organ that's going to see it first and it has the capability of oxidizing it. And the muscle normally doesn't see it and doesn't normally oxidize it. So these experiments on a whole body basis, you're actually comparing, you know.
+
+215
+01:35:58,656 --> 01:36:23,072
+Long-chain fatty acid oxidation in muscle to medium-chain fatty acid oxidation in liver is my interpretation. And the ratio doesn't tell you what you think it does. So that's where I've changed my tune. That was a long time ago, though.
+
+216
+01:36:23,072 --> 01:36:51,120
+I got to go back and read that. It's not that I haven't been surprised by things. We did a dose response study with dietary nitrate in healthy older, mostly women, one man, where we gave our standard dose of nitrate and we gave double the dose. You'd need a much broader range of doses to try and figure out an optimum. I didn't really have a hypothesis where the...
+
+217
+01:36:51,120 --> 01:37:18,176
+greatest benefit would be. But the surprising thing is what we found was in eight of the nine individuals, their maximal neuromuscular power, some knee extension exercise on isokinetic dynamometer, actually regressed in the high-dose trial back towards, and in some cases, even below baseline. Really? So it is possible.
+
+218
+01:37:18,176 --> 01:37:44,864
+pithy power proverb, right? Little sayings. It is possible, apparently, to have too much of a good thing. So, you know, the mechanisms are, you know, beyond our discussion here or potential mechanisms. The hypothesis is in the paper if you want to dig for it. Edgar Gallardo is the first author. But that was certainly a case where the outcome of the study was, you know, surprised me. I didn't expect that finding.
+
+219
+01:37:44,864 --> 01:38:13,184
+I'm surprised too. Actually, you had a study that ruined me for a little while on the Randall cycle because it was your study that was looking at citrate. I read it and I was like, oh God, now I've got to go back to square one. Well, there's a distinction to be made there. Randall's hypothesis was worked out in diaphragm and heart.
+
+220
+01:38:13,184 --> 01:38:30,176
+it then spread to skeletal muscle and it was Mike Rennie working in John Halsey's laboratory who did the first study with perfused rat hindquarters and they reported yes the glucose that Randall's glucose fatty acid cycle does operate within skeletal muscle as well.
+
+221
+01:38:30,176 --> 01:38:54,640
+This then became, you know, at the time, that was the explanation for everything. Go read papers of the era. All I did, that's where I got it. Yeah. So then it became sort of assumed, you know what happens when you assume something? It was assumed that it was the increase in fat oxidation with training that inhibited carbohydrate oxidation.
+
+222
+01:38:54,640 --> 01:39:17,616
+so the study you mentioned was an attempt to test that hypothesis and we found that no that is not the case but you have to draw a distinction between does the glucose fatty acid cycle operate within skeletal muscle yes apparently is that the mechanism by which training reduces carbohydrate utilization no it's not
+
+223
+01:39:17,840 --> 01:39:38,400
+But it's a little bit, I wouldn't say it's splitting hairs, but you do have to recognize there's a difference. Well, I think this is something that a lot of folks may or may not recognize, which is the substantive change in metabolic regulation in muscle and throughout the whole body during exercise.
+
+224
+01:39:38,400 --> 01:39:54,496
+and things like how AMPK operates or melonyl-CoA or anything like that. These are different than what you see if you're testing patients with diabetes at rest. This may not, probably won't translate to exercise.
+
+225
+01:39:54,496 --> 01:40:22,480
+Right, and it's maybe different from what you learn in your biochemistry class, you know, the classic example of regulation of glycogen phosphorylase, what you would be taught in biochemistry, at least back in the day, maybe they've gotten more up to speed, would be more how glycogenolysis is regulated in the liver, and that is, you know, catecholamines stimulating adenyl cyclase, production of cyclic AMP, and activation of, you know,
+
+226
+01:40:22,544 --> 01:40:44,560
+like phosphorylase kinase and then phosphorylating phosphorylase which activates it and you know it's all hormonally driven but in skeletal muscle while the catecholamines play I describe it to students as while they play a reinforcing role on the rate of glycogenolysis the primary signal for muscle glycogen breakdown.
+
+227
+01:40:44,560 --> 01:41:10,608
+actually resides within the contracting muscle itself and for reasons that are still not entirely clear are intimately linked to muscle contraction. So if you have a person exercising, let's say you want to do an experiment, then you want to use magnetic resonance spectroscopy to look at their muscle metabolism, but you don't have any capability of exercising within the magnet.
+
+228
+01:41:10,608 --> 01:41:37,952
+one thing you can do is you have people exercise outside the magnet and then at the time you want to make the measurements you pump up a pneumatic cuff above arterial blood pressure and you occlude all blood flow and you can freeze the metabolic state of the muscle and then climb into the magnet do your scans the whole time the person's like this is hurting a little bit I can't wait until you let the cuff down but
+
+229
+01:41:37,952 --> 01:42:07,920
+It's rather striking to think about it. The metabolic milieu within the muscle, once you inflate that cuff, is exactly the same as it was right beforehand while they were exercising. So ADP is high, PI is high, phosphocreatine is low, AMP is elevated, etc. Well, it really shows that oxygen is the thing that pulls everything with it. We'll get that, yeah. Which leads to another.
+
+230
+01:42:07,920 --> 01:42:34,864
+pet saying. But yet, even though the metabolic milieu is exactly the same, as soon as the muscle stops contracting, glycogenolysis stops. And it's like, why? You'd think we would understand this by now, but if you want to look for a review, Abe Katz, who actually did his master's at Ball State when I did mine, Abe has a recent review on regulation of muscle glycogenolysis during exercise. You'd love it.
+
+231
+01:42:34,864 --> 01:43:04,848
+you're into the biochemistry so look I'll send it to you I'll find it but that's one of the things he points out is like you know we know glycogen is critical we've done all these studies to try and understand the regulation of glycogenolysis yet we really don't know why but back to oxygen yes so recovery is 100% aerobic again glycogenolysis stops the muscle could potentially continue to accumulate lactate resynthesize ATP and try and recover its
+
+232
+01:43:04,848 --> 01:43:25,728
+What do you want to call it? Squiggle P, it's energy charge, however you want to describe it. Recover the high energy phosphate levels, but it doesn't until oxygen is available. So you start thinking about micro intervals, 15 seconds on, 15 seconds off or whatever. Recovery is 100% an aerobic process.
+
+233
+01:43:25,728 --> 01:43:52,624
+And so when people talk to me and they say, oh, you know, bike racing, it's all anaerobic. And it's like, no, I won't swear to save your listeners. You can say whatever you want on this one. The saying is it's an aerobic sport. Damn it. Now, match sprinting isn't. 500 meter isn't. If you look at track cycling, but when you start talking about a points race.
+
+234
+01:43:52,624 --> 01:44:22,320
+at the end of the day. In order to perform well, you need to supplement your aerobic energy production with small amounts of anaerobic energy production. If we want to get pedantic, and I know you do and I always do, every contraction is anaerobic. It's anaerobic all the way down until you get to the electron transport chain. I guess you could say every contraction is
+
+235
+01:44:22,320 --> 01:44:51,760
+It's not anaerobic. It's not aerobic. Oxygen's not involved. But if you actually think about it, ATP isn't even involved. That's true. Relaxation is where the ATP comes in, right? Yeah, the rigor mortis lesson. What is exercise intensity? If you're an individual muscle fiber, largely it's either you're
+
+236
+01:44:51,792 --> 01:45:20,864
+Motor Unit is firing or it's not. You're either on or you're off. I mean, there is some degree of rate coding. It's only when you start talking about the body as a whole that you can start talking about gradations of exercise intensity. Or you can start thinking, it's like, well, you can argue that all exercise is intermittent, right? I'm doing micro-intervals when I pedal a bike. My quad contracts on the downstroke. Five hours of micro-intervals.
+
+237
+01:45:20,864 --> 01:45:33,856
+Well, I always think about it as what is the consistent demand for ATP and NADH and FADH2, like electron transporters and proton transporters.
+
+238
+01:45:33,856 --> 01:46:01,296
+direct ATP. And that's how I've been teaching people on the podcast is think about this, like this rate of demand, and that will in large part determine to some degree the response. And I think you said continual, but that loops back to why normalized power is calculated using a 30-second rolling average or whatever. So really from a metabolic perspective, you want to smooth over the short-term fluctuations.
+
+239
+01:46:01,296 --> 01:46:26,528
+because metabolism is always, you know, lagging. And then interestingly, if you ever looked at like do an exponentially weighted moving average of your power during a criterion, and then it actually heart rate parallels it rather nicely, you know, because heart rate is automatically smoothed by the physiological response. Yeah. And I mean, this is one of those things where I always warn people though, because like, you know,
+
+240
+01:46:26,528 --> 01:46:55,248
+because I do track sprinting. If I go over the course of three hours, if I do three or four 30 to 40 second efforts, they're like 1,000 watts. I'll have a normalized power of like 400, but I'm doing like 50 watts in between. It definitely wasn't designed with that application in mind. Although if my normalized power is my threshold, man, I have a great threshold. I can really only do it for a couple minutes though.
+
+241
+01:46:55,248 --> 01:47:23,136
+The go hard, puke, go home style of training is what I call it. Okay, so my next listener question, I think I would get drawn and quartered if I didn't ask you this. I'm going to be fascinated by your thought process in the answer here. Would you rather fight one horse-sized duck or a hundred duck-sized horses? One horse-sized duck or a hundred horse?
+
+242
+01:47:23,136 --> 01:47:45,152
+I'm a slow twitcher. I'm going to take the latter. Who came up with this question? I have no idea. People have asked me this. It's interesting. Yeah, I would rather go because I used to do martial arts when I was younger. You're the sprinter. You're taking on the single. Yeah, I'm going to take on the big guy because I was always like just a little too big to fight.
+
+243
+01:47:45,152 --> 01:48:13,024
+that the average folks in our classes and so they would always put me against the really large guy you know because I was also one of those like oh he's going to international competition like make him fight the big tough guy then I would get my ass kicked. For some reason this reminds me of the speaker evaluations that Sam Callen used to do for the USA Cycling and I got one of them one time after I think I was presenting the performance manner at the manager chart and somebody their comment was
+
+244
+01:48:13,024 --> 01:48:40,592
+Dr. Coggan is the only person I know who can talk about a single slide for an hour and still make it interesting. It's like, is that a compliment or an insult? I would take that as a compliment. So do you have any either facts or theories behind openers the day before a race? It's purely speculation.
+
+245
+01:48:40,592 --> 01:49:07,616
+And this actually comes back to the glycogenolysis. I think we've all experienced the sensation of having to go really hard without adequate warm-up, right? You fatigue unduly, your legs get really puffy, they can lock up, right? So the way we avoid that is we warm up, and your classic scripted warm-up, quite often, you know, you do a...
+
+246
+01:49:07,616 --> 01:49:26,144
+incremental exercise protocol and you throw in a few short sprints at the end, right? Well, aside from, you know, tickling all the physiological systems that you're going to need, you know, during the competition. The round robin, I call it. Okay. Yeah, there you go. Yeah, to get a little.
+
+247
+01:49:26,144 --> 01:49:50,464
+deeper and think about what mechanistically might be beneficial there to go back to glycogen breakdown in this phosphorylase B to A transformation. So at the onset of muscle contractions in rested muscle, you have rapid flash activation transformation of phosphorylase B to A driven by calcium and a burst of glycogenolysis.
+
+248
+01:49:50,464 --> 01:50:16,320
+but very quickly thereafter within you know a handful of seconds or thereabouts you actually get the reversal and so phosphorylase A goes back to phosphorylase B and the rate of glycogen all slows down and then phosphorylase becomes refractory if you now throw in another sprint after five minutes of continued exercise you don't get the same flash activation.
+
+249
+01:50:16,320 --> 01:50:37,280
+You may get some increase in percent phosphorylase A, but it's not nearly as dramatic as what you got at the onset of exercise. So now you start thinking about it as well, if I time my warmup correctly before I do my kilo, I have made my phosphorylase less responsive, if you will.
+
+250
+01:50:37,280 --> 01:51:05,968
+and therefore I'm less likely to get this massive burst of glycogenolysis that's going to result in this huge amount of lactate being produced within the muscle that's going to draw all this fluid to it and cause me to pedal squares. So that's my hypothesis as to one of the beneficial effects of a warm-up. And then when you talk about the round robin and think about muscle recruitment, well, I mean, warm-up...
+
+251
+01:51:06,064 --> 01:51:35,072
+The evidence that warm-up improves performance is actually kind of limited, even though as athletes and coaches, we all know that it does something. When you actually do studies of it, you may be able to fight through those ugly feelings that you experience if you're not adequately warmed up. So maybe your performance isn't impacted as dramatically as we all might think, or not in studies. But part of warming up is raising core temperature. So you could warm up by sitting in the sauna.
+
+252
+01:51:35,072 --> 01:51:57,552
+I mean, it works. Literally warming up. Literally. Yeah. And it does provide a beneficial effect to some degree. You could warm up by turning off the fan and do low intensity pedaling for half an hour, 45 minutes. But that's not going to recruit the fast twitch motor units that you're then going to call upon in competition.
+
+253
+01:51:57,552 --> 01:52:17,424
+You're looking for activation there. Yeah, the fastest of the fast. So now you think back, okay, well, why do we do this scripted warm up to high intensity and throw in a couple sprints? Well, it's round robin from the Henneman size principle. We want to make sure that we've warmed up all of our motor units.
+
+254
+01:52:17,424 --> 01:52:32,544
+Yeah, openers. Like openers the day before. Yeah, so the day before. Okay, so there you are. You've got, you know, your state criterium championship. You've been really targeting this all season long and, you know, you're going to taper.
+
+255
+01:52:32,544 --> 01:53:02,384
+and you're not going to glycogen load but if you've been training regularly glycogen depletion is a stimulus for glycogen resynthesis so trained individuals after a couple days rest will automatically have elevated muscle glycogen levels so by simply taking a couple days easy or off before your big race you're going to line up on race day with lots of glycogen and it is the outermost glucose moieties of glycogen that are
+
+256
+01:53:02,384 --> 01:53:23,216
+hydrolyzed first. So it could be that we know that the rate of glycogen analysis is dependent upon how much glycogen you have. So it could be that leg openers the day before, maybe it's kind of like trimming the tree in your yard so it's not taken down in a windstorm.
+
+257
+01:53:23,216 --> 01:53:50,336
+I want to start the race with lots of glycogen but at the same time I don't want to have so much glycogen that I have this massive burst of glycogenolysis in the first three laps and then conversely and again I was talking last time how intuitively I think about cycling differently or I think about cycling
+
+258
+01:53:50,336 --> 01:54:13,424
+in part intuitively, whereas I can't relate to rowing. One of the things I learned when I first got a power tap was that, okay, I tended to not rest enough for my races. But then I was always targeting like Masters Nationals. I didn't care about local events. I would just train through them. Who cares what the results were? They were good training. And then one season I got tired of my local reputation. People didn't.
+
+259
+01:54:13,424 --> 01:54:42,160
+I think I was as good as I thought I was. So I decided, okay, forget Masters Nationals. I'm going to win the local best all-rounder rider in the 40 plus. I'm going to target the local races. And I adopted a pattern where if it was a criterium, I would rest completely two days out and I would do leg openers the day before. So I line up fresh, but also good to go from the very start of the race. I'm curious, what did you do for openers for a crit?
+
+260
+01:54:43,440 --> 01:55:12,976
+The day before? Yeah. I'm trying to remember. I mean, it wasn't anything unusual. I'd have to like dig back through training files because, you know, due to traffic where I was living at the time, a lot of these probably could have been on the ERG. I've, you know, I do most of my, historically I've trained as much indoors as outdoors. Well, I was actually happy somebody asked this because
+
+261
+01:55:12,976 --> 01:55:40,160
+One of our coaches, Katie, she's got really funny legs in that if she doesn't go hard the day before an event, or usually two days, the symptoms in her legs sound exactly like somebody whose threshold has dropped 30 or 40 watts. We're going to be old school Europeans here.
+
+262
+01:55:40,160 --> 01:56:06,896
+The sensations, the sensations of the legs, right? Because she'll be at threshold, and she'll be like, I was at threshold during my warm-up, and it felt like I was over threshold. If it feels hard, it is hard, right? Yeah. And even if she could push through in a research study and her performance wouldn't be any different, you can't have that screwing with the athlete's psyche on race day. Exactly, yeah.
+
+263
+01:56:06,896 --> 01:56:29,184
+did again, kind of from realization, if it was a road race and the typical master's athlete road races were two hours and better for me, I would do something, you know, relatively hard two days out and I'd rest completely the day before. Because unless the road race starts at the bottom of a steep hill or you expect the attacks to be flying from the very beginning.
+
+264
+01:56:29,184 --> 01:56:59,168
+You don't necessarily need to be ready to go from the gun, right? You have time to roll into it. And I realized this way back in the day, in the 70s, like if it's a state road race that's five hours long, like the worse I felt at the start, early on, the better I was going to feel in hour five. Because that means I'm just loaded with glycogen here and I feel bloated and I'm pedaling squares, but it's going to pay off eventually.
+
+265
+01:56:59,168 --> 01:57:28,832
+that's required as well. There could be. We used to joke on wreck bicycles racing about how people would crash and then they'd get up and suddenly be riding really well. And I've had some of the best performances of my life, turning myself inside out. I can think of one, two, three occasions where I got basically zero sleep the night before. Actually, it was not at all unlike
+
+266
+01:57:28,832 --> 01:57:49,296
+Was it Vanderpoel at Worlds? Yeah. The girls were knocking on his door, et cetera. Yeah. Well, he didn't win anything, that's for sure. No, but I guess I'm mentally stronger than he is. I went to a Junior Worlds qualifying road race and the guy I was traveling with started.
+
+267
+01:57:49,296 --> 01:58:14,432
+flirting with these other teenage girls. I was a teenager, right? Then they decided all night long they were going to be knocking on our door and harassing us and wanting to get out and party. So I slept zero the night before, but then had a great race the very next day. And that would lead to, lack of sleep will lead to heightened sympathetic activation. And you could also speculate on the leg openers. I mean, there's a lot of the improvements in...
+
+268
+01:58:14,432 --> 01:58:43,104
+muscle function of the resistance exercise training are a result of neural adaptations, synchronicity of motor unit firing, et cetera. So perhaps, you know, leg openers the day before play a motor learning role. I mean, you know, I always trained alone. I lived in the Midwest doing lots of crits. I'm not a great crit racer, right? Can't sprint. But if there were like Friday, Saturday, Sunday criteriums, by Sunday, I'd be flying.
+
+269
+01:58:43,104 --> 01:59:09,744
+and I think a lot of it was the you know I didn't do any sprinting in training you know all the roads were chip and sealed with gravel piled up in the turns you couldn't like practice cornering fast and jump out of them so I'm steady Eddie in training then I'm thrown into a crit where I have to vary my speed you know it took a day or two and then my nervous system learned how to activate the muscles that way and on day three I'd be going great yeah
+
+270
+01:59:09,744 --> 01:59:36,080
+Okay, so my last question, listener question, for now, I'm sure we'll do this again. Only if you pay me. All right. Okay, that's empiricalcycling.com slash donate to donate to the Get Andy Coggan back on the podcast. So where did the watts per kilogram category chart come from? And do you feel it's still valid to some degree?
+
+271
+01:59:36,080 --> 02:00:03,744
+This is one of those things where a lot of people, I think, get the wrong impression of that kind of stuff. Because they'll say, oh, I've got world-class one-minute power. How come I'm not winning world-class races? Some people call it the E-Wang chart. Early days, everybody gets power meter, right? Okay, I'm going to take advantage here. It used to be Sufferfest. Now it's the unpronounceable system because they dropped all the vowels, right?
+
+272
+02:00:03,744 --> 02:00:30,064
+They're 4DP, right? Oh, this novel idea, four-dimensional power profiling. I know. Let's look at five-second, one-minute, five-minute, and sustainable power. Wow. I wonder where that came from. Yeah, really. I mean, you know. Yeah. Ethics, not very much, apparently. But early days, power meters, you know.
+
+273
+02:00:30,224 --> 02:00:54,816
+People were saying, well, how much power can you make? How much power can you make? Is this a good power? Is this a bad power? People want to know. And yet who in the world has access, especially back then, to a database that is sufficiently representative of all cyclists across this broad range of abilities and is willing to share it, right?
+
+274
+02:00:54,816 --> 02:01:23,696
+There could be, if you had talked at the time to somebody at the AIS, yeah, they had a good handle on how much trackies could make power-wise, right? Or you go talk to people who are running a pro tour squad, they had a good handle on what the endurance stage racers could make. But now you need it across that entire swath and across the entire population. And then people's idea is like, well, we can collect this. I'll put up a web form and people can send their data in.
+
+275
+02:01:23,696 --> 02:01:53,376
+Is the power meter calibrated? A lot of 2,000 watt sprints in those days. Is big data really going to overcome all of these issues? And again, if you read the article describing the power profiling tables, the point I make in the introduction is if you want to know how good a bike racer you are, go race your bike. The point of the power profiling tables is trying to give you insight into your own relative strengths and weaknesses.
+
+276
+02:01:53,376 --> 02:02:19,616
+in order to do that you need to compare yourself to some standards you know what other people can do right so in the world of running there have long been the Mercier tables that are based on world record at different performances there are Jack Daniels has done the same thing but then actually uses it to
+
+277
+02:02:19,616 --> 02:02:48,944
+prescribed training across things or predict your performance. Well, you can do 5K in this pace. You should, with proper training, be able to do a marathon at this speed, et cetera. So in the running world, it's long existed. And true in swimming, USA has their PowerPoints in swimming, and then there are others as well. So I track all of my son's PowerPoints, et cetera, et cetera. Is he on track? He wants to swim D1. Is he developing? Blah, blah, blah. I got a whole spreadsheet, of course. So how do you provide this tool?
+
+278
+02:02:48,944 --> 02:03:16,464
+to cyclists sooner rather than later in order people actually benefit the most from the power meters so inspired by the need was out there the examples in running mostly were the inspiration and then the approach was well I had enough contacts that I could acquire
+
+279
+02:03:16,464 --> 02:03:46,448
+power data from recent world record holders, world champions, et cetera. The very best in the world peg the very top of each column based on that. And from my exercise physiology background, I had a good understanding of what the average healthy young untrained individual could do. So that performs the bottom end of the range. And then you spread all of the values equally in between.
+
+280
+02:03:46,448 --> 02:04:16,064
+And therefore, if you're closer to the top of the five-second column and closer to the bottom of the FTP column, well, you got a sprinter's profile, right? Then people requested, you know, how does this align with racing categories? So I added, you know, kind of overlapping words with brackets, sorry, words with overlapping brackets to try and, you know.
+
+281
+02:04:16,064 --> 02:04:42,912
+and organized, not organized, orient people in that context. But then people would want to take it too literally and say, hey, look, I got cat two power. I can be a cat two. Like, well, learn to ride a bike, you know, learn not to crash. And yeah, maybe you have the potential. If you want to be, you know, I don't see how good a bike racer you are, go race your bike. So then I stripped those off.
+
+282
+02:04:42,912 --> 02:04:57,936
+tables up to version eight or something like that. I stripped them off at one point and then, you know, training peaks and coaches said, no, no, no, we really like those. So they put them back on there with all the caveats. But that's the idea. Peg the top.
+
+283
+02:04:57,936 --> 02:05:14,928
+Peg the bottom, spread values in between, and therefore the shape of your profile. It's the same as the profile of mood states. Are you an iceberg profile, right? Or psychological testing, right? It's the same kind of thinking there. What's your profile?
+
+284
+02:05:14,928 --> 02:05:44,416
+Guilty of power profiling people. Well, I mean, I think a lot of people miss those caveats. Of course, they miss everything. Of course. Now, the key point here, and maybe I'm making Tim some more money, but it's actually, that was power profiling. Then Hunter had the idea, it's like, well, we should do power fatigue profiling. So he basically filled in between the five second, one minute, five minute in.
+
+285
+02:05:44,416 --> 02:06:13,280
+one hour. He filled in some other durations, kind of get back to the stamina idea. And he put it up as a web form on his coaching website and it never really gained a lot of traction. And I don't think we ever described it in any of the editions of our book or whatever. But then when we got to the WK04 model, it was possible to develop synthetic standards based on the known capabilities of
+
+286
+02:06:13,280 --> 02:06:43,136
+different levels of cyclists fit the model. You now have the model parameters. You can then describe the whole curve. So it really went from power profiling to power fatigue profiling to the entire power duration profiling. So if you had WK04, I've never used WK05, but if you had WK04, yeah, there's charts with all the squiggly lines on it. And you can see how someone like my wife would be,
+
+287
+02:06:43,136 --> 02:07:13,024
+Pretty much mid-range at five seconds, and then as you get out to one minute, starts getting up to the world-class range and stays around world-class until it starts getting down to five minutes, and then she starts to drop more back into elite but not world-class kind of stuff. Yeah, I mean, mine looks exactly like that, except I'm like, okay, I'm pretty good, and then I'm like world-class from like 20 to 45 seconds, and then I fall off a cliff.
+
+288
+02:07:13,024 --> 02:07:42,768
+And in fact, the power duration profiling in WK04, I view as completely supplanting the power profiling tables. So the power profiling tables would have stopped at version 7, except TrainingPeak said, hey, can you update them? So that led to a version 8. But in my mind, they're obsolete. I would instead. Although, it's still a tool, and you can use that tool without.
+
+289
+02:07:43,120 --> 02:08:04,320
+having the software to model your curve. So I guess it's not entirely obsolete, entirely useless. But I've moved on. Well, I think a lot of people have not because some of the teams that I've worked with, I think, put way too much stock in somebody's power profile.
+
+290
+02:08:04,320 --> 02:08:28,224
+versus their race results when they're looking at scouting new people. I'm always trying to tell them, look at their results first and then look at their power profile. I've seen people get recruited where I look at their results and I'm like, I wouldn't have taken him. Interesting. I'm starting to think the NFL combine, is it coming back to Indianapolis? Indy has had it for a number of years. I don't remember where they...
+
+291
+02:08:28,224 --> 02:08:58,032
+got it going forward or not. But, you know, you think about the NFL has their standardized tests, you know, throwing 225 pounds around on the bench press as many times as you can and 40-yard dash times, et cetera, et cetera. And then you have all of these scouts out there who are being paid by NFL teams in order to try and talent spot. Is there, could you make a living as a cycling scout? Sell your services to, you know, pro tour teams?
+
+292
+02:08:58,032 --> 02:09:18,528
+I would like to make a living doing that one day. That sounds fun. If anybody wants to pay me, shoot me an email for it. I have a farm system. I think also team sports are unique relative to cycling. Cycling is obviously a team sport as well.
+
+293
+02:09:18,528 --> 02:09:43,104
+I think in team sports, like how the team plays and all that kind of stuff way outweighs any physiological characteristics. You could have one of the game's greats who, you know, has a crap VO2 max and they can't really squat and they can't really sprint. And yet, you know, they're the goat. Yep. Sorry. Oh, no worries. Cleaning out some emails here.
+
+294
+02:09:43,104 --> 02:10:11,360
+Well, that's definitely our signal to wrap it up then. Sorry. No worries. I was like, man, I'm losing him. I see him looking away. Well, Andy, thank you so much for coming on again. Really appreciate it. Okay. Yeah. Well, I was joking about paying me. We can do it again. Let me recover for a couple of years. Oh, definitely. Yeah. Same here. These are very mentally taxing for me.
+
+295
+02:10:11,360 --> 02:10:38,624
+Before you actually started recording, you mentioned that conference I had gone to. I came back from that conference, kind of re-enthused new research ideas, and they're over here on my whiteboard. So give us 18 months, then I might have some new dietary nitrate, cool nitrate stuff to talk about. Yeah, that sounds good. Yeah, for sure. And if you want to come back and rant about anything in the meantime, you have an open invite. All right.
+
+296
+02:10:38,624 --> 02:11:08,080
+Alright, so I of course would like to thank Andy Coggan again for coming on to the podcast again, and for being such a good sport, and for actually, you know, giving a good answer to the horse versus duck questions, so thank you everybody for submitting that one, and if you would like to submit further questions to our interview guests, you can do so at Empirical Cycling on Instagram, up in the stories, that's where I usually post those kinds of things, actually that's where I always post those kinds of things, we've also got some weekend AMAs, so you can ask me anything about training up in the weekends, and I will
+
+297
+02:11:08,080 --> 02:11:37,296
+usually give a very short answer. And of course, if you'd like a longer answer, you can hire us for a consultation. So empiricalcyclingatgmail.com for that. And of course, if you'd like to support the podcast in other ways, we have donations, empiricalcycling.com slash donate. You know, Andy was kind of kidding about that, but also if you want to send us a couple bucks anyway, we would really appreciate it. And of course, our ultimate Patreon being becoming an empirical cycling athlete. So again, empiricalcyclingatgmail.com.
+
+298
+02:11:37,296 --> 02:11:47,024
+if you'd like to send an inquiry for that. Thank you everybody for signing up lately. Really appreciate it. And yeah, we'll see you in a future episode. Thanks.
+
