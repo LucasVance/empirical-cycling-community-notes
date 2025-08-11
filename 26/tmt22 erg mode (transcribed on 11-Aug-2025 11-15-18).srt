@@ -1,0 +1,800 @@
+1
+00:00:00,464 --> 00:00:30,064
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore, joined as always by my co-host, Kyle Helson. Thank you, everybody, for listening. And please subscribe if you're new here and you like what you're hearing. And of course, if you are an old fan, thank you so much for listening for however long you've been listening. And also, please share the podcast if whatever we're talking about here is relevant to whatever you're talking about somewhere else. And I've seen a lot of those lately. Really appreciate it. Thank you, everybody, for doing that. And also, remember that we are ad-free if you'd like to support the show.
+
+2
+00:00:30,064 --> 00:00:49,712
+with a donation. You can do so at empiricalcycling.com slash donate. We have some show notes up on the website, but it's 10-minute tips, so we spent 10 minutes getting ready for this one, so I don't think we're going to have many links, if any at all. So you can check out notes for other episodes up there. And if you have any coaching or consultation inquiries, we are, of course, a real coaching company.
+
+3
+00:00:49,712 --> 00:01:14,432
+and you can reach me at empiricalcyclingatgmail.com and of course we are always taking on athletes. We are negotiable for students and professional athletes of course and if you'd like to consult with us, we do a lot of those and we get some pretty good feedback. So thanks everybody for reaching out for the consults. Let's keep those rolling. They're a lot of fun and of course keeps us in touch with everybody who we're not coaching so we can really see what's out there.
+
+4
+00:01:14,432 --> 00:01:44,016
+And of course, Instagram, at Empirical Cycling, obviously, and this is where we are asking our listener questions for this episode. And so right before we record, I put up a question box, and this is different from the Weekend MAs, by the way. So I asked about Erg Mode, and we are going to answer your questions about Erg Mode at the end of the podcast.
+
+5
+00:01:44,016 --> 00:02:11,920
+I kind of thought that this would be a fun episode. I came up with the title first, obviously. And then I was like, you know what? This is probably worth recording this weekend. So here we are. And I think, because I've read a lot of articles about when to use Erg Mode, when not to use Erg Mode, and a lot of them have some really good points. But I think that, and I wouldn't
+
+6
+00:02:11,920 --> 00:02:36,544
+Want to even do this podcast unless I thought that we could add something else. And so a lot of what we're going to be talking about today is going to come directly from my coaching experience in training people with Erg Mode and kind of the upsides and the downsides and why we typically don't want to use Erg Mode and why I pretty much any time I have a client.
+
+7
+00:02:36,544 --> 00:02:58,480
+99 times out of 100, I really, really tell them not to use Erg Mode. And so we're going to go into why, but I don't know. Kyle, what do you hear out there about Erg Mode, the upsides and the downsides? I think that a lot of people like it because, especially if they're stuck inside, you want to make your...
+
+8
+00:02:58,480 --> 00:03:28,352
+Time, Stuck on the Trainer, Staring at the Wall. Well, hopefully not just staring at the wall. That's some like, you know, like Soviet sports school, terrible kind of stuff. You want to minimize the amount of just crushing brutalness of pedaling inside for a three-hour, you know, endurance ride as you can. So you think like, oh, let me plug into Erg Mode so that I can sort of let my mind wander and
+
+9
+00:03:28,352 --> 00:03:55,168
+Require maybe a little less focus and get this done easier. And so you feel like, oh yeah, like I'm still getting the work in, but I'm just making it a little bit easier on myself. And that seems fine. Like you're taking advantage of this new technology. You know, we didn't have this 20 years ago, even 10 years ago. When was our first smart trainer? Anyway, it's certainly back when I started having to like ride the trainer indoors. We did not have smart mode, Erg mode, no smart trainers.
+
+10
+00:03:55,168 --> 00:04:22,128
+you know, didn't even have the direct drive trainers, you know, you had to have your loud wheel rubbing against that stupid roller. Your old school Kirk Kinetic, or even worse, you had the magnetic Cyclops. Yeah, just made a shitload of noise. Yeah. Yeah, they sounded like jet engines, like, especially on a, on like a wooden apartment floor, it was just. Yeah. And, and so I think people think, oh yeah, this is, this is great. Like, this is, it's.
+
+11
+00:04:22,128 --> 00:04:51,888
+It's also very similar to setting up a treadmill where you hop on a treadmill and you can punch in, yeah, I want to do this endurance run at, you know, 729 per mile or something like that. So you can just punch that in on the treadmill and you just go and you don't have to think about it. And you're like, great, I'm done. And, you know, one less thing to think about, try to distract yourself with maybe some music or shows or both or anything else just to get through the work. Yeah. Yeah. And so I think that's clearly a benefit.
+
+12
+00:04:51,888 --> 00:05:18,112
+of Erg Mode, is if you have certain power targets really dialed in, it can really help with this kind of thing, because especially if you've got to do work, if you've got to read, I mean, I've got a couple clients who will ride as they're doing office work, because they work from home, and they just ride. Like, they're just on the trainer, they've got their trainer desk, they set up the laptop, they've got a couple towels and a bunch of snacks, and they just spin.
+
+13
+00:05:18,112 --> 00:05:47,344
+And it's great, and sometimes, yeah, if you want to shut your brain off, it is a definite benefit to shut your brain off, because, you know, this is actually one of the big first points that is both a plus and a minus of Erg Mode, is you shut your brain off. So, it's great when you can set it and forget it, like you've got a recovery ride, alright, Erg Mode, 100 watts, RPE, 10 out of 10, I know the chance.
+
+14
+00:05:47,504 --> 00:06:16,816
+And so that's a super easy way to do it, especially if somebody's going too hard. So I have definitely used that strategy with people before, and sometimes to good effect because they go, wow, my legs feel better, I don't feel overworked, I didn't burn the kilojoules I wanted to burn, but I'll go for a walk. So that's okay. But I think that comes with a big downside because when you...
+
+15
+00:06:16,816 --> 00:06:44,464
+Turn Your Brain Off for this kind of stuff. You actually miss out on a bunch of very, very relevant information, like RPE, like are you actually mentally tired? Like these are things that you need to know to properly adjust your training for the day because the set it and forget it thing works, but also it, you know what I liken it to? I liken it to driving with GPS. You know, when I've got like the Google Maps up or Waze or something's giving me directions.
+
+16
+00:06:44,464 --> 00:07:14,304
+I'm not really learning where I'm going. And that's one of the drawbacks, I think, of Erg Mode, like with the mental aspect of it, is if you just set it and forget it, you know, you don't go, oh, I'm feeling a little tired, I'm going to back this off today. Like, you've already got your target locked in, and if you're not paying attention to it, then it can be too much, like on an endurance ride. I mean, does that kind of jive with, you know,
+
+17
+00:07:14,304 --> 00:07:39,984
+kind of what you would expect for Erg Mode. I think that makes sense. I just wonder if it's like, you know, people aren't thinking, I think a lot of times maybe, and this gets to something deeper, is that people are thinking, oh, unless I totally fucking fail this workout, I need to just plug away at this prescribed number. And so...
+
+18
+00:07:39,984 --> 00:08:09,936
+Erg Mode is great because it keeps me – they're going the other direction. They're thinking it keeps me honest and keeps me from wimping out or mentally tapping out so you feel like you're a wuss a little bit or something like that. Oh, yeah, sure. Yeah, like because if you've got efforts and if you've got, I don't know, some FTP efforts, right? And let's say – I don't know why I've seen this workout a lot lately. Four by eight minutes of FTP. So let's say you've got four by eight FTP and it's a tough workout for you to get through.
+
+19
+00:08:09,936 --> 00:08:35,312
+Well, obviously my first thought is your FTP is set way too high. 4x8 should be like, oh, whew, nice kind of chill FTP day. If you're dreading that, and this is the first issue with RPE, is you need that information. You need to be able to adjust your target up and down so you have realistic feedback loop between how you're feeling and the power target and...
+
+20
+00:08:35,312 --> 00:09:03,440
+Knowing, and this is the crucial part I think that over-reliance of Erg Mode misses, is that you don't get that mental feedback loop and dialing in your RPE, because I harbor this in the podcast all the time, I know, but if you miss a good opportunity to always have your RPE kind of sharpened and be in really good touch with your legs and how you're feeling and your thresholds, both LT1 and FTP, like if you miss this,
+
+21
+00:09:03,440 --> 00:09:32,960
+You are missing out on something absolutely fundamental in training. Because, I don't know why, I think I said this last podcast too, so I'm sorry if this is repetitive, but I would say a huge majority of our clients, like we could give them workouts with durations, and we could just tell them, I wouldn't even have to give them a power target, we could just tell them, like do FTP, do sweet spot, do tempo, do VO2s.
+
+22
+00:09:32,960 --> 00:10:02,784
+and they'll nail it every single time without a power target. And that is, well, obviously if your power meter dies, okay, there you go, you can do your workout, no problem. But it's because the RPE is so dialed in and it helps so much on race day and it helps also with really immediate feedback on tracking progress. Like if you're really tired and you're gonna go do your FTP workout and let's say,
+
+23
+00:10:02,784 --> 00:10:30,976
+Realistically, you could only do a sweet spot day. And if you're doing FTP and you are just suffering to finish these efforts, and thank God for Erg Mode, I got my efforts done, I managed to muscle through it, that is a failure of training, basically. You should have stopped. FTP should always feel really, really like FTP. And if you don't know what FTP feels like, because you've just been like, all right, I'm just going to plug this in.
+
+24
+00:10:30,976 --> 00:10:59,792
+Then you're failing at FTP workouts. Because the feedback loop is really a huge part of it. It's not just like pass, fail, then I get it done. It's, do I know what my FTP feels like? That's interesting. Yeah, I think that if you have a, yeah, it's maybe a different approach if you think like, oh, I'm being soft and I just need to push through. But yeah.
+
+25
+00:10:59,792 --> 00:11:28,768
+I think everyone's had that feeling, though, that they're a little tired, maybe didn't sleep that well, or maybe they, you know, too much stuff going on at work, or you didn't get away to eat as much for lunch, and you kind of had to scarf down something small, and so you're like, oh, I just got to push through, and so I could see, though, if you are in that sort of situation, yeah, you know, Erg Mode sounds great if it's going to help me make up for, say, you know, something else.
+
+26
+00:11:28,768 --> 00:11:58,576
+Extenuating Circumstances Yeah, but I would also say that, you know, if in those extenuating circumstances, those are days to take the L and just move on. Like, you don't get bonus points for doing a session that's not going to help. Like, if you barely make it through a workout, and now you've got, like, several more workouts that you have to do in this week or this training block, you're not setting yourself up for success. You are setting yourself up for, like,
+
+27
+00:11:58,576 --> 00:12:24,208
+Just barely squeaking through, and you better hope you've got some kind of plan that allows you to get enough recovery, because if you just give yourself a couple easy days, I hope you're not somebody who's doing recovery rides with sprints at this point, because that's really not going to help. The whole thing sets it up in a weird pass-fail kind of way, like just...
+
+28
+00:12:24,208 --> 00:12:51,056
+I'm just going to trust the process and I'm just going to hammer these workouts and that'll make me faster. And, you know, like on the podcast with Patrick, we talked about a feedback loop where you have to be able to observe something positive happening and the shortest feedback loop you can have that says my training is working is with your RPE. And so if you're going to use Erg Mode, you better have your RPE dialed in and be ready to adjust those watts because
+
+29
+00:12:51,056 --> 00:13:19,968
+If you're not doing that, if you're just going to set it and forget it, you're assuming everything's going to be fine. And when it's not, instead of just being able to like, oh, I'm just going to back off my cadence by 3 RPM and everything's going to be fine, now you've got some harder decisions to make. And the decision-making process can also lead to a lot of mental energy being expended and sometimes indecision. And that also sucks. Nobody wants that. I just want to minimize the amount of thinking though, Cole. I just want to think less.
+
+30
+00:13:19,968 --> 00:13:40,288
+Honestly, I don't blame people for wanting to minimize the amount of thinking. And I think that endurance riding is actually a great example of this. So the benefit of Erg Mode for endurance riding is you set it and you forget it.
+
+31
+00:13:40,288 --> 00:14:09,648
+And yeah, you sit down, you watch your Lord of the Rings trilogy, extended director's cuts, so you've got 12 hours of riding ahead of you, or nine, or whatever it is. Maybe it's for two days, Saturday, Sunday. All the Lord of the Rings movies. Yeah, all the bonus content. Is there still bonus material anywhere? Is that just a DVD thing? And I think when you do that, you know,
+
+32
+00:14:10,384 --> 00:14:40,160
+RPE is such an important thing about noticing your first threshold, your LT1, which I usually just call the top of the endurance range. And so the range in which I see it occur in athletes as a percentage of FTP is between 50 and 85%. That's such a big range. It is a very large range. So you had better damn well know.
+
+33
+00:14:40,160 --> 00:15:07,296
+Where your LT1 is before you set those watts, and to make this even more complicated, your RPE for LT1, and basically your LT1, is going to change based on how tired you are. And so I've had some clients who are great with this kind of thing, and, you know, we could do lactate testing for it, but why bother? Where, you know, their effective LT1 is going to change from, like, on a good day, maybe it'll be 240 watts.
+
+34
+00:15:07,296 --> 00:15:31,648
+On a tire day, it'll be like maybe 200 or 210 watts. And so if you are going to set Erg Mode, actually, let's complicate this one more step. As people ride, typically they open up a little bit and their RPE will change and you will have the same RPE at higher power, especially for an endurance ride. So you start with like, I don't know.
+
+35
+00:15:31,648 --> 00:16:01,520
+20, 30 minutes, easy, some people warm up real fast, and it'll be 10 or 15, and then suddenly they're doing endurance pace, and they'll just be there for the rest of the day, you know, three, four, five, six hours, whatever it is. Sometimes, you're a little tired, maybe you didn't sleep so well, you know, didn't get a big breakfast, or you're depleted from the previous day. Now, you need to ride easy for an hour, maybe an hour and a bit, before your legs start to open up and feel good, a bunch of snacks, extra coffee, and if you Erg Mode this,
+
+36
+00:16:01,520 --> 00:16:29,232
+Right? So let's say you are Erg Moding at 200 watts. And realistically, as you start to warm up, you can really only sustain like 160, 170. And then as you get going, maybe half hour, 45 minutes later, you're going to be at 200, 220 watts, something like that for your LT1. And so 200 watts, you think, okay, it's not going to be so bad, is it? The drawback.
+
+37
+00:16:29,264 --> 00:16:57,232
+is that for the first 45 minutes, it's kind of a slog, right? And so when you don't like let yourself negative split that kind of thing, you are basically robbing yourself for later in the workout because you are accumulating fatigue and we don't have to get into the mechanisms of this, but basically you accumulate fatigue and that's going to stop you from riding as long as you could.
+
+38
+00:16:58,320 --> 00:17:21,839
+and or it's going to increase the realistic intensity at which you are riding because you're going to be riding with that fatigue in your legs and these are all very practical terms so we're not going to get all science-y with this one so we can do that in another episode but that's the way I can sort of think about it and so if you need to do that and now you just hop on the bike and you're at 200 watts right away.
+
+39
+00:17:22,319 --> 00:17:51,696
+Okay, now you ride 200 watts for an hour, and now you've got some accumulated fatigue, and you're like, man, this isn't feeling so good. Whereas if you let yourself start easy, no Erg Mode, and just kind of let the watts come to you, suddenly you're going to be at 200 watts, 220, okay, great, I'm feeling awesome. But if you start at 200, and you just slog it out at 200, and you've got four hours planned, you might make it to, I don't know, three hours? Three and a bit? And maybe if you want four hours, you'd be like, I can do another hour.
+
+40
+00:17:51,792 --> 00:18:20,608
+Hour and a half, two hours? Why not? And so, and that's just like the warm-up part. Now let's assume that your LT1 is really only 150 watts. And you're like, you know what? On a 300 watt FTP, you know, my endurance range is, you know, whatever. It's like, what is it like? 55 to 75% of FTP or something like that. And you're only at 50%. Yeah.
+
+41
+00:18:20,608 --> 00:18:49,840
+So now you're riding in tempo the whole way. And that's not good for you either. Because I've said this on the podcast before too, but if you ride tempo when you should be riding endurance all the time, you are accumulating a lot more fatigue than the adaptations. And you could ride more or just generate less fatigue. And this can actually stunt your adaptations in the long term by just not letting you recover because you're riding too hard all the time. It's that black hole of middle intensity.
+
+42
+00:18:49,840 --> 00:19:17,856
+So, I think those are two big, complicating factors when it comes to Erg Mode. And so, if you're going to use it, you really need to know, where's my LT1, and can I adjust, or can I set something that is like a never-fail, matches my RPE kind of thing? But you've got to have that RPE dialed in beforehand. You cannot just assume, these watts are this adaptation, and therefore I'm just going to do this, because...
+
+43
+00:19:17,856 --> 00:19:47,632
+You could ride at the top of Zone 2, and for most people, most people on an average training volume of, you know, 8 to 12 hours a week or something like that, it's probably not that high unless you're a genetic freak, which would be awesome for you, but not recommended. It's not the norm. It's not the norm. Very much not the norm. Yeah. And so I bet there are people out there who know somebody who just like, ah, I said Erg Mode, everything's fine. And that may be true.
+
+44
+00:19:47,632 --> 00:20:17,264
+You know, as a piece of very general advice, I strongly recommend against Erg Mode for endurance riding, until you find that RPE, in which case you go, okay, this is the watts, now I can dial it in. So I wouldn't even turn it on for like an hour, hour and a half into the ride, if you're going to do it at all. So you're not saying that it's a never use, like it's not like it's going to somehow completely ruin you, although...
+
+45
+00:20:17,264 --> 00:20:38,400
+I do wonder how people feel when they get really used to Erg Mode and then have to go outside and do intervals if the road doesn't have Erg Mode in front. It'd be really cool. Or if you could have some sort of digital resistance front wheel that would add or subtract.
+
+46
+00:20:38,400 --> 00:21:07,200
+like you have a feedback loop between your head unit and the wheel and have like a little magnetic break in it and it could be like Erg Mode on the road but that doesn't seem I think that would annoy people because I think one of the things is that I think you know something that if people who are very OCD about this and I there are a lot of people who are for sure who love that perfect trace it's like a perfect square wave like okay you're riding and then suddenly your interval starts and
+
+47
+00:21:07,200 --> 00:21:34,944
+Bink! And you're just like, you're just there all of a sudden. That is satisfying to look at, but, you know, having seen thousands, if not tens of thousands of power files now, I actually find more pleasure in seeing a well-executed interval that's not so perfectly consistent. And one of the reasons for this is just, in practical terms, you know, if you're going to be
+
+48
+00:21:34,944 --> 00:22:04,784
+Racing Outside. Most people who listen to this podcast, you know, do some sort of competition. So when you race, and like, let's say you're going to go do time trials, like, okay, need to hold steady power, Erg Mode should work for me, right? Yeah, except there's no wind, there's no slight undulations in the terrain, there's no uphills, there's no downhills, you don't have to negotiate anything, you don't have to think about your line. And so these are all, you know, practical things that I think most people would know to take care of.
+
+49
+00:22:04,784 --> 00:22:33,344
+I think it sets up an expectation, I think, where, or a certain interpretation of power, where, like, if you stray one watt outside zone two, you have now ruined all your adaptations. Like, if you go 10 watts over your FTP, oh no, suddenly I'm not doing FTP anymore, I did VO2, whoops, did I just ruin my ride? No.
+
+50
+00:22:33,344 --> 00:23:01,648
+Absolutely not. Like, I've coached so many people who start out having done a lot of Erg Mode. I tell them, just go outside and just do the efforts. And the efforts look, like, basically as flawless as you can get outside. And they go, man, I don't know why I couldn't hold the power. And I'm looking at it, I'm going, you did this better than anybody ever. Like, you should be proud of yourself for this one, because, like, you know, I've been doing intervals outside for, you know.
+
+51
+00:23:01,776 --> 00:23:29,904
+Years and years and years and years and I couldn't even get it that smooth. So good job, keep that up. And they go, really? You're kidding. Not really. So that the training zone, the power thing, it's like, if you have this expectation that like, you know, the intervals have to be executed perfectly and flawlessly and like, oh no, I've got a stoplight, I need to coast for 10 seconds to go through this corner.
+
+52
+00:23:29,904 --> 00:23:55,936
+and Negotiate Traffic before I get up on my interval again. I can't do that. I've got to do Erg Mode inside instead. Coasting for 10 seconds doesn't really matter that much for an interval like Tempo, Sweet Spot, FTP. It's totally fine. Yeah. Yeah, and I think that's an interesting point.
+
+53
+00:23:55,936 --> 00:24:23,408
+Especially, like you mentioned, time trials. A lot of times people new to time trials will think, oh, I'm just going to try to hold as high of a maximum power as I can the whole time and keep it constant high for whatever the duration of the race is, which theoretically would be very similar to what Erg Mode wants you to do. But in fact, you just want to go as fast as possible. Who cares what the power trace looks like as long as you're going, you know, maintaining that as fast.
+
+54
+00:24:23,408 --> 00:24:48,912
+or as high as an average speed as possible, not as high of an average power as possible. Yeah, for sure. Yeah, and I mean, I think all good time trialists already know this, but I think people who are a little newer might kind of miss that thing. Oh, exactly. Yeah, yeah, yeah, for sure. But, you know, I mean, when in doubt, yeah, evenly pace it, sure. But, you know what, I think, I think...
+
+55
+00:24:48,912 --> 00:25:09,360
+You know, because I keep coming up with arguments against my stance against Erg Mode too, because I'm like, all right, well, if you, you can Erg Mode like a negative split so you can kind of get used to it and dial it. And that's the thing is like, you can do that kind of thing to dial in your RPE about, okay, if I think I can hold this much power and I need to go this hard out and this hard.
+
+56
+00:25:09,360 --> 00:25:38,416
+after the turnaround, like if you turn around into a headwind, right? So now you've got to get used to negative splitting that. I would say this would be better practice without Erg Mode, but for people who really need remedial RPE education on this kind of stuff, Erg Mode can help. Honestly, it's like training wheels in a way, where you can use it for a bit, but you should always look to graduate past it. It's hard to corner on training wheels, right? Like you can't.
+
+57
+00:25:38,416 --> 00:26:07,296
+You can't really lean the butt, but it's sure going to keep you from wrecking. So I think that's something else that can be useful for sure. So where are we at with our points? I think, let's see, another benefit of Erg Mode. Actually, this is actually my favorite use of Erg Mode. And there's actually not a real good counterpoint to this.
+
+58
+00:26:07,296 --> 00:26:37,200
+So, sorry you're getting a both-sides view of this, despite the clickbait title. I really like Zwift and RGT courses. Like, I like that you can upload a map or, like, they've got hills in them. Because this kind of thing is great for, like, if you're somebody who lives in the middle of, what do you call it? The Midwest. Yeah, the middle of the West. The Midwest.
+
+59
+00:26:37,200 --> 00:27:05,936
+If you have no hills and you're like, oh man, I really want to race Mount Washington or I want to race Gila or something like that and you are not good at pushing up hills and you really need to train that kind of thing, yeah, sure, like getting a smart trainer and like climbing some artificial hills is probably one of the better things available to you. Yeah, and especially because trainers and, you know, sort of these
+
+60
+00:27:06,096 --> 00:27:35,552
+Magnetic or Fluid Resistance tends to do a better job at simulating the sort of low, inertial, climbing-type sensation than they do simulating the on-the-flat, like, hammering at 100 RPMs, but you're going 30 miles an hour-type feeling. Yeah. Even though you could be doing the same power. Yeah. Actually, I have an old Cateye 1000 trainer that is awesome at that kind of feel. Because it's half, like, braked and it's half...
+
+61
+00:27:35,552 --> 00:28:03,424
+Fan Braked. And so between those two, you actually can get some pretty good road feel, but it really lacks in that like big gear inertia kind of thing, for sure. So, yeah. And so if you are training indoors, like you're in Chicago, you're in Minnesota, you're in Kansas, you know, you're in, you know, way up in like Breckenridge, like up in the Rockies.
+
+62
+00:28:03,424 --> 00:28:29,408
+If you're in these places, and it's too cold, too snowy, too windy, too whatever, if you live at the top of the Mount Washington Observatory, where they were like, it was negative 95 last night, and they were like 120 mile an hour winds, or whatever, because it was suddenly in the troposphere, or stratosphere, yeah, you're going to want to get on the trainer, and
+
+63
+00:28:29,408 --> 00:28:56,368
+Like, artificial rolling courses can actually be a lot of fun. One of my very favorite workouts is Fart Like Tempo, where you ride a course and you ride it kind of for speed and not for power really, but, you know, we can give you like a power anchor, like target to hit when you're kind of chilling on something flat and steady. If you can do this kind of thing.
+
+64
+00:28:56,880 --> 00:29:24,688
+It is really a great workout that can kind of simulate a race. It can kind of simulate a breakaway if you need to work on that pacing. I mean, honestly, this is one of my very favorite things, and I don't see a ton of downsides here because it's basically, in this case, this is a lot like riding outside. For sure, yeah, and that makes sense too. And especially if you're going to have to do a bunch of time indoors.
+
+65
+00:29:24,688 --> 00:29:43,600
+Doing that fartlek tempo way is a good way to break it up, so you're not just staring at your head unit. Like, oh no, 35 minutes, how long has it been? Oh, it's only been 36 minutes, oh no. And certainly if you can, isn't...
+
+66
+00:29:43,600 --> 00:30:12,880
+Isn't RGT free? I know Zwift is not free, but some of the RGT stuff is free. Yeah, I think RGT is free, but you need a power meter, and I think most people have power meters these days, but for people just getting into the sport who may not have one, yeah, that can be a downside, especially if you're like a college kid or something like that. A lot of collegiate racers don't have power meters. Or smart trainers. Yeah, or smart trainers. Similarly. Yeah. Similarly expensive. Yeah, I remember when I was coaching MIT, that old fleet of old
+
+67
+00:30:12,880 --> 00:30:42,864
+Magnetic Cycle Ops Trainers was just, like, they had gotten beat up, kicked around, like, you know, dropped. They sounded like airplanes taking off. They sounded like airplanes. People warming up at races on those things. Yeah, yeah, yeah, yeah. Yeah. And sometimes people wouldn't even cinch them, like, hard enough on the wheel, so they were just barely making contact, so the thing would actually flutter against the wheel. Oh, no. Okay, so I, you know what? I'm out of a list of,
+
+68
+00:30:42,864 --> 00:31:12,848
+benefits of Erg Mode. I'm sure there are a couple more, like, not needing to think about, like, changing gear when you stand up and stuff like that. Okay, I get it. But I think... That seems... That one, in my opinion, that one's a little silly, because you have to do that riding outside. Like, you stand up, you click down. Like, yeah, anyway. Yeah. No, I agree. But, I mean, some people like it. It's one of those, like, I don't have to think about this kind of things.
+
+69
+00:31:12,848 --> 00:31:41,936
+Yeah, I get it. I really do. Because I'm lazy like everybody else. So I'm not above it. But that's, yeah, I, never mind. I was going to go somewhere. We're not going to go there. I think the next drawback I have for Erg Mode is on maximal intervals. And with max intervals, anaerobic capacity,
+
+70
+00:31:42,352 --> 00:32:11,568
+Sprints, and things like over-unders, or maybe intermittent efforts, which are also just a kind of extreme, spicier version of over-unders. So imagine 10 to 20 minutes of 40 seconds on, 20 seconds off. Now, if you assume, let's start with the last one first, actually. So if you're doing intermittent efforts, and you assume, okay, I'm going to do this percentage of over-FTP,
+
+71
+00:32:11,568 --> 00:32:39,472
+Then I'm going to do this percentage under FTP. Like let's say it's 120 for 40 seconds and like 50% FTP for 20 seconds or whatever. Just because you are doing that workout, I'm sure it's a fine workout. It doesn't mean you're learning anything and it doesn't necessarily mean that you are adapting to anything. Because one of the benefits of a workout like this is you learn how hard you can push.
+
+72
+00:32:39,472 --> 00:33:00,720
+repeatedly. This is like an essential criterium skill. It's not like you're getting a breakaway and a crit, and you come out of a corner, and then you look down and you go, okay, I can't go any harder than 120% FTP along this street. I mean, it's like a dumb version of it, but you kind of get the point.
+
+73
+00:33:00,848 --> 00:33:30,784
+You need to dial in your RPE with this. And this is what a lot of this comes down to, is just dialing in the RPE, dialing in, adjusting your pacing and adjusting your power. Because somebody like me with a big sprint, like, I think when I used to do 15-15s, I had about a 14-1500 watt sprint, and I had about a 260-270 watt FTP at the time I remember doing these workouts. And I remember,
+
+74
+00:33:30,784 --> 00:33:54,880
+When I did my ons, I was at about, for 15 seconds, I was at like 400 to 450 watts average that I could like comfortably do for a 3x20 of 1515s. Now, that is not 120% of FTP. This is a, this is like the internal feedback loop, like, okay.
+
+75
+00:33:54,880 --> 00:34:22,592
+This feels a little easy, this feels too hard, I didn't quite make it to the end of that effort, but I can sustain if I keep doing this pace. That kind of feedback loop, and having the power on your head unit, just kind of going, okay, I'll push up to speed, I'm going to look down, I'm going to look at 400 to 450. Great. It was one of those things where the next time I went, I would go, I wonder if I can push 10 watts harder, 20 watts harder. Yeah.
+
+76
+00:34:22,592 --> 00:34:49,232
+And now you get a sense of progression. But without kind of, you know, letting the leash off yourself with, and just like, you know, skipping Erg Mode, you never get a sense of this and you don't know how hard you can push. And doesn't necessarily mean that doing 120 slash 50 is going to get you better at pushing because I can almost guarantee that unless that is like, it just happens to be...
+
+77
+00:34:49,232 --> 00:35:14,208
+Right on the edge of what you can do for your abilities, it's not going to help you at all. It also is interesting to me because I feel like I've never, okay, full disclosure, I've never tried to do like an interval workout like that on Erg Mode, but whenever I do 15-15s or 30-30s like
+
+78
+00:35:14,208 --> 00:35:43,840
+I'm curious if it's actually good if you get that kind of ramp up where all of a sudden it's going to start increasing the
+
+79
+00:35:43,840 --> 00:36:11,936
+The resistance for you, instead of you having to click down a bunch of gears or whatever, or figure out exactly, anyway, that's just me postulating. No, no, I think that's one of those soft skills that people need to do. It's like learning to shift while you're sprinting. Yeah. Or learning to shift. It certainly would be nice to. Yeah, like learning to shift while you're climbing uphill. Yeah, it'll be nice to not have to think about it, but so many people.
+
+80
+00:36:11,936 --> 00:36:41,584
+You know, if I give them like sprints or something like that, I'll give them, you know, like repeated sprints or whatever. You know, a lot of the time, if the sprints are kind of short, one of the things that I always get as a piece of feedback, unless somebody's done a whole ton of these, is I had trouble finding the right gear. And so, okay, now we've got a piece of information. Because like Kyle, like you are not a stranger to finding the right gear for these things.
+
+81
+00:36:41,584 --> 00:37:11,056
+But somebody who's kind of newer to this kind of stuff, I can look at their data, and I can say, okay, you make peak power at about this cadence range, so I'm going to tell you to start about 10 to 15 RPM lower, and maybe about this speed, and then I guarantee that these are going to produce some big watts, and shift when you feel the gear kind of getting away from you. And that's not something that you can Erg Mode. Yeah, that's a good point.
+
+82
+00:37:11,056 --> 00:37:40,864
+Yeah, like if you're doing 30-30s, right? Like, if you start to get on top of the gear, like, if you start in a gear that's too big, you're going to bog down right away. Like, Erg Mode or not, like, you start trying to accelerate from 60 RPM, you are not going to have a good time. If you start trying to accelerate from 90 RPM, 100 RPM, okay, now we're talking. Now, this is going to be a good acceleration, and then you are on top of the gear the whole time, and that's one of those skills that you need.
+
+83
+00:37:40,864 --> 00:38:08,176
+Like, you really, really need these skills. Yeah, that makes sense. I would be curious, just, I wonder, I've thought about that, like, oh, could I just set up Erg Mode, set it to, like, 1200 watts, just see how I can hold on. I've thought about that, too. But I think, oh, sorry, go ahead. I think you're right, though, because you're going to start, unless you program it,
+
+84
+00:38:08,176 --> 00:38:28,624
+So you start pedaling, say, five seconds before the resistance kicks in. If you start from zero RPM and try to slam it at 1200 watts, you're just like already in the death spiral of like, you're never going to get on top of it. Yeah, for sure. I mean, and if you're going to race Zwift or something like that.
+
+85
+00:38:28,624 --> 00:38:50,896
+And, like, that's a skill that you need to have. Yeah, you definitely need to practice that. But for anybody— But that's a whole different sport, almost. Yeah, I was going to say, for anybody who does a real sport— I'm so sorry. I do coach people who race Swift, but they also race their actual bicycles. No, I—
+
+86
+00:38:50,896 --> 00:39:20,032
+I want Zwift to have a Mario Kart mode, where you get like shells, and you get like battle modes, you can just like ride around and like shoot your friends and stuff, anyway. That would get me playing Zwift. Anyway, so, okay, so when it comes to, so you bring up a good point, sprints, I think most people are pretty well on the page where, okay, sprints are kind of dumb in Erg Mode, which does not mean that I don't see people trying, for sure.
+
+87
+00:39:20,032 --> 00:39:48,288
+But, I think, when it comes to sprints, actually, do we even really need to go over this? I don't think we really do. Max is max, just go hard. I think it might be better to talk about anaerobic capacity intervals, or like, anaerobic power intervals. So capacity is like, you know, shorter versions of like 30-30s, or 15-15s, 40-20s, what have you. You know, anaerobic power intervals are like...
+
+88
+00:39:48,288 --> 00:40:16,832
+Max Efforts, like 20, 30, 40, 60 seconds, stuff like that. These require a little bit of practice and pacing. I mean, Kyle, you just did a 30-second test the other day. Like, how well do you think you could have done that on Erg Mode? I don't know. I've never tried, like I said. But I mean, I spent, you know, I would do UU warm-up, and then I'd do a couple five-second sprints.
+
+89
+00:40:16,832 --> 00:40:37,200
+on the gear, within the gears that I think I'm going to have to use on the trainer for the effort, because like, you know, okay, you're on a trainer with a road bike, so you can shift up and down, but you don't want to dump, you don't want to have to go from like, you know, the one side of the cassette all the way to the other, right, when you start going. You want to start in a gear and then know that
+
+90
+00:40:37,200 --> 00:41:06,864
+You only have to shift a few times to get to the gear that you're going to stay on top of for the rest of the 30 seconds. You don't want to have to shift every 10 seconds for like a 30, you know, like you're just going to think about it too much. Yeah. Because I think that's, and likewise, you don't want to have to like, I guess if you have DI2, it's easier. If you have electronics, you can just hold the button down. But like, in a mechanical, for us, pours with our cable-actuated mechanical gearing, you kind of have to have that like,
+
+91
+00:41:06,864 --> 00:41:27,792
+You have to flick your wrist back and forth, right? Rapidly to get the shifts to go. And so it's just another thing where you just don't want to have to do that a bunch if you're trying to go for a max effort. If it's repeats, okay, you know you're not trying to like absolutely perfect it every time. But if you're going to go for, I'm going to do 30 seconds for a test or something. Yeah.
+
+92
+00:41:27,792 --> 00:41:47,504
+But yeah, I'll try like five seconds or three seconds or something in a couple different gears to feel it out and see where I want to be because, you know, if you're just pedaling around at 40 or 60 RPMs, you're like, oh, this gear feels pretty hard, maybe I can do it, but like, I did it yesterday, the first one, I was on like 50%, like whatever, like a 5 out of 10 on the, like the...
+
+93
+00:41:47,504 --> 00:42:11,472
+difficulty setting, you can set your trainer, big ring, and I was in like 15 on the back, right, the cog, and so I was like, oh yeah, I can go up to like 11 pretty easily, but I found that on that setting, I got to 11, I had to shift down to 11 within like the first 10 seconds, and then I was tapped out on the gear, and I was like, oh, I have to go up to a 6 out of 10, and then go back up the cassette a little bit, you know, just all that kind of fine-tuning.
+
+94
+00:42:11,472 --> 00:42:37,088
+That's what I had to do during warm-up, is figure out where it felt good. Okay, but let's say you're going to go with Erg Mode on something like this, like a 30-second max effort or a minute max effort. How would you go about even trying to program that? Because one of the reasons that I'm saying it's a max effort for everybody who's kind of new here...
+
+95
+00:42:37,088 --> 00:43:05,152
+The, like the, you know, the training zone thing, like X percentage of FTP is going to train this system. Like, like one of the things about these anaerobic type intervals and sprints is that you actually have to really do them at 100%. Like, absolute max. Like, unless you're working on like leg speed or something like that, and your goal is to like stay relaxed, and you just want to kind of spin the legs over, you don't want to just slam it. Like, okay, yeah, sure. Like, you don't want to go 100%.
+
+96
+00:43:05,152 --> 00:43:32,848
+But that's a specialized case, usually reserved for, like, trackies and sprinters and that kind of stuff. But if you're going to be really training your power, you would need to go 100%. So, getting that out of the way. Now, Kyle, like, how would you go about, like, let's say you had a set of, like, you know, 4x40 seconds max efforts. Oh, God.
+
+97
+00:43:32,848 --> 00:43:57,584
+Like, accelerations aside on the track or anything like that, like, how would you go about, like, trying to program this for yourself on an Erg Mode? On an Erg, well, so, like, yesterday, yesterday hit about 1500 peak within the first, like, three seconds of the effort, and then the last second of the 30 seconds was down at, like, 600 watts. So, you've got, like, a more than a factor of two fall-off, and so it's, it'll...
+
+98
+00:43:57,584 --> 00:44:22,176
+The Power is basically just a straight line down, while the cadence is more or less a peak and then a plateau. So, you can imagine that programming that in, like, having it be, you have to have the Erg Mode decrease as a function of time over, you know, maybe what you think you've done previously for an effort, but then the actual, maybe, maybe...
+
+99
+00:44:22,176 --> 00:44:43,984
+Say you know that you're good with a factor of two decrease, right? So you're going to hit 1,500 and by the end you're going to be at 700. Okay, fine. But then that was for one effort. So now for the next one, for your test, do you try to do it 1,600 to 800? Or do you have to go down a little bit? Just like the fine tuning and then maybe the slope is different when you're more tired and like this slope maybe is...
+
+100
+00:44:43,984 --> 00:45:13,360
+Better because I was rested and, you know, topped up on glycogen, but on days that you're not rested and not topped on glycogen, you're going to have to change the slope of that Erg Mode. I don't know. Yeah, and so here's the other thing. It's like, what if you do it as like a steady power, right? So like, let's say, you know, for 30 seconds, let's say it's like 1,000 watts for you. Yeah. Yeah, it was 10, 11. 10, 11 for 30 seconds. Oh, there you go. That's almost the PR. Not bad for having done no anaerobic capacity training early in the year.
+
+101
+00:45:13,360 --> 00:45:39,616
+So, what happens if you, okay, so you program it at 1,000 watts exactly for 30 seconds. What's your second one going to be? What's your third one going to be? What's your fourth one going to be? Like, you've got to have so much information going into this session ahead of time to be able to predict this. Like, if you start, just go 1,000 watts, like, let's say they're all 1,000 watts.
+
+102
+00:45:39,616 --> 00:46:02,592
+and the first one you do 30 seconds easy, right? Second one, let's say you just leave it at a thousand watts and you make it like 20 seconds. Then the third one, you make it like 15 seconds. The last one, you might make it another 12 seconds. Like this is starting to defeat the purpose of the workout. Like it really is. Yeah, the duration is important as well as the...
+
+103
+00:46:02,592 --> 00:46:28,752
+Intensity. Yeah, exactly. Because, like, let's say you're going to do a Flying 200 or a Match Sprint. Like, how long are you pedaling hard? It's not how long can you do 1,000 watts. It's how long are you pedaling hard? And now, in a practical sense, aside from these being, like, true max efforts, paced kind of like you would, you know, race them, if we are – I forgot how I was going with that.
+
+104
+00:46:29,552 --> 00:46:56,928
+Yeah, oh yeah, so like if we're not, if we're going to use them as like steady state efforts, we're not training the system that we think we're training, because pedaling hard for 40 seconds like at, you know, starting at like 70 RPM and topping out at like 130, 140, 150 in a match sprint, like this is a skill that you don't get on Erg Mode, and you know, if you're going to Erg Mode it, can you imagine trying to like adjust the resistance?
+
+105
+00:46:56,928 --> 00:47:19,488
+in the middle of a 30-second max effort? No, I mean, yes, and the downside to that is, like, you have to, like, if you're shifting right in the middle of those efforts, like, you instinctively let up a little bit, you know? But yeah, it's just, ideally, if you actually want it to be...
+
+106
+00:47:19,488 --> 00:47:41,232
+You're like just in the zone, pedaling hard, you know, closing your eyes, gritting your teeth. You're not thinking, oh no, this is like, I'm tapping out the gear, oh no, I gotta shift, you know. Yeah. Okay. But I think what's interesting though is, I think if you wanted to make a best, if you wanted to set a best 60 second time, you might do better pacing it.
+
+107
+00:47:41,232 --> 00:48:10,400
+Not time, if you want to set up a best power, you might do better if you're trying to pace it, but are you trying to just set a best power, or is your training trying to mimic racing? Erg Mode might get you that bump by smoothing out the effort and bringing the average up, but that's maybe not actual racing. No, for sure. This is one of the things that I do with sprinters sometimes who are struggling with
+
+108
+00:48:10,400 --> 00:48:32,608
+You know, like smashing up a short hill or something like that, or like coming out of corners or like for cyclocross even. People who have trouble getting up to speed out of corners, like let's say they've dumped as many gears as they reasonably can and pushing up from 60 RPM is still kind of hard. Yeah, like you're going to want to be like, all right, like come out of this at this speed, at this cadence and let's practice this.
+
+109
+00:48:32,608 --> 00:48:58,864
+And when it comes to, like, proper sprinting, that's one of the things that we can do, too, is, like, all right, like, if you've got a 400-meter sprint, you come off the wheel, how do you pace it? Like, 400 meters is a long way to go. And, you know, do you fly and die? Do you kind of match something? Do you need to, like, match an acceleration? Are you trying to – is this a stage race? Do you want to, like, win but also not empty the tank fully?
+
+110
+00:48:58,864 --> 00:49:28,832
+like all these questions around it. And that's one of the things that you can work on when you are like not, you know, chained to like Erg Mode or anything like that. But I think that was pretty obvious. But when you brought up letting the power kind of fall off on like a 30-second interval, like programming that, I've seen people program hard start VO2s. That's, I admire the dedication, you know.
+
+111
+00:49:28,832 --> 00:49:58,288
+That's commitment. No? I mean, it's like anything worth doing is worth overdoing. Why have a human do it when we can automate it? The future of technology today. So, this has, okay, this has a couple issues with it. I know. Surprise, surprise.
+
+112
+00:49:58,480 --> 00:50:27,776
+The first is that, yeah, like, for a lot of people starting hard for a VO2 interval to do a true max interval, this can work really well. The issue is that when you are letting the power drop to a predetermined level, the level at which you are going to drop depends on how hard you started. Because, you know, on the very basic, like, critical power,
+
+113
+00:50:27,776 --> 00:50:57,008
+W-Prime model, you've got a certain amount of work that you can do over threshold. And so in some of these efforts, you are going to be, and you can like, you know, look at DFRC graph and all this stuff and kind of try to make your last interval hit zero or whatever. That's a lot of off-bike work to program that. And one of the problems with that is that we have the world's worst time modeling the recovery rate.
+
+114
+00:50:57,136 --> 00:51:25,792
+Like we can model the burn rate really, really easily. Like people have been doing it really well for decades. The recovery rate is a very, very, very big question. And being able to model that sucks. And so you're assuming that like whatever pre-programmed recovery rate you have is going to accurately reflect how you are doing on the day and your training status and whatever other variables go into that kind of thing. So that's problem one. Problem two.
+
+115
+00:51:25,792 --> 00:51:55,648
+is that when you pre-program the level to which you are going to like drop off and plateau your power, there's no guarantee that that's going to be a true max interval. Because one of the things that I've preached about for, you know, probably, when did the Vita Max series come out? Like 2020? So years now, is when you do Vita Max stuff, you've got to do it max. And it doesn't matter if you're pacing a little hard, if it's like an even pacing, like this is something best solved.
+
+116
+00:51:55,648 --> 00:52:20,464
+on the day and not pre-programmed. And so, like, let's say, let's say you just decide, okay, well, everybody says Fiota Max Power is 120%, right? Like, if I'm doing, like, three-minute efforts or even five-minute efforts, the end of my effort is way above 120% FTP. Way above.
+
+117
+00:52:20,848 --> 00:52:50,384
+Like, I think I've told this on the podcast before, like, on a 270, 280, 290 watt FTP, like, you know, usually it was under 300. Most of my five-minute intervals were 360, 370, 380 watts, something like that. My best ever five minutes was, like, 430. And so, yeah, you try programming that, because, like, what's 120% of 300 watts?
+
+118
+00:52:53,360 --> 00:53:19,376
+So 20% is another fifth, so that's 60 more watts, so 360? Yeah, so 360 would be like, so if I start a little hard and I drop down to like 360, like, okay, sure, like that's, that might work okay for me for some days. Now, if I'm doing these on three-minute intervals, like the end of my intervals are probably going to be like 400, 410, and not like 360.
+
+119
+00:53:19,568 --> 00:53:48,448
+Right? Now if I'm doing like eight-minute intervals, usually if I were doing like steady-state eight-minute intervals, they were all at 360 watts. And this is on like a 262, 70-watt FTP. And so when you take into account anaerobic capacity and the fact that FTP relative to VO2 max changes, like an average person, average trained person, maybe we can assume an average of about 80%.
+
+120
+00:53:48,448 --> 00:54:17,840
+Somebody like me, my FTP is probably going to be in the 70% to 75% range. And, you know, somebody, you know, like a Tour de France winner, like you take Teddy Pogacar, he might be in the like 86% to 87% range on the high side. And so we've got these variables where, you know, if you're going to be doing a quality VO2 max interval, like you are not going to be at 100% VO2 max.
+
+121
+00:54:17,840 --> 00:54:47,664
+Start Hard and then like let it fade. Like I think maybe this will be a link in the show notes. I think I recall Jim Arnold using a VO2 master doing a blog post on hard start VO2 max intervals. And if I recall correctly, I may not. So I may delete this out of the podcast. So if you're hearing this, I have confirmed it. He started hard and then dropped to a certain, you know, predetermined effort level.
+
+122
+00:54:48,016 --> 00:55:14,208
+And his VO2 Max was not 100%. It was like, you know, like maybe 80, 88, 90, 95%, something like that. It was not quite max. And I think that this is exemplary of what we're talking about, where if you're going to be, you know, if you listen to the VO2 Max series, and, you know, you listen to the whole series, by the way, a lot of people...
+
+123
+00:55:14,208 --> 00:55:43,824
+Missed a couple critical episodes explaining the physiology in between, just went right for the Ronstadt ones. If you're going to be training your VO2 max according to what I've set out as what I think is the physiologic mechanism, you want to go 100%, absolutely. And so I would say for untrained people who are just trying to get used to this kind of thing, yeah, all right, sure. Do these kind of predetermined hard start and fade kind of things, kind of get used to it.
+
+124
+00:55:43,824 --> 00:56:10,656
+But, you know, you're going to have to, you know, put on the, excuse me, you're going to have to put on some real pants at some point and go out and, like, hammer the training wheels properly. Yeah, take the training wheels off. That's a good way to put it. I think that's interesting because I feel like if you go, yeah, like,
+
+125
+00:56:10,656 --> 00:56:40,016
+As you go through the progression of becoming a newly, you know, not well-trained person to a more experienced, more well-trained person, these are also, it's a natural progression. Like, you shouldn't necessarily feel bad because you've been using Erg Mode. Like, it doesn't, it doesn't, it's not a moral judgment on you. It's just like, okay, that's good. You know, you're still getting training in, but hopefully you progress to using it less or, you know, things like that. Don't feel like you're, you know, you're...
+
+126
+00:56:40,016 --> 00:57:06,816
+condemned to purgatory because you've decided to use Erg Mode occasionally. Yeah. However... Oh, yeah. Sorry. Go ahead. No, I think that the other hard part I can imagine, too, with programming in with Erg Mode is, you know, if you go through all the work to program these workouts, like, some days you're going to want four minutes rest in between not feel fine, and other days you'll want seven minutes of rest in between. So if you're going to...
+
+127
+00:57:06,816 --> 00:57:34,224
+Go in and hard program a workout of like five minutes on, five minutes off, five minutes on, five minutes off for these things. Like some days you just, you need more than five minutes and that's fine. Like there are definitely days where you told me to do three by 40 or something, 40 seconds, not 40 minutes, three by 40 seconds all out. And after the first one, I take 20 minutes. And after the second one, I'm like, oh shit, I'm definitely gonna take more than 20 minutes now.
+
+128
+00:57:34,352 --> 00:58:03,120
+Because, yeah, like you said, with the recovery rate, if you want to, and we've talked a little bit about this before, but it's, we'd be nice if you could program in a certain amount of rest, like, oh, you just wait until this very quantitative thing happens, and then you know you've rested enough, and then you go again. But some days you just, you're going to want a little bit more rest, and that's fine. There's nothing wrong with it. Like, as long as you're not resting so long that you have to warm up again. Yeah.
+
+129
+00:58:03,312 --> 00:58:32,944
+And I mean, that's, yeah, that's a very tracky kind of thing to do. But even trackies spin between efforts. Anyway, yeah, so I looked up Jim's blog, and yeah, it's right here, like a hard start kind of interval, fading down to, God, what is this? Some predetermined plateau of power.
+
+130
+00:58:32,944 --> 00:59:00,624
+than like an increasing or a slight, like a more steady state kind of paced interval where it gets high later, the VO2 starts higher and stays higher if you start harder. And so, you know, if we take the logical step, like, yeah, if you really start hard and you go 100% in your interval, you're going to be at 100% VO2 max. So actually, I think one of the things, man, I was thinking about doing a podcast on this, but we can just do the short version here, which is that
+
+131
+00:59:00,624 --> 00:59:30,048
+Why would somebody only be looking for getting their heart rate or their VO2 up to 90% of VO2 max instead of going for 100%? Because I think that's something that would be pretty common if you did a lot of steady-state intervals. Untrained people, their heart stroke volume typically plateaus at some percentage of max, like 70%, 80%, 90% of max or something like that. Well-trained people, it plateaus
+
+132
+00:59:30,048 --> 00:59:59,152
+at max. So if you're like kind of untrained doing this kind of stuff to kind of get used to the pacing, sure, great. If you are well-trained, you've got to go max. So I think that was actually a pretty good summary of the Vita Max series. We could have done it in 10 seconds. Yeah, yeah, yeah. I like that too. Like you imagine too, or if you're, say you're just coming back from time off or injury or sickness or whatever, yeah, you want to see how harder intensities feel, that's another good.
+
+133
+00:59:59,152 --> 01:00:25,328
+reason to not go to 100. You don't want to dial it up to 11 your first time back trying intensity after some time off or something like that for any reason. Yeah, definitely. And if you're somebody who goes to like a dark place on your first interval and you can barely pedal to finish the set, okay, yeah, like you might want to Erg Mode a little bit to pull yourself back a little bit and go, okay, this is the appropriate hardness. Anyway, so...
+
+134
+01:00:25,328 --> 01:00:54,880
+Okay, so where are we at? I think, because we've touched on shutting off your brain and the RPE kind of power feedback loop and RPEing your thresholds and how you feel, that's very necessary. And, you know, if you shut your brain off with Erg Mode, you don't get a little bit of that. So you've got to have a lot of experience and know how to adjust if you are going to Erg Mode it. Intervals, there are no perfect intervals.
+
+135
+01:00:54,880 --> 01:01:23,248
+Everything can have a little bit up and down. It's going to be fine. I think understanding the mechanism of adaptation for certain types of intervals is something that we're going to get into in the adaptation series coming up soon. But, you know, VO2 max, like, yeah, you want to increase heart stroke volume, so you've got to go max. You've got to be at, you know, that full heart stroke volume. Like, you've got to be at peak or trying to increase the peak. If you are going to be...
+
+136
+01:01:23,248 --> 01:01:51,280
+doing pre-programmed workouts. Erg Mode makes it a lot easier to plug and chug, which is a phrase that I don't think anybody's heard since their last high school math class. Ah, algebra or pre-calc, yeah. Yeah, pre-calc. So those are okay things. They definitely have their place. It's not like they're totally excluded under my training philosophy. But I think...
+
+137
+01:01:51,280 --> 01:02:15,984
+I think they all have their place. They all have – they're all learning tools. Like, everything's a tool in a toolbox. But I think most people should strive to achieve the ability to work entirely by RPE and feel and use their power feedback as, you know, something to track their progress. And by the way, this is going to be faster than testing.
+
+138
+01:02:16,176 --> 01:02:31,808
+Like, no more testing nerves if you've got your RPE dialed in. If your FTP is going up, you're going to be like, wow, I did 10 more watts today than I did like a month ago. Great, my FTP is going up. I don't have to test this shit. Great, congratulations.
+
+139
+01:02:31,808 --> 01:03:01,760
+I actually do like that too when you're – that even happens in like lifting and stuff like that. Oh, yeah. It's like that little bit of reminder that like, oh, the training is working. Like you – yes, training is a delayed gratification like long-term thing, but that doesn't mean you have to wait months and months and months to see improvement. Yeah, for sure. I mean, when's the – Kyle, when's the last time I gave you like a proper like weight target on a lifting workout? Like I think it's been like months or maybe like a year or more. Yeah, I think so. Yeah.
+
+140
+01:03:01,760 --> 01:03:28,720
+And you just auto-regulate, like, don't be stupid, don't go to 11 every day, it's fine. But this barbell goes up to 11. Yeah. So I think, okay, so we got the RPE feedback loop as a drawback. Pacing, pacing is a problem. Like if, you know, if this is something that people struggle with from Erg Mode, not everybody does, don't get me wrong.
+
+141
+01:03:28,720 --> 01:03:55,264
+For sure, not everybody does. But if you're really scared of turning off the Erg Mode and learning how things feel, then you might be the exact person who needs to turn off Erg Mode. Because, again, with Erg Mode and all the FTP testing shortcuts and the godforsaken ramp test for FTP testing,
+
+142
+01:03:55,264 --> 01:04:23,920
+If you do any of these things, and you use them as like, okay, I'm not going to not even try and see if this feels like FTP or not. This feels like this threshold. And you just set it and forget it, and now you go into a training plan that's all Erg Mode based, and all workouts are pass-fail, you know, five by four minutes FTP. Oh god, this workout's going to be so hard. Okay.
+
+143
+01:04:23,920 --> 01:04:52,624
+This is a problem. 4x8, big problem. Okay, hard. All right. Now, you know, 4x10. If 4x10 at FTP is like the scariest workout you've ever seen, or even, God forbid, 2x20. Yeah, it's something that can engender like a pass-fail kind of modality. So like I pass this, and it can also even lead to people thinking,
+
+144
+01:04:52,624 --> 01:05:21,344
+And this is not true if you think this, and I'm so sorry to break the news, but it leads to people thinking sometimes that, you know, if I just train hard, my FTP will rise, and then, like, it'll eventually come past where my preset overestimated FTP is. It might work like that, like, two out of a hundred times. To be generous, I'll say five. To be super generous, ten.
+
+145
+01:05:21,344 --> 01:05:45,424
+So are you 1 in 10 people where this is going to happen? Or are you going to be the 9 out of 10 people where this overdoes it for you? I'm special, so... We're all special. So we've got that as a drawback. The LT1, the endurance pace thing, is a big drawback.
+
+146
+01:05:45,520 --> 01:06:14,896
+Right? So like, assuming that you know where your LT1 is, or it's a certain range, or endurance is even a certain range relative to FTP, like, you know, like right now, my LT1 is exactly 50% of my FTP. 100, 200. I don't know why it worked out like that. They just happen to be like that. Those are exactly my thresholds right now. So if I were going to go out and do a long endurance ride, I would do my endurance rides at like 60 to 80 watts.
+
+147
+01:06:15,728 --> 01:06:43,328
+And I would push occasionally, doesn't really matter, I get home, I'm hungry, great. A couple of my pro athletes have... There's definitely someone listening being like, 60 watts, what the fuck? Does my power meter even measure 60 watts? It's so low. One of my pro athletes, actually quite a few of them now, their LT1s are like, in the like...
+
+148
+01:06:43,328 --> 01:07:12,720
+82 to 85% of FTP kind of range. So like 400 watt FTP, 330 watt LT1. God. Yeah. And the guy with the 330, by the way, lab confirmed now. His regular, because by the way, lab confirmed, he knew it by RPE, I trusted him 100%, lab confirms, great, hooray. Didn't need to do it, but.
+
+149
+01:07:12,720 --> 01:07:42,352
+But we knew that ahead of time. Anyway, it was free, whatever. He rides his endurance rides in the mid-200s. That's it. You don't need to go all the way up to the top of the range, especially when you're doing high volume, like 25, 30, 35-hour weeks. And if he had assumed, and this is something that I've consulted with many people on before, like with lactate testing, they go, wow, my
+
+150
+01:07:42,352 --> 01:08:10,784
+You know, two millimole is my top is my LT1. And so I'm going to ride at this pace, like for a lot of people, that's like 50 to 80 watts overestimated. And they end up burning out, they go, wow, I can't really do more than 15 hour weeks, because the endurance riding takes it out of me. It's like, yeah, because you didn't feel it out. And so like lactate is like the advanced Erg mode. Because if you start with a misunderstanding.
+
+151
+01:08:10,784 --> 01:08:40,416
+And then you assume everything's fine without really doing the RPE feedback loop. Like, you can be fucked after a couple weeks. Yeah. That sounds really painful. It does sound painful. And so, yeah, the last one is that max intervals just cannot be done. Or can't be done well. Because you can be like, I'm going to hold X watts until I die. Like, okay, sure, fair. But, you know, if you're doing a crit and you've got a...
+
+152
+01:08:40,416 --> 01:09:05,040
+22nd Hill to climb up every lap, and you want to practice that, like, you know, if you're doing five seconds at your 22nd power, like, late in that workout, that doesn't help you. Anyway, so, how are we doing on our wrap-up right now, before we get to some questions? I think that was a pretty good summary of the pros and cons. You know, I don't think anyone...
+
+153
+01:09:05,935 --> 01:09:35,808
+Maybe from the title they were like, oh no, this is going to be an hour of shitting on Erg Mode. But luckily I think we've disproven the doubters. I don't know. Every time you tell a doubter that they're wrong, they kind of double down. I was actually told recently that we have a good asshole sense of humor. Like we're kind of dicks, but I think that's the city boy in us. What is that?
+
+154
+01:09:35,808 --> 01:09:57,760
+No, it's, I swear to God, like, I bet it's like, you know, like, I'm a guy from Boston, like, like, you know, we're, we're loud and aggressive at each other. And it's just because everybody wants to go do their thing. And if you don't like what somebody hears, you go, yeah, fuck you, whatever. So.
+
+155
+01:09:57,760 --> 01:10:23,856
+Actually, there's a YouTuber I watch sometimes who's from Staten Island or Brooklyn or something like that, and he rubs me the wrong way, so I get how people might be rubbed the wrong way by the tone, so I apologize for that, but hey, if you're here for it, appreciate you. Not a question, more of a comment. I hate Erg Mode, makes my legs feel heavy. Thank you, listener.
+
+156
+01:10:24,816 --> 01:10:54,576
+Actually, what I want is I want to have a motor connected to the Erg Mode to simulate motor pacing efforts. So you press a button so it would spin up for you in Erg Mode and then have a clutch that disengages the motor and then you're, yeah, anyway. This podcast has been sponsored by the Helsin Motor Pace Erg Mode 1000.
+
+157
+01:10:55,056 --> 01:11:22,272
+Oh man, I bet those would cost like four grand if you make them bespoke. Oh yeah. When would you recommend Erg Mode for what types of training? Yeah, so we kind of touched on this, but to review, my favorite thing of Erg Mode is, you know, especially for Zwift racing, yeah, you got to get used to that kind of thing. Fart like tempo, where you can pick a rolling course and kind of have fun and go fast on it.
+
+158
+01:11:22,272 --> 01:11:52,112
+You know, and if you don't have any hills in the Midwest and you got to get better at climbing hills, yeah, this is a really good substitute. And for learning pacing. Some people are not so good at pacing. Like one of my very first coaching clients could not get the pacing right. Just looking down at the power meter, going, okay, it's too high. I've got to back off and back off way too much. And so like the entire power trace is like a giant sine wave.
+
+159
+01:11:52,112 --> 01:12:19,872
+And, you know, we worked on that for- It's a PID control failure loop. Yeah, we worked on that for weeks. And, yeah, anyway, so learning that kind of stuff, like Erg Mode could be, there was no Erg Mode back then. So that could be very useful. Okay, next one is, some proposed turning off Erg to, quote unquote, trained body to feel watts. Bogus for some truth. Yes!
+
+160
+01:12:19,872 --> 01:12:49,840
+Absolutely, yeah, we talked, we did just an hour on that, exactly. Let's see. Until my Erg Mode front wheel, resistance wheel comes out, and then you'll be, you know. Is Erg Mode always bad? I see value to replicate things like low kinetic energy scenarios like steep climbs. Yes, like we just said.
+
+161
+01:12:50,704 --> 01:13:16,000
+Oh, use it a lot, not anymore. The only plus is maybe mental resist as it forces you to pedal. Yeah, I think in some ways this is okay, but like we said, you've got to have a bunch of hard data about where you're at. So if you're at the top of your endurance pace by RPE is like 200 watts,
+
+162
+01:13:16,000 --> 01:13:40,768
+You know, you can, if you really want to turn your brain off and get some work done, I would say do an hour at like 150, and once that feels like nothing, turn it up to like 170 and see if it feels like nothing. So, yeah, there is, to use Erg Mode right, I think you've got to have some kind of feedback loop involved, even if it is a long one. Neural implants that then control your arm, that then press the button to go up and off.
+
+163
+01:13:40,768 --> 01:14:09,408
+Sorry. Yeah, it's called nerves. They control your muscles. Cool things. Let's see. Well, a lot of these are kind of what we just covered. Drawbacks of doing high-intensity intervals in Erg Mode. I think, you know, we kind of went over really for like short max efforts. It's really hard to nail. But I think...
+
+164
+01:14:09,408 --> 01:14:39,040
+I think what I've seen in people do in Erg Mode a lot is the high intensity isn't high enough. Like they want to make sure that it gets done. And so like that last one minute effort, it's like, yeah, it's kind of hard, not really, whatever. And you get there and you didn't really go hard enough to get the adaptation that you wanted. Yeah. Because, yeah. You want bleeding out of your eyes hard. Yeah.
+
+165
+01:14:39,040 --> 01:15:08,928
+Is it really that bad if you pay attention to metrics like RPE like you should be doing? No, it's really not. It's really not. But it makes the feedback loop longer. You know, if you feel like, oh, maybe I'm just going to suffer through this, it feels a little hard, maybe my legs will come around, you would have pulled back the watts by like 10 or 20 at that point already. And so if you go like another 30 seconds, a minute,
+
+166
+01:15:08,928 --> 01:15:37,344
+Like, you know, a minute over threshold in the long scheme of things is not so bad, but like, let's say you go 5 or 10. And if you've got a big anaerobic capacity and your VO2 max is pretty high for your FTP, like, you know, 100 and whatever, 30% or something like for somebody like me. Yeah, like that can feel pretty chill for 10 minutes. And then, uh-oh, I got 10 more minutes of this. And now you've just screwed your whole workout. So for some people, I can...
+
+167
+01:15:37,344 --> 01:16:01,248
+It can really set you up for failure. Sprinting Erg workouts effective? No. Let's see. Are concerns about Erg material or is this a marginal topic that is getting airtime? Actually, I think that's a pretty good question. Basically, why are we doing this episode? Is it just because I came up with a title that I thought would be catchy?
+
+168
+01:16:01,248 --> 01:16:22,960
+I was like, ah, let's do that episode. At first it was. Because you love memes. Because I love memes. Actually, I feel like the memes for this one aren't going to be that good. But I think what I'm trying to add to the conversation here is that if you are not working on your RPE when you are doing
+
+169
+01:16:22,960 --> 01:16:46,864
+Any kind of training, if you're not having like a good feedback loop and a good, my brain is telling my muscles to contract because this is yada, yada, yada, like the whole thing. If you're not working on that all the time, like from my experience as a coach, from where I'm sitting, I think you are doing yourself a disservice. Because especially when you start to think about
+
+170
+01:16:46,864 --> 01:17:13,584
+You know, percentages of FTP, like in, you know, 1%, 3% here and there, like, oh, I did this at 92% FTP, this time I'm going to do shorter effort set, like 95%. It's too complicated. It's too complicated. If you get too many variables, just set threshold, maybe work 5, 10 watts under it, set sweet spot, which is 10% below.
+
+171
+01:17:13,584 --> 01:17:41,024
+Learn where your LT1 is, and you can do kind of tempo range between, like, just over your LT1 to, you know, all the way up to near a sweet spot. But pick a wattage and stick with it. It's pretty easy. You know, doing it like this makes everything super, super, super simple. And even better, your RPE during your workouts, like, if you're Erg Mogening it and you're just going pass-fail on a workout,
+
+172
+01:17:41,024 --> 01:18:10,048
+and your realistic RPE would be like getting down to like a 9, 9.5, like you're really hanging on by the skin of your teeth. That's too hard for a workout. But if you're going to go pass fail with it, you passed. It's a success. But I think, you know, if I were your coach, I would say you went too long and you've got to stop because now you're gathering more fatigue than you are adaptation. If you had stopped like a couple minutes ago,
+
+173
+01:18:10,048 --> 01:18:39,088
+Would have been a great workout, even if it didn't quite match. And now we have an additional piece of information. Because if you do, like, let's say you do a 2x20 and it feels great, right? The next time you're like, all right, I'm going to add time. I'm going to do 2x22. The first interval goes okay, but the second interval you get to like 18 minutes and you have to stop. Now we haven't really gone anywhere. Like, and the RPE is higher because you had to stop. You couldn't just muzzle through it.
+
+174
+01:18:39,504 --> 01:19:08,352
+You never go anywhere on the trainer. Sorry. Thanks, Dad. But the point is that if you have this extra little bit of granular RPE feedback, you know, uh-oh, I didn't quite make it. Like, the RPE was way too high. I had to bail out. And now you have information about, am I fatigued? Did I not sleep well? Did I not eat right before this workout? Like, did I...
+
+175
+01:19:08,352 --> 01:19:37,072
+you know did I do this in the afternoon after work and I only had like a light lunch and I need to have a lot more food like these are all things that will clue you in that you're not going to get to if you pass fail everything so so with Erg Mode you've really got to be careful and have it part of a bigger feedback loop about your RPE and how you're doing in general because this is the most important thing again this is this is why we have flat rates when we coach like we don't charge people to
+
+176
+01:19:37,200 --> 01:20:05,328
+give us feedback. To talk to you? Yeah. Like, I don't want you to have to pay me extra money to treat you like a human being. Like, that does not align with my philosophy for coaching. I'd rather, you know, everybody pays the same rate, and I'm going to pay attention to everybody the same. Like, I read your workout comment the same way I read somebody else's workout comment. It doesn't matter if you're an amateur. It doesn't matter if you don't compete. It doesn't matter if you're a World Tour pro.
+
+177
+01:20:05,584 --> 01:20:34,880
+You know, everybody's feedback matters the same. And so if you are training yourself, if you're like doing this kind of stuff, and you don't even have that kind of feedback loop with yourself, how am I feeling? Like how you're feeling is such a critical piece of information. I want it. You know, I don't want to like knock my rate down by 20% and then not know how somebody's feeling.
+
+178
+01:20:34,880 --> 01:21:02,976
+That's information I need to do my job, and I never want to half-ass my job. I really respect people's time and effort. Is the rate of burnout or overtraining higher for the people who have coaches where they're on a lower tier, where they're not getting feedback? Oh, we review your comments once a month. Once a month email. Can you imagine reviewing? Yeah, like you're like, oh man. Yeah, I swear to God.
+
+179
+01:21:02,976 --> 01:21:28,368
+Just this week alone, I think I had to tell like two or three people on my roster to like chill out for a day or two, because it's like, oh, there might be some sickness, might be some, you know, working on getting, you know, better sleep, or there's something going wrong where like a midweek adjustment is kind of necessary. And, you know, that's what I'm here for. That is like such a big part of it. And I think, you know.
+
+180
+01:21:28,368 --> 01:21:55,120
+That's why I decided, okay, this podcast is going to be worth doing, because if people can come out of it thinking, all right, I've got to do a little more looking inside. This is so hippy-dippy. I have to do a little more looking inside myself and thinking about how you feel about your training and how the power feels. This is better than, like, I Ergmoded.
+
+181
+01:21:55,120 --> 01:22:20,976
+And I was tired, so everything got done. Like, if you're tired enough that you absolutely need to Erg Mode and just slog through a workout, you might not have the mental energy to do it on your own. That might be a good sign that you shouldn't do the workout. So. You have to take 400 milligrams of caffeine to get psyched up before a workout. Nothing like 400 milligrams of caffeine at 7 p.m.
+
+182
+01:22:21,360 --> 01:22:48,912
+Is it okay for steady zone 2 while distracted? Yeah, as long as you know where your LT1 is. Sorry, we're moving on with the questions. Yeah, so if you know where it is, and you can start way below it and kind of work your way in, yeah, it's fine. If you pick a, this should be in my zone 2, so I'm just going to do it and turn my brain off, like, you're, at least to me, you're missing the point. I've never used it, never will. Why would I? Never seen the reason to use it.
+
+183
+01:22:48,912 --> 01:23:17,296
+We kind of went over some of the benefits of Erg Mode, but I think, yeah, if you're a coach listening, thinking about Erg Mode as sometimes a pacing tool, or kind of easing up the mental pressure on somebody, it can really be a big help. It's not something that you pull out often, but hopefully never, but I certainly have.
+
+184
+01:23:18,896 --> 01:23:48,368
+Let's see. Is there any way you know to adjust resistance in smaller chunks? Wahoo goes by 5% and it's huge. I do not. You're going to have to email Wahoo about that. Why do the watts feel harder in Erg Mode than in normal resistance mode? I don't know exactly why for you.
+
+185
+01:23:48,368 --> 01:24:10,208
+But I've done Erg Mode a couple times and I didn't like it. And you know what it reminded me of? It reminded me of being in a group ride where I didn't feel like surging. It's like, I'm here and you're telling me to do this to keep up. Like, I'm being made to do this.
+
+186
+01:24:10,208 --> 01:24:34,480
+My brain is going, oh my god, just stop, just ride steady, why do we always have to surge, like, every fucking light, every little hill, like, why? My brain is doing that in Erg Mode, like, why do I have to do this many watts? Why are you making me do this many watts? Now, if I don't have Erg Mode, if I'm just in Resistance, and I'm choosing to do these watts, like, if I'm in a race, and I choose to attack, and I choose to accelerate, that feels good.
+
+187
+01:24:36,016 --> 01:25:05,312
+So I think there's something in there. Maybe we can have Patrick on again to talk about that kind of thing. But to me, that's the difference is whether I'm being made to do something and I'm not totally ready and motivated for it at that exact moment, or I'm choosing to do it myself. So I don't know. Kyle, what do you think about that one? Yeah, I think maybe that's a similar sensation to like running on a treadmill and you've set the speed just a little too high.
+
+188
+01:25:05,312 --> 01:25:31,648
+and you're like, oh, you're like, it's a little uncomfortable, but not because you're pushing hard, but because it feels a little unnatural. It's like that feeling of never being able to find quite the right gear or something for a climb, where you're just like, oh, it's either a little bit too hard, although theoretically, I guess your Erg Mode should accommodate whatever your preferred cadence is, but you know, I don't know how. So, you imagine...
+
+189
+01:25:31,648 --> 01:26:00,304
+I don't know exactly how they're doing the feedback for Erg Mode, like how fast it updates, but you could also imagine getting caught in some sort of weird resonance with the update frequency and how you keep trying to adjust mentally, like subconsciously, I don't know. Yeah, yeah, it could be that too. Who has worse bike race skills, triathletes or people who always use Erg Mode? People who always use Erg Mode. There's a reason that when racing started coming back in the US that there were so many crashes.
+
+190
+01:26:00,304 --> 01:26:27,584
+Because people spend a lot of time training, people are super motivated, they get out there, and they forget how to turn their bike. So anybody who has an hour of group ride experience is going to be way better than somebody who's only ever pedaled a peloton. I don't see a difference in results using Erg Mode or not. Well, congratulations. That's good.
+
+191
+01:26:27,584 --> 01:26:57,344
+As long as you've got your RPE kind of feedback loops set up and everything's going well, congratulations. You know, you don't have to do what I suggest. Like, you know, this is only, this is free advice. This podcast is free advice. It's also an advertisement for Empirical Cycling as a coaching company, but I know I can't coach everybody. I wouldn't want to coach everybody. It's so many people. Oh my God, so much paperwork. But yeah, don't do it. Don't do it. Do whatever you feel works for you.
+
+192
+01:26:57,344 --> 01:27:26,448
+Um, it's bottom line. Um, let's see. Structured Erg FTP workouts, like 2x20 versus just riding to RPE, like pace partner or long climb. Um, you know, I've got a couple clients who doing like, you know, six hours with rides and stuff. They love the pace partners. Um, you know, they love that kind of thing. And I'd say stuff like that. If it keeps you from getting bored, if it keeps you riding, great, do it. Just make sure it's not too hard. There you go.
+
+193
+01:27:26,448 --> 01:27:52,688
+Alright, Kyle, that's it for our questions. Do you have any thoughts to wrap this up? I wonder if you could ever convince someone to do some sort of long-term study. Like, you know, have you seen those studies about how, not studies, I guess the supposition that running on a treadmill isn't exactly like real running because
+
+194
+01:27:52,912 --> 01:28:21,440
+You know, your body isn't supported, but you're not going forward. So, like, the effort or the actual, what do you call it? Like, it's very close to running outside, but it does not accurately, you know, fully substitute for running outside. Yeah, maybe the parallel is like, it's like motor pacing. Yeah, I wonder if there's anything like that. Could you get some sort of, like, long stuff? Compare, like, yeah.
+
+195
+01:28:21,440 --> 01:28:50,944
+Hook up someone to a gas exchange cart and have them do Erg Mode intervals versus a regular self-paced interval and then compare, say, RPE and all that stuff. That might be kind of interesting. Yeah, you would need a pretty large sample group, especially if the VO2 is very small delta. But yeah, there might be something there. That would be really interesting to see. I bet people have done it on...
+
+196
+01:28:50,944 --> 01:29:18,544
+Treadmills already, but I don't know if we've done it on cycling Erg Mode. Yeah. All right. So I guess that's going to wrap it up for here. You know, sorry for the clickbait title, everybody, but, well, you're here, so, haha, I guess. You're not sorry. You're not sorry. Don't lie to us. Not really. That's a pretty good title, I think. That's not our best, I know, but whatever. I suck at this, so.
+
+197
+01:29:18,544 --> 01:29:42,720
+Sorry, everybody. But thank you all so much for listening. Again, if you're new here, please subscribe. If you are liking the podcast, please check out our other episodes. A lot more science-y kind of stuff, a lot less general coaching advice other than 10-minute tips. Again, 10-minute tips, we spend 10 minutes preparing. Not a joke. Absolutely not a joke. But, you know, hopefully there's some good information in here anyway, so thanks for listening.
+
+198
+01:29:42,720 --> 01:30:10,400
+Nice iTunes rating always goes a long way, and a review also goes a long way, thank you so much for all of those, and of course sharing the podcast if what we're hearing seems relevant to a discussion topic somewhere, and of course if you'd like to donate to the show, empiricalcycling.com slash donate is going to get you there, a few bucks helps keep the ship afloat, thank you all so much for that, we do have hosting fees and whatnot, and maybe we'll have to pay some guests at some point to get some big ones, so that would go towards that.
+
+199
+01:30:10,400 --> 01:30:38,800
+And of course, if you have any coaching or consultation inquiries, shoot me an email, empiricalcycling at gmail.com, especially if you'd like to hear about how you should or should not do Erg Mode. Ask your very personalized questions and you will get very personalized one-on-one answers. And so questions for listeners came from Instagram at empiricalcycling, of course, and of course, weekend AMAs up in the Instagram stories. So can you follow there if you'd like to follow along with those. And until next time.
+
+200
+01:30:38,800 --> 01:30:41,232
+Have a good one.
+

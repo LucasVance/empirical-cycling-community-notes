@@ -1,0 +1,569 @@
+WEBVTT
+
+00:00:00.656 --> 00:00:30.256
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore, joined as always by my co-host, Kyle Helson. Thank you, everybody, for listening, as always. And of course, if you're new here, please subscribe to the podcast. And if you like what you're hearing, please share the podcast, especially if you're a returning listener. That goes the biggest way towards helping out the podcast, if that's what you want to do. You can also give us a nice rating on iTunes or wherever you listen to podcasts. We appreciate all of those. And we are ad-free, so if you'd like to donate and support the show that way, your donations go a very long way. Keep the lights on here. You can do so at Empirical Cycling.
+
+00:00:30.256 --> 00:00:45.152
+Linkin.com slash donate. We've got all the show notes up on the website. We may not have any today because it's a 10-minute tips episode, which means we literally spent 10 minutes preparing. So sorry about that. We will have some Wattstock episodes coming up. I'm doing a lot of research on that stuff.
+
+00:00:45.152 --> 00:01:14.704
+And if you have any coaching or consultation inquiries, if you want to answer any of your own questions or have us answer any of your own questions, you can hire us for a consultation. We're happy to sit down and have a chat and we could look over your files. We could look at what went right and wrong, et cetera, et cetera. And if you'd like a coach and you want to just forget all that, please reach out for that kind of stuff too. Empiricalcycling at gmail.com is where you should reach out. And we've got some listener questions today from my Instagram at Empirical Cycling.
+
+00:01:14.704 --> 00:01:41.968
+So if you would like to ask a question for the podcast, or just my weekend AMAs, which I do every Saturday, Sunday, just head over there and give me a follow and watch in the stories. So one of the things that I wanted to do today, kind of as a stopgap, because I had a Wattstock episode almost ready, and then I found a new, like, you know, trove of papers from like a new review paper I found, and I went, oh.
+
+00:01:41.968 --> 00:02:08.400
+I got a lot more work to do, so. So, yeah, I know, it's typical science, right, Kyle? Yeah, no, I mean, it happens, especially if you're not, you're not, well, I feel like it's actually worse, probably, in, like, medicine and sports, stuff like that, just because way more people, way more journals, things to look after than in physics, so you just.
+
+00:02:08.400 --> 00:02:37.488
+It's just, it's impossible sometimes to stay on top of absolutely everything unless that's your job just to pull literature and, you know, have a subscription to every journal. Yeah. And then you're screwed if it's not, and also if it's not current and you're just like, do you just search PubMed every day and like have a checklist? I mean, I know, I know of at least three people who have one to three assistants who do nothing but comb through literature to send them
+
+00:02:37.488 --> 00:03:03.984
+Things to Read. Like, which is insane sounding to me. And I'm at this point, I'm like, I wish I had somebody like that. And people send me papers, but a lot of the time, it's like, you know, popular stuff that I'm going to see probably anyway. And it's like, I would really, especially when I start going down a rabbit hole, because for the next Wattstock, we're going to be talking about calcium signaling. And there's a lot in there, like a lot in there.
+
+00:03:03.984 --> 00:03:21.568
+and I was trying to find like a couple good studies because we've kind of talked about it on the podcast already and we'll get into this in the next, probably the next podcast where we do the Wattstock but it was one of those things where it made me start thinking of all the ways
+
+00:03:21.568 --> 00:03:51.072
+that you could big brain this kind of stuff. And I mean big brain in the sarcastic way where you think you're like biohacking or something. Check out the big brains on Brad. And it turns out that it's actually not really working the way you think. It's like if you over-focus on one signal or one parameter, you actually miss the forest for the trees. And so it made me start thinking about FTP and VO2 max training.
+
+00:03:51.072 --> 00:04:20.320
+And because in a lot of the podcast episodes that we've done, we haven't really gone too deep into really kind of the programming periodization and the kind of purposes and also like that you don't have to do it a certain way. And I think that's something that I didn't really expect. Like when we did the VO2Max podcast episodes and I was talking about doing blocks and shortening intervals and all that kind of stuff, that's like a middle ground approach.
+
+00:04:20.320 --> 00:04:44.768
+And it's not the only thing that works. And so I wanted to spend today going over a couple of my bonus thoughts on all of that kind of stuff, especially after having done a lot of consultations for people over the years, and we'll talk about some of the big mistakes I've seen in a lot of those. And we'll also get into kind of different ways to do stuff.
+
+00:04:44.768 --> 00:05:14.448
+And then we're going to answer a lot of listener questions, because I asked up on the Instagram yesterday on Friday, and boy, do we get questions. I think we got about 40 or 50. We're not going to answer all of them, of course, but we're going to answer the good ones, the ones that I think will lead to the most useful advice. But it's been kind of shocking to me how people have either interpreted
+
+00:05:14.448 --> 00:05:40.992
+really well, or even misinterpreted a lot of the recommendations that we've put out there. But I mean, it's one of those things that shouldn't be surprising to me. I mean, maybe I'm just super naive about this stuff. I mean, I know, I know. Forget it, Jake. It's the internet, right? Well, I think the other thing, too, is depending on what someone is looking for, if they want a prescription or something like that, so they maybe try to...
+
+00:05:40.992 --> 00:06:10.672
+Force it, or like shoehorn it, or try to synthesize it with other things they've learned elsewhere, and sometimes, you know, you can end up kind of, yeah, like you said, kind of big braining it, because you think, oh, I'm gonna take this from this, and this from this, and then gonna like mix it all up, and this is what I came up with, and like, what do you think of that? And you're like, you, a separate, different person, would not have put that together in the same way, because you're not that person with that same background now, same experience, whatever.
+
+00:06:10.672 --> 00:06:39.120
+Yeah. Yeah, so let's, why don't we just start with some Viet2Max stuff? Because I think this was the one where I see a lot of people asking about blocks. Like, I'm going to do a Viet2Max block. And my first thought is, okay, cool. But also at the same time, here's something, is when I think about
+
+00:06:39.184 --> 00:07:06.640
+Blocking Up, like, VO2max or FTP or whatever it is, usually the reason for that is because it's easy to control the inputs and outputs. Like, you know what stimulus you're giving the athlete, and so you know exactly what you should expect on the other side. I mean, that's basic variable control for science, right? Right. So, when I give somebody a VO2max block, first I need to make sure they're prepared for it.
+
+00:07:06.768 --> 00:07:35.952
+And one of the things that I like to see for somebody to be prepared for it is I like to see, well, it depends. Oh, God. I was going to say something and I thought, nope, not that. It depends. Oh, God. I did it to myself. I'm sorry. Preparing for it, I need to know that somebody is basically aerobically as about as good as they've been in the past if we're going to use it to raise FTP for the future.
+
+00:07:35.952 --> 00:08:03.152
+I think that's the biggest thing here about being prepared for a VO2max block where, you know, because VO2max is the ceiling on FTP. So if you want to raise your FTP, you have to raise your VO2max. Like they kind of go hand in hand. And so in order to push you past where you had been, you have to be where you've been. And I like to get there when possible with low intensity training.
+
+00:08:03.152 --> 00:08:31.056
+Because if you just get off the couch, anything is going to make you better. I think we've talked about this in the podcast before, right? Where, like, you get all the noob gains, but if it's all high intensity, you've now accumulated a ton of fatigue. Yeah. And now you've got to, like, rest and recover before you do more high intensity, and at some point, that's going to wear on a person. You mean you can't do, like, VO2 max, hard VO2 max every day for...
+
+00:08:31.056 --> 00:09:00.400
+12 weeks, or whatever. Oh, God. Oh, yeah, the dysfunctional mitochondria episode. I think, what was that, Wattstock 41? I think it was 41. That was a fun episode. And by fun, I mean, there was a lot of, oh, God, they did what? If you haven't heard it. So, yeah, so once you are ready for a VO2max block, doing it,
+
+00:09:00.400 --> 00:09:29.392
+You should, on the other side, see an FTP improvement. But, like I said, this is not the only way to do it. I've certainly had clients, and our coaches have certainly had clients, where doing a focus block isn't working. Either the workouts are poor quality, somebody's not motivated to do it, or we've got our own proprietary ways of seeing if it's working or not.
+
+00:09:29.392 --> 00:09:58.624
+More quickly than most people would be able to tell, I think. And when that happens, one of the things that I usually suggest is doing what I call a mixed block, where you do one VO2 max workout and one threshold workout per week. Maybe you want to do two in one or one in two. It doesn't really matter if you're doing three hard workouts, but that's a good place to start if you're not seeing much improvements.
+
+00:09:58.624 --> 00:10:22.400
+doing just one or just the other. And that's why I also recommend just two hard workouts per week so you've got plenty of recovery time because the recovery may be part of it as well. You know what I mean? Yeah. Yeah, yeah. Like if you're just barely recovering enough to like make it to the next hard workout, you're maybe doing a little too much. You know, like even if you think like, oh,
+
+00:10:22.400 --> 00:10:47.488
+You know, I have to accumulate fatigue, and I should be tired, and I should be overreaching. Those are all true. But if you're like, just barely making it by, or like, you know, Monday you feel great, and then Tuesday you feel less good, and then by Friday you're like, I can't believe I have to do a workout today, you know? You're like, maybe it's a touch too much. And then, so you're not going to see those improvements as quickly because you're just tired, you know? Like, you may have it.
+
+00:10:47.488 --> 00:11:13.312
+Potentiated, if you rest up, the ability to set a new FTP or a new TT or whatever, but you're just so tired, you're never going to see it, and then you're going to get discouraged, and hopefully you're not going to double down, which people do. Frequently. Very frequently. I've consulted with a lot of people, and the number of people who have doubled down, like, we'll do a consult, we'll have a conversation, and then they'll say, hey, could you check in TrainingPeaks real quick?
+
+00:11:13.312 --> 00:11:33.120
+to make sure that the plan that I've written out is kind of along the lines of what we discussed. And most of the time, it's great. Now, every once in a while, I'm like, oh, yeah, you did the, you know, once is good, twice is better, eight times is four times better. Yeah. And because I think
+
+00:11:33.120 --> 00:12:00.944
+What sometimes people forget is there's diminishing returns as you stack workouts and accumulate fatigue. And so if you're just looking at workouts as like pass-fail, I'm just going to do 2x20 sweet spot and that's going to be a hard workout. Like, okay, first, that should not be a hard workout for anybody unless you are like literally just off like the world's best race block and your body is like, okay, I'm cooked. Let me rest. And second, if you pass-fail workouts by like...
+
+00:12:01.232 --> 00:12:29.648
+Power Values, without using any other metrics like RPE, heart rate, or anything else, you're not guaranteed to have a bad time, but it's not like you're guaranteed to have a good time. And that's kind of my big concern is always, I want to set people up to have a good time, right? Yeah, you should be enjoying it, hypothetically. It shouldn't just be dreading.
+
+00:12:29.648 --> 00:12:58.672
+So, let's talk about recovery, because, you know, kind of like we just said, when you are thinking of recovery in block is very, very important. And this is one of the things that a lot of people would benefit from, is stacking workouts close to each other, where you might do like two or three harder workouts in a row, like, you know, like Thursday, Friday, Saturday, long ride, easy ride, Sunday, then you recover Monday, Tuesday, Wednesday.
+
+00:13:00.176 --> 00:13:28.800
+Yeah. And honestly, that's a pretty good way to do it. If you're thinking, man, I can do this number of workouts, but again, that's not the only way to do it. There's a lot of ways that you can manipulate these variables and finding out what works for you. And this is, by the way, why I'm not as popular as a lot of other silver bullet coaches, because there's no right answer to any of this. There's also no wrong answer.
+
+00:13:28.800 --> 00:13:58.400
+Per se, but there is a right and a wrong answer for an individual. Oh, speaking of recovery, recovery after a block. And I think this is like the number one thing that I see people trying to overdo is overdoing the number of workouts they can fit in and underdoing the recovery. So here's, and I'm sorry for those of you who are listening who are like, oh, I'm doing this. If you do,
+
+00:13:58.400 --> 00:14:27.184
+Three weeks of VO2max work. And like, let's say you finish your last VO2max workout on like a Thursday or a Friday for that three-week block. You take the weekend, spend some time with your family, chill out, have a beer, take a nap, whatever. But you do your first FTP block workout on Tuesday or Wednesday. You have probably not given yourself near enough recovery. Yeah, you would like...
+
+00:14:28.496 --> 00:14:56.480
+It's, that's like three days, four days, three days? Yeah. Like, that's, that makes sense. If you, if you are, if you're thinking like, oh, I'm going to string these two things together and maybe take like a full, a fuller, longer week off later, but yeah, if that's your, this, my recovery week is three and a half days, like, eh, is it? Eh, well, I mean, it's not even a week.
+
+00:14:56.480 --> 00:15:25.872
+It's a recovery week for a reason. Okay, and for some people who recover fast and where the training load isn't quite that high or that intense, yeah, sure, we can get away with five days easy, where day six or day seven is back to hard work again. But for a lot of people, after a VO2 max block, especially if you haven't done one before, it can take, and actually, the harder the VO2 max block is, for most people, the longer it takes to
+
+00:15:25.872 --> 00:15:55.568
+Fully realize all the benefits that you gathered from it. So from this season, 2023 season, a lot of my athletes went through a hard VO2 max block. And for some of them, it was their first time doing something like this. And for a lot of them, it was not. The average full recovery time where we saw the full FTP improvements after the block was anywhere from two to six to eight weeks.
+
+00:15:56.144 --> 00:16:22.160
+Jesus. Yeah. So there's a couple ways to look at recovery from this. So the first way to check is to recover for a while, wait till your legs just feel good. And if it takes, you know, a week, a little over a week, okay, that's fine. Like do some endurance riding, do some easy riding, make sure you're recovering and starting to feel good. Now go do a three to five minute test or whatever you're...
+
+00:16:22.160 --> 00:16:50.768
+Typical Ranges. Some people it's four, some people it's six, whatever you got in that VO2 max type range. Go do a test. A lot of the time, I would say it's 50-50, maybe 40-60, where people will do the same power that they did before the block, but they will have a lot of residual feelings of fatigue. It's very, very common. That doesn't mean that the block didn't work, it's that you are still tired from your block.
+
+00:16:51.568 --> 00:17:15.920
+and you need more recovery. And so my recommendation is to either take a couple extra easy days and then start on your next phase, which would either be like FTP, kind of extend TTE kind of stuff, or you would want to, maybe it's time to get ready to race. So you'd want to start doing your race prep intervals and doing all that kind of stuff.
+
+00:17:16.208 --> 00:17:40.960
+As you recover from that, and you are recovering, hopefully, in block from these hard workouts, because a hard workout might take two, three, four days to really be able to do another hard one, you will hopefully see at some point your FTP improvements happening. And it's easy to gauge by RPE, but you can also do any number of tests that you want.
+
+00:17:40.960 --> 00:18:07.024
+So yeah, it can take a long time to really recover from a block, and the harder and longer the block is, the longer the recovery. And even if I short somebody a block, somebody's like, oh, I want to do three weeks, and I'm at week two, two and a half, I'm like, I think we need to call it right now, because I don't know how you're going to react on the other side of it, even though the block looks like it's working really well, it can really take.
+
+00:18:07.152 --> 00:18:35.472
+a couple extra weeks to really see the full benefits and get the full recovery. I mean, but in the mitochondrial dysfunction episode, we kind of saw that where there was a certain type of like mitochondrial biogenesis, but there was also a certain lag in some of the other markers of like oxidative enzymes and such. So it wouldn't surprise me if something similar was happening in this.
+
+00:18:35.472 --> 00:19:01.408
+obviously hasn't been studied, but something similar wouldn't surprise me. Yeah, I mean, that makes sense. You figure, too, like, it's one thing, like, kind of like you said, if you're getting off, like, an endurance block or, like, a sweet spot block, like, not nearly as much intensity, like, those workouts, you're not really getting to the end and, like, white-knuckling them, whereas you just think, like, at the end of a hard VO2 max workout, you're...
+
+00:19:01.408 --> 00:19:30.672
+You're like, you're digging pretty deep, right? Like that, just based sheer on, even though the time is less, I understand, it's less total time or whatever, but the, it's not like a linear thing where like, oh, like we've said before, like, you know, 10 minutes at a certain power, you know, five minutes at twice that power is not necessarily like just twice as hard. Yeah. Yeah. Actually, that reminds me, one of the things I wanted to discuss is actually doing the efforts themselves.
+
+00:19:30.704 --> 00:19:58.096
+So there's a couple things that I get a lot of questions on. The first one is, do you actually need to start hard? And the answer is, well, everybody say it with me, it depends. So for a lot of people, actually, I find usually the good sprinters need to start less hard. And, well, obviously the...
+
+00:19:58.096 --> 00:20:25.440
+Big reason is that you can really blow your legs out of the water on the first effort if you really go for it. You just send one and you're like, well, won't make it the next two minutes of this four-minute interval. I'm just not going to make it. Yeah. And then you take a rest that's like three or four times as long as planned before the next effort. And then you can't even fart out a good one because the first one was so hard. Okay. Yeah. All right. Now we've burned off some of that freshness.
+
+00:20:25.440 --> 00:20:54.720
+Hopefully tomorrow's workout goes better. But yeah, so not starting quite so hard, especially early on while you're fresh, but also as fatigue mounts through the block, it's easier to not start so hard and just kind of like by, you know, if you're at workout like six or something like that, you're probably able to kind of gauge, I'm going to start this hard and this is going to be about as hard as I can go evenly for a whole, whatever, three minutes.
+
+00:20:54.720 --> 00:21:22.480
+And that's not a bad way to do it. Because one of the things that I said, I think I said, it's been a while in that podcast, was you've got to be breathing really, really hard when you're doing VO2max efforts. And I find actually for steady state efforts, this is true, because it becomes a good, because breathing, it's not an indicator necessarily of O2 consumption, but it's definitely, it's...
+
+00:21:22.480 --> 00:21:50.400
+The mechanism is based on the CO2 production. And so it's not always the best indicator, especially if you're doing like 30-30s or something like that, or just high-intensity interval training, which obviously if you're new, high-intensity interval training, you do a 30-second effort, you're not going to be breathing that hard until after the effort's done. And yet there's a lot of good VO2max adaptation with that kind of stuff. So it's not always a good indicator. But for steady-state stuff, it tends to be...
+
+00:21:50.400 --> 00:22:13.200
+a good indicator, even though it's not a direct indicator. So as long as you're getting up there, that's fine. That's my recommendation anyway. That's not the only way to check. But the other thing with adjusting for the fatigue that you accumulate if you are doing a block is going to be...
+
+00:22:13.328 --> 00:22:36.832
+Well, I'd originally said you want to reduce the interval time. So you want to start with like five or six minutes. You want to reduce it down to like a two-minute interval. And that's a way of dealing with fatigue. But you want to keep about 20 minutes, 15, 20 minutes interval time total in the workout. But if you are somebody who just does not feel comfortable doing a five-minute interval, that's fine. Do two. Do three.
+
+00:22:36.832 --> 00:23:03.616
+Find a range that works for you is the point here. Not like I feel like I have to do five-minute intervals because if you do a bunch of two-minute intervals, honestly, you're probably going to get about the same benefit. Hmm. Okay. Yeah. Yeah. I mean, kind of like we said before, if you – it's not – yeah, there's more than one way to go about accumulating that time in –
+
+00:23:03.616 --> 00:23:29.840
+roughly total time at that intensity, right? Like, obviously, if you're doing them in, I don't know, 30-second blocks, okay, that's a little too extreme. You can, you know, you can, but you can, there's, there is a range in there of flexibility to dice it up, right? And obviously, one 20-minute block is not, or one 20-minute interval is not. So that's the extreme at one end, and, you know, a bunch of 20-second intervals is the extreme at the other, and neither of those, but if you're away from those edges...
+
+00:23:30.256 --> 00:23:56.448
+Oh yeah, minimum interval durations. Well, that's harder to say. I would say two minutes is about the minimum that you want to do. And the last question is high cadence. Do you absolutely have to do high cadence? And the answer is actually no. But if you are doing a block, I recommend it because if nothing else, even if you don't care about the, you know, balsa pump mechanism and all that stuff, it'll save...
+
+00:23:56.448 --> 00:24:25.680
+the muscular fatigue on the legs and keep most of the aerobic benefits or actually improve them to some degree. So especially if you're going to do like a double day, if you get up in the morning, you do a two-hour ride, if you do four by five minutes, and if you're planning on doing something in the evening, high cadence is my strong recommendation. You will be surprised about how good it feels as long as you are getting enough to eat and you're recovering in between enough. Like if you go out,
+
+00:24:25.680 --> 00:24:53.392
+and you run a 10K in between, you're probably not going to have a good evening workout. That's oddly specific. Has someone done this before? I don't want to dox anybody, so no comment. So how do we know if the FTP block was effective is probably the last question to address here is your FTP went up.
+
+00:24:54.000 --> 00:25:21.696
+But like I said, you may not see that immediately because of acute fatigue. So I suggest you can work at your previous FTP if that's feeling fine. And hopefully you're not overdoing it to the point where you can't actually recover doing the block. And just after four, six, eight weeks, you should be feeling better. And maybe you want to go out and do like...
+
+00:25:21.696 --> 00:25:51.168
+Like we did another FTP, like a second FTP testing redux episode, and I forget which 10 minute tips that was, might have been like 12 or 15 or something. But I think I pretty much said you want to go out and just like give a 30 minute effort, like a TT effort. Yeah, like feel it out. Yeah. Well, because sometimes you wear the rut in your RPE, or even like mentally you see that number and you think, oh, if I go harder than this number, it feels harder. Because you think it's harder.
+
+00:25:51.168 --> 00:26:21.152
+because it's a bigger number. Bigger is always better, right? I mean, I've had that problem myself. It's how I know it's a thing. So yeah, so going out and when you're fresh, you can't like do four workouts and then go, okay, tomorrow I just did four hard workouts in a row. Now tomorrow I'm gonna go do a 30-minute effort. It doesn't usually work like that if you're like off the couch, super fresh, maybe an exception. But anyway, so that's VO2max stuff. And I think the biggest,
+
+00:26:21.152 --> 00:26:50.544
+The biggest thing about it is that if you don't have the time or energy to do a dedicated block, you don't have to. I've definitely got clients where we do it when we can. Like if they've got a busy race season, or if they're dieting, or if they're injured and we don't really have a chance to do it, or they don't have enough runway to recover afterwards, like they've got races they have to be in shape for, we don't do a dedicated block.
+
+00:26:50.544 --> 00:27:19.376
+Because there's no way. Like, why would you do that if you're like, I've got a race that I need to be in really good shape for, and it's a week after my last hard VO2max workout. It's going to be, you know, it's going to be like 12 workouts in two and a half weeks and a couple double days. And you know what? I don't know if I'm going to be recovered, but I, yeah, fuck it. Why not? Let's try it. Oh, no. Yeah.
+
+00:27:19.472 --> 00:27:48.960
+Yeah, there's always leave yourself enough runway afterwards is the recommendation. You're gonna have a bad time. Yes. Yeah, and it's unfortunate with VO2Max stuff because the intensity is the stimulus. Like, you don't have to add time and zone. You don't have to go to, like, a 40 minutes worth of max efforts in a day. Like, that's like a... Oh, no. That would be a hard one. That sounds so hard. I...
+
+00:27:48.960 --> 00:28:17.360
+Yeah, that's like a race park. Eight by fives? Eight by five? Eight by five, but I would give somebody that over the course of like six or eight hours. Yeah, yeah, yeah, not in like an hour and a half after work. No, no, that sounds like that. Absolute death. That's what I was thinking. I was thinking like, oh my God, imagine coming home from work and being like, ah, this afternoon, hour and a half, eight by five, here we go, like 20 minute warm up.
+
+00:28:17.616 --> 00:28:47.584
+Oh, God. I mean, I'm sure people have done that, but they would probably be doing it sub-maximally, so it doesn't really get that hard until the last, like, probably three to four, would be my guess. Hopefully, if you've got it targeted right. And, you know, what's funny is that's also not the only way to raise VO2max. Like, one of our coaches is working on some interesting stuff on different VO2max protocols, and they're partly good, but they're also partly not.
+
+00:28:47.584 --> 00:29:17.088
+kind of like this basic VO2 Max block is kind of what I do prefer to do when I get the chance. It doesn't guarantee anything, it doesn't guarantee improvements, but typically if you are ready for it and you're well prepared and you've got enough runway on the other side to recover, it tends to be good to at least try. Like I said, no guarantees. Yeah. And I think that's a good point too, like you said, with like mixing the blocks and if, yeah, if you, you know, maybe you are, like you said, you have never done a full dedicated VO2 Max.
+
+00:29:17.088 --> 00:29:45.264
+Bloc, you can kind of titrate it in if you're doing sweet spot the other days and then have one hard VO2 max say, okay, yeah, no, I can do this. I can get used to this and whatever, boiling a frog analogy or whatever it is, right? Yeah. Yeah. Yeah. And so, yeah, if you want to fold it in gradually, that's fine too. But I think the larger point is that there's no wrong way to
+
+00:29:45.328 --> 00:30:09.984
+I mean, there is kind of a quote-unquote wrong way, but there's also not a wrong way to periodize like via to max and FTP training. I mean, you can mix them all together, but as long as you're getting the recovery and you are getting out what you want to get out of the workouts, you didn't do it wrong. And I'm not somebody to sit here and say you did it wrong because you didn't do it the way I prefer to do it. So what? Yeah.
+
+00:30:09.984 --> 00:30:38.640
+And like you said, if you're getting out, like, obviously, in a more controlled setting, if you are worried about this one specific attribute, VO2 max, yeah, you only do VO2 max work, especially like in a study, because it's easier to measure. But, you know, I'm sure you could probably set up a study, design a study where you had some people do VO2 max and FTP, some people just do VO2 max, blah, blah, blah, you could compare them, but no one's probably going to run that study.
+
+00:30:39.184 --> 00:31:09.168
+But that doesn't mean it's not valid, right? Just because something doesn't necessarily exist in the literature doesn't mean it doesn't exist at all. Yeah, true. So let's talk real quick about FTP training, too, because there's been – I think there's still a pervasive rumor, and maybe this is just what I hear and what I read on forums when people send me links and stuff,
+
+00:31:09.168 --> 00:31:36.432
+Doing FTP training is not necessarily going to raise your FTP. And I think that might be hard to hear for a lot of people, or it might be one of those things where you go, oh, yeah, I don't make sense. Because I used to, I swear to God, I used to, like, when I started training, I think we had talked about this in the 500K episode where we roasted my old plans, where I had an old coach where he was like, if you just do a...
+
+00:31:36.432 --> 00:32:04.544
+He basically said, if you do a whole winter of FTP training, you're going to get your FTP up to 400 watts. And me and my friend were like, why don't we? Jeez, that sounds awesome. Sign me up, yeah. Because it doesn't work like that. And it takes years to make improvements to that degree, especially if you're at like 260 watt FTP like I was at the time. I think my highest ever was 300.
+
+00:32:04.544 --> 00:32:29.744
+Yeah, sign me up. That would be awesome. But so here's the thing about FTP training. So it's not necessarily going to raise FTP, but it will early on. And a lot of the noob gains that we get from pretty much all aerobic training are plasma volume based. And we're going to look at a couple studies at some point in the Wastock series.
+
+00:32:29.744 --> 00:32:57.360
+where we look at that because I was waiting for something to happen on the high-intensity side of things, and it's finally come out. Somebody's finally done the, yeah, like, noob gains for high-intensity stuff is, like, plasma volume, blah, blah, blah. Like we've known about for a long time with endurance training and, you know, VO2max and all that kind of stuff. Like, I think we had, I think it was the determinants of performance, the coil and cogging paper, where they re-infused
+
+00:32:57.360 --> 00:33:27.216
+Saline Solution, after people had detrained and got back most of their VO2 max. Yeah, yeah, I remember that. Yeah, really, really cool study. And so that's really the driver of the new gains, which is why you don't have to go out and hammer all the time to get those improvements. You can just spin. You can just go easy. You can just go out and ride endurance pace until the power stops going up. It's pretty awesome.
+
+00:33:27.536 --> 00:33:55.872
+So FTP also, like I said, doesn't need to be done in a block. So if you're mixing up the block, one of the things that would actually become a difficulty is that if your FTP is actually going up while you're doing simultaneous FTP and VO2max training, you're going to really have to be clued into your RPE and how the power feels. Because, and I've had a lot of clients like this where they'll say, this is feeling really easy, and so I decided to...
+
+00:33:55.872 --> 00:34:21.136
+Do more power for my efforts, and that felt more like FTP should, and that's one of those things that's always a good thing. But, if you pass failure workouts, you're like, well, 4x10 FTP, like, I can barely squeak through this workout, I'm going to be breathing through my asshole by the end of it. That's not your FTP! Oh, man, yeah, just...
+
+00:34:21.583 --> 00:34:50.911
+Just like sliding across, Mark Cavendish crashing in the Giro, sliding across the finish line. Hey, I got fourth. I got fourth. You're like, oh. But at what cost? Yeah, technically he got fourth, but he didn't, he wasn't technically racing his bike across the line. Yeah. Oh, man. Although it's great to crash in the rain because you don't like, you don't get cut up. It's like a slip and slide.
+
+00:34:50.911 --> 00:35:20.800
+Yeah, so much better. Yeah, it's hydroplaning down the road. Anyway, so that's the FTP thing, where typically, and I think we've kind of talked about this before, I forget, but one of the things I also like to see before I have somebody do a dedicated view to MaxBlock is I like to see pretty high volume, generally, compared to what somebody's been doing, and I also like to see somebody's TTE at FTP going out to like
+
+00:35:20.800 --> 00:35:44.768
+55, 60 minutes or more. Because typically, in my experience, that is a really good setup to have an immediate FTP boost after a VATIMAX block. Again, like I said, not always a guarantee, but it seems to be a really, really good prerequisite if that's what you want to get out of your FTP block.
+
+00:35:44.768 --> 00:36:13.536
+So does all that make sense? Did we cover? I think we covered a lot of good stuff, but we got some, Kyle, do you have any thoughts before we get to listener questions? Yeah, I think, too, just when you're structuring this, I think kind of like you said that there are, you know, general guidelines, but a lot of this, it sounds like we keep saying this all the time, but a lot of it kind of came back to, oh, like, you know, be honest with yourself about how you're feeling. Like, if that was...
+
+00:36:13.536 --> 00:36:42.784
+Too Much, or that FTP workout, that VO2max workout was too much, if that wasn't enough recovery, like, don't kid yourself, right? Like, it's always going to be much harder, like, if you think, oh, I'll just, it'll be fine, I'll just do it, you know, but if you dig yourself in such a great hole that you have to spend a month, two months, whatever, coming out of it, like, was it worth it? Was it worth that extra, like, week that you thought, oh, yeah, this week will be fine, I'll just, like,
+
+00:36:42.784 --> 00:37:04.336
+Grit My Teeth and Push Through It. But if it costs you like a month, two months, a summer or whatever of racing really crappy because you're just super beat up, you know, yeah, okay. If you never get super close, you know that you could be training a little bit harder and maybe you're leaving gains on the table or whatever, but like that doesn't mean you should.
+
+00:37:04.560 --> 00:37:33.648
+Aim for just barely surviving every block. Yes, it's not like I'm going to go from a 200-watt FTP to a 400-watt FTP in this, like, eight-week period or die trying, like, because you will die trying. Yeah, like, you know, it sounds nice that you can, yeah, you should be pushing yourself hard, and you should, but it shouldn't be, it shouldn't be like, oh my god, I'm, like, a shell of a human being at work for a week.
+
+00:37:33.648 --> 00:38:03.008
+Right? Like, if you're at that point where you, like, can't function in your daily life, like, yeah, maybe you have been doing a little bit too much. Yeah. And, you know, it may sound like glorious suffering if, you know, when I'm talking about, you know, like having a couple weeks to really fully realize the benefits of Viet's Max Block. But here's the thing is that you should be able to tell in block, like, where intervals of the same duration are probably going up in power.
+
+00:38:03.008 --> 00:38:32.368
+Even if it's by a handful of watts, you know, across the board, or consistency is getting better, like, these are good things. If, but when you are, you know, a week or two outside of that block, you should at least see some improvements. Like, it's not like, oh, I see zero improvements, and I'm just hoping something else is here where I'm going to see them in a couple months, because that's a long feedback loop. No, you should probably be seeing
+
+00:38:32.368 --> 00:39:00.368
+at least a couple watts of FTP on the other side of it, like 5 or 10 at minimum. And that's usually what I see when somebody's kind of on lower volume, something like that. But when we got somebody riding 20, 30 hours a week and they just did a hard VO2 max block, I don't think I've yet seen somebody not gain at least 15 watts out of the gate and then grab another 10 or 15 over the next couple of weeks.
+
+00:39:00.368 --> 00:39:28.080
+if they don't grab it all immediately. I think that's a good benchmark, too, because I think sometimes you say this to people like, oh, you should see it, but you've been spending 20 hours a week staring at your Garmin. You can think you see a lot of things in that three-second average as it goes up and down, right? It's like reading the matrix code. You start to be able to see deeper into the numbers. It's like one of those magic eyes that's not really a magic eye.
+
+00:39:28.592 --> 00:39:58.592
+I'm seeing stuff in the numbers, man. Like that Always Sunny meme. Yeah. The Pepe Silvia, the conspiracy theory. Yeah, yeah. It's great. I mean, because really, what we're looking for is improved performance. And I've done, this year alone, at least five consultations with people where they've asked either directly or indirectly, has my training been effective?
+
+00:39:58.592 --> 00:40:27.856
+in some way that I cannot see. Because like the power's not going up, not feeling stronger. Is something getting better? And the answer is always if your performance isn't improving and it's not because you're not resting, like then the answer is no. Like if, because some of the time, yeah, it's like you need a rest and then you'll see these improvements. Then people rest and they go, wow, that was great. Otherwise, if you've been like doing everything right, you're not seeing it, then
+
+00:40:27.856 --> 00:40:49.152
+Then, you know, sometimes there's something fundamental missing, or you need to change your focus, or something. Or like, you know, a lot of the time I think people's perception of the mechanism of adaptation is also different too. Because again, if you try to big brain it, and we'll talk about big braining some of the stuff in the adaptation series coming up.
+
+00:40:49.152 --> 00:41:18.512
+You could really go weird. Kyle, we're going to do some interesting thought experiments. I actually just put in our notes for the calcium episode. I can't wait to hear what you come up with. Keep it simple is really a good principle. If you think something should be improving, you should see improvement. It doesn't have to be any kind of fancy stuff. Just look for performance.
+
+00:41:18.512 --> 00:41:48.368
+So, all right, listener question number one. Is four hours in zone two and then a maximal power output from five to seven minutes useful? I would say this will give you a really good indicator of your five to seven minute power after four hours of zone two. And if that, that, and that may be race specific for you, I don't know, you know, like, yeah.
+
+00:41:48.368 --> 00:42:15.616
+Yeah, so here's the thing is, I think this is kind of getting at, is it better, like, where on a ride should you or can you do intervals? And the answer is, unless you've got something very specific in mind, anywhere. Really anywhere. Like, I think in our FTP episode from forever ago, what was that, like, Wostok, like 14 or something like that? 15? I think I...
+
+00:42:15.616 --> 00:42:45.008
+discussed something like you could do like one FTP interval per hour. So if you do a four-hour ride, you do a 15-minute effort every hour. That's an awesome ride. You don't have to block them up into like five-minute rests. You don't have to do them at the start. You don't have to do them at the end. If you could do them throughout, it's fine. Or if you want to do them at the end or the start, it also doesn't matter. But I would say if you are somebody who cannot do high-quality efforts throughout a ride, I would
+
+00:42:45.008 --> 00:43:13.776
+If you are really looking to get the most out of the intervals themselves, do them early. So if you're going to do VO2max efforts on a five-hour ride, and it's like, well, I can do them at the end, but I can't really push that hard because I'm kind of tired, do them at the start. You'll get the most out of it, then rest, recover, eat, drink, and then you can just cruise easy. It's that easy.
+
+00:43:15.280 --> 00:43:43.728
+Yeah, yeah, or like, yeah, like, do a, do a, do some hard workout, some harder intervals, and then be like, meet up with some friends for a coffee ride and keep riding, hang out, you know? Yeah. Um, let's see. If you breathe like a fish out of water at X watts, does it make a difference to go even harder? So here's the thing about, um, about the breathing and hitting VO2 max and all that kind of stuff. Like, if we're looking...
+
+00:43:43.728 --> 00:44:12.544
+in normal like VO2max type interval ranges. So I would say two to five or six minutes is like typical. I would say probably add to eight minutes would be the very long end of what I would probably give somebody for just raising VO2max. It doesn't really matter as long as the interval is basically maximal. But for the most part, if you're like going really hard for two to six minutes, you're not doing it wrong.
+
+00:44:12.544 --> 00:44:42.208
+And that's, so if you go harder, like, just even looking at the critical power W Prime model, like, you will just make the interval shorter, right? Yeah, yeah, yeah, within reason, right? You know, not, oh, I could squeak out, I'm at 300 watts, I could squeak it out to 450, but then I'm going to, like, crash and burn immediately, you know? Yeah. Like, that might be one of those things where maybe they're trying to over-optimize, like, just the amount of,
+
+00:44:42.208 --> 00:45:11.376
+Brainpower and Planning and Focus it would take to be like, oh, I'm at 320, but I think I get to like 335 and like maybe hold on to for the same amount of time. It's like, you know. Yeah. You're breathing hard. You're working hard. It feels hard. You know, your heart rate's high. It's great. Yes. Yeah. It's pretty simple. It's good. Off season for a long course triathlete, huge drop of FTP. What to aim for?
+
+00:45:11.408 --> 00:45:34.672
+I'm not entirely sure what this question is asking, but I want to address off-season FTP. I think a lot of people are hesitant to let their fitness go away. A lot of people. Yeah. Guess what? This is good. It's called rest. You need it.
+
+00:45:35.568 --> 00:46:01.168
+Let the fitness go away. Don't fucking hammer like all year round just because you're terrified of losing like 10, 15 watts off your FTP because you know what's going to happen is you're going to overtrain or you're at least not going to be fresh enough in order to improve from where you've been. Taking a rest is one of the best indicators that when you start training hard again, you will be able to get beyond where you had been. Yeah.
+
+00:46:01.168 --> 00:46:30.320
+And I think just getting comfortable with the idea that, like, oh, the number might be going down. But it's not lost forever, right? It's not like you're setting a pile of money on fire or something like you're never going to see it again. And I understand this, too. Like, you know, it's great when you see big numbers come out of the computer and you get sad when the numbers aren't as big. But it is a process. It's not – if you could stay in amazing shape the whole year round, like, that'd be great. But it's just not – even people who are pros.
+
+00:46:30.320 --> 00:47:00.288
+Professionals, but they don't do anything else, don't do this, right? Like, if you could, it'd be great, but even if this is your full-time job, you can't do it, so. After a hard season, it's like, you mean I don't have to think about, like, you know, packing my bike up? I don't have to think about what I'm eating? I don't have to think about, you know, going hard again? I'm not nervous for any tests or, like, you know, team politics or, you know, Peloton politics or whatever it is. Like, it's awesome. Yeah.
+
+00:47:00.288 --> 00:47:29.584
+Yeah, I mean, I think, too, like, probably because, you know, pros aren't, a lot of them are not super forthcoming with numbers and stuff, and you don't know how much, how exactly, what does it mean to get out of shape in the off-season? You know, it can be, you don't have, people aren't publishing it, like, oh yeah, I lost 20 watts, and that was fine, but I was just, you know, having a rest, enjoying, you know, doing cross-country rides or something instead, and just relaxing. Yeah.
+
+00:47:29.584 --> 00:47:54.736
+They don't publish it, so. Yeah, but I mean, that kind of goes back to that, you know, that, you know, plasma volume loss thing. It's like, most of my cyclists, when they start riding again after a season break, it doesn't take that long before they're basically right back to where they were. So, yeah, a couple months, and it's like, oh, let's do an FTP test. Oh, look at that.
+
+00:47:54.736 --> 00:48:22.256
+Either a PR, or it's within 10 watts, or it's the same as before. It's not a huge amount of movement. And if you are fighting tooth and nail to like hang on to a couple watts, I mean, well, anyway, moving on. FTP at 260, but can do 4x5 minutes at 350 watts at a 10 out of 10 RPE. Is my FTP low compared to VO2 power?
+
+00:48:22.256 --> 00:48:47.552
+Yes, but this could also be from a very large anaerobic capacity. Yeah, I was going to say, that sounds like something I could have done back in the day. Me too. Like, you and me are actually great examples of exactly this. Like, Kyle, what was your highest FTP and what was your best ever five minutes at that FTP? I think my best FTP was probably, you know, 300 watts, maybe 30.
+
+00:48:47.552 --> 00:49:15.824
+5 or something, you know, like, no, it was 300 watts, whatever, you know, I wasn't about to ride 300 watts for, you know, more than 45 minutes or something like that, but I think my best ever five-minute power at that was like 440, 445, something like that. You know, like 100, like fully on, full on 150%, where you're like, well, that's weird. Yeah, yeah, and mine was 430 watts for five minutes, and at the time, IFTP was about 270, 280.
+
+00:49:15.952 --> 00:49:37.072
+Um, like, like a typical, like four or five by five minute, uh, like interval day for me, my five minute efforts would like, I think the best one I ever did, they were all at like between 370 and 390. If I, if I recall correctly, I have to go back, it might, might be a handful of watts lower, but like most of them were like, yeah, like with.
+
+00:49:37.072 --> 00:50:06.128
+Between 340 to 370 was like a pretty typical range for me for like four or five by five minutes. And that was at like a nine out of 10 RPE for most of them. Nine and a half. Yeah, yeah. You know, people would be like, oh, yeah, you can do VO2 max work like 110%. I remember trying that and being like, this is easy. Yeah, I remember I once got given intervals where it was like, go out and do two minute efforts at your like access road power, which is like five minute power. And I was like, yeah, but.
+
+00:50:06.320 --> 00:50:31.200
+I'm breathing through my nose. Like, I don't see what is this doing? The answer was not much. It was actually keeping me fresh is what it was. Because the program that I was being given at the time didn't have a lot of rest incorporated into it. And so it was really just not, it was like a workout where you go out and you kind of ride, but also it's not that fatiguing.
+
+00:50:31.200 --> 00:50:59.472
+because it's not really doing much. It's like an opener workout. Yeah. Yeah, it was basically like a kind of like a medium day where it's like not a lot of fatigue gathered, but also like not a lot of adaptation gathered. It's fine. It's fine. And the logic was like you will have your full power on race day. I'm like, yeah, because I'm like fresh as a daisy. But I want to make it better. I don't just want to like tread the same ground. Anyway, so.
+
+00:50:59.472 --> 00:51:29.440
+So the answer is yes, it's probably a combination of anaerobic capacity and like an FTP relatively low relative to VO2 max. And this might be like, because in the, you know, the typical range is somewhere like, what's the low end that we've ever seen? It's like 55, 60% and the high end is like 88, 90%, something like that. Yeah.
+
+00:51:29.440 --> 00:51:59.248
+like for your VO2max relative to FTP. So yeah, so yeah, it's fine. It's not like a good thing. It's not like a bad thing. It's like, you know that about yourself. Cool. Maybe relative to your other competitors, you know, you've got a little better five minute or something like that. And that's pretty much what it comes down to. Can you TLDR about high cadence and heart pump preload at VO2max? So yeah, this was one of the,
+
+00:51:59.248 --> 00:52:27.920
+Things that we went deep into with VO2max, because the whole series was really based around a bunch of papers that I had found that explained the Fick equation in a lot of cool ways, and looking at, you know, hemodynamics and, you know, capillaries and blah, blah, blah, heart stroke and all that, and kind of we teased out, like, what is the root, like, driver of VO2max, and the answer was stroke volume. Like, heart stroke volume. Yeah. Yeah, yeah.
+
+00:52:27.920 --> 00:52:57.248
+And one of the things that I found in my research is that a lot of people tend to have a, like untrained people have a stroke volume peak that is like far below their heart rate max. So like stroke volume will increase to, I don't know, like 70, 80 milliliters of stroke or something like that, or whatever it is. I don't, I forget exactly what the range is.
+
+00:52:57.248 --> 00:53:23.296
+But that will plateau at like 70% heart rate max for like an untrained person. And for a very well-trained person, it won't plateau, like heart stroke volume will go up until you hit heart rate max. And so if we are working at these high diastolic filling pressures, when we are at VO2 max and that...
+
+00:53:23.296 --> 00:53:51.856
+Potentially seems to be a mechanism of adaptation of growing the heart. Then by raising your cadence, you increase what's called the muscle pump. So one of the ways that we return blood to the heart, it's not just the heart itself pumping, because that means the heart has to work harder. Basically, it would get like thicker, like a bicep, like doing a lot of bicep curls, like a bodybuilder. And that is one of the adaptations that happens when you are like actually a bodybuilder or a powerlifter is your heart.
+
+00:53:51.856 --> 00:54:20.672
+Gets Thicker, but the stroke volume doesn't really increase. So the heart muscle gets used to pushing against all of that peripheral resistance when you are doing that lifting. When you are, sorry, this is not really a TLDR. It's a little long. But so when you raise your cadence doing VO2 max efforts, not only are you reducing the muscular load and the muscular fatigue that's associated with that kind of stuff, but you are
+
+00:54:20.672 --> 00:54:49.200
+Increasing the rate at which you are squeezing your muscles to return blood to the heart. And that is one of the big mechanisms. That's the muscle pump mechanism for venous return to the heart. And so when you raise your cadence and you are at VO2 max, one of the cool things that you will find is that if you are actually at your heart stroke max, you will see your maximum heart rate drop in the interval.
+
+00:54:49.808 --> 00:55:16.368
+So like if you are like three quarters of the way through a four minute interval, you're at minute three, your heart stroke volume or your heart rate is kind of plateaued and you're breathing really, really hard and you're at like 100, 110 RPM, something like that, change your cadence to like 80 or 90. You will watch your heart rate go up, most likely. And I've seen this so many times where like the heart rate will go up and down relative to
+
+00:55:16.368 --> 00:55:43.872
+the cadence because of whether or not you are increasing the venous return and increasing the diastolic filling pressures or filling volume. So if that is indeed the mechanism behind raising stroke volume, we can increase the effectiveness by increasing the cadence. Hopefully that was...
+
+00:55:43.872 --> 00:56:11.920
+said simply enough. I don't know if it was. Yeah. Yeah, I always thought that was a cool fact that, yeah, your body has developed these ways to not just use the heart to help get the blood back to your heart, but your whole body is helping along. Yes. So, let's see. Viotimax estimates equal junk science? Is spirometry the only true way?
+
+00:56:12.976 --> 00:56:40.704
+Yes and no. Like, we can get pretty close, but even spirometry has error associated with it. Like, you can get a bad test, for sure. But, um, the question is, what would you do with it? Brag to my internet friends? Like, you can't assign training based on Viet to Max. Can you? I mean, if you could, it would be cool if you could...
+
+00:56:40.704 --> 00:57:10.688
+You know, if you got it often enough to, like, track progress or something, I, but yeah, like, what does it help you in your day-to-day? Yeah, well, that's exactly it. It's like, if you, it's one of those things where you could use it to track progress, but you have to keep going back to the lab. And that gets expensive. And so, if you just do basic tests, like, three to five minutes, or like, 20 to 30 minutes, something like that, if those are improving, your V2 Max is improving.
+
+00:57:10.688 --> 00:57:40.144
+You don't need to go to a lab to see that. But you also have to not be too tired to test well. Or you also have to be able to test well. Some people test terribly. So you've got to do other stuff to figure it out. So let's see. Next question is, how do we really know if the VO2 blocks helped raise FTP ceiling or not? Your FTP goes up. It's pretty simple. I always throw a more complicated answer, but it is that simple.
+
+00:57:41.648 --> 00:58:10.816
+If fatigued and FTP intervals are done at 10 to 15 watts lower than usual, is it still worthwhile for FTP intervals? It depends on the duration. And this is actually one of the benefits of Sweet Spot, is if you are doing FTP work, and FTP is just a little too, not quite there, like the RP is a little higher than you would want it, and you're like, man, I gotta do 3x20 today, and I don't think I can do more than 2x20.
+
+00:58:10.816 --> 00:58:39.120
+If you think you can do a good duration sweet spot workout, if you're like, okay, my sweet spot workout, it's like 80, 90 minutes, I think I can do that today, FTP is a little hard, do that. But when you are looking at like a 10 watt delta, it's not a huge difference, honestly. Like if you're working at 300 watts and you're doing 3x20, and instead you do it at 290 watts, it's fine. It's fine.
+
+00:58:39.856 --> 00:59:04.528
+But on my pass-fail scale, it's a fail. Well, one of the other things to note about FTP itself is it's not like one number. It's a range. It's a range of numbers. And in my estimate, it's 10 watts wide. And so if you are working at the top of this range,
+
+00:59:04.848 --> 00:59:34.144
+Then you are probably going to accumulate a little extra fatigue that you don't need. Which is why I usually have people do FTP work either by feel or a couple watts lower than I think they need to, like 5 to 10. Because it's fine. You don't get extra bonus adaptation for those extra couple watts. Yeah. Would a VO2 max block increase FTP if another FTP block could as well? The answer is yes.
+
+00:59:34.144 --> 01:00:03.040
+That sounds like noob gains. Congratulations. Like we said earlier, if pretty much anything raises your FTP, it's pretty much increasing plasma volume, and that would be raising VO2 max from noob gains, and that's awesome. It's a great place to be. It means you can just do whatever you want. And it's a good place to be because it means you can just go do something fun instead of doing a structured workout. I mean, unless a structured workout's fun, in which case, do that. But yeah, it's the same difference.
+
+01:00:03.040 --> 01:00:32.256
+I wish I had noob gains forever, just existing that linear, very linear progression. I did one workout and I got better. I did another workout and I got better. There are a handful of people out there, a handful, where doing endurance riding and FTP training seems to always be effective to raise FTP. And they are genetic freaks in the good way, and they are extremely, extremely lucky.
+
+01:00:32.256 --> 01:00:58.608
+that they get to do that. So congratulations to them. I'm coaching just one of them on my entire roster, just one. Let's see. What are signs of overreaching in an endurance block? No longer progressing time in zone, restless sleep. An endurance block, overreaching would be you're tired and hungry.
+
+01:00:58.608 --> 01:01:26.640
+Time and Zone should not exist if you're just riding Endurance Pace. It should just be riding. It's total time riding. Time and Zone is 97% of the ride time. Yes. So yeah, riding Endurance Pace is a pretty wide range. And as long as it feels easy, but you're still pedaling, it's good. Like it's harder than recovery pace, but it's not like hard, hard.
+
+01:01:26.928 --> 01:01:53.648
+It should still feel easy. So, just total volume, that's all you need. And make sure you're eating enough, on the bike especially. What's the least amount of time you would try between Vietamax blocks if TTE says you are ready again? Ooh, that's tough. Kyle, you want to take a stab at it while I chew on this for a sec?
+
+01:01:58.896 --> 01:02:28.816
+I mean... I know, it's tough. Oh, it depends. Yeah, here's the reason I don't have a great answer for this, is because usually most people have more stuff going on where we don't have infinite time to just do FTP and View to Max and Endurance and whatever forever. And here's the thing, is that I don't think that that would necessarily be good. Because like, let's say you do a...
+
+01:02:28.816 --> 01:02:58.496
+Three-week Viet to Max block, then you do two, three-week, you know, with a rest week in between FTP blocks, things are going well, great, you're back up to getting ready for Viet to Max. Usually, that's a rarity. Like, the last time that happened for a coaching client for me was in 2020, where there were no races, nothing was happening. I was like, oh, well, it's time for whatever. And it didn't go well.
+
+01:02:58.496 --> 01:03:27.600
+It really didn't. It was time for a rest. Or like, you know, tapering a little bit, doing some race-specific stuff, even though there was no racing, that would have been what we normally would have done. And we didn't get to do it. And so, yeah, I don't really know the answer. I would say, I would say, like, what's the, actually, here's another way to look at it. What's the most number of V2 Max blocks that you could do in a year, effectively?
+
+01:03:27.696 --> 01:03:49.392
+My reasonable guess is one to two. I'd say at a big stretch, it might be three, but that would be a big stretch. You'd have to come in in January, do some stuff, rest, prep again, do another block, rest, prep again, do another, maybe. I haven't even done it, which is why I don't really know the answer, so.
+
+01:03:49.456 --> 01:04:14.672
+Yeah, I was going to say, if you structured your whole year around just doing VO2 max blocks, you know, sure, you could do four of them or something, but if like, if that was the only thing you'd like without racing, right, like you have all these other things to do, like you said, you know, if you're like, oh, hypothetically, if I was only concerned about doing VO2 max workouts, if those were my A events, how many could I do? Yeah, well, and here's the other thing is like,
+
+01:04:15.216 --> 01:04:42.896
+You could do V2Max the whole year if you wanted to. It doesn't mean it's going to be the most effective, but you could. So, yeah, if anybody out there has basically no events and they're just kind of trying this stuff all year round, let me know, because I would be curious about what you feel works and what's effective and what seems to be too much. I really would be.
+
+01:04:44.304 --> 01:05:12.016
+Let's see. If I can hold my old FTP for three hours, it's not FTP anymore, yeah? Yeah. Three hours? Three hours? It's your old FTP for a reason. The longest I've ever seen anybody hold FTP is like 84 minutes? Yeah, 84 minutes. Three hours?
+
+01:05:15.664 --> 01:05:43.376
+I'm going to let, Kyle, I'm just letting you marinate in this. What? Is that like, you know, just, great. Yeah. What percentage of riders do you think are training with an accurate FTP? I think we'd have to define accurate.
+
+01:05:43.376 --> 01:06:12.016
+Right? Like, within 10 watts? See, I don't even know. I don't have enough data to answer this question. For empirical cycling clients, 100% final answer. That's as far as I can go. I can't extrapolate any further than the people whose data I have. That's it. Yeah, hard to say. Yeah.
+
+01:06:12.016 --> 01:06:40.080
+What's a reasonable, what's reasonable for adding time to TTE, like workout to workout or week to week? Here's the thing about this, is if you are riding more endurance, if you're doing more volume, it's easier to add a lot more time at once. If you are on low volume, it's more difficult to add time. This is just in my experience, I'm sure that there are exceptions out there, but typically,
+
+01:06:40.272 --> 01:07:09.712
+My estimate is if you're riding enough, adding maybe 5 or 10 minutes per week or two is probably reasonable. Otherwise, you might be lucky to get 2 to 5 per week. But here's the thing, is if you are getting enough rest and you want to try to see how much time you can add, decide what, like a
+
+01:07:09.712 --> 01:07:37.408
+Whatever RPE feels like. Call a 7 or an 8 or a 9. Like, on a fatigue scale, not on a, you know, 0 to whatever watts scale. And, like, ballpark it to, like, an 8 out of 10. And this is where I would say, this is where you stare at your computer and you've got to focus really hard to keep the power up. Go 5 minutes into that range and then stop intervals and see what time you did. And the next time you go out and do intervals, see if you can improve that by a couple minutes.
+
+01:07:37.408 --> 01:08:05.616
+Before you get to that point. But don't, but the difficult part with this is that you have to be really conscious of your RPE. Because if you are hammering this stuff too hard, and you're like, oh, this feels fine, and it's really not fine. I mean, that's going to suck. Don't do that. So, yeah. So if you're game for that kind of stuff, go try it.
+
+01:08:05.616 --> 01:08:35.024
+and see what you can add. But there's not a right or a wrong answer. And that's honestly as specific as I could possibly get. Sorry. Yeah. I was thinking about like a slide that Tim made about, oh, a progression of adding a little bit of time, you know. Oh, for like sweet spot workouts or something like that? Yeah, yeah, yeah. Yeah. I mean,
+
+01:08:35.024 --> 01:09:01.760
+That's also not a bad way to look at it, because I think within seven or eight workouts, he's got people at an hour of FTP or 90 minutes of SST or something like that, but that's not necessarily a rule. Right. No, no, no. It's just a framework, and it's somewhere to start, and if you think, oh, this isn't enough, you could try more. If you're like, oh, this is too much, slow down. Yeah.
+
+01:09:01.760 --> 01:09:29.040
+Next question, any way to know what your theoretical max FTP could be for a given VO2 max and weight? No. All of it? Yeah, I don't know. Well, that's one of the things that I tell people, especially people who are talented and want to make XYZ improvements. I'll say, okay, we can use this as a guidepost, but I cannot guarantee that we'll get there. A lot of the time we do, but sometimes we don't.
+
+01:09:29.040 --> 01:09:58.896
+and I wish I had an Oracle. If I could predict this kind of thing, I would be a rich man indeed. And I would give away every secret I have for free because I made it. And I would give people rides in my Lamborghini. I'm just kidding, I'm a Ferrari guy. I'm also not a Ferrari guy. Wait, yes, I am. I have a Ferrari collection. What am I talking about? I forgot the April Fool's episode. So, yeah, there's no way to know. You have to...
+
+01:09:58.896 --> 01:10:28.416
+Do the highest quality training you can. And when it stops, who knows? Yeah, you've just got to see what you can get out. Some people respond very quickly in very large amounts to minimal training. And there are also people who kind of... Screw those people. Yeah. There are people who also can just progress slow and steady for years. And I've got...
+
+01:10:28.416 --> 01:10:57.568
+Clients on both sides. And most of them are in the slow and steady for years kind of side of things. So, yeah. Let's see. If FTP is just spicy endurance, what the hell is VO2 Max? I guess it's like a ghost pepper or something. Like a scotch bonnet, I guess. Yeah, but...
+
+01:10:57.568 --> 01:11:25.664
+Actually, here's the thing about, because I said FTP is spicy endurance, and it kind of is, but also it's kind of not, because anybody would tell you that FTP training feels different from endurance training, but they make a lot of the same adaptations, right? So they're similar but different. It's like apples and oranges, like they're fruit. One of them's a little different, but it's still fruit. And it's still got vitamins and fiber and potassium and all that kind of whatever.
+
+01:11:25.664 --> 01:11:53.152
+Yeah, don't read into the metaphors too much, folks. It's not healthy. That's something I would do. Yeah, you gotta know when they start and stop, when they're effective and not effective. Yeah. 30 seconds anaerobic into 1515s, total 4 minutes 30 on. Breathing out my ass, is this training VO2 max? Oh, we actually brought this up earlier about breathing. For intermittent intervals, I tend to find that...
+
+01:11:53.152 --> 01:12:22.672
+Breathing is a less good indicator of being at VO2max. I don't have any evidence for this other than it just seems to be easy to breathe hard doing these efforts while not improving your VO2max. That's it. Yeah, and we talked about this a little bit before in another episode. If you're doing them for anaerobic capacity versus doing them for VO2max,
+
+01:12:22.672 --> 01:12:52.080
+You know, the anaerobic capacity ones, you're definitely breathing super, super duper hard because you're just gassed. Like, totally, your body's like, what are you doing? Like, trying to recover. And even though that feels hard, your breathing is uncontrolled, you know, but it's not necessarily the same. Yeah, and like, here's the thing is, I would, if we're looking at, you know, diastolic filling pressures and volume as a driver of adaptation, and we know that
+
+01:12:52.336 --> 01:13:18.016
+Well-trained athletes don't get to those peak feeling pressures until they're at heart rate max. I would want to see more time at very high heart rates for this kind of work, and that can be very difficult to achieve sometimes. Whereas in steady state intervals, it seems to be much easier to get. So let's see. Next question is, if an athlete has a setback or setbacks, sorry for your...
+
+01:13:18.016 --> 01:13:47.344
+Troubles, friend. Would you revisit an FTP or VO2 block to sharpen or stick to the original plan? Okay, that's a tough one, because other than it depends, all right, sorry, I have to get out of the way, but it's, I would say assess first, because depending on the nature of the setback, like if you got COVID, I am not sending you into a VO2 max block afterwards, no fucking way. If you've got a head cold,
+
+01:13:47.504 --> 01:14:17.200
+Maybe. If you've got a, you know, if you've got a broken collarbone, probably not. Ouch. Yeah. Well, it depends on how, like, depends on how long you were out, too. Because if you were out for, like, three weeks, and you did, like, nothing, chances are you've got a fair bit of detraining, and you're not going to have a very high VU2max to begin with, like, so you're going to have somewhat low detrained plasma volume, especially if you're a little older.
+
+01:14:17.200 --> 01:14:45.024
+People in their 20s seem to just maintain it. Lucky bastards, I was short 20 again. But I would probably not. I would probably do like a week or two of just kind of do like a week of basic base training, quote unquote base training, just easy endurance riding, building volume. Week two might add some tempo and sweet spot kind of work. And then if you're feeling really good at that point and everything's looking normal for you, then assess about
+
+01:14:45.024 --> 01:15:12.288
+Where am I now? And what's my next goal? And fill in between. So there's certainly, like we said before, there's not a wrong way to do it, but there's also wrong ways to do it. What fractional utilization would you suggest for an XCM rider? As high as you can get it, friend. As high as you can get it. For any endurance sport.
+
+01:15:12.288 --> 01:15:36.928
+Insert, yeah. Insert your favorite one, like. Outdoor V2 Max reps are 20 watts higher than indoor. Better adaptations? Not necessarily. I see this sometimes too, but I actually don't find that there's much of a difference if people do the V2 Max indoors or outdoors, even if outdoors has higher power, because usually when you're jittering it.
+
+01:15:36.928 --> 01:16:06.752
+I don't think there's much difference. Yeah, I mean, sometimes
+
+01:16:06.752 --> 01:16:36.720
+I liked doing them indoors just because you could like stop pedaling and not have to worry about steering at the end, you know, at the end of an interval. You can like, sometimes you're like, if you're on a hill or something, right? First of all, if you're on a hill and it's not, it's not over after your interval's over, you're like, well, do I just stop, you know, or something? Or you're like, oh, you have to worry about steering or whatever if you're, you know, in a steep section or something like that. It's just, sometimes it's, sometimes it's nice if it's more controlled.
+
+01:16:36.720 --> 01:17:05.456
+Yeah, yeah, actually, yeah, picking the right terrain if you're outdoors makes a difference, especially if, like, it's really up and down, it's hard to control the cadence, if that's something that you're targeting, yeah, definitely indoors is an easier way to do it. I've got a lot of clients who will, like, be indoors when it's nice out doing V2 Max efforts, and then they'll finish the efforts, then go outside and go, okay, yeah, that's done, it's time to go ride for real.
+
+01:17:05.456 --> 01:17:34.688
+Guess the FTP if a rider did two sets of 10 reps at 3030s at 425 watts. The answer is, you cannot. Yeah. Yeah, if you're really anaerobic, you can have, you know, much lower than if you're, I don't know, Brad Wiggins. Yeah, I would want to say, like, how hard is it? Like, is this a max effort? Is it sub max? What's the heart rate? What's the breathing? Like, what's the RPE? Could you do more of them? Or is this a one-off?
+
+01:17:34.688 --> 01:17:59.696
+Yeah, yeah, there's no way to tell. For ultra-distance racing, how much of my training should focus on racing FTP? I would say you definitely have to, to some degree. Because here's the thing about FTP and ultra-racing, because ultra-racing mostly takes place below, like, LT1, VT1, like that, you know, it mostly takes place at pretty low intensity.
+
+01:17:59.888 --> 01:18:24.464
+And if you want to raise that intensity, you can do it to a certain degree. And the highest I've ever seen it relative to FTP is probably 85%. So if you want to raise that pace even higher, like let's say your FTP is 300 watts and you're like, man, I wish I could just hold 300 watts for 24 hours, but I can't because I can only hold it for 65 minutes or something like that. Yeah, you've got to raise your FTP.
+
+01:18:24.464 --> 01:18:53.600
+With the ultra racers that we train, because I don't have any ultra racers on my roster anymore, but our coaches sure do. And one of the things that they say is that this is something that they like to have for the off-season, because in-season, especially if you're racing a lot, some ultra racers do race a whole lot, there's no way that you can actually train in-season to raise your FTP. Like, it's just not going to happen. So it's an out-of-season thing, and so that's when you would want to focus on raising that.
+
+01:18:53.600 --> 01:19:21.392
+after you've recovered from your season, and then kind of, you know, getting into your ultra-specific stuff. So that's probably a, probably not a bad way to do it. Let's see. Physiologically, why can't you keep repeating Vieta Max blocks more than four or five weeks?
+
+01:19:22.544 --> 01:19:47.504
+I usually don't want somebody to go past like three. I mean, you can. It's just that you'd be so tired that like you're just not doing good work. Like if you're not recovering from your last week, last workout, whatever, in time before your next one to do them quality, then your next one is just effectively junk volume, right? Like you're just...
+
+01:19:47.888 --> 01:20:12.848
+Yeah, it's not even- Making yourself tired and like- I would say not even junk volume, it's like junk intensity. Yeah. Because you are, if you do it hard enough, and here's the thing, is like, if you are seeing performance improvements as you go, and you want to keep going, and you feel like you've got the capacity for it, and you've got plenty of runway to recover, go ahead. I'm not going to tell you not to, but when people are giving me money to train them-
+
+01:20:12.848 --> 01:20:40.288
+I always like to go a little bit conservative. Like I think maybe we can get another couple percent out, but the risk and the reward, the ratio is not right. The risks are too high. The rewards are too low. This has been a very successful block so far. It's time to pull the ripcord. We don't have to squeeze out every last little bit. Yeah, because if you overshoot and then you're overtrained and then you spend a month riding at zone one.
+
+01:20:40.288 --> 01:21:09.840
+Like, because you can't do anything. Like, what did that get you, right? Or zone zero on the couch. Yes. You tried, you like, overshot, you tried too much, and so now, instead of being like, that extra, whatever, you eke out an extra 1% or something by making your block longer than it has to be, now you've traded that for a bunch of downtime. Yeah. You know? Like, if you want to maximize the amount of time that you're, you want to maximize the amount of time that you can do quality work.
+
+01:21:09.840 --> 01:21:39.792
+Yeah. And so that risk there, yeah. Well, that's one of the things that I noticed about that. Did you see that Twitter thread with Mateo Jorgensen? No. He was talking about basically how he had, you know, been training hard and recovering and invested in himself and he's having a good spring, et cetera, et cetera. And that's all well and good. But the part that caught me, caught my eye, and I discussed this with some friends, is he said that, like,
+
+01:21:39.792 --> 01:22:08.944
+Was it last year or the year before? Like some spring he had buried himself so hard he didn't really recover until like December. He was like, you know, you can bury yourself as hard as you want, I think was the implication, as long as you fully recover from it. And my thought is that if it really takes you like six months to recover, you might have gone too hard. You might have gone a little deep. Because I have not really pushed anybody that hard where it takes six months to recover to see any benefits. It's like,
+
+01:22:10.128 --> 01:22:38.736
+I mean, yeah. It's next year, basically, right? You missed all the racing. Yeah, I don't think I've ever had anybody take more than, like, if they get really, really tired, you know, because they're either riding too much or, like, riding too hard for their endurance pace or, like, doing too many group rides on top of whatever, even under my protest, I've never seen anybody take more than, like, four to six weeks to really fully come back out of it. Six months sounds like a lot, but...
+
+01:22:38.864 --> 01:23:06.192
+Maybe that's just me. Maybe I'm missing something, but it doesn't seem necessary. But the lesson is that no matter how hard you have gone, you should fully recover before the next training phase. I think that part is well taken, for sure. So yeah, even if it does take you six months, maybe you think, maybe I'm not going to do six months worth of damage again, but maybe I'll take it, you know, now I know the limit of what I could have done some quality training or racing in between there instead.
+
+01:23:07.728 --> 01:23:35.344
+What's the best way for us normal folks to get our FTP result? I think he means improve FTP. I think Tim and I had talked about this, where a lot of people are actually volume limited on this stuff. My clients who are writing a lot, typically we are seeing improvements year to year. For a lot of people who don't...
+
+01:23:35.344 --> 01:23:59.168
+get much more than 10, 12, 15 hours a week. Improvements are slow if they're happening at all. And when they are happening, I'm very, very happy. But also a lot of the time, if you are kind of low volume and it's hard to move your FTP, try different training focus, try a little more overload with, of course, a little extra recovery on the other side of it. But at the same time...
+
+01:23:59.168 --> 01:24:26.976
+Sometimes you need to change your strategy around your season. Instead of trying to add more FTP, think, what other stuff can I do that's going to give me better results without raising my FTP? If it's like improving your sprint or improving your pack handling skills, like maybe do less training and go race more, improve your race craft. Maybe you work on your repeated efforts instead. Like maybe you work on, oh, I have a hard time with high cadence. Work on that.
+
+01:24:26.976 --> 01:24:51.792
+Work on low cadence if you have a hard time with longer, steep stuff. There's no wrong way to go about chasing improvements because when you tie everything to FTP, like, yeah, sure, we put a lot of emphasis on it, but if you are just an FTP rider and you can't do anything else, then there's only so far that you're going to get. And then instead of...
+
+01:24:51.920 --> 01:25:18.064
+you know those aerobic improvements being low-hanging fruit a lot of other stuff around it becomes low-hanging fruit instead and that's the kind of stuff you need to start chasing and maybe instead you need to freshen up be fresh more in a season like you know get ready to race and then go have a lot of good races I wrote an article about this like years ago about what happens kind of when we think that we've hit the limit with somebody and my answer was you know
+
+01:25:18.064 --> 01:25:47.472
+Go get better results. Go, instead of peaking a couple times through a season, like, be at 95% through the whole season, and go try to get more good results. That was my solution. So, anyway. Does that make sense? Did I just ramble too long? No, I think that makes sense. You know, you have to be realistic, and yeah. As we said before, like, volume is the key driver in aerobic and endurance adaptation. So, yeah.
+
+01:25:47.472 --> 01:26:08.960
+Like we said, it's like a lot of things in life. I mean, you have a lot of things to do. It's not that you couldn't get there. It's that you also just have a finite total amount of time. There are 24 hours in every day. And, you know, unless you're getting paid to do this and this is all you do, there are other things, you know, that are just going to take up your time and that's fine. Yeah. All right. So...
+
+01:26:08.960 --> 01:26:37.280
+Alright, thanks everybody for listening, thank you for all of the questions asked on my Instagram at empiricalcycling up in the stories, and I'm looking forward to getting into the weekend AMAs when we are done recording this podcast, so thank you all for all of those submissions, and thank you all for the donations at empiricalcycling.com slash donate, that really does keep the lights on, we've got a lot of hosting fees, and yada yada, so, and as soon as Kyle starts charging me a lot of money for each appearance, that'll help that.
+
+01:26:37.280 --> 01:27:06.256
+And we've got show notes up on the website. I'll probably link to a couple of the podcast episodes, the show notes up there that we talked about. If you have any coaching inquiries, empiricalcyclingatgmail.com. We are taking on all clients, students and professional athletes. We know you guys don't make a lot of money, so we are willing to negotiate our coaching rates for students and professional athletes. So if you're curious about that, please reach out. And otherwise, yeah, if you're just looking to hire a coach, also reach out. So we have just added a new coach.
+
+01:27:06.256 --> 01:27:21.968
+and I think she's going to be great. So if you want to get in on the ground floor with somebody at a reasonable rate, now's a good time to do it. So anyway, I think that's about it. So yeah, we'll see you all next time. Bye.
+

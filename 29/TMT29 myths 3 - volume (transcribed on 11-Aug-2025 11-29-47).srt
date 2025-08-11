@@ -1,0 +1,892 @@
+1
+00:00:00,752 --> 00:00:12,544
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore, joined as always by my co-host, Kyle Helson. Thank you, everybody, for listening as always. And if you're new here, please consider subscribing if you like the podcast. And if you're not new here...
+
+2
+00:00:12,544 --> 00:00:36,432
+Give us a nice iTunes rating and especially share the podcast with anybody who you think would benefit from what we're saying here. We're also ad-free, so if you would like to donate to the show, please send us a donation. Go to empiricalcycling.com slash donate. And we've also got the show notes up on the website. We probably won't have any today other than, you know, kind of listing the questions that we're addressing for the myths episode today.
+
+3
+00:00:36,432 --> 00:01:03,616
+And if you have any coaching or consultation inquiries, please shoot me an email, empiricalcyclingatgmail.com. We are always taking on athletes. We are negotiable rates for students and professional cyclists, of course. And if you'd like to hire us for a consult, our time is your time. We will answer any of your questions. We will go over your files. We can look at races. We can discuss, well, pretty much anything you want. Our time is your time. So empiricalcyclingatgmail.com to inquire about that.
+
+4
+00:01:03,616 --> 00:01:32,448
+And also up on the Instagram, Empirical Cycling, of course. We've got some questions happening up on the weekends, a weekend Q&A that I do every weekend. And also that's where we post four listener questions for these podcasts. And there's one that I just put up right before we started recording. And we're going to answer some of those questions on the back end of this podcast. So again, thanks everybody for listening. Give me a follow over there on Instagram. And it's been a little while since we've done a podcast.
+
+5
+00:01:32,448 --> 00:01:53,312
+I wanted to do more, but I've been a little busy. Pro Road Nats was a couple weeks ago. That was a very busy week, and I was catching up on regular work stuff after that. But we notched a couple really good top tens in the men's and women's races. So, yeah, good job to all of our empirical cycling athletes. And also, we have a couple...
+
+6
+00:01:53,312 --> 00:02:22,848
+I never plug this stuff, but I want to, because we have had a couple people selected for the national team and for Worlds, which will be announced. So we've got some folks. Yeah, I'm really excited about that. We've got some people going to Worlds again, but, you know, I'm excited. So yeah, good stuff has been happening. So thanks everybody for listening and your patience, especially while we've been taking care of that.
+
+7
+00:02:22,848 --> 00:02:52,064
+Today I wanted to get back into the podcast groove a bit. It's been three, four weeks, something like that, when this comes out. So I wanted to do a fun one, because the last one was a Wattstock, the one before that was another fun one on FTP and VO2 Max training. And I get a lot of questions in consultations, especially about training volume, because I do get a lot of people who have time to ride, but aren't sure if they should.
+
+8
+00:02:52,064 --> 00:03:17,888
+And this is going to lead us to our first myth. Because all the myths, of course, they have two parts. Like, you know, there's the dumb part of the myth. It's like, wow, I can't believe you would believe that. But also there's the grains of truth. And we need to address those as well. So why don't we start with our first thing. The myth is that you can overtrain on volume, but not intensity.
+
+9
+00:03:17,888 --> 00:03:46,224
+So, Kyle, give me some thoughts on volume versus intensity and overtraining. You can overtrain on volume but not intensity? I mean, we joke about it all the time, but I think about the Andy Coggin daily VO2 workouts for two months or whatever that was, like he had his wife doing for the pursuit.
+
+10
+00:03:46,224 --> 00:04:14,032
+That sounds like a good way you could start overtraining on intensity. That was just him doing it. He said he wanted a VO2 max of 60 at the age of 60. Oh, okay. Yeah, yeah, yeah. And I think that was in the interview podcast that I did with him. And I think he said that it didn't seem to be any different than doing any other training for him. Well, well, you know, okay. But I think the thought of doing that or, you know,
+
+11
+00:04:14,032 --> 00:04:38,032
+like VO2 workouts every day or let's say like anaerobic capacity workouts every day or something like that like woof like you might be rolling around thinking like oh there's these workouts are only an hour and a half or so every day but then I just I just think that probably most people have not put themselves into that situation so that maybe they don't realize how easy it is to
+
+12
+00:04:38,160 --> 00:05:05,584
+really overdo the intensity if you decided just one day that you're going to do intensity every day for a month or something. Whereas probably because there's slightly less, I don't know, maybe because you're not going to typically do those workouts with friends a lot of times, but to overtrain on volume, you could just be doing a crap ton of volume because you'd never say no to a long ride.
+
+13
+00:05:05,584 --> 00:05:34,096
+with your friends and then all of a sudden you're shattered because you did 30 hours in a week when the week before you did 10 and you were not prepared for it and then you like blow up and die or something. Yeah, I think it just the mental fatigue also that you would accumulate from having to do say three weeks straight of, you know, hard or high intensity stuff every day that that would probably be something would probably creep in maybe maybe a little bit faster.
+
+14
+00:05:34,096 --> 00:05:59,136
+Then people realize that like that mental, the mental fortitude required to like slam a hard workout like that is pretty substantial. No, that's true. I mean, and that's, and that's something that I see whenever I give people via Tim Axe Blocks is, you know, I have to prepare them, you know, in a lot of ways. Like I have to prepare them for the mentality of it, for the physicality of it, for the nutrition aspect of it.
+
+15
+00:05:59,136 --> 00:06:20,896
+for all sorts of expectations, and helping them adjust the intensity day-to-day as they go, especially if they're doing doubles. And it's one of those things where it definitely has a purpose, and there's a definite function to it, and there's also recovery that comes on the other side of it. But the volume during that kind of thing...
+
+16
+00:06:20,896 --> 00:06:34,464
+I usually try to keep it pretty high also. And so it's like, oh, like, look, volume and intensity. Oh, no, like, recipe for overtraining? It actually potentially is. And that's one of the reasons that I do only individual one-on-one training. It's like...
+
+17
+00:06:34,464 --> 00:07:00,912
+so I can help manage that day-to-day. I don't want to give somebody something that's way too much for them and then pop back into TrainingPeaks a month later and go, oh, you're totally fucked up? Oh, so sorry. Who could have seen that coming? Yeah, no. I mean, that's just my training philosophy. I don't know if I've ever mentioned this on a podcast before, but I don't think people should have to pay a boatload extra.
+
+18
+00:07:00,912 --> 00:07:29,312
+because most people can't for like really good quality coaching. And that's just part of my life philosophy, I guess. I don't think you need to be rich to like, you know, hire a good coach. We try to keep our prices, you know, affordable for what we're doing. But anyway, so that's one of the things that I think, you know, has a purpose and a function and, you know, like
+
+19
+00:07:29,312 --> 00:07:59,280
+us empirical cycling coaches, we know we've got our own little proprietary methods to see if that kind of stuff is working or not. And so when we do it, there's always like, you know, is this working? Is this doing its function, you know, for the high intensity stuff? But when it comes to the high volume stuff, a lot of people are like, when we get them doing high volume, if they've got the time for it, the first thing that I see is sometimes people just keep riding too hard.
+
+20
+00:07:59,376 --> 00:08:21,936
+And I think that's the biggest problem with people trying to do high volume who overtrain on it, is they're riding way too hard. Like one of my new clients just did a week high volume camp, and at the end of it, he was like, wow, I'm not sore, I'm not wrecked. And because I was like, yeah, just keep, go easy, go easy, go easy.
+
+21
+00:08:21,936 --> 00:08:49,376
+like suspiciously easy. And he was like, oh my God, this was like the easiest, best like 20-hour week I've ever done. It's like, yeah, of course, you weren't riding too hard finally. And you were, you know, eating enough and, you know, the recovery was all in order and everything was great. So, so yeah, I think the intensity is a huge part of it. Like if you're just arbitrarily doing 70% of FTP for your endurance rides, like you're having a hard time doing more than 15 hours a week or
+
+22
+00:08:49,376 --> 00:09:19,024
+I've seen this happen too, where somebody will go get a lactate test, and wherever two millimoles is, they'll get that assigned as their LT1, and then they'll go have to ride at that intensity. Indefinitely, yeah. Yeah, and that's when people go, oh, I can't do more than about 15 hours a week, and it's like, yeah, because every endurance ride is fucking tempo. Like, it's too hard. I laugh, but it's difficult.
+
+23
+00:09:19,024 --> 00:09:48,944
+And I would feel bad if someone spent the money on this test that they think is going to be enlightening and helpful, and in fact, that ends up just ruining them for a few months. I know. Oh, man. And I feel bad for those folks, because I've consulted with quite a few. I've coached quite a few who have done these tests and said, okay, I need to ride Dura's pace at this power. And I tell them, no, you don't. They keep doing it anyway.
+
+24
+00:09:48,944 --> 00:10:18,144
+for a while, then they hopefully learn. I mean, that's part of my job, is to get people to write easier. So, yeah, and I've also had really fascinating conversations with both athletes and coaches alike, who say things like, oh, so-and-so's not going very well right now, but I don't understand, they can't be over-trained, the volume's not that high. And if you look at the training, it is fucking hard, like,
+
+25
+00:10:18,144 --> 00:10:46,768
+3, 4, 5 days a week, and then the easy riding is still hard. It's like, oh, yeah, yeah, are they really? Yeah, is that it? Just the volume is low, so they're fine? Is that it? Junk intensity the whole time? Oh, man. Yeah, I also, I feel like a lot of people are also terrified to back off the training because, I mean, this is getting into some other stuff, but...
+
+26
+00:10:46,928 --> 00:11:16,448
+A lot of the time when things are not going well, a lot of people's instinct is I need more training. And my instinct is, well, initially, early on in coaching, that was my instinct. But nowadays, I know way better. And the solution is always, or almost always, more rest. So, yeah, sorry, gotta get the R word in there too at some point. So, yeah, more rest. Sorry, folks. Drink, drink.
+
+27
+00:11:16,448 --> 00:11:37,536
+Alright, so that's volume versus intensity. Because, I mean, you can overtrain on anything if you really want to. And I would actually say another issue with overtraining on volume, I actually have this under another Potential Myths episode about carbs and fats.
+
+28
+00:11:37,536 --> 00:12:07,152
+And the myth is that you only need to replace the carbs burned on your ride. So if you are doing a low-intensity ride for like five, six hours, and let's say you burn like 3,000 kilojoules, and you expect probably mostly fat, but not all, of course, let's say like 2,000 to 2,500 kilojoules of that, you expect to be burned as fat. And so therefore, you're like, man, I only need to replace 500 kilojoules worth of carbs.
+
+29
+00:12:07,152 --> 00:12:32,288
+Yeah, that sounds like a terrible idea. Is a terrible idea. Yes, you are so correct. And I think that is part of what's happening with people. Or they go, wow, I only need to eat 500 kilojoules of carbs on this ride, and I'll like be even Steven. And it's like, no, your body, like we've said on the podcast a thousand times, is a good energy accountant.
+
+30
+00:12:32,288 --> 00:12:54,128
+and all those empty fat cells are going, hell no, we want food. I think the other problem is that that's the equivalent of saying like, oh, today was a rest day. I don't need to eat anything. Yeah, while you're starving because a lot of people get very hungry on their rest days. Like you're...
+
+31
+00:12:54,416 --> 00:13:12,976
+Your natural state of being, you're going to burn mostly fat at low intensities, right? You're sitting there at the couch, you know, scrolling Instagram, you're burning mostly fat, you know, at some baseline level, you know. So, if you think that because you just burned all, whatever percentage in fat, that you don't have to replace that.
+
+32
+00:13:13,072 --> 00:13:38,368
+is a severe calorie restriction. Are you preparing for Mr. Olympia? Is that what this is? You want to look shredded with glute striations or something? Can you imagine a slim, shredded cyclist getting up on the stage at Mr. Olympia? And also, that's another thing, is that a lot of people...
+
+33
+00:13:38,368 --> 00:14:03,872
+You know, especially when they're sedentary, expect to be burning a lot of fat or whatever, but it also kind of depends on like your diet and a lot of other stuff, like stress levels can affect it too, like caffeine, like when you're burning carbs and fat, it's not nearly ever as simple as like, oh, like the VLA Max model says I'm burning this many carbs and fats or whatever, or
+
+34
+00:14:03,872 --> 00:14:33,504
+Some other thing, I expect I'll be burning this many carbs and fats. It's highly variable. And so you cannot really plan on that. You've really got to look at it in terms of total energy. And we've kind of discussed this in the podcast a little bit before with Namrita, where you really need to be considering all of your macros and your holistic view of nutrition rather than just thinking, what did I do on the bike? And I'm okay.
+
+35
+00:14:33,504 --> 00:15:02,000
+Kyle and I, we just heard about some folks in the Pro Peloton who, and there's definitely a couple of them I've heard about, where they'll eat the same amount of nutrition every single day regardless of the volume or the intensity of the ride. So that kind of thing also becomes highly unsustainable too. If you've got a habit like that, you cannot ride that much. It becomes self-limiting.
+
+36
+00:15:02,064 --> 00:15:31,520
+Yeah. Yeah. And, okay, so let's get to myth number two, which is that women cannot do as much volume as men. So, Kyle, why don't you start? I mean, like... I know, where to start. Yeah, if you're under the supposition that that volume has to be at the exact same absolute...
+
+37
+00:15:31,520 --> 00:15:56,208
+You know, speed or power figures, then like, yeah, maybe, but I think the, well, obviously, anecdotes are not proof, but like the existence of Anamiek Van Vluten riding like 35 hours in the off-season or whatever, it's like pretty strong proof of that, not to mention just, I mean,
+
+38
+00:15:56,336 --> 00:16:21,904
+In the days of Strava, Strava is up there, right? And you can pull up, like, you know, oh, I can go up and look at what, like, Kristen Faulkner was doing, you know, prior to this race season, because she posts most of her rides on Strava, and you're just like, oh, look at how many, you know, nearly 500-mile weeks that she would log. Yeah, yeah, many.
+
+39
+00:16:21,904 --> 00:16:49,856
+And I think also that when we look at other sports, for instance, like an ultra running, like Courtney DeWalter, is absolutely phenomenal. She has won races against men by beating them in multi-day running events by the length of a marathon. Yeah, yeah, yeah, totally.
+
+40
+00:16:49,856 --> 00:17:13,520
+Like, just that alone. It's like, the volume. Oh, no. Like, oh, no, the volume. Oh, her ovaries are falling out. Oh, no. Like, she is a fucking badass. And, like, it's so strange to me when, like, you know, the inequality of events, like women's races are shorter. And, like, yes, shorter races are more exciting and blah, blah, blah. But, like.
+
+41
+00:17:13,520 --> 00:17:40,848
+Just in terms of physiological capacity, I have never coached a woman who couldn't do as much volume or more as the men that I coach. And frequently, they do more, a lot more. Not to generalize too much, but like the pro men that I coach oftentimes are way less consistent than the women. Not always, but just as a general.
+
+42
+00:17:40,848 --> 00:18:10,032
+thing, because also it seems like, you know, I think there's maybe a bit of a Type A thing happening, but also, I mean, we also need to address this too, you know, is that especially for the pro women, a lot of them are working a second job. Like, there wasn't a UCI, like, minimum salary for the pro women until very recently. And so historically, like, they haven't been able to train.
+
+43
+00:18:10,032 --> 00:18:39,360
+High Volume. And so like, if the pro women, if the women at the best, who are the best in the world, like aren't training much more than like 15, 17 hours a week, because they've got jobs, it's like, you look at that and you go, oh, maybe women can't do that much. It's like, no, they've got to go to work. Also, for a lot of people, if they're doing the shorter raises for the women, like more volume is always
+
+44
+00:18:39,360 --> 00:19:04,336
+Tends to be good, but it is somewhat less important if every stage is not 200 kilometers. So there's some of that too, where you're going to train for the events that you do, and if you're doing 70-minute crits, 60-minute crits all the time, volume is good, but it just won't necessarily look the same as someone who has to do 250 kilometers.
+
+45
+00:19:04,816 --> 00:19:33,968
+Single Day Races. I would say for the race specificity, yeah, that's absolutely true. But when it comes to training somebody's physiological capacity, I would say that's not true. Even if you're racing hour crits or if you're doing a five-day stage race where your longest day is like four hours versus a 21-day stage race where your average day is like five,
+
+46
+00:19:33,968 --> 00:19:52,032
+I still want you to train a lot of volume, because I want you to reach your peak capability. Yeah, and then obviously, having lots of volume and that physiology will let you do things like...
+
+47
+00:19:52,032 --> 00:20:21,472
+Van Vluten manages to do where she'll solo attack the rest of the field and go it alone and still somehow win. How is this possible? I read an article from a pro woman a couple years ago where they called Annemiek the alien, where she would attack and go off the front, and they were like, the alien's gone, now it's time to have a real bike race. Oh, man. So, yeah, I think
+
+48
+00:20:21,472 --> 00:20:51,216
+Yeah, the idea that women can't do as much volume as men, I think, is just absolute horseshit. Because the physiological capacity, I think, is the same. Like, it doesn't seem like gender really cares. There's not a huge difference between men and women there. And in my experience, there's none, actually. And yeah, and the inequality between men's and women's sports, I think, has an effect here, too, for sure.
+
+49
+00:20:51,216 --> 00:21:20,720
+Yeah. I think, too, for a lot of it, if you look at, like, timed events, running, swimming, racing, like, the longer the event is, the closer and closer the men's and women's times are, right? Yeah. So, cycling is very aerobic, you know, like, what are the, you know, you look at some of these insane gravel races, 200-mile gravel races, right? Like, the winning times aren't that far apart, at least compared to, like, what they would be for a, you know, I don't know.
+
+50
+00:21:20,720 --> 00:21:49,152
+of Flying 200. Yeah, I mean, even something like the marathon, the times aren't that far apart for the winning men and the winning women. It's like, like, they're closer together than, like, than, like, a three-hour marathoner and me. Yes. Like, a lot closer together. I mean, and also, I think it's interesting, like, track and field has had, like, distance parity for, like,
+
+51
+00:21:49,152 --> 00:22:17,488
+I, well, pretty much since women have been allowed to, like, run marathons, which was more recent than most people think. But, yeah, it's like, it's not like, like, the women's, like, you know, 100 meters is only, like, 80 meters, you know? Like, the men's 4K pursuit and the women's 3K pursuit up until this year, now it's finally 4K. Like, does that mean, wait, does that mean Chloe's record is going to stand forever for the 3K?
+
+52
+00:22:18,032 --> 00:22:46,576
+Probably, I mean, I assume that she has a good chance at breaking it this August, and then, yeah, it'll be broken forever. It'll be set forever, probably, because I doubt she'll, I kind of doubt she'll go to track worlds in 2024 because of the Olympics, and then in 2025 it changes, so. Yeah, I guess we'll see how many Olympic medals she wants to go try to win.
+
+53
+00:22:46,640 --> 00:23:16,496
+Okay, so that actually gets us a little bit into our other myths. Like a couple of these other ones spin off from there. So the first one is that you can replace high volume with high intensity. So like this is kind of a myth, but it's kind of true, but it's 90% myth and like 10% true. And we kind of touched on this for our Time Crunched episode like about a year ago or something like that, right? Yes.
+
+54
+00:23:16,624 --> 00:23:45,840
+Yeah, what was our conclusion there? Maybe you remember it better than I do. It works up to a point for sort of your sub-threshold things, but definitely doesn't work at or above threshold. Like if your time crunch, 2x20 at 100% FTP cannot become 2x15 at 110%, and somehow that's like the same. Wow, 100, 2x...
+
+55
+00:23:45,840 --> 00:24:07,728
+At 110%, wow! No, and that's the problem, right, is that it just doesn't work. You definitely can't do it, and it definitely doesn't, like, it just gets you extra tired for not much more, no more aerobic gains. And then if you are time crunched on the longer volume end, you know, doing instead of, like,
+
+56
+00:24:07,728 --> 00:24:36,432
+Four hours, like lower zone two, if you only had a couple hours, you know, you can do it slightly higher, like that's, it's still good, it's not like you're getting nothing, it's not a perfect replacement, but it's a slightly better replacement. Yeah, and I mean, I think in that episode also, I, recalling it now, I think that one of the theses was that TSS makes a false equivalence, where like you can get TSS, like because TSS like comes from normalized power, so you can
+
+57
+00:24:36,432 --> 00:24:59,728
+I mean, and if you want to talk normalized power, like, I mean, holy shit, like, like people like you and me, we can bust the hell out of a normalized power ride. Like, if I go out and do like 30 second intervals, and I just do like one every 30, 40, 50 minutes, my threshold at the moment is like 200 watts. My normalized power for that ride is like 400 watts.
+
+58
+00:24:59,728 --> 00:25:25,744
+Yeah. Because I'm doing like, you know, 1,100, 1,200 watts for 30 seconds, and like that normalizes out to like very high indeed. So it's not real. It's like, it's a rule of thumb. It's an approximation. Your body gives no shits about what TSS. At all. I know that's not news to most people. If it is news to you,
+
+59
+00:25:25,744 --> 00:25:54,256
+Welcome to the club. Nice to have you here. We're not calling you stupid. But this is one of those things that a lot of people believe until they realize that there are big shortcomings to tools like this. And I used to be one of them, so I can say that. And one of the other things here, actually, I've got two other things here. One is, oh, God, which one do we want to address first? Let's address noob gains. Noob gains happen.
+
+60
+00:25:54,256 --> 00:26:23,712
+When you just pick up the sport, or when you just get on the bike after an off-season, something like that. And most people who are not super highly trained for like years and years and years and years will get noob gains. People who are super well trained, you know, the watts they can do might fall off by like, you know, one or two percent, but they're pretty much the same all year round. And the big difference is the endurance. But for most people, that doesn't happen.
+
+61
+00:26:23,712 --> 00:26:52,416
+And so you gain a lot of fitness pretty much no matter what you do when you get off the couch or the first time you pick up a bike. And it can happen for months. And so you can go, wow, I've gained the same amount of fitness doing shorter high-intensity rides as opposed to doing longer low-intensity rides. And there's a large degree of truth to that. But as soon as you get past those noob gains, as soon as that happens,
+
+62
+00:26:52,416 --> 00:27:17,728
+You would now have a very different task on your hands. And the task is, what aspect of physiology are you going to go try to improve on your ride? And are you actually improving it? So like, are you going to try to increase your TTE at FTP? Wow. Or are you going to go try to increase your VO2 max? Or are you going to go do...
+
+63
+00:27:17,728 --> 00:27:47,520
+Like a long endurance ride, are you going to go get better at repeated efforts or sprints or like, what are you trying to improve? Because early on, everything works. But later on, you've got to really target that. So I think that that contributes to the volume and intensity equivalence myth, but it's also part of the grain of truth, right? Yeah, definitely. And I think too, when you get into noob gains, it's like,
+
+64
+00:27:47,520 --> 00:28:15,824
+You kind of have to wait until the new games are over to get a better insight on maybe like what you are naturally like better at. You may have some idea of what you're naturally better at and what you may need to work on from other previous sporting experiences. But if you're more brand new to sport and everything just gets better and you're like, oh, I have no idea what I could be good at. Like, yeah. And you're going to kind of have to wait to see because right now anything you do is going to be.
+
+65
+00:28:15,824 --> 00:28:42,224
+gonna look awesome, so. Yeah. Which is fun, though. I mean, it's really cool to see week-to-week improvements, day-to-day improvements sometimes that fast, but yeah, just hold off on, if you are getting sick noob gains, you need to hold off on calling yourself some sort of specialist in something for a while. Yeah. So that brings us to the last part of the volume and intensity equivalence, which is the scientific literature.
+
+66
+00:28:45,008 --> 00:29:08,848
+So when we look at scientific literature on like high intensity versus middle intensity, which is like threshold type training versus low intensity, a lot of the time, you know, the test groups are, you know, moderately active, college, whoever. But even when we get into trained cyclists, and actually the definition of trained cyclists is weird too, because we're looking at people like...
+
+67
+00:29:09,488 --> 00:29:38,800
+You know, it's a lot of time, it's like, it's got to be a VO2 max of like 60 or 65 or 70, or like, they've got to be a pro cyclist, but only coming in from the offseason. They can't be midseason or trained or whatever, like, all these variables are going to affect the outcome of these things. And typically, the test groups are in a state of like, ready for noob gains.
+
+68
+00:29:38,832 --> 00:30:08,496
+You also do things, or even if you do things with people who aren't ready for noob gains, a lot of the time, the training studies don't really show the way that people would actually train, or not the way I would train them anyway, which always makes me raise an eyebrow, because it's like, this person's going to do five by five minutes, like all out, and this other person's going to do two hours at 50% of VO2 max. And that's...
+
+69
+00:30:08,496 --> 00:30:37,264
+And, oh, look, we see this person A has increased their VO2 max by more than person B, or group A, group B. And therefore, HIT is more effective at raising VO2 max. It's like, but, you see where I'm going with this, Kyle, right? Yeah, yeah, yeah. Like, it, you know,
+
+70
+00:30:37,456 --> 00:31:06,768
+Studying human subjects is always hard like this. Like we said, a lot of times you get small, small N, not a good, maybe not exactly comparable groups and training plans and things like that. And so you just got to be careful, like really careful with interpreting these things. And some of this goes into maybe the disconnect between what type of
+
+71
+00:31:06,768 --> 00:31:36,576
+plans a coach would put together versus the type of plans that a physiologist trying to study and publish a paper might put together as well. And just, you know, I don't know. I think that's why it can be difficult. It can be tempting, but also difficult to map a study and study conclusions directly onto your next training plan, even though as fun as that is, you know, to try to be on the cutting edge of things. Yeah. Yeah.
+
+72
+00:31:36,576 --> 00:32:05,728
+And this may or may not contribute to our next myth, which is that just spinning around easy is junk miles. Depends on your definition of junk, right? What does junk mean? Right. And I don't, because I think if you're just spinning easy, no miles are junk miles. That's my professional opinion, and that is the opinion that I actually have.
+
+73
+00:32:05,728 --> 00:32:31,984
+You know, I make coaching decisions based on this opinion, too. This isn't not like, oh, I just have this opinion, and it just sits there on the shelf, like under a glass jar, and it just doesn't do anything. Like, no, this opinion is very active. Like, people ask me all the time, like, should I commute by bike, or should I drive in? And I always just tell them, if you're really tired, just drive. But if you ride, just keep it easy. Like, keep at walking pace.
+
+74
+00:32:31,984 --> 00:33:01,216
+And here's another one that is a great cue for commuting intensity. Try not to sweat. Yeah. That is a great cue. And also, it's easier to get places without being drenched in sweat, unless it's like, you know, summertime, hot, humid, in which case it's unavoidable. In which case, you may not even want to be outside on your bike at all. It's like, I'll save it for later with my training ride.
+
+75
+00:33:01,216 --> 00:33:26,656
+Yeah. E-bikes. E-bikes for commuting, that's where they come in. Yes, absolutely. Yeah. Yeah, you can get an e-bike that goes way too fast for not a ton of money. Like, you could basically get a – well, depending on the quality of e-bike you want. You're not going to get a, like, specialized carbon e-bike for, like, one or two grand, but still. E-bikes are great. Public transportation is great, but –
+
+76
+00:33:26,656 --> 00:33:51,408
+Yeah, just spinning around being junk miles. It's like, oh, this person did six hours barely spinning at like, you know, 50% FTP. Oh, no, it's junk miles. It's not junk miles. Like, it doesn't seem to matter. And we kind of talked about this in the last Wattstock in terms of calcium signaling. But that's only one.
+
+77
+00:33:51,408 --> 00:34:20,400
+aspect of a very, very large system. Because, you know, and that's just a peripheral aspect, like just in the legs and the muscles. Like there's also central aspects of like cardiovascular, like plasma volume, capillary density, heart stroke volume, like all this stuff also has an effect and that is positively benefited by doing a lot of low intensity riding. So what Junk Miles... Oh, sorry, go ahead.
+
+78
+00:34:20,400 --> 00:34:47,216
+And I think the other thing about that, too, with, like, the low-intensity, like, squeezing in more low-intensity riding here and there, that is a pretty good way, you know, it's not a hack, because it's not a hack, it's not a thing, but it's, like, almost as close to a hack about volume as you can get, where, like, oh, yeah, if you tack on 10 minutes extra here, you know, 30 minutes extra there, like, squeeze in a little bit, a little bit more,
+
+79
+00:34:47,760 --> 00:35:16,000
+You know, a spin to the grocery store or something where it's easy, like you said, that can be a good way to like squeeze in extra contractions, leg contractions that are going to be good for you, but that aren't, oh, I got to get fully kitted up and go out for this three-hour endurance ride. Yeah. Actually, you know, what's funny is one of my friends had said that, you know, he couldn't get more time on the bike at this point, but he could do more hiking.
+
+80
+00:35:16,000 --> 00:35:44,976
+and he's been doing a lot of hiking and he said it's had a huge positive impact on his on-bike fitness. And, you know, you think, oh, it's kind of different muscle groups, you're standing, you're walking, like, but no, like, this kind of goes probably more towards, like, central adaptations of endurance training and there's a lot of crossover for central adaptations. You know, it's why, like, you know, it's why if your VO2 max in cross-country skiing is 90, you don't get on the bike with a VO2 max of, like, 40.
+
+81
+00:35:45,840 --> 00:36:11,072
+It'd be so depressing if it was. Or, I mean, think of all the other more niche sports, but a huge component of the off-season training for the U.S. short and long track speed skating teams is a ton of time on the bike. Because, yeah, it's a good, low-impact, general fitness.
+
+82
+00:36:11,072 --> 00:36:40,864
+Activity, and also they're in Utah, so, you know, the riding is good, but. Yeah, and also, you know, the position you adopt as a speed skater is similar to that on the bike, actually. Like, you're all crunched up, and you got, like, narrow hip and knee angles and all that. But anyway, so, the last thought here on just spinning around being junk miles, you know what's actually junk miles? Going, like, kind of hard all the time. Like, sprinting from a stoplight during your commute. Like, that's a junk mile.
+
+83
+00:36:40,864 --> 00:37:07,088
+Because you've now made yourself tired, but you haven't really stressed anything to the degree where it's going to adapt. Like, okay, you might get better at like sprinting out of stoplights or something, but that's not exactly a race-specific adaptation. And if you're like trying to do it, you know, like you're, you know, like you're doing like track standing starts or something like that.
+
+84
+00:37:07,088 --> 00:37:35,920
+I think that's also dumb. Because first of all, you're not on your track bike, and you're not on a track. And also, there's a non-zero chance that you can throw your chain and fall over the handlebars and break things. Not that any of us have had experience like that, Kyle. Yeah, and I think the other thing, too, is another way to imagine is the sort of stimulus-to-fatigue ratio of sprinting out of every stoplight on your commute is that
+
+85
+00:37:35,920 --> 00:38:04,272
+The fatigue is high, and the stimulus is zero. Ah, yes. SFR. The better way to do the blank FR acronym. Sorry. That's shitting on BFR again. So, yeah. So, yeah. So, like, kind of tempo fartlek riding during your commute or, like, endurance ride or whatever. Like, here's the other thing. It's like, there's...
+
+86
+00:38:04,272 --> 00:38:33,504
+This is not a discreet thing where like, oh, I went a watt out of my zone. Like I fucked up my endurance ride. Like you can definitely stray into the tempo zone or whatever, like you're climbing or something. But the whole, as a whole, the ride has to be like super chill. Like you cannot be like pushing hard up every single climb, especially if the whole ride is like rolling. So anyway, so that's junk miles where you're stressing yourself, your body to a point where it's not getting that many.
+
+87
+00:38:33,504 --> 00:39:00,880
+Adaptations for what you want, but you're generating a lot of fatigue. So, like, if you're going to do, quote-unquote, like, junk miles, like, kind of pushing hard, kind of not, you had better be doing that for a couple hours, like, with, like, motor pacing or group riding or, like, you know, sitting in the peloton in a race. Like, these kinds of things can look like junk miles but are actually not. But if you're going to do it, like, here and there just to...
+
+88
+00:39:00,880 --> 00:39:29,200
+Go Hard or whatever. It's like, okay, that gets kind of junky. So, all right, ready for our last myth? Yeah, bring it. The last myth is that you don't need to train a ton of hours to be really fast. Define a ton, define fast. I know. This probably has the largest grain of truth of any of the myths today, or possibly ever in the myths series.
+
+89
+00:39:30,704 --> 00:39:57,552
+This is something I hear probably once a month, maybe every two or three months on the low end, but like multiple times a month on the high end. I hear somebody say, my friend only trains 10 hours a week and he's a cat one. I'm jealous. I mean, I would like that. That's cool. Good for him. You are a cat one and you train like 10 hours a week.
+
+90
+00:39:59,536 --> 00:40:27,408
+But you're a sprinter. Like, congratulations, Kyle, by the way, on getting your cat one on the track, being a track sprinter, which is like almost impossible in the US. But you've done it. So congrats. So, I mean, we're talking like crit racers, road racers, and there's a couple things here. So the first thing that we need to address is genetics.
+
+91
+00:40:29,008 --> 00:40:58,592
+The elephant in the room, yeah. Yeah. Oh, God, imagine if you had elephant genetics. That'd be kind of cool. Maybe not. Maybe I'll cut that joke. It's so dumb. What's the VO2 max of an elephant? Yeah. Actually, does an elephant have a big VO2 max? They're kind of large. Yeah. But they're a little lopey, like a little sauntery. I don't know. That's getting cut, for sure. So, okay, you don't need to train that many hours to be fast.
+
+92
+00:40:58,592 --> 00:41:27,376
+No, like when we talk about genetics with being fast, I saw a study, I got to dig it back up. I don't remember if I saved it or not anywhere, but it pretty much said that like it was looking at the range of like sedentary VO2 max in the human population. And as you can imagine, there's quite a skew to the distribution where, you know, I think for sedentary men, like average VO2 max might be like 40.
+
+93
+00:41:27,376 --> 00:41:41,776
+or something like that. But the highest VO2 maxes for sedentary people is like, that was measured in that study, if I recall correctly, was like in the 60s or 70s.
+
+94
+00:41:42,448 --> 00:42:08,784
+Oh my god. Yeah. Can you imagine? No, I cannot, because I'm coaching quite a few of these people. Because when you see somebody in the world tour who's like, oh my god, the guy's so fast, what kind of training did he do? A lot of the time, it's not always the training. Obviously, the training has a huge effect, not to say that it doesn't. But it's like you're starting halfway to home plate, where most of us are like...
+
+95
+00:42:08,784 --> 00:42:37,984
+You know, we're hitting a single and getting on the first base and we're calling that a win. So when you look at, yeah, when you look at people who are faster than you doing less training, it is not always because of the training. This is a false equivalence. The training does not yield a one-to-one ratio with like the watts you get out the other side. It can yield... If only. I know, right? It can yield a... It can...
+
+96
+00:42:37,984 --> 00:43:07,440
+It can improve you to a large degree. And there's also variation in how much and how quickly people adapt to certain training stimuli. So that's another thing to consider here too. So some people who are the freakiest of the genetic freaks will gain ungodly amounts of aerobic power off the couch very quickly. I've trained a couple of these people.
+
+97
+00:43:07,440 --> 00:43:36,656
+And when I see their, the improvements that they do, like after like a couple weeks or a month of training, like it's eye-popping. It's like, oh my God, did I do that? Then it's like, no, this is just one of those people. Yeah. And when you get one of those people, you got to remember, like it's, it becomes, you got to not fuck them up too bad. Like, because it's easy to go, oh, if they did this, then like I, we can get a lot more out of them. And a lot of the times.
+
+98
+00:43:36,752 --> 00:44:06,304
+Like, you just gotta, you know, you gotta, you almost gotta handle it with kid gloves, although you don't at all. It's very strange, working with people that talented. Anyway, sorry, Kyle, you were gonna say something. No, I think, I think, too, people may have experienced this if they've done, you know, high school, middle school, team sports, whatever, track, swimming, you know, cross country, whatever. You know, the whole team's doing the same workout, and yet some people
+
+99
+00:44:06,304 --> 00:44:34,512
+You're literally doing the exact same workout, right? You're doing it all together at the same times after school. But some of you are way faster or way slower than others. And you may have the tendency to think like, oh, what are they doing that I'm not doing? And the thing that they're doing that you're not doing is like picking the right parents. It sounds like kind of a cop-out. And it's true that like that training may still not be optimal for you because they're trying to program training for 70 people all at once or something like that. But that may be...
+
+100
+00:44:34,512 --> 00:45:03,024
+You know, part of that first hint that like, oh, there's something more to this than just like, what am I eating? Because you're also probably eating similar things. You're eating school lunches, blah, blah, blah. But no, it's if only, if only. Yeah. Yeah, actually, I hadn't even thought about that. That is a great point. Yeah. And also, I mean, that's another thing, too, is that like when you do cookie cutter plans for people and
+
+101
+00:45:03,024 --> 00:45:32,720
+You know, not to shit on high school coaches, because if I had to coach a high school team, like, you know, 30 kids all at once, I'd be like, what do I, that's a real hard conundrum. I don't even, I wouldn't even want that job, honestly. So, I mean, and that's where individual training is really great. And just to plug for empirical cycling, that's what we do. Sorry, couldn't avoid it. But like, when you are,
+
+102
+00:45:32,720 --> 00:46:02,512
+Yeah, when you're doing that kind of thing, there's a variation in the response to that kind of stuff. And, you know, it's not individualized, blah, blah, blah, the whole thing. But this also gets to something else that you had kind of mentioned, or we kind of mentioned previously, with like previous training, like coming from other sports, or even being in the same sport. So your friend, who only trains 10 hours a week, and is like one of the fast, like Cat 1 elite racers, they may have done a
+
+103
+00:46:02,512 --> 00:46:27,824
+Hun of high-quality training in the past, and are just coasting now. Like, their fitness is bedded in, they've got the wass they've got, and also, another aspect of this, they are really experienced and great with riding in a pack and tactics. Like, do you remember the YouTube channel, what was it, Sprinter De La Casa? No.
+
+104
+00:46:27,824 --> 00:46:50,032
+I don't, it doesn't ring a bell, but. It was a guy in the Northeast. He was like in like Jersey, Connecticut area, I think. And he had like a 200 watt FTP, but he had a really good sprint. And he got to like cat twos with, you know, his, you know, meager FTP. And it's just because like.
+
+105
+00:46:50,032 --> 00:47:19,024
+you know, you watch the videos, and like, he's on the back, trying to hang on, he moves up at the right time, and you know, occasionally he's got a teammate or two, he tries to help them, or they help him, et cetera, et cetera, and it was fascinating to watch, because I was like, oh, I'm not nearly this skilled at this kind of stuff, and you know, it's not to say that that's the right way to race, it worked really well for him, and that's stuff I, you know, I should have tried back when I was racing, but yeah, it was just like the
+
+106
+00:47:19,024 --> 00:47:48,864
+It goes to show that the power does not necessarily equate to being a certain level or category of racer, despite the fact that that watts per kilo slash category chart is pervasive and sets up expectations the same way that the training zones versus adaptations you get out of this training zone equivalence has also set up pervasive adaptation.
+
+107
+00:47:48,864 --> 00:48:18,272
+Things like, oh, like, look, if you're not doing 55% VO2 max at least, or 55% of FTP at least, like, you're not getting any endurance adaptations. That's bullshit. It's just plain bullshit. Yeah, we talked about this before. We should conduct a study where we get people to pedal as easily, but as, like, that is substantially above zero watts, but is significantly below some, you know, 50% of their FTP and just see what kind of, like, and have them do that for
+
+108
+00:48:18,272 --> 00:48:47,472
+I don't know, two hours a day for four weeks and see if we get fitter. Actually, I remember I was working with one guy whose endurance rides were like four or five hours and he couldn't really ride harder than about 45, 50% of FTP a lot of the time. And this is the first time I had seen anybody ride that easy. And I was like, well, I don't want to ride harder.
+
+109
+00:48:47,472 --> 00:49:16,528
+And I know that the volume is going to be good, but I've never seen this before. So I don't know what to do. And I said, I told him, like, I think you should keep going. I'm not entirely sure this is going to work the way I think it will, but it probably will. And it had the same effect as most other people riding harder. And that was that. Like, his LT1, like, at the top of his endurance range was just very low. And he didn't need to ride above it to get adaptations.
+
+110
+00:49:16,528 --> 00:49:45,072
+is that there's a variation in where that threshold is for a lot of people. And for a lot of people, like for me, right now, I've been trying to do some riding again, and I'm like, my LT1 is like, you know, between 80 and 100 watts, maybe. My FTP is about 200 watts. So we're at like 50%. And most of my rides at this point, if I'm doing like two, three hours, are like 70, 80 watts average. And I'm still getting plenty of adaptations.
+
+111
+00:49:45,072 --> 00:50:12,528
+and people with very high LT1s relative to FTP, like we're talking like 85% FTP, they still ride at like, you know, 50 to 60, 70% of FTP. Like they're not up at the top of the range and it doesn't matter. So anyway, that was kind of, again, going back to the same topic. But when it comes to, yeah, you don't need to train.
+
+112
+00:50:12,528 --> 00:50:40,240
+That many hours to be fast? Like, some people do. Some people need to do a lot of high-quality, high-volume training to get faster. And once you're fast, some people need a little more volume to maintain it. Some people don't need to do much at all. They're very lucky. Yeah, and tactics and previous training, like, all have a huge influence. And I'm sure there are other factors that we're missing, too.
+
+113
+00:50:40,240 --> 00:51:09,056
+All right, so that was five myths on training volume. But we have listener questions too. And while I pull those up, Kyle, do you want to kind of give us a couple conclusionary thoughts in that vein? Sure, yeah, I think, you know, you can have, it's just, it's tempting in cycling, especially because it's a,
+
+114
+00:51:09,056 --> 00:51:38,768
+Such a quantitative sport to want to compare, directly compare a lot of things, and it can be difficult, like you said, for any number of these myths where comparing the exact training that you're doing, comparing whatever kinds of results that you would expect or expectations of, oh, I have to do a particular endurance ride at this exact prescription or it's just not going to be anything. It's going to be a waste of time.
+
+115
+00:51:38,768 --> 00:52:02,384
+As tempting as that is, because obviously it's human nature to kind of see where you stack up against other people in a sport, because that's what sport is about. It's comparing yourself to other people. What? You kind of have to know. I want my participation medal. You got to also be a little bit cautious and...
+
+116
+00:52:02,384 --> 00:52:31,216
+know where to draw the line in that exact comparison. You make the joke like, oh, I can go on Strava. And for some of the pros, I could almost pull their whole training plan. Should I just go do that? Should I do that right now and just try to duplicate exactly what they're doing so that I, too, can be racing in a tour? It's like that probably won't work for a number of reasons. But then also, for some of the myths, too, it's like there are some things that are so steeped in like...
+
+117
+00:52:31,536 --> 00:53:00,400
+Sports, Culture, Things That It's Just Like Also Not True And People Persist With Myths Because That's What They Heard From Their First Coach 20 Years Ago And They You Know You're Just Gonna Keep Repeating It Even If It's Not Not True Yeah And I Think The Grains Of Truth That We Addressed For The Myths All Help Them Be Pervasive Because Sometimes They're True But A Lot Of The Time They're Not And When You Take
+
+118
+00:53:00,400 --> 00:53:28,080
+something like this. When you take a conclusion about a very niche application of a training principle and you extend it to a logical extreme, man, does it get weird and stupid, really stupid sometimes. So we got some really good questions. And I want to thank all of our podcast listeners and my Instagram followers for asking such great questions. I rarely...
+
+119
+00:53:28,272 --> 00:53:55,648
+Don't answer a question. Sometimes I don't. Sometimes I don't understand them. There are a lot of folks who don't speak English as their primary language, where I, by the way, I apologize. If I don't get your question, like, it's not your fault. I don't understand what you wrote, and let's DM a little bit, and we can clarify, and I will answer your question directly. That happens sometimes. But we've got some great questions all the time, and thank you, everybody, for submitting them. I appreciate that, and I appreciate the thought that everybody puts behind the questions.
+
+120
+00:53:55,648 --> 00:54:22,384
+Even the people who do some big brain stuff. That's really complicated stuff. That's always fun too. So first question is not a question. Oh, got a really good high after riding easy. So thank you. You're welcome. And that's what illegal. Are there any metrics which define a point of diminishing returns re volume?
+
+121
+00:54:24,912 --> 00:54:49,136
+Metrics that Define a Point of Diminishing Returns, Revolume, so like percentage of VO2 max, percentage of FTP, something like that. I don't know. See, here's the thing about any training stimulus when you put it in, you've got to keep your eye on certain things that would tell you if it's actually effective. Like if you're trying to increase your VO2 max,
+
+122
+00:54:49,136 --> 00:55:16,912
+or something like that. Or if you're trying to increase your FTP, you're trying to increase TTE or improve your endurance or repeatability or like just anaerobic power, sprint power. Here, that's a nice easy one. You're trying to improve your sprint power. Can you do more watts than last time? Like it's a pretty easy in and out. And if you do training X, does it improve those peak watts? Very, very simple. Is the max power getting higher? So when it comes to...
+
+123
+00:55:17,392 --> 00:55:46,176
+Metrics that can show a point of diminishing returns. Sure. Let's go with, I don't know, what's a good, well, because when we do endurance training, we're mostly working on endurance. Early on, especially, we're working on plasma volume adaptations, like central adaptations, capillary density, endurance. So TTE can be a good one.
+
+124
+00:55:46,176 --> 00:56:15,856
+that can show that volume is effective, et cetera, et cetera. Yeah, so just like think, okay, what am I trying to improve? What are my metrics that are going to show improvement? And also like all training gets to a point of diminishing returns as you approach your physical capacity for the things that support those adaptations, right? Yeah, yeah, yeah.
+
+125
+00:56:15,856 --> 00:56:39,088
+You wish it would be, I wish linear progression were real for forever? Oh, if only. 3,000 watt sprint coming up? Yeah, if only. In order to ride a sub 60 second kilo, you hold 1,000 watts for 40 seconds, and then 41 seconds?
+
+126
+00:56:39,088 --> 00:57:07,664
+and then 42 seconds. Ah. And 40, see where I'm going with this? Yeah. Yeah, it's like if you want to make your five-minute power your FTP, just hold your five-minute power longer and longer and longer. It's so simple. It works every time, too, guarantee. Coaches hate him for this one weird trick. It's so weird, it doesn't even work. Next question. How do you go about finding the sweet spot for volume where an athlete responds best?
+
+127
+00:57:08,656 --> 00:57:38,320
+That actually is a tricky question because for pretty much everybody I work with who does higher volume, like let's say like over 17 to 20 hours a week, the more volume they do when we are trying to build, the better the adaptations we get out the other side for pretty much every physiologic metric, FTP, VO2max, repeatability, everything.
+
+128
+00:57:38,320 --> 00:58:07,984
+And so the sweet spot of volume actually comes when we're trying to taper and maintain in season for like a busy race season. Because the volume itself has a large physiologic cost in terms of like energy expenditure, if not other things, and definitely other things. And so finding a balance between volume and anything else is highly, you know, athlete dependent.
+
+129
+00:58:07,984 --> 00:58:36,944
+and dependent on the level of work stress and life stress and, you know, quality of diet and sleep and a thousand other things. So it's highly individualized. Yeah. I think another thing too is like a one way to do it, but it is sometimes sometimes something that happens an accident, but is, you know, you increase the volume, increase the volume, like you said, until you see
+
+130
+00:58:36,944 --> 00:58:52,640
+The level of improvements taper off. Or if you find that the person's like, oh, like, how did you feel this week? And they're like, oh, man, I barely scraped by. And they're like, oh, that's slightly too much. Dial it back to find that sort of sweet spot of like enough that you still get good.
+
+131
+00:58:52,640 --> 00:59:20,544
+Good gains and you're making progress, but not so much that you're an empty shell of a human for the rest of the time and you're not riding your bike. Because everyone's been there, right? Everyone's been there with that week where they did a little bit too much and you maybe sit there at work and you're like, I'm supposed to be doing something, but I can't. I can only stare off into the middle distance. Yeah, exactly. So that is one way to find your...
+
+132
+00:59:20,544 --> 00:59:49,328
+your sweet spot, but it maybe is not the most fun way. No. And actually, another question there is, like, what is the duration of your longest ride? And this happens with ultra people, especially. So, like, if you go on, so, like, if you're going to go, like, test out your, like, you know, night riding game, and your ride starts at, like, you know, 8 p.m., like, right at dusk, they're like, all right, I'm going to ride for 12 hours until, like, three hours after dawn.
+
+133
+00:59:49,328 --> 01:00:13,248
+That kind of ride can be way more, and like let's say it's 12 hours and you're only doing another like three or four hours of riding that week. Now you've only got 16 hours of riding that week. Should be pretty doable, right? Well, 12 hours overnight when you should be sleeping is not the easiest ride no matter what pace it is.
+
+134
+01:00:13,248 --> 01:00:41,376
+And especially if anything happens during that ride that increases levels of stress. Like you break a spoke, you break a chain, you drop a bottle, like you realize you forgot to pack food or something. That hasn't happened to any of our people, but I could see it happening to me. I'm like just rushed to get out the door. I've done a bunch of stuff. I'm like, man, I got to go get this training ride started. Not that I'm going to do one of these, but I could see myself forgetting food because I, you know.
+
+135
+01:00:41,376 --> 01:01:10,000
+People forget to eat sometimes. I know, which is crazy. Food is so delicious. But anyway, so that's another thing to consider. So actually, the next question is interesting along this vein. How low is too low? And is there such a thing as too long? I would say yes, there is a point where it's too low.
+
+136
+01:01:10,000 --> 01:01:38,832
+Like, you know when you go on a recovery ride and like you're just loosening the legs up and you don't even care if you're pedaling, you're just coasting half the time and you go get a coffee and you spin back. It seems like it's too low. I mean, for a proper training ride, it's too low, but you know what? I bet there are still some adaptations that you get out of there, very small degree. And if it's well within your capability, then you're probably not going to get anything.
+
+137
+01:01:39,120 --> 01:02:03,920
+The right writing is writing, like exercise, exercise to some degree. And it's not a discrete point. Like this is a continuous thing. And it's not like there is X point where you go, okay, I'm no longer getting adaptations. But if I add one more watt, suddenly, and why is it one watt? Like, is this like some kind of quantum physics?
+
+138
+01:02:03,920 --> 01:02:33,712
+like energy packet thing, like why is it one watt? It could be a quarter watt, who knows? I haven't seen any head units that will display fractional watts, have you? I have not, but that doesn't mean it's not possible. Let's make an IQ app, Garmin IQ app, where we can display quarter watts. Anyway, so the question on how long is too long, I get this question all the time, and I still don't have a good answer. And is there such a thing as too long?
+
+139
+01:02:33,712 --> 01:02:58,880
+Yes. Too long is too long. Also not a good answer. But that's the answer. So if your 12-hour overnight training ride comes with a week of recovery and getting back to normal, I can imagine Monday, Tuesday after that Saturday to Sunday night ride, Monday, Tuesday at work,
+
+140
+01:02:58,880 --> 01:03:27,760
+Probably not going to get a lot done, right? Especially if it was too much. Of course, if you're like awake and spry and sprightly and everything's going right, cool. Maybe it wasn't too much for you. That's amazing. But for a lot of people, that will be a very hard ride. So yeah. And if you go out and do an eight-hour ride and the longest ride you've done is three, is it too much? Good luck. Well, and here's the other thing. Is it too much is a question of what are you trying to do the next week?
+
+141
+01:03:27,760 --> 01:03:55,328
+Like what, what training rides are not going to happen because you're recovering from your ride that was too long is probably the best way to look at it. So if you've got a couple like key sessions, like if you've got like a specific race prep workout or two in the upcoming week and you think that riding longer than like, like let's say you're going to go for four hours and you're like, you've got an option to go for six or seven and you think maybe if I do six or seven,
+
+142
+01:03:55,328 --> 01:04:23,824
+Like, these rides later this week are going to suffer. Then don't do it. Be a little conservative. That's going to be okay. But it's not like there's also a discrete point where, like, you know, oh, if you do 150% of your longest ride, that's going to be too much. Who knows? I don't. If your longest ride is an hour, doing an hour and a half is not that big a step up. Yeah. And people like those rules, you know. I think some of those come from, like,
+
+143
+01:04:23,824 --> 01:04:48,800
+There was that 10% rule or whatever for adding volume and blah, blah, blah. I think it's nice when those things are real, but they're never universally applicable. So if you're at seven hours a week and you try to jump to 14, yeah, you might have a bad time, but you may not.
+
+144
+01:04:48,800 --> 01:05:18,736
+And borrowing some of that stuff from running, where it's high impact, and there's other ligament and tendon things, that can be a sort of different story than it is for cycling, where you don't have as much pounding. Yeah, absolutely. Sounds bad. You don't have as much impact on connective tissues. Yeah. And that's actually exactly where I was going to go with that, too. So it can be a good rule of thumb for some sports and cycling.
+
+145
+01:05:18,736 --> 01:05:38,560
+You know, you could double your longest, if your longest ride is four hours, that does not preclude you from doing an eight-hour ride. You might discover that your bike fit is not perfect for an eight-hour ride, but it's fine for four. Stuff like that happens, too. Actually, one of Katie's clients was doing a very, very long ride, like...
+
+146
+01:05:38,560 --> 01:06:05,616
+Like, it was over 24 hours, I think, all at once, and around like hour 18 or something, his knee started to tweak, and he was great before then, and it's just like, sometimes you can't, you don't know that something is off, something is going to be a little too long, until something like that actually happens, so that can be a thing too, where you think you've done all the right prep, and you think it's going to be fine, and then it turns out to not be, but you've learned something for next time, that's all. Considering
+
+147
+01:06:05,616 --> 01:06:35,024
+Walk, Run, Row at Endurance Intensity when thinking about total weekly volume? Question mark? Yeah, we kind of talked about this earlier with my friend who's doing hiking and having it have a good positive impact on his fitness. But I remember in the, I think I've told this anecdote on the podcast a couple times now, but like in the COVID lockdowns, I had a couple clients who stopped commuting and who stopped going to the gym.
+
+148
+01:06:35,024 --> 01:07:04,256
+And that had a negative impact on them, like the commuting especially. The gym usually, it led to like back injuries and shit like that, but like the commuting was a big one where, because it would reduce people's volume from like, you know, 15, 18 hours, especially if they got long commutes, and it would reduce it to like 10 or 12 of them, because they've still got to do the same work, even more work and the stress, blah, blah, blah. So yeah, it had a negative impact to do that. So you can consider that.
+
+149
+01:07:04,256 --> 01:07:30,960
+And you should consider it anyway in terms of the fatigue it generates, because if you are not used to running or rowing or anything like that, that can add a lot of fatigue and that can impact the quality of your on-bike workouts. Like if you're not used to rowing and your lats are really sore and you're trying to like keep yourself up on your bike and it's like, oh, this is really uncomfortable, that can have an effect for sure, even when we're not just considering straight up adaptations.
+
+150
+01:07:33,424 --> 01:08:02,880
+Yeah, also, for things that are maybe more technique-based, it can be a lot easier to give yourself, like, a chronic use, overuse injury if your technique is bad. True. Swimming comes to mind as a big one where you think, like, oh, like, it's low impact and it's great, but, like, you can really quickly irritate your bicep tendons swimming poorly. Our weak little biceps. Yeah. That's why you should stick to stuff that...
+
+151
+01:08:02,880 --> 01:08:26,848
+uses your quads and glutes and hamstrings. That's so much stronger. Training volume on the bike for track enduros. How is it the same or different than crit or road racing? It's still pedaling, so it's the same that way. Yeah, still pedaling. And then... And here's the thing, is a lot of what you're trying to do...
+
+152
+01:08:26,848 --> 01:08:56,544
+is you are trying to improve, like on the track especially, you're trying to improve like endurance, the VO2 max, repeatability. And all of those things get better, faster if you are doing more volume and recovering from your training really well. So the answer is, as long as it's aerobic, like people ask me this all the time, like, oh, if I'm just doing like an individual pursuit, like 4K or like age groups, like 3K, 2K as you get older, does that mean I don't need to train as much? And the answer is no.
+
+153
+01:08:56,544 --> 01:09:26,127
+It's still aerobic, therefore you still need to do higher volume training if you can. And this is one of those things where it gets into the volume intensity equivalence. Like if you're training 12 hours a week and now you can only do 8, like okay, sure, like it's probably not going to be a huge difference. But if you're training 20 hours a week and now you can only train 10, you're probably going to have a very large difference.
+
+154
+01:09:26,960 --> 01:09:50,591
+Yeah, still aerobic. And there's also a reason that the people who do really well on the track at Worlds and Olympics are still really good road racers. There's a reason for that. Yeah, yeah, yeah. Like, I think famously, you know, Chloe Dygert is probably the best recent example. She seems to be...
+
+155
+01:09:50,591 --> 01:10:17,184
+Relatively fit on the road, I guess. How many Giro stage top five finishes did she have? Yeah, how many podiums has she gotten this year? How many sprints has she launched at 500 meters and only like one or two people could pass her? Yeah. And winning US Pro Road Race and the time trial. Yeah, she's doing okay, I'd say. And she's pretty good on the track. We haven't seen her do a bunch race.
+
+156
+01:10:17,184 --> 01:10:46,592
+I mean, Jen Valente is like the American queen on the track. Like, no question, hands down. I watched her, the race, the points race last night, and she could take a lap on the field in two laps whenever she wanted. She would like decide, decide. I was like, oh, it's like eight to go for the next sprint. I'm going to go take a lap in the interim. And like one time she did it like.
+
+157
+01:10:46,592 --> 01:11:15,760
+And no one jumped on. And so she just like did it on her own. And then I think that was the first time. But the next time when she would do it, people started being like, you know what I should do? I should follow her. I mean, the fact that she wasn't marked at that first time is incredible. Maybe they were like, oh, it's too early. We'll get her. It's like, Jen Valente. No, you're not. Anyway, so and also there's the cyclocross thing too.
+
+158
+01:11:16,304 --> 01:11:45,824
+Where, like, I remember when I was racing cyclocross, like, almost 10 years ago now, holy shit. That was at the time when everybody was like, like, my coach at the time especially was like, wow, you've got a really good sprint, you're going to be great at cyclocross. Like, you're going to be a Cat 2 or a Cat 1 in no time. And I was like, cool. And I started racing cyclocross, and I was running into the same thing I was on the road, which is I had no aerobic capacity. Like, I was fucking gassed.
+
+159
+01:11:45,824 --> 01:12:14,272
+And I could do okay in the fours, but like, ugh, I was just not that good. I just didn't have it, the endurance. And that's one of the things that happens too, is like, people would say, oh, look at, you know, Wout and Vanderpoel, like, they're, you know, they're great at cyclocross, they've got big sprints, but they're gonna suck on the road. And I was like, no, they're not, they would be phenomenal on the road. Guess who was right? I was. I think too, like,
+
+160
+01:12:14,272 --> 01:12:42,272
+You know, there's this perception that cyclocross is, you know, 30-30s continuously or something like that. Well, it kind of is, but there's also, like, you need aerobic capacity, you need FTP and VO2 max, so, like, maintain 30-30s for a very long time indeed. Yeah. And it's a grind, right? Like, the way that people do it is that, like, you go out hard for the whole shot, and then you have to maintain that. It's not just, like...
+
+161
+01:12:42,272 --> 01:13:09,472
+The 30-30s are not 30-hard, 30-like, you know, nose-breathing zone one. It's a grind. You know, you're out there trying to claw back time, trying to pass someone here, pass someone there, you know, get some time in these barriers, like, at a high heart rate the whole time. Yeah. Okay, next question is, when you've spoken about 14 hours minimum,
+
+162
+01:13:09,472 --> 01:13:39,008
+for mitochondrial adaptations. Is that 14 total or 14 under LT1? Okay. This is when people misremember stuff I've said on the podcast. This was not about mitochondrial adaptations. This was about, I had said off the cuff, because this was my experience, is that people who are training more than about 14 or 15 hours tend to experience
+
+163
+01:13:39,008 --> 01:14:08,192
+some FTP increase for several years. And below that, it's for a lot of people, it seems to top out pretty quickly. But that was just like a rule of thumb, and it's not real. It may apply to you, it may not. Some people might be able to get FTP gains for four or five years doing 10 hours a week. It was not about mitochondrial adaptations.
+
+164
+01:14:08,192 --> 01:14:33,520
+What, in my experience, so mitochondrial adaptations are about endurance and fatigue resistance, and this is about what Wastock 40 was about, about like what actually is happening metabolically when we do high volume training, when we increase mitochondrial density, when we do all that stuff. So, in my experience, the
+
+165
+01:14:33,648 --> 01:15:03,632
+What's now known as durability, I just think of it as like endurance and repeatability. Maybe durability is a, I don't know. Anyway, whatever, terms, definitions, blah, blah, blah. So if we're going to look at durability of a road cyclist, I find that it is a, not a linear correlation, but almost a linear effect of improving that the more somebody rides.
+
+166
+01:15:03,920 --> 01:15:31,120
+And so when it comes to mitochondria, it seems like unless you are a genetic freak or you've got a lot of deep training history, when you are only training something like 14, 15 hours a week, it seems like that kind of tops out somebody's endurance. Even if it is improving VO2 max and FTP a little bit year to year.
+
+167
+01:15:31,120 --> 01:16:00,608
+When it comes to that kind of volume, that I think actually can illustrate the difference between peripheral and central adaptations, where generally speaking, like the endurance that you're going to get from doing 14, 15 hours a week pretty consistently for a couple of years, like they're going to be okay, but it's not going to be as good as 20 hours, it's not going to be as good as 30 hours. But centrally, stroke volume, which is controlling, well, for the most part, controlling VO2 max and FTP,
+
+168
+01:16:00,608 --> 01:16:27,632
+that can have some effect generally. So that's really what all that was about. And I hope that's clear. I don't know, Kyle, did I do an okay job at all explaining that? I think you did. I think it's just, it comes back, in my mind, it comes back to that idea that people do want to latch on to these hard rules or at least memorable rules like that, where it was a
+
+169
+01:16:27,792 --> 01:16:51,072
+You were making a generalization, not saying, you know, I've seen it, that's it, I'm calling it, this is my published results for forever, that 14, there's something magical about the number 14. Yeah. But it makes sense too when you consider the fact that a lot of these people who are going to be capped out at 12, 14, 15 hours a week...
+
+170
+01:16:51,072 --> 01:17:20,832
+have other things in their life that they have, their lives that they have to do, and so that's gonna also, unfortunately, limit some of what you can do, because you have other stuff to do, but that's fine, like, you need to have a life, like, you're not a pro, and that's great, you know? Yeah. Go do other things, have other interests, that's fine. Yeah, I remember, like, I don't know, 10 or 20 podcasts ago, we were talking about something, and you said, and have fun, like, it needs to be fun. Yeah, yeah, yeah.
+
+171
+01:17:20,832 --> 01:17:49,104
+Yeah, I completely agree with that. It needs to be fun. So I had one more thought on that, and I completely lost it. So we're just going to move on. Oh, I know this guy. Question is, how long can you keep adapting off a certain training volume if intervals are pretty optimized? After a few years? This kind of goes to what we were just talking about.
+
+172
+01:17:49,104 --> 01:18:14,960
+You know, lower-ish volume, folks. Yeah, sometimes you can keep it rolling for a couple of years, sometimes not. And it depends on what aspect of training you're talking about. Like, are we talking about VO2 max? Are we talking about endurance slash durability? And actually, the guy asking the question has incredibly good durability. Like, almost, like, basically 0% loss after 50 kilojoules per kilogram.
+
+173
+01:18:15,024 --> 01:18:44,960
+And this is actually a question that he and I have discussed at length on our calls, where it's like, if I'm doing this many hours this year, do I need to do more next year? And the answer is usually no, because typically we're at the point where more volume is just going to generate more fatigue. And, oh, this is the point that I forgot from the last question, is the recovery has a huge effect on your adaptations.
+
+174
+01:18:44,960 --> 01:19:12,080
+Like, if you are super, super highly stressed at work, in life, wherever, you are probably not going to see any improvements from your training, regardless of how high quality it is, regardless of many, many factors. And I've had so many clients where, you know, things aren't going right. And I remember asking one guy, I was like, I was like, dude, give me a call. Like, we got to figure this out.
+
+175
+01:19:12,080 --> 01:19:40,912
+He was doing about the same training plan he had done the previous year. And his FTP the previous year had gone up probably 30 watts, 20, 30, 40 watts, something like that. And that year, he had started about the same place, FTP maybe 240, something like that. And we were doing about the same plan unintentionally. I didn't even realize that it was pretty much the same training because we were kind of playing it by ear as we went.
+
+176
+01:19:40,912 --> 01:20:09,936
+We were not seeing the same improvements at all. And he was like, what's up with this? I'm like, I said, how much stress are you under? Like last year versus this year? Like what's your daily take-home stress? Scale of one to ten. And he said last year, it's probably a two to a four, the occasional eight. And this year, the average day is like an eight, but a lot of times it's like a nine or a ten. Oh God, poor guy. God damn. I said, there you go.
+
+177
+01:20:10,160 --> 01:20:36,416
+That's our culprit right there. So, yeah, it has a huge effect. And volume can have this effect. And we see this a lot with our ultra people, too, where, you know, if you're not taking enough rest after your ultra, or like, you know, your big giant race, 24 hours, multiple days, you know, brevets, brevets, how do you say it?
+
+178
+01:20:36,416 --> 01:21:02,544
+This kind of thing can get to you, where like your motivation to ride just tanks. Some people will be like, I want to ride, I want to train, okay, let's give you some training, and they don't get to it. So, and that kind of thing is like a self-limiting thing, and that happens too, and that's kind of what you could be up against when you're up at doing high volumes, trying to do higher. And if you're at a manageable volume, and you've got time to do more, yeah, definitely try.
+
+179
+01:21:02,544 --> 01:21:31,792
+and see what's happening. But it's one of those things, like everything else, you have to put the meat into the sausage grinder and see what kind of sausage you get at the other side. If you get any. That is a terrible analogy, but whatever. I'm going to leave it. So, next question. If super easy riding is good volume, why isn't it popular or encouraged in the world tour? I don't know.
+
+180
+01:21:32,176 --> 01:22:01,264
+All of my athletes who are racing at a very high level do it a certain way, and that's the way that we find works, and I quit asking questions about why a lot of pros do XYZ a long time ago, because I don't know what's going on in their minds, or their coaches' minds, or their physiologists' minds. I really only have my perspective, and I can only hazard a guess, and I've certainly...
+
+181
+01:22:01,264 --> 01:22:26,400
+Impugned people's motives before on the podcast, and I've apologized for that too, and I really am apologetic about that, and I've learned to not do that, is what's happened. Oh no, character arc, what's happening? So, yeah, Kyle, thoughts? I hear some thoughts brewing over there. Yeah, I understand it's tempting to look at what the pros are doing, but it's so hard, and like...
+
+182
+01:22:26,400 --> 01:22:46,064
+Just as much as I was saying, oh, you can go on someone's Strava and see all the work they're doing, you also don't know that that's all they're doing, and maybe people are playing things close to the vest and being cagey for a reason, and obviously in professional sports, there's a huge, huge motivation to not give away the game and be exactly...
+
+183
+01:22:46,064 --> 01:23:15,280
+100% transparent on all the things that you're doing, because it may also, if someone's paying close attention enough and you're posting everything on Strava, you might be able to tell that, oh, you're coming into this race and you're not feeling as good as you maybe think you want to be or something like that. And so there's that as well, where because there's money and jobs on the line, people are not going to, they're just not going to tell you. And that's, it makes it hard to guess because you don't know all the things that could be going on. Yeah.
+
+184
+01:23:15,280 --> 01:23:44,544
+Yeah. Even though it's fun. It's fun to speculate. I admit that. Yeah. And actually, you know what's funny is this guy is also talking to World Tour teams. And clearly what you're doing is also working. So even if it's not the same as what they're doing. And, you know, cycling, well, pretty soon, you know, people are going to be asking, oh, what's he doing? And I could tell people what he's doing. It's no, it's not, it's not hard. It's not.
+
+185
+01:23:44,544 --> 01:24:12,672
+It's not complicated to figure out. But I lost my thought. Anyway, next question. Progressive overload for volume if you have already reached max available time. Yeah, there's not much you can do. The only things you can do, you can try to increase intensity a little bit. And this is really the only thing I would suggest. It's like if you are optimizing
+
+186
+01:24:12,672 --> 01:24:40,896
+For your available time, you can try to turn an endurance ride into a tempo ride. And I think that's really about all I can suggest. And honestly, I think it's probably only going to be doable for like a couple weeks before the extra fatigue gets to you. Because don't forget, if you're time limited, there's a reason you're time limited. And the off-bike stress is non-zero. Like, you've got other shit going on.
+
+187
+01:24:40,896 --> 01:25:10,240
+That's something that needs to be appreciated too. So a lot of the time you, well, here's the other thing, is sometimes when you're at like this level of trainedness, if you're not seeing any improvements after a couple months or a couple years, reformulate your game plan. Think about how many races can I go well at instead of like, you know, peaking.
+
+188
+01:25:10,240 --> 01:25:38,640
+for one or two races a year or something like that, and trying to get that extra 1%, like maybe you can get a lot better, have a lot better results or have more fun more often. Instead of like, I'm going to try to improve every single year. If it's not happening, then like, yeah, then, you know, redo the game plan for like taking that into account. Thoughts? Next question.
+
+189
+01:25:39,024 --> 01:26:06,064
+No, I think that's good. Cool. Can decent race legs for time trials be had on under 10 to 12 hours a week? I mean, yeah, you can have decent legs for like an ultra race on 10 to 12 hours a week if you want. But the question is really about fitness and like getting faster. So on 10 to 12 hours a week, sure, you can improve for a while. It might be a lot longer than you expect.
+
+190
+01:26:06,064 --> 01:26:35,984
+But after you've optimized everything, if things start to taper off in terms of improvements, well, that's just what happens to you. I hate to deliver that news. It would be great to say you can always improve, et cetera, et cetera. And it's, you know, if I'm working with somebody like this, it's not like I give up on that kind of stuff either. I don't. We're always trying to improve year to year. But I've had a couple clients where it does turn into like, okay, I don't think we're going to get any more at this point.
+
+191
+01:26:35,984 --> 01:27:04,928
+Available Options. So why don't we try to reformulate our game plan? But yeah, you can have decent race legs for crits or any race you want on 10-12 hours a week, but I think the question implies always improving. Am I reading that right, Kyle? Yeah, I think most people, we've said this before, but most people won't really actually reach their
+
+192
+01:27:04,928 --> 01:27:31,504
+like genetic potential, it's other things getting in the way. It's you're reaching your, the potential that you've got out of a combination of the training time you have and the things that you've got going on in your life, et cetera, et cetera, et cetera. So, but there are always ways to, yeah, figure out, you know, you might be, you might feel more like painting in the corners where you're kind of optimizing at that point, but that's, that's a real aspect of training as well and training and racing and stuff like that. So, yeah, it is.
+
+193
+01:27:31,504 --> 01:27:58,896
+Volume needed to maintain versus to build fitness in percentage. I think that's a weird question. Because I think for people who are training like 20, 30 hours a week, when they're looking to maintain, it will usually take a smaller amount of hours than somebody who's like doing 10 to 14, 15 hours a week. Where...
+
+194
+01:27:59,600 --> 01:28:26,784
+You know, if you just keep doing 14, 15 hours a week to maintain, like, yeah, you can do that too. Same amount to build, same amount to maintain. If you reduce your hours, like, this was on the Tim podcast, the Tim Cusick podcast, where Tim said a lot of the time people are at their training max and not their genetic max. As in, if they had more time to train, they would get faster, but they don't. And so, I think...
+
+195
+01:28:26,784 --> 01:28:54,144
+I think for a lot of people who are time crunched, there's not a huge difference. Like you will need to maintain your training volume for the most part to maintain. Whereas people doing 20, 30 hours a week, like high volume people, really high volume people, it seems like you don't need nearly that many hours to maintain. And in fact, the fatigue and caloric deficit and all that other stuff that you've generated by doing the high volume,
+
+196
+01:28:54,144 --> 01:29:23,344
+Actually, really necessitates fairly low hours a lot of the time. Like, my highest volume people take the lowest amount of hours on their rest weeks. Like, somebody doing 30 hours a week, oftentimes will do like less than 10 hours on a rest week. Because that's the fatigue that's been generated. If you're doing 15 hours on a normal week, a rest week might look like 10, 12. Like, it's not going to be like 4.
+
+197
+01:29:23,344 --> 01:29:53,008
+which would be about the same percentage decrease. So, yeah. Did I explain that well enough, Kyle? I'm always, I'm not sure about my explanations today. Yeah, I think so. Okay, no further thoughts? All right. Last question. Inigo Sun Millant and Coggin preaching LSD, I assume they mean long, slow distance, just below or at LT1?
+
+198
+01:29:53,104 --> 01:30:20,752
+Inquisitive Emojis, More Mitochondrial Adaptation? I think the first person who really needs credit for not training too hard is Steven Seiler. He really, really popularized don't go too hard on your long rides. Do a lot of long, easy riding.
+
+199
+01:30:20,912 --> 01:30:46,416
+He was really the first person to popularize that, and I think he needs a lot of credit for that. And so a lot of other people, myself included, it's not like that was our wake-up call, wow, but we need to give credit to him for starting to popularize and make that idea okay, that you're not just riding to 70% FTP constantly, because that's where, going back to our other training myths, that's where you can be riding too hard.
+
+200
+01:30:46,576 --> 01:31:13,344
+So you've got to pace it by feel. And he's done a great job of telling people to auto-regulate more and better with this kind of stuff. But when it comes to high volume, I'm not an expert on his training philosophy, but Samalan seems to be a proponent of what you burn in terms of fuel, like fat versus carbs.
+
+201
+01:31:13,344 --> 01:31:42,832
+is what you adapt to. And that is factually not true. Go listen to Wattstock 40 and the series before that if you want more details on that kind of stuff. And I believe Coggins' philosophy, I'm not actually entirely sure. Coggins is not a coach. He's a physiologist. Sam Milan is a coach. So yeah, but it's...
+
+202
+01:31:42,832 --> 01:32:11,664
+Yeah, the thing about not riding too hard, because I would say you don't even need to ride at LT1, because most people who auto-regulate this kind of stuff and are seeing constant improvements are riding anywhere between 60 to 80% of LT1 for their endurance rides. And so if you know where that top of that range is, you don't have to even brush it on your endurance rides to get more adaptation. And yes, it has a lot of really positive effects on mitochondrial density.
+
+203
+01:32:11,664 --> 01:32:40,848
+Especially for those smaller motor units. But, yeah. Kyle, thoughts on the ISM Coggin LT1 LSD stuff? I always wonder, it's hard to be like, oh, why does this person think this thing? I don't know. They haven't told me why. So, yeah.
+
+204
+01:32:41,072 --> 01:33:08,976
+And you kind of started getting to it when you talked about this, but knowing where this person is coming from, knowing their perspective can help you figure that out a lot when you consider, oh, this person thinks this thing, why do they think this thing? Oh, like, what is this person's past experience is? What are they more thinking about day-to-day, et cetera, et cetera, so. Yeah, for sure. Yeah, and so I...
+
+205
+01:33:08,976 --> 01:33:37,264
+I'm not entirely as familiar with that for Coggin, because when we did our two podcasts together, we were not really strongly considering what should you do for training. And he made it very explicit. I'm not a coach. And so it's not like that invalidates his opinion on these things, but I have a lot more years, and so does Sam Milan, and so does Seiler.
+
+206
+01:33:37,264 --> 01:34:05,968
+with training people. Well, Siler, I think. I think he coaches some people. I actually scratched that. I have no fucking clue. So, anyway. Yeah, I don't entirely know. And that's one of those things where, like, I would want to have that person on the podcast and talk with them about that kind of thing. So, I cannot entirely say. But, should you ride under LT1 for endurance riding? Yes.
+
+207
+01:34:05,968 --> 01:34:35,488
+Absolutely. Where is that? You can feel it out. You don't need a fancy lactate test. And anybody who insists on that kind of stuff is probably going to interpret it very differently. I was talking to somebody- Or maybe they're trying to sell you a lactate test, you know? Yeah, for real. And, you know, when my people get them for free, I'm like, great, let's go corroborate what we know by your feedback or the power numbers. And that's, it always comes out.
+
+208
+01:34:35,488 --> 01:35:02,256
+just about right. But I was talking to one of my friends who's a national team physiologist, and he said that when they do lactate tests, they will send the lactate data out to several different people and average the results, because every single person will interpret the lactate curve differently.
+
+209
+01:35:02,896 --> 01:35:28,768
+So if you've got one lactic curve in five people, you get five different thresholds. Maybe six different thresholds if you're lucky. Yeah, well, or like, well, if you're doing two different thresholds, you'll get 10 thresholds. So, yeah, and that's one of those things where like, I remember in one of the podcasts that we did a while ago on, you know, I think it was titled How...
+
+210
+01:35:28,768 --> 01:35:58,304
+Power Meters Make Lactate Testing Nearly Obsolete. This is almost exactly what I was talking about. Because I remember I did a bunch of lactate tests on myself. I still do them occasionally. And one of the things I found is that my RPE clicked over at a different point than the lactate data did. I was looking for LT1, right? And LT1 at the time, by lactate, was 130 watts.
+
+211
+01:35:58,304 --> 01:36:24,736
+But I was feeling it at like 100 to 110. And so if I had believed the lactate data and I went out and rode at 130, like I was going to overtrain in very short order. But if I just rode well below it, and also you can be like, okay, if it is 130, I want to ride at like 70 to 100 watts as my normal range. Because you don't need to, riding a little harder does not get you.
+
+212
+01:36:24,736 --> 01:36:51,280
+that much extra adaptation, but it generates a lot more fatigue. Same as just about anything else. So that is a big trade-off to consider, is that kind of like, can you actually do more of this and generate more good signaling and central adaptations and blah, blah, blah, then if you just go a little too hard and you can't do nearly as much. That's the real-world trade-off to consider.
+
+213
+01:36:52,432 --> 01:37:19,328
+All right, any other thoughts to wrap all this stuff up? Yeah, hopefully people, well, it's the summer here in the northern hemisphere. I won't, I know, I feel bad for those southern hemisphere folks, but. Pissing rain in Australia every day. Yeah. Hopefully people are riding their bikes and having fun. Hopefully it's not too hot. It's been really hot here. Very hot. Yeah, same here.
+
+214
+01:37:19,328 --> 01:37:46,736
+We should talk about heat training or riding in the heat at some point soon, because I think this is something a lot of people are going through. And also, heat training seems to be kind of like the new fad these days. Yeah, I saw a company sells basically like a painter's jumpsuit that you can wear for indoor. Yeah, they sell it for like $30 or $40. And newsflash, you can go get one of those things at your local hardware store for about $5 or $10.
+
+215
+01:37:47,152 --> 01:38:16,176
+Also, sweatpants and a sweatshirt you might already own. Yes. Yes. For zero dollar. Yeah, did you know that you can ride in your thermal jacket on the trainer? And it's just about the same. You can turn the fan off. For a lot of people, that's going to be very warm. Yeah. Yeah, so that's the new fad. And yeah, if you want to dress in your biohazard suit and get on the trainer, that's cool too.
+
+216
+01:38:16,752 --> 01:38:36,112
+Underrated metal band also. Anyway, so thanks everybody for listening. Thank you for tuning in to our Myths episode. I think this is our third Myths episode, so check out the last couple. They were, I don't know, probably six months to a year ago was the last time we did one. And yeah, these are a lot of fun.
+
+217
+01:38:36,112 --> 01:39:00,384
+We will be back with hopefully a Wattstock on AMPK as the next podcast, but as I know what happens every time I promise something, it never really seems to pan out. I've got a couple interviews coming up with some really cool, fast people. We might do like a Nationals race report with our coaches, Katie, Corey, and Megan. And yeah, so just keep an ear out and I'll try to get back to the memes too. I was so exhausted.
+
+218
+01:39:00,384 --> 01:39:17,392
+from like traveling and like supporting at races for the last couple of weeks. So thanks everybody for listening. Again, if you like the podcast, please consider subscribing to the podcast. And if you are already subscribed and you have already donated or anything like that, just share the podcast. That's the best thing you can do. But if you have not donated, we appreciate all of the donations.
+
+219
+01:39:17,392 --> 01:39:46,176
+And especially the recurring donators, you can set that up, a monthly donation payment. We really, really appreciate that. That really just kind of barely covers our hosting fees and everything like that. So thank you all for all of those. And yeah, so we're ad-free. So if you want to donate there, that's great. We're never going to have advertisers. I've had quite a few reach out, actually. And after some questions and negotiations, it's not for us. So we are going to stay nice and independent.
+
+220
+01:39:46,176 --> 01:40:10,352
+No native advertising or anything like that. We are pure, unfiltered, opinionated people. So yeah, if you've got any coaching inquiries, again, we have discounts for students and professional cyclists. We know how budget crunched all of you are. And if you are just looking for a coach, yeah, we're always taking people on.
+
+221
+01:40:10,352 --> 01:40:39,632
+And so, just please reach out, empiricalcycling at gmail.com And if you'd like to consult with us, we will answer all of your questions, we will look at your files, we will break down your races, we can help you plan for next year, for later in the season, for whatever's going on. At all levels, I've consulted for people at, you know, from people who don't even compete to people in the world tour and world champions. So, that is really cool when I get to do that. So, thanks to all of you for reaching out for all that kind of stuff. And again, Instagram, empiricalcycling.
+
+222
+01:40:39,632 --> 01:41:07,680
+got weekend AMAs happening, I gotta go finish that up right now, and that's where we ask the questions for the podcast, so if you wanna ask a question, go ahead and give me a follow at Empirical Cycling, and also go file Kyle and his cats on Instagram, because Millie Kelvin is really adorable. Oh, thanks, yeah, always gotta, it's the internet, so you gotta have cats. Yeah, and I love your, I love your energy drink reviews too.
+
+223
+01:41:07,680 --> 01:41:14,416
+So, that's good. Thanks, Kyle, for that. All right. Thanks, everybody. Catch you next time. See ya.
+
