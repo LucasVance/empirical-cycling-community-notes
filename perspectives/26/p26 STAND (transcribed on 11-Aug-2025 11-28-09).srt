@@ -1,0 +1,1196 @@
+1
+00:00:00,336 --> 00:00:26,240
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore. Thank you, everybody, for listening, as always. If you are new here, please consider subscribing to the podcast. And if you are a return listener, sharing the podcast would be great if you want to support us. And a nice iTunes rating and review, or wherever you listen to podcasts, thank you all so much for all of those. And if you'd like to donate to the show, because that's really what keeps the lights on here, you can do so at empiricalcycling.com slash donate.
+
+2
+00:00:26,240 --> 00:00:55,968
+And we've got some show notes up on the website with some relevant links for our guests and topics today. And if you've got any coaching or consultation inquiries, we are always taking on clients. And if you'd like to consult with us, we will answer all of your training questions and help you plan and give you the tools to plan your own training. We've got cyclocross season coming up up here in the Northern Hemisphere. So if you want to talk about that, if you want to go over your road season or plan for next year, you want to go for a race, whatever it is, we're here for you.
+
+3
+00:00:55,968 --> 00:01:22,976
+We also understand that students and professional cyclists, as we're going to talk about in this podcast today, don't make a ton of money. We understand that. So our rates are negotiable. So please reach out and we can figure something out if you are interested in working with us. And also on Instagram at Empirical Cycling. This is where I ask questions for our listeners or questions from our listeners for our guests and also where I do a weekend AMA.
+
+4
+00:01:22,976 --> 00:01:51,520
+And this podcast actually came about from an AMA one or two weeks ago, where somebody asked me, what was the best paper you've read recently? And they, of course, meant, you know, in terms of physiology or biochem or something like that. And I couldn't get stand out of my head, because I had just read it. It was so fresh in my mind. It had made such an impression on me, because it's a lot of the stuff, you know, you read memoirs and cycling.
+
+5
+00:01:51,520 --> 00:02:20,368
+You know, a lot of you do. I've read quite a few. And a lot of it's, you know, a lot of personal struggle and stuff like that. But a lot of the time, it's not stuff that impacts us and impacts the people we know. Impacts, like, things in such a tangible way. We have a women's tour de France again, thanks to the story in this book. And, you know, I cannot be thankful enough for Kathryn Bertine and her...
+
+6
+00:02:20,368 --> 00:02:49,904
+Group, which I still struggle to pronounce because it's in French, Latour Antier, I think, something like that. Sorry for mispronouncing that. But it's, anyway, so I tagged her, and she said, thanks so much. And I said, well, would you be willing to come on the podcast? And she said, yes, because I just had so many questions for her that we're going to get into today. And so I asked her about the challenge of the publishing process.
+
+7
+00:02:49,904 --> 00:03:19,232
+I ask her about her ability to three-dimensionalize people and not just paint people as a bad guy. We kind of talk about that as like a negotiating tactic, especially when you are negotiating with people who potentially don't think that women should have like equal prize money or equal distance or whatever it is. So we talk a lot about that. We talk about what's on the cutting room floor from the book. We also talk about St. Kitts and Nevis. And we talk about, you know, developing cycling in smaller nations.
+
+8
+00:03:19,232 --> 00:03:29,824
+Not that we've got any amazing ideas or anything like that. We just hope it gets done. And, you know, we also talk about all the shit she's gone through in the book.
+
+9
+00:03:29,824 --> 00:03:56,944
+and Homestretched, which is her foundation to help young new cyclists who are making no money and trying to help them get to the Olympics or the World Tour, and they have done so successfully many times. We also talk about her relationship with Doug Stanhope, who is a raunchy comedian, and as soon as I learned that they were buddies, I could not ask, and I'm so glad I did because what we talked about with Doug is...
+
+10
+00:03:56,944 --> 00:04:25,280
+It's like everything in Stand, it's way more than you possibly could have expected, and it's way more interesting than I possibly could have expected. So, yeah, I want to thank Kathryn Bertine for coming onto the podcast and being such a cool podcast guest. This is probably one of the most interesting conversations I've ever had, and I'm so happy I got to have it with her, and she's an absolute badass. I've been a fan for a long time, and it's...
+
+11
+00:04:25,280 --> 00:04:49,440
+Yeah, it's absolutely transparent. That's the fact when we get into this conversation. So please forgive my being a total fanboy. But that's just the reality of it. So yeah. And if you'd like to get Stand, you can find it on Amazon or wherever. We kind of get into it at the end of the podcast. But if you are not going to make it there, don't worry about it.
+
+12
+00:04:49,440 --> 00:05:18,256
+Just head over to Amazon and pick up Stand. I swear to God, it's going to be worth it. And if you want to support Homestretch, you can check out our show notes. I think it's homestretchfoundation.org and KathrynBertine.com if you want to go check out her website. And yeah, I think that's it for now. And if you are watching the Women's Tour de France, this is the person who you can thank for that. So yeah, let's get into our conversation with Kathryn Bertine. Thank you for writing the book.
+
+13
+00:05:18,448 --> 00:05:46,992
+Thank you for seeing you. I got it as a recommendation from one of my clients, and she said to me, I gave her that Dan Bigham book stat at the end, and she says, this was good, but I had to put it down because I couldn't put down Stand. And she said she binged it, and she was like, you should get a copy. So I did, and I had to put down the Greg LeMond book, the big book of cycling from the 70s, and I was like,
+
+14
+00:05:47,216 --> 00:06:07,792
+She's right. I cannot put this down. The narrative structure, the emotional structure, if we could say it has one, it exceeded all expectations. Great job on your writing. I'm a former ESPN writer. Thank you. Go figure. Oh my gosh.
+
+15
+00:06:07,792 --> 00:06:34,272
+Well, it means the world to me to hear that. I mean, it's an author's dream to feel that somebody connects with their work. And to hear binge-worthy, it's like any author's dream. Well, I mean, you do such a great job of setting up foreshadowing, like, in a real subtle way. And I'm like, oh, I hope this resolves. And it all does. So, like, yeah.
+
+16
+00:06:34,272 --> 00:07:02,176
+And I'm also not a person where this happens a lot, but I teared up twice in the first 50 pages. There is some heavy shit in this book. There's some heavy shit in this book. There's some real heavy shit. But before we get to that, it's not with a traditional publisher. And I've got this next to me right now, but it's going to go on my shelf next to the Peter Sagan book and stuff like that.
+
+17
+00:07:02,176 --> 00:07:26,832
+But it's going to go next to books that are like called My Life. And that seemed to me like, you know, they're put out by big publishers, and this one's not. So what was your journey to publishing Stand? Ah, thanks for asking. I like telling this story. So Stand is my fourth book, and my three previous books were done by traditional publishers.
+
+18
+00:07:26,832 --> 00:07:48,208
+traditional publishing companies. The big names in the business, like Little Brown, ESPN Books, Random House, right? I've got Road Less Taken right here. It's from Triumph. Yeah, from Triumph, which is one of the leaders in sports publication. I'm thinking to myself,
+
+19
+00:07:48,208 --> 00:08:16,592
+You know, and I'm by no means famous, but I was thinking that after having three books that have been on the successful publishing track, that book four would be a little bit quicker and easier to get the deal for, and it was the opposite that happened. We're going back to about 2018, when the book was just in proposal form, not yet written, and my agent shopped it to the big dogs of publishing, and we got 25 rejections, and they all said the same thing.
+
+20
+00:08:16,592 --> 00:08:46,368
+and they said, I'm going to have a great quote from one of them, but they all said, we don't think a book about women who stand up and fight for change is going to sell. And one publisher went on to say, yeah, there's no room on the shelf. Don't bother. And like that flipped the switch for me. Yeah, why publish anything at that point? Right? And I'm sitting here and I had to kind of do a deep dive. Publishing's changed in the last decade.
+
+21
+00:08:46,368 --> 00:09:15,936
+But pretty much, but in the beginning, like in 2003, when I got my first book, publishers wanted original content. And now what they want with the advent of social media is a guarantee that books will sell. So they keep publishing the same stuff of the same themes over and over again. And when they saw that, huh, you know what, there really aren't very many books, if any, about women who stand up and fight for change. Therefore, we can't compare it to anything. Therefore, we're not going to take a chance on it.
+
+22
+00:09:15,936 --> 00:09:45,792
+And I'm like, therefore, you just get the wrong person. That's a cast 22, though, because you've got to put the books out there for there to be more of them. Exactly, exactly. So hence, the shelf reference that I'm getting to on that very notion, which is, you know, so when I'm presented with this option of basically no publishers are going to take a chance on stand. So therefore, I have two choices. One, don't write it.
+
+23
+00:09:45,792 --> 00:09:58,256
+And two, write it, make my own publishing label, and put it out there and prove those suckers wrong. And, you know, being that, you know, I still have that athlete instinct, so I went up the latter.
+
+24
+00:09:58,256 --> 00:10:26,288
+and it took longer. It took three years because now I had to write it around my other work. It's not like I had an advance to call it a job to sit down and write. And so it took longer, but I was motivated. I had to also choose to be motivated by that no and that quote unquote rejection of the publishers. So I founded a publishing label called New Shelf Press, as in they said there's no room on the shelf. And I'm like, oh yeah, there's a new shelf in town. We're going to make room.
+
+25
+00:10:26,288 --> 00:10:55,824
+You know, so I put it out. And here's like the real happy part of this story is that Stan has outsold all three previous books combined. And then following this journey, I didn't realize this at the time behind the scenes, but there were people in the audible, or I should say technically the audio industry who were following Stan's progress. And Spotify reached out and said, we want to give you a book deal for the audio and we want you to read it.
+
+26
+00:10:55,824 --> 00:11:17,136
+And that all just, it, you know, it just hit home. I'm by no means a millionaire, but that felt like a millionaire moment for a company to say, hey, we believe in books about women who stand for change, and we recognize that those publishers were wrong, so we're going to publish this on audio for you. And that felt really good.
+
+27
+00:11:17,296 --> 00:11:46,032
+That's fantastic, because I know a lot of people don't sit down with a paper book anymore, and they want it on audiobook if they're out riding a bike, and et cetera, et cetera, and yeah, that's a great option for this, and also, I mean, as many things as, because I used to be in the music business, and as many things as I don't like about Spotify, seeing something like that raises their brand cachet for me, you know, out of the gutter, at least to moderate, you know? Yeah, I was also really impressed that Spotify
+
+28
+00:11:46,032 --> 00:12:14,256
+connects with other companies, like with Audible, with Chirped, with Libro FM, with Apple Books. So it's not just Spotify, but they have partners. And I was like, super cool. Like, that's how we get the word out, you know? Yeah. Yeah. And actually, transitioning to another question I had about this, because, you know, speaking of Spotify and, you know, the upsides and the downsides,
+
+29
+00:12:14,256 --> 00:12:36,704
+Like, one of the things that you do in the book that's really, really, actually, in all your books, well, all, I've got two. I've got Road Less Taken and Stand. And in both of them so far, you have a great ability to give people three dimensions. Like, you didn't just make Mr. UCI the bad guy in Stand.
+
+30
+00:12:36,704 --> 00:13:03,376
+You know, there was, there was a lot of thought behind it. You know, he's got a family, you don't want to have a scene in public at late at night in the hotel. And even in Road Less Taken, when you're talking about Lance, you know, you discuss the fact that, you know, that it also, well, you, you advise that we look at ourselves when we're all, when we're trying to judge other people. And it's, it's a very kind of like.
+
+31
+00:13:03,376 --> 00:13:29,744
+Shakespearean, kind of the wire, everybody's kind of got a deep thing, even though not everybody in the book obviously gets all three dimensions, but the main people do, and I thought that that was really impressive. Was that a deliberate choice for you? Thank you. Yes, it was definitely deliberate. I think maybe by that time I'd spent so much of my career in activism being judged myself.
+
+32
+00:13:29,744 --> 00:13:58,032
+I wanted to make sure if we're looking at somebody who is seen as the villain, or perhaps could be encapsulated as a villain, like we need to look at different dimensions of this person. And by doing that, we have to take a look at ourselves. Are we being Miss Judgy Pants, you know, or is there something here that transcends, you know? And that was really cool that you brought up, you know, the example of...
+
+33
+00:13:58,032 --> 00:14:22,896
+of Lance, because I firmly believe no matter how much people want to vilify him for the absolute poor choices he made as an athlete, what he did for cancer awareness and cancer research and how he was able to help so many people who were suffering with cancer by giving them hope, like that to me is a side that should never be condemned.
+
+34
+00:14:22,896 --> 00:14:52,528
+You know, and I'm also speaking, like, what he did, you know, with drugs and doping, I have no sympathy for that, but I do admire what he did for giving hope to so many people with cancer. So, yeah, we have to look at all sides, and it's also okay to have multiple sides. I think we're in a society where you only get one side, you know? You're either bad or good. Yeah. You know, we're human. There's a lot of gray going on here.
+
+35
+00:14:52,528 --> 00:15:16,192
+Yeah, no, I think actually competitive cycling teaches you to be more comfortable in a gray area, doesn't it? It does, as soon as you're willing to embrace that and to be like, wow, there is a lot of gray and you can have some views that are very black or very white, but for the stuff that we're questioning or not sure of, it's okay to be gray while you figure it out.
+
+36
+00:15:16,192 --> 00:15:44,064
+And I think that's, you know, I wish someone had told me that a really long time ago. It might have helped my mental health. I know. I know. It's like, it's like, this is a terrible parallel, but I'm a cycling coach, so this is the only one I got really, is like when people try to pigeonhole themselves or others as only being able to do one certain thing, it's like, oh, I've got a, you know, peak power.
+
+37
+00:15:44,064 --> 00:16:05,728
+1,400 watts. I'm a sprinter. It's like, can you navigate a bunch sprint? I don't know if you're a sprinter yet. And that's that kind of thing where when you see a sprinter take off and stick a breakaway, it's like, oh, I didn't know that that person could do that. That's the kind of thing where you really need to be comfortable handling a lot of contradictory ideas potentially in your head all at once.
+
+38
+00:16:05,728 --> 00:16:31,792
+Oh, absolutely. And on that same note, too, I think we see evidence of this in the pro peloton all the time. I think too many women have it made up in their head who the greats are, who the contenders are, and they don't factor themselves into that. And I'm like, oh no, if you're on the starting line, you have just as much chance as they do. And that's, you know, until you get over that hurdle, you're not going to make it.
+
+39
+00:16:31,792 --> 00:17:01,488
+upped anywhere near that podium, unless you include yourself as a contender. Yeah, yeah. And the number of people I coach who get on the start line already being defeated in their head. Yes. I mean, it's not a lot, but they are definitely there. And, you know, they'll not try to, like, make it into the break that they know is going to win because they don't think they can hang. Right. And I'm like, just go. Like, if you find your limit, great. Now we know what to work on. But unless you go find it, we don't know what to do.
+
+40
+00:17:01,488 --> 00:17:30,624
+Exactly. And go find it and blow up and fail because that is not failure. You know, it's knowing that you can rule out that chance of whether or not you tried. And, you know, as a 48-year-old looking back on her pro career, like for me, those are the most glorious moments when I went out there and I tried and sometimes it worked and other times I blew up, but I never questioned, should I have gone? Yeah, I actually,
+
+41
+00:17:30,624 --> 00:18:00,320
+I got dropped out of a race once, and I had a coach who once told me, you know, I was like, well, I quit like nine times before I got back to my car, and I quit another four on the way home, and I got home, and I had some food, and I resolved, I'm going to do this better. And he says to me, he goes, well, cycling's not a sport about winning. It's a sport about managing disappointment. And then he takes a pause, and he goes, and that's why the French love it. Yep, love it, love it.
+
+42
+00:18:00,320 --> 00:18:29,280
+Yeah, it's like that TiVo Pino episode of Unchained. Ah, okay, yeah. Just the disappointment is the first thing about it. Anyway, I'm actually curious if there was anything you wanted to keep in the book but had to get cut. What's on the cutting room floor for Stand? That's one of my favorite questions, because not a lot of people ask that. What had to go? Let's say,
+
+43
+00:18:29,280 --> 00:18:58,560
+I did have some deep dives into my own family, like my mom, my brother, etc. And I realized, as important as those factors were, it was probably just adding too many dynamics to the book. So I just kept it really with me and then my father being a central character. But those were benevolent cuts. There were...
+
+44
+00:18:58,560 --> 00:19:24,800
+Okay, there were a couple cuts that I made. For example, the ESPN boss that was a bit of a sister blocker, not really on, you know, she didn't want to see me succeed. I remember her, yeah. Yeah, right, and also the character of Winona, the team director that also really didn't like me very much. She's burning my memory now.
+
+45
+00:19:24,800 --> 00:19:45,456
+Oh man, me too. Yeah, somewhere there's a therapy couch worn out from the hours I've spent going through that one, you know. But what I had to do is cut some of those examples, because there actually were so many.
+
+46
+00:19:45,456 --> 00:20:08,672
+I realized, and luckily I had a very good editor that I worked with because I needed the voice outside my head to tell me these and remind me of these factors, but if I just kept on throwing out how many negative examples there were, then it got a little bit complainy, it also got a little bit down into the weeds of like, I've already explained that this situation is not good.
+
+47
+00:20:08,672 --> 00:20:34,688
+Do I have to keep explaining how difficult it was? Like, you know, the reader gets it. But I will tell you, like, you know, Stand is about, the entire book is about 125,000 words. This is something writers keep track of. We know our word count. But it was 150,000 words. So about 25,000 words got cut. Oh, wow. And that's more, you know, of those similar examples.
+
+48
+00:20:34,688 --> 00:21:03,200
+but of the same argument that I had already proven a point. You know, I probably could have gone on and on about injustices at UCI or ASO or my team directors but my editor was like, we get it. Yeah. Well, I mean, that's why I said it has such a tight structure to it because
+
+49
+00:21:03,200 --> 00:21:31,664
+You know, there was hardly anything in there that was irrelevant. It was all like, you know, I tried to do this and this was the cost, like the direct cost. And this is, these are the people who had the direct influence, positive or negative, on my journey to get a Women's Tour de France started. And by the way, I don't, I've, I want to thank you for that because I have been having such a great time watching the Women's Tour. I've watched every stage, every edition.
+
+50
+00:21:31,664 --> 00:21:50,352
+I remember when I was coaching MIT, their road team, in like 2015, 16, something like that, there was a screening of Half the Road, and they organized a whole bunch of people to go, and it was incredibly inspiring.
+
+51
+00:21:50,352 --> 00:22:19,456
+Thank you for that. Thank you. Well, I appreciate your gratitude, but I throw it right back to you because if we hadn't had people watching Half the Road or signing the petition for, you know, the Tour de France to happen, then we wouldn't be where we are today. So I'm very appreciative of anyone who's ever been a fan of the film, the book, the movement, like, you know, you're equally why we're here. So it's, you know, take part, take ownership of the Tour de France film.
+
+52
+00:22:19,456 --> 00:22:41,792
+Yeah, well, I just remember when I, I think I've probably coached more women than a lot of male cyclists and male coaches end up doing over the last couple of years. And one of the things I noticed is that, you know, because I originally started like, you know, what do you do? You Google, like, should you train women differently? And then it turns out the deeper you dig, the more it's like.
+
+53
+00:22:41,792 --> 00:23:10,928
+No, not really. They're just as capable as men of everything. And, you know, when I got into track cycling, I'm like, why did I do 3K instead of 4K? It's like, it's not like, you know, it's not like the women's, you know, 100 meter dash is only 80 meters on the track, like the other track. I mean, what's with this? And now I coach the women that I coach and we get shit.
+
+54
+00:23:10,928 --> 00:23:39,920
+For, like, some of the things we do. It's like, oh, you shouldn't be training that much. It's like, why not? You're getting faster. It's clearly working. Exactly. I'm glad that you have that viewpoint. That's really important. And it's so true. And a lot of those hurdles of distance are simply, you know, elements of tradition. You know, it started out as, you know, 800 meters or less. And that's what it was. And nobody thought to change it.
+
+55
+00:23:39,920 --> 00:24:03,792
+as we progressed. And that's exactly what the fight was for the women's Tour de France. You know, even to this day, you'll see, as much as I will always celebrate where we are with Tour de France Femme right now, there are glaring inequities. And the reason that the women are racing eight days, and the reason those stages aren't as long as the men, is unfortunately because Ayetso still believes that women can't do those distances.
+
+56
+00:24:03,792 --> 00:24:26,704
+And that's why I'm this professional pain in the ass, otherwise known as an activist, to really prove the reason we need it to change and the reason we need that equity specifically at the Tour de France is because of those limitations being in place because women are not seen as being able to do it.
+
+57
+00:24:26,704 --> 00:24:41,360
+So, you know, I definitely agree that the shorter races are more spectacular and a lot of fun. And I think what we can also consider in terms of equality and equity is, well, let's make the men's races the same thing.
+
+58
+00:24:41,488 --> 00:25:10,720
+You know, hey, how about a two-week Tour de France for men and women at the same distance? Let's just get on board with the same protocol all around. You can imagine how much pushback I get about that. Yeah. Well, I remember a couple years ago when the Vuelta started really shortening their stages for the men's race, everybody was like, wow, these stages are so much more exciting. Like, I remember a 60-mile race, like about 100K.
+
+59
+00:25:10,720 --> 00:25:38,448
+I think Contador won it, and I think he had exploded the race so much that when the TV broadcast started, he was like damn near at the finish line, like an hour ahead of schedule or something like that. Yeah. Yeah. And so it's fun, but like, yeah, but no, I agree that, you know, because it's not like women haven't done such feats previously. I mean, in the book, like you start with, I'm ashamed to say I didn't know exactly what year it was. I knew it was.
+
+60
+00:25:38,448 --> 00:26:05,616
+I thought it was in like the 40s or 50s, but women hadn't been running marathons until the 60, what was it? Basically, it was the 1967 Boston Marathon when Catherine Switzer ran. Had women been running a bit before that? Yes, but rarely in marathons, right? So it was really the 1967 Boston Marathon that Catherine Switzer ran, and the race director tried to physically drag her out of the race.
+
+61
+00:26:05,616 --> 00:26:32,784
+You know, like, he was so disturbed that a woman was in the man's race. And, you know, that made history, luckily, too. Because now, you know, for anyone, I was born in 75, and I grew up just seeing women running, you know, on the tracks, on the roads, out doing their thing. And it never occurred to me until much later that it had only been recently that women were, quote, unquote, allowed to run that distance, right?
+
+62
+00:26:32,784 --> 00:26:54,560
+So it's wild when we really peel back the layers, how we think we've progressed so much, but it was really just yesterday that we had these limitations. And that's why I'm such a stickler. Can you imagine like... Yeah. Oh, that's why I'm such a stickler. Yeah, I was going to say, can you imagine like...
+
+63
+00:26:54,560 --> 00:27:23,856
+No, I'm all for it. I want a three-week tour. But I was just thinking it would be hilarious to watch somebody like Brian Cookson go out and try to bodily remove Emma Pooley from the Champs-Élysées or something like that. Yeah, pretty much. I mean, it would be the same thing. Probably the only reason they didn't is because bicycles are a little faster than a human on foot. But, you know, I'm surprised they didn't actually create like giant butterfly nets to just sweep in and take women off, you know.
+
+64
+00:27:23,856 --> 00:27:52,944
+Somehow we managed. Yeah, actually, well, along those lines, because you got 98,000 signatures for the Women's Tour, and that's what made the ASO stand up and take notice. I think a lot of people kind of, you know, like, along with the whole, you know, millennials are lazy, whatever.
+
+65
+00:27:52,944 --> 00:28:19,376
+Trope, like that might be classified as slacktivism. Like, oh, you just signed your name, whatever, but they took notice. So what are your feelings between slacktivism and activism? And obviously, you know, it's difficult to go make a mob outside the ASO headquarters, although that would have been fun too. Yes, that would have been, or and will be.
+
+66
+00:28:19,376 --> 00:28:47,168
+Mobs can be very helpful. But I think, too, that, honestly, that difference of slacktivism and activism, I think that I've noticed, primarily, now that we're in this heyday of social media, I see plenty of people tagging their protagonists on social media, saying, hey, you should make something happen, and using social media as a medium to, quote, unquote,
+
+67
+00:28:47,168 --> 00:29:14,736
+Create Change, but that's not really how you do it. You know, that is very slack. You know, if you want to step into the activism realm, the best thing you can always do, and this will be from now until the end of time, is to meet face-to-face with the opposition and go in there on the friendliest terms and prove to them why it would be benevolent and advantageous to both sides to move it forward, you know, both financially, socially.
+
+68
+00:29:14,736 --> 00:29:39,648
+everything, how both parties can gain from moving something forward. And what was happening, as you know from reading Stand, behind the scenes, was that it was never just about the petition on change.org, but it was about setting up the meeting with ASO and working with them behind the scenes, which we did. And that's what creates action.
+
+69
+00:29:39,648 --> 00:30:07,456
+actually getting a seat at the table where decisions are being made. Ruth Bader Ginsburg, for that quote, you know, that's where we all have the power to do that, too, you know? I am by no means famous. You know, I was living in an apartment in Tucson, Arizona, and if I can affect change at the Tour de France, then anybody can do anything, right? So it's all about...
+
+70
+00:30:07,456 --> 00:30:11,232
+Connecting, this goes too with activism, you know,
+
+71
+00:30:11,232 --> 00:30:39,344
+As I share, I tried doing this alone at first. I reached out to ASO. I was like, hey, I've got a business proposal, I've got a plan, blah, blah, blah. And I never heard back. For four years of trying over and over again to reach Prudhomme and ASO. And they just didn't listen. And then it dawned on me when we were making the documentary film Half the Road and I was interviewing Marianna Boss and Emma Pooley and Chrissy Wellington. And I asked everybody I interviewed the same question.
+
+72
+00:30:39,344 --> 00:31:02,160
+You know, do you want to see women at the Tour de France? And they're like, oh, I just don't want to see women. I want to be one of the women racing at the Tour de France. And then I was like, aha, the light bulb went off. And I was like, this is where the magic happens. Strength in numbers, you know, band together. And that's something, too, that I think it's really important that every potential activist knows is that, you know.
+
+73
+00:31:02,160 --> 00:31:26,576
+Marianne, at that point, she had two Olympic gold medalists. Emma Pooley had an Olympic medal in multiple world champion titles. Chrissy Wellington in triathlon was like four-time Ironman champion. And then there's me, you know, this Yahoo in Tucson who's trying to be a pro cyclist. And what I did bring to the table was organizational skills, writing skills, and a vision and a path. And that was...
+
+74
+00:31:26,576 --> 00:31:55,344
+a necessary concrete element to creating change. But bringing in the superstars was what helped get it off the ground. So it's really important people know that you don't have to be the superstar to make change happen. You can drive the bus, you know, and get everyone on board. So I like to call myself a professional bus driver, you know, and make sure people know they can be that bus driver too. So what was the question?
+
+75
+00:31:55,408 --> 00:32:20,960
+That was so much more that I was hoping for from that question. But let's dig a little deeper because actually one of my favorite parts of the book was when you were discussing basically wargaming, like being in the war room and strategizing going into the ASO meeting. Yeah. I love that because you
+
+76
+00:32:20,960 --> 00:32:49,424
+Pretty much make it clear that there was an instinct to go in there like good guy versus bad guy. Yeah. And you were like, you know, it was like, or like, you know, three weeks women's tour de France, like next year, or I don't know, we're going to leave bags of poop on your front door, mailing farts in a box or something like that. But instead, it was like, no, we can meet them halfway and we've got a strategy so they can see like the seed of one day and then grow it out.
+
+77
+00:32:49,424 --> 00:33:15,760
+as it goes. And I thought that that was great because I think a lot of people these days, and this is of course just me reading stuff on the internet, so of course it seems like this, but it seems like a lot of people are, you know, like you mentioned before, like either hardliners one way or the other, no matter what. And meeting someone in the middle, there's so much value to that, it seems, right? Yeah, for sure. Yeah.
+
+78
+00:33:15,760 --> 00:33:43,552
+Meeting in the middle is the way to go, to get your foot in the door, and it's from that middle point that you realize you could go both directions. You could take a step back or a step forward, and when it's the right combination, it's going to point you forward. That's how you have to approach it. We also knew, too, that what was most important about that meeting with ASO and with really sitting down and talking with them was making sure that we weren't coming to the table saying, hey,
+
+79
+00:33:43,552 --> 00:33:58,624
+Do this, make this happen, but how can we together make this happen? And, you know, as we talk about in STAND, we, and we being Latour-Entier, which is the pressure group that Emma...
+
+80
+00:33:58,624 --> 00:34:27,984
+Mariana, Chrissy and I, you know, formed. So we actually made Lock Horse by Tour de France happen behind the scenes, you know, and ASO was obviously the one who took all the credit for that, and that's okay, because, you know, I've now made that public knowledge, so I don't mind. But it was really about, like, we've got to get this off the ground, and we need to get the naming rights back, that this race can't be called the Grand Boucle or, you know, some derivative. It has to be.
+
+81
+00:34:27,984 --> 00:34:41,264
+And it has to be on the same day. It's got to be, well, of course we wanted 21 days, but we said it has to have the name Tour de France because you took that away, you know, in 1989.
+
+82
+00:34:41,264 --> 00:35:09,680
+and other people tried, but well, let's just make a Women's Tour de France and ASO is like, no, you cannot have the name Tour de France, that is ours. I have voices, sorry. While waving a baguette, let's make an extra French. Oh, I can do that. So, I love the irony too that Bertine is actually a French name, so that's really fun for me. You know, I was like, maybe they'll think I'm one of their own. They did not. They still don't. Anyway.
+
+83
+00:35:09,680 --> 00:35:37,344
+We'll get to that. The American just bleeds off of you, doesn't it? Oh, totally. But yeah, you know, it was all about compromise and about working together and making it happen. So as an activist, and especially this is where slacktivism fails, is that there is no plan or there is no compromise or it's telling somebody else to do something. That's slacktivism. Activism is when you say,
+
+84
+00:35:37,344 --> 00:36:06,224
+Let's make this change happen together. And I've got both feet in. What do we do together? And, you know, ASO, to their credit, and I don't often give them credit, but they did actually say, yeah, okay, let's make this. And then we had to come up with the name. We had to come up with the format. How, you know, what's the team structure going to be? All of that. And I do applaud them for working with us because we knew that better as pro cyclists than they did.
+
+85
+00:36:06,224 --> 00:36:20,336
+So it was definitely, it had to be mutual for it to work. And of course, La Course by Tour de France was very, very successful. And where ASO failed us was that they didn't hold up their promise, which was that, yes, one day...
+
+86
+00:36:20,336 --> 00:36:48,928
+in 2014 was their goal, because they were so scared. They were like, well, we have to see if anyone will watch. And we were all like, uh, they're gonna watch, you know? But okay, we'll have to prove it to you, because women always have to prove something, you know? So, but we all were just kind of giggling. We're like, just you wait. All the numbers are gonna come back with, like, gazillion, quadrillion ROI in your benefit. So, and it did.
+
+87
+00:36:48,928 --> 00:37:18,128
+And then we grew a little skeptical when their immediate reaction was like, we're doing this next year, 2015. And we're like, yeah, three to five days, right? You're going to grow it incrementally? And they're like, we're doing just what we did in 2014. And we're like, eh, eh, you know, red flag kind of went up. And then when 2000, sorry, 2016, when they went in again for one day, that's where there was a turning point where the
+
+88
+00:37:18,224 --> 00:37:35,184
+The media started to get a little itchy in the best way, too. They're like, hey, hey, hey, enough of this one-day stuff, you know? And then ASO responded by being like, oh, no, big changes coming, big changes. And then the fourth year, they switched it from the Champs to the mountains. And we're like...
+
+89
+00:37:35,472 --> 00:38:00,608
+That's not progress, that's shape-shifting. It's one day in a different location. I'm like, we can see what you're doing, you understand. You think you're pulling one over on us, but we're kind of smarter than that. And then they tried to do a two-day event with one day, and then they did an invite-only time trial, like they used to have at the Tour of California. I'm like, oh, that's a show pony event. That's not how a stage race works. You don't just...
+
+90
+00:38:00,608 --> 00:38:28,992
+Invite people to one stage and then have a free-for-all for the other. We're like, oh my gosh, ASO, they're kind of dummies about cycling. You don't know how stage race works, right? Yeah, it looks like they're being so, so, so tepid. They want to, they're like, will anybody watch a time trial? Will anybody watch a mountain stage? We're going to do one each year and, you know, we're going to keep our investment as low as possible. And actually the part that I, and Stan, that I thought was so funny because, you know, this.
+
+91
+00:38:28,992 --> 00:38:57,184
+kind of matched your average almost $0 salary for pro cycling for most of your career, which obviously running Homestretch, you know that that still happens pretty much like almost every team now. Yeah, still happening. But I thought it was funny that they were trying to get you to keep doing market research afterwards and like go find big money sponsors and all of that, which is like
+
+92
+00:38:57,184 --> 00:39:23,248
+stuff that you would pay other people like tens or hundreds of thousands of dollars to do. And they were pretty much like, you're going to do this for free, right? And you were like, we know our value. No, no, no, no, no. I thought that was fantastic. Thank you. Yeah, we did. I went to them in 2015. I had a sit-down meeting with ASO. This is when they also had headquarters over in California because they were running Tour de France. Sorry, Tour of California as well.
+
+93
+00:39:23,248 --> 00:39:51,536
+Yeah, they own both, right, for that time. And la la la. So I went over there and I was like, listen, you saw what we were able to do with Lockhorse by Tour de France, so hire me so I can come in and actually find you the investment and the sponsorship so we can have a three to five day race next year and then grow it incrementally. And the response was, we are not hiring for that position. And I'm like, yeah, I know, you don't have that position.
+
+94
+00:39:51,536 --> 00:40:19,984
+I'm here saying create it and let me do this for you. And they said, well, no, we don't have that position, but you go find those sponsors and then you let us know and send them to us. And I was like, oh my God, like they think I have an elementary school education. Like, you know, I'm like, I know what you're doing. You're just trying to use me to line your pockets. No, it will not happen. So, you know, it was.
+
+95
+00:40:19,984 --> 00:40:49,824
+But it was a little bit sad and it was just a little unfortunate that, you know, they took that line because the reality is, had they done this way earlier, we would actually have a three-week Tour de France for women right now. So you have to really, unfortunately, peel back the onion layers a bit to see that as amazing and fantastic as Tour de France femme is, it could be so much more.
+
+96
+00:40:49,824 --> 00:41:15,712
+And I believe it will be. But my fear is that if it took us eight years to get eight days, are we in for another 14 years until it's 21 to 23 days? You know, and of course, I keep blabbing about this, and they don't like me very much. But the offer still stands. I'm like, hey, ASO, bring me in. I'll get it done.
+
+97
+00:41:15,712 --> 00:41:45,248
+I understand the instinct. A lot of the teams for a lot of my pro clients, they're annoyed by me because I keep advocating for their health and well-being and things that are, you know, strange stuff like that. And so I get the being a squeaky wheel thing. Yeah. And sometimes you get grease and sometimes they want to replace the wheel. So it happens. Yeah. Oh, yeah. Yeah, but we're working on that. I'm curious because the, well, what, being squeaky?
+
+98
+00:41:45,248 --> 00:42:04,272
+That's what I do. That's what I am. I am a squeaky wheel. I feel you. Actually, I was – and this is just me, probably because I don't know how the financial structure of cycling at that level works so much, and it seems like you know a lot more than I do, so I should ask you.
+
+99
+00:42:04,272 --> 00:42:28,544
+Why doesn't the men's race, or do they have actual sponsors? Like, do people pay the ASO? Like, why don't we have the men's Tour de France of XWIFT? Why is it the women's? Like, I thought a lot of it was from, like, TV rights and stuff like that, where people pay the ASO for their broadcast. Am I off base here? Totally. I feel like I'm, like, half there, though.
+
+100
+00:42:28,544 --> 00:42:53,072
+Okay, I can fill in what I know about these bases, you know, and it's always funny when people are like, how does the structure of pay and sponsorship works? I'm like, well, when unicorns and fairies float down from the skies, they sprinkle magic dust, and this is how it works. Because honestly, that's how pro cycling feels sometimes, especially on the women's side. But the reality is this, for the Tour de France, and you'll have to...
+
+101
+00:42:53,072 --> 00:43:08,800
+Forgive me that I'm using 2022 stats here, because I haven't done the deep dive into the 2023 stats, so forgive me if I'm off a little bit in my predictions. Well, we're still mid Tour de France right now, so. Right, right, it's still valid.
+
+102
+00:43:08,800 --> 00:43:32,624
+Where you're asking kind of, you know, where does the money come from? And how does the sponsorship work? So when you look at the big sponsors of the Tour de France, and you have like Skoda, which is we know that's huge. I believe, is it Vittel Water is another one that's been around for many, many years, right? So what is what these sponsors are doing is they're, they're giving money to ASO to hold the Tour de France.
+
+103
+00:43:32,624 --> 00:43:54,832
+And what's happening there is that that money, you could say that it goes into a giant bank and ASO is just allocating it all toward the men's side. What ASO has the power to do is advocate for the women too and say, okay, we're going to take half of this and put it over here toward the women. And that's what they're not doing. And instead, they're unfortunately like...
+
+104
+00:43:54,832 --> 00:44:21,344
+They're taking, that's how they're paying their own people and their company from these giant, you know, sponsorships that come in, and the women are getting the short end of the stick. So props to Zwift. I absolutely adore that Zwift has come in and done this pledge of a four-year sponsorship. They deserve nothing but kudos and accolades for that, right? So they are specifically sponsoring the women's side, and they...
+
+105
+00:44:21,344 --> 00:44:48,544
+Hopefully we'll keep doing that forever and ever. But the fact that they had to sponsor just the women's, and it couldn't go into this larger bank of the men and the women, and therefore also have all the other sponsorships be for the men and the women collectively, build that pot as big as you can get it, and then equally split it to the men and the women. Like, I did not major in economics. I'm an English major. And if I can figure out that that's the correct structure, and the fact that ASO doesn't.
+
+106
+00:44:48,544 --> 00:45:17,856
+and or can't. It honestly turns this corner now to, unfortunately, three terms, which is laziness, sexism, and also apathy. I think that they feel that they've granted women presence at the Tour de France. They get eight days. That's enough. Settle down now, ladies. Stop asking for more. And it's unfortunately a form of tokenism.
+
+107
+00:45:17,856 --> 00:45:47,584
+You know? So, that's why I'm so thankful for Zwift being like, hey, listen, we're here to sponsor the women. And it's amazing they've done that, but it's also not okay that ASO is not drawing from the bigger sponsors to make this a collective, you know, source for all. And that's where I'm like, again, hire someone to come in and be the person who sponsors both. And if I can, I'll give you a quick example. Do you remember when we had Tour of Utah?
+
+108
+00:45:47,584 --> 00:46:15,648
+Right? Yes. Do we still? Do we still? No. Do we still? No. Okay. Tour of Utah was sponsored by the car group Larry H. Miller. Okay. Big car group. And I did an expose on this back in 2013 because that's what we annoying pesky riders do. You know, and I went to Larry H. Miller and I said, because they had actually announced there was going to be a one-day criterium at the seven-day men's race. So I went to Larry H. Miller and I said, hey.
+
+109
+00:46:15,648 --> 00:46:41,984
+Larry H. Miller, HR people. Are you aware that there is women's pro cycling and that we want also to partake in the seven-day race? And they said, no, we had no idea. We were only pitched a one-day, 45-minute criterium. So when you really peel back the layers, it comes down to that race promoter or the person who's going after the sponsorship doing the pitch.
+
+110
+00:46:41,984 --> 00:47:01,472
+and saying, you know, that's where those guys, and it was medalist sports, bless their hearts, I hope they've, you know, learned from this example, but that's where it comes down to medalist sports saying, like, yeah, you know, like, rather than asking these sponsors for one million, why not ask them for two million?
+
+111
+00:47:01,472 --> 00:47:19,008
+and have it go equally men and women. Or ask for $1 million and do $500K each direction. And it would have been better to see two four-day races for men and women than one seven-day race for men and a 45-minute crit for women, right?
+
+112
+00:47:19,008 --> 00:47:45,552
+It's a convoluted method, and it's just so old school. Basically, race directors and promoters have just been doing what they've been taught to do, and we're only starting to see change when people are getting the bigger idea, which is, oh, wait, wait, you can ask for sponsorship for both men and women? That's crazy. I'm like, isn't it? Yeah. Because you know what it sounds like is I don't...
+
+113
+00:47:45,552 --> 00:48:10,320
+deal with, you know, race promoter politics on this level, but I do on the local level a lot. And this sounds a lot like race promoters who will say, oh, we don't get enough women to justify holding a women's field and stuff like that. Like, it's like you can take, and I've promoted races too. You can take the money you make from the cat four or five men's field and the masters 40 plus field and just be like, great, this is going to pay for the women's field.
+
+114
+00:48:10,320 --> 00:48:39,648
+if they don't, like they need prize money too, like what, why, why wouldn't we do this? It's like running a junior's field too, it's like only 15 juniors show up, like what, you're gonna like, you know, not, you know, you're gonna not hold a race for the future of cycling, like it's like, you know, women are cyclists too, like why not? Exactly. Yeah, the whole thing, it seems silly to me. It is silly and it's also, you know, you can do this at the local level. We did it at Tucson Bicycle Classic, which has been around for almost 40 years.
+
+115
+00:48:39,648 --> 00:49:04,640
+And back in the day, they had different prize purses because there were not a lot of women in the past. But now there are. And we went to the race director and we say, hey, what about equal splitsies right down the middle, you know, for the Pro 1-2 field? And he was like, okay, good idea. You know, so he did. And so it's been equal for the past, you know, five or six years. And now it's equal distances in all the races.
+
+116
+00:49:04,640 --> 00:49:33,056
+And I love to share this example because anyone who's out there listening, if you've got your local race, go to that race director and say, hey, now's the time for change. And look at all the other organizations that are doing it. Because it's not just the Tour de France. You can do this at the grassroots level, too. And that has to happen. And sometimes these race directors just need to kind of be jolted from their past and into the future. And the majority of them, I think, will. You know, they just kind of need to be woken up to that.
+
+117
+00:49:33,056 --> 00:49:41,744
+So it's a good thing. I'm certainly aware of a few who are reticent at best.
+
+118
+00:49:41,744 --> 00:50:08,304
+But actually, another question I had on this is actually because you seem to be somebody who's given thought to everything, and you've got a plan for everything, which is fantastic. What else are five-hour bike rides for? What does your brain do? This is what mine does. Nothing. It's the only time it shuts off. That's great. That's good. I wish mine would. Mine went into overdrive thinking, and then I'm like, oh, I don't know if that's... Oh, wow.
+
+119
+00:50:08,304 --> 00:50:35,936
+You're like, hey coach, can I get shorter rides? My brain is driving me nuts. I now only ride for like two hours at a time, so I think I'm on a slightly healthier spectrum. Perfect. I'm sure the UCI is happy with that. Well, so my question is that most of the money in cycling either at the local level comes from the participants and at the global level comes from big money sponsors. I mean, F1 is kind of like this. I watched some F1 and so it's like, you know, the...
+
+120
+00:50:35,936 --> 00:51:00,064
+But that also helps sell cars, you know, like, oh, Mercedes is really fast, like they're dual clutch, whatever. I don't know if it's actually in their cars, but like, oh, we'll go buy a Mercedes. They're really whatever. And so, you know, that's kind of a nice loop. And then, you know, they can win money by doing well in the race series. But that's like a, you know, a nice self-repetuating cycle. And like there's, you know.
+
+121
+00:51:00,064 --> 00:51:29,056
+Major League Baseball, Basketball, Football, Soccer. The money comes from the viewership rights and the fans selling tickets, buying tickets to the games and merchandise and all that stuff. So where's the disconnect in cycling that we're reliant on kind-hearted donors and the participants themselves? Yeah. The disconnect in cycling comes from the fact that they have failed to grasp the analogy of if you build it.
+
+122
+00:51:29,056 --> 00:51:51,280
+They Will Come, right? Which is the fantastic quote from Ray Kinsella's Shoeless Joe, which was made into the movie Field of Dreams, right? And it's about the guy who builds a baseball diamond in a cornfield in Iowa. And long story short, amazing things happen. But because he built this field, then...
+
+123
+00:51:51,280 --> 00:52:14,464
+Everyone came to Iowa to watch these games, right? That's a very simplified version. But the whole thing with cycling is that on the women's side, the races that actually build it, the women come to those races. And then therefore, so do the fans, so does the marketing, etc. But we have to embrace that more than we're seeing. And that's why it was so mind-boggling to me that our...
+
+124
+00:52:14,464 --> 00:52:42,368
+Dear Friends at ASO only stuck to that one day when they didn't seem to grasp early on, like, hey, if you build an eight-day Tour de France for women, not only will they come, but they will absolutely, like, crush it and make this amazing race that benefits you financially as well. So we have the same thing in play for any of the races where the distances are too short or where there are no women's events, you know.
+
+125
+00:52:42,368 --> 00:53:07,152
+Just build it, and the rest will fall into place. But if you don't have a venue, then you don't have the infrastructure to provide sponsorship, to provide marketing. It's got to start with the initiative of saying, we're going to hold this race. We're going to make this happen. That's got to come first. And the visionaries get that. The visionaries do it, you know? Like Jacques Levitain. I think it was Jacques.
+
+126
+00:53:07,152 --> 00:53:29,168
+Unless I've just gone totally like French, and that was the first thing that came to my mind. But Leviton, the race director for the Women's Tour de France, you know, back in, what was it, 1955, like he was like, yeah, let's put women in the Tour de France. You know, that's what we need. We need those creative thinkers who will build something that is not there for the first time.
+
+127
+00:53:30,160 --> 00:53:50,016
+Yeah. And so is that something that people can do to actually support this kind of thing? Is like go to these races that support equal distance, equal prize money, equal time? And even if the women's fields are small, is that something that women can do too, is go to these races even if you're going to get your ass kicked? Yep.
+
+128
+00:53:50,016 --> 00:54:07,600
+Absolutely, absolutely. And as we know, too, there's a structure in cycling. It's not like a cat four woman is going to walk into the Tour de France. That's not how it works. But that is how you become a fan. It's how you become a participant to get involved. And, you know, I mean, think about women's soccer, you know.
+
+129
+00:54:07,600 --> 00:54:35,600
+People are huge fans of the sport, but they might not be a soccer player, or they might not have originally been a soccer fan, but it's happening, and they're watching it, and they want to be part of it. So the same is true for cycling. We also have such incredible stories in the women's peloton, because we've had to hold ourselves up in so many fascinating ways, you know, behind the scenes to even make it a viable option to be a bike racer. So, like, there's such a rich history in the sport, so what we need are more people who are...
+
+130
+00:54:35,600 --> 00:55:05,136
+Willing to tune in and learn. And also now, too, while we're in this era of streaming everything, the biggest piece of this puzzle is the media sponsorship. You know, we need a way for women's cycling to be valued and seen. And that step, of course, is the media. You know, so we've made great strides. Like, I'm super stoked how many networks are showing Tour de France Femme.
+
+131
+00:55:05,200 --> 00:55:30,816
+Also, we're only getting, at least in the US, on Peacock Sports, we're only getting two and a half hours, whereas the men, you get the whole day. Yeah. So, like, hello? You know, who's not marketing or selling the broadcast rights properly? That's you, ASO, and I'm watching. You're like the eye of Sauron. It's great. Yeah. Oh, yeah. They love me. It's great. They love me.
+
+132
+00:55:30,816 --> 00:55:54,048
+You know, I actually, I got an email today from ASO Legal. Oh, really? Oh, yeah. Can I ask about what? Oh, please go ahead. Yeah, breaking news. Here's what I love. Let me preface this with, I actually, I also got an email from UCI. You know, I work behind the scenes to make sure we're going to have better pay equity for women. So I got this awesome email from UCI and Lepartient and I are going back and forth on like...
+
+133
+00:55:54,048 --> 00:56:19,680
+What can we do to make this better? So yay, positive over here, and then over here, so I'm getting this great email from Lepartiens, and I'm getting this crap email from ASO Legal, and I'm like, welcome to the gong show of my life. But, so ASO, for those who might not know, that is the parent company of ASO, Amer Sport Organization, they own the Tour de France. So, this week...
+
+134
+00:56:19,680 --> 00:56:43,808
+I run a foundation, Homestretch Foundation. We provide free housing for female pro athletes at the pro continental level because they don't yet have a base salary. It's a long story, but it's an awesome organization. And every year we have a kit sale. It's our kit. We have an equality kit. We put it out there. It's great. So what I did this week during the Tour de France is I said, hey.
+
+135
+00:56:43,808 --> 00:57:12,320
+Our Homestretch Foundation, we've got a kit sale going on, and we're celebrating the Tour de France Femme. So during this week, you can buy a Homestretch kit. And ASO legal. First of all, I should say this. There's no ASO logo. There's no Tour de France logo. There's no Watch the Femmes logo on our kit. It's just the Homestretch kit. But we're so celebratory that Tour de France Femme is happening. And also, we have athletes who have been in Tour de France Femme.
+
+136
+00:57:12,320 --> 00:57:39,248
+Right? Last year, etc. They're on the teams. So there's this way, we're just trying to, like, get the word out, show support. So ASO Legal steps in, and I get this very snooty email that's like, please remove any mention of Tour de France Femme from your Homestretch website, from your Homestretch kit. And I'm reading this, and I'm like, wow, you really don't like me, do you? You guys, you know, you are cruising for another petition.
+
+137
+00:57:40,048 --> 00:58:06,624
+God. But I wrote back to them. I know. It's crazy. You wrote back to them. Well, I can tell you what I would have wrote back to them, but it's not. Well, we can curse on this podcast, but I'm still not going to say it. Believe me, my brain did the same thing. What my brain wrote back, what kept up here is different than what my, you know, what I typed. I kept it very professional, but I also, you know, employed benevolent shaming. And I told them, I was like, shame on you.
+
+138
+00:58:06,624 --> 00:58:33,456
+All I'm doing is giving Tour de France Femme more exposure. I'm not infringing on your copyright. I don't have your logo on my stuff. I'm saying we're celebrating what Tour de France Femme is doing. And you can support Homestretch in addition, you know. And I told him, I'm shame on you. Shame on you for picking on a nonprofit that supports women that are in your race, you know. Yeah, for real. And then, you know, signed it off to like, oh, and...
+
+139
+00:58:33,456 --> 00:58:59,392
+Please give my best to Christian Prudhomme, you know, tell him I said hello. So, yeah, it's the stuff where it's just, like, unbelievable. So they don't, ASO doesn't have enough money to hire me to bring them sponsors, but they do have enough for a legal associate to say, don't associate with Catherine Bertine. It's so strange, too, because, like, because
+
+140
+00:58:59,392 --> 00:59:28,848
+I can post on social media like, hey, let's all celebrate the Tour de France femme avec Zwift. I'm not going to get a letter. No. It's something where it's like, do I wear this as a medal of honor or a target when they send me stuff like this? I don't know. It's kind of a toss-up. I also don't know.
+
+141
+00:59:28,848 --> 00:59:44,144
+Whew, man. Anyway, so I don't even know where to go after that. So if you're hearing this, go out and buy a homestretch kit, you know? I'm actually going to right after this. Thank you!
+
+142
+00:59:44,144 --> 01:00:13,616
+Awesome! We have tech teased too, but no, I appreciate it. I'm probably going to put it on social and be like, I can't believe they're doing that. This is crazy, you know. And everything from the kit sales, which is through Castelli, it all goes to supporting Homestretch. You know, it doesn't line anybody's pockets. It's all like moving our whole organization forward and their athletes forward. So it's just silly. So yeah, equality kits on Homestretch. While we're talking about Homestretch, because that's where the book,
+
+143
+01:00:13,616 --> 01:00:41,040
+ends is like the next chapter, obviously. And so I can't wait for the book after Stand, talking about everything else that's happened ever since. Because, well, also, you know, it's going to be, there's going to be some hot goss in there, obviously. And that's going to be fun to be. I'll do my best to keep it spicy and interesting for you. Thank you.
+
+144
+01:00:41,040 --> 01:01:06,688
+But so this, so it's a non-profit. So like, how does, how does this structure work? Because in the book, your business partner, or business partner, founding partner for Homestretch, yeah, Tom, like he just kind of, he just kind of swoops in like, hey, angel donor, what's up? And you were like, are you fucking serious? Yeah, pretty much. That's pretty much verbatim. Yeah.
+
+145
+01:01:06,688 --> 01:01:36,160
+Well, so how does it perpetuate and how does Homestretch get supported? How does it work? Yeah. Also, yeah, how does it work? But also I want to hear some success stories because I think I recently saw on your Twitter, you've said this many people from Homestretch have gone to the Olympics, they're now World Tour pros, they're et cetera, et cetera, et cetera. And even if they don't make it there, I'm sure that you're still just happy as a clam that you got to support them for a little while.
+
+146
+01:01:36,160 --> 01:01:51,088
+Oh, super happy. Like, this is, again, it's like, I feel like I'm an emotional millionaire, you know, because I've watched this effect on people's lives. And to me, that'll be worth more than gold. Of course, if there are any...
+
+147
+01:01:51,088 --> 01:02:15,184
+multi-millionaires out there that want to make that a financial reality too. Please feel free. But it really feels amazing to step into this world. So short story, Homestretch, again, we help, we provide housing in Tucson, Arizona for female pro cyclists where they can apply for a six-month or three-month residency where they come and they live for free and they do their job, which is training and racing.
+
+148
+01:02:15,184 --> 01:02:44,448
+And they don't have to worry about, you know, rent, utilities, etc. So it helps give them a little bit of a cushion. And behind the scenes, we fight for change, which in this case is making sure that the women at the World Tour and the Pro Conti level receive a proper base wage, which is livable. And that's what the men have. We've made great strides. The women at the World Tour level now do receive a base salary. The tricky part is that the women's World Tour base salary is equal to the men's Pro Continental base salary.
+
+149
+01:02:44,448 --> 01:03:13,248
+So it's lower. It's not equal World Tour to World Tour. It's equal World Tour to Pro Conti. And that's not okay. What's the number? It's like 17,000 euro, something like that? No, so for World Tour, it's roughly 50k euro. For Pro Conti, it's 35k euro. And then there's Neopro, who is like 20-something k. So there's almost three classifications for men. Oh, that's the one I was thinking of, yeah. Yeah, that's what you're thinking. There's like three classifications for men, and for women, there's only one.
+
+150
+01:03:13,248 --> 01:03:42,592
+and it's the middle of those two. So it's an improvement, but it's not equal. So that's where luckily the UCI has me to pester them roughly every month. And the good news is we're changing and working on that together. So that part's happy. But what I've loved is Homestretch has just completed its seventh year. It all came about because I needed this when I was racing. And of my five years, I only received one year where my salary was above the poverty line.
+
+151
+01:03:42,592 --> 01:04:10,544
+You know, I made $25,000 in my last year as a world tour pro cyclist, and it felt like it had six zeros on the end of it. Like, I was like, oh my god, I've made it. I've made it. And now, you know, keep in mind the US poverty line is at about like 19.5. So, you know, and I'm thinking 25k is like the richest that, you know, I've ever been. So, so there's still a lot of work to do, but at least it's, it was there. And, but it made me feel like,
+
+152
+01:04:10,544 --> 01:04:28,256
+If we don't have this for everybody, then women are going to have to quit the sport, and that's a very sad thing. So, hence the fight, hence homestretch. We have, and an angel donor came in and was like, I believe in this. You know, Tom has a son and a daughter, and his whole view was like, they need to be paid equally someday.
+
+153
+01:04:28,256 --> 01:04:56,208
+and that's the short story, longer stories in Stan, but that's how it came out to be. So Homestretch was launched in December of 2016, which was the month that I retired from pro cycling and then stepped into running this. We have since helped 88 athletes from 18 different countries. Six of them are Olympians. Let's see, four of them are Tour de France alumna.
+
+154
+01:04:56,208 --> 01:05:23,712
+Tour de France Femme, alumna, and plenty more who have raced La Course. We have a whole bunch of World Tour athletes. We also are now focusing on the Pro Conti women because they don't have a base salary, so they get first priority when they apply. And, you know, just some seriously amazing things that I've just witnessed is the effect that Homestretch has on their life further down the road. You know, they've made connections. We've had athletes.
+
+155
+01:05:23,712 --> 01:05:52,288
+Sign their first Pro Conti or World Tour contract because of connections they've made at Homestretch. Like they've been vetted as a good human, you know, and team directors will watch them interact. It's pretty amazing. And it just feels incredible to see that we've helped each other. And then on the emotional side for me, as you know from reading Stand, I went through a few hardships where women didn't like that I stood up for change or they felt...
+
+156
+01:05:52,288 --> 01:06:09,520
+that this was, you know, I was either in the spotlight for the wrong reasons, or they just didn't like that I was, you know. Yeah, a few. This book is 400 pages. Or nine. 300, 320. Yeah, 400. That's more than a few.
+
+157
+01:06:09,520 --> 01:06:39,504
+No, it's more than a few. But yeah. I feel so blessed, though. I have some of the closest friends I'll ever have in this world, you know, who have come from cycling. So I lean on them. And honestly, the ones who weren't very nice or very kind, I actually credit them with the inspiration to create Homestretch so we could shift that paradigm. Because, you know, like when I think of Winona, who I, you know, have in the book, who is probably the meanest girl of the mean girls, you know.
+
+158
+01:06:39,504 --> 01:06:59,536
+I think to myself, like, I thank her, in a way, because she showed me exactly how I should, and no one should ever, no women should ever treat women this way. So, you know, she provided the inspiration of, like, how I'll only always support women.
+
+159
+01:06:59,536 --> 01:07:16,416
+Thanks to what I learned from her. And I love it. So it's the coolest thing that Homestretch is thriving. It's doing great. And yeah, you know, it would be great if someday a big title investor came in and was like, here you go.
+
+160
+01:07:16,416 --> 01:07:44,304
+Here's a whole big chunk of money and you don't have to worry about fundraising for the next 10 years. I'd love that. That'd be great. So, you know, Red Bull, are you listening? You know? Make a giant trust fund and just get paid dividends for the rest of your life. LeBron, how about you? I know you like bikes, you know? Reggie Miller. Reggie. Oh, yeah. Reggie actually follows Homestretch and I'm a big fan of his.
+
+161
+01:07:44,304 --> 01:08:13,920
+It's really cool. He'll follow and he'll like things. He really is a big supporter of the women's pro peloton. It's pretty cool to see. I love it. He doesn't know who I am. He doesn't follow me on social, but he follows Homestretch. It's like, okay, I did something good. That's so fantastic. Actually, speaking of which, speaking of the bad experiences that we could learn from, what advice could you give to young
+
+162
+01:08:13,920 --> 01:08:32,783
+Cyclists, Neopros, and Amateurs alike, who potentially are getting taken advantage of, because this is something that unfortunately still happens quite a lot, because you detail it in great detail in the book, and I'm sure that that was only like half of what happened, or even less. Right.
+
+163
+01:08:32,783 --> 01:09:02,720
+I would say to all the young cyclists, know your value, but first and foremost, educate yourselves on what the past of the sport has been, where the present is now, and ask yourself, are you on a team where the directors are getting paid? The Swannies, the mechanics, are they all getting paid, but you're not? Like, huh, question that, because somebody somewhere is earning a salary off of you.
+
+164
+01:09:02,720 --> 01:09:19,439
+and that's not okay and if you want to know what to do about that you know that's where we have to leverage the UCI to instill this base salary for women because that's why they're getting taken advantage of also if you have a director who makes you feel like well if you don't like
+
+165
+01:09:19,439 --> 01:09:43,631
+Racing for Free, I'll Find Someone Who Does. You know, that mentality, it's out there and it has to go. Another reason we're fighting for the base salaries is this leveraging and this inequity it creates and bullying and awfulness. So, you know, if all the women were being paid an equal base wage, it alleviates and eliminates a lot of that.
+
+166
+01:09:43,631 --> 01:10:07,168
+Backward thinking that's happening right now. Also, I want the women to know that, like, you know, you have to, you got to lift up your teammates, you got to lift up your competitors. First and foremost, there's always room at the top. Like, the better this sport grows and the stronger it grows, we'll have more teams that grow from this. So it's not like...
+
+167
+01:10:07,168 --> 01:10:25,568
+You know, you can, you have to think about only getting yourself onto a team, but you have to treat the people around you with kindness and respect, whether they're your teammate now or they might be a future teammate, you know, be a sister lifter, lift the women around you. There's room at the top.
+
+168
+01:10:25,568 --> 01:10:50,688
+You know, the top is not a cliff, okay? The top is a shelf, it's a platform. Lift other women, bring them along, save the competition for, you know, for the race, and by all means, you know, go guns out, blazing, and get that win. But when that's done and over, you know, and you're off the bike and you're training, understand that you've got to, you know, be a support.
+
+169
+01:10:50,688 --> 01:11:15,280
+Not just yourself, but to those around you. And if you are being taken advantage of, you've got to reach out to the UCI Ethics Commission. I also want every newbie pro cyclist out there, and or amateur cyclist on their way up, to join the Cyclist Alliance. It's the closest thing we have to a union. Iris Lappendal and what she's done is tremendous. They are also not fully...
+
+170
+01:11:15,280 --> 01:11:41,360
+recognized by UCI, and I hope that changes, because they're so vital to looking out for the well-being of female pro cyclists, so join the Cyclist Alliance, know that they will be your allies, you know, and to all you youngins, go out there and like and follow all of your competitors and your friends on social media, you know, show them that you're part of the sisterhood together, and
+
+171
+01:11:41,360 --> 01:12:05,680
+I just talked a lot. I've got a lot of thoughts on all of that. And the first one is that didn't the UCI create their own cyclist union that's just entirely toothless? Yeah. What a great phrase. Entirely toothless. Yeah. You know, if you have a union within the confines of the organization, then...
+
+172
+01:12:05,680 --> 01:12:32,736
+I don't feel that that's a very protective union. It's like they're just looking out for themselves. UCI is looking out for themselves. The union has to be outside the UCI so that they can create that leverage and balance. But when you have a UCI Women's Commission, no, they're just going to be covering their tracks and covering their own bases. That doesn't provide a platform for change. That provides a platform for cover-up. Yeah, it does.
+
+173
+01:12:32,736 --> 01:13:01,392
+Yeah, it's like, oh, the call's coming from inside the house. No, no, it's the cyclist union. Yeah, we know they're inside the house. It's fine. Don't worry about that. Exactly. Exactly. It's a puppeteering element of like, oh, yeah, we support women. If you have any complaints, you know, send it here and we'll throw it in the trash bin. But we'll make sure to send you some emails from our legal department on the way out. Oh, yeah, please do. Please do.
+
+174
+01:13:01,392 --> 01:13:23,328
+But also, I mean, one of the things I've seen actually in a lot of teams is that people lie about who's getting paid. They'll say, oh, we're not getting paid, or these riders aren't getting paid, or nobody's getting paid, so of course you're not going to get paid. And then the other thing that you're up against is that a lot of the time there are other people who will...
+
+175
+01:13:23,328 --> 01:13:45,424
+who are able to take your spot, who've got the financial backing from either a really good job or their parents or something where they can just go basically intern for a couple of years. It's like an unpaid internship. If you're not going to do it, somebody else with rich parents will. And that's why the whole sport of cycling is this rich white place. It looks like a ski lift in Norway.
+
+176
+01:13:45,456 --> 01:14:15,200
+Oh yeah, I know, I know, it's, my phrase is, you know, cycling's as diverse as a bag of flour, you know, so we need, we need to fix this, that's both on, you know, in terms of race, but also just the, the disparity of income, you know, it's, it's crazy what's, how that, how it's set up, and that's why it's so important when we fight for this, this base wage, it's more than just women making either 35k or 50k, it's actually creating a system.
+
+177
+01:14:15,200 --> 01:14:40,032
+that helps eliminate all of these factors that we're talking about, you know, where a woman can feel safe saying, okay, I might be making 35 or 50K and somebody might be making more on top of that, but at least I know I have an equal base wage to everyone else and I can get by on this and I know that it's a step on the rung of the ladder upward. And yeah, that alone will help take away the, oh my gosh.
+
+178
+01:14:40,032 --> 01:15:00,896
+If I say no, or if I don't do what the director wants, then he'll just find someone else. You know, it'll eliminate that if the women have an actual base wage where they feel that they're valued. And then if they were to get fired or cast aside, then they go to the union outside the UCI, hopefully, and they say, hey, guess what just happened? This is not okay. Let's...
+
+179
+01:15:00,896 --> 01:15:28,672
+Let's shake some feathers and change this. Yeah, actually, after we stop recording, I want to ask you a couple of questions about that, but they're not fit for air. Oh, that's the good stuff. It is the good stuff. I wish that this is stuff that I didn't even know about. I wish it never happened, et cetera, et cetera. Yeah, there's a lot of that in cycling. Yeah.
+
+180
+01:15:28,672 --> 01:15:39,408
+So one of the other things that all that made me think of is that having higher base salaries also means getting more sponsorship dollars.
+
+181
+01:15:39,408 --> 01:16:08,944
+And I can imagine a lot of teams would say, you know, we're going to have to fold because we cannot meet these obligations or we're not going to be able to be a UCI team. We're going to have to like in the U.S. stick to like, you know, domestic elite or whatever until we can pull in bigger sponsorship dollars. And then that might, you know, also impact the team's leadership structure that, you know, some of them are actually doing really good stuff and, you know, they deserve their salaries. But, you know, at the same time, like, you know, you could see where these difficulties are going to come in. Yeah.
+
+182
+01:16:08,944 --> 01:16:26,176
+So the answer to solving that crazy riddle, which is also very much steeped in tradition, is for there to be a very clear line of world tour, pro-conti, development, and then amateur.
+
+183
+01:16:26,176 --> 01:16:53,392
+You know, like domestic elite. If we have that four-tiered structure, then it provides teams with choice about where they're going to go and market and leverage to make sure that that team budget includes a base salary at any of those four very important levels, right? So when we were first pushing for a base salary, oh my gosh, talk about sister blocking. I've heard back from a lot of women on the...
+
+184
+01:16:53,392 --> 01:17:19,072
+Managerial Side of Cycling, saying like, if we have a base salary, we're going to lose our team. We're going to lose sponsorship. It's going to destroy women's cycling if we all have to go in search of the base salary. To which my response was, no, not all of you should be world tour teams. We need teams to step down to the pro-conti level. We need teams at the developmental level because
+
+185
+01:17:19,072 --> 01:17:46,640
+If we don't have a structure, then how are women going to even get to the World Tour? You know, if anything, I honestly feel like the Pro Continental level is the most important level, because that's where the World Tour will farm their team, their future team from, right? Just like we see in baseball, basketball, hockey, there's the major league, the minor league. Baseball has three, AAA, AA, single A, major. They have four tiers. And that structure is what keeps everything moving.
+
+186
+01:17:46,640 --> 01:18:15,568
+There's a system to it. So when women's teams were like, oh my gosh, if we have a base salary, we're all going to fold. No, the idea is not to fold. It's to put yourself on a different shelf or a different rung of that ladder and to own it and to be proud of it and to say, you know, you know what? I'm going to shoot for salary or for a financial infrastructure that either puts me at World Tour or Pro Conti or developmental and to own it and be like, this is just as important as the next level.
+
+187
+01:18:15,568 --> 01:18:44,512
+because it is. And finally, I think they're getting that message, but they had to get over that fear. I'm also going to say this. There are sponsors and companies out there that want to invest in women's equity. They want to be part of this system that is changing the infrastructure of cycling. I know this because Tom came into Homestretch like, yeah, we should have this. Let's do this. It's about creating equity. And I think what a lot of the old school pro cycling teams are doing.
+
+188
+01:18:44,512 --> 01:19:11,776
+Ineffectively, I'm not going to say wrong, but I'll say ineffectively, is they keep going back to the same old pool of sponsors. They keep going back to Trek and Specialized and, you know, bike brands, seeking the giant sums from these brands where I'm like, no, no, no, you got to go bigger than that. You got to go to the bigger investors, you know, like, like Tibco, or I was on Silence Pro Cycling. Silence is a multi-billion dollar.
+
+189
+01:19:11,776 --> 01:19:41,088
+Software Company, Cyber, Cyber Security, like, and the, you know, a lot of these industries, they have somebody in-house who is a big fan of cycling. You got to seek out that person. And if you look at the World Tour, if you look at the Men's Tour de France teams, that's what's happening over there. All those, like, quick-step flooring, like, how did flooring get into cycling? You know, like, that's because somebody in that company is- They've been there for so long, though. Right? I know, like-
+
+190
+01:19:41,088 --> 01:20:00,608
+Exactly. So the same, people have to open their eyes. And sometimes we don't see that in cycling because people have stayed in the cycling world for so long that they're like tunnel vision this way. And they're forgetting to go out, go big. And that's when that happens. Those are where the teams come in and make it work.
+
+191
+01:20:00,608 --> 01:20:30,512
+the right way. So I applaud the teams that are out there that have maybe gotten over this fear that they're going to, oh no, not be a world tour, but now they're pro-conti and they're thriving and they're awesome. And or that third step, that developmental team, that's just as vital. And even if they don't have a livable wage at the development, that's what development means. It means that you pay your dues on the way up. So we have to do that in every branch of life.
+
+192
+01:20:30,512 --> 01:21:00,112
+If you want to be a doctor, you go to med school, and you probably struggle, and you take out student loans, but you know in the future you're going to be making a pretty decent income. So you apply that thinking to cycling too, and be like, we need the highest level surgeons up at the world tour, but we need the med school level, and then we need the academic level of pre-med. These are all structures that create a system.
+
+193
+01:21:00,112 --> 01:21:29,680
+that works. So as long as we're on track to do that in cycling, it's sustainable. And people just have to own their place in the cog of that wheel. And that's where I'm hoping. And the funniest part of that is you calling Specialized the small money sponsor. Because it makes so much sense at first when you're thinking like, oh, what's the biggest bike brand in the world? Trek, Specialized, et cetera, et cetera. So let's go after them. And then you're like, no, they don't have enough money for this stuff. We can go bigger.
+
+194
+01:21:29,680 --> 01:21:55,776
+Man, I never thought of it that way. Yeah, you're right, they're probably on a global scale, like, not the world's hugest companies, like, by a long shot. No, and, um, remind me, the, the new sponsor for Trek is, it's L-I-D-L, how do we pronounce that? Uh, I've, I've, uh, been told, um, that it's being mispronounced by everybody, so it might be Lidl, or it might be Lidl, I'm not entirely sure. Lidl, Lidl, Lidl.
+
+195
+01:21:55,776 --> 01:22:15,760
+Well, what I love is that little, little, hyphen, Trek, right? So, what's so cool about this is that Trek has, like, their ego has been fine with the fact that they're going to be on the second, the back half of that fight, that hyphen, right? So, little, little, hyphen, Trek.
+
+196
+01:22:15,760 --> 01:22:34,736
+But it's showing, like, no one really cares. Everyone's just stoked that Trek is still part of the equation, right? But I think it's important for people to see, like, I don't even know what Lita Lytle is yet. I have to go look that up. But how amazing that they've come into this sport, right? Yeah, I think they're grocery stores. Yeah!
+
+197
+01:22:34,992 --> 01:22:59,920
+I mean, honestly, for the amount that cyclists eat, like, why isn't every grocery chain national sponsor, you know? That's why Trek Sega Fredo made so much sense, like, Trek and coffee, yeah, bikes and coffee, it's like peas and carrots or peanut butter jelly. Yeah, yep. Yeah, I had another thought, I completely lost what it was, it's probably irrelevant.
+
+198
+01:22:59,920 --> 01:23:19,872
+But I actually wanted to touch on one more thing. Well, for my questions, we've got a couple of listener questions too. But I love that the book started with your trying to get to the Olympics and the story about St. Kitts and Nevis.
+
+199
+01:23:19,872 --> 01:23:44,720
+and, you know, making a foundation there to support you, but also that you would support them. So how's the St. Kitts and Nevis Foundation for Cycling been going since, pretty much since the book ended in, you know, 2016, was it, right? Let's see, when did that, well, technically, so my pro cycling career ended in 2016. So it's great, there's still...
+
+200
+01:23:44,720 --> 01:23:54,816
+a cycling federation in existence in St. Kitts and Nevis. Like any smaller nation, it would be great to see it growing bigger.
+
+201
+01:23:54,816 --> 01:24:20,800
+Right? And I think, especially in the Caribbean, what we need there is more of a bridge so that we can have, like, a pan-Caribbean team, as opposed to just the smaller, you know, individuals from each island. So, yes, St. Cynivus is still in existence. I wanted to see it bigger than it is, but I applaud everybody who's, you know, been part of supporting it, and Winston and Greg. There are also island politics that come up, you know, in terms of...
+
+202
+01:24:20,800 --> 01:24:42,560
+Who owns the rights to certain clubs and sports? And who's sitting in positions of powers? And just to simplify that, it can be tougher in these smaller countries. So where I'm going to steer this over is what it's amazing to see now is that I am not the only Caribbean cyclist that was out there. I was the vocal one at the time.
+
+203
+01:24:42,560 --> 01:24:55,184
+We have Caribbean Championships. We have some amazing talent coming through, but I really want to shine a spotlight on Tennille Campbell of Trinidad and Tobago. She is racing the Tour de France right now.
+
+204
+01:24:55,184 --> 01:25:22,528
+You can't miss Tennille. She is a six-foot-tall black woman. She's amazing. She is so talented. And we need more Tennille in our cycling peloton. You know, we need to prove to the world that diversity is out there, incredibly talented athletes, and we have to make sure that they are given the chance to show their talent and the chance to succeed in this sport. And I'm just such a big fan of hers.
+
+205
+01:25:22,528 --> 01:25:42,608
+And like when I was racing Caribbean Championship, she was a junior. And now she's racing at the Tour de France. And my heart is on fire to watch her out there just crushing it. And so I hope everyone tunes in and looks for Tenille and supports her knowing that Caribbean cycling is alive. It's strong. I want to see it.
+
+206
+01:25:42,608 --> 01:25:54,944
+Grow Stronger and Bigger, but we are getting more athletes into the mix, and she's a shining example of awesomeness. Yeah, she was that really good draft because she was the really tall junior, right? Mm-hmm, mm-hmm.
+
+207
+01:25:54,944 --> 01:26:21,344
+But also, the Caribbean nations actually have really strong track cycling programs, too. Like, Nicholas Paul from Trinidad and Tobago is an absolute demon on the track and the sprint. Like, he is amazing. I remember my usual podcast co-host, Kyle, has raced some of those guys. And he's like, yeah, we both just stand up and they're just gone. And then it's just an honor to race these guys. Yes, it is. And I think...
+
+208
+01:26:21,344 --> 01:26:43,584
+I might be off on the number, but I'm pretty close. I believe Trinidad and Tobago has five tracks on these two adjacent islands. Wow. I did not know that. Yeah, and again, this is the whole concept of if you build it, they will come, right? So being able to build tracks, and a lot of people think of a velodrome as something extremely luxurious and...
+
+209
+01:26:43,584 --> 01:27:11,952
+Very expensive, you know, to build and make. But I have seen the evidence. There are so many concrete tracks that can be built very inexpensively and can get people into the sport. And, you know, that's what we need. We need tracks being built in places where there might not be a road infrastructure, you know, in all of these places. I believe Tenille got her start on the track, but now, look, she's crushing it in road. So let's keep that going.
+
+210
+01:27:11,952 --> 01:27:38,160
+Yeah, she is. And actually, speaking of if you build it, they will come. There's probably a reason that most of the U.S. track cyclists either come from like Lehigh in Pennsylvania or L.A., where the two big velodromes are. Yeah, right, right. Yeah. We are working on getting a Tucson velodrome off the ground, and I know it'll be a big hit. A lot of amazing people working on that behind the scenes.
+
+211
+01:27:38,160 --> 01:28:03,216
+So I'll keep you posted on that. I'm on the Velodrome Board Foundation. They're building one that will come soon, you know, in the suburbs of Philly. So, like, people are doing some amazing stuff behind the scenes. And if you ever see the opportunity come out to support these organizations, like, jump on board, because it is the future. What I love, too, is how a lot of these development places, not just in track, but in road, like, with...
+
+212
+01:28:03,216 --> 01:28:31,872
+Denver Disruptors and Miami Knights, you know, they're creating team structures where they have a men's team and a women's team, and they're scored together, you know, for points, like, oh, how brilliant, finally, a way that we can create equity, but in really creative formats. Yeah, and that racing, I actually, it was actually fun to watch. I wish I had seen more angles of the pits and stuff, but I coached somebody on the Disruptors, and
+
+213
+01:28:31,872 --> 01:28:51,648
+and she said it was it was a lot of it was really hard and a lot of fun and she I think coming out of the pits she actually I think she said her like best ever one minute power or something like that or damn near just to like chase back on that's how hard those races are she's been at it for a long time so yeah
+
+214
+01:28:51,648 --> 01:29:20,816
+Yeah, I love it. I think what they're doing is phenomenal to just bring a new dynamic to racing. For cycling, which is so steeped in tradition, anytime someone tries something new, there's this like, oh, I don't know, I don't know. But it's like, no, we should be like, yeah, I don't know. Let's see what happens and support it. Yeah, even if it's a train wreck, it'll be fun, but hopefully it'll be good because I honestly think those teams have been great for American cycling.
+
+215
+01:29:20,816 --> 01:29:50,320
+So, my last thing before we get to some listener questions, I'm going to read you something off the back of Stand. Great, great. Another book by a chick. Completely missed the mark. Didn't have any recipes or life hacks for vacuuming. Just relentless optimism, indefatigable kindness, and delusional visions of justice. I want a refund. But if you like this equality bullshit, Bertine's a fucking good writer and Stand is pretty good for a girl.
+
+216
+01:29:51,568 --> 01:30:11,856
+So the first, okay, so I saw that and I went, what the fuck did I just read? And of course it says, Doug Stanhope, comedian and author of Digging Up Mother.
+
+217
+01:30:11,984 --> 01:30:41,744
+And I'm aware of Doug Stanhope as a comedian. And he is one of the raunchiest people with the most rabid fan base that you could possibly imagine. And I did some Googling. I listened to a podcast with you two and your friends. And I am fascinated by this relationship. And I also remember at some point, I don't remember where it was, but I think he was saying like you were putting him through like some sort of like fitness boot camp.
+
+218
+01:30:41,936 --> 01:31:03,088
+Yeah. So, I want to know everything about this, because this makes no sense, and I love it. I love it. Well, that is one of my favorite quotes, and of course, I did have to make sure that I put Doug Stanhope, comma, comedian. Yes. Otherwise, people would read that and be like, what the hell, you know? But it's, once you learn, he's saying this in jest.
+
+219
+01:31:03,088 --> 01:31:26,528
+clears the air a little. It makes a better picture. So I will say first that Doug Stanhope will be a huge part of my next book. He plays a central role. But now I will give you the backstory that in 2019, when I was actually working with TREC as an ambassador for women's equality, I was off to a speaking engagement. I speak to colleges. If you're at a college...
+
+220
+01:31:26,528 --> 01:31:51,264
+Just Google, you know, I'd be happy to come and speak to your college. Okay, so, back to Stanhope. I'm in the airport, and I'm flying to go speak at William & Mary, and I'm sitting, our plane is late, sitting in the Tucson airport, and at a, like, restaurant bar, and I'm sitting across the catty corner thing from this guy who's wearing this vintage suit.
+
+221
+01:31:51,264 --> 01:32:06,208
+And he's got, on the vintage lapel is a Delta pin. And I'm like, is this the pilot? And then I notice he's drinking. I'm like, I don't think so. And I'm just kind of, hope not!
+
+222
+01:32:06,208 --> 01:32:26,320
+And he's writing stuff down on like a yellow legal pad. I'm like, oh, maybe he's a professor. He's reading a newspaper and taking notes and he looks fancy, you know. So I'm kind of, you know, drawn to this person who's sitting here. And then this guy walks up and looks at this man and says, oh, Louis C.K.
+
+223
+01:32:26,320 --> 01:32:40,928
+I'm like, that's not Louis C.K. Like, what's going on? And he's like, oh, can I give my picture with you? And I realized, like, this man must be famous. I don't know who it is. And I ended up taking the picture of these two guys. And I was like, I'm sorry, your face is familiar.
+
+224
+01:32:40,928 --> 01:33:10,176
+Hi, I'm Catherine. You know, I just kind of start this dialogue with Doug Stanhope, who is a comedian, very big in the 90s. He was part of the Man Show with Joe Rogan and, you know, right? Does that ring a bell? It rings a bell. I'm 99% sure if I ever watched it, it was like 30 seconds max. Yeah. No, I get it. I get it. And nor mine.
+
+225
+01:33:10,176 --> 01:33:39,008
+Super raunchy comedian, you know, but he has a huge fan base, and he lives in Bisbee, Arizona, and he flies in and out of Tucson Airport all the time. So we're sitting there, we strike up this conversation, what do you do? I do this, what do you do? I do that. And he's like, that's cool. And I'm like, that's cool. You know, he was off to like tour in Europe. He comes back, he's like, let's keep in touch. And he, you know, puts out a tweet, you know, it's like, I met Catherine, my new best friend, you know, it's something funny like that. So we keep in touch.
+
+226
+01:33:39,008 --> 01:34:02,800
+Long story short, Stan Hope needs a place to kind of hunker down for a few months and write his book uninterrupted. And I said, well, look, I run the homestretch and we close down for July and August. I go back east and work on my own writing. Would you like to live at homestretch and write your book? And if you could feed my cat, that'd be even better, you know? And he said, yeah.
+
+227
+01:34:02,928 --> 01:34:30,720
+I said, yeah, I will. I'll do it. And then leading into that, before, you know, before that, we did get him into a fitness routine, like many comedians. You know, comedy is not the healthiest world. You know, there's a lot of drinking, drugs, chain smoking, you know, et cetera, right? So Stan Hope was like, I really need to get in shape. And so we went on this fitness routine. We put it all online. His fans either loved me for trying to get him healthy or hated me. They're like,
+
+228
+01:34:30,720 --> 01:34:56,880
+You're going to kill him! You're going to take Stanhope away from us! So it was really fun to see this. So he not only ended up living at Homestretch, feeding my cat, but he also did something incredibly wonderful. My mother has dementia, and my father would caretake for my mom, and Stanhope said, Peter,
+
+229
+01:34:56,880 --> 01:35:26,128
+Why don't you go take some time off from this role? I'll take care of Dee. I got this. Go have a summer. Go have a vacation. So Doug Stanhope took care of my mom with dementia for two months, and my dad got to have what would end up being his final summer vacation ever. And I'm not crying. I'm good. I'm okay. It'll all be in the book. But he made such an impact on my family.
+
+230
+01:35:26,128 --> 01:35:55,920
+Both my mom, who still thinks he's a handyman, because he would wear this little shirt that said Doug on the pocket, you know, but I'm going to now bring in full circle back to the cycling and the impact, you know, and what he did, he and my dad had the greatest, most adorable relationship, and then what ended up is that, you know, Stan Hope put me on this podcast, which you just referenced, he had me on a few episodes, and one of Stan Hope's fans works for Spotify, and he heard the whole story about how,
+
+231
+01:35:56,112 --> 01:36:20,032
+Sorry. Yeah, he heard the whole story about like how Stan wasn't originally getting published by traditional publishing companies, etc. And when he was working with Spotify, you know, he said, hey, we want to get this book, we want to acquire this. So it's basically through Stanhope's connection to a guy who works for Spotify, that Stan got an audiobook deal.
+
+232
+01:36:20,032 --> 01:36:49,744
+And I mean, my thankfulness knows no bounds that the reason people are listening to Stan is because of Doug Stanhope. So it's amazing. And all of this is kind of this long winded, but really wonderful story of what happens when we talk to strangers. You know, I talked to a stranger wearing a spiffy suit in an airport. And he is one of my lifelong friends.
+
+233
+01:36:49,744 --> 01:37:19,552
+If I ever need him, if something goes wrong, he's one of those people that you can call up when you're having a really dark moment. And he's awesome. And yeah, I'm super thankful for the effect that he's had on my life, on my book. And for anyone who's ever going to want to listen to Stan, it's all because of him. So yay. Thank you. Cheers, Stan Hope. You're the awesomest. This is water. Cheers, Doug.
+
+234
+01:37:19,552 --> 01:37:48,736
+That's so fantastic in so many ways because, I mean, this is another, you know, three-dimensionalizing of a character where if you only see him on stage, you know, I think this is also where I've heard a couple comedians say that people will just come up to them and just say, like, the nastiest stuff because they think that that's, like, their whole personality and that there's not much more to it. But, like, you know, here's this guy who was taking care of your mother. Yeah! And, like, then he gets up on stage and he makes jokes I don't even want to repeat.
+
+235
+01:37:48,736 --> 01:38:18,336
+that I've laughed my ass off at. Oh, there's some really raunchy stuff. Yeah. Yeah. Oh, man. And I, it's so fantastic because it's, I don't, I can't even put my finger on what I like about it so much. Oh, thank you. Other than, it's, it's so cool because it's like two people that I've, that I've like been aware of and been fans of for a long time and then suddenly like they're buddies. I'm like, I need to know everything about this.
+
+236
+01:38:18,336 --> 01:38:36,928
+It's so crazy. I know, I saw that on your list. You're like, Doug Stano, question mark, exclamation point. I have to know. And he will be in the next book, for sure, because he did also play a part. He went hiking with me and helped me, you know, summit a mountain. That'll be in there. I'm giving you the short story.
+
+237
+01:38:36,928 --> 01:39:02,704
+I don't want to bore all your listeners, but yeah, he's a pretty fantastic guy. I think we should also remember, too, that most comedians, because now I'm such an expert on comedians, but they have a brilliant mind. Most successful comedians have a very brilliant mind, and it goes so beyond being funny. They need to have a level of compassion.
+
+238
+01:39:02,704 --> 01:39:24,064
+And courage and humility, you know, beneath all the bravado that they bring to the stage. And no matter how raunchy or inappropriate some stuff is, what it takes to try to channel humor and try to make people laugh. And, you know, it's just part of the equation. They're very compassionate people.
+
+239
+01:39:24,064 --> 01:39:47,280
+The fact that the raunchiest comedian in the world was taking care of my mom with dementia, yet I completely trusted everything about that. It goes to show how deep we humans can go and how, again, we need to wear that hat of not being judgmental of people and realizing how many talents they might have in so many different areas of life. Yeah, not pigeonholing or...
+
+240
+01:39:47,280 --> 01:40:15,536
+just keeping people as one-dimensional constructs in our head. Actually, that was something I was going to ask you about, but we can leave it as cutting room floor stuff, because I think the High Point thing has been so fantastic, because my dad and I never did anything like that, and I've got his watch, and that's how I think about him. But I think it's so fantastic, because you've also done a High Point with one of my friends, Fareed.
+
+241
+01:40:18,512 --> 01:40:44,064
+Oh, Farid, oh, he is, he's an alumni, alumno, alumna, what's the masculine, alumni, alum of Homestretch, there's alumna as women, so alumni, I think, alumnus, alumnus, thank you, he's an alumnus, yeah, of Homestretch, and he's awesome, and he plays such a big role, in fact, the Farid chapter in the next book will be just as big as and important as the Stan, as the Stan Hope chapter.
+
+242
+01:40:44,064 --> 01:41:08,880
+Yeah. So people are like, wait, what is she talking about? I'll give you the quick two-second clip. My next book will be very much of interesting historical content, but also the through line is that my dad and I were on a mission to hike the highest point in each state. Sometimes that's a huge mountain, sometimes that's a cornfield or a sidewalk, depending on the state. But we were doing this quest together.
+
+243
+01:41:08,880 --> 01:41:36,144
+And then when my dad passed, I decided I would continue the quest with a little bit of a small urn of his ashes so that we could kind of finish it together. And it took two years and I did it. And along the journey, if I, this was also during COVID, so both pre and post vaccine. And during the post vaccine time, I would bring someone with me, but only if they had a connection to my dad, right? And so Stan Hope certainly did.
+
+244
+01:41:36,144 --> 01:42:00,928
+He joined me for the high point of Connecticut, and he brought his whole entourage, like his opening act, his technicians. I'm going to love that chapter so much, right? And just to annoy me, he stopped like a foot short of the summit. He's like, I'm not going to the top. I'm stopping here, you know? Very funny, Stan Hope, right? And Farid, our resident of Homestretch, who was actually...
+
+245
+01:42:00,928 --> 01:42:23,104
+A resident, when my father passed, is a lifelong friend and a brother to me. He was there during, like, a time, and so was Allison Arnsman, you know, and the two of them were residents during COVID. And they're a family to me now. They were there for me in the worst time of my life, you know, losing my most beloved.
+
+246
+01:42:23,104 --> 01:42:43,344
+Person, My Father. So they also joined me for High Points, but we get into talking about the, you know, the true sense of family and what bonds us in life. Fareed is an exceptional young man. That makes me sound really old, you know, like he's in his late 20s. He makes me feel old too.
+
+247
+01:42:43,376 --> 01:43:12,512
+Right? But what he did in terms of building a mountain bike federation in Afghanistan, before the Taliban came in, and they're obviously currently awful right now, but I know in the future, Fareed's foundation will survive, you know, and it will be, it's just amazing what he created then and what will be in the future, and it was an honor and a privilege to have him at Homestretch, because it wasn't just about mountain biking in Afghanistan, he was opening the doors for women.
+
+248
+01:43:12,512 --> 01:43:36,144
+in that country to be, you know, athletes too. And I just have so much respect for him. So yay, Fareed Nori. Make sure you follow both him and Doug Stanhope. Yeah, yeah. Actually, Fareed is one of those people where if you spend more than about an hour with him, you'll never forget him as long as you live. Exactly. And it's genuine. It's like, you know.
+
+249
+01:43:36,144 --> 01:44:04,608
+He's not trying to be some sort of influencer of the social media kind. He truly wants to move this world forward, and I'm excited to see where he goes. Yeah, me too. He's got French levels of passion, for sure. Yeah. Well, then we need to put him in charge of ASO. Yeah, that would be wonderful. Okay, so we've got a couple of listener questions. We've actually kind of touched on some of these a little bit, but...
+
+250
+01:44:04,608 --> 01:44:29,904
+Like, maybe we should recap, like, other than watching and following the women's pro racing, what can we do to support equal pay and women's racing in general? Besides, you know, like we talked about showing up and talking to race organizers, like even on a local level. Yeah, so one of the things that anybody can do, fans, anyone, patronize the sponsors of women's races and also let them know.
+
+251
+01:44:29,904 --> 01:44:56,816
+Right? So, for example, Zwift. Whether or not you personally want to ride kind of an indoor exercise, you know, cycling setup, whether or not that's your jam, you can actually write to that company and say, I so support what you're doing for the women's sport and buy a t-shirt from them, right? Whatever it is. Or join Zwift if you're a cyclist. But let them know why you're patronizing their company.
+
+252
+01:44:56,816 --> 01:45:24,800
+Okay, so that's a huge thing. And look at all the local sponsors. When you go to your local race, first take a look at the prize purse. Is it being equally distributed to men and women? If it is, then patronize those sponsors and let them know why. If it isn't equal, go to the race director and say, hey, chop, chop, let's change this. And if they're reticent, then go to the sponsors and say, hey, guess what? You're sponsoring a bike race that only pays the men but not the women.
+
+253
+01:45:24,800 --> 01:45:52,608
+What do you say that we put the pressure on to change that? So you can actually talk to sponsors and help educate them and use them as your ally, right? So these are some things you can do on both a global level and also your local level. And be vocal, too. When you hear of things like I've mentioned, you know, we still have no base salary for women at the pro-continental level. You can write to the UCI.
+
+254
+01:45:52,608 --> 01:46:21,744
+and let them know that you're not okay with that and put the pressure directly on them. You know, that's probably easier than flying to Switzerland and asking to speak to Le Partien, but if you're in Switzerland, go. You know, so. If you want to do the mob, go ahead. Yep. And always, I'll say this too, I've referred to this in stand, I'll refer to it here too, but benevolent shaming. Make sure that you don't get angry if a sponsor or a company is doing something wrong or less than equal.
+
+255
+01:46:21,744 --> 01:46:50,256
+Educate them. Ask why. And then if they're really a stick in the mud or they're not creating change, then you bring out the shame on you. How dare you not do this? But until then, use your voice to help educate them and say, hey, this isn't right. Or, you know what, I'm not going to support you until you do this and you create these changes. But I hope you will. So bring the niceness to the game.
+
+256
+01:46:50,256 --> 01:47:12,016
+Nastiness and slacktivism, you know, are kind of, like, don't go that route, right? Bring the positive juju with you and help educate. When you educate, everything moves forward. They might not have any idea that they're being unequal. Yeah. Those are a few of them. I mean, letting people know that you are...
+
+257
+01:47:12,016 --> 01:47:38,464
+in support of them because of their sponsorship of something. I actually had never thought about, and I actually know one of my friends is a training content manager at Zwift, and I'm going to message him right after this and let him know, fuck yeah. Yeah, I love that. I love that. When I was working as a rep with Trek a few years back, I actually had people reach out on social media and they say, hey, you know what? I bought a bike.
+
+258
+01:47:38,464 --> 01:48:05,136
+For my son, you know, from Trek, because Trek sponsors a women's team, and I learned about that from you, you know? Wow. So that made me feel great, and it showed me how, like, we can be that very important cog in the wheel of educating people of why and how they can show their support. And that's, everybody's able to do that, you know? You don't have to be a social media influencer.
+
+259
+01:48:05,136 --> 01:48:32,176
+to reach out to a company and say, hey, I'm in for doing this. The more people do that, then it's that collective voice. So just be part of the chorus and let's make this chorus the loudest chorus that's ever been, right? Yeah. And actually, one of our other questions was, what's the next big challenge for women's cycling? But I think it sounds like base salary is probably the next one. Base salary and more media exposure.
+
+260
+01:48:32,176 --> 01:49:01,744
+Yeah. So what's the one after that? Once those things are, you know, once those things are solved, where do we go? Or does that solve it? Oh yeah, no problems. Just world domination. It's great. Everything will be fine. I would say what we really have to look at is where are there still races where women are not equal players? They're not providing an equal platform, right?
+
+261
+01:49:01,744 --> 01:49:19,920
+Giro, Giro Italia is doing great, but that's still 10 days, you know, and the men have X amount of days. So there are still many areas where a women's race is not in the forefront and or equal. Sorry, I shouldn't say forefront, but just equal, equal front, right?
+
+262
+01:49:19,920 --> 01:49:45,296
+And once we have the media in place and we have the salary in place, then really we need to keep leveraging those so that they're in conjunction and growing along with the men's. So that's where we have to watch very carefully. So let's say we get those equal base salaries. We have to peel back the layers and be like, well, wait a minute. If the next year the men's salary bumps up, but the women's doesn't.
+
+263
+01:49:45,296 --> 01:50:11,824
+You know, is this data being hidden from us, or are we on top of it so we can leverage for change? Because we don't want to get stuck. You know, for example, Tour de France, right? We're like, woo, the women have eight days. Now we just need 21 days. No, no, let's look at the pay structure right now. And again, going back to the 2022 data, but the men's overall prize purse was $2.2 million for the...
+
+264
+01:50:11,824 --> 01:50:40,352
+entire stage race, you know, and the women's was something like, I think it was something like 250k. But now, if you break that down to, well, what's the prize purse for the first men's eight days and the women's eight days? Are those equal? Those must be equal, right? No. I cannot imagine they are. I know, right? And ASO, of course, doesn't think that I can use a calculator, so, but I can.
+
+265
+01:50:40,352 --> 01:51:09,952
+And so I found that also I failed math twice in high school, but I'm really good at the calculator. So I found out that the women were only making 29% of what the men were making over eight days. So eight days to eight days, it wasn't even equal. Far from equal. 29%? No. So I think the most important hurdle is that once we think we have equal pay or equal access or equal prize money, we got to peel back the layers and look.
+
+266
+01:51:09,952 --> 01:51:37,408
+Is it? No, it probably isn't. Yeah, that's, that's, and we can see that even. I was going to say, that's some sort of. We see women's soccer, right? Sorry. No, sorry. No, our delay is, is really strange. That's all right. I was going to say, it's, it's some, it's almost like, some sort of weird, poetic, like, inequity, where it's like, oh, they only raised one third of the days. Well, for that one third, we're going to give them one third of the money as the men's race.
+
+267
+01:51:37,408 --> 01:51:59,408
+for those days. It almost makes sense, but then it gets shittier and shittier as you think about it. Exactly. At first, I was willing to let it go. I do believe in equal pay for equal play. So if we only have eight days, we should not be making $2.2 million, but we should be making equal to what the men are making on those eight days. So what a slap in the face it was to see that it was only...
+
+268
+01:51:59,600 --> 01:52:26,256
+You know, one third of what the men were making. Yeah. And, you know, putting a, it's important to make sure that that's a known fact, that we must celebrate Zwift, we must celebrate the Tour de France Femme for the improvements that it's made, but we also at the same time have to benevolently shame the inequity that's happening. And we can, we can do both of those at once. That's the gray area that we're talking about, you know, and always support the athletes.
+
+269
+01:52:26,256 --> 01:52:50,592
+like those women are crushing it and they are doing their job, right? So always be supportive of the race, the racers, the teams, you know, never, never speak harshly of them, but do speak harshly of ASO and everything that's happening behind the scenes. Yeah. Um, so our last listener question, cause we've pretty much touched on everything else is, um, what is your,
+
+270
+01:52:50,592 --> 01:53:09,568
+Or what is the, your heart's in the right place, but that's annoying opinion do you see the most? That's funny. I'm interpreting it this two ways. Is it how people feel about me or how I feel about others?
+
+271
+01:53:09,568 --> 01:53:37,920
+What's my most annoying quality? That people are like, oh, her heart's in the right place. God, shut up, Kathy. There's a lot. I was thinking of it, I interpreted it in terms of equality of women's cycling. Ah. Yeah, definitely. Okay. Her heart's in the right place, but...
+
+272
+01:53:37,920 --> 01:54:01,584
+Good question. I've got one to get you started from the book. Okay, let's hear it. The guy who was in your organization before your meeting with the ASO, when he said, oh, we don't really need to see equal distances and time and all that, right? And then you were like, fuck, the call's coming from inside the house.
+
+273
+01:54:05,200 --> 01:54:34,448
+Oh, that was the worst. Yeah, that was a very dramatic moment. We're about to step into our meeting with ASO. Behind the scenes, the secret meeting, because, you know, ASO wouldn't let us talk about it. And our Latour on TA had four key members, but we brought in three auxiliary members. And we're all thinking, like, we're on the same page, stuff that we've talked about well ahead of time leading into this meeting. And then Steve Beckett's like, well, you know, you know, we don't really need three weeks for women. And we're all like, like, what?
+
+274
+01:54:34,448 --> 01:55:03,456
+Like, buddy, no, no, we are going into this asking for full equity. Like, you can't spring this new fact on us, you know, your opinion when we're about to walk into this boardroom. And luckily, it didn't come to fruition. You know, everything kind of played out okay. But again, I'm like, yeah, okay, your heart's in the right place. I think that you get the big picture of what we're doing here. But you could also sink us.
+
+275
+01:55:03,456 --> 01:55:33,072
+That's terrible. Or, you know, another good one? I love to share this example of Brian Cookson, who was the former president of UCI. And if you see his interview in Half the Road, and while I was interviewing him for that interview, it's very, very apparent that he honestly fully believes that he's putting his best face forward. And he's saying things like, oh, yeah, no, we can't have women race the Tour de France. It's too hard. It's too long.
+
+276
+01:55:33,072 --> 01:55:57,056
+It wouldn't be able, they wouldn't be good enough to do it. And what was so fascinating about that was you could sense that he truly believed it. You know, like he had been educated to think that women were incapable and women weren't good enough or ready to do something like the Tour de France. Someone had fully convinced him of that. So I found that his...
+
+277
+01:55:57,056 --> 01:56:24,704
+Honesty was both like, well, personally, it was enraging. I'm like, what? You know, but at the same time, his heart truly was in the right place. He actually would say things like, yeah, so of course, we should have women at the tour, just not for the whole thing. You know, I'm like, ah, you know, so you have to remember that this is where education comes in and plays the biggest factor. You know, that we have to find a way to...
+
+278
+01:56:24,704 --> 01:56:53,744
+like kind of hold up the proverbial mirror to Cookson to be like, hey, hey, buddy, hold on. Like, are you hearing what you're saying? Do you get that you might not be up to speed on what's really going on, that yes, women are capable of doing this or that, but we have to be very careful not to slam them and be like, dude, you suck, you're wrong. Like, don't do that. You know, educate the person. And when we do it right, we can bring them with us rather than create enemies or allies.
+
+279
+01:56:53,744 --> 01:57:19,792
+And, you know, he and I now have a good relationship, and I think it's because we were willing to listen to the other person's point of view. So that's another example of like, oh, his heart's in the right place, but oh, he might be like way off base, you know? Yeah, like, I remember that moment too, and I heard it as like, we're doing you a favor. You don't want to do this anyway, so like, don't worry about it. Like, we got you. Right?
+
+280
+01:57:19,920 --> 01:57:46,432
+I would so much rather actually hear that mentality than any of this fabricated bullshit of somebody saying, oh, yeah, women belong at the tour, but then behind the scenes, they're like, make sure that never happens. You know, like, that would be 10 times worse to have some kind of false political thing going on. But when you actually see it unfolding before your eyes, and you're like, okay, this is a...
+
+281
+01:57:46,432 --> 01:58:12,448
+A good guy, a family man, he's trying his best, you know, like, we gotta, we gotta cut some slack and see how we can kind of merge together and create progress. Yeah. So, where can people find Stand? Oh, my favorite question. Okay, so I'm really excited to say that Stand is now out there internationally. You can buy it as a print book.
+
+282
+01:58:12,448 --> 01:58:40,672
+Hardcover, Paperback, Digital, or Audio. Oh, I love it. Awesome. You have the hardcover? Of course. I have to read a paper book. I suck at reading things on screens. Me too. I'm the same way. I love the actual tangible book in the hands. I love that. And I fully respect that some people don't. They're like, nope, e-reader and or headphones. However you want to read or listen to it makes me happy.
+
+283
+01:58:40,672 --> 01:59:08,000
+Since it is international, you can Google it. You can find it everywhere. It's on Amazon. You can go to my website, KathrynBertine.com, and it'll provide different links. It's on all the international Amazon stuff. It's on Spotify, but also Audible, Apple Books, Chirp. There are platforms I've never heard of, and Stand is on there. So I'm super excited. However you want to read it, it's great. It would give me so much joy, not from...
+
+284
+01:59:08,000 --> 01:59:13,648
+the egomaniac side. Like, I'm just happy you're listening to me at all. But the fact that like, if...
+
+285
+01:59:13,648 --> 01:59:42,592
+If you get an understanding of the history of the Tour de France and what we had to do to fight for women's, you know, re-inclusion, then that's the part that would make me happiest. So, yes, it's out there. I hope you like it. I hope you enjoy it. And feel free to reach out. But more, you know, just thanks for joining what I call Team Stand. You know, people who are just like, oh.
+
+286
+01:59:42,592 --> 02:00:02,352
+There's a lot of information in here, and I will retain some of it, and thank you for the journey of kind of exposing the hidden side of what happens when we really stand on the front lines of change. Yeah, well, the emotional wallops that you take the reader through as they go, it makes a lot of the books stick with them.
+
+287
+02:00:02,384 --> 02:00:29,824
+I got walloped. Yeah, that's the definite thing. Yeah, there was a lot of walloping in there. Oh my goodness. It was walloping. Spoiler alert, I survived. I know, it's weird. It's like watching Lincoln. You're like, are they going to pass the amendment? Oh my goodness. It's like, we know what happens, but the suspense, like the tension getting there, you just, you kind of don't see what's coming next, even though you know exactly what the outcome is.
+
+288
+02:00:29,824 --> 02:00:56,416
+You know what? Stan Hope said that to me, and it was the coolest thing. He actually said, he said, I know what happens. Like, I know you. I know it was coming, but I didn't see it coming. I was like, awesome. Then I did my job as a writer. Yeah. No, you did great. I mean, this is why ESPN hired you, obviously. Oh, thank you. Well, one more question is, this is just because of my...
+
+289
+02:00:56,416 --> 02:01:14,656
+music background is I always want to know where do I buy an album to give the artist the most money? Is there a place that's the best for you to get stand? Well, I'm, oh, you know, I show up so much. I'm sad I didn't say this. You can actually order stand from your local bookstore.
+
+290
+02:01:14,656 --> 02:01:43,968
+You know, not every bookstore will have it in stock, but you can order it from them, and therefore, proceeds go both to the author, but also the bookstore. So if you want to support your indie bookstore, please go to them. They can order it. As can bookshop.org, you know, for international ones. If you don't want to go the Amazon or, you know, big platform route, you don't have to. What helps me the most is if you were to order it new as opposed to used, that's something that does help.
+
+291
+02:01:43,968 --> 02:02:10,896
+Writers, you know, eat. So that's always super helpful. But honestly, however it is that you need to buy it or have to read it, like I'm just honored for you to read it. So please just get it however it's easiest for you. That's really nice. And what about Homestretch? Where can people support Homestretch? Oh, thank you. Homestretchfoundation.org.
+
+292
+02:02:10,896 --> 02:02:40,848
+You can head over to the website. It tells all about it. There's a donation page there. We are always super honored. The donations go to providing lodging for all of these athletes where they can live and train for free. I love how transparent we are at Homestretch. It's like every dollar matters. It goes right to helping these women thrive in their journey on the pro cycling ladder. And it's tax deductible.
+
+293
+02:02:41,168 --> 02:03:10,640
+It is! We are a 501c3 nonprofit, so it's tax-deductible. We also have the Homestretch Foundation kit on sale now just through the end of the Tour de France Femme, and then it'll come back on sale again in March. But if you want to grab one, the Equality kit, it's pretty sharp, black and white, because Equality is either black and white. There is no gray area. It's either equal or it isn't. So if you want to grab a kit, that would be awesome. All the proceeds, again, thanks to Castelli for their great partnership.
+
+294
+02:03:10,640 --> 02:03:37,072
+helps a lot. So, yeah, thank you for this, Coley. I really appreciate all the platforms you're giving us to help women succeed. Yeah, of course. No, I mean, it's one of those things where, you know, women are people too, and I don't know why people can't, you know, be respected as people. It's strange. It is strange, right? Yeah.
+
+295
+02:03:37,072 --> 02:04:04,800
+Actually, it's perfect timing, because I have to jet to a Tour de France Femme Zoomy thing, so I should probably sign off, but thank you, and to your listeners, and to your amazing questions, and just for creating this platform for us. I really appreciate it. All right. Cannot thank Catherine Bertine enough for coming onto the podcast and giving us two entire hours. It was way more than I asked her for, and I really, really appreciate her taking the extra time.
+
+296
+02:04:04,800 --> 02:04:27,232
+And thank you everybody for listening. And so if you would like to support Stand, please go get it. It is seriously worth a read. If you cannot afford it, borrow it from somebody, that's fine. But if you want to support somebody, a good person who's done some great things, and it's the reason that we have the Women's Tour de France right now, yeah, please go support that. And also if you want to support homestretchfoundation.org.
+
+297
+02:04:27,232 --> 02:04:51,728
+you can go there and make a donation or pick up a kit like I'm about to do and if you would like to support this podcast empiricalcycling.com slash donate we are not a 501c3 but Homestretch Foundation is so your donation to us is not tax deductible but to Homestretch it definitely is so make that choice for yourself first although I would suggest at least for this episode if you're going to donate to us donate to Homestretch instead and if you've
+
+298
+02:04:51,728 --> 02:05:17,632
+Yeah, and if you want to ask a question of our guests, follow me on Instagram at empiricalcycling, and if you would like to work with us as coaches or consult with me, just shoot me an email, empiricalcycling at gmail.com, and I hope everybody has a good time watching the rest of the women's tour to France, because I certainly am, because I cannot wait to see what Demi Fowler is going to try to do. Anyway.
+
+299
+02:05:17,632 --> 02:05:22,320
+Yeah, that's probably enough said for now. So thanks, everybody. We'll see you next time.
+

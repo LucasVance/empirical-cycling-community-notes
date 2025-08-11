@@ -1,0 +1,1084 @@
+1
+00:00:00,624 --> 00:00:30,224
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore, and usual co-host Kyle's got the day off today because we have an interview, and it's going to be a really good one. So, of course, as usual, please subscribe to the podcast if you're new here and you like what you're hearing. And, of course, a nice iTunes rating and review goes a long way. Thank you all for that. But, of course, sharing the podcast is probably the best way to support us. So if we're talking about something relevant to a discussion that you're having, please bring us up. We really appreciate all of that, seeing us linked on the forums and mentioned.
+
+2
+00:00:30,224 --> 00:00:48,976
+Really appreciate all of that. Thank you, everybody. And of course, we are ad-free. So if you'd like to donate to the podcast, you can do so at empiricalcycling.com slash donate. We've had a lot of donations this January. Thank you, everybody, for all of that. We super, super appreciate it. Anybody who can kick in a few extra bucks, that's really what keeps the lights on. And of course...
+
+3
+00:00:48,976 --> 00:01:08,528
+If you have any coaching or consultation inquiries, please shoot me an email, empiricalcyclingatgmail.com We are always taking on clients, and of course, for students and professional athletes, our rates are negotiable, because we know how much money you really don't make, so feel free to reach out, and of course, for consultations, pretty much your own.
+
+4
+00:01:08,528 --> 00:01:36,944
+your own AMA session. We can look at your files. We can answer your questions. We can help you plan a season. We can address what's been going wrong previously. So please reach out. Again, empiricalcyclingatgmail.com for all of that. And of course, we've got some show notes up on the website, any article or paper that we talk about or bring up. Well, we're sure going to try to link them, and I'll probably link a few extras, because today's topic...
+
+5
+00:01:36,944 --> 00:02:05,792
+was really started with when I heard, well, you'll hear it in the interview, but it talks about the first and free energy principle of behavior and the brain. And I thought it was really interesting because as soon as I read it, I thought, oh, that's kind of what we've been talking about lately with like Tim and all and that kind of interviewing and, you know, training principles and experience and learning and, you know, investing in that kind of stuff. So that's where this kind of
+
+6
+00:02:05,792 --> 00:02:20,000
+conversation really started, and I decided that Patrick would be the best person to bring on. He's been on a couple times already, and he's always a really fascinating conversation. We had a great time with this one.
+
+7
+00:02:20,000 --> 00:02:49,824
+You know, we kind of get into how this applies to training principles, but Patrick brings it to so many more interesting and applicable things, because if it were just me, it would be interesting theory, but Patrick makes it so much more practical in this interview, and it's, you know, I learn a lot, I always learn a lot when I talk to him, and I hope everybody listening learns a lot too.
+
+8
+00:02:49,824 --> 00:03:17,984
+becoming desensitized and sensitizing yourself again to how you're actually feeling and the actual inputs and outputs of training and whether it's actually being effective or not and all that kind of stuff. You know, and we also kind of get into how this leads to the appeal of quick fixes and silver bullets. And, you know, of course, at the end we talk about what is the actual silver bullet of training. It's not sexy. It's not a single answer.
+
+9
+00:03:17,984 --> 00:03:47,024
+You all know what the answer is already, I bet. So yeah, so we'll talk about that. We're going to talk about kind of setting yourself up for success. And as usual, we are going to get into listener questions. And that is up on my Instagram at empiricalcycling. And whenever we do a podcast, probably 90% of the time, I will post up a Q&A box about the topic that we're going to talk about. And we are going to answer your questions. We're not going to answer all of them, but we will.
+
+10
+00:03:47,024 --> 00:04:04,640
+answer the good ones that are the most on topic and the most interesting. We got some really good ones for this. And of course, as usual, up in the weekend, AMAs up in my Instagram stories. So check that out. Keep your eye out for that kind of stuff if you want to either follow along or ask a question or whatever.
+
+11
+00:04:04,640 --> 00:04:33,536
+So with that, that's enough of me blabbing. And so here's my conversation with Dr. Patrick Smith. He just defended, and he now has his PhD. So very smart guy, as you'll hear. And I'll see you on the other side. You know, something that you've helped me learn is not just, you know, it's the how not to rickroll people thing. It's like, it's not making strict rules about stuff.
+
+12
+00:04:33,536 --> 00:05:03,024
+because the rules thing, I think about two, three, four times a week, like all the time. Like it is seriously one of the most helpful pieces of advice I've ever had or even just ideas where not having a strict rule and everything is kind of, it depends and individualize like, because that's the way that it was all going at once. And then when you said that, it like really codified it for me. Codified? Codified? Either. I've heard it both ways. Cool.
+
+13
+00:05:03,024 --> 00:05:32,720
+And I think that that was so super helpful. And when it comes to... What were we talking about? Values. Engaging in valued action with respect to complaining versus moving towards what's important to you. Oh, yeah. So positive reinforcement of things has helped so much.
+
+14
+00:05:32,720 --> 00:05:58,960
+because I genuinely am happy and surprised and shocked at good developments in people's training infrequently because good things happening is kind of like an expectation. It's sort of like in life where we have more to lose than we have to gain because things are, relatively speaking, pretty good, especially first world country like we're at.
+
+15
+00:05:58,960 --> 00:06:27,488
+I'd argue on that perspective of more to lose than gain. Like, the world is such an amazing ball of opportunity. Like, one person dies, and most things in the world don't blink. We're kind of insignificant. But within our own lives, the growth possibilities and opportunities are significant and meaningful. That's interesting. Sorry, being pedantic.
+
+16
+00:06:27,488 --> 00:06:49,744
+I think that's actually, the more I think about it, the more I think that that's actually kind of the same, the parallel of what you're talking about, the like, shifting from complaining to production or meaningful action or whatever you want to call it. Like, yes, we can look around and see those things that we don't want to do.
+
+17
+00:06:49,744 --> 00:07:14,800
+and we can talk about the things that we don't want to do and we can make a whole life out of avoiding the things we don't want to do but it doesn't guarantee that we're gonna do the things that actually satisfy us and it's an intentional practice to look between the aversive to look at the things that are
+
+18
+00:07:17,488 --> 00:07:46,960
+To look at the things that are meaningful to us, but scary meaningful. Like, it's easy to say, I don't want to do that. It's much harder to say, I want to do that thing so much so that it hurts. Yeah, there's very little of that in the world. Yeah. Yeah, I mean, I don't know. I think part of it is just the way that we've evolved as a social species is, you know, avoiding pain is almost as good as seeking pleasure.
+
+19
+00:07:46,960 --> 00:08:12,496
+Because especially where we're at now, if I want to seek pleasure, I go downstairs and I have a snack. Like, I make a cup of coffee. I am very, very, very happy. And I think that's also in the realm of having an achievable goal. I would like a sandwich. Not, I want to be a billionaire. Because one of these things is very easy to accomplish. Yeah. Yeah. It's...
+
+20
+00:08:12,496 --> 00:08:41,583
+Dangerously easy to accomplish. We can fill our lives with snacks and Facebook likes or Instagram followers or whatever. These are things that are so easy to do that we can just be chock full of it and hollow inside at the same time because it does very little for us when it comes to deep down what is personally meaningful. And so we can have these kind of
+
+21
+00:08:41,583 --> 00:09:06,064
+Esthetic or Facile kind of satisfactions, but still feel like we're missing something really important. And the thing about that is those things that are really important tend to be scary as fuck. They tend to bring up all... My favorite sandwich is a lot of work to make. You're absolutely right.
+
+22
+00:09:06,064 --> 00:09:30,992
+Ah, so I see we have a Monte Carlo fan. I have no idea what that means. Monte Cristo. Monte Cristo. Oh, Monte Carlo. Okay. The big-ass sandwich. Monte Carlo. Yeah. Different. Grilled cheese. It's a grilled cheese. I'm going to cancel this podcast. I'm going to go have a grilled cheese. I'm just kidding. It's much easier to do. I don't even have any tomatoes in the house.
+
+23
+00:09:30,992 --> 00:10:00,800
+There's no way I can do it justice. See, now it's become a hard goal. But I, well, this actually dovetails really nicely with what I wanted to talk to you about, which is, I came across, I was doing a deep dive on Michael Levin, who is a really fascinating biologist. Okay. I know a Michael Levin in the psychology world who's amazing, but he mostly works with, like, OCD and trichotillomania.
+
+24
+00:10:00,800 --> 00:10:27,184
+Oh, this is not him. Yeah. Not by a long time. This is a guy who's looking at adaptive systems as it pertains to developmental biology of organisms. Okay. And so he's looking at things like growing limbs. What are the high-level control mechanisms to tell a salamander to grow a new arm? That kind of stuff.
+
+25
+00:10:27,248 --> 00:10:54,736
+and he mentioned the Friston Free Energy Principle or somebody he was a podcast guest with did and I look this up and it's fascinating because it pertains to gaps between expectations and observations and so that's why I think it relates to what we're talking about with like
+
+26
+00:10:54,736 --> 00:11:24,112
+You know, having a goal can be difficult to achieve because, you know, when it comes to like realistic goals and stuff like that, you know, you can dream anything. But to actually make it happen is a lot of work. It's a lot of energy investment. And that's a parallel to decision making in training. Because when you have an expectation, this training program is going to get me XYZ.
+
+27
+00:11:24,112 --> 00:11:50,160
+And then it doesn't happen. Now your expectations and your observations are disjointed. There's a gap between them. And that is the energy principle in a certain sense. I'm actually going to link a Medium post from Neurotech at Berkeley that goes into this, that is a great explainer on it.
+
+28
+00:11:50,160 --> 00:12:19,440
+So there's two, like, basically summarized points that this blog makes. The brain revises its prediction so that belief matches sensory input, or the brain signals the body to act in a way so that the body is in a new state and new sensory input matches the pre-existing belief. So it's two different ways to either adjusting your actions to fit.
+
+29
+00:12:19,440 --> 00:12:44,960
+Your Expectations and Observation Loop, or Adjusting Your Expectations. And why is this so hard, and what can we do about it? Well... I mean, you know what I'm talking about, though, right? Yes. You coach cyclists, too.
+
+30
+00:12:44,960 --> 00:13:14,736
+I'm sure you've had exactly this kind of feedback loop of like, I expect this to happen, it doesn't happen, what now? Right. And I think feedback loop is exactly the way to talk about this. Like, we interact with the world, we talk about our interactions to ourselves, and then we interact with the world more, and we talk about it more, and we do it over and over and over and over and over.
+
+31
+00:13:15,216 --> 00:13:40,592
+Survive. I mean, honestly, like whenever we're talking about an evolutionary perspective, we're talking about like the replication of the organism. And within an organism, there's all kinds of feedback loops. You've spent so much time on the Wattstock episodes talking about like feedback loops at the neuromuscular level. And what Fristin is talking about is a feedback loop between sensation and
+
+32
+00:13:40,592 --> 00:14:03,120
+What some people would call perception, or beliefs, or whatever it may be. I'd usually talk about it in the sense of self-dialogue. It's hard because at a very basic level, this is like a survival system. We need to
+
+33
+00:14:03,120 --> 00:14:31,328
+Interact with the world and adjust our behavior in order to survive. Because if we do a thing and it doesn't work, and we do a thing and it doesn't work, and we do a thing and it doesn't work, and we never adjust our behavior, we never respond to that feedback, we're fucking dead. Right. Because you think that that fluffy animal is friendly, so all animals are friendly, and the next animal you go to pet is a snake. Right. Yeah.
+
+34
+00:14:31,328 --> 00:14:52,848
+And so this system, this corrective feedback, this responding to consequences, whatever you want to call it, is something that has been selected for evolutionarily for millions of years. And so we're not just going to be able to say, I believe this is going to happen and have it happen.
+
+35
+00:14:53,104 --> 00:15:22,944
+Regardless of the consequences we contact on the path to try to make it happen, like, our body is going to be like, um, that might be trying to kill us. And our dialogue about it might be like, well, maybe I don't actually want that. You know? Like, even, yeah, even when we talk about our self-dialogue, our language, like, past episodes we talked about rule-government behavior. Rules being these, like,
+
+36
+00:15:22,944 --> 00:15:51,264
+Heuristics, Shortcuts, whatever you want to call it, bits of language that we respond to so that we don't have to learn everything every single time. But language is also subject to the same evolutionary principles. Like, language helped us survive, therefore language responds to consequences and feedback. Therefore, when we
+
+37
+00:15:51,264 --> 00:16:19,504
+Engage in some sort of action with the world, and it doesn't result in what we predicted, our language is going to be impacted by it. Yeah, well, because language is meant to convey information. And so if the information you get is, oh, that snake is dangerous, but this lizard is not, like if there's confusion between the words lizard and snake, you're going to go pet the snake.
+
+38
+00:16:21,840 --> 00:16:51,120
+Yeah, that's, so, that actually gets at something, oh god, we're gonna go on to another philosophy tangent. Let's go, I love the rabbit holes, let's do this. Okay, so, language has this weird, because language is a product of evolutionary selection, it has this weird philosophical, like, original sin, or inherent flaw. Like,
+
+39
+00:16:51,120 --> 00:17:20,992
+If we, for all your listeners out here, I swear, I don't have dreadlocks, I don't smell like peyote, as I say this. If we think about ourselves in the world, there's no actual delineating barrier between the tips of our fingers and the air around it. There's a continuum of material or energy or whatever you want to
+
+40
+00:17:20,992 --> 00:17:49,248
+Talk About It As, where at some point we linguistically and organismically make a distinction between ourselves and something else. But that distinction doesn't actually exist in reality. Does that make sense? It does, because I think this is actually one of the other things that I picked up in one of the Levin podcasts was the distinction between the self and the other.
+
+41
+00:17:49,248 --> 00:18:17,680
+and part of the distinction is that the self is something where your thoughts can actually control its actions and the other is where your thoughts don't control the actions as like a very basic level distinction that I'm probably butchering to some degree. So my apologies to all the smarter people out there. That's an excellent way of introducing that kind of concept. Like we have way more nuanced ways of talking about it of like different versions of self.
+
+42
+00:18:17,840 --> 00:18:46,288
+Like the persistent self that's always observing regardless of how many times you step back and abstract and all that kind of stuff, but people don't need to know that right off the bat. What we're focused on here is distinction itself. That's the original sin of language, but it's also the thing that helped us survive. Like, if we start at this assumption that the physical world is singular, there's no gaps, there's no boundaries, it's just...
+
+43
+00:18:46,800 --> 00:19:15,136
+Changes in Concentrations of Energy Matter. Sounds pretty Buddhist, yeah. Yeah. The singularity assumption, the oneness assumption, says we're all part of a singular thing. But language, at its most basic function, helps us distinguish between parts of that single. Except that's a contradiction. Because if we're arguing that the world is singular,
+
+44
+00:19:15,136 --> 00:19:43,216
+Then there is no distinction. There is no me versus you. It's just all everything. Right. Yes. Yeah. And so language does this thing where it helps us understand that water, I'm holding a water bottle right now, is different from the bottle that it's in. Okay. Water helps us live. The bottle is plastic and has environmental impacts. If we didn't make that distinction linguistically,
+
+45
+00:19:43,216 --> 00:20:12,240
+We'd try and eat the bottle. It would have health impacts. Right. So we have a model of the world that we operate in, and language helps to describe that. And I think you're right, but also at the same time, even though it's not perfect, it's good enough. And it works. It does its function, even though we can nitpick it apart like Noam Chomsky could. But we're not...
+
+46
+00:20:12,400 --> 00:20:40,192
+You know, we don't really care. It serves its purpose. And, you know, I think that, well, was there anything in language that would help us with decision-making and free energy principles? Because that's basically what all this is, the first and free energy principle, where we have a gap between reality and expectations.
+
+47
+00:20:40,192 --> 00:21:06,512
+What we observe and what we expect. And so what can we pick up from linguistics? Because the gap between the things, that's where this whole thing was originally going. My intention for this podcast was to talk about the energy investment. Because it takes a lot of energy when you go, oh, I'm wrong. Like, it's upsetting.
+
+48
+00:21:06,512 --> 00:21:34,944
+You know, if you want to do anything about it, you've got to sit there and think about what happened, what went wrong. And I don't like it as much as anybody else. I'd rather have a sandwich and, you know, stare at the pond. Yep. Yeah. So what you're talking about, some fields of psychology talk about is cognitive dissonance. Difference between expectation and outcome. And as we were talking about before we started recording, like, it's easy to do the thing that's...
+
+49
+00:21:34,944 --> 00:22:04,480
+going to satisfy us right away. And so when we're experiencing dissonance, we can just walk away from that for a lot of things. Obviously, that doesn't help us if the dissonance is like we want to be a Cat 1 crit racer, and it turns out we are, you know, spending a lot of time on the couch with our potato chips. It doesn't really help us be a Cat 1 crit racer in that case. I think one of the things, well, here's a language thing for you, is in
+
+50
+00:22:04,480 --> 00:22:30,768
+Cognitive Dissonance, at least to me, colloquially, I don't know what the professional definition is, but it seems like the dissonance part comes from somebody not willing to let go of their belief to match or adjust to what they're observing. So we might be able to talk about that more in the way of avoidance of discomfort. Dissonance is uncomfortable.
+
+51
+00:22:30,768 --> 00:22:59,344
+Because if you hold on to your dissonance, but it's not affecting your life that negatively, you can hold on to it of no consequence. Exactly. Okay. Right. But if we're going back to like evolutionary selected kind of traits of human beings, like discomfort is not something that's like to sit in discomfort. It's not something that's selected for. Discomfort is normally an indicator that we're in trouble and we need to do something. And so a lot of what we have.
+
+52
+00:22:59,408 --> 00:23:24,864
+Organismically Learned, as far as handling discomfort, is to avoid, to get out, to escape. And it's really easy, both linguistically and physiologically, to avoid discomfort. So if we get some cognitive dissonance, we're in this place of discomfort, we're like, eh, I'm gonna go have a sweet snack right now. And I'm gonna get that instant, appetitive hit, and I'm no longer in discomfort. Or, I'm gonna...
+
+53
+00:23:24,864 --> 00:23:54,576
+Talk about this linguistically to myself. My dialogue is going to adjust to this feedback so that it's not so uncomfortable anymore. And suddenly, if we're talking about this like first incorrective feedback loop kind of thing, expectations and observations come closer together, there's less dissonance. We have avoided the discomfort. But avoidance doesn't guarantee that we're going to move in a direction that's meaningful to us.
+
+54
+00:23:55,696 --> 00:24:23,968
+True. It's low energy to avoid. It's higher energy to actually pick a direction that's going to contribute to our growth or contribute to our personally satisfying goals. That is actually one of the distinctions that was made by Eleven in this is that, or whoever else it was, where they're talking about in the short term versus long term, like energy investment.
+
+55
+00:24:23,968 --> 00:24:51,744
+And this is something that I found fascinating and I immediately thought about with training principles, like making training decisions. Why is it so fucking hard to make training decisions? Because you've got this dissonance between expectation and reality. You've got this gap. And it takes a lot of energy and a lot of reading and a lot of research and everything in order to figure out what's happening. And even then, you are...
+
+56
+00:24:51,744 --> 00:25:19,760
+going to be making these decisions, and you still don't know what's going to come out the other side. Like, in a way, you're jumping off a cliff when you make training decisions. And I think a lot of people, I talked about this with Tim Cusick, don't have the advantage of having trained many athletes over many seasons. You know, like an average coach with an average roster, let's call it 20 people, over the course of a year, they've got 20 seasons of experience.
+
+57
+00:25:19,760 --> 00:25:48,720
+Where a person training themselves has won. So we get a lot more feedback loops and a lot more expectations. And I think thinking long term about it is like right now there's a very large amount of discomfort in energy investment. But hopefully in the long term it's going to pay off. Yeah, so I kind of want to reiterate what you were just saying in a slightly different...
+
+58
+00:25:48,720 --> 00:26:18,496
+The contrast between a self-coach athlete versus a coach and tying it into that timeline to feedback. That 20-athlete coach gets, as you said, 20 training seasons worth of feedback in a single year. Their time to see long-term, compound, beneficial kind of outcomes is extraordinarily short relative to the single self-coach athlete.
+
+59
+00:26:18,496 --> 00:26:47,088
+and so their behavior gets selected for, consequentially selected for, very, very quickly in the direction and there's not a lot of time delay whereas the self-coach athlete could be looking at a six-month, one-year, five-year time delay to outcomes that are really, really noticeable and even then, they're in their own change experience so that like
+
+60
+00:26:47,152 --> 00:27:15,120
+perception of change is hard. Like, it's so, you can, you've probably experienced this, I know I've experienced it, but it's the metaphorical frog in the boiling pot. Like... Why don't we go over what that one is, because I was doing a consultation with a person who's not in the U.S., and they had never heard of the frog in the boiling pot. Okay.
+
+61
+00:27:15,184 --> 00:27:44,432
+So the metaphor of the frog in the boiling pot comes from this weird story about how to, I guess it's not a metaphor, it's a learning story, I can't, fable. Is it a fable? I have no idea where it came from. I'm trying to think of, like, it's a learning story. Yeah, it's a... I'm trying to communicate a lesson of how to institute change. Thank you, that was the word. Got it, okay.
+
+62
+00:27:44,432 --> 00:28:12,496
+The Frog in the Boiling Pot is a parable about how to institute change without severe resistance. And the story goes something like, if you put a frog in a pot of water that is boiling, the frog is going to jump out right away. If you institute severe change, you're going to get severe counter control. But if you put the frog into room temperature water that it's used to,
+
+63
+00:28:12,496 --> 00:28:38,800
+And slowly, incrementally raise the temperature of the water, the frog will just stay there until it boils alive. It's a very grotesque parable. It is. And it's especially, we hear it a lot in societal change, where you see swings into xenophobia and bigotry and things like that. But when we're talking about athletes,
+
+64
+00:28:38,800 --> 00:29:01,392
+The takeaway is when an athlete is the frog and the water is their training environment and their performance results, they're rarely going to ever experience a moment of change. They're just going to see themselves as almost stationary and
+
+65
+00:29:01,392 --> 00:29:23,696
+Potentially be engaging in all kinds of language to themselves about frustration of no change, even if objectively, numerically, they've been on this nice steady like 2 or 5 or 10% improvement path for multiple years. They're going to look at themselves and be like, I haven't done shit. Whereas somebody might look at their...
+
+66
+00:29:23,696 --> 00:29:53,504
+at their metrics over a year or five years and be like, holy crap, that's sustained improvement that's hard to get. But their own personal change perspective, because they've been experiencing that improvement at such an incremental pace, is one of like, I'm still in the same place I was five years ago. It really does feel the same for a lot of people. Yeah, that's true. And even then, like I just posted, one of my clients got a very large, nice FTP bump.
+
+67
+00:29:53,504 --> 00:30:18,320
+basically got about 30 watts-ish. Basically, he did a 30-minute effort, and he bested his best-ever 20-minute by 15 watts. Yeah. And he was like, I bet there's a little more in the tank, and I was like, whoa, whoa, whoa, cool your jets. This was a great bump, but prepare for...
+
+68
+00:30:18,320 --> 00:30:47,968
+Prepare yourself for maybe a handful of watts, like maybe five. Because a bump like this happens infrequently. Like, because, you know, got a big race schedule coming up once a year is my expectation. And if we get more than that, I'm very happy. We're going to try for more than that. But when it comes to, like, resting between races, there's not a lot of good high-quality training that you can do for that kind of extra improvement.
+
+69
+00:30:47,968 --> 00:31:14,768
+Can you imagine being so highly trained getting 30 watts and then thinking that you're going to get another 30 watts in a year? If you're not racing, maybe, yeah, sure, okay. But, you know, people's got results to get. So, anyway, so, you know, that was one of the, you know, kind of adjusting expectations because I've got the experience and he doesn't.
+
+70
+00:31:14,864 --> 00:31:44,112
+And I think that kind of stuff is super motivating, I think, for a while. And then as you go train and race and fatigue starts to creep in and maybe you get injured or something like that, suddenly it feels like everything you've done is gone. And a lot of people will think about doubling down.
+
+71
+00:31:44,112 --> 00:32:13,312
+because, oh, all this, you know, training hard worked for me before. It should work for me again. And then especially if it's fatigue, you're going to drive yourself to worse performances. And there's like a sunk cost thing in there too. So, you know, what can we do about that? Because that's, well, that's kind of what I'm getting at is that the feedback loops are long with training. They're really long. It's almost like education where, okay, like,
+
+72
+00:32:13,312 --> 00:32:39,760
+You go to college and you get this degree, you are not guaranteed a job making X amount of money as soon as you're done. You don't have the experience, you don't have blah, blah, blah, and it's sort of like silver bullet training. You go do this thing the way that we tell you to, and if you don't see any improvement, well, you just didn't do it right.
+
+73
+00:32:40,368 --> 00:33:09,136
+You look so upset right now. I'm sorry. People that sell that kind of stuff, I just want to like, I want to bring harm to them. I'm not a mean person. But they're promising, they're promising, okay, we've had a lot more experience than you have. We found this method that's going to work. We promise it'll work. Just do it the way we tell you to. And that, you know, because it's appealing in a way because it's like we have now, we did the, we closed the energy gap for you.
+
+74
+00:33:09,808 --> 00:33:37,504
+We have shortened the expectation reality thing, and we know, well, we have this extra thing you've never thought of, and it's appealing. I mean, that's why all this stuff sells. Yeah. So, side parallel. Hold on. It's Hustler University for cycling. Years ago, did you ever come across Tim Ferriss?
+
+75
+00:33:37,504 --> 00:34:07,040
+And his... Yes, I've heard of Tim Ferriss, yes. That's as far as I go, I've heard of him. His, to my knowledge, first, like, massive popular book, in the book itself, he says the original working title of this was Drug Dealing to Adults. And the whole book is about, like, I think the original title, mind you, I read this, like, 12 years ago or something, it was, like, the four-hour work week or something.
+
+76
+00:34:07,040 --> 00:34:34,320
+and the whole thing is like how do you arrange your life and your work system so that you work as little as possible and you're very efficient at it and you're very effective at it and you enjoy the other tasks but he openly admits that like he's selling sugar, he's selling that silver bullet solution and
+
+77
+00:34:34,320 --> 00:35:01,536
+In sport, this is the same thing. So many people, I mean, I respect that a lot of people are trying to make a living. They're trying to provide for themselves and they're trying to provide for family and all that kind of stuff. And so they have to drum up enough visibility and they have to drum up enough income to do that. And the way to do that is to sell your thing. And the easiest way to sell your thing is to sell sugar, is to chill the silver bullet.
+
+78
+00:35:01,536 --> 00:35:30,096
+But a lot of times that selective process of refining your sales message and refining your sales message ultimately ends up in exactly what you described, where I'm going to tell somebody else that if you just hand me money, I'm going to make it stupid easy for you. This one thing is going to make you a Cat 1 Crit Racer, and if you don't turn into a Cat 1 Crit Racer after handing me your $300, well, it's on you. You did it wrong.
+
+79
+00:35:30,224 --> 00:35:54,512
+But the, yeah, exactly what we're talking about, like the nuance, the change is in the nuance, but people don't buy nuance for the most part, and so there's this weird compromise. I mean, we were talking about this before, about like, what do you want your show to be that's meaningful to you? What do you want this podcast to be that's a meaningful product?
+
+80
+00:35:54,512 --> 00:36:21,264
+to you and to your audience versus what is the thing that's probably going to drive audience and potentially support your additional goals outside the podcast. There's always that compromise, and that's a dissonance in and of itself. And being able to sit with that can allow us to, whether as athletes or as partners or as professionals,
+
+81
+00:36:21,520 --> 00:36:44,816
+Move towards what's meaningful to us, but being aware that we are giving up the lucrativeness of selling sugar, so to say, means that we know exactly what it's costing us to do the thing that's important, and that's not comfortable. Getting back to
+
+82
+00:36:44,816 --> 00:37:14,512
+The role of the coach in all this time-delayed satisfaction and being able to sit with dissonance. We talked about this on the rule-government behavior episode, but coaches use their language to change the perception of the athlete. They talk to the athlete and they consequent athlete behavior in such a way that an athlete is more willing to sit with dissonance
+
+83
+00:37:14,512 --> 00:37:42,416
+Know that rest needs to happen, or to even respond to rest as a thing that they want to do. Yeah, you're laughing. Okay, so the same guy who just got that big FTP bump. This is great. He rides his recovery rides too hard. All of them. And I dared him to set his Erg Mode at 100 watts. And he put an RPE of 10.
+
+84
+00:37:45,584 --> 00:38:14,320
+So I know it's the hardest workout yet. Yeah, language is a screwed up thing like that. I don't know if I've shared this one with you, but when I talk to people about being a researcher of basic language functions, one of the things I tell them is humans are the only species that will, in the presence of food and hunger,
+
+85
+00:38:14,672 --> 00:38:44,528
+Eat Less. Yeah. You just rolled your eyes at me. I'm very surprised, because I am currently experiencing a gap in expectation and reality. And I would like to minimize my surprise in the future, so I would like to know how I adjust my mental model to close this gap. This is specifically talking about eating disorders.
+
+86
+00:38:44,528 --> 00:39:14,480
+Okay. And, like, there is a population of individuals who engage in linguistic gymnastics to the point where when they feel biological hunger pangs and they have free access to food, it results in them going, perfect, I'm doing exactly what I need to do to be smaller. Whether they're athletes and they're going for watts per kilogram or they're
+
+87
+00:39:14,480 --> 00:39:42,384
+Yeah, oh god, some of the cultural things that turn into, like, motivational, that turn a desire to, you know, survive physiologically into that point of, like, this is confirming that I'm doing the right thing by not eating. And that's just... And it's reinforced by the culture, too. Like, I have heard stories from...
+
+88
+00:39:42,384 --> 00:40:09,872
+Friends, Clients, Future Potential Clients, Past Clients, on Pro Teams, where, like, a team where you would expect them to be up on science and the importance of food and stuff like that, like, if their team has a shitty race, no dinner. Like, is it 1970? Like,
+
+89
+00:40:10,192 --> 00:40:38,480
+On a team of diabetics, you would think that they would realize the importance of food, and yet, and, you know, or, like, go on an eight-hour ride with just a block of cheese. Like, it's the most French thing ever, right? I don't want to call out Novo Nordisk and FDJ, but, like, what the fuck, really? Sorry. It's upsetting. No, like, yeah, it's very upsetting.
+
+90
+00:40:38,480 --> 00:41:07,904
+But that's the cultural outcome of saying we need to be the fastest and to be the fastest it's watts per kilograms and we can't control watts so it's kilograms we're going to control. I disagree. We can very highly control watts. Right. But that requires nuance. There's no silver bullet. And so the silver bullet is no dinner. Oh, God. It's so backwards. And, oh, man. I don't understand how those
+
+91
+00:41:07,904 --> 00:41:36,368
+folks who make those decisions get those jobs. Yeah. I can go on another diet tribe. That's for another podcast episode. What was that? A diet tribe? Sorry. That's the worst pun right here. Oh, man. That's, I mean, that's sport. It's a diet tribe.
+
+92
+00:41:36,528 --> 00:42:04,816
+Oh, funny. And the leaders of that are bodybuilders. I think our puns here are worse than me burping right into the mic. I'm sorry about that again, everybody. And you were telling me that before we started recording. Oh my gosh. I met a conversation about the podcast itself as I was listening to that same episode, not the burping one, but the apologizing for burping one.
+
+93
+00:42:04,816 --> 00:42:34,736
+You started talking about boxers and fighters and weigh-in and the time delay between weigh-in and actual fight? Yeah. Okay. I spent some time working with bodybuilders for a while and saw what they did to prep, the final prep of eight hours on a Stairmaster and nothing but broccoli and chicken and a couple of caffeine pills.
+
+94
+00:42:34,736 --> 00:42:55,792
+As you were talking about, like, the wrestlers spitting into the jugs. I've seen it, yeah. That was my high school Spanish class. He sat right behind me, and it was so gross. When you said, I don't know if you've hung out with people during the weigh-in, but there's no brains there. Like, I've always described it as herding cats.
+
+95
+00:42:55,792 --> 00:43:21,872
+There is like a 10-hour window in that prep time where there are no calories going to higher functions. And sure, maybe you can see extra striations in their glutes, but there's literally no fuel in the tank and there are no thought processes beyond like, I have to get leaner. And that...
+
+96
+00:43:21,872 --> 00:43:51,808
+is frightening. Every time I see the MMA pose, like the day before the fight, that's my first thought, is these poor people are like brain dead right now. How are they mustering the energy? I don't know if you've ever been to a bodybuilding show, but there's a... Okay, so in a bodybuilding show, it's a lot like what you would expect from Miss America. They line everybody up, they're in swimsuits, whatever it may be, they have these god-awful spray tans, which...
+
+97
+00:43:51,808 --> 00:44:17,936
+Stain Everything Backstage, but there's this period where they have to go through a sequence of poses and they have to rotate so that the judges can see all different views of them. The judges are giving them instructions like, please step to the left, please give us your quarter view, please give us your back pose, and you can see that, like, there's seven athletes on stage.
+
+98
+00:44:17,936 --> 00:44:45,792
+And they are struggling to follow those rules. That is how little. And I'm not saying these people are dumb. I'm sure they're not. These are really smart, really dedicated people that have just pushed themselves to physical limits. And in this moment right there, they don't have enough fuel to follow really simple instructions. Yeah. I feel like I get there if I...
+
+99
+00:44:45,792 --> 00:45:13,056
+If I'm like, you know, if I'm busy at a race or something like that, and I don't really get a chance to eat very much for like 12 hours, I feel like I'm there. I cannot imagine what bodybuilders go through. And I'm sure that there are cyclists out there who are in the same spot. Like, I've definitely worked with clients who are like, I do morning workouts, and these days, like, can you please not give me a hard workout? Because I have to be able to think later on. Yep. Yep.
+
+100
+00:45:13,056 --> 00:45:40,336
+I had to, when I was really trying to be, like, serious about cyclocross and mountain bike racing and grad school at the same time, I had to make sure that my hard workout days were not on days where I had to be writing or reading, because I'd just sit down to do work and stare off into space. I didn't have the capacity to, or I would read, like, I've...
+
+101
+00:45:40,336 --> 00:46:03,024
+If nothing else, grad school teaches you to read even when your eyes are trying to roll out of your head. And so I'd read and I'd be like 200 pages or three papers through and I'd sit there and I'd be like, okay, I got to summarize this stuff. What did I just read? Like three hours just went by. I know I read a bunch of technical stuff.
+
+102
+00:46:03,536 --> 00:46:32,880
+Damn it, I have to read that again, because there just was not enough. And then you read it again, and it's like weirdly familiar. Yeah. Yep. Weirdly familiar, but I still have to like, I might as well have just taken a nap. Yeah. I probably would have been much better at it had I just gotten off the bike, eaten something, had some apple juice, you know, taken a nap and picked up like an hour and a half later. Well, you know what that sounds like to me, because I'm sure you adjusted your behavior.
+
+103
+00:46:32,880 --> 00:46:59,744
+It sounds like what I read, like the second option earlier, the brain signals the body to act in a way so that the body is in a new state and new sensory input matches the pre-existing belief. So you changed your workouts or your work schedule so that way I expect myself to sit down and do work. You actually sit down and do work instead of sitting down and like just doom scrolling Instagram. Yep.
+
+104
+00:46:59,744 --> 00:47:29,504
+which I've certainly done. And actually Doomscrolling Instagram is my indicator to myself that I haven't eaten enough or it's too late or like that's my indicator that I'm running low on fuel or have overextended myself for the day. But yeah, and that's exactly what you're saying. Like responding to the feedback, responding to the consequences and flexing, adjusting is really, really helpful. And Fristin's
+
+105
+00:47:29,504 --> 00:47:57,920
+Description of this feedback system at the neurological level. That's cool. It's coherent with everything else at many different levels of selection. He actually says in his own paper that he's not sure it's going to contribute that much to the science as a whole. I also read many, many descriptions like that. But I think...
+
+106
+00:47:57,920 --> 00:48:24,816
+I think thinking about it is, you know, it's sort of like, you know, in order to fix a problem, you've got to admit that you have it kind of thing. You know, it's sort of like when you told me about the rules thing, like it, it helped me so much change my own behavior now that I know that there's this thing. And, you know, things have been, you know, obviously it's not like, it's not a silver bullet. There aren't no silver bullets. That's, you know, one of the podcast principles.
+
+107
+00:48:24,816 --> 00:48:54,224
+One of the many reasons that I'm not more popular than I am, I think. But, you know, one of the things that I like here, though, is that it basically calls, all this stuff calls the brain an active inference machine. Like, we're trying to figure out, okay, if I throw this ball up in the air, is it going to come down or not? Like, being able to have a working predictive model of the world is so, so, so helpful.
+
+108
+00:48:54,224 --> 00:49:22,656
+And just when it comes to training, it's so hard to really have a good feedback loop, not only because the time is long, but because, you know, like the background information people need to do. Okay, if you've got this new principle to train by that has all this stuff to do with lactate, how much do you need to read on lactate, bioenergetics and biochemistry and like pathways?
+
+109
+00:49:22,656 --> 00:49:50,832
+and then all the other stuff that goes along with it. How much do you have to read in order to understand whether this principle works or not? You've got to just trust that the person knows what they're talking about. And that helps as often as it hinders, I think. Yeah, it does. And you said something just a second ago that really kind of drew me into something. Yeah. Feedback.
+
+110
+00:49:50,832 --> 00:50:14,880
+We have to have these feedback loops to make adjustments, to move down the path. Fristin gives us, when we're talking about admitting there's a problem, Fristin gives us a way to look at it and be like, okay, we're going to respond to our feedback. We're going to seek the low energy solution, the sugar, the sit on the couch, whatever it may be.
+
+111
+00:50:14,880 --> 00:50:42,000
+But one thing that's really important, and we kind of touched on this on the rule of government behavior discussion, is feedback is only as good as our sensitivity to it. If we have rules that are desensitizing us to feedback, we're not going to adjust our behavior. A lot of what I do, working with athletes and others who are trying to improve their performance, is
+
+112
+00:50:42,512 --> 00:51:10,512
+Change Their Sensitivity to Feedback. There's some really cool papers out there that looked at individuals suffering from depression and individuals not suffering from depression and how sensitive they were to social consequences. And you might look at that setup and be like, oh, you want to be sensitive to social consequences and people who are suffering from depression are insensitive.
+
+113
+00:51:10,736 --> 00:51:31,664
+But what it turned out to be in the research was that people suffering from depression actually were bimodally sensitive. They were either very insensitive or very sensitive. And so either hyper-responsiveness or non-responsiveness was...
+
+114
+00:51:31,792 --> 00:51:58,288
+Making it so that the consequences of social contingencies either weren't affecting their behavior at all, or were affecting their behavior to such a degree that they were unable to function within a normative band. And those individuals who are not suffering from depression were kind of sitting in this middle level of sensitivity where they were noticing the feedback of social situations without it being so dominant that it was...
+
+115
+00:51:58,288 --> 00:52:27,264
+Disrupting their behavior, but they were noticing enough that they could respond to social cues in a functional way. And so when we talk about athletes and training and coaching behavior around athletes, we're trying to find this Goldilocks zone of sensitivity to different feedback elements where they are engaging in behavior that's going to be sustainable to them.
+
+116
+00:52:27,264 --> 00:52:56,512
+without either missing the signals, being insensitive, or responding to a signal so severely that it's undermining their efforts. So as coaches, one of the things we do basically is where we try to put up the bumpers. Like we're helping people do bumper bowling. Yeah. Everybody wants to bumper bowl. I mean, we may not talk about bumper bowling like it's an amazing thing, but if somebody's like,
+
+117
+00:52:56,512 --> 00:53:23,344
+If you went to a bowling alley and the attendant was like, hey, I'm sorry, but the bumpers are stuck. They're going to be up for your bowling. You're like, hell yeah, I'm going to try and get a 300. Nobody's going to turn it down if it's available, even though we talk a big game about wanting to do it the hard way. And so if coaches can bring the bumpers to the process, of course we're going to celebrate that we're stronger, that we're...
+
+118
+00:53:23,344 --> 00:53:53,040
+Achieving Our Goals, That We're Doing Meaningful Things. We may talk about it as like, yeah, well, I did it the easy way and undermine our own accomplishment, but nobody's going to refuse the bumpers, and that's part of the reason why people buy silver bullet training plans. Well, because they think that that's the bumpers, and that that's going to get them up to bullet 300, when, in fact, a lot of the time, part of it is like, I think a lot of silver bullet stuff,
+
+119
+00:53:53,040 --> 00:54:16,400
+is that it hits a type of training that people weren't doing before. So if you're somebody who's 110% in on sweet spot training, and then suddenly somebody's polarized, and you do polarized for two months, and you're like, wow, I'm better than blah, blah, blah. You're hitting different systems than you were before.
+
+120
+00:54:16,400 --> 00:54:44,656
+Five rides out of the week was sweet spot, and you were never, you know, you had basically hit, like, your maximal, you know, adaptable dose, or recoverable even, and then suddenly you're going easier than you're going hard, so you're basically working your VO2 max, and suddenly you start seeing changes, okay, great, but it's not going to happen forever. And so suddenly, like a silver bullet, like, that looks promising at first, because this is how all that kind of stuff looks, I think.
+
+121
+00:54:44,656 --> 00:55:09,888
+suddenly starts to lose its luster. Yeah. And now you've got some decisions to make because it's like, oh God, I've spent so much time doing this. Did it work? Did it not work? It seemed to work. Now it's not happening anymore. Like, I get so many people asking me, oh, this thing that I used to do made me fast for a little while, but now it's not. You know.
+
+122
+00:55:09,888 --> 00:55:39,424
+What do you charge for coaching? We get a lot of that. And I don't kind of – I'm not upset at that kind of stuff because it gets people somewhere. And like pretty much any silver bullet training solution is going to help people for anywhere from like a couple months to a year or two before it stops working, assuming that it's going to have any efficacy at all. But, you know, it's like –
+
+123
+00:55:39,424 --> 00:56:08,400
+What's the thing? What's the new thing? The new zone two, which I think of as tempo. Kind of like the old zone two, but it's the new zone two. Yeah, new zone two, same as the old zone two, but not really, but it's hard to define. Yeah, anyway. So, because I think that there's one more thing in here that we haven't talked about yet, which is people who entrench their beliefs.
+
+124
+00:56:08,400 --> 00:56:36,528
+in the face of information that should make them change it. Because this is... Oh, so you mean like rigid rule-governed behavior? Perhaps, yeah. Because it's like, okay, you do this thing and then it doesn't work or it stops working, but you have bought into the principle so much that you're like, oh, well, clearly I'm doing it wrong or somebody says I'm doing it wrong or something's wrong about this, so I'm just going to keep going. Because clearly it has to work because I've bought in.
+
+125
+00:56:37,616 --> 00:57:03,808
+Yeah. Yeah. Clearly losing weight is going to make me faster on the bike. Even though, you know, it definitely does not. Like, I've had so many clients who are like, I need to lose a little bit of weight, and then like, okay, let's try it. And especially if they don't have professional help, they just start restricting performance tanks, recovery tanks, everything starts going badly.
+
+126
+00:57:03,808 --> 00:57:33,808
+And then it's like, I get to say, you know, I don't think this is working for you, please go have a snack. Right. And, yeah, like, every one of the silver bullet training plans, as you said, is probably going to work for some people some of the time, and for a particular duration. But it's not going to, this saying just came to mind, give a person a fish, they'll eat for a day, teach them to fish, they'll eat for life.
+
+127
+00:57:33,808 --> 00:57:58,304
+The same idea, the silver bullet training plan is giving them the fish or the McDonald's Happy Meal or whatever. It might satisfy for a little while, but it's not going to give them the insight to be able to adapt when it's gone. And that's what coaches spend their whole career learning to do and adjusting to feedback to do so that when one...
+
+128
+00:57:58,304 --> 00:58:26,480
+You know, VO2 max training has run its course for the physiology of the athlete. Okay, now we're going to pivot. We see these indicators. We've reached the maximal state for the moment. We're going to pivot to something else. Okay, we're going to do that until we start to see these indicators like failing workouts more frequently or frustration or feeling, you know, whatever those indicators may be. Okay, now we've hit the red zone of that. Now we're going to pivot again.
+
+129
+00:58:26,480 --> 00:58:49,760
+And that kind of guidance, those bumpers, are what coaches learn to do, but self-coached athletes rarely have the resources or that quick feedback loop to learn to recognize those, and so silver bullets are a pain, but it can...
+
+130
+00:58:49,760 --> 00:59:19,744
+Totally lead to that rigid rule governance that produces insensitivity when it stops working because they say, hey, I spent this money to get this outcome. I'm not getting this outcome. I must be doing it wrong. I should just double down. Yeah, or I've sunk this much time and energy into this thing so far. I should double down rather than going, oh, okay, well, maybe it's not working as well as I thought. What is going wrong here? Right. And I used to do actually a lot of consultations on people who were,
+
+131
+00:59:19,744 --> 00:59:49,472
+Doing Silver Bullet Stuff. And I don't, I think it's probably like a selection of my audience where I don't get as many inquiries about that as before. Now, a lot of the time, it's like, it's more training plan optimization for somebody who's doing it like 70 to 80% as well as they could be, which I think is a fantastic turn. But also, I'm aware that I've created my own echo chamber in this kind of stuff. So I don't really know what's out there in terms of, you know, people.
+
+132
+00:59:49,472 --> 01:00:17,456
+Buying Into The Silver Bullet Stuff. Yeah, and that's, you know, that's the danger of building your own cultural group, but the other side of that is maybe we can build this big enough so that we can kind of not kill. We're never going to kill the silver bullets. We've just spent a whole hour and a half talking about, like, why they're so appealing, but undermine a little bit. I mean, that's a lot of what I do with working with clients, and one of the things that...
+
+133
+01:00:17,456 --> 01:00:42,512
+that I challenge them with is this criteria that we call workability. Like, a client comes and says, I am trying to reach this valued outcome, and I've been doing this thing over and over and over again because I know it's supposed to get me there. And the conversation inevitably leads to, like, okay, you did that thing in that situation. How did that work for you?
+
+134
+01:00:42,512 --> 01:01:11,744
+Did it move you towards your valued outcome or away from your valued outcome? And all we're doing in that moment is sensitizing the individual towards the actual consequences, not the rule that they've been following, but the consequences of their action. And through repetition of that, through the nuance of all the ways of having those conversations, we can start to get individuals to test their rules.
+
+135
+01:01:11,744 --> 01:01:41,600
+in context and respond to actual consequences to rebuild that ability to flex with feedback that gets so overridden by rules. I think this is actually might be the most valuable piece of advice for people here is like adjusting your sensitivity because you don't want to be too sensitive, right? Because if you like don't eat enough for a workout,
+
+136
+01:01:41,600 --> 01:02:09,312
+and the workout goes badly. It doesn't mean you've got to scrap your whole training plan. But at the same time, if over a longer course, things are not going right and you have expectations that they are going right or like, oh, I'll just have a breakthrough on the other side. I cannot tell you how many people I've consulted with where their coach is having them just do the same stuff over and over again, expecting a breakthrough.
+
+137
+01:02:09,312 --> 01:02:39,280
+and nothing's going to happen and performances are even getting worse and it's like, well, we'll just keep going like we are because I expect something good to happen and that might have happened like a handful of times but those are the exceptions that prove the rule and so when it comes to sensitizing yourself to what is actually being observed because it takes, you know, this is the free energy principle, it takes energy to confront that kind of thing and it's uncomfortable to look at the dissonance.
+
+138
+01:02:39,280 --> 01:03:07,088
+So in order to sensitize yourself away from that kind of dissonance, what can we do? So I'm going to be a little pedantic here because you just said in order to sensitize yourself away from the dissonance. Oh, okay. Towards the, okay. Towards your true observations. No, no, I'm actually going to challenge this.
+
+139
+01:03:07,088 --> 01:03:37,008
+Because I don't know what I'm talking about. Towards the dissonance. Please do. The challenge is towards the dissonance. We've talked about this as, like, a lot of times when we experience dissonance, we move away from it. We avoid the uncomfortable. But the challenge here is to actually lean into the dissonance as a useful sensory system. As something that says, hey,
+
+140
+01:03:37,008 --> 01:04:04,608
+Things aren't going the way we expect them to go, and this is our signal right now. Stop, sit with the dissonance, explore what's going on in this moment here. Why did we feel dissonance? What's important about the difference between expectations and outcomes? And how do we adjust in this context to move towards outcomes that are meaningful? Because if we just...
+
+141
+01:04:04,608 --> 01:04:34,496
+Avoid the Dissonance. If we go and get that sugary treat to feel instantly gratified, we're not inspecting the difference between expectation and outcome, and we're not using our own sensory systems that are screaming at us that there's something not quite aligned here. And a lot of times we're not very good at decoding that dissonance and that discomfort.
+
+142
+01:04:34,496 --> 01:05:01,632
+And so initial efforts of sitting with it can be really unsatisfying. This is a lot of what I do with clients is like, this is going to be uncomfortable, but we're going to learn how to use all these signals in a manner that's actually helpful for you. There's a quote in my professional community is that we're not training people to feel better.
+
+143
+01:05:01,632 --> 01:05:25,552
+Satisfied, Happy, whatever you want to call it. We are teaching people to feel better. Like, notice the signals in the moment, be appropriately sensitized to the feedback that is useful, and use it to move in a direction which may be uncomfortable, but meaningful.
+
+144
+01:05:25,552 --> 01:05:54,496
+to us as individuals, as partners, as humans, as athletes, whatever the hat is that we are wearing. Because there's going to be, the other side of that is there's always trade-offs. We don't always, we don't wear just one hat. We're not always the athlete. We're not always only the partner, only the student, whatever it may be. And so in any given moment, if I'm going to get up at dark 30 in the morning to get time on the trainer before I go to work,
+
+145
+01:05:54,496 --> 01:06:23,408
+That means that I've given up sleep. That means that I'm more likely to be grumpy with my partner. That means I might wake my partner up, and they're going to be unhappy about it. Like, I am compromising in the role as a partner. Excuse me. I just lost my earbud. When you start gesticulating like that, the danger is always very high. I wonder how those things stay in at all. You've got to tape them like you're in a bike race.
+
+146
+01:06:23,696 --> 01:06:48,656
+I am quite impressed with these things. This is the first earbuds for me. My wife bought them for me for Christmas, and I'm like, holy crap, I do not trust these, but they're staying in. But that was really funny. I could feel it just extracting out of my ear. I was like, oh crap. But what I'm saying here is like, at any given moment, to move in a meaningful direction.
+
+147
+01:06:48,656 --> 01:07:17,568
+Whether it is to get that workout in that's really important or to set aside workouts and go on date night, you know, whatever is important, we're always going to compromise on something else that is meaningful. And we can avoid that compromise by just sitting our ass on the couch and eating candy. Just total avoidance. Get rid of the dissonance because we just never contact feedback that says outcomes are bad.
+
+148
+01:07:17,568 --> 01:07:44,944
+Life and Bike, then just avoid both of them. Right, sure, we can do that. We are programmed, we are selected evolutionarily to avoid. Discomfort is there for a reason, but it's not going to move us in a value direction. And so moving in a value direction, moving in a direction that is meaningful means we're going to incur compromises, we're going to experience discomfort.
+
+149
+01:07:44,944 --> 01:08:14,416
+and we're going to have to use all our sensory systems both mental discourse wise and physical sensory systems to be sensitive to what's important to us at that moment and that's going to change from moment to moment to moment and so I work with clients to build the skills to have flexible sensitivity to notice what's working in each context and as you said
+
+150
+01:08:14,416 --> 01:08:43,600
+Like, a key part of that is that sensitivity. We as coaches, as therapists, as bosses, we're constantly using our language to sensitize or desensitize the individual we're talking with to particular aspects, whether it's short-term satisfaction or long-term goals or whatever it may be. One thing that we've talked about a couple times is RPE.
+
+151
+01:08:44,368 --> 01:09:14,352
+So, it's... Okay, if I grab a Garmin, and I put, like, display power on my Garmin, and it's right under my face, it's so... It's literally just sensitizing us to extreme precision on our power output, okay? Which can desensitize us to what our body is actually screaming at us at the moment. That is why I tell people don't use Erg Mode.
+
+152
+01:09:14,352 --> 01:09:41,359
+Because you shut off your brain. It's sort of like using GPS. Every time I've used GPS to get somewhere, I don't learn where I'm going. Right. Yeah. And it's a very useful tool in specific context. But if we're using it every single day for every single act related to it, we are actually just putting blinders on ourselves.
+
+153
+01:09:41,359 --> 01:10:07,216
+to all of the faculties that we have that are trying to tell us something important. Whether it's, we're really fresh and we can go harder, or, yo, step off the bike and have a bowl of pasta or something. I think it's interesting that you bring that up because that's one of the things that I've been thinking about in coaching recently.
+
+154
+01:10:07,216 --> 01:10:36,336
+Because I've had a couple people say like, oh, can we do like less contact at a cut rate or something like that? And I tell them absolutely not. Like, you know, like, you know, it's like, like you're a professional cyclist, like I'll negotiate a rate, but I'm not going to half-ass my job because the feedback that I get from athletes, like in words, like in workout comments and texts and emails, like that's as important as the actual power and heart rate data.
+
+155
+01:10:36,912 --> 01:11:04,576
+Oh, absolutely. I don't want to short myself on that stuff that I need to do my job, because otherwise it's like coaching in Erg Mode. Like, I don't know how things are going. We're just kind of doing what has been previously set. Like, there's no adjustment involved. I'll actually point out, in your conversations with Tim Cusick and your time trialist, his name is Corey, in both conversations, you talked about how the indicators of
+
+156
+01:11:04,576 --> 01:11:32,752
+a point in which to pivot the training had to do with non-biometric flags. It was like, I'm not able to complete, or I can't do as many sets as I expected, or I'm being more frustrated at work, or whatever it may be. Like, all of these qualitative kind of experiences are the actual indicators that you're looking for that like, okay, we've run the
+
+157
+01:11:32,752 --> 01:11:57,840
+We've run the length of opportunity on this particular training goal, now we're going to move somewhere else. And so, it doesn't matter if you've got a heart rate strap on, like, hang that up, take the power meter off the bike, and go out there and ride until things are starting to fall apart, and then adjust your training plan. And ride until things are falling apart again, and adjust your training plan again.
+
+158
+01:11:58,160 --> 01:12:27,456
+the qualitative stuff is so important and training athletes to be sensitive to that at that Goldilocks range of like they're not so sensitive that as you said throwing out a whole training plan because they had one bad day but they're not so insensitive that they're spending six months or a year or a decade like cutting out a dinner because they didn't reach their training goals like doing
+
+159
+01:12:27,456 --> 01:12:56,896
+Garbage Work because they're trying to follow a rule that's just not workable. Yeah. Yeah. I had something else. I got so worked up, I lost it. That's all right. Well, what I was thinking of while you were saying that is thinking about what would be a guideline, like a medium sensitivity guideline for people.
+
+160
+01:12:56,896 --> 01:13:26,336
+Because I think a lot of the time people don't know what even to look for when they're undertaking certain types of training. Like if you're undertaking certain types of training that might have like a six-month lifespan, let's say. Like if you're like, okay, I need to start, I want to increase my one-minute power. And I'm at what I can do physiologically in terms of like anaerobic capacity and sprint power. Okay, I've got to start lifting weights. That is like a six-month process a lot of the time.
+
+161
+01:13:26,336 --> 01:13:50,816
+And you can see some benchmarks along the way, but it is like a long feedback loop. And a lot of what happens with that kind of stuff is, you know, if it's not working, some things are like, are you eating enough? That is a big one. Like if you are, if you're going to be putting on muscle, you need to stuff yourself like really well, like around your weightlifting workouts.
+
+162
+01:13:50,816 --> 01:14:14,768
+and gaining weight is a consequence of a lot of that kind of stuff and then you need to adjust accordingly because a lot of people don't want to eat enough to gain the weight and they never really get stronger so why would you expect your like one minute power to go up unless you're just improving neural drive and so something like that when you've got a long cycle you know
+
+163
+01:14:14,768 --> 01:14:41,648
+It's difficult to say, okay, this worked or didn't work. And so you've got to set your expectations at, okay, maybe I'll like check in at like three months. So I think three months is actually a pretty decent time range to see whether or not your training plan is having any effect. And you can either see it in the data if you are testing, like if you're doing an FTP test and you know what your FTP is, you're trying to extend your FTP.
+
+164
+01:14:41,680 --> 01:15:11,456
+Good, go ride at it and see if you can ride longer than you did last time you did like a one-off effort. If you're training VO2 max, you know, after you're done with your training block, go do your favorite three, four, five minute hill and see if you're any better at it than you were last time before the training block. Like having in and out kind of testing criteria can help. And of course, then you've got, okay, this training block took me one month, two months, three months.
+
+165
+01:15:11,456 --> 01:15:41,408
+and now you've got this is my input criteria and this is my output criteria. Did it work? Or you don't even need hard data sometimes. Sometimes you just need the RPE. I feel like my threshold is higher for very experienced athletes a lot of the time. That's all I need to hear. I don't even need data. I'm like, great, let's adjust it to what you feel. I will just go into WQO5, add the 10 watts that you say you feel is there.
+
+166
+01:15:41,408 --> 01:16:10,880
+probably three-quarters of my athletes with data like that. So I'm going to butt in a little bit because you've totally just answered your own question. Whoops. Yeah. You said, what are the things, if you have a longer timeline, what are the things that help you check back or you want to analyze? So one, like general criteria, if we're trying to give a self-coached athlete something to use, workability.
+
+167
+01:16:10,880 --> 01:16:40,080
+is giving somebody a, like, they have some sort of goal, they want to implement some sort of training plan, there's the, like, what is the time to expected outcome? As you said, it could be three months, it could be six months, it could be a year. Okay, what is, the next one is, what is the time to predictive indications of the expected outcome? Because
+
+168
+01:16:40,080 --> 01:17:06,864
+Yeah, okay, maybe the goal, the big hairy goal is to qualify for Olympic trials. That's a very complex goal that we're not going to realize in six months. But in one year, we might expect certain physiological indicators that we're on that path that predict we potentially could meet it. If it's something much more...
+
+169
+01:17:06,960 --> 01:17:36,048
+And then within that, you've got to commit.
+
+170
+01:17:36,048 --> 01:18:05,840
+This may sound like the easily said, hard to do thing, but early on, when we're really excited about doing a new training plan, we're really excited, and we're kind of hypersensitized to it. And so those early workouts, we're going to be like, okay, I'm doing it, I'm doing it, I'm doing it, I'm doing it, and now we're starting to build up that fatigue that we're not used to, and within a couple days or weeks, we're like,
+
+171
+01:18:05,840 --> 01:18:35,712
+I'm not seeing any difference, and I'm tired, and I hate myself, and I'm arguing with my partner, and I'm not able to meet my deadlines. This must not be working. There is a minimum needed commitment time-wise, where we just have to be like, it's going to be six weeks until we see physiological adaptation. So you've got to commit to six weeks, period. But along that line, we need qualitative indicators.
+
+172
+01:18:35,712 --> 01:19:04,112
+Maybe somebody says, I want to raise my FTP by 20%. Maybe they're an untrained athlete, and we're like, okay, possible, maybe. I would say even likely, yeah. But that's going to require a certain time commitment, including time in zone in the week. And so you're going to have to go from your four or five hours a week on the bike to eight.
+
+173
+01:19:04,112 --> 01:19:34,000
+We're going to do a 70% to 100% increase in time on the bike. There needs to be some monitoring of quality of life indicators because maybe this person can't actually afford to do eight hours on the bike a week. For whatever reason, their job, their relationships, other commitments, it's going to critically suffer by spending eight hours a week. And so they need to have some sort of bumpers in place to be like, hey, this is not workable with my lifestyle.
+
+174
+01:19:34,000 --> 01:20:02,736
+and those big qualitative bumpers are probably going to be more indicative of whether the training is going to be effective or not than the little ones that are going to require six weeks or eight weeks to come about because they're physiological markers of change. So if we're talking about the self-coached athlete who's about to undertake a six-month FTP increase effort or
+
+175
+01:20:02,736 --> 01:20:27,728
+10-week VO2 max effort. Not only do they want to identify the biomarkers, the physiological markers of improvement, and the minimum amount of time that they need to commit to to get those, but they need to spend a moment considering the quality of life indicators that might be like, I can't afford to do this. Or, if this happens, I need to pivot.
+
+176
+01:20:28,272 --> 01:20:55,600
+because if they don't and they're just looking at those markers, they might see those markers go up. It might actually, you know, if they follow the training plan, they might get the outcome that the training plan suggests is going to be possible and at the same time, other aspects of their life are going to be compromised on and they might find themselves in a worse situation than when they started and so they can't sustain whatever gains they got.
+
+177
+01:20:55,600 --> 01:21:23,600
+Do you want to answer a couple of listener questions while we're here? Sure, let's go for it. All right. Let's pull up the gram at Empirical Cycling, of course. Let's see what we got. I only saw like three or four before we started recording, but oh, wow, we got a lot. Okay, it is the weekend. Everybody might think it's just like the weekend AMAs, which I will put up after we're done recording, as if anybody's listening right now.
+
+178
+01:21:25,712 --> 01:21:53,488
+Let's see. If training is working and you're improving, should you change it even if you suspect it's not optimal? I feel like you could just copy the conversation we just had and paste that in. I know, but I just like the phraseology of the question because I think that some people are
+
+179
+01:21:53,776 --> 01:22:20,960
+Hard to Please in some ways. Actually, the person who submitted this is a client of mine, and we're going to be chatting a little bit later. But he's definitely a guy who's always thinking like, okay, how do we improve the stimulus? I'm training this hard. How can we change it within my energy constraints so that we can get even more improvements? Which is...
+
+180
+01:22:20,960 --> 01:22:49,744
+Which might sound like a pain to some people, but I think it's actually one of the best kinds of clients there is. Because this is the kind of person who can think beyond what I can think, because I don't know what their life parameters are. Even my clients who I have the most contact with, I still would have to ask them, if I change your six-hour ride to an eight-hour ride, is that okay?
+
+181
+01:22:50,128 --> 01:23:17,744
+Because some people might be like, yeah, it's fine. It's great. Should I eat extra? Should I stop for an hour in the middle for lunch? Those would be the kind of questions. Somebody who can suggest optimization changes is actually a great client to have. And so I would say within what you think you're
+
+182
+01:23:17,744 --> 01:23:47,088
+like life and energy parameters are, because especially with some people who ride a lot, recovery and like just food intake is a big concern. So I would say, you know, if you suspect it's not optimal and everything's going well, make small tweaks, very small tweaks. And even if it doesn't lead to immediate improvements in like power or any kind of feedback like that,
+
+183
+01:23:47,088 --> 01:24:16,400
+You know, if it doesn't seem to harm anything, and you're enjoying it better, that's always great, because if somebody, it's sort of like, this might not be true, but I heard that if, like, students, you know, like, you know, elementary school students, like, you know, fourth, fifth, sixth grade, if they help decorate their own classroom, they learn better, because now they feel like they have some ownership in that room, and they have some sort of connection to it. And I feel like,
+
+184
+01:24:16,400 --> 01:24:46,368
+I feel like a lot of coaching clients can feel the same way. Like, can I do this? Yeah, let's do it. Okay, great. Now they're like, oh, I'm so excited for this change. You know what I mean? Yeah. There's a couple things here. One is variability in general is beneficial because the more an athlete experiences different conditions, the more likely that their behavior is going to show up when it's important.
+
+185
+01:24:46,368 --> 01:25:15,152
+If somebody only ever has their bike set up on the trainer and it's only ever at 9 o'clock in the morning and it's exactly one hour, if conditions are so controlled every single time, they're going to go to a race and they're going to find that they do not perform the way they want to. Yeah, they've got their 8 o'clock, 8 p.m. crit and they're like, oh my god, what do I do all day? How do I eat for this? Exactly. Exactly.
+
+186
+01:25:15,312 --> 01:25:40,816
+Variability in Training, just as a very general rule, is absolutely beneficial. When it comes to optimization, optimization walks a path between hypersensitivity, a couple different things. Decreasing variability, like we can do the most optimal training if we're
+
+187
+01:25:40,816 --> 01:26:07,808
+Isolating exactly the strain, the stress and strain we need, and we're subjecting ourselves to that, and then we've kind of fallen over that line into like, well this is not helpful because you're not going to experience, your race is not going to be hold 300 watts for 27 and a half minutes. I was actually going to ask you about exactly this, like does having too rigid of a routine
+
+188
+01:26:07,808 --> 01:26:35,600
+It would seem to me that that would decrease somebody's sensitivity to what you're doing in the outcomes. Oh, absolutely. Yeah. It's going to make it... So... Yes. Optimization can walk into rigidity. It can walk into hypersensitivity, where the conditions have to be exacting in order to get the behavior that we want. But optimization under the...
+
+189
+01:26:35,600 --> 01:27:02,192
+Under the practice of variability, like try different things, see what works, try different things, see what works for this individual, that's extraordinarily beneficial. My PhD dissertation was training people to recognize when they don't know something. We are really, really, really bad at accurately identifying gaps in our own knowledge. And so building the skill...
+
+190
+01:27:02,192 --> 01:27:28,256
+Even if we don't identify gaps, but building the skill to explore, where we're like, hey, maybe this will work better for me, maybe this will work better for me, maybe this will be beneficial for me, is extremely valuable. But it requires, as we talked about before we started this question, it requires sensitivity to not only the task at hand, but
+
+191
+01:27:28,256 --> 01:27:57,280
+What other things are important to this person? The qualitative indicators? Because, sure, maybe we're getting this person more time and zone, but it's costing them their job. Which will eventually cost us as coaches our job, coaching that person. Yeah. Yeah. You know, maybe, like, I used to talk about rigid rule of government behavior, like, in the form of martial arts. Okay.
+
+192
+01:27:57,280 --> 01:28:24,592
+Somebody may find a lot of success early on in their career as a combat athlete by just following the rule, be more aggressive. And it worked and it worked and it worked and it worked and they got to a point where now being more aggressive was either A, getting them injured, or B, spilling outside the ring and getting them arrested.
+
+193
+01:28:24,976 --> 01:28:44,864
+When we're talking about athletes trying different things, yes, I always encourage variability, because it's going to make them more robust to changes in conditions when they want to compete. But, at the same time, we want to make sure that we're checking
+
+194
+01:28:44,864 --> 01:29:13,104
+Checking in on things other than competition itself, other than the performance metrics itself, so that this individual has the quality of life that can sustain their activities and sustain engaging and meaningful choices. I think, on top of that, I think a lot of people consider their training plans to be a rigid rule. And I like to tell people that training plans are not carved in stone.
+
+195
+01:29:13,104 --> 01:29:41,776
+and there's a lot of roads to roam and to extend the, you know, tired old phrases even more, a training plan is also not written in water or smoke. I like to say it's written in sand. And as the winds of your life blow, okay, so the sand is going to get washed away and we got to start over. But, you know, if things are calm, great, the plan's going to stick around.
+
+196
+01:29:41,936 --> 01:30:11,296
+That was, okay, that was probably overextending a metaphor. Well, what you're getting at is what we talked about of, like, if you're going to do a thing, do it for a while. Give it a fair chance. Commit to it for a little while. But don't lose sight of everything else in your life that's important. Otherwise, you will lose everything else in your life that's important. Also, I want to push back on something, because if you learn that you can be wrong,
+
+197
+01:30:11,296 --> 01:30:35,616
+You can't sell silver bullet training plans. And if you want to be a billionaire, you got to dig in, you got to believe this shit. No, no, I'm not going to agree with you there. I'm going to give you your car crash here. You can know that silver bullet training plans are absolute bullshit and still sell them.
+
+198
+01:30:35,616 --> 01:31:04,320
+because it gets you something else that you want. I mean, look at Alex Jones. I don't want to. I really don't want to look at that guy. Like, he sells so much crap, and there is no way in hell he is unaware. You mean the physical products or like the fake news that he sells? What's the crap? All of it? All of it. All of it. Okay. But it makes him millions of dollars, and he gets to live.
+
+199
+01:31:04,320 --> 01:31:31,824
+for the most part, at least in the short term, the lifestyle that he wants. And so just because the training plan is a silver bullet in its tiny little microcosm of being a silver bullet training plan doesn't mean it's not facilitating the person selling it towards what's important to them. But still, I think people project though, if they know that it's bullshit, they can still project the
+
+200
+01:31:31,824 --> 01:31:52,400
+The Self-Deception. This is like a Bob Trivers thing. He was my very first, like, hero biologist, is Robert Trivers. And he wrote books and papers on self-deception and how that kind of thing can help influence the people around you. It's like believing your own lie.
+
+201
+01:31:52,592 --> 01:32:22,304
+you know, et cetera, et cetera. It's like, uh, like how some cultures were lying is expected. You're expected to tell somebody exactly what they want to hear. And so you're not going to like, you're not going to pop hot on a polygraph because you're just like sitting there calmly. Well, yeah, clearly this is, this is the right thing to do. Right. Yeah. We can do linguistic gymnastics all day long because it moves us in the way that we go or way that is meaningful to us. And, and you're absolutely right. Like that's
+
+202
+01:32:22,304 --> 01:32:48,416
+Part of it, but we can also know that we're doing linguistic gymnastics as we do it. So, yeah, there's no absolute. A whole long episode in that one. How can one tell the process is right and working so that they can trust it? Define right.
+
+203
+01:32:48,416 --> 01:33:18,208
+I'm going to use your phrase, moving in a valued direction. So if your value is improving VO2 max, or improving your sprint, or improving your anaerobic capacity, test it. Yeah, that's exactly what I would say. The key word there is right, and right is a personal thing. And so I usually use the term values instead of right, because right and wrong has so much social stigma attached to it.
+
+204
+01:33:18,208 --> 01:33:40,080
+Take a moment before you do a thing to get clear on what criteria you're going to judge it as, right or wrong, as aligned with your values or undermining your values. And then test that as you're doing it. Check in on those from time to time. Plenty of people are going to tell us
+
+205
+01:33:40,080 --> 01:34:05,136
+what's right and wrong or what they value, but we need to be clear on what we value in order to be able to assess whether something is working for us. Oh, here's a really good question. I love this question. This might be my favorite question that's ever been asked so far because it goes right into what I've been thinking about and complaining about in my private life for a long time.
+
+206
+01:34:06,064 --> 01:34:33,968
+Given that there are widely accepted training principles, why can't they be combined into a silver bullet? I love this question. The silver bullet is there is no silver bullet, and just doing all the training is the silver bullet. Consistency. Like, when I posted that story yesterday about that big FTP increase, well, first of all, a lot of people thought it was me.
+
+207
+01:34:34,128 --> 01:34:59,008
+I wish I were that talented. I am not. I wish I could ride that much on my bum hip. I cannot. But I was like, look, here's the secret. You want the secret training? Threshold workouts, VO2 max workouts, endurance, some race efforts, probably a handful of other things that fall under those umbrellas. That's it. There's nothing else. There's no silver bullet. It's not like...
+
+208
+01:34:59,008 --> 01:35:28,448
+Oh, getting the right zone too. Like, no, just have a snack and ride your bike. It's not that complicated. And, you know, kind of optimizing that process for somebody's, you know, what somebody is doing in their life and like the work, the balance and that kind of stuff, like what you were talking about for the last question, you know, that kind of stuff is the make or break a lot of the time. Like, can this person not be worried enough about their training?
+
+209
+01:35:28,448 --> 01:35:57,584
+I find that people who are highly stressed and dreading a workout because they're like, oh god, if I don't nail this workout, my entire career is fucked up. I have to get this Viet2Max workout perfectly. I have to do this threshold workout perfectly. If I don't do it this time, whew, boy, does that pass judgment on me as a person or what? And it's those kind of people.
+
+210
+01:35:57,584 --> 01:36:25,344
+Can, that kind of stress, like, it can undo a lot of training. And, you know, working around that kind of stress is probably one of the most important and unheralded things in coaching, I would say. But yeah, like the silver bullet is consistency. It's recovering well. It's eating well. It's not a particular workout. You have to do...
+
+211
+01:36:25,344 --> 01:36:54,752
+Most kind of workouts, there is some kind of periodization involved, yes, but it's not complicated. If you do the very basic principles, that's the silver bullet. So, yeah, to add on that, and to tie back to the last question about variability and optimization and training, the silver bullet is even simpler than that. Build an environment.
+
+212
+01:36:54,752 --> 01:37:17,760
+Build an environment around you that supports being able to be consistent. Oh, I like that. And this brings up something. If you find yourself on a training plan that's working, but you find yourself constantly trying to fiddle with it, look at how much time it costs to fiddle with it.
+
+213
+01:37:17,760 --> 01:37:46,512
+and ask yourself if there's something else in your life that you can put that time and effort towards that will support your consistency. Because, like, if you're insecure in housing, you're not going to be able to be consistent enough in training to be long-term, supportably compatible. Or competition-able.
+
+214
+01:37:46,576 --> 01:38:14,704
+But, if you build, if you actively engage in your own foundations, social foundations, economic foundations, dietary foundations, sleep foundations, everything that you're talking about, it's that much easier to get on the bike every single day for an hour or two, or five, whatever it may be. Investing
+
+215
+01:38:14,704 --> 01:38:42,240
+in your support systems. And those things that are going to allow and enable your consistency can optimize your training without actually changing your training plan. Yeah, because I think you're right. Because if it allows somebody to get on the bike another three or four hours a week, like if you go from 12 hours a week to like 16, 17 hours a week, that is a huge difference in outcome.
+
+216
+01:38:42,240 --> 01:39:10,640
+If you go from 15 hours a week to 20 to 25, huge difference in outcome. And one of the things that I run into a lot of the time, especially with clients who are a lot like me and that they can lose track of their day, like it's very ADD thing, I know, it's set a bunch of alarms and try to structure your day. Because like the day getting away from somebody can really, really screw up.
+
+217
+01:39:10,640 --> 01:39:37,136
+The Training, and suddenly, like, you know, you just sit down to finish this thing for work, and now it's like six hours later, you haven't eaten, and now you've got to get on the bike, and you should have eaten halfway through that, like, you know, these are creating problems that will, you know, maybe not manifest as much in the short term, but in the long term, like, they can make the huge difference. Yeah, yeah, you're missing two meals a week, you're...
+
+218
+01:39:37,136 --> 01:40:06,256
+Not able to get to bed at a consistent time. All these things start to put little holes in your foundation and can't support the consistency that's actually going to result in long-term sustainable adaptation. If you can't hold a job, maybe you should focus on the skills that are going to allow you to hold a job or get into an industry that's going to better match your skills so that you can do the thing that you want to do.
+
+219
+01:40:06,352 --> 01:40:34,096
+We can do all that we can on the training plan and on the coaching feedback side for an athlete, but if the athlete doesn't have simple things like food on their plate, a place to sleep, finances to cover just the simple bills, they're going to struggle to put in the consistent effort that's going to result in competitive outcomes.
+
+220
+01:40:34,096 --> 01:40:57,872
+Yeah, I mean, a lot of people, if they come to me in a situation like that, honestly, a lot of the time I say, you know, get all that stuff together first and then come talk to us. Because, you know, even if I'm talking myself out of work, I still want what's best for people. Which, you know, I mean, that's just a human thing.
+
+221
+01:40:58,064 --> 01:41:23,648
+How do you deal with the opportunity cost aspect? Do X now instead of Y and be okay? That's interesting. I see. Alright, go ahead. This goes right back to the question of what's right. Like, it's define your values. And it goes back to the conversation earlier about recognizing that we wear multiple hats.
+
+222
+01:41:23,648 --> 01:41:53,552
+We're not just an athlete. We're also potentially a partner. We're also a student. We're also an employee. We're also whatever other stories we tell about ourselves as far as different roles that we define ourselves by. And so there's always going to be an opportunity cost. And recognizing the values that are important to us in each of those roles and the context in which we are making these values compromises allows us to move towards
+
+223
+01:41:53,552 --> 01:42:20,400
+Towards the thing that's most meaningful in that particular context. And for an athlete, it's like, how much time are we willing to put towards being the athlete and being consistent in training versus putting food on our plate or having a family or whatever, you know, being masterful at our job if we're one of most athletes that are not getting paid to be an athlete.
+
+224
+01:42:20,400 --> 01:42:47,120
+Yeah. Well, one of the things I also read into this question is that it also, I think, on its subtext is periodization. Like, in terms of, like, if I do threshold now and I do VO2max later, is that going to be better than doing the reverse? Or should I do it all, you know, should I do, like, two VO2max workouts and a threshold workout?
+
+225
+01:42:47,120 --> 01:43:13,968
+When do I need to do race workouts? When it comes to all that stuff, like we just said, the consistency is more important than anything else. And whatever your training history is, if you have enough training history to look back on and make judgments on, then you can think, okay, this worked, this didn't work, maybe I can change this. But if you don't have that training history, don't even think about it and just train.
+
+226
+01:43:13,968 --> 01:43:41,552
+Like, just kind of do everything, do what sounds fun, be consistent about it, and make sure you're recovering and eating enough. And then when you have enough data to make historical judgments on your training, then you can start to think about these things. Yeah. Yeah. There's a parallel in my experience working with undergrads. When I have research assistants come in and they're like, I think I want to go to grad school. And I'm like, okay, what are the things that you've done that...
+
+227
+01:43:41,552 --> 01:44:11,200
+told you grad school is the thing you want to do. And they're like, well, somebody told me I need to go to grad school. I'm like, okay, what are the jobs that you have experienced that you're like, I really like this and I need a graduate degree to keep doing it. Like for athletes, it's the same thing. They come to us and they're like, I think I need to do X, Y, and Z. And I'm like, okay, what is your training history that has indicated that that might be the thing? And they're like, well, somebody told me I had to do it. I'm like, all right, spend some time in the next.
+
+228
+01:44:11,200 --> 01:44:34,944
+Weeks, Months, Years, Trying Different Things. If all you've ever done is cyclocross racing, go try a marathon mountain bike race, or a criterium, or a road race, or try triathlons. Maybe you like swimming and you've never tried it. Get some experiences under your belt to say, I really like this aspect, I really don't like these aspects.
+
+229
+01:44:34,944 --> 01:45:03,920
+Okay, or this thing in training has been really effective for me. These things in training have been really ineffective for me. And we're going to take that data and we're going to refine it and we're going to make a training plan customized to you. But until we have that data, it's just about getting on the bike or getting out running or swimming or whatever your thing is and getting experience to help shape your decisions. All right, here's a good one. Why think when I can pay you to do it for me?
+
+230
+01:45:03,920 --> 01:45:33,632
+For the context, that is a lawyer asking that question. So, there's this concept in economics called specialization. And we talk about it in athletes as their specialty, whether they're a time trialist or a Madison or a
+
+231
+01:45:33,632 --> 01:46:01,328
+Kilo, or whatever it may be, like, different people pursue different things so that they can be at the absolute competitive hairy edge, okay? And in those cases, that's why you hire a coach. You pay us to do the thinking for you so you can put every ounce of effort and energy into being the most competitive. But for Six Sigma, Seven Sigma, like 99.999999
+
+232
+01:46:01,328 --> 01:46:31,200
+And 90% of athletes, that's not the case. And so you're going to pay us to help you become a better self-coached athlete. We're going to help build your sensitivity. We're going to help build your flexibility. We're going to help facilitate getting you that experience to shape your choice of whether you keep being an athlete or you pursue something else or you want to specialize.
+
+233
+01:46:31,200 --> 01:46:57,408
+Early, early on, you don't want us to do the thinking for you because it doesn't help you. Actually, I like what Tim Cusick said. He said, you know, a lot of people when they start out training, they start out by training themselves. But, you know, he said he thought it was a better idea and I agree with him to hire a coach at first and get some experience because the coach will help you. Well, a good coach who you can talk to will help you.
+
+234
+01:46:57,408 --> 01:47:26,416
+Learn About Yourself. And I told Tim, and Tim said that this was a good thing, that I've worked with people who at some point either said, okay, I think I got it from here, or I can't afford you, but I think I can do this myself. Tim's like, congratulations, you did your job well. And I'm sure not every one of my clients is going to say that, but I hope most of them can. And so I think...
+
+235
+01:47:26,448 --> 01:47:54,288
+You know, when it comes to, you know, hiring a coach, that's one of the things people should think about is, you know, Tim said, figuring out, do I want to be a coached athlete or not a coached athlete or a self-coached athlete? Because there are some people at a very high level who coach themselves and it works out fine. And occasionally you see an instance where, okay, if this person had somebody else looking in going, oh, maybe you shouldn't do that, it would have been helpful in the long term or the short term or whatever.
+
+236
+01:47:54,288 --> 01:48:23,376
+A lot of the time, yeah. Literally, that is like you are paying for our experience, and we can help impart that experience onto people. We don't hoard this stuff. There's always going to be people coming into cycling. It's not like we've got our little cabal of clients, and we're going to hang on to them forever. I hardly work with anybody right now that I did when I started, like five, six, seven. What year is it?
+
+237
+01:48:23,440 --> 01:48:52,576
+It's eight years ago? Holy shit. Nine? Oh, God. Huh, making a career out of it. Oh, maybe I will. Yeah, so that's one of the things that you can pay for. But also, I would say that, like, you want to make sure that you think you and this coach will be on the same page and get along. Because I've certainly heard people say, like, I listen to your podcast and I'm definitely not hiring you as a coach. And I'm like, that's fine.
+
+238
+01:48:52,576 --> 01:49:22,080
+That's great. Like, if I don't strike you as somebody who you would get along with, don't. Don't. Then we're not the right fit. Like, if you hear it and you go, oh, wow, I think kind of what this person's saying kind of jives with my experience and I think that I need some help. Okay, yeah, sure. Because, you know, I've got a lot more experience than somebody who's been coaching themselves for, you know, two, three years. Literally hundreds of seasons under our belts. If not thousands. Jeez.
+
+239
+01:49:22,080 --> 01:49:40,992
+So along these lines, you can kind of conceptualize hiring a coach in the early stages, like before specialization, you know, I want to be the best Madison writer or whatever. Hiring a coach is asking somebody to induce variability in the athlete.
+
+240
+01:49:40,992 --> 01:50:04,448
+An athlete's going to get out there, they're going to do a certain range of things, they're going to try different things, and settle in on a few things that work for them, but then they're going to reach a point where it's like, eh, this is not really working for me, to the degree that I want it to. I'm going to hire a coach to tell me to do something different, and we're going to try different things, and we're going to rely on their experience. So, in that role as a coach, we're trying to
+
+241
+01:50:04,448 --> 01:50:32,704
+change their behavior enough that we come across things that work. Because you say variability, I was actually going to say the opposite. I was going to say consistency, which is, well, maybe it's not quite totally different, though, because when I consult with people, I'll look at what workouts are they doing, and I'll, like, you know, somebody's like, oh, my endurance sucks, and I'm looking back, and they do, like, three FTP workouts in six months, and I'm like, okay, and your longest ride is three hours. Okay, like, I see immediate solutions here.
+
+242
+01:50:32,704 --> 01:51:02,208
+And so this is the thing you need to focus on more consistently at changing that stimulus, yada, yada. But I think you're right also because somebody who's training themselves, there's a lack of variability in that a lot of people get into a routine of the thing that doesn't seem to be working and how do I dislodge myself from my current experience into how do I climb the mountain of learning in order to
+
+243
+01:51:02,208 --> 01:51:32,032
+Be able to do this better myself later. And that part is what I was getting at, is relative to the individual and their history, they're hiring us to give them something different, to get them to do something different. And sometimes that something different is consistency. If, as you said, they've got a certain training history and we look at it and we're like, oh, we know what's probably going to be effective. We're going to vary their training.
+
+244
+01:51:32,032 --> 01:51:59,376
+To our suggestion, so relative to what they have been doing, we're going to induce variability in their behavior, which might result in consistency in this weird paradox, and attempt to induce some adaptation that they weren't getting because they weren't getting the strain that we're going to prescribe. Yeah, and our experience as coaches gives us that
+
+245
+01:51:59,760 --> 01:52:27,792
+Much broader library and perspective to draw upon to pull different levers in the athlete's behavior and find what works in a relatively efficient manner, because they may not know what they aren't doing, not know what they don't know, and so they're hiring us to bring what we know to the table and start probing and testing and finding ways to move them forward.
+
+246
+01:52:27,792 --> 01:52:55,456
+Well, that is it for the good questions. The rest will, I'm sure, come in again in probably half an hour when I post the regular weekend Q&A. But yeah, thanks for coming on. Any other thoughts that you have before we hit stop? At the moment, no. Well, maybe...
+
+247
+01:52:55,456 --> 01:53:25,408
+Maybe I want to kind of loop us all the way back to Friston and his energy principle. Like, a big thing that he talked about was we're always, as organisms subject to the selection of evolution based on survival, we are always going to have strong responses towards things that take less energy. Or get us energy. Literally, like, get us sugar.
+
+248
+01:53:25,408 --> 01:53:55,008
+And so going into whether it's training or learning to sit with dissonance, whatever it may be, and knowing that that's going to happen and it's going to be uncomfortable and that might lead to valued outcomes is really important. Learning to use our sensory systems, both thoughts, feelings, and emotions and physical sensory systems to guide us
+
+249
+01:53:55,008 --> 01:54:22,912
+However imperfectly it may be, towards what's meaningful, is really, really valuable. Yeah. And by the way, thank you for nominating me for the USAC Coach of the Year, even though I have not had a USAC coaching license in quite some time, because I find no value in it, even for the $35 that I have to pay for it.
+
+250
+01:54:22,912 --> 01:54:51,888
+I would be really curious, actually, to hear how much of your audience holds that license and gets value out of these conversations, because I bet, especially given the disarray that USAC is in as far as coach education is concerned, I bet you have done as much, if not more, for coach education than they have done in the past couple years. Well, I mean, even if that's not the case, well, I think the difference is that it's free.
+
+251
+01:54:51,888 --> 01:55:21,600
+Like, there's no ads on this. It's just like, you know, hey, we're a coaching company. We're here if you want it. Patrick here is a coach. He's here if you want him. And when you are in that, like, USAC coach ecosystem, it costs money to, like, get your continuing education credits. And a lot of coaches don't have that money. And they need that money for, you know, to put back into their own business or to pay their bills or something like that.
+
+252
+01:55:21,600 --> 01:55:47,024
+And, I mean, for the kind of stuff I do, like, I literally sit around reading textbooks. Like, I read papers. Like, I am always questioning, oh, how do we know this? Like, questioning basic assumptions and, like, continuing to educate myself. And the kind of stuff that I do, I can't get there. I can't really get anywhere. And that's why I...
+
+253
+01:55:47,024 --> 01:56:16,592
+Hope this podcast is somewhat unique. I know it's not entirely unique because there are a bunch of other nerd podcasts out there about cycling training. It's hard to find good coach education because also coaches like athletes need different stuff. The kind of help that I need as a coach is very different from the kind of stuff that other people need as coaches. I mean, because a lot of what I'm trying to do is
+
+254
+01:56:16,592 --> 01:56:45,872
+I don't even, I wouldn't even know how to describe it. But it's not like, you know, I don't need to know, like, how to train 12-year-olds. Because that's just not what I do. I don't need to know how to run a training camp, because that's not what I do. And that's what a lot of coaches do. And, you know, we're in very different places. And so that kind of stuff I don't get in a lot of the traditional education places. But I'm also very comfortable with the discomfort.
+
+255
+01:56:45,872 --> 01:57:12,176
+You know, like we said way, way, way earlier about how we're all like, you know, kind of insignificant. Like, that gives me comfort. I like that. I like having a big energy investment ahead of me. I like knowing that there's a lot of stuff I don't know about this topic, and I'm going to get into it. And the satisfaction I get at the end is worth the investment to me. Like, that's like the biggest buzz I get.
+
+256
+01:57:15,056 --> 01:57:43,056
+So, there's a paper, you talk about liking sitting with the discomfort, and liking having the project ahead. There's a paper that I give to all of my undergrad research assistants that end up getting admitted to grad school, and it's blanking, I think the title is, On the Value of Stupidity in the Practice of Science.
+
+257
+01:57:43,472 --> 01:58:12,768
+I feel like it's really, it's what we're talking about here, the like sitting with dissonance, up until, up through usually a college degree, the feeling of feeling stupid is usually an indicator that something is going wrong, that we're missing something, that we're falling behind, whatever it may be. And so for individuals that go on to grad school, they come in with this very refined sensitivity towards the feeling of stupidity as an indicator that they are wrong.
+
+258
+01:58:12,768 --> 01:58:41,168
+Lacking. But then grad school is all about teaching people to generate new knowledge or be a master at the practice that they're doing. And mastery and generating new knowledge are practices in sitting at the edge of what is known. And the feeling of sitting at the edge, the feeling of bumping up against the edge of documented knowledge,
+
+259
+01:58:41,168 --> 01:59:06,400
+is the exact same feeling of stupidity. I love that feeling so much. And when we shift from feeling stupid as an indicator that we're falling behind to feeling stupid as an opportunity to add to the discourse, suddenly that sense
+
+260
+01:59:06,400 --> 01:59:36,112
+That sensitivity becomes extraordinarily valuable. And a lot of people don't make that shift. They go through their entire grad school career saying, somebody's going to find me out. I'm feeling stupid all the time. Somebody's going to find me out. The imposter syndrome. Every grad student I know. Every one of them. Yeah. But the truth is, they're sitting at the edge of knowledge. They are sitting on a huge opportunity.
+
+261
+01:59:36,112 --> 02:00:05,136
+Signal that used to say this is bad needs to transform to this is good. And you've made that transformation. That's what you're describing. This is an opportunity to grow and add to the conversation. And the more people that can make that flip, that can use that same sensitization in a different manner, the more we're going to benefit. Of course, I've always been like this, unfortunately. And to the annoyance of all my friends and family.
+
+262
+02:00:05,136 --> 02:00:34,144
+But, you know, it's detrimental in a lot of ways, too, clearly. But, you know, I think, you know, I think you're absolutely right, because, well, I would also say that some people who add new knowledge have never Googled the knowledge that the area that they're trying to research in. And that's how you get people, like, republishing how to find the
+
+263
+02:00:34,144 --> 02:00:56,960
+Area Under a Continuous Curve. Like in 96, in like some journal, like somebody republished or like rediscovered calculus. And it's like, you know, we've only had that for like 400 years. It's... Well, what was that paper that got published in Nature like six months ago about like...
+
+264
+02:00:56,960 --> 02:01:25,360
+Hey, economists, guess what? You can ask people whether they're going to lose weight in the next six months or not, and they're mostly accurate at telling you yes or no. Believe it or not, like, they rediscovered qualitative interview in 2022, and it got published in Nature. Like, holy... Yes, it happens over and over again. Like, we're going to write this that...
+
+265
+02:01:25,360 --> 02:01:54,672
+That bicycle of rediscovery, over and over again, like, somebody's going to... That's fine, though. Like, there are, even in that article, there are... There's new stuff. There are kernels of useful stuff. And so, even in stuff that can be pretty weird and repetitive, like, a lot of times we can find stuff. I mean, this whole conversation we're having is like, hey, guess what? Consistency is the silver bullet. Well, it's like...
+
+266
+02:01:54,672 --> 02:02:16,848
+It reminds me of that old phrase, history doesn't repeat, but sometimes it rhymes. That is excellent. Okay, so thank you everybody for listening as always and I really, really enjoyed having that conversation. I hope you all enjoyed listening to it as much as I had having it and
+
+267
+02:02:16,848 --> 02:02:28,656
+Of course, I've got a bunch of links up at empiricalcycling.com under the podcast episode notes to Patrick Smith's website to, you know, I'll...
+
+268
+02:02:28,688 --> 02:02:52,320
+Bring it to some of his academic stuff. Of course, he's got all that stuff linked on his website, too. I'll have his email up there if you'd like to reach out and talk to him, consult with him about the stuff we were talking about today, because he's clearly on top of his game when it comes to that kind of stuff, and he's exactly who I would want to talk to if I had any of these issues. But fortunately, he's a friend, so I get to talk to him for free.
+
+269
+02:02:52,320 --> 02:03:12,192
+And so I hope all that kind of stuff that we talked about today is going to be helpful to everybody in the future. So yeah, so feel free to reach out to him. Feel free to reach out to me. Again, I'm empiricalcycling at gmail.com. We are always taking on clients and we are always happy to do a consultation.
+
+270
+02:03:12,192 --> 02:03:28,768
+And if you'd like to ask a question for our podcast episodes, we are trying to do listener questions for every episode. So follow me at Empirical Cycling on Instagram and enjoy the memes as they come up. Feel free to share those. Thank you so much for all of that.
+
+271
+02:03:28,768 --> 02:03:47,568
+Yeah, Weekend AMA's up in the stories. So other than that, I think that should cover everything and we will see you in the next episode because we have a couple more interviews coming up before we get back to our regularly scheduled Wattstock-y and 10-minute tips kind of program. So yeah, enjoy those as they come and we'll see you then. Bye.
+
