@@ -1,0 +1,304 @@
+1
+00:00:00,560 --> 00:00:18,544
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore, joined as always by Kyle Helson. And today we're going to be talking about training and the lack of racing in the world of coronavirus. And we're going to start with some background information on viruses, which will hopefully inform everybody a little bit about how we should act, knowing how they work.
+
+2
+00:00:18,544 --> 00:00:45,568
+And we're then going to talk about the training and racing aspects of our daily lives and how you might want to modify your training. We're not going to go too far in depth. We're just going to provide some general recommendations. I hope that this episode is going to be very helpful for everyone. And of course, if you want to get in touch, you can do so at empiricalcycling at gmail.com. I am empiricalcycling on Instagram and Kyle Helson is khelson10. As we should probably get...
+
+3
+00:00:45,568 --> 00:01:11,984
+done right off the bat is a disclaimer. I am not a doctor. I am not a virologist or an immunologist. I have an average college-level understanding of viruses, so I'm going to try not to overstep my bounds. Kyle is an actual doctor, but not a medical one. Not a medical doctor. If you have any problems with your...
+
+4
+00:01:11,984 --> 00:01:37,344
+Cosmological Models, let me know. I can give you professional advice about that. Yeah, if your cryostat is leaking, call Kyle. Yeah, basically. So, COVID-19 is a virus. It is not influenza. It is in the... Kyle, we just talked about this before starting to record. It's in the SARS family of viruses, right? Yeah, so SARS, some of you may remember, was a...
+
+5
+00:01:37,344 --> 00:02:03,856
+The name for the disease that sprung up around 2002-2003, similar to this. It was also caused by a coronavirus. Coronavirus is a class of viruses. It's like saying, you know, you have a influenza-like viruses. There are a bunch of different influenzas, not just the one.
+
+6
+00:02:03,856 --> 00:02:32,240
+Even though you think, oh, it's just the flu, there's not just a flu, and likewise, there's not just a coronavirus. So let's think about how viruses work, and hopefully by the time we get done with this very brief overview of viruses, everybody's going to have some better idea of why we should be taking much more extreme precautions than probably most of us are right now.
+
+7
+00:02:32,240 --> 00:03:00,912
+So a virus is extremely small. It's smaller than a normal cell in your body by several orders of magnitude. It's also smaller than most bacteria. So they're really, really tiny things. And they actually straddle this weird line between not being alive and being alive because they replicate themselves, but they cannot do it on their own. And they also, you know, it's literally just like a copy of DNA or RNA.
+
+8
+00:03:00,912 --> 00:03:21,392
+that uses the host cell to replicate. We'll talk about this in a sec. Let's think about how a virus actually gets in us. So, you know, you come into contact with any surface or you breathe in some particles that have been exhaled by somebody or something like that. So you get a little bit of virus in you.
+
+9
+00:03:21,392 --> 00:03:48,496
+And what happens is the virus is going to travel down your respiratory tract and somewhere in your nose or in your throat or in your lungs, what's going to happen is the virus is going to attach to your cells. And the virus has proteins on the outside of it that will attach. And it's this attachment that makes the virus go, okay, cool, we're in. It's sort of like that moment in any movie where a hacker finally gets the password.
+
+10
+00:03:48,496 --> 00:04:18,160
+And then they're free to upload their virus. They're called viruses for a reason. Exactly. So it seems, from what I've read, COVID-19 has a much better affinity to our cells than a typical SARS classic. The OG SARS. Yeah, the OG SARS.
+
+11
+00:04:18,160 --> 00:04:43,040
+It may be more contagious and easier to pick up and spread. And note that this is also what makes a lot of viruses species specific, which is why your dog can't get it, because the virus won't successfully bind with dog cells. But sometimes it's similar enough, and that's how viruses spread from one species to...
+
+12
+00:04:43,040 --> 00:05:03,232
+And so thinking about the transmission of viruses, we should probably also consider the fact that when we exist, it's very easy for us to lose cells, particularly from the mouth. And I'll give you two examples for this. The first is...
+
+13
+00:05:03,232 --> 00:05:25,344
+When you watch a movie and the FBI agent picks up somebody's soda can or cigarette butt and they get that person's DNA off of it, it's because that person has left cells on those things and in these cells is all of your DNA. But also in these cells could very well be replicating viruses. So the other example that I have here is...
+
+14
+00:05:25,344 --> 00:05:53,696
+is a DNA test if you've ever done a DNA test for a study or for 23andMe or whatever it is they just give you a cotton swab and it's with this cotton swab you just lightly brush it against the inside of your cheek where you lose cells constantly by the way and you put it in a tube and you mail it off to some nerds who tell you that you're probably related to Genghis Khan you know it's because that we lose cells easily in the mouth that we can easily
+
+15
+00:05:53,696 --> 00:06:18,096
+you know lose them into our into our saliva and then every time we spit every time we speak every time we cough or sneeze we are losing a bunch of cells that could very well be viral infected and then of course we can even trace uh these cells you know if you wipe your nose and touch your phone and then somebody else grabs your phone uh you know you can conjure any scenario like this
+
+16
+00:06:18,096 --> 00:06:44,224
+And so that's why we need to be careful when we go out in public because our immune systems may not have mounted a defense against the virus yet, even though we could have it, and this is how we are going to transmit it to other people. So when the virus actually gets into your cells, it'll release DNA or RNA, and in the case of COVID-19, it is RNA.
+
+17
+00:06:44,224 --> 00:07:12,064
+And then your cell doesn't know the difference between its own endogenous DNA and RNA or viruses. So it'll just look at it and go, oh, look, a program to run. Let's make these proteins. And so it does. And it's because of this that your host cell actually becomes an inadvertent assembly line for the virus. And while it's doing this, you're actually making...
+
+18
+00:07:12,064 --> 00:07:39,536
+A couple different proteins for the virus that assemble in the cell, and then you've got more viruses. When enough viruses get made, the cell will actually explode, or lice, as we say in the sciences. This will rain viruses on nearby cells. You can think about it like an assembly plant, like if Toyota's making Corollas.
+
+19
+00:07:39,536 --> 00:08:07,680
+and they make so many Corollas in one day that the factory explodes and rains Corollas on the neighboring county. It's going to be a lot like that. And then you get a car and you get a car. Thanks, Oprah. And so the immune response that we get, things like elevated temperature, because sometimes viruses or bacterias don't have the ability to...
+
+20
+00:08:07,680 --> 00:08:36,256
+have their proteins hold shape in higher temperatures. So that's one of the defense mechanisms. And we can actually sustain those temperatures and mucus production and coughing and things like this are to trap and expel viruses from your respiratory tract. And so it's because of this, you know, the viruses replicating in cells in your respiratory system, you know, your nose, your throat, your lungs.
+
+21
+00:08:36,256 --> 00:09:05,040
+that you can actually still infect people even though you have no symptoms. The virus can still be there, but it hasn't disrupted your homeostasis to a point that your body has mounted an immune response yet. It seems like this COVID-19 SARS coronavirus 2 is particular in its very long latency where people can have it and be allowing the viruses to multiply within them.
+
+22
+00:09:05,040 --> 00:09:33,632
+for a while before they actually see any symptoms, which is something that seems to be happening with lots of people who are out there feeling okay, and then you find out two days later or something that they tested positive. Yeah, so this is why the transmission rate can be really high if you're not showing symptoms. We need to take a lot of health precautions. I think the most reasonable response is...
+
+23
+00:09:33,632 --> 00:10:00,848
+would be to treat yourself like Typhoid Mary, who if you're not familiar with Typhoid Mary, she was a carrier of typhoid but had no symptoms whatsoever. And she just had it her whole life and just went around infecting people. And from what I read, a lot of it was because she was not washing her hands properly before doing food service. But this was also back in the, you know...
+
+24
+00:10:00,848 --> 00:10:30,832
+Late 1800s when germ theory was not quite as established as it is today. Yeah. So the proper precautions that you need to take in order to avoid infecting anyone else is to literally treat yourself like you have it all the time, even if you're not showing symptoms. Make sure that you are not breathing or coughing on anything or anyone. Make sure if you're out in public and you're touching things with your hands, you're not coughing into them.
+
+25
+00:10:30,832 --> 00:10:54,400
+and then putting your hands on things. If you pick up an avocado and you go, I don't like this so much, you should probably bring that avocado home with you. And also, don't cough or sneeze into your hands. If I go out in public, I think about the sterile lab technique that I used when I was working with bacteria and stuff like that because you need to have a very distinct, like, this is clean.
+
+26
+00:10:54,400 --> 00:11:24,272
+This is unclean. Like a lot of religions have that type of thing too. This is clean. This is unclean. You've got to do the same thing, except if you get it wrong, you don't have to ask for forgiveness. You might kill somebody. These are just precautions that it doesn't take much to actually do except a little thought. And it seems ridiculous, but remember that if nothing happens, everything you do that was successful is going to look like an overreaction in hindsight.
+
+27
+00:11:24,816 --> 00:11:51,088
+Yeah, I think you would rather have people feel like it was an overreaction than have an uncountable number of people die because you had people take things less seriously or act slower or have a sort of willy-nilly attitude toward being infected and infecting others So the other thing that you can do
+
+28
+00:11:51,088 --> 00:12:18,080
+As long as you are treating yourself like a typhoid Mary, which is the same thing I will be doing, of course, you can try to make your own homemade surgical type mask because we obviously need to leave the actual surgical masks for people working in hospitals. One of the things that lots of people have been talking about, you've probably heard about, is the shortage of protective masks. Usually people talk about N95 masks because those are certified to...
+
+29
+00:12:18,080 --> 00:12:37,296
+Filter out 95% of particles below a certain size, etc, etc, etc. First disclaimer about wearing masks is masks are designed to prevent the person who is wearing it from contaminating the outside world. It is not designed to stop.
+
+30
+00:12:37,296 --> 00:13:03,312
+Particles from the outside world getting in. Yeah, it's very important that a surgeon does not spit into the body cavity of a surgical patient. Right. Also, this is also a true statement for things like working in a clean facility or a clean room. All the protective garb, the bunny suits, all this stuff is designed to prevent the person from contaminating the thing that has to stay clean. So that is one of the reasons why people are telling...
+
+31
+00:13:03,440 --> 00:13:27,328
+everyone out there to not buy N95 masks and just wear them because firstly you're taking them away from people who work in medical professions and actually who actually need them every day and secondly if you think just wearing a mask will stop you from getting sick that is not true one phrase that I've seen for those of you who would
+
+32
+00:13:27,328 --> 00:13:56,144
+Classify yourself maybe as a worried well or if you are someone who is interested there are different ways that you can make homemade masks from common household cloth and we have a link to this in the description but note that the whole purpose of the cloth is to prevent you from sneezing or coughing or expelling mucus or phlegm out of your nose or mouth and spreading it onto surfaces elsewhere.
+
+33
+00:13:57,136 --> 00:14:24,064
+Yeah, and so you can go through the study, but basically what they do is they look at the effectiveness of the different materials from stopping particles of a certain size from getting through. And, you know, surgical masks obviously are the most effective. But right up there is a double layered dish towel. However, they also look at breathability because trying to breathe through double dish towel is probably going to not be great.
+
+34
+00:14:24,064 --> 00:14:53,648
+So they recommend that the best materials are like 100% cotton. Yeah. And there's a link to that if you want to take it upon yourself to make them. I'm sure you can look up things online as well to see patterns or designs or things that people have been doing. But that is one thing you can also do. But just please don't go out and buy N95 masks if you don't need them. Please just, yeah. Leave the N95 masks to the professionals. Yeah.
+
+35
+00:14:53,648 --> 00:15:11,376
+And also don't forget to wash your hands and wash yourself before you go somewhere. Because if you're at home and you are touching all the things you normally touch, you have no idea where your snot has been. Another thing here is...
+
+36
+00:15:11,376 --> 00:15:37,920
+Clean your phone. Wipe off your phone. Your phone is probably the thing that you touch the most next to other parts of your body. And if you're washing your hands but then not washing your phone, every time you touch your phone again, you're going to be contaminating your freshly washed hands. Yes. So disinfect everything. Also, because this is about cycling, disinfect your bike also every time you go out for a ride. Like I said before, any...
+
+37
+00:15:37,920 --> 00:16:01,632
+Precaution that you take that may seem a little too much at this point, if it's effective, will result in nothing happening. So that's what we want. Yeah. Also, this is something that you are not doing just for yourself, but you're doing this for the greater good and like the people who live near you, the people in your community, your family, your friends, all of them. So it's not just you.
+
+38
+00:16:01,632 --> 00:16:30,224
+This is not a game of just, you know, oh, this is such a big inconvenience for me. Me, me, me, me. Yeah. No, for sure. Like, I've had a couple athletes put a hold on training right now because they are medical providers or they work for companies that are making medical equipment. And they're like, look, I need to do this other thing right now. I can't focus on training. And I fully support that. I think that's great. Oh, totally. Yeah. Which also means that roster spots are opening up.
+
+39
+00:16:30,224 --> 00:17:00,112
+Casual plug So what were you saying about the listserv on the Mabra stuff? So there have been lots of emails recently on the Mabra listserv that's the Mid-Atlantic Bicycle Racing Association where I live about whether or not you should go on group rides or you can go on group rides or whether you should organize them and while yes
+
+40
+00:17:00,112 --> 00:17:28,480
+The CDC does recommend groups of 10 or fewer as being acceptable. You can kind of look at this one or two ways. One, you can say that, well, my group ride is nine people, therefore I fit into the guideline, and therefore it's fine. And while that is true, also keep in mind that when you are riding your bike, you are breathing more, you're more likely to produce more
+
+41
+00:17:28,480 --> 00:17:49,872
+Phlegm and Mucus, you are also still generally increasing the risk. And while you are not maybe in a risk category yourself, those people that you're riding with might have family or friends or other people that they have to see on a regular basis that they cannot see, that they cannot avoid seeing.
+
+42
+00:17:49,872 --> 00:18:12,128
+who are at higher risk. Whereas your buddies that you ride your bikes with, those are not people that you definitely have to see every week. You can see them when this is over. You are not obligated to see them. And it's the people that you are obligated to see that are at the most risk by you going out and socializing with your friends on your bike.
+
+43
+00:18:12,128 --> 00:18:38,864
+Yeah, exactly. And it's not only the fact that, you know, somebody who is going to be seeing high risk people should be staying home. It's also the fact that one of the worst things that can happen during a pandemic like this and one of the reasons that the virus has spread so widely is the fact that a lot of people can have it and not show symptoms and then they will go about their normal life as if they are not unwell.
+
+44
+00:18:38,864 --> 00:19:02,064
+And they're going to end up unwittingly causing a lot more infection. And that's really one of the things that we want to try to avoid. It's the desire to not only meet the rules as clearly stated, but do everything that you can to go a little bit beyond the rule as...
+
+45
+00:19:02,320 --> 00:19:29,920
+Black and White printed in words. And yes, this might seem excessive or something that's fine. You don't have to do this, but this is kind of the spirit of this. Like, yes, you can meet in groups of less than 10, but like, should you? Yeah. And the other thing I've been seeing a lot is a sort of, I don't know what else to call it, but a sort of chauvinism about, you know, we're healthy.
+
+46
+00:19:29,920 --> 00:19:59,760
+Other people are healthy. You know, there's not a confirmed case. I mean, because there's not a lot of testing being done right now. So you don't know who may actually have this or not right now. And the number is probably much higher than the actual tested number. Actually, it's definitely much higher than that. So thinking that you are unlikely to have it, you know, you probably don't. But at the same time, why take that risk?
+
+47
+00:19:59,760 --> 00:20:27,376
+are a typhoid Mary of COVID-19. If that, you know, is insulting to you in any way, just remember what the doctors were like, you know, in Leeuwenhoek's day and past year's day, when they were discovering germs and things like that, and they were suggesting people wash their hands, and, you know, doctors at the time were offended. Yeah, they were of an upper class, and they're like,
+
+48
+00:20:27,376 --> 00:20:56,800
+How dare you impugn our reputation like we of the upper class cannot be unclean. Now I'm going to go be like elbow deep in this guy's abdomen. Pardon me. That's what you sound like to me right now. So this all brings us to training. Like with the cancellation of a lot of races, how are we going to modify training? And this is actually something that is, as usual, going to depend.
+
+49
+00:20:56,800 --> 00:21:24,896
+on you and your season and everything else. One of my first recommendations for right now, because it does not seem likely that racing is going to start again anytime before like June or July, at least. So my first recommendation is to take a rest, especially if you were going to be peaking for like early mid spring races.
+
+50
+00:21:24,896 --> 00:21:52,544
+and you've been training hard for a while since like maybe December, you know, early January, something like that. Now is a good time to take a rest. I've been giving a lot of my athletes kind of a chill week and, you know, because also we've also, there's a lot more other stress on us too and generalized anxiety. And, you know, you don't want to push too hard when you're also anxious because doing that also really screws up your immune system. Yeah.
+
+51
+00:21:52,544 --> 00:22:20,704
+Exercise is good for your immune system up to a point. Yeah. If you're stressed also, I mean, just a normal stressful weeks for my athletes, I recommend, you know, it doesn't matter right now if, you know, you don't get this training yet, it's more important to deal with the stress. And right now, you know, especially considering the health factor, it is way more important than ever to deal with that stress. However, if you are motivated.
+
+52
+00:22:20,704 --> 00:22:47,632
+and you are feeling good, now would actually be a good time to do some harder training because we have a guaranteed recovery time. Like we know here in the U.S., races are not going to start until at least early May, although I still have a feeling it's going to be June or July. So if you want to do a harder training block now, you know, really keep yourself isolated because this will hurt your immune system a little bit. Now would be actually a good time to do that. A couple of my athletes...
+
+53
+00:22:47,632 --> 00:23:14,640
+who are going to be able to pretty well self-isolate, we've decided that now would be a good time to do some VO2 max type stuff when we thought we weren't going to be able to do it until the end of the race season, something like that. Or not the end of the race season, until after race season is over. However, if you also have that competitive spirit, you can do things like race online.
+
+54
+00:23:14,640 --> 00:23:40,624
+Or you could go KOM hunting on Strava. If you really do feel like you need to train and if that's a good way for you to manage your stress and kind of keep a sense of normalcy while everything else is falling apart at the seams, I think that's actually a good way to do it. And it doesn't even have to be hard training. It can be easy training. You can just give yourself at least an hour, two hours, maybe like...
+
+55
+00:23:40,624 --> 00:24:10,384
+2x20 tempo, which is, you know, it's just enough to have some structure if you feel like you need that, but not really hard training. I would say one of the things that I have a friend who's trying to organize is he's trying to organize a, in lieu of a group ride, he is trying to organize a virtual Strava-based TT series every week. So pick some sort of segment every week, post it to all of his friends and say, okay, this week it's this segment somewhere.
+
+56
+00:24:10,384 --> 00:24:39,808
+and everyone can go out and you have a week to try to like go out there and hammer it and then at the end of the week you get bragging rights or something you know maybe they'll start to chip in money or something and pass around some sort of prize or whatever but you can do something like that with your friends that you would normally go on a group ride with you can still stay competitive you can still you know give them shit about stuff you can get a little bit of motivation in there you can be creative I actually love that idea so
+
+57
+00:24:39,808 --> 00:25:09,648
+Also, if you're working from home and you don't have a high workload, Kyle, however, you're not an endurance athlete, you're a sprinter, so you actually have a lot of time to rest, which is great. But if you are working from home now and you have a lot of time and you don't have a lot of work to do, now is a good time to get in a lot of endurance miles because really that never goes out of style.
+
+58
+00:25:09,648 --> 00:25:39,648
+And if you have like stuff that kind of breaks up the day, you can also do double day workouts. And I'm not saying you should do like anaerobic intervals in the morning and then VO2 max in the evening. And then you're going to do the same like five days in a row. Don't do that. And die. Yeah. Yeah. You can do a hard workout in the morning and you can plan out your normal week like you were going to do your normal like, you know, short hour, two hour rides in the morning. And then in the evening, just do an hour or two at endurance pace, you know, or you could, you know, sign up.
+
+59
+00:25:39,648 --> 00:26:08,272
+do a Facebook call with your friends and everybody's on the trainer together and you can watch the same thing on Netflix or whatever it is. Netflix does have a party. Netflix has a party feature where you can do this. You can meet up with your friends on Netflix and you can all watch the same thing and be starting at the same spot, etc. I think that sounds like fun. Kyle, you want to do 30-30s later this week? I'll be able to pay attention so well.
+
+60
+00:26:08,688 --> 00:26:37,904
+So the other thing with indoor training, probably do a really focused 10 minute tips on this at some point, stay cool. That is the number one thing with indoor training is venting body heat. And now as we are ironically training more indoors, as the weather gets nicer up here in the Northern Hemisphere, it's important to have more fans, have an AC unit if you have one of those.
+
+61
+00:26:37,904 --> 00:27:06,528
+or you can put a bottle of water in a bucket of ice water or just have ice water. You pour it on yourself. Stay cool, especially with efforts over FTP. Generate a lot of heat that way. And also, side note, don't submit online racing to your local association for an upgrade. It doesn't count. They love that. It's equivalent to submitting your Strava results for an upgrade.
+
+62
+00:27:06,528 --> 00:27:36,128
+Now, the other thing to think about is if you are a coach or if you are coaching yourself, I think it's also important to note that not everybody's motivated to train hard right now. And I certainly have a lot of people on my roster who are not that motivated, and I would probably count myself as one of them right now, mostly because I've had so much other stuff to deal with. But don't push against that. Roll with it.
+
+63
+00:27:36,128 --> 00:28:03,264
+Nobody's excited about not racing and everybody's going to handle it a little bit differently. And if you don't have a coach and you're coaching yourself, you can talk to a coach buddy or try to have a real heart-to-heart with yourself or a good friend and figure out what you want to do in terms of fitness and the right way to structure your season for a race season that may or may not happen this year. It also doesn't mean that you should stop training.
+
+64
+00:28:03,264 --> 00:28:31,904
+Because I know a lot of people are figuring right now, like, what am I training for? You can be training for next year because fitness builds on itself year to year. I mean, this is, remember, you know, what is base training really? It's everything that you do. So just because you're not racing this year doesn't mean it's not a good time to keep training. Everybody on my roster who's not, you know, taking a break to go deal with the coronavirus, they're all excited to keep training for 2021.
+
+65
+00:28:31,904 --> 00:28:59,824
+pretty much without exception. I would say also just if you are cooped up because you have to work from home, getting in a ride in the middle of the day may be something that might break up the monotony a little bit. Like you're going to be spending a lot more time inside your house or your apartment or whatever. And so even if it's not serious training, you can use riding your bike as a little bit of an escape. And that is totally legit.
+
+66
+00:28:59,824 --> 00:29:24,592
+I think the last thing to think about here is what to do with the coming recession. So with the economy taking a downturn right now and probably continuing to take a downturn in the future, coaching is a luxury for most athletes, especially for the amateurs. If you're a pro, obviously it's part of your job, but for most people it's a luxury.
+
+67
+00:29:24,592 --> 00:29:53,824
+And if your hours are getting cut or if your job is getting cut, talk with your coach about negotiating a lower rate just for a while until things get better for you. Because one of the things that every coach is thinking about is keeping our athletes fit and having good race legs, even if racing is only like August this year or September or just cross.
+
+68
+00:29:53,824 --> 00:30:16,768
+You know, we're thinking about this long term where it's easier for us to help people reach their goals, you know, if they are going to be racing by continuing to coach them. So I think the actually most important thing to consider right now is because right now is a really hard time for everybody. The stress, the staying indoors.
+
+69
+00:30:16,768 --> 00:30:42,976
+the not knowing when your goal races are going to happen all of these things are things that having a good coach that you can work with and that you can talk to and that you can trust this coaching relationship will improve all of these things immeasurably if you are someone who is able to is a little unsure what to do in these sort of very strange and very uncertain times and you've got all these certain other factors to consider
+
+70
+00:30:42,976 --> 00:31:11,744
+The coach's job is to think about both you as a healthy individual and you as a bike racer. And they should be a reliable resource for you to ask questions and bounce ideas off of what should I be doing now? How can I structure this? What's good for me now in this very uncertain situation? Yeah. And that actually leads us directly to the last point today. And I was not going to include this in the podcast today.
+
+71
+00:31:11,744 --> 00:31:31,376
+Because, well, it seems gauche to, you know, try to profit from a bad situation like this. And, you know, in that I, you know, now is the time for me to plug myself as a coach and plug my assistant coach Alex as a coach. But we really do think that we can help people get through this time.
+
+72
+00:31:31,376 --> 00:31:57,472
+And one of the reasons that we can do that is because, for instance, if you look on TrainingPeaks, you are not going to find any empirical cycling training plans canned. Like there's nothing pre-written because, you know, we know that we cannot stand behind those plans because we know that we can only get the best out of a person if, you know, we have full access to them and they have full access to us, which is why we only do fully custom training plans.
+
+73
+00:31:57,472 --> 00:32:23,904
+So if you think that you would like the help of a coach to get through this uncertain time and to go into racing, whether it's happening in August or October or next March, it doesn't matter. If you would like to have a coach, we are taking on athletes and we would love to hear from you. So you can send a coaching inquiry to empiricalcycling at gmail.com.
+
+74
+00:32:23,904 --> 00:32:49,904
+That's a hard plug for me to do honestly right now but I hope everybody understands that it's coming from a good place. So there will be bike racing again in the future as long as everybody stays safe and healthy and we don't let a little thing like a global pandemic let us lose sight of the fact that bike racing and bike riding is fun.
+
+75
+00:32:49,904 --> 00:33:16,432
+And training is fun. Well, for most of us anyway. And we just have to give all of our actions a little bit more forethought right now. Start branching out a little bit away from our normal science, but I feel like this was a nice crash course for some people. Yeah, for sure. And again, we are not doctors. We're not immunologists or virologists. You know, we're just a couple of...
+
+76
+00:33:16,432 --> 00:33:29,776
+nerds yeah we're a couple of fans of people not dying yeah all right thanks everybody we'll see you next episode we'll get back to the normal type podcast yeah thanks everyone
+

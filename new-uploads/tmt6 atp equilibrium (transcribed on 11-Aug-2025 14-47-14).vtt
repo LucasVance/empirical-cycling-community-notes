@@ -1,0 +1,74 @@
+WEBVTT
+
+00:00:00.208 --> 00:00:29.808
+Welcome to the Empirical Cycling Podcast. I'm your host, Coley Moore, and since we're doing 10-minute tips and it's my turn, Kyle has the day off. So I want to thank everybody for listening as always, and I want to remind you to please subscribe to the podcast if you have not, and also word of mouth is great, so please tell a friend if you're enjoying the content that you're getting here. And remember that we're also an ad-free podcast, so if you'd like to donate to the show, you can do so at empiricalcycling.com slash donate. We have the show notes on the website, and for all coaching and consultation,
+
+00:00:29.808 --> 00:00:53.904
+I want to start out this episode with a warning that this is an in-depth chemistry episode and we're going to leave out the math and we're going to keep the concepts as simple as possible but I think in order to understand things like some scientific papers and physiologic tests and actually more importantly understanding enzymes
+
+00:00:53.904 --> 00:01:10.272
+and the roles of things like lactate, which is going to be our next episode of wanton biochemical nerdosity and ATP, which is going to be this episode, we need to understand chemical equilibrium and why it's important to either maintain it or stay away from it.
+
+00:01:10.272 --> 00:01:31.936
+So you probably know ATP as the energy currency of cells. Now this is an apt description, but what I see in even ostensibly good resources is actually technically wrong. As my resource today, we're going to be using a book called Bioenergetics 4, along with the basics that you can learn in any intro to chemistry college class.
+
+00:01:31.936 --> 00:02:01.136
+To start understanding this episode, we first need to start with what does ATP look like? Now, ATP is pretty simple. It's an adenosine, which is an adenine plus a ribose, and it doesn't really matter what those look like. Just know that it tests the ribose, that there are three phosphate groups in series, like a tail. And so this is usually where ATP is supposed to get its energy from. So here's a quote from Nature.com, Nature being one of the two preeminent scientific journals along with the journal Science.
+
+00:02:01.136 --> 00:02:26.320
+When one phosphate group is removed by breaking a phosphoenhydride bond in a process called hydrolysis, energy is released and ATP is converted to adenosine diphosphate. And the link here is of course in the show notes. And so this is in line with what's usually taught, that the phosphate bonds are high energy, and they are, don't get me wrong, and we also see commonly that the presence of magnesium in cells
+
+00:02:26.320 --> 00:02:51.792
+stabilizes these bonds and make them a little less reactive when they're just hanging out in solution in your cells, which is also not wrong. However, when we break a bond, do we get energy out of this bond breaking? So if I ask you to pull my arm out of its socket, now does this take energy input? Do you have to put energy into this? Or is there a net energy release with the separation of these two?
+
+00:02:51.792 --> 00:03:14.032
+And the answer is that there is a net energy input. And the same goes with ATP and breaking any chemical bond. It requires what's called an activation energy. And this is analogous to how hard you have to pull on an arm to actually take it out of the socket. And the same goes for a chemical bond where you have to pull hard and you have to pull a little harder and a little harder and a little harder.
+
+00:03:14.032 --> 00:03:39.424
+Transition state is actually requiring more and more energy to stay somewhat stable, and then it's going to drop to the next energy level when the phosphate moves over to the next chemical. And we're going to talk a lot more about transition states in the next episode on lactate, but for now, let's just think about how the main driver of ATP's ability to do work is not actually the bond itself.
+
+00:03:39.424 --> 00:04:04.736
+The reason that it has so much potential energy and as much as 50% more than is sometimes stated is what's called mass action ratio. So mass action ratio is a ratio of products to reactants. Literally, you just take products and you divide by reactants. So if let's say we have a chemical reaction of A yields B, where A represents the reactants and B represents the products, we just take how much B
+
+00:04:04.736 --> 00:04:34.720
+We have at any given moment and divide that by how much A we have. So it does not have to be when the reaction is done. It can be when the reaction has just started. It can be we add more reactants and or we could have more product. It doesn't matter at any point along the way, we can measure mass action ratio. And as chemists, we use the capital letter gamma to represent this. And now we have to compare it to something. So we actually now compare it to the state of equilibrium.
+
+00:04:34.720 --> 00:05:01.840
+fully and to completion. Now we measure how much A do we have and how much B do we have because chemical reactions don't always run fully to completion. And sometimes we can have a little bit of our reactant left and sometimes we can have a lot of reactant left. And it's this ratio of products to reactants that is going to tell us at a particular temperature and pressure and whatnot what our chemical equilibrium is going to be.
+
+00:05:01.840 --> 00:05:31.408
+And what the equilibrium is, the actual number is less important than being able to compare it to mass action ratio. So if the equilibrium number is 1, meaning there's 1 product to every 1 reactant, or if it's 10, meaning 10 products to every 1 reactant, or it's 10 to the 5, it doesn't matter. And the reason I bring up that last one is because for ATP yielding ADP plus phosphate,
+
+00:05:31.408 --> 00:05:56.000
+The actual equilibrium value for this is 10 to the 5 in our cells for the most part. Depends on where we are, but for the most part we can say it's 10 to the 5. So that meaning the product of ADP times PI is 10 to the 5 times larger than whatever ATP we have left. And this is actually where the magic happens. So the further away from equilibrium
+
+00:05:56.000 --> 00:06:19.952
+the chemical reaction is, the more energy it has to do work. Now let's think about this a little bit. So if we take a ratio of equilibrium to mass action ratio, in other words, we can say K equilibrium divided by gamma mass action ratio. Now we can see how far from equilibrium the reaction is. So if K divided by gamma is equal to one, then the reaction is at equilibrium.
+
+00:06:19.952 --> 00:06:43.504
+And this is regardless of what the actual value of K, the equilibrium, is. If gamma is less than K, then the reaction is going to proceed releasing energy. And if gamma is greater than K, the reaction is going to proceed absorbing energy. And this is a lot like rolling a boulder up a hill. The taller the hill, the more potential energy it has. And kind of in the middle in the valley, we have equilibrium.
+
+00:06:43.504 --> 00:07:10.160
+So now you're wondering, how far away from equilibrium do we have ATP and ADP in ourselves normally? The answer is actually 10 to the 10. That's 10 orders of magnitude away from equilibrium. Because the equilibrium value is 10 to the 5 for ADP and PI divided by ATP. And normally we have 10 to the 5 ATP.
+
+00:07:10.160 --> 00:07:33.488
+to ADP in the cells, which means we are 10 orders of magnitude away from equilibrium. This gives ATP its energy, its potential energy, its ability to do work. So now the question is how much potential energy does ATP really have? And the answer is it depends on the cell conditions, but what I usually see is anywhere between 50 to 60 kilojoules per mole. Now,
+
+00:07:33.488 --> 00:07:59.008
+What this compares to is the standard state conditions. So cell conditions are different because it's held so far away from equilibrium. Now, when we measure the standard energy in the regular standard state for chemists, this is called just the standard free energy of hydrolysis, we actually only get 30.5 kilojoules per mole. And so when we calculate actually how much potential energy
+
+00:07:59.008 --> 00:08:10.768
+What chemicals in a cell have, we actually start with the standard energy and then we calculate how much more potential energy there is based on how far away from equilibrium that they're held.
+
+00:08:10.768 --> 00:08:33.631
+So what I think is really cool about this is that we could have anything that's got a sufficiently high free energy of hydrolysis as the substitute for ATP in our cells, except that we don't, because they're not held that far away from equilibrium. Though if they were, we would have certainly a ton of potential energy just like ATP, and they would be just as capable with only one phosphate even.
+
+00:08:33.631 --> 00:09:02.928
+But this is actually one of the interesting things about cells and equilibrium in our bodies is that the cells always trying to maintain ATP concentrations this far away from equilibrium for the reason that if it starts to drop, ATP levels drop too much, then ATP loses its potential energy to do work because it's getting closer to equilibrium. So this is what exercise adaptations are actually all about because as we exercise, we demand ATP and the body does its best to fill ATP back in.
+
+00:09:02.928 --> 00:09:32.144
+and maintain the ability of ATP to do work. And because if it doesn't, then it's not going to be able to drive processes forward in our cells. And that's going to be a disaster for the survival of the cell. And that is the job of the different energy systems, of course. So I hope that was as interesting to you all as it was to me. And as always, thank you for listening. Please subscribe and tell people about the podcast if you're really enjoying what we're doing. And remember that we're an ad-free podcast. If you'd like to donate, you can do so at empiricalcycling.com.
+
+00:09:32.144 --> 00:09:44.304
+slash donate and we've got the show notes up on the website and for all coaching and consultation inquiries questions and comments please send an email to empiricalcycling at gmail.com and with that I will see you guys all next time
+

@@ -1,0 +1,712 @@
+1
+00:00:00,720 --> 00:00:29,248
+Welcome to the Empirical Cycling Podcast. I'm your host, Koli Moore, and today we are joined by Corey Lockwood, who I'm really excited to announce is a new Empirical Cycling coach. So if you'd like to work with Corey, please shoot me an email at empiricalcycling at gmail.com. And for any other general coaching consultation inquiries, please shoot me an email there. Also on Instagram at empiricalcycling as always, and you all know the whole drill. So iTunes rating is great. Thank you so much for that. And share the podcast, obviously. So I don't want to...
+
+2
+00:00:29,248 --> 00:00:55,456
+Waste Too Much Time on a Preamble because this is a long episode and it's a really, really good one. So without further ado, here is my interview with Corey Lockwood. Like how old were you? Like 20 some odd? Yeah, early mid-20s. So I guess 2012, I was doing my first road cycling. I was up in Southeast Alaska at the time and my boss was a road cyclist.
+
+3
+00:00:55,456 --> 00:01:14,256
+locally and would go and do some of these hundred mile bike rides and some races. Okay, is cycling in Alaska all fat bike or is there actually like grass on the ground sometimes? So Southeast Alaska is probably one of the biggest tropical, well not tropical, one of the biggest rainforests.
+
+4
+00:01:14,256 --> 00:01:44,016
+Oh, right. What are they called? Like Hadley cells or something? Yeah. So there's a lot of precipitation, I think. Don't quote me on it, but like 200, upper 200s, lower 300 days a year of just overhanging clouds or precipitation. So, but that being said, not all of it's snow. So you do a lot of rain riding. So you can do fat tire bike riding would probably be much more pleasant in the rain, especially off road that, I mean, otherwise your rain gear and fenders and it's 45 degrees in rain and it's hard to stay warm. Fingers get cold.
+
+5
+00:01:44,304 --> 00:02:09,136
+Are you from Alaska? I have some family members that are from Alaska. Grandpa, grandmothers, uncles, aunts, things like that. So some of my related family is from there. My father is from there. My mother. But they either moved there or some of them were born there. So myself, I'm not. I'm a California guy for the most part. Floridian, I was born there. But California is where I'm from.
+
+6
+00:02:09,136 --> 00:02:36,560
+Okay, so you got started a little later, but you were doing motocross before that, right? Yeah, so I started riding motorcycles five years old, six years old, just after I rode my first bicycle, which is four years old or so. Your parents were fine with that? Like, put the kid onto something even faster, he'll be fine? Yeah, my dad was a motocross racer back in the 70s, and so we got a little kind of...
+
+7
+00:02:36,560 --> 00:02:59,296
+garage sale kit motorcycles. What I'm going to call is, I think it was a TM is what it was. And it was supposed to be a 50. And I think we put like a big bore kit and it made it a 70 and built it up out of parts. So it's a teeny little bike with lots of power for a little kid like me. What's a big bore kit? Is that like a stroker? Yeah, where they make the cylinder. I don't know if I have the exact terminology.
+
+8
+00:02:59,296 --> 00:03:27,664
+Do you bore it out extra? Yeah, they up the displacement size for what the motor's intended for. I assume that makes the walls a little weaker too? Yeah, I mean, or you can put a bigger cylinder on it. You basically put more horsepower out, more displacement on a chassis that's intended for something smaller. And you were five. Yeah, so that was, I mean, it didn't go as fast as it sounds, cruise around. A 50 is pretty small. It's for somebody my size, so the frame fits me. It was just...
+
+9
+00:03:27,664 --> 00:03:51,696
+Yeah. Cruise around. Oh, 50cc? So like your top speed is like low 30s or something? Yeah. So you can't get going that fast. It had a lot of torque. Usually putting a bigger board kit on it gives it more torque. So you could do wheelies and things like that. But the overall speed is not that much faster. And it's a small bike. Nice. Looked like a miniature like Runaway Ralph bike or something. I had my little pudding bowl helmet and stuff. You were riding bikes along with your motocross racing too? Yeah.
+
+10
+00:03:51,696 --> 00:04:09,840
+Did BMX around that time as well. I was doing a lot of other sports when I was younger. Soccer, rollerblade hockey, terrible at all those. Bikes were always the thing that worked best for me. Anything with stick and ball sports or balance on a skateboard never ended well. I learned that early, so bikes were always the thing. I feel like motocross.
+
+11
+00:04:09,840 --> 00:04:24,976
+and just motorcycle racing in general goes really well with BMX, but especially motocross, right? Those two kind of mesh in terms of the skills you need, the handling and the balance. Can you do a wheelie still on a road bike like Peter Sagan? Can you entertain crowds while you're going by?
+
+12
+00:04:24,976 --> 00:04:54,016
+You know, there's functional wheeling, which happens a lot in motocross racing. And then there's like wheeling for show. So like there's certain areas like on an MX track where you want a wheelie to like pick the front end up and set it in particular areas to be precise to carry momentum or absorb like bumps. But then wheeling for more than, you know, given amount of time then becomes more for show and balancing practice. I was always like practice functional wheeling, which is like you can pick the front end up where you need to, set it where you need to, to, you know, facilitate faster lap times.
+
+13
+00:04:54,016 --> 00:05:12,144
+Yeah, I mean, as long as I've known you, which isn't more than really a couple months at this point, but you seem to me that you're an incredibly functional person. You don't do much for show at all that I can tell. Yeah, I mean...
+
+14
+00:05:13,040 --> 00:05:38,464
+Show takes up more time in the day that doesn't go towards like. So if you're trying to get a lot of things done and you're doing things for show, then it takes to take up part of your schedule that could be done for like things that make money or produce faster lap times or more watts on the bicycle. Yeah. Well, I mean, I think that's one of the nice things about you as a coach.
+
+15
+00:05:38,464 --> 00:06:06,448
+Obviously, this podcast is going to announce that you are a new empirical cycling coach, which is fantastic. When I heard about your experiences from the past, I was like, this guy is going to be a really, really good coach. I think you have a perspective that I really appreciate in that you understand that your time is very valuable, so you also understand
+
+16
+00:06:06,448 --> 00:06:35,856
+How valuable your client's time is as well, right? Yeah, because they deal with even less time on a bicycle than either you or I would deal with. We're in the bicycle industry 24 hours a day. It seems like 24 hours a day. You're thinking about it, dreaming about it, waking up, thinking about stuff over coffee. Your clients you're working with, actually, they go to a 9-to-5 job and they have to check out from cycling. So their time is even more finite. You have to give them streamlined workouts, make things very simple through analogy to explain because they don't.
+
+17
+00:06:35,856 --> 00:06:59,952
+Whether they want to or not, if you're talking really high level biology or science speak, not that I know that, they may not always understand it. So making things simple and easy to execute on a daily basis is good for them. Yeah, like I always appreciate when my clients start asking me questions about the science.
+
+18
+00:06:59,952 --> 00:07:23,728
+because a lot of them, a lot of my clients, especially the younger ones in particular, but older ones obviously too. There's not a real rule with this kind of stuff. They're avid podcast listeners, which is cool because they'll be like, oh, hey, was that me that you were talking about in the podcast the other day? But also they'll be like, oh, because you said this and this and this, does that mean this, that, and the other thing? And I love that.
+
+19
+00:07:23,728 --> 00:07:53,488
+I think one of the things that's great about having the kind of coaching style that we do, which is we don't do canned plans or anything like that. It's like, what does this client need? All right, let's tailor the plan to them. I write every workout by hand for this reason. I don't have any canned stuff, which has its drawbacks too. People will be like, hey, you did a typo or this isn't here. How many reps of this? How many rests intervals? I'll miss stuff like that.
+
+20
+00:07:53,552 --> 00:08:23,120
+So I think kind of what I'm getting at is, you know, I guess I'm trying to get at, you know, you've had some less than stellar coaching experiences in the past. And I think most famously being the Semperporo guy. And so let's kind of talk about how you got started with him, because I'm really curious about this.
+
+21
+00:08:23,120 --> 00:08:48,960
+Because you seem to have gotten off the couch with absolutely phenomenal aerobic ability. I think you've never seen an FTP for yourself lower than probably 370 watts, right? Yeah, and surprisingly, I would say motorcycle racing takes a pretty high level of general fitness.
+
+22
+00:08:48,960 --> 00:09:16,080
+You wouldn't think so. So that's where my time trialing ability came from because you're pretty much all like 165 to 180 beats a minute. The only breaks you get are like obstacles and jumps if you train your mind to like relax in those times. Otherwise, you're full on for 30 minutes. So that's where time trialing comes from. So that kind of gave me a basis of aerobic slash anaerobic fitness and a basics of like muscular strength. So when I came onto the bike, yeah, I had.
+
+23
+00:09:16,496 --> 00:09:38,464
+I had a good general level of fitness but obviously you have no like specificity towards something you have to learn like because you're not pedaling when you're on a motorcycle so there's like that continual endurance capacity I didn't have it took me a while to build that but so I mean my FTP sure could have probably been lower if I hadn't a motorcycle you know I didn't have a background of that but
+
+24
+00:09:38,464 --> 00:09:59,280
+Yeah, it sounds a lot like Criterium or cyclocross racing too, but with the added component of you need to focus or you're probably going to end up in a tree and kill yourself Yeah, it's like a short high intensity crit, that's what it's like Yeah, so how did you get started with your
+
+25
+00:09:59,344 --> 00:10:23,024
+from previous experience with your coaches. Did you get found or did you find them? What was the promise that you saw where you were like, oh, I think this is the way that I want to go. This is the commitment I want to make. I met the Simperporo coach through
+
+26
+00:10:23,024 --> 00:10:50,352
+My girlfriend was actually coaching with him at the time, and I didn't have a coach. I was training myself. I was a fresh cat one. So your worldly experience and your knowledge isn't as it should be. So when people talk big, complicated words and you don't know that much, you're drawn into it pretty quickly because you don't understand maybe.
+
+27
+00:10:50,352 --> 00:11:19,824
+What makes a good coaching program versus not? You don't understand what makes a high quality coach, which just doesn't. So I guess you're easily lured in by shiny objects and what you guys call on the podcast, silver bullets of shortcutting fitness, which as the more I discovered, there isn't shortcuts and magic to get there. So really the magical aspects that people's sales pitch you with can really get you into something like that. Yeah. I mean, that's one of the things.
+
+28
+00:11:19,824 --> 00:11:48,992
+Let's pivot this right back to me. That's one of the things that I actually found difficult about marketing my approach with coaching is there's no, oh, it's all about VLA Max or it's all about this other thing or you just do these workouts that we've prescribed or this magic whatever. It doesn't turn out like that. The first conversation you and I had, you were talking about the things that you felt
+
+29
+00:11:48,992 --> 00:12:14,464
+had the biggest impact in your fitness, like a lot of volume and a lot of like tempo kind of stuff and certain things to get ready for racing. And, you know, you weren't saying like, this is what everybody needs to do. Your thing was like, you were saying, this is my experience in, you know, just for what I feel works for me after my years of training. And I think that that kind of thing is really valuable because
+
+30
+00:12:14,464 --> 00:12:43,456
+When we have clients who come in and say, oh, this is what I feel works for me, we don't go, okay, well, that's nice, but I think you need to train this other way instead because the experience you and I have had now, because I had a similar first coach experience to you. It was like fancy words and, oh, this guy's fast, so maybe he's got all the answers. And then I guess after a couple of years, you find out that maybe things are not – things are –
+
+31
+00:12:43,456 --> 00:13:12,240
+Both more complicated than they seem, but also they're simpler than they seem. You know what I mean? Yeah. Sometimes it's hard to sell that when you look and you tell somebody, hey, our coaching program, if you told somebody, hey, it isn't special. It's just about you doing work and doing the proper things at the proper time. People want to hear something sometimes more like, if you do this, you can get there quicker. Or if you do this, it becomes simpler. People sometimes want.
+
+32
+00:13:13,168 --> 00:13:41,104
+for lack of experience and lack of understanding really what makes a great cycling experience. They go for something that's simpler. Like they shortcut themselves the learning curve. They shortcut themselves something. They want to go somewhere quicker. And they realize later on that that may not be the case like I did. So maybe like your coach tells you or ex-coaches tell you that
+
+33
+00:13:41,104 --> 00:14:09,616
+You know, if you do this, it's easier. If you do this, it's quicker. If you do this, you become better, faster. And, you know, your cycling career is only so long. Why would you want to fast forward it? Take the time to enjoy it. Yeah. Well, I mean, I think people want to fast forward the physiological development. Yeah. And, you know, there are certain techniques that, you know, I'll probably, you know, you know, reveal on the podcast at some point.
+
+34
+00:14:09,616 --> 00:14:38,176
+far in the future where I find that this quote unquote secret sauce stuff really only speeds up development just like 5%, maybe 10% at the very most. And otherwise, it's still just you still got to put in the miles or the kilometers. You still got to work your certain aspect of fitness like VO2 max and threshold and you still need race experience too.
+
+35
+00:14:38,176 --> 00:15:07,424
+Yeah, sorry. No, you're good. I was just, you realize after some time of racing that a lot of the fun comes from the process of understanding how to really go about your training properly, waking up in the morning, you know, making your breakfast, mapping out your ride, doing your recons, doing the miles on the bike, doing all the prep work, because the racing itself and the winning when you come across the finish line encompasses such a small amount of it.
+
+36
+00:15:07,424 --> 00:15:34,272
+that really the true fun and the adventure comes from the miles and the hours of work and the satisfaction of overcoming hardships and sharing that with people. So shortcutting it, you know, you're just shortcutting yourself, like of all this, really of all the fun of cycling. Yeah, because that's an interesting point, isn't it? Because the process is 90% of most things. You know, that's why...
+
+37
+00:15:34,272 --> 00:16:04,080
+You know, work sucks for a lot of people because, you know, a lot of people don't do a job that they enjoy so far as I can tell. I mean, I'm lucky I do and you're lucky you do. And that's that's part of why, you know, we're lucky people in general. But man, yeah, if you don't enjoy the process, that sucks because, you know, if you get if you get used to the winning and you're there for the winning, the process and the process isn't fun, then it's not going to be a fun sport.
+
+38
+00:16:04,080 --> 00:16:33,552
+the larger races in the United States when you win that you realize it almost didn't feel any different than winning a smaller local race and then you realize you kind of fast forwarded the last two years like the banners are bigger and there's more fans but it still feels the same and then but the satisfaction you got from winning that didn't feel far off or any different from the satisfaction of finishing your five-hour workout and you realize that it was the same thing and you're like okay well I just skipped over two years of my life to get to this to experience the same thing when I could have like
+
+39
+00:16:33,552 --> 00:16:58,896
+Really taking the time to learn how to do the coaching properly, how to do the methodology properly, and how to really enjoy each and every one of those miles you're doing. Yeah, the daily reward is as good as the goal reward. Yeah. Yeah. And actually, I think that's a good way to approach cycling in general, too, because I had a...
+
+40
+00:16:58,896 --> 00:17:19,184
+previous coach who, I probably said this on the podcast once or twice before, because it's probably one of my favorite anecdotes, is that cycling is not a sport about winning. He said cycling is a sport about managing disappointment. And then he takes a beat and he goes, and that's why the French love it.
+
+41
+00:17:19,184 --> 00:17:48,240
+and you know I I kind of agree with that when it comes to the racing because most races you start you know no matter how good you are you're not going to win all the time you know a killer in bike racing will win like one out of every four or five races and otherwise you know it's you can avoid a lot of the disappointment that you have in in you know not winning every bike race or winning only extremely occasionally by enjoying
+
+42
+00:17:48,816 --> 00:18:17,584
+getting your work done for the day on the bike, the training, and getting that process and enjoying that and enjoying the learning experience. Yeah, and that also comes from the way in which you view success too. You view success as crossing the finish line and first, then you'll be sadly disappointed a lot of times in a bike race. No matter how strong you are and good you are, you lose a lot of times, be it through crashes or bad strategies or just sometimes.
+
+43
+00:18:17,584 --> 00:18:40,416
+Other people are luckierier than you on the day, even if they're not as strong as you, they still figure out how to beat you. What is it that you like so much about time trialing? Is this why you like it? Because there's a lot of factors that you can control, and when you really go out and you nail a TT, you think, man, that is the best I could have done, rather than thinking, well...
+
+44
+00:18:40,416 --> 00:19:05,936
+If he hadn't attacked or if I had gotten off the front at this point or if this crosswind didn't happen or stuff like that, like those, you know, the tangible luck factors in a mass start race. Yeah, I guess that's a part I really enjoy about time trial. It takes me back to my roots where I'm really just focusing on just what I'm doing, what I'm doing, interfacing with the bike. There's a lot of...
+
+45
+00:19:06,256 --> 00:19:35,568
+There's a lot of technical stuff that goes into setting up a TT bike, a lot of technical like tech nerd stuff that goes with aerodynamics and, you know, wind tunneling and techniques. And it really strips down the cycling down to the basic component of just like you, the bike and the road and your training, your strategy you go about it with. And so, sure, there's luck involved. Sometimes you can get the double tailwind. Sometimes you get the double headwind or, and so, or some of these, I wish I've gotten both.
+
+46
+00:19:36,592 --> 00:20:03,040
+Oh yeah, sorry, go ahead But that's basically the part that's nice about it is just the simplicity of just focusing on all those techniques Yeah How does that translate to road racing for you too? Because you've, in our conversations, you've said some of the most interesting things I've ever heard about road racing in America
+
+47
+00:20:03,040 --> 00:20:32,384
+Because one of the first things that you would say to me is that at some point it's not about watts per kilo per se. Obviously, if you're going slower and there's less wind resistance, sure. But once you get to your level and you're trying to win Redlands, you're doing 20, 25 miles an hour up a climb in a bunch. And it's not so much watts per kilo. It's about saving energy and attacking at the right point and even having a good sprint or a good one to three minute power or something like that.
+
+48
+00:20:32,384 --> 00:20:52,528
+Timing is really critical, and speed is also really critical, like how you use your watts. Watts per kilogram is important. Wattage is important, yes, but there's a basic buy-in, like a bubble you have to be in to be per se.
+
+49
+00:20:52,784 --> 00:21:14,752
+And maybe it's like high stakes gambling. You have to have like the initial buy-in and you have to know how to like, not that I'm a high stakes gambler, but the initial buy-in is like sit at the table and then you have to understand your strategy. There's luck involved, you know, you get dealt a hand, but yeah, it's, I mean, it's, it's kind of like that. So there's.
+
+50
+00:21:14,752 --> 00:21:42,448
+I forgot where I was going with that. I get caught up in my own analogies, forget where I'm going. I think you were getting towards luck being kind of a tangible component of road racing and also that when it comes to racing at a high level, which you understand even better than I do. I coach people at high levels, but I haven't raced there myself.
+
+51
+00:21:42,448 --> 00:21:54,496
+I think that kind of gives you a really good aspect of a really good perspective on this kind of thing because you understand that it's more than just an individual.
+
+52
+00:21:54,496 --> 00:22:24,288
+It comes down to your team and it comes down to what other teams want to do. And even that, it comes down to personal politics in the peloton sometimes. You've been very publicly a victim of that too previously. Yeah, I mean sometimes you can be the fastest guy on the day and people will make deals before the race and there's no way you're getting away when there's 10 guys riding against you and you figure that out pretty quickly. Or you don't and you beat yourself up for like two hours and then you figure it out later on because you're just so much like in the box or like focused on what you're doing.
+
+53
+00:22:24,288 --> 00:22:46,880
+You miss that part of it. So the politics are a part of it. They can work for you and they can work against you. Yeah. And managing your own race brain, which can work against anybody. I think you've mentioned to me before, you've been pretty upset at some folks.
+
+54
+00:22:46,880 --> 00:23:06,896
+due to some behaviors at some points. And then as the head cools down, it's like, oh, okay. I've done that in races too, where somebody cuts across your line in a sprint and then it takes you a good week to say, hey, man, sorry about that. I was pretty upset, but you didn't know I was there. So that kind of stuff. Yeah, the struggling that happens when you're...
+
+55
+00:23:07,216 --> 00:23:36,432
+have lack of oxygen going to your brain. You view things in one perspective, and then after the race, you see it in another perspective. So sometimes it's hard to take yourself outside of your situation and view things with sympathy. Maybe they just aren't as strong as you in that situation, or maybe they're way stronger, and so they're riding the race different than you, and you don't have the time or the perspective to be able to see that, and so you just make an initial reaction in the race, and sometimes it works good, sometimes it doesn't. Yeah. Yeah, and I think
+
+56
+00:23:36,432 --> 00:24:05,808
+You know, what, you know, what else, what are your other thoughts on all this kind of stuff? You know, thinking about your previous experience with, you know, coaching and racing and all that kind of stuff, like, because I feel like this kind of gives you a really good perspective, you know, to not only for yourself going forward, but, you know, to potential clients, right? So, you know, what are your general thoughts on how your experience can, you know, really translate to help others?
+
+57
+00:24:06,160 --> 00:24:33,392
+Well, I guess my experience, I can connect with people because I've been through a lot of different experiences so that when somebody says something, I've experienced it from a first-person perspective of what it's like to win these races, what it's like to crash out of these ones, what it's like to bonk, what it's like to physically do good or be underprepared or be stressed out.
+
+58
+00:24:33,392 --> 00:25:02,944
+Crack Yourself Mentally because of overthinking stuff. So I've been through a lot of these situations so that when somebody says something, I can figure out how to get down to the key points that matter, what I've learned from those situations, and then help them get through that as smoothly as possible. I've been through the majority of those situations, not all of them.
+
+59
+00:25:02,944 --> 00:25:30,832
+With those failures, with those successes, I can really communicate with people well from an experiential perspective. Yeah, and you can get down to, you know, having process goals with people. And, you know, and I think that, you know, I've had this experience too with people, like if somebody's bike, you know, cracks or, you know, they have some mechanical equipment.
+
+60
+00:25:30,832 --> 00:25:59,472
+You know, the night before a race, that's one way to react to it. And if they have it a week before a race, you react a different way, because, you know, you'll be just as they'll be just as upset. And, you know, us as coaches, we can we can say, okay, you've still got time to figure this out, you can train on this other bike, and you can get this sorted. And if it's not sorted, then, you know, we can make preparations for you going into that kind of thing, like that kind of stuff. You know, I think, which is a, you know, very
+
+61
+00:25:59,472 --> 00:26:23,120
+You know, first grade kind of example of kind of the complicated stuff you're talking about. Yeah, it's just a lot of experiential and intuitive based things I've gone through. So being able to understand athlete intuition based on what you've done intuitively or experiences in the same way.
+
+62
+00:26:23,120 --> 00:26:49,056
+You know, thinking about that kind of stuff, let's, cause I want to talk to you more about some of your experiences. Like, uh, like somebody asked me, uh, I mentioned that you were going to be on the podcast and somebody asked me to ask you about kind of going through your, um, your 2020 and 2021. So, you know, you, you did not have the easiest, uh, kind of stuff cause you were through a couple of teams, you were through a couple of coaches. Um, so why don't we
+
+63
+00:26:49,056 --> 00:27:14,464
+start with you and your girlfriend living out of a car and trying to do Zwift races. Why don't we start there? Let's go over that because that's very interesting to me. So, yeah, where would I start with that? First, it was a unique time in which I learned a lot of things. First, obviously,
+
+64
+00:27:14,464 --> 00:27:38,608
+to be grateful when you have lots of things. And then the times when you don't have as much, it makes you respect when you do have things. So it gives you that perspective of having lots of things, then having nothing, and then going back to having lots of things to take the time to appreciate the seconds or the moments that you have when you have all the support or you have all the things that you need. Second, racing Zwift.
+
+65
+00:27:38,608 --> 00:28:07,408
+Without a house and without proper stuff is very difficult. And so believe it or not, that sport can be its own unique sport in itself that sometimes doesn't always or oftentimes doesn't always relate to road riding outside. And then the equipment required for it's also very specific. Electronic trainers, the strategy in which you ride them, good internet service, high speed internet service. It's always great when you're riding.
+
+66
+00:28:07,408 --> 00:28:35,664
+Decent and then your internet lags and you go out the back of the invisible group and then you can never get back in because the way their algorithm works so it's definitely its own sport and it's not that conducive to van life unless you have great internet service. Yeah so I you know I haven't asked you this before but how did you end up living out of a car? Financial difficulties.
+
+67
+00:28:36,848 --> 00:29:03,456
+You know, sometimes as a professional bike racer in America, you don't make too much money. And so, but it requires great amounts of time and dedication still. So having to sacrifice maybe some of the conveniences of living normally to be able to pursue what you like to do. I've worked at nine to five jobs before and lots of different ones. And I put a lot of work into cycling and into sports.
+
+68
+00:29:03,456 --> 00:29:32,624
+My girlfriend has as well. And so the two of us weren't really willing to set that down so easily. So we kind of got rid of some stuff and packed up and decided we were going to stay in the fight and make it through it. Did you have a contract at that point where you knew that you were going to be doing some Zwift racing or did that come after you had already been in the car? That came before. And so having
+
+69
+00:29:32,752 --> 00:29:49,456
+lost like where we were staying at for the point in time and staying in the car was obviously not great for the contract and racing Zwift. It was difficult. We were doing the best we could. Like I said, there was a one point in time where I was willing to just.
+
+70
+00:29:49,936 --> 00:30:12,272
+We didn't have an electronic trainer and the other trainer was broken and I was going to tape my phone on my handlebar and ride around in the parking lot and just look down at the screen and just do laps because we were close to like an internet cafe and I was just going to get service from that and kind of like bootleg service and race with a phone taped to my stem and I'm sure all the people like across the street would have been wondering what I was doing.
+
+71
+00:30:12,272 --> 00:30:41,184
+as I was looking at my phone sprinting laps around circles in a parking lot trying not to get run over by somebody to make the contract work. So experiences, there's been a lot of those sorts of experiences. Yeah. Yeah. Yeah. And somebody noted that you kind of had a – this year you had a busy spring and then you seemed to – their words, I think it was blow up at Nats. Yeah.
+
+72
+00:30:41,184 --> 00:31:10,880
+So how did your season come about? Because obviously people watching, it was not the season that fans of you, like I had been, had been hoping from you. So how did it go? Yeah, this year was definitely a difficult year. The timing was different.
+
+73
+00:31:10,880 --> 00:31:39,952
+Trying to choose my words here. I guess the timing of the year was different. The races were all pushed back. And so it required different timing with your training. I got to the point where I think I've always been good at coming out with really good fitness to race or some people maybe ride into fitness. I was always been good at training and then showing up to the races and being fairly ready to race. And so having an extended period of racing.
+
+74
+00:31:39,952 --> 00:32:08,624
+I didn't think really was conducive to managing long-term fitness throughout the year. And then some of the things we went about with the training, I don't feel worked quite as well. I guess the long and short of it was when I showed up to nationals, I had already ridden too hard and too intense. And I felt like I was already...
+
+75
+00:32:08,624 --> 00:32:33,552
+was cracked by the time I got there. So Nationals was not the way I wanted it to go for sure. Like my numbers were good coming into the season. The season was kind of at an odd time. I feel like I mistimed my fitness. I was probably way over trained at that point in time. And it only took just a small nudge to push me into a hole kind of.
+
+76
+00:32:33,552 --> 00:33:02,256
+that was pretty hard to climb out of at that race since that was where the struggle came from at that race was just basically being completely blown up. Yeah, and I was there and it was fucking hot. Yeah. That was a hot race and it was a hard one too. It's an interesting course I went to Knoxville and it's also kind of unforgiving because it's steep and if you're trying to chase some of those featherweights up that hill, it's going to be a rough day from the start.
+
+77
+00:33:02,352 --> 00:33:29,744
+Yeah, I mean, on a good day, I feel like I have pretty good wattage to do a hill like that, that the three to five minute range I can do pretty good at standing or seated and I could got pretty good repeatability. It's just I felt like on that day, particularly just riding around it, you know, a high endurance pace or I'm going to call it like 70 percent felt like doing threshold. I just felt like my legs were completely.
+
+78
+00:33:30,576 --> 00:34:00,080
+completely toast before I started to race. It was not a fun experience. That's always a sign that things are not going well in the training for me. Because, you know, you had in our pregame for this, you had kind of mentioned that you wanted to touch on stuff like this. So why don't we get to it now? It's like, what, you know, what was it that was, I guess, actually, here, let me put it this way.
+
+79
+00:34:00,592 --> 00:34:25,936
+You know, what was your relationship with your coach like at the time where if you said, hey, I think I'm getting to the edge, I need to pull back a little bit, you know, because that's normally what I would expect in a coaching relationship with me is somebody saying, I'm pretty tired. And I would say, okay, you need to rest. And with this goal here in mind, you know, we got to get you there on your best legs.
+
+80
+00:34:25,936 --> 00:34:53,487
+How was your coaching relationship at the time where maybe that wasn't a thing that was happening? Or was it happening and it was just a miscommunication or something like that? I feel like some of it was miscommunication. Some of it was possibly my intuition and what I felt we should be doing didn't line up with the style of training. And so I was, for lack of a better term, setting some of my
+
+81
+00:34:54,128 --> 00:35:21,872
+intuition aside to operate in terms of kind of having faith in my coach and not listening to maybe some of the signals I had internally that I knew weren't correct and other ones were just lack of communication. I either didn't understand what was happening or my coach didn't understand what I was saying and so I learned from that the importance of being able to communicate well and then being able to
+
+82
+00:35:21,872 --> 00:35:49,136
+Have somebody, when you communicate, understand you well enough. Because it takes a lot of bad steps, I've learned, in one particular direction to really overtrain yourself to that point. So it's like a snowball effect. It takes a lot of consecutive, continuous, incorrect moves to really get to the point where you explode like that. It's sort of like having a sore tooth and never going to the dentist.
+
+83
+00:35:49,200 --> 00:36:15,936
+Yeah, or missing your dentist appointment and all sorts of other things going wrong, and eventually it ends very badly. Yeah, and it's one of those problems where I think, because I've done this before myself, both in training and in life in general, where you've got a problem and you think, ah, if I just ignore it, it'll go away. It's like the car that occasionally fixes itself. Like you hit a big bump and it's like the check engine light goes away and you're like.
+
+84
+00:36:15,936 --> 00:36:45,792
+That's cool. I hope I don't dislodge that thing that got lodged again properly, whatever was going on. I think in general, one of the things that I've noticed being a pretty busy person myself these days is it takes a lot of energy to have to face a thing that's not going properly.
+
+85
+00:36:45,792 --> 00:37:07,200
+It takes a little bit to dislodge yourself out of your fatigue routine of just train, get home, work, sleep, eat kind of stuff to go, all right, well, now I've got to spend one to however many hours dealing with this bullshit. You know what I mean? Does that kind of make sense what I'm getting at?
+
+86
+00:37:07,200 --> 00:37:32,576
+Yeah, where you know that there's an issue and instead of facing the issue, you put it off and put it off and put it off until maybe you can't put it off any longer or it reaches its inevitable conclusion, which is usually not good. Yeah, I know exactly what you mean. I think it's probably a case of that and maybe other things, but yeah, nationals wasn't good.
+
+87
+00:37:32,576 --> 00:38:01,568
+How was the rest of your season after that? Because you didn't race so much. How long did it take you to climb out of the hole? I say that I tried to continue training, so to speak, and pretended like I wasn't actually in a hole. That was my strategy, was just to keep going.
+
+88
+00:38:01,568 --> 00:38:09,072
+You learn some interesting things from that. First, you learn that mental health is a thing. You also learn that...
+
+89
+00:38:09,072 --> 00:38:38,480
+Physically, you're not invincible. You do have to train properly. And then finally, you learn what it's like to overtrain. And I think it's a good thing as a coach to understand what overtraining feels like, the symptoms involved, and the red flags usually that come up. Because if you've done it once yourself and the amount of time it takes to climb out of it, you never want to inflict that on anybody ever. Because it's not fun. So it took another month or so before it totally exploded. And that was after a few bad races.
+
+90
+00:38:38,992 --> 00:39:08,272
+and a crash and some other stuff. And so then like they pretty much packed it up for the season. It took me a few months to feel good again. Yeah. Well, so what else besides good communication would you want to see in a good coaching program? Other than good communication, I'd like to see
+
+91
+00:39:10,096 --> 00:39:39,248
+Scientifically backed coaching protocols that are backed up not by how would I put this I think it's important yes to choosing my words carefully so scientifically backed coaching I think is important there's a lot of there's a lot of fitness fads out there but really doing things that are functionally correct and proven through a good
+
+92
+00:39:39,248 --> 00:40:09,136
+System and methodology be it like personal experience with the coach but also backed up by things that are scientifically proven with good studies and things that have been happening for quite some time it's okay to have some things that are experiments because as a coach or as an athlete you have to find out what works and what doesn't work but having things that are very well rooted and in matter of fact and processes that have been proven to work I think is pretty important and then also having
+
+93
+00:40:11,056 --> 00:40:34,096
+a program that's laid out that's conducive to each athlete. I've experienced the one size fits all athletic coaching and I find there's a lot of holes in it and the more and more I realized that each person is so physiologically and mentally emotionally unique that you almost have to have like
+
+94
+00:40:34,096 --> 00:41:00,176
+a one-on-one level of communication with them and know your athletes really well so you can program something for them. You learn where their failings are, you're learning where their strengths are, like emotionally what makes them tick at the races, physically what makes them work, what makes them a good bike racer, what makes them, you know, not comfortable in other areas. Then you learn how to start designing their programs around them, you know, rooted in science and molded around them as a person because everybody's so unique.
+
+95
+00:41:00,688 --> 00:41:29,728
+that it's almost I feel like it's almost impossible to give somebody a good quality program without custom making a program for each person at that point. That's what I've discovered. Well, and I think I think also that kind of gets to some of the things I've I've always been a little bit irked at with some coaching programs. Well, not irked at, but like sometimes I think a lot of people who race at a high level will just give other people what worked for them.
+
+96
+00:41:29,728 --> 00:41:47,056
+and without realizing that they have a natural gift that made them able to perform at that level, you know, sometimes because of the training, but other times in spite of the training that they've done. Yeah. I mean, if I tried to give somebody my...
+
+97
+00:41:47,312 --> 00:42:14,000
+workouts that work for me, you know, I'm obviously good at doing long sustained efforts. So maybe that sort of working out wouldn't be conducive to somebody else where if somebody was giving me wattage brackets to hit and they were a pure sprinter, like I wouldn't even be able to, to do that once, let alone four or five times. And so it put me in an area that's not even possible. Or if we look at like lifting in the gym, somebody else gives me their weights, they lift because it works for them. I might like, you know.
+
+98
+00:42:14,000 --> 00:42:37,824
+snap my kneecap or something trying to do squat 500 pounds and I'm not even capable of that. What do you mean? Why? Have I given you my... I was going to say because every once in a while I'm in the gym and I'm in training peaks on my phone like recording my workout like writing it as I go. I always wonder oh god I hope I'm not in somebody else's like training peaks or it doesn't like glitch out and like...
+
+99
+00:42:37,824 --> 00:43:05,584
+put my workout for somebody else and they're going to go, you want me to lift how much? How many single-legged squats? What? I've never even done one of those before. Yeah. Thankfully, training peaks has never glitched like that. And well, I also think that one of the other things is that you kind of bring up that's a really good point here that I just learned is apparently a logical fallacy where basically it says that the average is not the individual.
+
+100
+00:43:06,032 --> 00:43:34,480
+when it comes to like a cookie cutter training plan. So like when it comes to what's going to work for people, I always tell new athletes if we're going to do like a taper or we're going to do a rest week or we're going to do something like openers, I'll just say this is the kind of middle of the road thing. Let's see if it works for you. And if you want to modify it based on your experience, great. Because most of the people where I go in the middle of the road haven't had an experience like
+
+101
+00:43:34,480 --> 00:44:04,416
+doing race openers two days out or they haven't had an experience of doing a rest week of super chill or with a little extra volume or whatever it is. And so we get to adjust based on how they're doing going forward. It's an iterative process based on the individual. And I think that the average is not the individual thing comes down to stuff like that where maybe doing
+
+102
+00:44:04,416 --> 00:44:32,640
+You know, certain types of workouts are really good for some people when it comes to certain aspects of fitness, and they're garbage for other people. And if you do a scientific study where it says this average, blah, blah, blah, this works for on average, may not work for everybody. And when you see in papers, when you look at the individual responses to certain like training protocols or interventions or whatever you want to call it, you know, we'll see like out of like eight people, we'll see.
+
+103
+00:44:32,640 --> 00:45:02,000
+where six go up, we'll see one go across and we'll see one go down. And you want to know if you've got that person where their training response and their whatever metric of fitness you're measuring, they're going to be one of the six that go up instead of somebody where it doesn't have any effect or they get worse. Does that kind of make sense? Yeah, it does.
+
+104
+00:45:02,000 --> 00:45:30,672
+Since to me, I've seen just in my personal experience talking with people or like watching my girlfriend train or me, like if they're doing the same workout as you, like my girlfriend used to do some of my workouts and you'd actually, you'd expect one thing to happen and they would physiologically respond differently. She would, because she's a totally different type of rider. And then you start realizing that just because it works for you.
+
+105
+00:45:30,960 --> 00:45:57,936
+doesn't mean it's going to work for her at all. Or an example, if it works for you, it's not going to work for somebody else. Yeah. All right. So let me ask you another question. So that's kind of the stuff that makes a good coaching program. So what, you know, I think this is your verbiage. So what are the red flags that would define a bad program?
+
+106
+00:45:58,736 --> 00:46:26,704
+are complicated words that aren't backed up by scientific research. Are you thinking of somebody in particular when you say this? I'm not going to name any names. I always try to take the positives out of failures and move forward and try to see if I can use those as a means to have more success.
+
+107
+00:46:28,400 --> 00:46:53,488
+Promising shortcuts when usually there isn't any. Promising magical or mythical things that can happen out of your training with no scientific data to prove it. And usually there is nothing magical or mythical that happens. And the more times I've fallen for it, the more times I realize that there isn't a thing. So yeah, lots of fancy words not backed up by science.
+
+108
+00:46:53,488 --> 00:47:23,104
+People saying that they have all the answers to everything. Then obviously the traditional red flags, which would be some traditional red flags here. While it's on my mind, let me ask you something kind of tangentially related. Where previously your success has been used to, quote unquote, validate.
+
+109
+00:47:23,104 --> 00:47:51,472
+coaching methodology that may or may not have any real world or scientific merit. How did you feel about that? Were you personally offended or were you happy? Like, oh, look, yeah, I see it works. So how did you kind of feel? It's kind of odd. It's almost like you're trying to figure out whether it's the coach's process that's making you or whether you're making the coach's process. And at first, you almost get like,
+
+110
+00:47:52,016 --> 00:48:15,216
+tricked into thinking that whatever it is is really working. But actually listening to one of your podcasts the other day, you were talking about some athletes are high responders and other ones are not. And so I started realizing later on that perhaps I did have some natural talent and I could make
+
+111
+00:48:16,208 --> 00:48:44,464
+And most, if any, training work fairly decent enough to prove somebody's point, but whether it was actually scientifically working in the long term was yet to be seen. And so it gave me enough to make me think that it was working for a while. And then you start realizing that maybe it's not the science behind the coaching that's working so much for you as it is like your own intuition and your own just hard work.
+
+112
+00:48:44,688 --> 00:49:14,224
+Yeah, so kind of in that vein, how important do you think it is that people understand on some kind of deep level, even if it's not the deepest level, the training that they're doing? I think connecting your mind to what you're doing is huge. I do experiments like this all the time on myself.
+
+113
+00:49:14,416 --> 00:49:36,640
+Fear towards a workout and maybe I don't understand it because it looks really difficult and you try to work do the workout you put yourself into more of like a fear based fight or flight response style of of doing the actual movement and you find you get a certain amount of performance out of it then when you put yourself into like an experiential based
+
+114
+00:49:36,640 --> 00:50:05,840
+understanding of the workout you tend to go into more of like a performance based mindset and you lean into the workout more and you find you actually get more out of it like physically I don't know if I have all the terminology so to speak to like back it up but it seems to me like understanding what you're doing with your body and furthermore connecting your mind to the very workouts you're doing almost gives you greater
+
+115
+00:50:07,344 --> 00:50:30,128
+Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk Ozturk, Jason Cousin, Berk
+
+116
+00:50:30,128 --> 00:50:54,352
+who promotes it and is like, okay, we can do this. This is what you want to do. Let's do it. And like you become better. And so understanding from a certain level, you don't have to understand everything, but understanding the basic forms, why you're doing something, why it's working for you and how it's going to improve. It's almost like you get into a different style of thinking and operating and you perform better. That's just personal experience.
+
+117
+00:50:54,352 --> 00:51:20,544
+I think that's the most California answer I've ever heard. But I appreciate it. I think you're right, actually. Because, well, usually what I would say is, I'm going to say it a different way than you would say it because I'm a total nerd. I would say that it makes the athlete's decision making on the day better if you understand what you're doing and why.
+
+118
+00:51:20,544 --> 00:51:47,808
+So when it comes to like a VO2 max workout or a threshold workout, with threshold workouts especially, I tell people never add more power. There's like five people I've ever coached where if they add more power in a threshold workout, I will believe that their threshold has gone up. But most people, I'm just like stick at this same wattage and we're going to figure out later if your threshold has gone up because a lot of people get ambitious with threshold workouts. Like they'll be like, oh, I think I've been training for –
+
+119
+00:51:47,808 --> 00:52:15,184
+threshold for, you know, it's been six weeks, it's been two, three week blocks with the rest week. And I bet I've gained, you know, if I gain a watt a week, maybe now I've got six more watts. Or, you know, if you think you gain two watts a week, now I've got 12 more watts. And you go out and you try to go 12 watts higher than you previously were, maybe that's not going to be a good idea. So maybe your threshold has not gone up. And so it's one of these things where understanding that, you know,
+
+120
+00:52:15,184 --> 00:52:40,544
+Early on in the training process, the threshold typically goes up. And later in the training process, it typically doesn't. It's one of those types of understandings where I think people will go, oh, I'm feeling good. That doesn't mean I do more watts today. That means I'll do another interval. So I think that's kind of the same way of saying what you were saying, is when you kind of connect with the workout, you know.
+
+121
+00:52:40,544 --> 00:53:09,408
+what the purpose of the workout is and how it's going to affect your fitness. And therefore, you can say, all right, now I know that if I do this, that, or the other thing, this is going to make the workout better. Yeah, I guess from a scientific perspective like that, you laid that out really well in that sticking to the numbers that you're prescribed with and knowing the outcome it's supposed to give you will allow you to better follow the workout plans that are written and have...
+
+122
+00:53:09,408 --> 00:53:37,296
+better faith and understanding as to what they're supposed to give you afterwards. And if that's not particularly happening, you can communicate better as an athlete. And I think that's – they hit the nail right on the head with that. Well, and I think actually that gets to one thing that I would say that people would want to look for in a coaching relationship too because you talk about communication and I always talk about communication too.
+
+123
+00:53:37,296 --> 00:54:02,080
+It's not only communication, it's feeling like you can ask your coach why. Like on the Instagram AMAs the other week, somebody asked me, oh, I've got these sets in reps at this percentage of FTP or whatever. Does this seem right to you? And I was like, I don't know, ask your coach. And they did. And the coach changed the workout.
+
+124
+00:54:02,080 --> 00:54:21,664
+to be, you know, to, you know, have a different like target or something like that, like based on RPE or whatever it was. And it was an adjustment that if I were giving that workout, I would have been like, yeah, this is the way to go. You're right. And people have asked me all the time, does this workout seem right? I thought it was kind of, this was more of the point. I'm like.
+
+125
+00:54:21,664 --> 00:54:44,144
+Yeah, you're right. I had a brain fart when I wrote that one. So we're going to change it. So does that kind of make sense? Like, like having a confidence to ask your coach, why are we doing this? And, you know, maybe a bigger purpose kind of stuff? Yeah, I mean, the why gives you kind of like a foresight as to what you're working towards, per se.
+
+126
+00:54:44,272 --> 00:55:14,000
+Why am I doing this? I'm doing this because it's supposed to elicit this outcome. And so I can do this today and tomorrow and over the next couple of weeks and I should see this. And if I don't, then I can communicate this to my coach and we can change things accordingly. So we do get what we need to get. It's almost like a scientific process to it.
+
+127
+00:55:14,000 --> 00:55:43,136
+having a good coaching relationship, you know, cause I, cause I, cause you know, when I, when I was like, Oh, I bet Corey would be a great coach for empirical cycling. Uh, it's because I, I feel like your experience, um, and just, you know, just you as a person in our interactions, um, I felt like that you would never be dismissive of somebody. And that's something that I, I look for that in, in a potential coach more than I look for understanding of scientific principles and stuff like that, because
+
+128
+00:55:43,136 --> 00:56:09,648
+because the personal relationship is so much more important than – because if we had some physiology researcher who's never coached a person in their life start coaching somebody, they might have all the scientific wherewithal to get that person's fitness to as high as it could possibly get, as fast as it could possibly get there. But getting there might be the rockiest road you could possibly imagine.
+
+129
+00:56:09,872 --> 00:56:35,152
+Yeah, connecting on a human level is you get that from doing those things yourself. I feel like maybe if I was talking to one of those scientific people like you're talking about there, they would say all these things and it was almost like they were speaking a different language like I probably wouldn't even understand. So I'm not to that level of science yet. I haven't taken eight years in college. I don't have a master's degree in anything.
+
+130
+00:56:35,152 --> 00:57:04,800
+just experience of riding the bike years and years and years. And so you can connect with people through that similar experience. Like if we were out at the race and they were talking about being nervous or they were trying to figure out how to go through this corner here or like, why is it this is doing that? I could explain a lot of those things and connect because I've been through that situation before. We sit there and you're like, huh, I wonder what I'm doing wrong. And then you sit there for like hours on until you figure it out. And so, or somebody tells you. Yeah.
+
+131
+00:57:04,800 --> 00:57:32,000
+Having good people for feedback really helps. Actually, that's one of the things that excites me most about you being part of Empirical Cycling now is you provide a level of racing experience that I don't have and Fabiano doesn't have and Alex has it and Katie has it and now you've got it as well. I think we've got a really balanced team between me and Fabiano being
+
+132
+00:57:32,000 --> 00:57:57,840
+I think we all have the same basic ability as coaches, but our strengths are a little bit different each. I think that's really, really excellent in terms of having a good team. Yeah, I think I may not have all the scientific terminologies, but what I could do effectively well is talk technical skills.
+
+133
+00:57:57,840 --> 00:58:27,664
+um you know cornering technique drills for practicing stuff like a lot of things like that I know like coming from lots of just different sports you learn how to practice things everything from like figure eight drills to how to practice braking properly and body positioning and things like that so a lot of that sort of stuff I can talk about when they're struggling in a race or this or that like I can I can also diagnose and help that sort of stuff or strategy and because you go through a lot of years of learning that.
+
+134
+00:58:27,664 --> 00:58:56,608
+Yeah, and because I think one of the things that I ask Alex and Katie and now you is like, oh, this person's having this trouble in this race. How do we help them? Because when it comes to things like smoothing out the corners of a criterium, you're really good at that. And somebody like me, I was never as good at it and I know the basics of it.
+
+135
+00:58:56,608 --> 00:59:23,056
+But, you know, I don't have that high level of understanding like you do. And, you know, likewise, whenever I have a question about, like, something medical or, like, blood tests or whatever it is, like, I ask Fabiano, like, hey, Fabiano, what is this? Like, how does this work? This person says they have to take this drug. Like, how is this going to affect the training? And, you know, there is, you know, we have each other as resources. You know what I mean? Yeah, and I think that kind of stuff, like necessity, kind of.
+
+136
+00:59:23,056 --> 00:59:44,608
+that breeds or teaches that kind of skill. After going through a corner 300 times and just getting beat up, you start learning how to become more effective with it because you have to. You can only do so many sprints at 800 watts until you're like, I better figure out how to go through this better if I get dropped. It doesn't matter what my FTP is. If I can't figure out this turn, it's not going to help me at all.
+
+137
+00:59:44,608 --> 01:00:10,672
+What is your process for that kind of thing, like smoothing out a criterium course or even picking the best line in a critical corner in a TT? How does your process of that work? I'm really fascinated because you're such a methodical guy. For somebody like me, I don't have as much of that split-second acceleration coming from a dead stop. What I have to understand how to do is...
+
+138
+01:00:10,672 --> 01:00:40,000
+pick my lines differently. So a lot of mine's about exit speed and exit velocity out of the turn. So I have to look at the course accordingly and figure out how to, first you have, if you were to get rid of all the riders and just ride. Yeah, do like ET around the course. Yeah. Yeah. So if you got rid of all the riders and looked at it without the riders component, like if you're in a criterium, you start figuring out how to pedal into each one of the turns to get the best exit velocity. So you start looking at
+
+139
+01:00:40,000 --> 01:00:59,200
+If there's no reflectors, no road furniture, the course is wide enough you can pedal and you just pedal the whole thing and you start figuring out how to take as many late apex lines as possible, which is like you're usually up on the brakes a little earlier, you open the turn up and you like lay the bike and you start pedaling into the turn and you start figuring out how to do
+
+140
+01:00:59,200 --> 01:01:11,920
+you know turns connecting turns turns after straightaways turn before straightaways you learn how to prioritize them based on the amount of speed you need and then we start adding the road furniture component in there then you have to figure out how to go okay well
+
+141
+01:01:11,920 --> 01:01:41,552
+There's a reflector here and there's a manhole cover here so that's going to move me out of my optimal braking spot and it's going to move me out of my optimal turn in spot in the apex so what I have to do is adjust accordingly I have to get up on the brakes a little earlier and come in here to get the best exit speed to connect to this turn and then when you start adding the rider component in there then there's like the dimension of people moving and drafting so you have to figure out how to sometimes you have to protect your line other times you don't have anybody there and you have the freedom of the course you start learning how to view the riders as
+
+142
+01:01:41,552 --> 01:01:59,184
+like mobile obstacles that are kind of moving around. You have to understand where you have wheel priority at, where you don't, where you want to put your handlebars at, where you don't, how to make space in a group and then take that line of momentum where in the end of the day, what you want to be able to do if you're somebody who doesn't have that sort of acceleration.
+
+143
+01:01:59,184 --> 01:02:23,440
+to never have to come out of the saddle. So if you can come into the turn, you can do like a sweep and open up space and then take that sort of late apex line and like dive up into the inside. Then you can pedal into the turn the whole time and all the way out. You never have to come out of the saddle where you're doing four or 500 watts. You've got for just like a blip instead of like 800. And if you've got that like spin up with your legs, you can actually just like stay seated, spin up.
+
+144
+01:02:23,440 --> 01:02:53,312
+you're already up to speed because you're taking a better line all you just connect back into the draft each time and so it's there's a lot of it depends on your engine the way you ride and your riding style so if you're like a very sprinty rider you can take more cut and thrust lines and come up the inside and sprint out of it if you have to cut and thrust I love that so it's like a motocross term it's like called a square up line you can take like a quarter turn a half turn or a full pivot turn depending on where the bumps are and how you go about it it's like hard break into it you accentuate the entry
+
+145
+01:02:53,312 --> 01:03:14,800
+into the turn, you break, you break hard, turn up the inside and come back out because you can accelerate and like dig out of the turn. Or for me, if I did like a straight break into the inside, I'd lose 40 wheels and go back because I don't have that explosive speed to get back up to, you know, up to the speed of the peloton. Well, I imagine in motocross too, it's a little different because it depends on...
+
+146
+01:03:14,800 --> 01:03:44,208
+I would imagine that you would have a style that you're more comfortable with, but then you've got to kind of be able to do all styles because you don't have to physically empty your own gas tank when you hit the gas. So I would imagine you have to kind of be fluent in different ways of taking a corner around other people to take position and whatnot. Yeah, I mean, I would say that if we looked at it from motocross terms to keep it simple,
+
+147
+01:03:44,208 --> 01:04:11,664
+There's usually one defining skill set at each track because you've got sand tracks, you've got hard bake tracks, you've got intermediate track, you've got tracks of ruts. And so there's a different style that's required to ride each sort of circuit. And then the track usually changes from like practice to first moto to second moto. And the later on you go into race, the more that particular topic is accentuated. So you have to understand how to set the bike up.
+
+148
+01:04:11,664 --> 01:04:38,272
+accordingly with suspension and the motor and whatever else, but then you also have to understand how to ride that particular skill set. Yeah, so I imagine that, well, obviously there's a lot less technical setup stuff with a road bike than there is with a motocross bike because we don't have suspension, but I imagine you think of tires as suspension. Do you like...
+
+149
+01:04:38,272 --> 01:05:06,816
+Would you want different tires for different courses? Like you want 23s here, 28s here, 25s here? You want this kind of grip here, this kind of tire here? Or is it just kind of run what you brought and change the pressure? Oh, no. Like bicycle setups are really critical. Like first of all, like how the body interfaces with the bike can really change the way in which you can produce power. And then if you're going to be like long, sustained, steady state, like sort of.
+
+150
+01:05:06,816 --> 01:05:31,120
+intervals. That's almost accentuates to one sort of setup. And if you're going to do maybe like sprinting, obviously like the way you'd set up your front end, the length of the stem with your bars really allows you interface into the bike and generate like peak sprint power. If we're talking about like technical riding, wheel depth, wheel width.
+
+151
+01:05:31,344 --> 01:05:56,848
+The actual rubber patch that's contacting the road and the PSI you put into it really makes a big difference as far as like spin-up speed, actual like sidewall traction when you go to corner and then like the how tight of a radius you can take and get the tire to actually like stay contacted to the ground even down to like if you're going to pedal turns like crank length and things like that so yeah a lot of that stuff is
+
+152
+01:05:56,912 --> 01:06:26,672
+You can get just as in depth with setting up road bicycles or even a TT bike as a motocross bike. And that's why I like it. The amount of like setup savvy it takes to set up a TT bike is a lot. Yeah, very high. Well, I mean, that's fascinating about, you know, thinking more about like that with a road bike because I think a lot of people just have one road bike setup and they just run that. So how many people, you know, racing at the top level in the U.S. do you know who get that in depth with their setup on the road bike?
+
+153
+01:06:26,672 --> 01:06:55,520
+I feel like there's some guys that are like, you know, kamikaze riders and they just kind of do whatever it is they think that works. And some guys are very calculated. You being one of the calculated ones. I think that was off of Talladega Nights. I think there's kamikaze riders and calculated riders only are talking about drivers, but still applies. Like if you're super calculated like me.
+
+154
+01:06:55,520 --> 01:07:18,784
+You tend to be more of a time trialist most of the time. We're the tech nerds. And so you learn how to set up your bike accordingly. You're not so much interested in kamikazing as you are doing a consistent effort for 30 or 40 or 50 minutes because it has to be repeatable each time to be able to last that amount of time. It doesn't do any good to be like super fast in one turn and then end up in the ditch in the next turn because you don't win your time trial that way.
+
+155
+01:07:18,784 --> 01:07:48,736
+That is a quantifiable fact. Actually, I wanted to ask you one more thing on this kind of stuff because you've got, you know, between your motocross experience and, you know, I think that kind of stuff gives you, because especially since you started doing it really young, you know, like what is it about cornering on a bike? Like where, let me put it this way. How do you know when you're at the limit of grip?
+
+156
+01:07:48,736 --> 01:08:15,632
+Do you have to wait for a wheel to start sliding or is there a tell that you have first? You can feel the feedback through the handlebars and usually through the pedal. Like if you're waiting the outside pedal super hard and you're waiting like the inside of the handlebar hard, like you're doing like I'm going to call it a counter steer style of turning. Like you can feel and actually hear like the feedback from the road. So you can you can feel like the bike like dig into the pavement and it gives you sensation that it's at like the limit.
+
+157
+01:08:15,696 --> 01:08:44,352
+and like if you go anymore it'll actually start sliding and you actually have to watch and read the road too because you'll go from one surface area to another like so if you go from like concrete to asphalt or if you're like cornering hard you're at the limit and it goes from like chip seal to like smooth road it'll like it'll have different traction coefficients you have to be able to read that on the fly and know whether you're gonna go from more to less traction be able to let up on the bike a little bit or you can ask a little more of it depending on what you see and what you feel so you can hear it and you can see it too.
+
+158
+01:08:44,352 --> 01:09:12,624
+So what do you think is the most interesting course in the U.S. for, you know, those varied terrains and surfaces and, you know, maybe like some cambers and hills? Like what is the most interesting to you? Well, like one that's in existence right now or? Yeah, or has been, you know, in the last five, ten years been used? I always like technical crits. Like I liked the crit at, what is it called?
+
+159
+01:09:12,624 --> 01:09:35,072
+I'm going to call it North Star Grand Prix where they had at the last day the Stillwater crit where it had the downhill and like the double off camber 90s coming into the finish with like a big acceleration bump at the end so you had to like pick your lines properly and it was like manhole covers and like splits in the asphalt so you really had to be like a line picking guy it was almost a rhyme of your writing like
+
+160
+01:09:35,072 --> 01:09:59,408
+You know, a mountain bike or it was almost like a mountain bike course on a road bike. And it was just like carnage because there was like this super steep, like I'm going to say like 12% average gradient for like 50 yards or something. So you had to really pedal up. You had to position well, you had to fight for position the whole time. The race just disintegrated from like 150 guys down to like a finishing group of like 15.
+
+161
+01:09:59,728 --> 01:10:29,168
+That's amazing. So those sort of races are fun because they're thinking through mindset. They're thinking through lines. You get to have the fitness. Everything comes into play. Bike setup. Yeah. All right. So I think that's about all I had on my mind for now. I am looking forward to having you on the podcast again. But before we split, is there anything else that's on your mind that you kind of wanted to touch on while we're here together recording?
+
+162
+01:10:29,168 --> 01:10:58,272
+Yeah, I think if you were going to advise athletes on what would be the best way and what would be the key points to look for in a viable coaching relationship. So if you were to put yourself in an athlete's position, what should they look for when they're going into a coaching relationship? What would be red flags of things to steer away from? What would be key points that you should look for as an athlete to get the most out of your coaching? What would you suggest?
+
+163
+01:10:58,272 --> 01:11:27,904
+Oh, me? Yeah. What would you suggest? If you were going to suggest to athletes, what would you suggest if you put yourself in an athlete's perspective? What would you suggest if they were going to go and pick out a coaching relationship? What would be something that you would tell them to really look for? I would say know what your own personal priorities are. Like if maybe you're okay with somebody who, I mean, how do I even put this?
+
+164
+01:11:27,904 --> 01:11:53,936
+If you think that the place where you want the most help is technical abilities, and let's say you're a mountain biker, you're an enduro or something like that, you're probably not going to come to me for coaching. You know what I mean? Although I have trained enduro people and they have gotten faster, it's not through my ability to teach somebody how to go down a sloppy, muddy mountain. It's about my understanding of...
+
+165
+01:11:53,936 --> 01:12:22,640
+The physiology and the fitness aspects of that kind of riding. And so if somebody's highest priority is understanding their workouts and good communication, I would say, yeah, you absolutely want to come to Empirical Cycling for sure. Like one of my biggest issues when I was racing on the road was I could never kind of close the deal in a race, in a criterium. Like I was like a lot of people.
+
+166
+01:12:22,640 --> 01:12:50,448
+My best performances were races of attrition and things that were kind of rolly races of attrition that came down to a sprint were very far and few. Few and far between, I guess, is the phrase. And so I was always looking for a coach who could try to teach me how to actually get to the end of a race with more gas in the tank because I was always basically empty. And I was always in like...
+
+167
+01:12:50,448 --> 01:13:19,584
+I was maybe like usually 10th wheel on average coming through the last corner of a crit with like no sprint in my legs because I was bad at cornering and I was bad at saving energy. So I would have loved to have met you and had you coach me back in the day because I bet I would have been a lot more successful. And so I think that is the number one thing for people picking a coach is what is my top priority? Like what do I want the most out of a coach?
+
+168
+01:13:19,584 --> 01:13:42,896
+And for red flags, I would say stay away from, well not stay away from, but a red flag doesn't necessarily mean you should stay away from. A red flag would be something very, you know, kind of like what we talked about earlier, like something very, very simple, too simple almost. Or like there's this one magic bullet.
+
+169
+01:13:42,896 --> 01:14:12,752
+and all you have to do is this and everybody's going to get a lot faster. Or if somebody relies on their own previous successes rather than their ability to coach somebody, I would say. Would I want to be coached by most of the previous races? Would I want to be coached by any of the last 10 Paris-Roubaix winners? I would say probably
+
+170
+01:14:12,752 --> 01:14:41,888
+Less than half of them would be a good coach, despite the fact that they won one of the hardest races in the world. And I have nothing but respect for people. Barry Ray is my favorite race, by the way, hands down. That's a pretty awesome race. Yeah. But it's not necessarily the fact that I would want to be coached by those people. I would want to have a long discussion with them first, just to make sure that I think it's going to be a good fit. And I think when I was trying to get...
+
+171
+01:14:41,888 --> 01:15:10,688
+Empirical Cycling Off the Ground as a viable source of just to pay my own rent. I figured that doing a podcast would be a good way to put out there what I've got in terms of starting that conversation with people and getting people familiar with me as a coach. Does that kind of make sense? I feel like I fumbled through that answer quite a bit. No, so I think you talked about knowing what it is.
+
+172
+01:15:10,688 --> 01:15:38,240
+You want to see in your coaching relationship and then knowing that there is no pure one magical thing that will unlock your secret hidden powers of athleticism. You have to do the work. Yeah, it is a long process. And actually, some of the most rewarding coaching relationships I have are the people I've been working with for three, four, five, six years.
+
+173
+01:15:38,240 --> 01:16:07,280
+where they might have started as a Cat 5 or 4 and now they're a Cat 1 or racing professionally or semi-professionally because then I really get to know this person and I get to know their life and I get to know how they respond to training and I get to know their goals very intimately and it makes programming things a lot easier and it makes communication a lot better and faster too when you really know somebody.
+
+174
+01:16:07,280 --> 01:16:35,888
+In terms of a rewarding relationship, somebody that you work with for a long time is, to me, is one of the best things about being a coach. And regardless of the level that this person performs at, they can be just some regional okay masters or they can be somebody like you winning national championships.
+
+175
+01:16:35,888 --> 01:17:04,128
+You share in the journey with them. You go along with all the successes and the failures and you're kind of along for the ride. Yeah, exactly. It's pretty cool. Yeah. Yeah. And I think that, you know, when I initially got into coaching, that wasn't something that I was really prepared to be so rewarding, but it really is. Yep. Cycling is a journey best shared. Agreed. Yeah. Isn't that funny? It's like an individual sport practice by teams, but...
+
+176
+01:17:04,128 --> 01:17:25,408
+you know when it comes to this aspect of things it really can take a village to use the corniest phrase in the world we got a couple corny phrases there that's a good way to end it right there I suppose it is okay thank you everybody for listening that was a great episode with Corey I had a lot of fun and we're obviously going to do more of this in the future
+
+177
+01:17:25,408 --> 01:17:51,232
+so if you want to work with Corey shoot me an email at empiricalcycling at gmail.com and we have other coaches as well who have roster spots we are always taking on athletes so if you're curious about anything just shoot me an email empiricalcycling at gmail.com also the same place to get in touch for any consultations and if you want to check us out on the Instagram that will be at empiricalcycling and you can follow some links to Corey's Instagram from there as well and
+
+178
+01:17:51,232 --> 01:18:02,320
+remember that we are ad free so if you want to donate to the show that is how we survive and keep the lights on here you can do so at empiricalcycling.com slash donate so with that we'll see you all next time
+

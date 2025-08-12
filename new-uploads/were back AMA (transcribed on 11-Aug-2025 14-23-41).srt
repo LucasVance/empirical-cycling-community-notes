@@ -1,0 +1,532 @@
+1
+00:00:00,720 --> 00:00:28,944
+Welcome to the Empirical Cycling Podcast. I'm still your host. I'm Cole Moore and Kyle Helson, still my co-host. We're still here. Thank you all for the wait. Appreciate your patience. Thanks for listening. And remember to please subscribe to the podcast if you haven't done that. I know it's been a while. You're probably all subscribed and this is coming up in your feed. Thanks for listening. Give us an iTunes rating if you would be so kind. Five stars. Does not go amiss. Share the podcast. That's the best thing you can do to support the podcast. But to support the podcast also, you can...
+
+2
+00:00:28,944 --> 00:00:58,224
+Give us a donation because we are ad-free and you can donate at empiricalcycling.com slash donate. We also have the show notes up on the website. We may or may not have time to post the questions for this episode, probably will, hopefully. We've also got merch at empiricalcyclingpodcast.threadless.com and for any coaching and consultation inquiries, questions and comments, you can email empiricalcycling at gmail.com and also Instagram at empiricalcycling. We've got some weekend AMAs in the Instagram stories and we've got a couple questions from the Instagram.
+
+3
+00:00:58,224 --> 00:01:02,576
+as well so give me a follow over there if you want to check all that out.
+
+4
+00:01:02,576 --> 00:01:31,888
+And one more item. If you're interested in Empirical Cycling Kit, we'll have a picture of it up on the show notes. If you're interested, just shoot me an email or shoot me a DM and let me know you're interested because if we have enough, I may be able to open a store on V13 for Kit and then it will be available all year round to order at your leisure. This is a no-profit thing for me. It'll just be at the cost. So if you're interested, let me know and that'll be that.
+
+5
+00:01:31,888 --> 00:01:42,416
+I'm back. We're back. Pardon the sound of my microphone. I'm in my new place up in Vermont.
+
+6
+00:01:42,416 --> 00:02:12,240
+and it's an industrial place with a metal corrugated ceiling so it's a little boomy in here and I have yet to sort out the audio treatment to get like a little less reverberation so apologies for that if it's a bit distracting but that's what's going on. So I asked on both Instagram and Reddit r slash velo the competitive cycling subreddit if anybody has any questions for the podcast because I figure for the first one back most people
+
+7
+00:02:12,240 --> 00:02:30,288
+We tend to get a little more listens to the AMAs, so we're going to do some AMAs to remind people that, hey, we are back. We will be having more episodes actually coming up soon. And so we're going to go with the Instagram questions first. Again, that's at Empirical Cycling if you want to give me a follow.
+
+8
+00:02:30,288 --> 00:02:56,096
+First question, do pro cyclists really use 80-20? Kyle, you want to take a crack at this one? I think first we should probably give everyone, for the people who are unfamiliar, a quick reminder of what the definition of 80-20 is. Oh, that's on me. Okay, cool. Actually, no, actually, this came up in the... Okay, off to a great start. So, in the Instagram stories last weekend...
+
+9
+00:02:56,096 --> 00:03:25,584
+Somebody actually asked me about 8020s and I actually did not know because I tend to prescribe things a little differently. So for 8020, it turns out it's actually the sessions. It's like 80% of your sessions should be low intensity, 20% should be high intensity, or it's like 80% 5 in the middle and 15 in the high. It was something like that. So the answer is really it depends. It's a phasic thing where it's a tool in the toolbox.
+
+10
+00:03:25,584 --> 00:03:55,264
+But I got to say that for me personally, it may end up like that sometimes, but most of the time, I'm honestly not thinking about it. I'm thinking about people's recovery rates. I'm thinking about how much of a certain type of workout they need to progress or achieve an adaptation. I'm not really thinking about, oh, this doesn't fit this predetermined schema for workout distribution. I think also you would probably be hard-pressed to say that regardless of what kind of cyclist you are,
+
+11
+00:03:55,264 --> 00:04:07,568
+that all of your training year round, regardless of what phase or period of training you're in, would fit the exact same structure like that. Like if you're in the off season or something.
+
+12
+00:04:08,272 --> 00:04:26,960
+doesn't seem like you would follow the same structure as if it's right before a big race and you're tapering or peaking or something like that. Yeah, that makes good sense. Okay, question two. Does eating cheesecake make you better at burning fat? God, I wish I could say yes to this. But actually, it's a good question.
+
+13
+00:04:26,960 --> 00:04:55,536
+So we're actually going to get into this in the Wattstock series because we're kind of headed there right now because next episode is going to be on what is aerobic and we're going to talk about what aerobic metabolism is and how the combination of carbohydrate and fat burning contributes to actual aerobic metabolism and so that is where we're going. So the short answer as a teaser
+
+14
+00:04:55,536 --> 00:05:08,144
+is no. And there's actually another question in here later, I think. It doesn't get much shorter than that. No, it does not. So, yeah. What...
+
+15
+00:05:08,144 --> 00:05:28,512
+What happens a lot of the time if somebody's eating a high-fat diet is you're actually burning the fats that you are intaking. So the actual endogenous fats, the fats that come from your stored fat tissues, seems to remain about the same and the increased fat oxidation rates come from the ingested fats.
+
+16
+00:05:28,512 --> 00:05:53,936
+Although if you are in a severe caloric deficit, so a lot of these diets, you know, to lose weight actually do achieve a caloric deficit in some way because you are more satiated by fats and proteins and such. And that can actually create the deficit and that will get you burning more of your own fat. So that's where that kind of fat burning thing will come in. So we're going to get into more detail on that later. How do over unders work?
+
+17
+00:05:53,936 --> 00:06:16,752
+that's a good question and there's probably well so again as same as last AMAs we did no prep for this other than checking out the questions a little bit beforehand and if we don't get to your question by the way sorry it was either way too long or it was one of those things where it's like it's probably not worth the listeners time to you know answer your very
+
+18
+00:06:16,752 --> 00:06:41,984
+Very specific question. And if the answer was just, it depends, then we're not going to answer it. So apologies for that. Everybody got on the radar, but we're sorry if we didn't answer your question. Email me or something and we can get into it. So how do overrunners work? I think there's two things here. The first is obviously that you get to make more power. You use larger motor units. That's nice. And that...
+
+19
+00:06:41,984 --> 00:07:05,136
+helps train those aerobically. And the other thing is that, you know, it seems to get the body a little better at burning lactate as a fuel. I have actually not done that much research specifically into that exact mechanism. So I may be talking out of the wrong end of my body. So it's something like that.
+
+20
+00:07:05,136 --> 00:07:33,072
+What I can tell you for sure is that, you know, experientially, they definitely work really well and they're an integral part of threshold training. So, okay, here's another one, interesting one on fat. So next question is, will approximately 10 minutes of back-to-back FTP efforts with no eating in between or fasted 10-minute efforts improve fat burning at threshold the same way longer FTP intervals do?
+
+21
+00:07:33,072 --> 00:08:01,488
+Kyle, speculation First pass speculation is that the reason that you burn more fat is we've talked about this before on longer intervals is because your body initially covers things with stored glycogen but then as the duration goes on and on and on you start covering it with your slower metabolism systems which is burning fat
+
+22
+00:08:01,488 --> 00:08:30,960
+With 10 minute efforts, we've talked about this before too, 10 minute threshold efforts are like maybe as short as you would ever want to run something of an FTP effort. Yeah, I think that's actually what this person was getting at. The actual question was longer. This is my summary of their question. So if I totally botched it, my apologies. But yeah, the answer is really no, because what you need to do, well,
+
+23
+00:08:30,960 --> 00:08:54,288
+So here's a question. Does not eating improve the adaptation? And I would say at intensities like FTP, you definitely don't want to do this fasted. Because even if you are a good fat burner at FTP, like let's say it's like 50-50 fat and carbs at FTP, you're still going to be using a lot of carbs. And especially if you push that duration out and out and out a lot.
+
+24
+00:08:55,504 --> 00:09:24,208
+Excuse me. You are going to actually get better adaptation by eating and doing longer intervals than if you don't eat because you'll be able to achieve less interval time. And interval time here directly correlates, in my opinion anyway, with the adaptation achieved. So if you could do longer FTP efforts by eating more, you want to do that for sure. Eating will not interrupt aerobic adaptation. I also think that...
+
+25
+00:09:24,656 --> 00:09:46,048
+This kind of seems like one of those times where maybe you're trying to chase too many goals simultaneously. Like if you want to do FTP work, maybe focus on FTP work. And if you want to do fasted rides, you know, split those off as different on different days. Yeah. And we've talked about that a little like fasted rides a little bit before where they definitely have their place. And if they work for you, that's great.
+
+26
+00:09:46,048 --> 00:10:15,248
+Putting them together seems like a recipe for disaster to me. Yeah, I've experimented with some people. It's been full disclosure. I told them it could go badly if they want to do it. If they don't want to do it, it's fine. With some tempo-type efforts fasted, and for some shorter rides, it actually works okay if that's a thing that we want to do, but also at the same time, it's like most of the time, honestly, it's not worth it for most people because doing that kind of ride,
+
+27
+00:10:15,248 --> 00:10:44,224
+Honestly, it sucks. It's not fun. Most people are not great at that kind of thing. I'm not good at it myself. And so, yeah, it really depends on the person. So it's a good it depends, but yeah. Okay, so next question. Why start some rides and intervals at targets lower than the actual target? Like, why start easy? And the specific mechanism of this is still under speculation, at least by me, because I haven't...
+
+28
+00:10:44,224 --> 00:11:07,472
+obviously had time, but it's been on my mind and I think one of the things is actually specific regulation of muscle perfusion. So I actually noticed this last night because I was riding behind somebody doing three by 20 threshold and the second effort actually for me was easier than the first at the same power output.
+
+29
+00:11:07,472 --> 00:11:36,752
+actually a little higher since they went a little faster on interval two. Interval three actually felt the easiest. So my threshold is actually not changing that much between these things, but I actually think the muscle takes a little bit of time to ask for the oxygen. And I'm not that well trained at this point aerobically, and so my muscles take a little longer to ask for blood flow than others. And if you're somebody who hasn't done a ton of
+
+30
+00:11:36,752 --> 00:12:06,752
+really good specific, like, aerobic, like, long intervals. This seems to be a thing that actually gets trained by that, but that's speculation. Does that seem reasonable, or does that not? Yeah, and I also think there's a practical aspect that we may have sailed over a little bit, and that's just, if you have some ride or some interval target that you want to actually hit, if you do end up, you know, feeling a little off or starting a little too aggressive,
+
+31
+00:12:06,752 --> 00:12:18,672
+It's better to come in a little under at the end than it is to blow up and die and just not make it. In terms of getting a workout in, if you just...
+
+32
+00:12:18,672 --> 00:12:45,360
+blow up halfway through and don't get it. You'll miss entirely. Whereas if you come in, oh, I don't know, a couple percent under or something, who cares? No, that's actually a really good point. And actually, that reminds me of the actual practical thing that I was going to mention that I had completely blanked on. Thank you, Kyle. Which is that if you start over your target or even at your target and you're not totally warmed up yet, you can actually, if you're...
+
+33
+00:12:45,392 --> 00:13:13,776
+Not quite there aerobically, like with your warm-up, you are actually going to churn through your glycogen stores very rapidly, especially if you start a little hard, like, especially working, like, with threshold stuff, like, this is why I always assign threshold a little under where it actually is for people, because if you start a little hard, or you're not totally warmed up, you can really, really pre-fatigue yourself very quickly with even five or ten minutes, like, over your...
+
+34
+00:13:13,776 --> 00:13:39,616
+assigned target. So starting a little low, it very much ensures that you will get through your whole interval set. But starting high is, you know, a little not quite there. It's brave. It's a bold strategy, Cotton. Brave? I actually think it's more brave to, like, suck it up and admit to yourself, I should start easier instead of, like...
+
+35
+00:13:39,616 --> 00:14:08,720
+going for PR watts every single workout. All right, next question is thoughts on track endurance training, five to ten minute events. I have many thoughts on track endurance training. This is actually where specifically every person is going to be a little different because five to ten minute events are still highly aerobic. But it's a range of time. And somebody actually asked this question in the later questions as well. So this also goes for the...
+
+36
+00:14:08,720 --> 00:14:18,048
+The shorter TTs, like 10 to 30, 60 minutes, something like that. Well, 60 minutes is not a short TT, but like 10 to 20 minute TTs, something like that.
+
+37
+00:14:18,048 --> 00:14:47,376
+it's still highly aerobic and so that means you know unfortunately if you think it's gonna mean that you have to train less it actually is quite the opposite you still have to train aerobically which means the long rides and all that kind of stuff but it also means that you need to pay attention to your anaerobic stuff because if you want to maximize that contribution as well then you're gonna need to like lift weights you're gonna need to do capacity work and sprint work and all that kind of stuff so it's so it's really one of those like you've got to kind of cover everything and if you're somebody like me you're kind
+
+38
+00:14:47,376 --> 00:15:16,112
+where we're really well trained with anaerobic and sprint type stuff. If we were going to go start doing track endurance stuff, obviously we would have to really work on the aerobic side. But some people who are aerobically trained may find benefits from working the anaerobic side instead. I think also there's kind of a weird trick here where early on at lower category events for track racing, they're very short. But then at the end, once you get up to cat...
+
+39
+00:15:16,112 --> 00:15:36,816
+1, 2, 3, you can be in a 40-kilometer points race, which is all of a sudden like a crit, right? That's a full-on crit. And so you all of a sudden have to start adding in more and more and more endurance because all of a sudden your events are going to literally triple or quadruple in length.
+
+40
+00:15:36,816 --> 00:16:06,080
+And you'll find that you still have to race two, three times a day. So like the new Omnium format, you do four events that are all, you know, 20 kilometers or longer in one day, which is, you know, you add that up, that's a road race with a few breaks in between. Yeah, right. Yeah, so all that kind of stuff needs to be considered. All right, next question is how to train to maximize FTP with no regard for TTE, specifically for people in five to 20 minute events.
+
+41
+00:16:06,080 --> 00:16:35,968
+You can't really stop your TTE from going up. As you get fitter, it's going to go up. It's like if you try to get stronger but want to somehow avoid gaining any muscle mass at all. If you're going to lift weights, you're going to gain some muscle mass. Anyway, I would think that a lot of times in this, we've talked about with FTP training specifically, just increasing the time.
+
+42
+00:16:35,968 --> 00:17:02,992
+So 2x20, 3x10, 3x15, 3x20, 4x10, etc. So you're just adding in time. So you would maybe just not add in time and work on more slowly or instead focus on increasing intensity slightly instead of ramping up volume. But you would still at some point need to increase volume as well. Yeah, because you still need general aerobic stimulus. So you still need something...
+
+43
+00:17:02,992 --> 00:17:27,824
+generally for your muscles and volume will do that. There's only so many hard intervals you can recover from. But, you know, I would say that VO2 max focusing... Well, here's the thing is like FTP's ceiling is VO2 max. So if you want to raise your VO2 max, you're going to have to do a lot of volume and you're also going to have to do VO2 max work. So, you know, I would say if you wanted to raise your FTP without regard to TTE, I actually find...
+
+44
+00:17:27,824 --> 00:17:51,248
+working on TTE. Actually, when TTE gets long, it's a really good time to do VO2 max work and bump up the FTP. It seems to work really well once TTE gets out to an hour, maybe a little longer, something like that. But I would say if you really don't want to do that, if for some reason you just don't want to do any longer than a 2x20 FTP,
+
+45
+00:17:51,376 --> 00:18:20,832
+I would say keep doing the long rides and just do a lot of VO2 max work and do a bit of, you know, FTP work in between and don't burn yourself out and just do a lot of that. And, you know, like a lot of, I think actually a lot of, I don't want to name any names, but there are a lot of training programs out there where TTE is completely disregarded and FTPs go up anyway and TTEs all stay really short, like 35, you know, 30 to 40 minutes, something like that.
+
+46
+00:18:20,832 --> 00:18:49,056
+and so you know getting on one of those programs might go well for you or may not who knows so all right so that's all of our Instagram questions questions from Reddit Velo any benefit to low cadence over unders yes so the short answer for this is somebody else actually I think later asked about low cadence type stuff
+
+47
+00:18:49,056 --> 00:19:16,048
+specifically with tempo. So yes, when you do pedal slower, the force increases, and so the obligate use of larger motor units happens. Is that the best way to train larger motor units? No, I would say. The way I've learned to train large motor units really well with low cadence is actually to do, this is a big secret I'm going to give away, but you know, screw it, try this. When you do over-unders,
+
+48
+00:19:16,048 --> 00:19:36,224
+Do the overs with low cadence. So that way, not only are you getting into big motor units, you're getting into much bigger motor units. So your low cadence time, and you've got to be judicious with this, like maybe 10 to 60 seconds max for the overs. You can pretty well get in a lot of...
+
+49
+00:19:36,224 --> 00:20:04,752
+a lot of reps with low cadence and getting into those big motor units at higher power values and then doing your unders at normal cadence to give them a break using your more well-trained smaller motor units that seems to work fairly well for a lot of folks but I used to use it all like a lot of the time with a ton of people and I have kind of moved away from that because sometimes it doesn't go that well for some folks and also it I find that if somebody doesn't specifically need it
+
+50
+00:20:04,752 --> 00:20:31,312
+You know, it may not be worth doing all the time. So thoughts? Yeah, I think that you kind of nailed it. Like there is a benefit. Yeah, like if you don't need that work, then if you don't need if you don't need that adaptation, you don't need that training, then like don't do it. Like maybe do if you want to do it for fun. Great. Like knock yourself out. But, you know, feeling like you need to do something because other people are doing it.
+
+51
+00:20:31,312 --> 00:20:55,920
+is not necessarily a good reason. Yeah, so actually this person also asks two other questions, and normally I was just trying to pick one question from folks, but I thought these other two were really good. Since VO2 max declines and becomes less trainable with age, should older riders trend to becoming more anaerobic-focused athletes? I would say...
+
+52
+00:20:56,112 --> 00:21:24,880
+Well, let me read the second question first. Is it, quote unquote, easier with age to develop into a better anaerobic rider than a better aerobic rider? So should people focus anaerobically as they get older? I would actually say you probably want to do some weight training, which is more or less anaerobic training as you get older, just because, you know, you need to load your bones and put some tension on your muscles to keep your muscle around and also to make sure your bones don't become hollow and brittle, which is something that, you know...
+
+53
+00:21:24,880 --> 00:21:31,216
+Can happen if you're old and you don't do any weight bearing activities. So I think for health, you should do that. But, you know, is it...
+
+54
+00:21:31,216 --> 00:21:56,896
+Easier to train anaerobically as you get older? I would say it still depends on the person because I know some people, there are some world's strongest man, quote unquote supplements, notwithstanding, that are getting into their late 40s, early 50s even. They're still really, really strong. So it is possible to still develop, but only if you have the potential, I would say.
+
+55
+00:21:56,896 --> 00:22:15,360
+You know, because a lot of people, I'm sure, you know, even when they're young, try to do a lot of, you know, weightlifting and they don't, they can't really like get bigger or they can't really get stronger. So I'd say it's a personal potential thing as well. So that adds a complicating variable. Yeah. For, I mean, for some of those like really old, like world strong or not really old, but those older world's strongest man.
+
+56
+00:22:15,360 --> 00:22:40,960
+competitors and stuff like that. It takes a long time to get that big, right? You can't just be like, I'm going to get to Eddie Hall's size in a year and actually hope that it's muscle without a ton of training and maybe a ton of Soviet sports supplements. I think that's another reason why. Look at...
+
+57
+00:22:40,960 --> 00:23:08,832
+How big, like just physically how much those guys weigh. And it's like, yeah, you can't gain 100 pounds of muscle. Yeah, they're all like 400 pounds. That's a very large amount of human to be. Next question is, do you think most of the human population is fast twitch dominant? I've noticed when people take genetic tests, many people have the ACTN3 gene. Is that why there are only a handful of 80 plus VO2 max people in the world? So I do think...
+
+58
+00:23:08,832 --> 00:23:34,144
+A lot of the human population is fast twitch dominant, not for training reasons, but only because when you are inactive, your muscles all become fast twitch. It's just a thing that happens. If you biopsy somebody who does not have use of their legs, their legs will basically have no mitochondria in them because there's no stimulus for it.
+
+59
+00:23:34,144 --> 00:23:59,520
+And, you know, genetics notwithstanding You're a cat and you sleep all day Yeah Or, you know, well actually we should consider genetics because, you know, just because you have a certain genetic profile does not actually mean that you are going to be phenotype X or Y or Z or some combination thereof It usually means that, you know, there's a lot of steps that go from a gene to actually
+
+60
+00:23:59,520 --> 00:24:26,704
+The final product and the reason that, you know, humans are and just, you know, animals in general are or living things are fascinating. It's because, you know, there is the ability to adapt to your environment, not like, you know, generationally, like in Darwin sense, but also like, you know, you can adapt to getting stronger. If you need more strength, you can adapt to better endurance. If you need more endurance, like humans are very flexible. So and fiber types are part of that.
+
+61
+00:24:26,704 --> 00:24:36,352
+and fiber type, I would say does not have, I can't say for sure, but, you know,
+
+62
+00:24:36,352 --> 00:25:04,096
+If you're going to have a VO2 max of over 80, you know, being very slim helps a lot. Also having a very gigantic heart helps a whole lot. And fiber type is not going to influence really the size of your heart. It might influence certain other factors muscularly, but in terms of central factors, not that much. Yeah, I think also in terms of just finding people who will test a really high VO2 max, like
+
+63
+00:25:04,096 --> 00:25:32,720
+They have to probably be doing a sport where that would be tested. So if you're a really great basketball player or something like in the U.S., what are the odds that you're actually ever going to do a treadmill VO2 max test? It's actually pretty low. That's not a number the NBA combine cares about. Or if you're a football player, that's not a number that the NFL is going to care about or even baseball. Maybe they'll care about it in hockey. Maybe they care about it in soccer.
+
+64
+00:25:32,720 --> 00:26:02,320
+for a lot of these sports, like it's just not going to be tested. So there may be someone out there who a ton of people out there who have the potential to train and test over 80 for VO2 max, but they're just not doing it. Uh, yeah, potentially. And if, you know, if you are going to test over that, you might actually, um, be much more slow twitch dominant because to get there, you've got to do a ton of endurance training. Um, so, you know, um, yeah, so fiber type is not everything. It's really the bottom line.
+
+65
+00:26:02,320 --> 00:26:29,888
+Okay, so next question is how to determine whether to extend time at intensity or start pushing higher, specifically in the 8 to 60 minute interval range. So this is a very strange question because this kind of overlaps FTP intensity for like 60 minute range because, you know, your TTE could be anywhere between 30 and like 80 minutes. But shorter than that, then you're getting into the, you know, anaerobic capacity slash VO2 max overlap range. And so...
+
+66
+00:26:29,888 --> 00:26:49,648
+So it's really a question of like, you know, if you're doing targeted intervals, you know, honestly, do both. Especially if you're over threshold, do both. Do some anaerobic capacity intervals. We'll probably do a couple episodes on that kind of stuff in a, you know, in probably a...
+
+67
+00:26:49,648 --> 00:27:16,784
+I think so, yeah.
+
+68
+00:27:16,784 --> 00:27:44,864
+We've also talked about this in other episodes before, talking about VO2 max and FTP training, where if you can push both, both time and intensity, and not bury yourself in overtraining, do it. It also can be a way to mix up. Like if you've been doing a lot of extending time, then maybe start raising intensity or vice versa. It can be a good way to just change up whatever training you're doing at the current state.
+
+69
+00:27:44,864 --> 00:28:11,392
+Yeah, for sure. And be fresh for that kind of stuff, too. Especially if you're going to really do the, you know, raising the power and intensity kind of thing. It can get really rough, especially if you're not quite so fresh. Okay, so somebody asked some very interesting questions. I'm actually going to pick and choose a handful of these. The short version, where in the power curve can we see improvements in oxidative capacity of larger motor units?
+
+70
+00:28:11,392 --> 00:28:34,336
+Parentheses. Please say FTP. Close parentheses. Not FTP. I'm so sorry. But also kind of FTP. So yeah, you're almost on to something. Like if your FTP is going up to push the higher power, you are going to have to use a little more motor units. But like, you know, 5 or 10 watts difference. Eh. Eh. So long version.
+
+71
+00:28:34,336 --> 00:29:02,096
+Poor anaerobic repeatability of VO2 max and higher efforts despite high volume. Am I simply lacking work in these larger motor units? I would actually say yes. Kyle, what say you? Yeah, probably. I mean, it's hard to know without seeing maybe some more data, but. Yeah, with this one tidbit, I would say you want to work on repeatability. So here's a fun anaerobic capacity and repeatability workout I've been giving to people.
+
+72
+00:29:02,096 --> 00:29:30,672
+is, let's say, I've done a couple versions of this myself. Kyle, I haven't given all of these to you because you're better at these than I am. But 20 to 30 seconds max effort, all out seated, be seated. So if you stand, you're really going to bury yourself a little far. Be seated and then rest for like two to three minutes and then do it again. Do that like four to six times.
+
+73
+00:29:30,672 --> 00:30:00,320
+Do maybe start with like two sets, work up to four, and that should help. Also, you can do it with longer efforts. Like you can do, you know, three minutes on, three minutes off, two minutes on, four minutes off. You can do any kind of version of these. But the bottom line is, yeah, you got to work in some sort of higher intensity repeatability. And that's one of the things that I see some training programs, especially self-coach people kind of forget about. But especially if you're getting ready to race, you really need to do a couple versions of that kind of thing.
+
+74
+00:30:00,320 --> 00:30:25,376
+Those get dark real fast. They get dark and not just your vision, but your view on life for sure. I like this last question actually that the person asks. So what are the best things an athlete can do to have a healthy relationship with their coach? I really like that one because the number one thing you can do is talk to your coach.
+
+75
+00:30:25,376 --> 00:30:34,816
+It's one of those things where when you work with somebody one-on-one, communication on that level really, really improves things.
+
+76
+00:30:34,816 --> 00:31:04,240
+I'm having a kid or there was a death in the family. You don't have to get into details. Just say something. Just tell your coach how you're doing, how much stress is in your life. You don't have to get into detail again. But just let somebody know how you're doing. That's really one of the best ways to improve that relationship. And also the quality of the coaching and the workouts that you're getting. Because if you're super stressed, your coach is probably not going to give you a whole bunch of hard work. It's going to be like, oh, you're not feeling well? All right, take the damn.
+
+77
+00:31:04,240 --> 00:31:21,328
+Yeah, I think you hit it. Just be honest and also be open.
+
+78
+00:31:21,648 --> 00:31:51,568
+Don't be afraid to ask questions. I think that's one thing. Some people like it a lot. Like I want to ask my coach all these questions. And if your coach doesn't like that and you want to ask questions, then maybe that's something you should work out. Because if you're not getting – it's like any other interpersonal relationship. If you're not getting out of it what you want, then keep in mind there are other options. Also, I think that some people want to say, oh, I just want to do –
+
+79
+00:31:51,568 --> 00:32:09,152
+Whatever my coach says, don't ask any questions. I'm paying them so that they think about it and I don't have to think about it, blah, blah, blah. That's great. And if that works for you, that's really awesome. But I also think for those people who think like, I'm just going to do whatever my coach says, like those people also should be
+
+80
+00:32:09,152 --> 00:32:37,072
+is still paying some attention to how they feel. Are they getting faster or slower? How do they feel? Tired? Not tired? Like, yes, there is something to be said for trusting the program or trusting what your coach says. But if all of a sudden you just feel like ass for a while and it's unexpected, like, hey, maybe you say like, hey, this actually doesn't feel right. You know, like you spend enough time training and riding your bike or doing any sport, really. You get to know your body pretty well and you can.
+
+81
+00:32:37,072 --> 00:33:05,984
+Kind of tell if you feel off like I used to think you know how sometimes you push yourself and maybe you didn't get a lot of sleep and you can kind of tell like oh man I'm like just about for sure just about to get sick even though you haven't you know got a cough or the sniffles or anything you're like oh I feel terrible I bet I'm gonna get sick sort of in that same way like be honest with your coach and tell them if they if you feel bad or if you think something is not working for you even if you're you know a trust the process person. Yeah.
+
+82
+00:33:05,984 --> 00:33:28,784
+For sure. Yeah, and also, like, look for your own progress, too. You know, my athletes all hold me accountable for, like, hey, coach, what about this, that, and the other thing? And, you know, then we have a discussion. And, you know, also, quick plug, all Empirical Cycling coaches are taking athletes right now, so get your inquiries in.
+
+83
+00:33:28,816 --> 00:33:57,920
+That's me, Alex, Fabiano, and Katie. All of us have open slots. So some of us more than others, some of us less than others. But get your inquiries in. We will find you a good coach. Next question is, besides lots of long zone two rides and nailing bike fit, are there significant differences in training for an ultra, 500 miles in this case, versus regular training? Kind of. Because ultra actually requires a lot more logistics. Like a two-hour bike race.
+
+84
+00:33:57,920 --> 00:34:26,928
+I don't even carry a saddlebag if I'm going to do one of those. Not that I am anytime soon. It's logistical. You've got to make sure that your nutrition plan is on point. If you've got aid stations or if you've got to go to grocery stores and gas stations, you've got to make sure that everything is ready because you don't want to spend an hour wandering around the grocery store going, oh God, what am I going to eat? You can be in and out in 10 minutes. So there's that. There's also, in terms of the...
+
+85
+00:34:26,928 --> 00:34:55,967
+like the actual training training thing. You know, you kind of want to stay on some long rides, like, you know, not like 20 hours, but like, you know, six to eight for a lot of the year. And you probably want to take the intensity and put it away from your like main workouts. And as you get closer to your to your actual like, you know, 500 mile goals, you're going to want to make sure that that you are getting a little more specific to your race because that is your race.
+
+86
+00:34:55,967 --> 00:35:20,976
+Does that make sense? Yeah, I think so. I think one other thing here too, and maybe this goes in with bike fit, but also clothing. Like all of a sudden those shorts that like feel okay for like four hours may not feel okay for nine or something like that. And maybe that's kind of rolled into doing lots of long zone two rides. You figure out what bibs are not comfortable for that period of time.
+
+87
+00:35:20,976 --> 00:35:46,384
+but having something absolutely reliable that you can wear day in and day out. If you're going to Lachlan Morton it up and ride the whole tour route unsupported by yourself, you better have a rock solid set of clothes that you know you can wear. Yeah, you want to wear that hole in your chamois and not in your sit bones for sure. All right, next question. What is your favorite effective sprint workout? Kyle, I'm going to give it to you first. What's your favorite?
+
+88
+00:35:46,832 --> 00:36:15,904
+I think honestly this is so cliche because it's very boring but just doing I mean doing accelerations I think is my favorite just because it lets you both get a little bit of like lower cadence work to like get on top of a gear but then also if you get on top of it then you have a little bit of time to spin it out and so kind of really work on that idea that like if you're gonna sprint you have to commit and like
+
+89
+00:36:15,904 --> 00:36:43,680
+You, you get, if you're getting out of the saddle and sprinting, like you have to spin out the gear and not just be like, oh, I'm going to get up to like kind of high speed, like practicing, like going deep and like really, really actually tapping out of gear, I think is really useful because otherwise, you know, and this is maybe a track thing too, but yes, you can shift, but sometimes, you know, maybe you're coming into the final of a bunch sprint and you
+
+90
+00:36:43,680 --> 00:37:12,304
+It's shorter and so you don't have enough time to let up that half a second, just a little bit of click to click it into a bigger gear and keep sprinting. You have to spin it out in whatever you're in because you're going to the line and that's it. You're running out of road or something like that. Yeah, I would say that's a good one. Even for roadies because that's a thing that roadies don't usually do. Even though it's more specific to trackies like yourself.
+
+91
+00:37:12,304 --> 00:37:34,192
+It's definitely a good one. My favorite, personally, is to coast up to speed, like race speed, like you're coming out of the draft at that speed, and then stand and absolutely send it. Partly because, you know, you get a lot more peak power that way, but also because the speed is so much fun. It's so much fun, I mean...
+
+92
+00:37:34,192 --> 00:37:58,736
+Good point, yeah. Yeah, I would just like slam it 5311, like coast up to like 25 miles an hour at stand and just hammer as hard as I could. And that acceleration up to like 40, 45, 48 is like so much fun. I love that. That's one of my favorite workouts for sprinting. Actually, that's okay. So we got a couple of nutrition specific questions, by the way.
+
+93
+00:37:58,736 --> 00:38:26,944
+I have a nutritionist dietitian that I recommend my athletes to and we're going to have her on the podcast. So we're going to save nutrition questions for later. What metrics do you look at to trend repeatability over time? That is a good question. You can either look at the same workout or you can look at races with a certain variability index. That's the difference between the normalized and the average power. So if it's like
+
+94
+00:38:26,944 --> 00:38:56,608
+300 normalized versus 200 average. That's a VI of like 1.3 or no 1.5. Sorry. Um, so, um, you know, you want to look at VI over like 1.2 or something like that for stochastic efforts like races, but otherwise I just prefer to look at the same interval set. Um, something like that or, and also just how somebody feels is a really good indicator of that. All right. Next question is any plans to finish out the fat oxidation training discussions? Yes. Next couple of Wostok episodes. Thank you for wondering.
+
+95
+00:38:56,608 --> 00:39:25,920
+and how to implement them for average Cat 3-ish training like 12 hours or less. We'll do a separate thing for kind of low volume training. Next question is, is it particular if necessary, in particular, is it necessary to eat on every ride or if there's any way you think that there is to shortcut the process with some targeted fasting as implied in some previous episodes? So the fasting stuff,
+
+96
+00:39:25,920 --> 00:39:55,200
+You know, it's really like a low volume thing because I'm really cautious about that kind of stuff. And when it's not gone well with folks, we just cut it out right away. No sense in, you know, making somebody miserable, that kind of stuff. And it's really one of those things where it's like the last tool I want to reach for, honestly. I'd rather people eat and ride more and do better intervals. Does that kind of make sense? Yeah, definitely. I think people hear about fasted rides because you hear about...
+
+97
+00:39:55,200 --> 00:40:24,816
+you know pros doing it and I also kind of think you have to remember that pros are at that level where they have to start using all of the tools that are at their disposal because you reach that limit where you reach this sort of level where you cannot physically train more hours or more volume so you have to start doing other things but if you're still in that range where you can get away with you know not using as many
+
+98
+00:40:24,816 --> 00:40:48,112
+Tricks, let's call them, or high-risk, high-reward strategies like lots of fasted rides, then yeah. Yeah, and it's also one of those things where it can be, if you use it a lot, it can be a very strong stimulus for certain things. And it's like you've got to have a discussion with your athlete or yourself.
+
+99
+00:40:48,112 --> 00:41:14,384
+before you really undertake something like that. And it's not something you want to do every day either. You want to do it like once a week, like twice max, I would say, unless you're getting up to certain levels where you might want to use it more. But that's also a very, very separate discussion. So next question is, do any of the topical creams, gels, rubs claiming to either buffer or prevent lactate build and burn actually work? And if so, to which degree?
+
+100
+00:41:14,384 --> 00:41:34,112
+Probably not. Next question. My physiologic threshold. Okay, actually, let's get into this a little bit. So this is a buffering thing. So lactate does actually not cause acidity in and of itself.
+
+101
+00:41:34,112 --> 00:41:58,560
+It typically gets exported with a hydrogen ion, so in the blood, increasing acidity can be associated with lactate export from the cells, but it's not necessarily a causation thing. It's like a correlation thing. Does that kind of stuff work? I actually have no idea, and I strongly doubt that that kind of stuff can actually permeate through the skin.
+
+102
+00:41:58,560 --> 00:42:25,088
+A lot of smaller molecules do, but those are pretty large. Things like magnesium does not actually permeate through the skin. So like magnesium baths, they might feel nice, but it turns out they actually doesn't get into your muscles through the skin because magnesium ion is large and polar. And if you know anything about membrane diffusion dynamics, large polar molecules don't really do that well just diffusing across things. So my educated guess would be no.
+
+103
+00:42:25,088 --> 00:42:52,816
+And if so, to what degree? Zero degrees would be my guess. You know, of course, the placebo effect is still in effect. So, you know, if you like rubbing your legs down before a thing, then that's nice. Go ahead and do that. I also so I would directly compare this to like the sodium bicarb loading protocols that a lot of people do sort of at the it's common in a lot of.
+
+104
+00:42:52,816 --> 00:43:22,240
+Track Pursuit stuff, like the Hoobwatt guys do it, Wattbike guys do it, and I think there's stories of people doing the classics also, where you have the repeated sort of VO2 max type efforts. They're taking grams of sodium bicarbonate. And it's injustice, so it gets right to your bloodstream. Yeah, and they're drinking it. And so if you have to, to get a similar effect, if you're going to rub grams of sodium bicarbonate into your skin,
+
+105
+00:43:22,240 --> 00:43:48,368
+That's a lot of lotion. I know the bottle probably says to use a heavy coat and just rub as much of it in as you can. But this says one of these lotions from one of these companies, one bottle is 300 grams and it says it supports 10 to 15 uses. So yeah, you're looking at...
+
+106
+00:43:48,368 --> 00:44:09,680
+there are 20 to 30 grams of lotion and how much of that lotion is water and other stuff to keep the bicarb suspended and so maybe you are getting grams into your skin but then you have to hope that all of those grams like you said make it through your skin and actually into your blood I'm sure they have scientific studies showing that
+
+107
+00:44:09,680 --> 00:44:38,880
+It works. They have scientific studies showing that all sorts of stuff works. Exactly. I would also assume that those studies are funded by the company, so there's an interest to find. Potentially. We don't want to disparage anybody, any good scientists working out there. We know you've got to make a buck, but also, honestly, a lot of those studies are very transparently biased. All right, next question is, oh, we got into the locating thing? Yeah.
+
+108
+00:44:38,880 --> 00:45:05,424
+My physiologic threshold, MLSS, and functional threshold power, FTP, are 30 plus watts apart. Which should I use for setting training zones? Is the answer different for sub-threshold zones versus super-threshold zones? Okay, first, on super-threshold zones, don't assign over-threshold, super-threshold training based on your threshold. Second,
+
+109
+00:45:05,424 --> 00:45:31,216
+MLSS and FTP are actually the same thing. So likely somebody is using eight minute tests or 20 minute tests to set their FTP. But FTP, as cleared with Andy Coggin, is actually the work rate at maximal lactate steady state. So if your test is giving you 30 plus watts, that's really good anaerobic capacity. Hats off to you, that's really nice.
+
+110
+00:45:31,216 --> 00:45:58,352
+But yeah, you should use your MLSS, which actually is your FTP. Also, side note, I looked up the study on the bicarb study. It said that you should ingest 0.2 grams per kilogram of body mass of bicarb before training. Oh my God. Oh my God, that's so much. So. Hard pass. 88 times 0.2. That's.
+
+111
+00:45:58,352 --> 00:46:14,768
+That's a cool 18 grams of bicarb, not sodium bicarb. Yeah, and that's specifically of the bicarb, so you've got to minus off all the sodium. Anyway, yeah, that's a shitload. Jesus.
+
+112
+00:46:14,928 --> 00:46:44,496
+Hard pass. Thanks. How would you plan progressive over lighting for building up an anaerobic engine? What principles would you draw from? Actually, I do want to get into this in a Wastock episode in the future. But the short answer is start with weights in the off season and actually build muscle. A lot of people don't want to build muscle and that's fine. There are ways to get a little bit stronger without building so much muscle, but it's hard to do. But yeah.
+
+113
+00:46:44,496 --> 00:47:13,040
+Build muscle, get a little heavier, and the principles I would draw from are regular periodization. So build muscle, train the muscle, access the muscle, and profit. Next question is, any workout recommendations for someone attempting to adjust to moving to altitude 5,500 feet from sea level? Not really. Just when you get there, give yourself two weeks before you really start doing anything hard again. Like, you're going to want to...
+
+114
+00:47:13,040 --> 00:47:40,864
+Excuse me. You're going to want getting up there like the, you know, there is like a, like a quote unquote dead zone around the like, I think it's five to eight day range. Maybe it's four to eight days where when you get to altitude, it's, you're going to get a little reaction from your immune system. And you're also going to might, you know, 5,500 feet is not a ton. It's not like 10,000. But, you know, you want to stay hydrated. You want to make sure that, you know, you're adjusting your
+
+115
+00:47:40,864 --> 00:47:57,520
+recipes and whatnot. And yeah, just don't do anything too hard. And you'll adapt in about a week and a half, two weeks. And then we'll continue to adapt a little bit from there. But yeah, just don't do anything too insane when you get there.
+
+116
+00:47:57,520 --> 00:48:22,368
+Next question is, if my FTP is approximately 80 to 82% of VO2 max, what is my best training technique to boost FTP? Pound away at FTP riding or work on VO2 intervals? The latter, VO2 intervals. So especially if your FTP is getting pretty long, your TTE, like 60-ish minutes or so, you're going to want to start to do some VO2s.
+
+117
+00:48:22,368 --> 00:48:52,320
+For high intensity training, do you have any thoughts on what an optimal distribution of intensity and duration might look like for a general endurance cyclist looking to improve aerobic performance? I don't. It turns out that when I am getting somebody to increase aerobic performance, I focus more on the physiologic systems than I do on any general principle. So a lot of the time,
+
+118
+00:48:52,320 --> 00:49:06,000
+When training goes really well and somebody's able to actually get all the training done and rest and recover and everything goes well, when we look back, there are certain things that describe the...
+
+119
+00:49:06,000 --> 00:49:35,456
+Phases and the time and zone and the distribution and whatnot, but I don't set out to achieve that. Like I've had a couple really good things with some athletes where, you know, base, build, peak, race, everything goes according to plan. I go back and I look at the performance management chart, you know, look at the TSB and the ATL and CTL and whatnot, and all of that looks textbook. I did not set out to have it look like that at all.
+
+120
+00:49:35,456 --> 00:50:04,704
+and that's just me operating on just very basic principles of training and rest. So I don't really, this is just me, but I don't really look to achieve anything like that. But usually when I look back on the general training for aerobic improvements, it is actually a pyramidal distribution or pyramidal. I learned pyramidal in chemistry. I don't know why everybody pronounces it like that in chemistry class.
+
+121
+00:50:04,704 --> 00:50:33,104
+So my apologies. That's just the way I learned. It's like, do you like say apoptosis or apoptosis? I say apoptosis. Oh, man, I say apoptosis. I just have one of those old school professors, I guess, because technically it's A, P-T-O-T-O-S-I, like that P is actually supposed to be silent because it's Greek. So anyway, that's neither here nor there. Mostly it's there.
+
+122
+00:50:33,104 --> 00:50:57,568
+So yeah, don't look at the distribution. Look at the training principles underlying everything. Yeah, I think the performance management chart and all those nice metrics are great. And if following them works for you, that's awesome. But also, just like your whoop band or one of these other things, you shouldn't become a slave to like, oh, I gotta nail this prescribed
+
+123
+00:50:57,568 --> 00:51:16,512
+distribution of intensity and duration or whatever. And just like before, when we asked the question about 80-20 distribution, like if that works, great, but you may find that it is not the optimal, what is textbook is not optimal for you.
+
+124
+00:51:16,512 --> 00:51:43,648
+And so being constantly worried that, oh, my, yeah, my performance management chart or whatever doesn't look exactly right, but I still went fast. Like, hey, if you won the race or if you got upgrade points or if you achieved your goals, eh, who cares, you know? Like, it's a tool, but it shouldn't be the thing that, like, guides all of your riding all the time. Yeah. Yeah, well put. All right. Last two questions.
+
+125
+00:51:43,648 --> 00:52:12,576
+Oh my God, we're actually going to do this in under an hour. Cool. Could one of the main benefits of more fat usage via Z2 training be less, quote unquote, eating and stress fatigue for a high amount of work in kilojoules? No, actually, you know what's ironic about long rides is that you can actually create a bigger deficit.
+
+126
+00:52:12,576 --> 00:52:26,768
+then you might intend unless the riot is actually pretty chill or your threshold is pretty low so your kilojoule output is actually not that high but like once you start getting into like you know higher FTPs your endurance pace you can vastly
+
+127
+00:52:26,768 --> 00:52:54,576
+outspend what you can take in for energy. And so, you know, if you're like an Iron Man, you're an elite Iron Man or Iron Woman or Iron Person or you're, you know, just say your FTP is like 400 watts, like you're riding around at 200 to 250 for an eight hour endurance ride, like you are going to be in a debt no matter what. So you've got to just stuff your face. And so that's just, I mean, that's just the reality of it.
+
+128
+00:52:54,576 --> 00:53:19,664
+Actually, another way to put it is, can the gut be trained a little bit? Actually, this is something that we're going to talk about in the nutrition episodes. We're going to wait to answer that question because I'm actually not an expert on that, so I will actually ask an expert. Last question is, regarding the importance of high volume and how necessary it really is, what's the difference between a 10-hour week and a 25 when a lot of it will be more zone two?
+
+129
+00:53:19,664 --> 00:53:47,952
+So what's the deal with more endurance training? About 15. Well put. Yeah, just riding more is great. Sorry. So the difference is just general aerobic adaptation, especially in the muscles, but also I think it actually, there is some interplay with central adaptations. So I find that generally riding more, people get more fit.
+
+130
+00:53:47,952 --> 00:53:58,448
+Pretty much across the board so bottom line is ride more if you can and You know, we'll we'll keep getting into more physiology of that
+
+131
+00:53:58,448 --> 00:54:27,760
+Later. That's our episode. Thank you everybody for listening and thank you all for your continued support and your coaching inquiries. Empirical Cycling is very much not dead. We are still very much active. We have plenty of coaches. We have some roster spots, like I said. And if you want to support the podcast, empiricalcycling.com slash donate. We appreciate all of your donations. If you want kit, let me know, email me or DM me. I just want to get a general sense of how...
+
+132
+00:54:27,760 --> 00:54:53,680
+How many would be sold in the next month or two. They would all be with V13, by the way, because they have a connection to Collegiate Cycling. And I really like their kit. Very stretchy for big thigh folks like myself and Kyle. And if you want any merch, empiricalcyclingpodcast.threadless.com. We have the show notes up on the empiricalcycling.com website. And if you have any coaching and consultation, inquiries, questions, comments, email me at empiricalcycling...
+
+133
+00:54:53,680 --> 00:55:17,808
+at gmail.com and Instagram at empiricalcycling. We've got some AMAs in the Instagram stories on weekends. Sometimes it's a little late, so you might want to check on it like Sunday night if you haven't seen it. So if you want to participate in that, that's great. Otherwise, just give it a read and a share and share the podcast. And thank you all for listening as usual. Bye, everyone. Thanks, everyone.
+

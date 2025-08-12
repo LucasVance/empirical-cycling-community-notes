@@ -1,0 +1,600 @@
+1
+00:00:00,624 --> 00:00:20,992
+Welcome to the Empirical Cycling Podcast. I'm your host, Cole Moore, joined us always by my co-host, Kyle Helson. And today's a very special episode because today, Kyle's really the host. He's the captain now. So what's going to happen in this episode is I've always wanted to ask Kyle a couple of questions about physics on the bike that I think will be the key to unlocking...
+
+2
+00:00:20,992 --> 00:00:48,416
+performance for everybody to break through that plateau or get to the next level. So with that said, we are actually really lucky that Kyle here is an actual PhD physicist in microwave physics. Is that correct? And early universe cosmic background radiation? Yeah. Cosmology, physics, you know. Yeah. Well, that's close enough. Yeah. Okay. Yeah. Astrophysics, whatever you want to call it. Yeah.
+
+3
+00:00:48,416 --> 00:01:16,992
+Cycling Coach's understanding of advanced physics right there. Believe me, there will be a lot more of that. You are actually employed by NASA as a physicist. What do you do at NASA? Let me start preface this by saying anything I say here is my opinion and my viewpoint and does not reflect
+
+4
+00:01:16,992 --> 00:01:44,080
+The opinions and views of my employer. This is not legal advice on Twitter from a lawyer. Yeah, yeah, yeah. Okay. You know, I do not represent the federal government in any way. And actually, I'm formally a contractor, so I'm not even technically directly employed by the government. But anyway. So I'm not actually your boss as a taxpayer? No.
+
+5
+00:01:44,080 --> 00:02:10,687
+No, you still kind of are, because I am paid through federal money Okay, good. Get me a glass of water Yeah, right away, sir Yeah, so I did a PhD in physics, and I worked on an experiment that was designed to study the cosmic microwave background, which is this light that we can see in the very distant
+
+6
+00:02:10,687 --> 00:02:26,656
+Edges of the Universe. That's light that we like to say is quote unquote leftover from the Big Bang. Is it visible light? Because I know there's light I can't see. Like I know there's infrared light that I don't have the wavelengths receptors in the eyes to pick up.
+
+7
+00:02:26,656 --> 00:02:43,120
+Yeah, it is actually light that you can't see. It's in the microwave, which is why it's called the cosmic microwave background, and that's because the light was emitted so long ago that it's effectively lost so much energy that it used to be light that you could have seen.
+
+8
+00:02:43,568 --> 00:03:09,600
+It actually used to be... So it was a macrowave for a while, and then it lost its use, and now it's a microwave. Actually, it's kind of the other way, right? Because microwaves actually have longer wavelengths of light than the light that you can see. Anyway, sorry. Macrowaves would be like radio waves, like really long, like megahertz or kilohertz.
+
+9
+00:03:09,600 --> 00:03:38,096
+Radio waves, the wavelengths. Okay, so this is more about the length of the wave rather than the amplitude, right? Yeah, yeah, yeah. Like, micro is picked specifically because the... The wavelengths are short? The wavelengths are relatively short compared to radio waves. Okay. But radio waves and visible light waves are basically the same thing, except there are just different lengths, right?
+
+10
+00:03:38,384 --> 00:03:55,744
+Right, right. It's the same as if you have like two ends of the visible spectrum are what? Red and violet, right? So red has a longer wavelength and violet has a shorter wavelength. And if you could see, if your eyes could see other...
+
+11
+00:03:55,744 --> 00:04:24,800
+This is going to sound like you got really high. You can see other colors. There are colors out there of light that you can't see. But if your eyes were super advanced, then maybe you could somehow see all these other colors that like bees, for example, right, we know can see outside of the visible spectrum. And so flowers look different to certain bees and insects than they do to us. Right. And like the mantis shrimp has a bunch of more receptors than we do. And like birds that have iron.
+
+12
+00:04:24,800 --> 00:04:54,656
+Iron Things in Their Eyes that can show them magnetic fields and stuff like that, right? Yeah, exactly. And so if you could see into the microwave, obviously we're restricted from red to violet, and if you could see longer, you could see the infrared, and if you could see even longer, you could see into the millimeter or the microwave, which is where I study most of my science. Okay, so you could actually see your science if it were fresh enough in the universe. Yeah, so when the Cosmic Microwave Background was first released, it was
+
+13
+00:04:54,656 --> 00:05:23,968
+Was that like 1971 or something? Yeah, exactly. Just a few years ago. No, the CMB was emitted. It's easier. So the universe is 14 billion years old, give or take. Oh, and it's almost its birthday again, too, right? Yeah, exactly. It was born in like January. It was like a Tuesday. Yeah, it was like Tuesday, like May 8th. Yeah. And so we actually say that.
+
+14
+00:05:23,968 --> 00:05:50,432
+It's easier to say that the CMB was released about 380,000 years after the Big Bang because that is like, what's 13 billion, 13.8 billion minus 380,000? Like it's still 13.8 billion. Like that's like a tiny, tiny fraction. So it's actually easier to start counting from zero and say it was admitted at year 380,000 and not like, oh, it was admitted, you know, A or B, C.
+
+15
+00:05:50,432 --> 00:06:09,728
+13.8 billion or whatever. It doesn't make any sense to do that. Right. You're using the small angle approximation, but one minus the small angle. Yeah, yeah, yeah. And so in that case, when the light was emitted, some of it was in the visible spectrum.
+
+16
+00:06:09,728 --> 00:06:33,168
+It had an average energy that was about as half as energetic as the sun. So the sun's peak light, even though it looks orangey and yellowy if you stare at, don't stare at the sun, kids. It's actually the peak wavelength of the sun is in, is about, is green, which coincidentally is in the middle of Roy G. Biv. Yeah.
+
+17
+00:06:33,168 --> 00:06:57,296
+If you could count the colors, the most photons that come out of the sun are green. And so the light from the CMB started off about half as energetic as the light from the sun, and it just existed for so long that it's lost a lot of energy as the universe has grown bigger. And now it's so far down that it's only about...
+
+18
+00:06:57,296 --> 00:07:22,896
+We say the average energy is only about 3 Kelvin or about 3 degrees above absolute zero, which is why whenever someone asks like, oh, what's the temperature of deep, deep space? The answer is 3 degrees above absolute zero. Hold on. I have so many questions now because my first question is, is that like an average energy? Yes, it is an average. Exactly. So that's like with all the like energetic peaks of like...
+
+19
+00:07:22,896 --> 00:07:49,088
+you know stars and planets and everything and all the everything in between which is like okay like on the hardness scale how hard would my nipples be at like three Kelvin? Well considering all the water in your body would be frozen solid long frozen solid including like everything because everything except the there's no helium there's almost no helium in your body probably zero helium in your body but everything else
+
+20
+00:07:49,088 --> 00:08:18,864
+other than helium is completely frozen solid at that temperature. So yeah, you'd be a break. Except for some movie stars who seem a little explosive. Okay, well, my next question about that is, actually, I've always wanted to know more about this. Like you said the universe has grown bigger. Like, does that mean that like the, I assume there's no like edge of the universe. Is there? As far as we know, there isn't.
+
+21
+00:08:18,864 --> 00:08:47,200
+We generally operate on the principle that there is no boundary to the universe Does it change any equations if there is? Because it's not like anything's there Right, so the reason that we like to do that is because we would prefer that there be no special location in the universe If there is some special place to that part
+
+22
+00:08:47,200 --> 00:09:01,632
+Part of the universe, you need to come up with a good explanation as to why that location is special. It's the end! That's why! It's the end, yeah, exactly, yeah. But we don't generally like to say in most of science, in physics, that there's...
+
+23
+00:09:01,632 --> 00:09:29,664
+just because. Why is it that way? Because I said so is not an acceptable answer. Well, so this is sort of like the particle wave duality of there may practically be an edge, but we don't like to think about it because we want the universe to tell us how it identifies. Do I have an edge or not, right? Yeah, and so far we have never seen an edge. This is going to get a little abstract, but you can imagine that if...
+
+24
+00:09:29,664 --> 00:09:59,472
+If hypothetically... It's not abstract already. Yeah, the universe is... So people like to say, like, oh, if the universe is expanding, like, what is it expanding into? And the answer is, it's not expanding into anything, because that would imply the universe is, like, sitting in some, like, box, and it's, like, slowly growing. Yeah, it's, like, in some other universe, and it's just like, oh, excuse me. And even with the multiverse, even if there is a multiverse, and there exist other universes that are just over there on that other side of us,
+
+25
+00:09:59,472 --> 00:10:25,280
+were forbidden from ever directly contacting or communicating with them. So even if they were there, it's not like the two universes are actually going to collide. Well, except through brains, right? B-R-A-N-E. Isn't that how multiple universes touch? If I'm remembering my Brian Green correctly, which I am definitely not. That is one theory. So brain theory is this expansion of string theory.
+
+26
+00:10:25,280 --> 00:10:54,240
+and Multiverse Theory. The problem is, is so far, most of string theory and like all of the multiverse theories are not falsifiable. They have not produced any. So that's a way of saying they have not produced any unique predictions that would allow us to go out and see if they're true. It's sort of like saying prove to me that like I didn't get a coffee today or something like that. Yeah, it's like proving a negative. Exactly.
+
+27
+00:10:54,240 --> 00:11:22,224
+If you're Darwin and you say, oh, I think that, you know, evolution is correct, you can come up with an experiment to say that, like, he came up with this hypothesis and then went out and looked for evidence that evolution is real and it isn't, what was the competing one where you acquire traits and then you could Oh, Lamarckism, I think
+
+28
+00:11:22,224 --> 00:11:50,432
+Yeah, we're like, oh, I constantly reach for the top shelf, so as a child, I will grow taller. Oh, wait. Yeah, right, sort of like giraffes have super long necks, but they actually eat leaves that are much lower. Although, in theory, you know, right, so like, oh, they're always craning for these higher leaves, so they grow long necks, right? Okay, yeah, so like that's the- Right, exactly, yeah. Right, okay. And so-
+
+29
+00:11:50,432 --> 00:12:18,992
+you have those two competing theories and they make unique predictions that you could go out and see if they're true and so far the problem is string theories existed for the last like 40 years or so and as yes it is very difficult and obviously I'm not like bagging on string theory it's just that as of to date we have not found any unique predictions in the sense that everything that we see in the universe is consistent with string theory but in a non-unique way.
+
+30
+00:12:18,992 --> 00:12:42,032
+String theory is a way to explain a lot of these things, but it is not the only way. Okay, good. So now we're at string theory because this is where the string theory meets the cycling. But first, obviously, we have to get into some background on string theory. Sure, yeah. So it seems like as we get deeper into string theory, it's basically all math, right?
+
+31
+00:12:42,032 --> 00:13:02,976
+And so this leads to a philosophical question I've had since like, I don't know, 2012 or something like that. Back when I was like probably actually smarter than I am now. It's does every math have a correlation to the actual
+
+32
+00:13:02,976 --> 00:13:24,432
+universe, like to reality, or can math just be abstract for their own sake? So if we dig deep into the math of string theory and say, this should be true based on the math, first is, does that work? And second, at what point does the reality to math abstraction only
+
+33
+00:13:24,432 --> 00:13:49,536
+Where is that point? At what level of quarks and gluons do we actually make that distinction of we can't measure anything smaller than this? So part of the problem is that, well, let me back up and say, there is, for every field of math, only a very small sliver of those math tools end up getting used in physics.
+
+34
+00:13:49,536 --> 00:14:17,712
+Physicists bastardize a lot of math and mathematicians hate it. Are you guilty as charged? Oh, totally. So I don't know how many of you have taken, maybe taken calculus and seen like a dy dx where it's a derivative, it's a small lowercase d and then a y and then there's a horizontal line like it's a fraction and there's a dx at the bottom. So it's the derivative, it's how y changes with respect to x, right? Right.
+
+35
+00:14:17,712 --> 00:14:41,488
+A very common thing we do in physics is we treat that as a fraction. And so you can do weird things like, oh, I have to get rid of this y. I don't want this y in there. I'm going to treat it as a fraction and then get rid of the dy by substituting in something else. And so that works a lot of the time in physics because it...
+
+36
+00:14:41,488 --> 00:15:06,240
+The only reason it works is because you make some assumptions about the functions that you're manipulating in that way. Generally speaking, if a mathematician sees you do that, they club a baby seal every time or something. A lot of stuff like that happens in physics. Also, with general relativity, for a long time,
+
+37
+00:15:06,240 --> 00:15:33,648
+Riemannian geometry, which is the math that underlies general relativity, that was not a very big field in math. It wasn't very used. Riemann is famous. He's done a lot of stuff, a lot of contributions to pure math. But Riemannian geometry, which is doing calculus on non-flat or non-Euclidean spaces. Yeah, I've seen some graphics of that stuff, and it boggles my mind.
+
+38
+00:15:33,648 --> 00:16:00,368
+Just in that, I've gone through, I never made it to Physics 3, but I've looked at the different geometries on a sphere, and I cannot imagine how complex it is getting into some of those weird twisty shapes and stuff. Yeah, yeah. And so that wasn't a particularly active field until general relativity came about. And then Einstein asked his mathematician friends, like, hey,
+
+39
+00:16:00,432 --> 00:16:09,184
+Do you know of a math tool that would let me do this? Like it looks like I'm kind of thinking like gravity might be this thing or at least be
+
+40
+00:16:09,184 --> 00:16:33,744
+be able to be predicted by this thing. Do you have any suggestions? And it turns out Riemannian geometry was it. And so now Riemannian geometry is really big. And all of modern cosmology relies on the Einstein field equations, which are the equations from general relativity. And so all that is built on this wonderful mathematical tool, which is basically just the extrapolation of calculus to calculus on...
+
+41
+00:16:33,744 --> 00:16:58,640
+arbitrarily shaped surfaces in an arbitrary number of dimensions. Just like Calculus 1 and Calculus 2, you just deal with single variables like x. You do derivatives and integrals with single variables. You go to Calc 3, you deal with multivariables. And then the next extrapolation is once you've done more than one variable, that means you can do an infinite number, right?
+
+42
+00:16:58,704 --> 00:17:18,512
+Wow. It's just another. It's just another. And then it's just thinking about how do those equations all change when you have arbitrarily shaped surfaces. And those arbitrarily shaped surfaces could exist in any number of dimensions. Luckily for us in physics, though, unless, I mean...
+
+43
+00:17:18,512 --> 00:17:47,552
+String Theory notwithstanding, most of physics is only calculated in three, maybe four dimensions. Sometimes you get lucky and it's only two, but usually it's two or three spatial and one time, and then String Theory is famously 11 dimensions. Oh, God. Okay, so hold on. Before we get to 11 dimensions, at least it's a prime number. That's also Riemannian in a way. Is that good, though? Well, that's for you to tell me.
+
+44
+00:17:47,552 --> 00:18:13,488
+Right, so when we actually think about this, like the Riemannian geometries actually having a use case, like, you know, they were here first, and then everybody was like, oh, cool, look, this happens to work. Is that like, is that sort of like, you know, what is it, like Newtonian physics is a special case of general relativity? Is this like a special case of math?
+
+45
+00:18:13,488 --> 00:18:39,792
+happening to work for physics rather than like math just generally describing reality no matter which branch we go down. Yeah, I would say that there are always just hugely not physically relevant studies in math and it's just a small subset that get used a lot because they happen to work in physics.
+
+46
+00:18:39,792 --> 00:19:05,440
+What's a good example? I remember looking up, after Tokyo, I looked up Anna Kiesenhofer's dissertation and for the people unaware, Anna Kiesenhofer won the Tokyo Women's Road Race in a solo breakaway for literally the entire race and she is also
+
+47
+00:19:05,440 --> 00:19:35,008
+a PhD in math and she is at, oh crap, somewhere in Switzerland, right? Yeah. She's a postdoc. So she's a postdoc in math and she's teaching and doing math research. By her Instagram, I think she just moved somewhere else. But yeah, I coached her to her Olympic selection through basically January, I think, or December of the previous
+
+48
+00:19:35,008 --> 00:19:52,368
+Yeah, 2020. And like, she is as smart as you would think she is. Oh, I don't, I mean. Yeah. And so how far, actually, here's the next question, is how far into her thesis did you make it before you had to start Googling like every third word?
+
+49
+00:19:52,496 --> 00:20:07,152
+I mean the first line. So I don't actually understand what the title is. The title is Non-Commutative Integrable Systems on B-Symplectic Manifolds. So I don't know what a B-Symplectic Manifold is. I don't know what a manifold is. I don't know what...
+
+50
+00:20:07,152 --> 00:20:33,296
+So it's the abstract is in this paper we study non-commutative integrable systems on B Poisson manifolds. One important source of examples and motivation of such systems comes from considering non-commutative systems on manifolds with boundary having the right asymptotics on the boundary. In this paper we describe this and other examples improve action angle theorem for non-commutative integrable systems on B symplectic manifolds in neighborhood of a
+
+51
+00:20:33,296 --> 00:21:01,760
+Louisville Taurus inside the critical set of the Poisson structure associated to the B-symplectic structure. I don't understand a single goddamn thing I just said. Come on, you don't know your Poisson structures? Yeah, exactly. So a Poisson manifold is a structure. It is a type of manifold from differential geometry. It's the manifold that comes out of a Ferrari 12-cylinder engine. It's really the best. Isn't Poisson like a...
+
+52
+00:21:01,760 --> 00:21:31,136
+like lobster or something in French. It's fish. Fish. In French. Fish, yeah. Anyway. Yeah, the distribution of fish in the ocean as related to... Anyway, so... But anyway, so the thing is, I am pretty sure, even though they are structures from differential geometry, which is this like Riemannian geometry, this idea of calculating, you know, doing calculus on non...
+
+53
+00:21:31,136 --> 00:21:58,032
+Flat Surfaces. I don't know if these have any actual applications to physics. Like, there are so many questions in math that have just no application to physics, and it is, like, that's great. Like, there are these questions, like, I don't understand a single thing. Like I said, like, I took, like, one higher-level math class, like...
+
+54
+00:21:58,032 --> 00:22:21,792
+Sorry, let me rephrase that. In college, I took one math department elective and got my ass handed to me. Like it was cool because it was the introduction to chaotic and dynamical systems. Now that sounds like a cool class. Yeah, and like the professor was great and like it was a high enough level elective that it was the sort of thing where
+
+55
+00:22:21,792 --> 00:22:43,776
+he would just come in and just start lecturing and like remember where we were last time and you're like how is this guy doing this without notes or like looking at the book he just like knew it but man it's just like I kicked my ass god I like and so that I think is this big jump where there are all these questions about math and like a lot of it becomes proof related and
+
+56
+00:22:43,776 --> 00:23:12,192
+If you actually like numbers, there isn't a single number in sight. Like, I'm going to look, oh, I'm not on my work computer. Well, in physics, to be fair, like, you only get to the numbers at the end of rearranging all the equations. Sure, but you know that they... You know that there's an answer at some point. Yeah, exactly. Or you know that you're doing that to get to that number or to make it something that's calculable. Or at least, like, instead of being like, oh, I have...
+
+57
+00:23:12,192 --> 00:23:34,256
+How does bivector field T map to whatever vector field F? I don't know. I have no idea if what I've said is correct. Oh, because that was my next question for you. Yeah, it's like bullshitting stuff I remember from group theory.
+
+58
+00:23:34,352 --> 00:24:00,592
+But even like group theory is used in physics. I don't know what group theory is, but I assume that you're getting to that some maths are just so esoteric that there's only a handful of people who are qualified to even like validate a certain paper. It's like when the guy published the proof for Fairmont's last theorem, like there were only like what, like two people in the world who could check it? And it took them like a week to do it?
+
+59
+00:24:01,360 --> 00:24:28,512
+Yeah, totally. Exactly. It's exactly like that. It's not so different from other fields of science where you can get really, really, really, really specialized where only a handful of people actually care. I can't think of any off the top of my head, but I'm sure we could find some example in biology where you pick some obscure organism and you ask some really weird question about it and you go, who cares?
+
+60
+00:24:28,512 --> 00:24:52,544
+but like someone does and that's good because someone should care and like you know you want to answer all these questions it's just that math really quickly like all of it builds so deeply on you getting and like deeply understanding very abstract things that it is a
+
+61
+00:24:52,544 --> 00:25:21,856
+It's a difficult ask to start talking about these things if you don't have even a good grasp on calculus. And then if you don't have a good grasp on calculus, it's just over. You can't do some of this stuff. All of this stuff. All right. So let's get back to the second part of this question because we're almost there. We're almost to the part of string theory that's going to help us understand cycling performance so well. So when it comes to where is the edge of being able to...
+
+62
+00:25:21,856 --> 00:25:51,424
+to verify or not verify string theory. Where in physics do we draw the line of we can measure this, therefore we can make falsifiable hypotheses? Or where does it become just pure math? Or is there a fuzzy line there? So I would say one of the things that you look for, and this is maybe one of the reasons why theoretical physics and string theory is really hard.
+
+63
+00:25:51,424 --> 00:26:14,544
+What you'd have to do is you'd almost have to come up with some sort of overarching theory and then turn the crank on all that and say, okay, all of these things, if we go through all the calculations, this predicts that we should be able to see this kind of particle or this kind of field or this phenomenon. And that's worked pretty well for particle physics so far, hasn't it?
+
+64
+00:26:14,544 --> 00:26:43,840
+Yeah, and that's like the origin of a lot of particle physics, like they go back and forth of like, oh, we found this new particle, how can we explain it? Or, oh, we have predicted, like famously Dirac predicted the existence of antimatter because he cranked through trying to combine quantum mechanics and the early stages of, what do you call it? I don't know. E&M.
+
+65
+00:26:43,840 --> 00:27:12,304
+Sorry, I don't know. Sorry, he was trying to combine. So E and M, the origins of electricity and magnetism, have special relativity kind of built in. And so he was trying to combine the wave equation from quantum mechanics with this electromagnetic relativistic interaction. All right, so we're almost there. So ELI 5, what that statement means.
+
+66
+00:27:12,304 --> 00:27:40,304
+Okay, so the origins with electromagnetism, right? Maybe people have heard of Maxwell, this guy like James Clark Maxwell. He's a Scotsman? Anyway, Maxwell is famous. I'm familiar with his four equations. Three equations? Four equations? Yes. Four equations. And he's famous because they're called the Maxwell's equations, which are the – they're kind of like your –
+
+67
+00:27:40,304 --> 00:28:08,560
+Quote-unquote first principles, your tools, or if you're like, oh, I want to understand this thing in E&M, I'm going to try to see if I can use one of these tools to get me there. They're the Newton's laws of electricity and magnetism. Exactly. Right, okay. And it turns out that- Actually, isn't there a corollary of Maxwell's equations somewhere that's only got like three equations? Is that to Newton? Like there should be like a fourth Newton's equation and nobody knows what it is or something like that?
+
+68
+00:28:08,816 --> 00:28:38,720
+Maybe, but I think that maybe Or is it something else? Because that was like the last day of my E&M class in college. Maybe. Are they like trying to make the claim that Oh, I could see something like they're trying to draw the parallel between having electric charge and mass. So in gravity, mass is the
+
+69
+00:28:38,720 --> 00:29:08,208
+We only know of one thing, and that's gravitational attraction. So there's only that one gravitational force. But in electricity and magnetism, we have these two things, electricity and magnetism. Yeah, I think it might be a parallel like that, something like that. Yeah, so that would be like looking for strange other types of gravitational effects. Anyway, so Maxwell worked on a lot of the equations. Which, by the way, I have beef with you on that, so we're going to get to that in a little bit.
+
+70
+00:29:08,784 --> 00:29:34,720
+Maxwell worked on E&M which is why his name is on a lot of stuff from electricity and magnetism and other stuff in thermodynamics and statistical mechanics and a lot of the stuff because back when he was alive in like the mid 1800s if you were like a physicist you did it every you did whatever you wanted basically everything and he actually developed all of the underlying framework for
+
+71
+00:29:34,720 --> 00:30:04,272
+Special Relativity and Quantum Mechanics and so Einstein is famous for developing special relativity but he basically was the first person to come around and wrap up in a nice package and say oh look if I take all the stuff that Maxwell has done on electricity and magnetism and zoom out to 10,000 feet it implies that we have this thing like the speed of light and it implies that it's a constant and it implies that light and electricity and magnetism are the same and they travel as waves blah blah blah.
+
+72
+00:30:04,752 --> 00:30:31,232
+And so Dirac, who was a famous guy, Paul Dirac is a physicist. He was around for the heyday of modern particle physics in the 20s, the early 1900s through the 1950s, 1960s, the heyday of the golden age of theoretical physics. I was about to say, he sounds like a jazz drummer, and I always think of physics with jazz in parallel.
+
+73
+00:30:31,232 --> 00:30:55,728
+Like, yeah, I'm always thinking like he was there like for the heyday of something. So that was it. Okay. So yeah, heyday of particle physics and not Tin Pan Alley. All right. Yeah. Anyway, he said, hey, let me take a lot of the developments he'd been working on in quantum mechanics and try to combine them with this E&M and the special relativity. And when you combine the two sets of equations.
+
+74
+00:30:56,080 --> 00:31:22,000
+Which is maybe a famous thing that physicists love to do, right? Famously, we've tried to combine general relativity and quantum mechanics and it doesn't work. So Dirac got lucky and special relativity came first. And so he tried to combine special relativity and quantum mechanics and did so successfully. And the resulting equations had two sets of solutions. One set, which looked a lot like the electron.
+
+75
+00:31:22,000 --> 00:31:48,544
+And then another set, which looked a lot like an electron but with a different sign, like the opposite sign of the electron. And originally he was thinking, oh, maybe this is like the proton or something like that. But it turns out it was actually antimatter. So the opposite of an electron and antimatter is the positron, which is a particle that weighs exactly the same but has a different charge. The opposite charge. Wait, have we ever made antimatter?
+
+76
+00:31:48,544 --> 00:32:09,184
+We make it all the time. We make it all the time. It's like the OG contrarian. It's like the original commenter on the internet. Yeah, I say all the time, sort of tongue-in-cheek, but a lot of the older particle colliders would, instead of colliding...
+
+77
+00:32:09,184 --> 00:32:38,528
+Do those old particle colliders, do they think that they're better? Like, hey, you kids, stop colliding your protons with protons. Get off my gigantic particle colliding lawn. Does it happen like that? Or is there like an actual...
+
+78
+00:32:38,528 --> 00:33:08,416
+Like, shut up, Grandpa. This is evolution of physics, man. I think it's more that one because now actually what they do is if you look at a layout of the LHC or of the Tevitron at Fermilab, what they've done is they've started to use the old particle colliders as the initial acceleration stages to feed into the larger particle colliders. So you're basically like using the old small particle colliders as your turbocharger. Yeah, exactly.
+
+79
+00:33:08,416 --> 00:33:37,120
+If you're going to collide something at 0.99999 the speed of light or whatever, it doesn't start going that fast. You need your domestique particle accelerator first. Exactly. Yeah, yeah, yeah. So you send all the old domestique particle accelerators to get your bottles and pull you up to speed. Get you up to just 99.9998% of speed of the light and looks like, all right, we'll take it from here, old man.
+
+80
+00:33:37,120 --> 00:34:01,712
+And then they drop you off with 200 meters to go and you just sprint for glory. It's not 200 meters though. It's like kilometers of acceleration, isn't it? Oh yeah. The LHC is, its circumference is like, what is it? Like 50 kilometers, I think. Like it is like the very first particle accelerator ever built could fit in like a high school gymnasium. There's like funny pictures of it. Oh, it's so cute.
+
+81
+00:34:01,712 --> 00:34:30,400
+Yeah, funny pictures of people standing next to it where a person could like, oh, work on several components of it at the same time, hypothetically. Whereas, yeah, now it's just like a giant underground tunnel. Yeah, now it looks like stuff that a supervillain would make. Yeah, that's the... There's a... You could use it as a weapon. There's famously this Russian physicist who was working on a particle accelerator. Is this better or worse than the demon core? This is...
+
+82
+00:34:30,400 --> 00:35:00,048
+It's maybe not quite as good, but it's similar levels of good. And he was working on this particle accelerator. I want to say this was in the 60s or 70s, 70s maybe. And someone had turned off the warning light that's basically akin to the on-air light. If you're working on a radio station or on TV or whatever, there's a tally lamp that says, we are currently on air, like live. Oh, God, I see where this is going. Someone turned it off. And he stuck his head in the beam.
+
+83
+00:35:00,048 --> 00:35:30,032
+of this particle glider. But he lived. Only just? Or did he lose his sight? Or did he forget math? Or what happened? He's still alive. He's alive. I don't understand. But he, I think he had, they calculated, he got some ridiculously high dose of radiation out of this, right? Wow.
+
+84
+00:35:30,032 --> 00:35:59,808
+He got hospitalized. I don't think he lost consciousness or whatever. But he had massive radiation poisoning and had really terrible skin and other impacts just all on that side of his head. Like if you watched Chernobyl, something like that. Yeah, yeah, yeah. And now I think he has partial
+
+85
+00:35:59,808 --> 00:36:29,456
+Paralysis in his face and he gets seizures and stuff like that, but he's still alive and recovered and continued to work at a physicist for however long. That is impressive. Holy shit. Yeah. So you could use a particle accelerator as a weapon if you would stick people in it, but it's not necessarily clear if it would be as lethal as the demon core, which killed, what, like 20 people or something like that?
+
+86
+00:36:29,616 --> 00:36:58,832
+Did it? Oh man, that's worse than like King Tut's tomb I think the demon core killed like Because they had several incidents where several people died Right? Yeah, I thought I don't remember the deaths I do remember the demon core like almost going critical like three or four times
+
+87
+00:36:59,120 --> 00:37:21,552
+Yeah, maybe it's only a few people died, but I definitely think like, and some of the other people may have like had a critical incident and then died of like some strange cancer later on. So they didn't like die the week of the thing going critical. It was one of those things where insurance could definitely deny you because it was like, well, you can't do the connection.
+
+88
+00:37:21,552 --> 00:37:46,560
+Yeah, so for the unaware, the demon core was two halves of a greater than critical mass of plutonium and what they would do during tests of nuclear fission during like the Manhattan Project and stuff is they would separate these two halves
+
+89
+00:37:46,560 --> 00:38:10,320
+Very slightly. And so as they would bring them closer together, the radiation would build up and you'd get more and more radiation emitted. And so if you would ever let them, but you would never want to let them go fully in contact because you would make a critical- You would make the chain reaction happen. Yeah, you'd make the chain reaction happen. So you'd want to separate them really fast so they would stop.
+
+90
+00:38:10,320 --> 00:38:40,048
+stopped their uncontrolled nuclear emission. But how close would they get? Would it be like two centimeters or like a millimeter or was it like 10 centimeters? I think it was like, you know, fractions of an inch. I think one of them was, one of the risks, like one of the ways that it like went bad is that someone was like propping them separate, like up with like a screwdriver and then the screwdriver fell over.
+
+91
+00:38:40,048 --> 00:39:02,960
+Right, yeah, I remember the one where, like, yeah, basically, like, somebody was, like, like, Butterfinger, like, ham-fisted the whole thing and, like, damn near blew themselves up in a nuclear blast Yeah, and, like, you're, like, uh, you know, I know people complain about safety and, like, you know, all the rules and regulations now, but, like
+
+92
+00:39:02,960 --> 00:39:30,608
+Man, I don't know, even if the OSHA inspectors just walked out the door, I'm not sure if I'm just, like, sticking a flathead screwdriver between those two things and calling it good. Yeah, anyway, it eventually got used, it did get fully blown up in, like, a nuclear bomb test, but it, like, not before claiming the lives of several scientists and, like, other people, like, reporters or, like, photographers or something, like, looking at this, like, new research.
+
+93
+00:39:31,056 --> 00:39:59,024
+Yeah, science is about could, not should. I mean, they also, like, it just, I think a lot of those experiments with criticality and stuff like that kind of remind me of the heydays when they just discovered x-rays, and people were just x-raying themselves left, right, and center, and then getting out, like, massive doses of radiation.
+
+94
+00:39:59,024 --> 00:40:27,968
+fondling just pieces of uranium. Just, oh, no big deal. Just carry it in my pocket. Not a problem. It's kind of warm. Isn't that cool? What do you mean you stood up from your chair and your legs broke? Yeah. You glow in the dark. I can see you walking down in the distance. Yeah, you're like, yeah. Hindsight being what it is, would not recommend zero out of 10.
+
+95
+00:40:27,968 --> 00:40:55,264
+Don't recommend. Okay, so when it comes to like measuring, so we're almost there. So when it comes to like measurement, like what is the, where do we actually have the boundary of like, we can measure this particle and smaller than this is potentially a string and we have to measure this. Like, where is that boundary? That's a good question. Yeah. So right now.
+
+96
+00:40:55,264 --> 00:41:23,088
+We have the quote unquote standard model. God, it's kind of a weird name, but it's standard model of particle physics. And it more or less explains all of the properties of all of the particles that we know today and that we've measured. And for a long time, the reason that it took so long to discover the Higgs, for example, was because it's so massive and so heavy that you need a really powerful particle collider. And so you had to, if you...
+
+97
+00:41:23,088 --> 00:41:51,840
+A lot of experiments with early on accelerators were like they'd smash stuff together, see what happens, try to take a massive catalog of all the different particles they would see and be like, all right, we don't see any new ones. We keep smashing this stuff over and over and over again. We don't see any new ones. Don't see any new ones. Got to build a bigger one and lather, rinse, repeat and keep building bigger and bigger, more powerful particle accelerators to smash stuff together. And the reason you have to make them more powerful is because of E equals MC squared.
+
+98
+00:41:51,840 --> 00:42:21,184
+Even though you smash together protons, which are relatively light, because they're traveling so fast, you actually are able to convert their kinetic energy into the mass of the particles that are made. So you have two protons that slam together going really, really fast, and you actually take advantage that E equals MC squared, and it's not just E equals MC squared, it's actually E squared equals P squared, which is momentum, so the momentum squared times the speed of light squared plus
+
+99
+00:42:21,184 --> 00:42:50,672
+The mass squared times the speed of light to the 4th. Oh, you did one of those substitutions. I gotcha. Yeah. So that's so and usually you just see equals MC squared for particles at rest because they have no momentum because they're just sitting there. Lazy. But yeah, they're just they're so lazy. But the ones once you have access, once you have big particle accelerators, you can actually take advantage of equals MC squared to make really big heavy particles that decay really quick. Why don't why don't you use larger particles?
+
+100
+00:42:50,672 --> 00:43:20,240
+Oh, we do. We do. So one of the other things that do heavy ion collisions, they'll collide gold or lead nuclei, not the atoms themselves. So instead of becoming an earring or something, this little thing of gold becomes... Wait, hold on. So it's protons, but you don't use a heavier single particle. It's like you use multiple atoms at once. So you use a cluster of protons.
+
+101
+00:43:21,200 --> 00:43:46,576
+Hold on, so when they smash together, if you smash together two heavy gold nuclei together, don't the protons and neutrons just explode like marbles and you don't get anything? Or do a couple of them manage to, with all that weight behind it, get stuck together even harder? Yeah, so that's what it is. It's that you...
+
+102
+00:43:46,576 --> 00:44:15,616
+So when you collide two gold nuclei together, or lead nuclei, heavier nuclei, what you're not actually doing, you're not actually trying to make heavier atoms, but you're, what do you call it? You're trying to get them to overcome the, okay, so let me back up. So everyone knows that opposite charges attract, right? And like charges repel.
+
+103
+00:44:15,616 --> 00:44:45,520
+So you can sit back and say, well, how does a nucleus of an atom hold itself together? I've wondered that many times. Is this strong for strong nuclear? No, weak nuclear force, right? Yeah, it's the strong force. It's named strong because it has to overcome. Has to overcome the repulsion? Yes, because exactly. Okay. So not a great. Okay, gotcha. Not a great name, but.
+
+104
+00:44:45,584 --> 00:45:10,192
+Physics needs marketing help sometimes. But the strong force only acts over a very short range. So you have to slam stuff together really, really hard so you can get all those protons, either the individual protons or the heavy nuclei together and get them together so that they start interacting via the strong force. Does that make sense?
+
+105
+00:45:10,384 --> 00:45:38,192
+Because a strong force only acts over such very short distances, like best measured in, like, you know, picometers, you need to slam them together so hard that they can overcome the, like, positive charge, positive charge repulsion and get them so close together that they interact via the strong force. And is that what makes new particles? Or does that just make larger elements?
+
+106
+00:45:38,320 --> 00:46:07,680
+No, the heavy ion collisions at CERN when they smash together like lead or gold nuclei is to try to study the quark gluon plasma. Oh no, oh no. I had that on my toast this morning. Yeah, exactly. So quarks and gluons are the stuff that make up protons and neutrons. So they want to study this really rare high energy environment.
+
+107
+00:46:07,680 --> 00:46:36,192
+where instead of, okay, so let me back up. So a plasma, maybe you've heard of a plasma, maybe you haven't heard of a plasma, maybe you've heard of a plasma TV, that's kind of the same. So a plasma is this other state of matter that's not a liquid, solid, or a gas where the energy is high enough that like the atoms in it are all ionized. Right. And so because they're ionized, you have the un...
+
+108
+00:46:36,192 --> 00:46:58,000
+unbonded electrons and positive nuclei or protons like zooming around separately. And that also means that it can trap photons and all the other physical consequences about being in a plasma. Well, turns out you can make a plasma out of quarks and gluons kind of in the same way that you can make up
+
+109
+00:46:58,000 --> 00:47:24,272
+A plasma out of like protons, electrons, and photons. So photons are the particles that transmit force in E&M. They're also light particles. And gluons are the particles that transmit force in the strong force. Because they glue things together. I get it. They glue things together. Yep. And so this is all a consequence of something called quantum chromodynamics.
+
+110
+00:47:25,008 --> 00:47:44,544
+So this is basically the whole strong force is described by this theory called quantum chromodynamics which is unfortunately titled and has this weird red green blue color symmetry thing which is very it is nothing but a
+
+111
+00:47:44,544 --> 00:48:13,360
+An analogy. It's not actually, it's not like gluons and quarks and stuff. It's a learning tool, which is why it's so easy to understand the concepts as colors, of course, because we can definitely see these wavelengths of colors. And when we get down to things that are this small, of course, they definitely these colors. Yeah, they're definitely painted. Yeah, you just like paint, paint a little green or red or blue. They're like those little Warhammer. Is that what they're called? Warhammer like figurines? Yeah. But so.
+
+112
+00:48:13,360 --> 00:48:39,152
+In order to make more measurements of new particles, you have to keep building these bigger and bigger particle accelerators, which is why now they're in the planning stages for an even bigger one after the LHC, because we want to see if there's something out there, because now that we've kind of covered all the particles that we see that fit into the standard model, maybe if we get even bigger particle accelerators, we can discover something that isn't predicted by the standard model, and maybe that could be...
+
+113
+00:48:39,152 --> 00:49:08,768
+a unique prediction of string theory or something like that. And you could go out and actually say, oh, is this true? Is this fit within string theory, for example? So basically what you're saying is we only have the ability to make enough equals MC squared energy. So we can make enough of that E where the M on the other side of the equation, we've found the biggest ones that we could possibly find.
+
+114
+00:49:08,768 --> 00:49:30,496
+But that we could rest on our laurels and be like, okay, we got it. We solved physics. But instead, you're like, I wonder. Yeah. And actually, that's been a field of study for a while is they call this field called supersymmetry where they ask you, oh.
+
+115
+00:49:30,496 --> 00:49:54,000
+What if, for every particle that we've discovered, that it has this super symmetric partner that's very, very heavy, and then it'd be nice because physicists love symmetry, just like artists and other things, or maybe sometimes artists don't like symmetry. Deep, man. We do like symmetry, and so this idea of super symmetry has come along, and we try to test. That actually has some unique...
+
+116
+00:49:54,000 --> 00:50:23,680
+Predictable or unique falsifiable predictions that we have gone out and looked for. And so far, it's not looking great, at least with the LHC. Maybe in the future, symmetry will be more, we'll say plausible as we expand the parameter space that we can search. But right now, I haven't seen any super symmetric signs out there. Hold on. Actually, well, now I have a question. It's like, OK, so what's the smallest particle that we have? And why is it we need more energy?
+
+117
+00:50:23,680 --> 00:50:53,024
+to make smaller particles because we just have to like smash it together harder to break it apart. So define smaller. Because I was going to say like more energy should mean more massive particles by equals MC square. Exactly. So that's actually the thing is. Yeah. So what's the thing? So all these particles that we might discover are actually really, really heavy. And we say that they're small in the sense that as far as we can tell, they basically have no size.
+
+118
+00:50:53,024 --> 00:51:22,544
+They're actually quite heavy in terms of mass. They're not physically very large. They're physically all... So they're like when you hold a roll of lead. You're like, I can't believe this thing is this small and is this heavy. Exactly. And actually, as far as we know, electrons have no size. As far as we know, electrons are infinitely small points. Wait, so they can be... They might be... Is that why they're... Wait, hold on. So when you actually try to measure an electron that's like...
+
+119
+00:51:22,544 --> 00:51:50,736
+around like, let's say just a hydrogen atom. Like if we're trying to measure its electron. Yeah. The chemistry I know says to think about that. Well, the chemistry actually says to think about it in both ways as well of like, this could be a point, a particle, or it could be this cloud and it's just wherever. It's like just a probability distribution and it's diffuse. Right.
+
+120
+00:51:50,928 --> 00:52:18,704
+And, you know, that's where things like pi bonding, which is really cool, comes into play about like flat molecules and whatnot, double bonds. Yeah. Yeah. Apple pi bonding. All right. Is it apple season yet? And so is this sort of like the duality of electrons like this when we think about like heavy particles, but also like, you know, small particles?
+
+121
+00:52:20,016 --> 00:52:49,936
+Yeah, it's fairly similar in that they all still behave in the same way. They all still obey that quantum mechanical. You can't really say it's exactly here. It kind of exists in this distribution. There's actually this funny theory, the one electron theory. So there's this theory that is 100% consistent. Oh, I know this theory. I love this. With physics, is that there's only one electron in the whole universe.
+
+122
+00:52:49,936 --> 00:53:17,904
+It exists everywhere. These probability distributions just all add up. If you could add up all of them, the universe would equal one because it exists somewhere. But every single atom, every single molecule, everywhere in the universe is interacting with only a single electron that is just everywhere at once. Well, that's how Santa gets to every house in the same night. Same principle. And actually, some of that is aided because technically because of...
+
+123
+00:53:17,904 --> 00:53:45,216
+Symmetries in Physics, an electron traveling backwards in time is the same as a positron or antimatter traveling forwards in time. Wait, do we have to talk about Feynman diagrams now? I was not ready for Feynman diagrams for this. Yeah. Okay, we could. We could. Well, I would actually like to... I was just thinking about this in the car today.
+
+124
+00:53:45,216 --> 00:54:15,104
+is the double slit experiment. So can you explain to me how somebody actually slows down sending electrons through a... Actually, you know what? If somebody has a mechanical pencil and a laser pointer, you can actually do the double slit experiment at home. It's awesome. Just take two pencil leads and hold them ever so slightly apart and then take your laser pointer
+
+125
+00:54:15,104 --> 00:54:43,840
+Angle the pencil leads at like 45 degrees and slowly against a dark flat surface like bring the laser pointer up and down and you will see the double slit experiment happen right in front of you. So Kyle, explain to me the double slit experiment for everybody listening real quick. So the double slit experiment was one of the first, maybe the first experimental
+
+126
+00:54:43,840 --> 00:55:12,576
+Proof that light could behave both as a wave and a particle. So if you shoot light like a laser or even just like a light bulb, it doesn't really matter, through a double slit. I will shoot a light bulb through a slit. Got it. Yeah. Two slits that are very close together. What you would expect if light were just particles.
+
+127
+00:55:12,576 --> 00:55:42,256
+is that on the other side, you would get just two slits, just like casting two perfect shadows, right? You can imagine if you stand back with a baseball pitching machine, and you have two slits, and you have two pitching machines. As you fire the baseballs between the slits, you just see two, and you could track where the baseballs hit on the other side, you would just see two slits where the baseballs land, right?
+
+128
+00:55:42,256 --> 00:56:02,208
+Yeah, and actually, well, in the original experiment, or the diagrams of the experiment that I've seen, I don't know what the original looked like, but it's typically like you've got a very, very, very, like, pretend like it's an infinitely long wall, and you have two extremely thin slits, like, you know, like those things that you would shoot arrows out of in medieval castles.
+
+129
+00:56:02,208 --> 00:56:28,352
+And so they're very, very, very tiny. And so you can think about standing in one spot and like looking through the slits and you would only be able to see like a sliver of wall and there you could only put your arrows onto that little sliver of wall. But that's not what happens. So what happens? What happens is that you get this interference pattern where you get a very strong central peak and then a dip where there's no light and then two more than...
+
+130
+00:56:28,352 --> 00:56:54,096
+On either side of that central peak, you get very strong, but not quite as strong as the central peak marks. Hold on. Interference pattern meaning what? So you're describing these peaks and these valleys, but what's really happening on the wall? Explain to me in kindergarten terms. So instead of two lines on the wall, what do we get? We get five or ten or whatever.
+
+131
+00:56:54,224 --> 00:57:16,752
+Yeah, so you get a bunch of lines and all of those lines are where the light is actually bright or dark, right? And those bright or dark locations, the bright locations you can kind of imagine are where the light is very strong and the dark locations is where the light is not very strong. And this happens because
+
+132
+00:57:16,848 --> 00:57:43,616
+When it travels as a wave, there are peaks and troughs, like every wave has peaks and troughs. And sometimes when two peaks line up, you get an even bigger peak. And sometimes a peak and a trough line up and you get nothing. And then sometimes two troughs line up and you get a very deep trough, right? And so if you can imagine if waves time slightly differently, you're going to get a mixture of very strong peaks and very deep troughs and very...
+
+133
+00:57:43,616 --> 00:58:10,704
+and a bunch of stuff in between. Right, but we can't see the troughs, so it's like rectified. Yeah, you can't see troughs. It's just a lack of light. So that's what you end up getting. And this is a suggestion that light actually behaves as a wave. Like you can actually conduct the double slit experiment with water in a water tank. I was going to ask you about that. So that's something that- You could do it with sound too, maybe. I wonder how you would do it with sound. Anyway.
+
+134
+00:58:10,704 --> 00:58:24,368
+Okay, anyway, so that's the line of like particle physics of like we cannot test string theories like it's too small. It's like the matter that we can collide.
+
+135
+00:58:25,296 --> 00:58:45,472
+So the problem with testing string theory is not maybe it's well firstly it's that strings are would be very very very small and so as of yet we have not figured out a way how to split like electrons into anything smaller or quarks into anything smaller even though we've tried so maybe they maybe are maybe quarks and maybe
+
+136
+00:58:45,472 --> 00:59:00,960
+Gluons and photons and electrons maybe they are made up of strings but we haven't figured out any way to split them apart yet so as far as we know they're not made of anything but just like they used to think atoms weren't made of anything maybe atoms turns out they are made of stuff
+
+137
+00:59:00,960 --> 00:59:22,480
+and so for string theory we have to predict like oh maybe if you turn the crank on a complete string theory it says that we predict that the proton mass will be exactly this and it turns out we go out and we look and the proton mass is equal to that like all of the different it turns out that even though we have this very complete theory of particle physics we cannot tell you why
+
+138
+00:59:22,800 --> 00:59:52,416
+Any of those things are the way they are. We can't tell you why the speed of light is 3 times 10 to the 8 meters per second. We can't tell you why the mass of a proton is what it is. We cannot tell you why gravity seems so weak compared to the strong force, the weak force, E&M, etc. We don't know the why to any of these. And so kind of in that way, even though we say we have this complete theory of particle physics, it's kind of just like four
+
+139
+00:59:52,416 --> 01:00:20,560
+Cats in a trench coat pretending to be a person at the grocery store so they can buy more steak. It works all together, but if you open up the hood, you're like, wait a minute. And so with string theory, the idea is maybe string theory is able to combine all these things and tell you the why. And that would be the unique prediction. It would be able to tell you, oh, it's because of this other phenomenon or this. And unfortunately, sometimes when you start asking why questions, everyone...
+
+140
+01:00:20,560 --> 01:00:42,416
+did as a child, right? You ask your mom or dad or whoever, like, you know, I want to watch TV. No, you can't. Well, why? Well, why? Why? You know, you go on. You can keep asking why questions forever. And so that's what physicists run into. I think we will. So we have to, well, we have to start landing this ship. So I asked on Instagram, at Empirical Cycling,
+
+141
+01:00:42,416 --> 01:01:05,584
+in the stories, which is where I usually do my weekend AMAs. So we're going to start doing podcast questions there. So I asked, what questions do you have for our resident physicist? And I got a couple, but I'm just going to cherry pick a few. The first one is, do farts smell bad in space? That's a great question. So one of the problems...
+
+142
+01:01:05,584 --> 01:01:33,456
+One of the problems you have is that in space, if you're deep space, deep space, like it's cold, right, like I said before, so all the stuff would freeze, so it would probably not be very, it wouldn't be gaseous, so it'd be really hard to smell. Like, if you've ever picked up an ice cube and gone, does this ice cube smell? Like, no, because it's frozen. Well, if it's been in a freezer with some nasty stuff, it might. Maybe. But odds are no, because everything would be frozen. Like, the gas, like the methane, frozen solid.
+
+143
+01:01:33,648 --> 01:02:02,432
+Imagine that. Solid farts. Wait a minute. Is that condensed matter physics? Exactly. Yeah, yeah. Very condensed. Okay. Next question is, let's see. How effective would bicycle wheels be as gyroscopes in space? It would be the same, right? Yeah, it would be the same.
+
+144
+01:02:02,432 --> 01:02:32,400
+Just like gyros for planes or spacecraft, things like that. You could use bicycle wheels. They'd be a little big. Usually for gyros, you want them to be small and compact. Depending on how sensitive they are, I'm sure there are parameters like how much mass you want and how fast you want them to spin. But you could probably construct a space gyro out of bike wheels. I like that idea. Someone out there should think about some sort of systems and control engineering PhD thesis. How many bike wheels does it take to balance the ISS? I don't know.
+
+145
+01:02:33,104 --> 01:02:59,664
+Okay, me neither. Are there aliens? I would say almost definitely. The universe is a really big place. What is that super long equation? It's like the dragon equation. The Drake equation. The Drake equation. The dragon equation. Very close. No, that's close. Are there dragons? That's close. That's good. This equation proves that there are dragons. The Drake equation is this...
+
+146
+01:02:59,664 --> 01:03:27,936
+Back of the envelope estimation of, okay, what are the odds that life exists out on the other parts of the galaxy or the other parts of the universe? I think it's the galaxy, right? Yeah. So basically they start from the basic of, okay, you have to think about planets. Planets form around stars. Yeah, it's like how many planets are there times how many stars are there times how many, like what are the odds of like...
+
+147
+01:03:27,936 --> 01:03:56,288
+life evolved, like of it being in the Goldilocks zone so that we can have like both liquid and solid water, et cetera, et cetera, et cetera. And like, so it's basically like a, like a, like the, the odds are infinitesimally low, but we are here and asking the question. So the odds are non-zero. So if there's enough in the universe, the answer is gotta be probably, right? Yeah. Okay. And I like to, I like to say probably because
+
+148
+01:03:56,288 --> 01:04:26,272
+It's pretty, I would say it's pretty arrogant to assume that we're the, like, the universe is billions and billions of light years big and say, oh, no, no, no, we're definitely the only, you know, the only intelligent beings. Nah, it seems farcical. The other problem is, though, the universe, even the galaxy is really fucking big. So, like, the odds that we could travel from place to place, very, very low. Very low. Fair.
+
+149
+01:04:26,272 --> 01:04:54,416
+All right, so I think we got that done, huh? All right, so everybody, thank you for listening as always. Please subscribe to the podcast and share it. I'm so glad that we got to do this very special episode. So the next time that you are out riding and you're thinking, man, I wish I could possibly break through this performance plateau, think about this episode and you will get it done. So thanks everybody so much. Follow me on Instagram at Empirical Cycling and, you know,
+
+150
+01:04:54,416 --> 01:05:10,768
+Again, thanks for your donations, by the way. Regular donators, fantastic. And if you want to ask questions, we'll be putting them up before we record. So keep an eye out on the stories at Empirical Cycling. And with that, we'll see you all next time. Yeah, thanks, everyone.
+

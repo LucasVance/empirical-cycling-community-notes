@@ -1,0 +1,506 @@
+WEBVTT
+
+00:00:00.368 --> 00:00:27.632
+Welcome to the Empirical Cycling Podcast. I'm your host, Koli Moore. Thank you, everybody, for listening as usual, and I'm asking you, as always, to please subscribe to the podcast and, of course, share it. That really helps us grow, especially if you like what we're doing here. You can also support the podcast with a donation. We are ad-free, so that can be done at empiricalcycling.com slash donate. We also have the show notes for this episode up on the website. There are a couple links and stuff like that, so you can check that out.
+
+00:00:27.632 --> 00:00:56.160
+A five-star iTunes rating never goes amiss. Thank you, everybody, who's been giving us a good rating. I'm told that helps. I don't really know, but, you know, let's keep it rolling. So if you want to become an Empirical Cycling client, you can do so by reaching out to me directly at empiricalcyclingatgmail.com for coaching and consultation inquiries. We also are up on Instagram. Well, that's me on Instagram, at empiricalcycling on Instagram, and doing the weekend AMAs and stories as usual.
+
+00:00:56.160 --> 00:01:14.928
+Give me a follow over there if you're curious about that kind of stuff and ask a question. That'd be cool. Today, we have on our podcast the training content manager for Zwift. This is my friend Shane Gaffney, who I've known for several years. He's a good coach and he's a really good dude.
+
+00:01:14.928 --> 00:01:27.952
+And we have a really interesting conversation on, you know, what it's like to program a workout that's probably going to be done by, you know, tens of thousands of people, if not a half million. So, or more.
+
+00:01:27.952 --> 00:01:52.272
+So this is a cool episode. So I want to get right into it, except I also need to apologize. I am extremely frustrated at the audio right now because we did this on Zencaster and despite all of these settings being appropriate, Shane sounds awesome because he has a podcast as well. The Never Going Pro podcast, we'll have a link to it on the website. I sound like I'm in a tin can and we had actually recorded this last week.
+
+00:01:52.272 --> 00:02:17.456
+And I sounded like I was in a tin can, even though all my audio settings are correct. So you will not hear me like this, unfortunately. We had a good conversation. Didn't really want to try it again. So I'm going to try to figure out what's wrong with Zencaster or figure out another platform to record on. So I apologize that I sound like I'm in a tin can, but Shane does a lot of talking here.
+
+00:02:17.488 --> 00:02:46.416
+you know he's gonna sound awesome as always so without further ado I apologize for myself my audio quality in here and there's even a joke in here how my first podcast or first webinar with WKO audio quality was really bad and I guess we can call this a an homage or a throwback to that very first one so I'll try to sort that out in the meantime again I apologize for my audio quality but
+
+00:02:46.416 --> 00:03:05.920
+Anyway, I'll catch you on the other side of the show. This is me and Shane Gaffney. I guess. I always try to analyze what they're doing to me like I do in a dentist's office. Do you do that too? Are you always one of those people like, why are you doing this? What are you doing? I want to find out the whole thing behind this. Yes, I would say so. I'm very analytical.
+
+00:03:05.920 --> 00:03:29.520
+sometimes to my demise because I tend to piss people off when I first meet them. But yeah, I'm the same way. I'm always analyzing. I'm like, what are you doing this for? Could you be doing this more effectively or more efficiently? How can you optimize this experience further? So, for sure. Analysis paralysis. Analysis paralysis, yeah. But, you know, actually, so why don't we get into it from there, which is...
+
+00:03:29.520 --> 00:03:54.992
+Well, wait. Do you want to give the audience context about how we jumped into beards and haircuts? Are you going to intro that? No. We're just going to jump in immediately. Second time's a charm. Well, I'm going to preamble the episode and give the context to the audio issues that...
+
+00:03:54.992 --> 00:04:24.608
+that were faced previously and why that episode had to be thrown out. So hopefully we can do it better this time, and I think we can. So where were we in what was a smooth transition until you decided to knock on the fourth wall? We were talking about analysis paralysis. Yeah, so I think that's actually something that we didn't touch on last time that I wanted to kind of ask you about, which is your coaching philosophy.
+
+00:04:24.608 --> 00:04:54.208
+because I think this is something that a lot of coaches kind of talk about off the air as it were because on the air we're always trying to you know give very concise and practical advice well unless you're listening to a Wattstock episode in which case three quarters of it is not that but when it comes to that you know your coaching philosophy how has it changed over the years like when you started versus where you're at now and I think you know maybe the type of
+
+00:04:54.208 --> 00:05:16.512
+coach you are. Your ideal clientele is different from mine. So maybe that has something to do with it. So where did you start and where did you end up now? I started off doing everything by the book, like Joe Friel-esque, right? The Joe Friel book, yeah. The Joe Friel book. That's the book I started. So I was doing everything by the book and applying the same...
+
+00:05:16.512 --> 00:05:38.064
+Training Principles to every single person that walked in the door. And I wasn't really flexible. It wasn't really rigid. I didn't really give a hoot about like subjective feedback. I was just objective data, data, data, data, data. And that's changed pretty much a complete 180 where I'm extremely attuned to subjective.
+
+00:05:38.064 --> 00:06:04.448
+Feedback, Athletes Feelings, Athlete Balancing, Life Balancing, Training and Life Balance, and then not applying the same training principle to 100% of my athletes. And then obviously too, I should say obviously, and also just being more simple, I think, in my execution, right? Just doing progressive overload, doing consistency.
+
+00:06:04.448 --> 00:06:30.304
+doing the correct amount of intensity distribution, whatever it might be. But kind of making sure I'm doing the fundamentals well, and then the actual training aspect, it's not that complicated, I don't think. Yeah, so I think, well, this is something that we touched on last time, which I thought was an interesting difference between me and you, which is you said your most typical client, like the ones that you work with best, are the ones where consistency...
+
+00:06:30.304 --> 00:06:58.912
+seems to be an issue because, you know, we get time crunch people, you know, you get parents, you know, the kind of the same thing that you do at Zwift with workouts and stuff. So, like, how did you kind of find your niche there with that type of client? Yeah, I wouldn't necessarily say consistency is the issue. I would say volume and overall availability is more of the issue because I think my athletes are
+
+00:06:58.912 --> 00:07:27.264
+Harder working than most just because they have to squeeze every possible hour and opportunity out to make their fitness better. And how I fell into that niche, I would say, was I started doing this indoor cycling program called P2, which we covered a little bit in the last podcast. And I did an indoor CompuTrainer studio which featured eight CompuTrainers and classes were an hour.
+
+00:07:27.264 --> 00:07:54.736
+tops because it was basically like a spin class for more serious athletes, I guess, if I was going to have some kind of business slogan to it, which sounds horrendous, but a spin class for serious people. But that's kind of what it was, right? So everything was an hour and I realized that people got fairly similar benefits in performance adaptations and they felt to me like they were
+
+00:07:54.736 --> 00:08:21.696
+Less stressed out, a little bit happier. And it was also the middle of winter in Salem, Massachusetts. So it was 25 degrees and freezing. And it's either before this is pre-Zwift. So it was either you putting on 15 pounds of kit and riding your bike on slushy, slushy roads for three hours or staring at a wall for three hours at like zone two, just mundanly going.
+
+00:08:21.696 --> 00:08:39.679
+Typically did shorter duration, more sweet spot, I guess, focused work. And I saw similar improvements in fitness progression than I did with other stuff with happier clients. So I guess that's kind of my first phrase that like, hey, like, no, not everybody has to do the Joe Friel you do.
+
+00:08:39.679 --> 00:09:09.200
+Yeah, 100 hours at zone two in your base, and that's all you do is zone two without any duration changes, just zone two for all day long. There is some variation to what you can do in training, and you can kind of manipulate intensity and duration to get similar, obviously not the exact same, but similar improvements in fitness. Yeah, well, I mean, I think pretty much most people who have thought about training at some point recognize that, you know, once you're doing your 10 hours a week,
+
+00:09:09.200 --> 00:09:36.080
+And, you know, your body can already do that. And there's really not much point in just doing more zone two at 10 hours a week because it's like, you know, where's the overload? So, you know, I think it's, you know, because personally, that's one of the types of things that I have a harder time with than like, you know, a Neopro who really wants to get to their potential best, you know, racing in Europe or whatever.
+
+00:09:36.080 --> 00:09:50.976
+And, you know, I think that suits you uniquely well for what you do at Zwift. But first I want to ask you, because we talked about it last time and I forgot, what's a CompuTrainer again?
+
+00:09:50.976 --> 00:10:18.864
+A CompuTrainer is a really old school indoor smart trainer essentially where it's a wheel mounted trainer not direct drive and it's not true erg mode because you have to physically push a plus sign and a minus sign to change the wattage on the trainer but it allowed people to get an erg like experience without actually having erg mode where the trainer does it for you automatically so I was able to
+
+00:10:18.864 --> 00:10:46.768
+do indoor classes for eight athletes at a time. And I had, I think at my peak, I had like 10 classes a week. So I had a decent amount of clientele. People seemed to like me. And then that was the, I guess, seed for GC coaching, which is what my full-time gig is now. Yeah. Actually, before we get into the Zwift thing, I want to ask you about that again, because I have a, you know, I,
+
+00:10:47.056 --> 00:10:55.936
+I imagine myself trying to do spin classes every once in a while and every once in a while somebody says you should do like a online group ride thing and I'm like I
+
+00:10:55.936 --> 00:11:22.320
+Don't think I have that in me. If I had everybody doing 2x20 sweet spot or 3x20 sweet spot, I'm like, I don't know what I would say to encourage them. For 20 minutes at a time during an interval, it's like, okay, we're pedaling. We're still pedaling. Holding that same wattage, nothing's changing. And now I'm done, and it's been like 30 seconds. Now what do I say? So how do you...
+
+00:11:22.384 --> 00:11:48.624
+How do you talk? What do you talk about during a long interval like that? Well, I guess that's an interesting question because I think it also relates to my programming style on Zwift too, which I've gotten a lot of shit for from the more serious athletes. Because my main goal is to reduce monotony. And I think by reducing monotony, you increase consistency.
+
+00:11:48.624 --> 00:12:13.120
+And if you increase consistency, you'll get that progressive overload response that you're after. By increasing enjoyment. By increasing enjoyment and fun. So my coaching MO is fun-focused training, basically. And that obviously trickles down into my programming for Zwift, which looks all over the place, but it's all over the place for a reason because I'm trying to...
+
+00:12:13.120 --> 00:12:42.208
+not do 3x20s at sweet spot and just do 60 minutes of 85, 95 RPM and you just want to tear your eyes out by the end of the second interval. There's one more to go, you know what I'm saying? So like shorter duration, more intensity, more variable and more just fun and if it is a very consistent interval like say I'm doing 3x20 sweet spot I'll change cadence every 5 minutes or something. This might be
+
+00:12:42.208 --> 00:13:10.352
+95 RPM for five minutes and then maybe standing at 65 RPM for a minute. So you're getting some breakup in the monotony and the cadence. But as far as what you would say, so I guess that's where I wouldn't do that workout indoors in a class setting. That would just not be the workout I would choose to do because you are going to be, okay, let's hit it at sweet spot, 20 minutes, and then you wouldn't say anything for 20 minutes. Unless you're just like telling jokes or something, but yeah.
+
+00:13:10.352 --> 00:13:38.672
+So for me, that would be an example of what I would do indoors for that kind of class setting. But I think you could do it. And the thing too is you don't really have to be like Peloton-esque where you're like crazy rambunctious energy. I don't think you have to be like that. You have to kind of, I guess, live your brand. And the thing with the actual indoor and in-person is you get that deeper connection between
+
+00:13:38.672 --> 00:14:02.864
+the athletes in the classroom so that the athletes in the classroom almost become this community in the school and you just happen to be there giving them direction but a lot of times the athletes will motivate themselves and like clap for each other or have you ever done like CrossFit if you didn't CrossFit like that kind of box no I've only done martial arts but kind of the same thing right oh yeah a big group workout yeah if you're testing during
+
+00:14:02.864 --> 00:14:27.888
+a martial arts for like a new belt or something. Everybody's watching you. They'll clap and cheer for you. So you kind of you have your your sensei or whatever you want to call that person who's there. But you're kind of really being motivated, I think, by the actual group of people that are surrounding you. Yeah. Although I had a very different experience. It was a very somber affair. Everybody was very quiet and tense while you were testing for a new belt. And then when it was all done, you just.
+
+00:14:28.240 --> 00:14:57.248
+That's it? That was it. And then afterwards, you would go out for Chinese food down the street or sushi or pasta or whatever. And then that was the celebration. And it was like, oh, you got your black belt now. Don't beat anybody up in school. You get a license for those weapons? That was actually a joke we tossed around while we were very young before we got our black belts. Like, you know, you have to register your hands and feet as lethal weapons when you get your black belt.
+
+00:14:57.248 --> 00:15:27.136
+Rex Kwon Do, Napoleon Dynamite I actually did Taekwondo so okay so we talked about kind of group classes but we started to talk about Zwift because you know one of the reasons that I wanted to have you on here is because you do program stuff for Zwift in terms of like workouts and workout comments and you know that's a very different skill kind of like we've been talking about between you and me that I
+
+00:15:27.136 --> 00:15:51.440
+you know again don't have and I you know I'm kind of jealous of that kind of ability and I admire it too because you know it's one of those skills I can't imagine having it's like being amazing at math or being able to write really well you know like every time you read Henry Miller it's like it's so good you think you can do it you know he makes it look so easy
+
+00:15:51.984 --> 00:16:21.168
+But, you know, you kind of make it look easy, too. And every time I think about that, it's like, I don't have this. So talk about Zwift a little bit. So what's your role at Zwift? Cool. Well, first off, thank you for that. I appreciate those are kind words. And just like any other skill, it was something that I failed at many, many times before I figured out what the equation was for a decent indoor workout and my kind of style of indoor training.
+
+00:16:21.168 --> 00:16:49.360
+But yeah, my role at Zwift, my role is a contractor and I'm the training content manager at Zwift. So I work on a consultancy basis and I design a lot of the programming, do a lot of the in-game messaging that you might see if you do use Zwift and you're listening to this podcast. And I also work with a lot of people that want to have program on Zwift.
+
+00:16:49.360 --> 00:17:08.704
+a Whoop or a Zoot or whoever else, like a company that might want to have a Whoop and Zoot, Whoop Zoot Riot, you know? Cherry Poppin' Daddies? No. Yeah, so like a company that basically wants to promote their product on Zwift, they may choose to do a
+
+00:17:08.704 --> 00:17:36.464
+a six workout series that involves their product. So I'll work with those third parties to help them through the process, figure out what the messages they want to get across is, how they want to structure their workouts. And then obviously like Zwift Academy is, I guess where the, that's the most well-known training activation on Zwift is that Zwift Academy where we take
+
+00:17:36.464 --> 00:18:03.152
+Somebody from the community, we have 150,000 plus athletes that sign up. We whittle it down to five males and five females, and then we choose one world tour pro to go on. Did you have a hand in any of the workout programming or what happened for the last Swift Academy thing? Yeah, I've worked on Swift Academy for the last three years. So I've worked with like...
+
+00:18:03.152 --> 00:18:30.224
+Kevin Poulton, Greg Henderson before and now the past two years it's been Dig Deep coaching which is Steven Gallagher and shoot what is the other person's name that's so bad I remember his name Joe Schmo and Steven Gallagher oh my god that's bad I've read some articles by Dig Deep I think they've been on cycling tips
+
+00:18:30.224 --> 00:18:48.256
+They've been on a lot of stuff. Yeah, they've been on Vellon. You know those old- Oh, Vellon.cc? Oh, dude, their Instagram clips are great, yeah. Yeah, so they design a lot of those Instagram clips, and they basically pull writer data, and they make it really sexy on those infographics.
+
+00:18:48.256 --> 00:19:05.472
+So that's kind of them. But yeah, anyways, they've been involved with the work of production with myself as well. So it's been me and them teaming up to create the programs and then Alpes and Fenix and Canyon SRAM for the two World Tour pros.
+
+00:19:05.472 --> 00:19:34.656
+We basically whittle it down to 10 people and then the coaches from those teams and these sports scientists and performers from those teams take it to the finish line. So where, you know, where, sorry, Stephen Gallagher, Stephen Gallagher and Dan Fleeman. Oh my God. Sorry, Dan, I forgot your name. Stephen Gallagher and Dan Fleeman. All right. I've never heard of Dan Fleeman, so I couldn't help you anyway. So when people watch Swift Academy, where would they see like a little like, oh, that was Shane Gaffney's part. Like, where would they see that?
+
+00:19:34.656 --> 00:20:02.880
+In the messaging. Yeah, if you've done a lot of Zwift workouts, you know my copywriting style, I guess, more or less. So that would be the easy way to figure out which workouts I did. And hint, hint, I did all of them. So if you did any work on Zwift Academy, I was the one that messaged it and created the messages. So your messaging style being like, way to go, killer. Yeah, like more.
+
+00:20:02.880 --> 00:20:29.152
+A little bit of science, a little bit of fun banter, and a little bit of not so serious at times either. And it tends to be like during the warmup, it tends to be the nuts and bolts. Here's what's coming up today. Here's why we're doing it. Here's what the purpose is. And then during the actual main set, it's more motivational. Like you only have one minute to go. Keep going. Increase your cadence. Decrease your cadence. Quit looking at the clock.
+
+00:20:29.152 --> 00:20:56.976
+That kind of stuff. More motivational stuff. Maybe some jokes. If it's like a long interval, I might tell like a joke or give like a bike facts or like something. All right. I got to hear a joke that you would tell during an interval because I'm not sure if I'm suffering, I would want to hear a joke, but I would want to tell one. So what's Shane's greatest hits joke during an interval? We can make it specific to what we talked about before, like where does a sheep go get their hair cut?
+
+00:20:57.872 --> 00:21:26.096
+Where? At the Barba shop. Why am I laughing? That's so stupid. B-A-B-A-B-A, like the sheep bars. I think it's because we're both from the Boston area and it's like. Oh, that's like, I guess that's true too, yeah. Oh, so we've now come full circle to the Barba. Oh my God, that was so funny, kid. Dude, you got the best haircut. Oh my God. But yeah, you look just like your father.
+
+00:21:26.096 --> 00:21:50.208
+So, alright, so with Zwift also, you know, I think what you do on Zwift is interesting in another way because, well, actually, here's a question I had, which is, do you see that your messaging keeps people coming back? Like, do you have, like, no messaging versus...
+
+00:21:50.208 --> 00:22:14.016
+Shane messaging data that shows people enjoying it more and, you know, using Zwift and Zwift workouts more frequently. Because I imagine that, you know, your number one goal at Zwift is retain user base because that's your income. And then it's like, you know, have fun or whatever it is. Yeah. Yeah. That's a great point. It's an interesting dynamic where I am a coach, but I'm creating.
+
+00:22:14.016 --> 00:22:39.616
+Workouts and Training for Zwift. So my goal is to, like you said, increase retention, increase and improve onboarding experience, reduce cognitive load for people. That way they get more enjoyment out of it. And basically, in a nutshell, make people use the product and have people enjoy using the product, which is Zwift. And yeah, in terms of data, I do have data that shows the stuff I've done.
+
+00:22:39.616 --> 00:23:08.928
+has been more engaging and more retained relative to other coaches and also the workers with no messaging in them at all. A good example of that is Build Me Up. So Build Me Up has been done by like 1.5 million times or something like that by people. So what is the workout? Well, Build Me Up is an actual training plan. So there's training plans on Zwift and then there's individual workouts. And Build Me Up was the...
+
+00:23:08.928 --> 00:23:36.352
+The first thing I created for Zwift, which kind of got my foot in the door. And Buildmap is a 12-week basically sweet spot focused progressive plan where three weeks progressive, one week recovery, very vanilla in terms of its construction. But the actual workouts and the intervals are a little crazy looking, like we talked about before, because the goal was to have people enjoy them and make people come back for more.
+
+00:23:36.352 --> 00:24:04.800
+2x20 at sweet spot or a 3x20 at sweet spot. It's more like things called the red unicorn and orange unicorn and like ridiculously named things, but really fun, not serious. And people get an improvement in their FTP or VO2, whatever you want to say. The overall performance of fitness does improve. So yeah, that was my first foray into Zwift. That fortunately did really well.
+
+00:24:04.800 --> 00:24:23.696
+People loved it. People engaged with it still. It's still the number one training program on Zwift currently. And then that basically opened the door for me to do more stuff for them. And so did you do that before you were working at Zwift? You just made a plan there and you were like, here, people have it. And they were like, this is kind of awesome. Yeah.
+
+00:24:23.696 --> 00:24:51.648
+Yeah, so when they first produced flexible training plans, that was five years ago or so. So they worked with, I think, six coaches and they all created their own different version of their training plan. So my version was build me up. And fortunately, like I said, that did really well, much better than the other plans that do, that other coaches produced did. That did the best out of them all. And yeah, so they kind of realized that.
+
+00:24:51.648 --> 00:25:19.168
+This guy might be on to something. This guy kind of represents what we want to get across, which is their whole thing is serious training made fun. That's their slogan, I guess, or not their mission, but whatever word I'm trying to think of here. So I kind of embodied that statement, I guess, well. So they wanted to work with me more. And then my contracts have gradually gotten...
+
+00:25:19.168 --> 00:25:46.368
+longer and more responsibilities since then. And hopefully better compensated. Yeah. I mean, I'm going to retire next year, which is I'm really excited about. No, I'm just kidding. Can I visit you in your summer home? Yeah. Come down to Florida, kid. I'll be down in Naples. Florida. I'll be down in Florida. I'll be on the golf course. I think it's interesting because last time,
+
+00:25:46.368 --> 00:26:16.176
+You and I did this. We kind of talked more about how most of the stuff on Zwift is actually not training plan focused. So what's the breakdown between people who are looking for training plans on Zwift versus people who are just trying to get in a workout or trying to do something that their individual coach or maybe some training plan from TrainingPeaks, what that has prescribed to them?
+
+00:26:16.368 --> 00:26:41.792
+Yeah, so five years ago, or more than now, it's probably been six years now, when Zwift first came on the market and they allowed training plans to be done on Zwift, that was a pretty large breakdown of performance-oriented cyclists, competitive cyclists, and kind of early adopters. And then over the years, and especially with the pandemic, it's really accelerated the process.
+
+00:26:41.792 --> 00:27:08.720
+by 5, 10 years, if not more, right? Like Zwift has obviously exploded since COVID has hit. Now it's a lot more people trying to shoehorn a 30-minute workout into their schedule between nap times for their kids or if a meeting gets canceled on Zoom, they have an extra hour so they can squeeze something in quickly. It's been more of that kind of athlete on Zwift. So I guess more...
+
+00:27:08.720 --> 00:27:32.688
+More workout centric and less training centric, if that makes sense. And there is still a good contingency of people that use Zwift for training and they use Zwift as their visual distraction and their gamified experience because obviously it's more exciting than staring at a wall like it was 10 years ago when, you know, when it was the middle of winter in Boston, there was a foot of snow on the ground. You couldn't.
+
+00:27:32.688 --> 00:27:46.672
+right outside. So it was literally you on a set of rollers for an hour just watching your power meter and your time and hopefully making that thing try to go as fast as possible. I remember that winter. There was five feet of snow on the ground. Oh my God. It was so terrible.
+
+00:27:46.672 --> 00:28:14.720
+My car got stuck. My car did get stuck. Oh my god. And now Mark Wahlberg with his biceps came and he rescued me. He lifted my car right out of the snow. My sister dated him when he was still Mackie Mark. Oh boy. But yeah, so there is still a good amount of people that do training, but the more serious athletes tend to do their own thing because it's obviously...
+
+00:28:14.720 --> 00:28:35.520
+We have a million plus people that use Zwift, so there's no way I can create something that's going to be appropriate for a million plus people and be able to individualize the training and the dosage and the overload, whatever you want to call it. So people that are more serious tend to just do their own thing and use Zwift as the visual distraction.
+
+00:28:35.520 --> 00:29:01.872
+But that kind of frees you up on Zwift because you know what the majority of your clientele is doing, right? Right. So you don't have to go, all right, how do I develop a plan for crit riders and plan for gravel riders and plan for ultra mountain bike and stuff like that? Yeah. Yeah, I think eventually, or at least the hope is that Zwift will be more adaptive and more...
+
+00:29:01.872 --> 00:29:16.224
+individualized to different needs and wants of athletes. But for now, there's just no way for them to do it. And the other thing with Swift too, it's interesting compared to other indoor training apps is it's not just training.
+
+00:29:16.224 --> 00:29:32.720
+They have racing, which is a huge draw for people. They have the whole gamified badges, and you can unlock a Tron bike. You can unlock helmets and kits and shoes. So it's kind of like a role-playing game mixed with
+
+00:29:32.720 --> 00:29:51.344
+A training game mixed with a competitive competition. There's many different flavors of Zwift. There's power-ups too, right? Power-ups, yeah. So for Zwift, what percentage inspiration is actual bike racing and what percentage inspiration for Zwift is Mario Kart? That's a great question, I think.
+
+00:29:51.344 --> 00:30:14.800
+The brand DNA, if we want to get super corporate, people are familiar with the Zwift logo, right? There's a Z that's orange, and there's three rounded corners and one sharp corner. So the reason for that is they're trying to
+
+00:30:14.864 --> 00:30:37.728
+Through iconography or whatever, they're trying to get across that there is tension between simulation and video game. And that's where the rounded corner versus the really sharp corner comes into play. I think there isn't like apps like RGT where RGT is a Zwift competitor, but they're
+
+00:30:37.728 --> 00:31:03.312
+They're more well known for their racing because, well, I shouldn't say that. They're more known for their more accurate drafting and they're more accurate. Yeah, that's what I've heard too is their physics are a little better modeled. Because in Zwift, I've seen people doing Zwift races and I can't believe how many
+
+00:31:03.312 --> 00:31:32.640
+people seem to occupy the same space at the same time, which is kind of antithetical to what happens in actual physical space. But it's cool looking. For sure. And it's fun. I think that's the thing. You have to have the lens on of fun when you look at Zwift, not on simulation. Has Zwift ever tried to do bumper kind of stuff like in Mario Kart? No, but I'm sure one day it's going to be. What is that?
+
+00:31:32.640 --> 00:31:57.680
+What was that game? It was on Sega Genesis and you had a chain. You used to hit other bikes with the chain. Oh, I have no idea. You know what I'm talking about? I think it was like Rad Race or something. I was a Nintendo kid. I didn't play Sega. Nintendo is the same thing. It's like Mario Kart, right? Oh, yeah. Well, it wasn't the same thing, but you shoot like the blue shell was like heat seeking or whatever, right? So I'm sure one day they're going to have this like...
+
+00:31:57.936 --> 00:32:27.376
+Bar where you can drag it to become Mario or you can drag it down to become outdoors. You can choose whatever you want to experience on Swift, right? That's actually kind of cool. I would actually do the Mario thing. I would too, man. It's super fun. You're still exercising, right? Even though you're not doing anything really structured, but you're still enjoying the process. Well, and it's better than a work desk where you have to be pedaling to power your laptop.
+
+00:32:27.376 --> 00:32:56.848
+I do want that someday too though, man. Why isn't my trainer hooked up to a battery outdoors? That's awesome. How many kilojoules of power I'm producing? I could use that to power my light or something for a day or two. That was a problem we did in E&M. You hook somebody on a bicycle up to a generator and how many watts can they produce? We did the whole thing. It was really cool. What was the average?
+
+00:32:56.848 --> 00:33:25.248
+do not remember. I just remember being informative about how fast people pedal. He was like, how fast do people pedal? I was like, I'm a cyclist, I can tell you. And that was my best contribution to that class for the entire semester. That's good. You knew average cadence guy then, so that's great. I did, yeah. I was the cyclist guy. I was the guy with that cap. Okay, so when it comes to Zwift, what's the number?
+
+00:33:25.248 --> 00:33:47.536
+Breakdown, more or less. How many people on there are very serious users and how many people are just trying to get a workout? And about how many people will do an average workout on Zwift that you program? Yeah, so I guess we have a breakdown of like, we do compete, train, and explore.
+
+00:33:47.536 --> 00:34:15.472
+I would say people that do competition, they are the quote unquote more serious. So that's like a 10% ish of our audience. Train tends to be like a closer to 50%. That's a little higher pool. And then explore is 25 to 30%. And they kind of fluctuate in explore is the more they're the person that's more interested in the like role playing game and like customization.
+
+00:34:15.472 --> 00:34:44.752
+doing routes and achieving badges, that kind of stuff, more like gamified experience. So it's kind of like that where the majority is still training, but there are some hardcore cyclists, I don't say hardcore, but there are some more serious cyclists that do racing, that's like 10%, and then the other people do explore. And then in terms of like engagement with a workout, Swift Academy, since I brought that up right, we had top ahead, but I think those workouts were done like
+
+00:34:44.784 --> 00:35:12.336
+300,000 times plus camera of the exact data point, but a lot, right? Like you figure like, so whatever I'm producing is probably going to get done upwards of 25,000 times just off the bat, which is kind of a crazy thing to think of, but it also paints a good picture where like that work that I produce has to be appropriate for the most amount of people possible. So I'm trying to hit that bell curve.
+
+00:35:12.336 --> 00:35:40.512
+right at the top of the bell curve. So it's like appropriate for somebody that is their first ride on Zwift, but it's also not going to feel like a total waste of time for somebody that might be a little more fit on Zwift either. Well, that's an insane challenge. It's super challenging. So where do you start with something like that? Like how do you, well, you know, Build Me Up's been done by, you know, over a million times. So let's just pretend it's like a million people. So how would you design a workout for?
+
+00:35:40.512 --> 00:36:07.360
+a million people to make the new people feel like it's not a waste or, you know, feel like it's not intimidating and the, you know, experienced people feel like it's not a waste of time. Yeah. So I think like you can control the main controllables, which sounds stupid to say, but like workout duration and workout intensity. I think those are really two super important ones to control because the goal I think for any coach is to
+
+00:36:07.360 --> 00:36:22.000
+Provides success to their athletes. And obviously I'm no different. And I think the way that you provide success is by not creating something that they just can't do physically. Right. So like a good example is like doing.
+
+00:36:22.000 --> 00:36:47.728
+The Gorby, which is this workout on Zwift, which is 5x5 and it's at 110% FTP. And that's the other thing too with Zwift is right now we can't base everything. We can only base things off of a percentage of FTP. Right, because you need an anchor point. Right, which we both know is not the best way to go about things, especially for super threshold efforts. But anyway, so duration, so like 60 minute workouts or less during the week.
+
+00:36:47.728 --> 00:37:08.320
+and then 60 to 90 minute workouts during the weekends. That's super easy thing you can do. That automatically is going to jack up completion rates because people have more time during the weekends and less time during the week. Reducing overall intensity to be more, I guess, accurate to FTP where if it's sub-threshold.
+
+00:37:08.320 --> 00:37:36.672
+It's more accurate to use FTP than super threshold. Not 100% accurate as we both know but better. So doing things like sweet spot instead of threshold because if you do stuff at FTP people are testing with a ramp test they're probably going to have inflated FTPs of 10% if not more. So by bringing stuff down to sweet spot you're getting a threshold stimulus probably and you're probably not going to exceed FTP.
+
+00:37:36.672 --> 00:38:03.392
+So it's kind of using those things like using the knowledge we have of physiology and of what people test with and how that can conflate their FTP. Like the ramp test is a great example of that. And then automatically adjusting program intensity as a result of that. So that's why BuildMeUp is more sweet spot focused and not like FTP intervals. Because I'm probably, if I did...
+
+00:38:03.392 --> 00:38:24.576
+10 minutes of FTP, it's probably going to be more of a 110% FTP or not 100% FTP. Right. And recognizing factors like that, you see, you know, increases, you know, enjoyment and et cetera, et cetera. Like what kind of feedback do you get both positive and negative on
+
+00:38:24.576 --> 00:38:52.704
+That kind of stuff. Because I'm sure you've got smart asses like me who are like, well, I feel like this is not exactly, you know, physiologically speaking. Exactly. And then you get people who are like, man, this could be harder. Like, kill me. Come on. Yeah. That Shane Gaffney doesn't know what the hell he's talking about. He's a loser, kid. He's a loser. Don't listen to that guy. No. So it's true. I mean, people that are more hardcore or.
+
+00:38:52.704 --> 00:39:21.168
+are trying to sell their wares and their products are going to be critical of Zwift, right? Because they're trying to sell their brand, not because if you could find better training on Zwift for $15 a month, why would you ever want to buy a coach or why would you ever want to buy a training plan, right? Yeah, for real. So I think market wise and business wise, people like to crap on Zwift because they're selling their own products. And then the other thing too, which I already mentioned is
+
+00:39:21.168 --> 00:39:48.448
+The training plans on Zwift are canned. They're not individualized. They're not personalized. And there's no way for us and for me to currently do that because the actual technology just isn't there right now. So, yeah, I think if you did want a more individualized, more personalized approach to training, obviously get a coach, right? There's no better investment you can make in your training than by using a coach.
+
+00:39:48.448 --> 00:40:17.872
+a coach and having an individualized plan and empirical cycling has like 900 coaches now so you can just choose one of those five including me but you know we'll round up to 900 but no so that's true it's like that but yeah I mean of course like of course we Zwift could be doing stuff better and I think they want to but that's just not we're just not there right now but
+
+00:40:17.872 --> 00:40:45.712
+You're never going to get a better return on investment than a coach, but you obviously have to have the budget to afford a coach too, and especially a good coach such as yourself. Or yourself. Or myself. I'm full, but yeah. Of yourself? I am full of myself on most occasions too, so I think it goes with the territory.
+
+00:40:46.000 --> 00:41:15.024
+You know, so I think, well, because I think knowing your clientele at Zwift kind of, you know, frees you up from, you know, having to think about somebody's long-term athletic development versus, you know, coach like me, because that's one of the things that I particularly specialize in. It's like, you know, I want to be as fast as I can be. All right, cool. You're going to work with empirical cycling. If it's like, you know, I've only got an hour a day and I can't afford a Peloton, but I've got...
+
+00:41:15.024 --> 00:41:43.312
+the necessary stuff to do Zwift. Like I'm going to get on Zwift and I'm going to get in a good workout. Like I, you know, I totally understand that. And, you know, I think you and I have discussed this before and most coaches are like this, which is like, you know, we can't coach everybody. You know, we would have no time and our, you know, product as it were, even though I hate using that word to, you know, talk about, you know, being a coach would suffer from that kind of thing. So, yeah.
+
+00:41:43.312 --> 00:42:12.032
+If you work with too many people, your overall service just gets watered down, which is obviously not what you want to do for retention and engagement. But I think too, with Zwift, the people that tend to do workers in training tend to be newer riders or newbies. And we both know if you don't have a lot of fitness, it doesn't really matter what you do because you're going to see a market improvement in all physiological thresholds.
+
+00:42:12.032 --> 00:42:40.800
+You could do zone two for an hour and see an improvement in VO2 max if you're super out of shape. Have you gotten clients for GC coaching from Zwift and being known there? Yeah, for sure. That's where my original usage for Zwift was a marketing tool. I used to run group workouts on Zwift four years ago, and I was one of the only coaches that did group workouts on Zwift.
+
+00:42:40.800 --> 00:43:09.776
+because at that time there was a lot of naysayers like physically with coaches like all this this training program like ride your bike outdoors right that kind of stuff right you already say that yeah the hard oh more or less so I was like that's great I was that guy I didn't advise it for everybody but I was that guy myself yeah and that's not to say riding your bike isn't important because you should ride your bike outside especially if you're going to be competing outside duh but there is a time and a place for indoor riding I think too so
+
+00:43:09.776 --> 00:43:36.704
+I came to Zwift because I was using their reach to improve GC Coaching's reach through group workouts. So back then there was like a great day on Zwift. There would be like 300 people at a time on Zwift. And now it's like 30,000 plus active. So I would do group workouts and I would get like 100, 150 people signed up for group workouts.
+
+00:43:36.704 --> 00:43:58.544
+was a thing that registered with Zwift headquarters. They're like, this guy is doing something right because his numbers are really high for his engagement. So that's kind of how I got my foot in the door. And then, like I said, build me up came from there. But anyways, yeah, like, of course, I've gotten athletes from Zwift, from my blog, from my podcast. That's just marketing one-on-one. I'm sure you're the same way.
+
+00:43:58.544 --> 00:44:27.904
+When I first met you, that's not true. When I first met you, that's not true at all. It was me and myself and I, and that was pre-podcast. You did your podcast, now you have 900 coaches, like I said before, which is just really five. But your business has exponentially become more busy and your success has obviously become better too because you figured out where your niche was and where your market was.
+
+00:44:27.904 --> 00:44:57.360
+So that's kind of where I did the same thing. Well, because I think for me, I think what happened was people started asking me questions that didn't seem to be available elsewhere. You know, like it all started with Tim Cusick asking me to do a webinar on sprint training. And, you know, that first webinar, other than having horrific audio quality, I'm so sorry, everybody who watched that. I can confirm that.
+
+00:44:57.360 --> 00:45:22.192
+was, well, because it was just me with my like, you know, three or four generational Mac book, you know, sitting in, you know, on my couch in my office. And that was that. But, you know, Tim asked me to do that. And I, you know, I was like, does everybody not understand the basic principles of like sprint training? And, you know, it turns out they didn't.
+
+00:45:22.192 --> 00:45:51.296
+I'll not say everybody doesn't, but, you know, it's not as well known as, you know, the basic principles of endurance training, it seems. And so, you know, and that and my contributions to, you know, the WKO Facebook group and stuff like that. And I got a mention or two in some of Tim's podcasts, or not podcasts, WKO webinars. And I was like, maybe I'm not horrible at this, you know? So there was that kind of feedback.
+
+00:45:51.296 --> 00:46:16.272
+Then I started the podcast as a Hail Mary because I was so desperate to stop doing carpentry. If you kneel down a thousand times a day, even if you've got knee pads on, it wears on you. I would just get home exhausted. I was so desperate to stop. The podcast was a Hail Mary as an advertisement of my own knowledge. It seemed to work, which has been really fantastic.
+
+00:46:16.272 --> 00:46:44.656
+I'm wondering if you had kind of the same thing with your success with group workouts on Zwift. Did you go, oh, I think I've got something here? Or did you know you had something to start with? I was a little bit more, I knew I had something because of P2, right? Like I knew I already had a decent amount of athletes and I was already on my way to full-time employment as a coach at that point, away from PT. So I was a PT for 10 years before I...
+
+00:46:44.656 --> 00:47:12.304
+graduate transition to a full-time coach. But Zwift accelerated that full-time employment by a million percent because I basically started doing group rides and then I would get training plans sold, reaching out to me through Facebook, walking to work with me as a coach, whatever it might be. So for sure, that was the...
+
+00:47:13.552 --> 00:47:41.136
+What's that thing you put in like a science experiment that makes the reaction happen faster? The catalyst. That was the catalyst. I could define the word, but I didn't know what the word was. That was the catalyst that helped me go full time. So for sure that happened. Yeah. Awesome. But even to this day, like in you and I have spoke about this, like I still feel like I'm not as good as I want to be or as good as I should be. There's still athletes that I do.
+
+00:47:41.136 --> 00:48:11.024
+X with and I see Y as a result. And I'm like, what the hell did I just do to that athlete? Like, oh my God, I'm an idiot, right? Whatever. Like there's still plenty of times where I don't feel like I'm a master, but I also never want to be, I never want to be a master, quote unquote. I never want to rest on my laurels. I always want to fail, learn, and then keep on challenging myself because I think that's how we grow as people, but also grow as athletes too, right? Yeah. So, yeah.
+
+00:48:11.024 --> 00:48:33.552
+I always say the primary mindset of a coach or, you know, should be the primary mindset of an, of a scientist, which is, you know, self doubt. Like, yeah. And, you know, it's, it's the same in the military. Like you come up with a plan of action and somebody leaves the room and tries to figure out what's wrong with it. Like how, how, if I were the other guy, how could I blah, blah, blah. And it's.
+
+00:48:33.552 --> 00:49:02.560
+It's the same thing as, what's that Mike Tyson quote? Everybody's got a plan until they get punched in the mouth. Exactly. It might be the face, but it's something. Yeah, something like that. Can you say it like Mike Tyson, though? Just for me? No. My accents go as far as Boston kid, and beyond that, not really much.
+
+00:49:02.560 --> 00:49:31.632
+Obviously having too much self-doubt is equivalent to analysis paralysis. Yeah. Where if you doubt everything, then you don't get anything done. So at some point, you've got to stick a workout in the athlete and see what comes out the other side of the meat grinder. And hopefully, our level of experience, it goes better more times than it doesn't. But I know super experienced coaches who still make mistakes. And not to bring up...
+
+00:49:31.632 --> 00:49:59.312
+Tim again, even though we're going to do it a thousand times throughout the rest of history. You know, he said that it's an iterative process. Like, okay, we did this last time. How can we do this better? And so you're always building on it. And I've had athletes ask me previously, how come we're doing something different this year than last year? It's like, well, you're a different athlete. You've got another year under your belt. Your goals might be different, but also I've learned stuff. And so, you know, sometimes you'll see the same workouts, but a lot of the times it's...
+
+00:49:59.536 --> 00:50:27.984
+It can be very, very different. That's why I don't have any saved workouts in Training Peaks. I handwrite all of them for better or worse, which could typos. Hey, what did you mean? Or if I hit save and it drops out, it doesn't save in Training Peaks and somebody's like, you wrote, it's gonna and then nothing. It's gonna what? That's awesome.
+
+00:50:28.208 --> 00:50:55.856
+Tell me about a coaching mistake you've made. Because I think we all talk about coaching mistakes, but it's rare that we actually do a serious mea culpa in public about what we did wrong and what we learned. Yeah. I think you said it. I can think of two, one more business-centric and one more coaching-centric, but I'll start with the business-centric one first.
+
+00:50:56.240 --> 00:51:25.408
+I think a lot of coaches have problems defining their audience, right? And I think we talked about this, like, I want to work with everybody. As long as they want to get better, I want to work with them, right? That's kind of how every coach starts off. And it's impossible, right? Because you have to find your niche. And once you find your niche, then you can market, as we talked before, you can market towards that niche. And then that's where success, I think, comes from and starts.
+
+00:51:25.408 --> 00:51:53.504
+So I think that's the business mistake I made in the beginning was I tried to cast as wide a net as I possibly could. And I wasn't really making a good argument or a good sell or advertisement to anybody because I was trying to be everything to everyone. But that's like coaching adolescence, isn't it? For sure. You're trying to find yourself among your peers, like what differentiates you, what makes you unique while also...
+
+00:51:53.504 --> 00:52:21.952
+you know not being ostracized I still gotta fit in I still gotta make friends I still gotta find a mate in life I gotta you know make a living yep yep and then from a coaching standpoint it was what I spoke about too was like trying to do this the same philosophy and the same approach with every athlete whether that's like a Joe Friel right now like the hot thing is polarized like everybody is so Steven Seiler right
+
+00:52:21.952 --> 00:52:51.488
+And I love Steven Seiler for sure. But is Polaris the best thing for everybody on the planet Earth? Probably not. Is Sweet Spot the best thing for everybody on Earth? Probably not, right? Yeah, they're tools in a toolbox. Exactly. So my toolbox has gradually, I guess, gradually become deeper. And hopefully my skills of using and applying those tools have become better too. Kind of like you brought up, like there is a framer and then there is like a finished carpenter.
+
+00:52:51.488 --> 00:53:21.264
+They both work with wood, but they both do very different things with that piece of wood, right? So it's kind of the same thing like that, I think. Yeah. And I think, well, okay, I don't have a transition for this, but I wanted to ask you about your podcast, too, because it's been dormant for a little bit. So what was the title of your podcast? Because I always wanted to listen to it. I'm so sorry, I never did.
+
+00:53:21.264 --> 00:53:50.048
+That's fine. I mean, who doesn't have a podcast right now? Everybody has a podcast. But it was the Never Going Pro podcast, which is a little bit of a tongue-in-cheek. The motto was riding bikes and being parents and trying super hard at both. So it's basically me and two other gentlemen who are washed up, right? We have kids. We have families.
+
+00:53:50.048 --> 00:54:17.584
+But we still love riding our bikes, but we know that we're never going to go pro. So that's where the never going to pro podcast came from. So what kind of stuff? What was the subject matter? What was the fodder for? It was a combination of interview with science with the main, I guess, thread was like being okay with where you're at in life as well as like fitness.
+
+00:54:17.584 --> 00:54:47.568
+Not everybody can train for 25 hours a week, and that's okay. As long as you're enjoying and you're feeling fulfillment of what you're doing, that's really what matters. Because ideally, I know that you don't have any kids, but when I became a father, my identity as an athlete and a cyclist quickly sunk to a next page of the identifiers. I was a dad first, and then a husband, and then a business owner, and whatever.
+
+00:54:47.568 --> 00:55:14.736
+So I think cycling right now is a way to augment my performance as a dad, a husband, blah, blah, blah, not to necessarily make myself a better cyclist. Well, that's an interesting phrase, something to augment being a dad. So how does that work? Because I mean, I'm not a dad, obviously, that I know of. No, I'm just kidding. And I'm wondering how that kind of thing happens.
+
+00:55:15.280 --> 00:55:38.192
+How do you become a better father with cycling? I'm clearly not a father. How does it happen? How do you become a dad? That's hilarious. That's one of the best deliveries I've ever heard in my entire life. How do you become a dad? Well, Coley, you know the birds and the bees.
+
+00:55:38.192 --> 00:56:06.720
+When one cyclist manages to find somebody who doesn't mind that his legs are more shaved than hers. If you're on Strava, you get a DM from a Russian woman who wants to show you her photos. That's how it all starts. And then it goes from there. Hi, do you want to see my photos? Click here. No, so I think like, as you know, if you exercise consistently and you're fitter, you're clearer, right? You'll be able to make better decisions.
+
+00:56:06.720 --> 00:56:34.288
+Faster decisions, you're, I would say, just a better human, period, if you're physically fit and active. So it's the same thing. Like, to be a parent takes an enormous amount of energy. And if you're taking care of yourself, you're able to output a lot more energy into the child or the wife or husband or whatever it might be, right? Yeah. So I kind of say, like, if I don't work out, I'm foggy.
+
+00:56:34.288 --> 00:57:01.520
+I'm not miserable by any means, but I'm not as happy. I'm just not as productive as when I work out. But again, cycling to me is an outlet to stress and whatever, but it's also a way to make myself a better person. It's kind of like the balance of the other and the self. Because I imagine also when you're a parent, it's really difficult to...
+
+00:57:01.520 --> 00:57:31.488
+to find a couple moments to yourself without having to be addressing something else. It's like, oh, I've got to do the laundry, I've got to do the cooking, I've got to pay these bills, but I also have to work and I also have to find an hour to not feel like a lazy slop. Yep. And I think that's where, back to training, I guess, you have to have a certain surplus of mental and physical energy to do really hard workouts.
+
+00:57:31.488 --> 00:58:01.264
+to push your body to that next level. And if you have all these other things and priorities that come before cycling does, you have to make that decision of like, it's okay if I don't do five by four minutes at VO2 max today because I was up at two in the morning, I got puked on, I had to clean up poop, whatever, right? So maybe I'll just do like an easy hour at zone two instead. But that's really, really hard to
+
+00:58:01.264 --> 00:58:30.640
+Swallow that pride, I guess, of like, you're not going to do your workout because other stuff got in your way. And that's kind of where my, that's another, I guess, my other coaching MO is like, it's okay to have those kind of days and it's okay to allow yourself to be vulnerable and have flexibility in your schedule. Because if you try to stay 100% compliant and consistent on days like that frequently,
+
+00:58:30.640 --> 00:58:58.192
+You're going to crash and burn eventually. Then you're going to take a hundred steps backwards instead of just taking that one day easy and then getting back on the horse again. So it's kind of like maybe one step forward, but then three steps backwards kind of a thing. Yeah. Well, I think that's something that most people who work individually with clients, you know, recognize pretty quickly. Yeah. You know, it's like this person has a job. This person has other responsibilities like they're.
+
+00:58:58.192 --> 00:59:26.368
+You know, their income is not cycling. And so it's kind of a different way to work with that person than, you know, like my professional athletes, you know, a couple of them are new fathers, you know, in the last year. And, you know, if they're not getting on the bike, it's like, you know, you got to get on the bike. This is how you're supporting your family.
+
+00:59:26.368 --> 00:59:50.640
+Although I get the pressures, and I think in some ways I kind of understand how a lot of professional cyclists missed the birth of a child or something like that. I couldn't imagine that, but in some ways I could definitely see that kind of thing happening. It's like if you're in the top five in the tour, do you depend toward it?
+
+00:59:50.640 --> 01:00:20.528
+Do you go see the birth of your child? What if it's your fourth child? What if it's like, oh, yeah, she'll be fine. The kid will be fine. It's going to be great. We've been to that doctor before. Everything's going to be awesome. Or do you abandon and then you go? So what would you do if you were top five in the tour? Let's say you're fourth in the tour in the GC. You've got some mountain stages coming up. You're not sure you're going to be able to hold on to your spot, but you've got a good team around you, and your wife is due. What do you do? What does Shane Gaffney, the pro cyclist, do?
+
+01:00:20.624 --> 01:00:50.528
+Well, I would abandon and go if you have no questions asked. But again, if you asked me that six years ago before I had kids, who knows what the answer would be. But Shane Gaffney today would say for sure abandon and go. Because I know that you're only going to get one, two, maybe three opportunities to see the birth of your child and I think happy wife, happy life. No, just kidding.
+
+01:00:50.528 --> 01:01:19.568
+But it's true. Yeah, and I think there's, I guess this whole like, if you want to put this whole conversation in a box, it's like, where is your life balance and where do your priorities lie? Are they cycling or are they being a dad and being like a human or whatever, right? And for me, like I said, like being a dad and husband, father, whatever, those are way, way more important for me than riding my bike and the tour for
+
+01:01:19.568 --> 01:01:47.408
+Alpe d'Huez or something. Yeah. So speaking of which, tell me about your daughter and CMV. Yeah. So CMV, if you don't know, if you're not familiar with me, but I've been an advocate for awareness for CMV. And CMV stands for cytomegalovirus, which is a mouthful. And cytomegalovirus is super common. And most kids that are...
+
+01:01:47.408 --> 01:02:15.952
+born that doesn't really equate to anything aside from a cold. So a problem with CMV is when it occurs to a baby in utero, it can cause a tremendous amount of damage to the developing fetus in terms of vision, hearing, cerebral palsy, brain development damage, all that kind of stuff. So my daughter Grace was unfortunately born with congenital CMV, which means she was infected with CMV in utero, and that resulted in her being
+
+01:02:15.952 --> 01:02:43.600
+pretty severely disabled. So she'll be three in a month, actually. Crazy. So for the last three years, I've been really working, especially through social media, to raise awareness for CMV, as well as we have a bill in the Massachusetts Committee on Public Health to mandate universal screening for newborns for CMV, as well as to mandate prenatal education for CMV.
+
+01:02:43.600 --> 01:03:12.224
+My wife and I, we never were told about CMV or how to prevent it, which isn't anything you wouldn't hear now with COVID. Washing your hands, not sharing utensils with your toddlers, not kissing toddlers in the mouth if you don't know them, blah, blah, blah. And basically trying to reduce your risk of exposure to CMV. So that's the main goal of that. And then the reason for universal testing and prenatal testing, sorry, infant screening.
+
+01:03:12.224 --> 01:03:39.344
+Newborn screening is if you don't test a newborn within the first 21 days of life, you're not sure if it's in utero or it was caught after the fact because it is such a common virus. And if you can catch these kids as soon as they're born and they're CMV positive, you can perform treatment to reduce the after effects of CMV. Because the most, my daughter Grace is a rarity where she was born severely affected by CMV.
+
+01:03:39.600 --> 01:04:08.864
+Most kids were born with CMV. They're born, everything gets passed, all their checks get passed, and hearing gradually begins to fail over the course of like six months to a year. So a normal hearing baby with CMV could be totally deaf by the time they're one or two because the CMV continues to attack those hearing centers in the brain as well as the cochlea. And if you can get the babies on treatment, you can maintain their hearing. And obviously, that's...
+
+01:04:08.864 --> 01:04:35.888
+What you want to do for hearing loss. Yeah. So where can people find out more about CMV and about your advocacy of CMV awareness? Yeah, so I would say CMV Mass for Massachusetts. CMVmass.org is the website I would direct people to. And then if you do live in Massachusetts, please reach out to your local politicians, senators, representatives, and ask them to.
+
+01:04:35.888 --> 01:05:04.912
+moved the CMV bill out of committee and onto the floor for a vote. Sounds good. So if you catch CMV earlier, like in utero, what's the treatment like? Because it's a virus. Viruses are hard to treat. Yeah. If you catch it in utero and they do tests on the...
+
+01:05:05.488 --> 01:05:32.848
+God, what's that? Another word? Amniocentesis. Amniocentesis. So if they test the amniotic fluid and they do come back with CMV positive, there is treatment you can do for it. What that treatment is, I'm not quite 100% sure. And I'm also not quite sure about what the actual efficacy of the treatments are either. There hasn't been a ton of data around those things yet. So if you do...
+
+01:05:32.848 --> 01:06:02.080
+if you do have a if you listen to podcasts you're pregnant or you do have a wife that's pregnant listen to podcasts and they do test for CMV just do what your doctor tells you to do don't listen to me some random guy on the internet so what's the what's the bill for CMV I think it's for prenatal testing right for no not prenatal it's for universal screening for newborns so when a newborn is born they do all these tests in the hospital hearing and vision and all that stuff so
+
+01:06:02.080 --> 01:06:30.224
+We want to also do a actual culture for CMV as well. So just like we do for COVID, right? A Q-tip nasal syringe or a urinalysis too is a good way to do it as well. And just like an informatory PCR test. And then, like I said, if the baby is confirmed CMV positive, the quicker you can get that treatment started, which is...
+
+01:06:30.320 --> 01:06:53.136
+The better the overall outlook and hearing and vision, all those things are better for the baby in the future. Which is the whole point about doing this bill is right now, the only way you know if the baby is CMV positive is if they fail their hearing exam at birth. But that's like...
+
+01:06:53.136 --> 01:07:17.216
+90% of babies with CMV always pass their newborn hearing exam. So only the really, really sick babies like my daughter, those are the only ones that are really getting caught right now with CMV. What's the next hearing test? Is it like six months or a year or something like that? I'm trying to think of my son. My son didn't have CMV, obviously. I think it was six months and then one year. I think that's correct.
+
+01:07:17.216 --> 01:07:45.904
+And so it can take some time to incubate and really have that hearing symptom. Unfortunately, yeah. Like I said, that's what most cases are. Most cases, they're hearing 100% normal when they're born. Six months, they may have some hearing loss. And then like one year, two years, three years, they may be totally deaf. So it's a crazy thing. But your daughter has cochlear implants, right? She has bilateral cochlear implants, yeah. Because she was born completely deaf at birth.
+
+01:07:45.904 --> 01:08:15.504
+with some vision issues, cerebral palsy. She has a lot of stuff going on. So we were fortunate to live in Boston and have access to Boston Children's Hospital and be able to really access the best care on earth for her. And we were able to get her implanted with cochlear implants like a year and a half ago or so now. And yeah, it's crazy. Like you can restore a sense, right? That's the only sense you can restore if you think about it.
+
+01:08:15.504 --> 01:08:41.471
+What was that moment like when, you know, your daughter could hear you for the first time? It was pretty crazy, man. I don't know. I don't know how to describe it. A lot of emotions, a lot of excitement, and a lot of, I guess, gratitude, right? To kind of be like, to be where we are, to be in 2022, and then to have access to these kind of treatments.
+
+01:08:41.471 --> 01:09:09.456
+Bananas. So I would say gratitude and being real thankful for like what we have access to. I think that's the main emotion that came out of that. Cool. Is there anything else that we chatted about last time that you wanted to touch on again while we have proper audio recording happening? We're not in a tin can. I'm not anyway.
+
+01:09:09.456 --> 01:09:37.104
+No, I think that was the gist. Yeah, Zwift, I think the gist of that is fun first and enjoyment. Life balance, prioritization of whatever you want to do in life, I think it's important. Yeah, I think that's it. Yeah, I mean, that's also a good plug to hire a human coach, whether it's you or whether it's me or whether it's somebody else, like a friend of yours who you know coaches a couple people.
+
+01:09:37.104 --> 01:10:04.864
+Because I think with like a canned plan, no matter where you get it, it's difficult to know how to rearrange things. Or, you know, I know people who will like do two workouts in a day. Oh, I missed this one. And now it's I can do it on this other day when I've got this other workout. I'm just going to try to do them both. Maybe not the best idea. Right. Yeah. There's obviously going to be always going to be value in hiring a human and somebody that's going to be able to.
+
+01:10:04.864 --> 01:10:33.728
+objectively look at your training and tell you what's wrong, what's right, and then make adjustments to it accordingly. Because that's really hard. Even for somebody like me who knows a little bit about training, it's hard for me to objectively look at my calendar and see, am I doing this correctly? Do I want to be doing something differently? Because you as a human want to do what the most fun thing for you to do is.
+
+01:10:33.728 --> 01:11:02.736
+But if you're performance oriented, a lot of times the stuff that you don't like to do is usually the stuff that makes you a better cyclist, right? Yeah. Embrace the suck. That's one of the things that I think differentiates a lot of cyclists who are very performance oriented is like the enjoyment is in the getting better and in the process more than like any specific thing. Although I always ask people like, what's your favorite workout? What's your least favorite workout? So that way when we get to it, I might.
+
+01:11:02.736 --> 01:11:31.056
+have a couple words of encouragement. I'm like, I'm sorry, but you have to do this. Well, we can try to make it more fun for you, but you cannot avoid this or any interval longer than 15 minutes sometimes. You just got to do 20, 30 minutes, 40 minutes sometimes, and that's just what it's going to be. You're going to eat your vegetables before you can have your dessert. Oh, wow. Maybe.
+
+01:11:31.056 --> 01:12:00.240
+That was a long pause. Ice cream for breakfast. I don't think it was that life-changing. He said this on the podcast. You got to eat your vegetables before you have your dessert. My life forever changed. I usually do it the other way because the fun stuff is always kind of around and I'll eat it while I'm making dinner. I'll just be like, oh, I guess I ate my dessert first. I love it, man.
+
+01:12:00.240 --> 01:12:30.048
+All right. Thanks for coming on, man. This has been great. Of course. Yeah. Happy to come on anytime. Thank you for your time. Thank you for doing what you're doing and helping to lift everybody else's knowledge of physiology, training, all that stuff. So I appreciate what you're doing with this podcast. And obviously, big shout out to Kyle. Shout out to Tim Cusick, who we mentioned a few times in the podcast. Yeah. It's an awesome community. And I think I mentioned this last time, but
+
+01:12:30.048 --> 01:12:57.904
+When I reached out to local coaches, they were all basically dicks and nobody really wanted to get back to me or talk to me. But I reached out to Coley and he was one of the only ones that actually wanted to say what was up and talk to me. So Coley's a great dude and obviously he's been a mentor for me and my knowledge as a coach and a cyclist too. And obviously WKO, all those things have been really uplifting for me.
+
+01:12:57.904 --> 01:13:26.944
+Appreciate what you're doing with this stuff too Alright everybody thanks for listening that was a great conversation with Shane I had a lot of fun he's a great dude and let me know if you want me to have him on again there's always more stuff to talk about so if you want to check him out you can do so at GC Coaching on Instagram gccoaching.fit is his website and also you can check him out on Zwift and if you want to check out cmvmass.org especially if you live in Massachusetts it'd be great to get that bill out and passed
+
+01:13:26.944 --> 01:13:46.544
+my website of course is empiricalcycling.com we've got the show notes up there and if you want to get in touch just shoot me an email empiricalcycling at gmail.com we are taking on clients and you can set up a consultation or any kind of stuff like that and as usual Instagram AMAs and the stories at empiricalcycling on Instagram and with that we'll see you all next time
+
