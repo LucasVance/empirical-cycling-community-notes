@@ -7,7 +7,7 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-3-usa-
 
 # A Deep Dive into Modern Criterium Racing: Analysis & Strategy
 
-This document provides a detailed analysis of the concepts discussed in the Empirical Cycling Podcast featuring host Coley Moore and professional cyclists Alex Carmona and Taylor Warren. The discussion centers on their transition from traditional road and stage racing to a full season dedicated to the USA Crits series, offering invaluable insights for any competitive cyclist.
+This document provides a detailed analysis of the concepts discussed in the Empirical Cycling Podcast featuring host Kolie Moore and professional cyclists Alex Carmona and Taylor Warren. The discussion centers on their transition from traditional road and stage racing to a full season dedicated to the USA Crits series, offering invaluable insights for any competitive cyclist.
 
 ## 1. The Fundamental Shift: Road Racing vs. Criterium Racing
 

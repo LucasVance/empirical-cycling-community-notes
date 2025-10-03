@@ -7,7 +7,7 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-6-2021
 
 # An Analysis of Professional Cycling Coaching & Training Strategy
 
-### Based on a conversation between Coley Moore and Ingvar Omarsson
+### Based on a conversation between Kolie Moore and Ingvar Omarsson
 
 This document deconstructs the key concepts discussed in the podcast, providing a detailed look into the methodology behind coaching an elite cyclist. The conversation serves as a practical case study in season review, future planning, and the complex interplay of physiology, psychology, and life logistics.
 

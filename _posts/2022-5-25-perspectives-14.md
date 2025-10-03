@@ -7,9 +7,9 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-14-kit
 
 # The Empirical Mind: A Deep Dive into Training, Recovery, and Sports Science
 
-**An analysis of the core concepts from the Empirical Cycling Podcast discussion between Coley Moore and Matthew DeRosch.**
+**An analysis of the core concepts from the Empirical Cycling Podcast discussion between Kolie Moore and Matthew DeRosch.**
 
-This document provides a detailed breakdown of the key themes and concepts explored in the conversation between Empirical Cycling host Coley Moore and coach/former MMA fighter Matthew DeRosch. Their discussion offers a masterclass in first-principles thinking, moving beyond sport-specific dogma to explore the universal underpinnings of athletic performance, recovery, and the intelligent application of science.
+This document provides a detailed breakdown of the key themes and concepts explored in the conversation between Empirical Cycling host Kolie Moore and coach/former MMA fighter Matthew DeRosch. Their discussion offers a masterclass in first-principles thinking, moving beyond sport-specific dogma to explore the universal underpinnings of athletic performance, recovery, and the intelligent application of science.
 
 ### **1. The Invisible Injury: Neurological Consequences of Combat Sports**
 

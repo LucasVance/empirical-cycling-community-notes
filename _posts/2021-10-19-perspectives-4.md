@@ -7,7 +7,7 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-4-high
 
 # A Detailed Exploration of Psychological Principles in Coaching
 
-This document breaks down the core concepts from the podcast conversation between Coley Moore and Patrick Smith, a PhD student in behavior analysis and endurance coach. The discussion offers a framework for understanding the psychological dynamics of the coach-athlete relationship and provides powerful tools for enhancing athletic performance and well-being.
+This document breaks down the core concepts from the podcast conversation between Kolie Moore and Patrick Smith, a PhD student in behavior analysis and endurance coach. The discussion offers a framework for understanding the psychological dynamics of the coach-athlete relationship and provides powerful tools for enhancing athletic performance and well-being.
 
 ### 1. The Foundation: Establishing a Shared Language
 

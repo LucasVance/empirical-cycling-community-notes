@@ -9,7 +9,7 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-11-the
 
 ## Introduction
 
-This document provides an in-depth analysis of the principles of athletic rest and recovery as discussed in a conversation between two elite cycling coaches, Coleen Moore and Adam Pulford. Moving beyond simplistic maxims, they explore the nuanced interplay between physiological stress, psychological state, and performance adaptation. The core thesis of their discussion is that **rest is not the absence of training, but an active and critical component of it**. For an athlete to improve, the application of rest must be as deliberate and individualized as the application of stress.
+This document provides an in-depth analysis of the principles of athletic rest and recovery as discussed in a conversation between two elite cycling coaches, Kolie Moore and Adam Pulford. Moving beyond simplistic maxims, they explore the nuanced interplay between physiological stress, psychological state, and performance adaptation. The core thesis of their discussion is that **rest is not the absence of training, but an active and critical component of it**. For an athlete to improve, the application of rest must be as deliberate and individualized as the application of stress.
 
 ## 1. Redefining "Recovery": The Purpose of Easy Days
 

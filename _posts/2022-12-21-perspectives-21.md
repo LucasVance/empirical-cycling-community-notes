@@ -8,7 +8,7 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-21-beh
 
 # Cycling Performance Masterclass: A Deep Dive
 
-This document provides a detailed analysis of the advanced concepts in cycling training, strategy, and physiology as discussed in the Empirical Cycling Podcast featuring host Coleen Moore and elite cyclist Cory Lockwood. It's structured for an audience that appreciates both the scientific underpinnings and the practical application of high-performance principles.
+This document provides a detailed analysis of the advanced concepts in cycling training, strategy, and physiology as discussed in the Empirical Cycling Podcast featuring host Kolie Moore and elite cyclist Cory Lockwood. It's structured for an audience that appreciates both the scientific underpinnings and the practical application of high-performance principles.
 
 ## 1. The Physiology of Altitude and Performance
 

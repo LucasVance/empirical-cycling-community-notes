@@ -9,7 +9,7 @@ podcast_url: "https://soundcloud.com/empiricalcyclingpodcast/perspectives-17-evo
 
 ## Introduction
 
-This document provides a comprehensive educational breakdown of the core concepts discussed in a podcast interview between Koli Moore of _Empirical Cycling_ and Mikael Eriksson of _Scientific Triathlon_. The conversation offers a masterclass in the philosophy of modern endurance coaching, the practical application of sports science, and the specific challenges of triathlon training. It is intended for students, athletes, and coaches seeking a deeper understanding beyond surface-level tips, focusing on the principles and critical thinking that underpin elite performance and coaching excellence.
+This document provides a comprehensive educational breakdown of the core concepts discussed in a podcast interview between Kolie Moore of _Empirical Cycling_ and Mikael Eriksson of _Scientific Triathlon_. The conversation offers a masterclass in the philosophy of modern endurance coaching, the practical application of sports science, and the specific challenges of triathlon training. It is intended for students, athletes, and coaches seeking a deeper understanding beyond surface-level tips, focusing on the principles and critical thinking that underpin elite performance and coaching excellence.
 
 ## Part 1: The Philosophy of an Evolving Coach
 

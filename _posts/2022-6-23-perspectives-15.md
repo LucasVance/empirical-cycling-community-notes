@@ -44,7 +44,7 @@ The podcast delves deep into the controversial topic of lifting during the compe
 
 ## The Concurrent Training Effect and Auto-Regulation
 
-The host, Coley Moore, brings up the "concurrent training effect," a well-documented phenomenon where high volumes of both endurance and strength training can interfere with each other, typically blunting strength adaptations in favor of endurance ones.
+The host, Kolie Moore, brings up the "concurrent training effect," a well-documented phenomenon where high volumes of both endurance and strength training can interfere with each other, typically blunting strength adaptations in favor of endurance ones.
 
 -   **Practical Implications:** This scientific principle supports the authors' practical recommendations. When an athlete's endurance performance stagnates or they consistently fail to hit their numbers in key workouts, it's a sign that the overall training stress is too high. The first variable to adjust is often the intensity and volume of the strength training.
     
