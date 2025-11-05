@@ -14,6 +14,19 @@ title: Empirical Cycling Community Notes
 >
 > If you notice any errors or missing context, please [contact me](mailto:lucas.vance@protonmail.com) or make a pull request on Github.
 
+### Recommended
+
+<p>
+    {% for r_post in site.data.recommended %}
+        {% for post in site.posts %}
+            {% if post.slug == r_post %}
+                {% assign pretty_category = site.data.categories[post.category] %}
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ pretty_category }} {{ post.title }}</a><br>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</p>
+
 ### Recent
 
 <p>
